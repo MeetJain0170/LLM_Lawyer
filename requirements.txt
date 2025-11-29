@@ -1,26 +1,113 @@
-# Core Deep Learning & ML
+# ============================================================================
+# LLM Lawyer - Complete Requirements File
+# ============================================================================
+# This file contains all dependencies needed for the LLM Lawyer project.
+# Install with: pip install -r requirements.txt
+#
+# For GPU support with Flash Attention, see installation notes below.
+# ============================================================================
+
+# ----------------------------------------------------------------------------
+# Core Deep Learning & ML Framework
+# ----------------------------------------------------------------------------
 torch>=2.0.0
 numpy>=1.24.0
 
-# HuggingFace Tokenizers
+# ----------------------------------------------------------------------------
+# HuggingFace Ecosystem
+# ----------------------------------------------------------------------------
 tokenizers>=0.15.0
+# Optional: Uncomment if using HuggingFace transformers
+# transformers>=4.30.0
+# datasets>=2.12.0
+# accelerate>=0.20.0
 
+# ----------------------------------------------------------------------------
+# Model Optimization (GPU Acceleration)
+# ----------------------------------------------------------------------------
+# Flash Attention - Optional but recommended for GPU training
+# Note: Requires CUDA 11.8+ and specific installation
+# Install separately: pip install flash-attn --no-build-isolation
+# Or use: pip install flash-attn==2.5.6 (if compatible with your CUDA)
+# flash-attn>=2.5.0  # Uncomment if you have CUDA 11.8+ installed
+
+# Safe model serialization
+safetensors>=0.3.0
+
+# ----------------------------------------------------------------------------
+# Tokenization
+# ----------------------------------------------------------------------------
+# SentencePiece tokenizer (optional, for some tokenizer implementations)
+sentencepiece>=0.1.99
+
+# ----------------------------------------------------------------------------
 # Web Framework & API
+# ----------------------------------------------------------------------------
 flask>=2.3.0
 flask-cors>=4.0.0
 
-# Google AI (Gemini)
+# ----------------------------------------------------------------------------
+# Google AI Services
+# ----------------------------------------------------------------------------
 google-generativeai>=0.3.0
 
+# ----------------------------------------------------------------------------
 # HTTP & Web Scraping
+# ----------------------------------------------------------------------------
 requests>=2.31.0
 aiohttp>=3.9.0
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
 
+# ----------------------------------------------------------------------------
 # PDF Processing
+# ----------------------------------------------------------------------------
 pdfminer.six>=20221105
 
-# Utilities
+# ----------------------------------------------------------------------------
+# Utilities & Progress Bars
+# ----------------------------------------------------------------------------
 tqdm>=4.66.0
+packaging>=23.0
 
+# ----------------------------------------------------------------------------
+# Development & Build Tools (Optional)
+# ----------------------------------------------------------------------------
+# Uncomment if you need these for development
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.5.0
+
+# ============================================================================
+# Installation Notes
+# ============================================================================
+#
+# 1. BASIC INSTALLATION (CPU only):
+#    pip install -r requirements.txt
+#
+# 2. GPU INSTALLATION (PyTorch with CUDA):
+#    # First, install PyTorch with CUDA from pytorch.org
+#    # For CUDA 11.8:
+#    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+#    # For CUDA 12.1:
+#    pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+#    
+#    # Then install other requirements
+#    pip install -r requirements.txt
+#
+# 3. FLASH ATTENTION (Optional, for faster training):
+#    # Requires CUDA 11.8+ and specific build setup
+#    # Install after PyTorch:
+#    pip install flash-attn --no-build-isolation
+#    # Or with specific version:
+#    pip install flash-attn==2.5.6 --no-build-isolation
+#
+# 4. VERIFY INSTALLATION:
+#    python3 -c "import torch; print(f'PyTorch: {torch.__version__}')"
+#    python3 -c "import torch; print(f'CUDA Available: {torch.cuda.is_available()}')"
+#    python3 -c "import tokenizers; print('Tokenizers: OK')"
+#    python3 -c "import flask; print('Flask: OK')"
+#    python3 -c "import google.generativeai; print('Google AI: OK')"
+#
+# ============================================================================

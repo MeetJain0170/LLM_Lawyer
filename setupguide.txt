@@ -1,0 +1,13 @@
+Read the install.md too for proper guidance
+
+Basic (CPU only):
+
+pip install -r requirements.txt
+
+With GPU support:
+pip install -r requirements.txt# Then install PyTorch with CUDA from pytorch.orgpip install -r requirements-gpu.txt
+
+Full development setup:
+pip install -r requirements.txtpip install -r requirements-dev.txt
+
+All files include comments and installation notes. The main requirements.txt is organized by category for easier maintenance.

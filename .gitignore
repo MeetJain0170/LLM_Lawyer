@@ -41,6 +41,12 @@ backend/data/**/*.jsonl
 backend/data/**/*.bin
 backend/data/**/*.txt
 backend/data/**/*.pkl
+backend/data/legal/
+backend/data/books/
+backend/data/grammar/
+backend/data/novels/
+backend/data/legal_commentary/
+backend/data/qa_pairs/
 
 ##############################
 # SCRAPER OUTPUTS
