@@ -1,0 +1,116 @@
+{
+    "Act Title": "THE BANKERS\u2019 BOOKS EVIDENCE ACT, 1891",
+    "Act ID": "ACT NO. 18 OF 1891",
+    "Enactment Date": "[1st October, 1890.]",
+    "Act Definition": {
+        "0": "An Act to amend the Law of Evidence with respect to Bankers\u2019 Books.",
+        "1": "WHEREAS it is expedient to amend the Law of Evidence with respect to Bankers\u2019 books"
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Bankers\u2019 Books Evidence Act, 1891.",
+                "1": "(2) It 1extends to the whole of India 2[except the State of Jammu and Kashmir]; 3***",
+                "2": "4* * * * *"
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless there is something repugnant in the subject or context,\u2014",
+                    "contains": {
+                        "0": "5[(1) \u201ccompany\u201d means any company as defined in section 3 of the Companies Act, 1956 (1 of 1956), and includes a foreign company within the meaning of section 591 of that Act;",
+                        "1": "(1A) \u201ccorporation\u201d means any body corporate established by any law for the time being in force in India and includes the Reserve Bank of India, the State Bank of India and any subsidiary bank as defined in the State Bank of India (Subsidiary Banks) Act, 1959 (38 of 1959);]",
+                        "2": {
+                            "text": "(2) \u201cbank\u201d and \u201cbanker\u201d mean\u2014",
+                            "contains": {
+                                "0": "6[(a) any company or corporation carrying on the business of banking;]",
+                                "1": "(b) any partnership or individual to whose books the provisions of this Act shall have been extended as hereinafter provided;",
+                                "2": "7[(c) any post office savings bank or money order office;]"
+                            }
+                        },
+                        "3": "(3) \u201cbankers\u2019 books\u201d include ledgers, day-books, cash-books, account-books and all other books used in the ordinary business of a bank;",
+                        "4": {
+                            "text": "8[(4) \u201clegal proceeding\u201d means,\u2014",
+                            "contains": {
+                                "0": "(i) any proceeding or inquiry in which evidence is or may be given;",
+                                "1": "(ii) an arbitration; and",
+                                "2": "(iii) any investigation or inquiry under the Code of Criminal Procedure, 1973 (2 of 1974), or under any other law for the time being in force for the collection of evidence, conducted by a police officer or by any other person (not being a magistrate) authorised in this behalf by a magistrate or by any law for the time being in force;]"
+                            }
+                        },
+                        "5": "(5) \u201cthe Court\u201d means the person or persons before whom a legal proceeding is held or taken;",
+                        "6": "(6) \u201cJudge\u201d means a Judge of a High Court Division;",
+                        "7": "(7) \u201ctrial\u201d means any hearing before the Court at which evidence is taken; and",
+                        "8": "(8) \u201ccertified copy\u201d means a copy of any entry in the books of a bank together with a certificate written at the foot of such copy that it is a true copy of such entry, that such entry is contained in one of the ordinary books of the bank and was made in the usual and ordinary course of business, and that such book is still in the custody of the bank, 1[and where the copy was obtained by a mechanical or other process which in itself ensured the accuracy of the copy, a further certificate to that effect, but where the book from which such copy was prepared has been destroyed in the usual course of the bank\u2019s business after the date on which the copy had been so prepared, a further certificate to that effect, each such certificate being dated and subscribed by the principal accountant or manager of the bank with his name and official title]."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Power to extend provisions of Act.",
+            "paragraphs": {
+                "0": "The State Government may, from time to time, by notification in the Official Gazette, extend the provisions of this Act to the books of any partnership or individual carrying on the business of bankers within the territories under its administration, and keeping a set of not less than three ordinary account-books, namely, a cashbook, a day-book or journal, and a ledger, and may in like manner rescind any such notification."
+            }
+        },
+        "Section 4.": {
+            "heading": "Mode of proof of entries in bankers\u2019 books.",
+            "paragraphs": {
+                "0": "Subject to the provisions of this Act, a certified copy of any entry in a banker\u2019s book shall in all legal proceedings be received as prima facie evidence of the existence of such entry, and shall be admitted as evidence of the matters, transactions and accounts therein recorded in every case where, and to the same extent as, the original entry itself is now by law admissible, but not further or otherwise."
+            }
+        },
+        "Section 5.": {
+            "heading": "Case in which officer of bank not compellable to produce books.",
+            "paragraphs": {
+                "0": "No officer of a bank shall in any legal proceeding to which the bank is not a party be compellable to produce any banker\u2019s book the contents of which can be proved under this Act, or to appear as a witness to prove the matters, transactions and accounts therein recorded, unless by order of the Court or a Judge made for special cause."
+            }
+        },
+        "Section 6.": {
+            "heading": "Inspection of books by order of Court or Judge.",
+            "paragraphs": {
+                "0": "(1) On the application of any party to a legal proceeding the Court or a Judge may order that such party be at liberty to inspect and take copies of any entries in a banker\u2019s book for any of the purposes of such proceeding, or may order the bank to prepare and produce, within a time to be specified in the order, certified copies of all such entries, accompanied by a further certificate that no other entries are to be found in the books of the bank relevant to the matters in issue in such proceeding, and such further certificate shall be dated and subscribed in manner hereinbefore directed in reference to certified copies.",
+                "1": "(2) An order under this or the preceding section may be made either with or without summoning the bank, and shall be served on the bank three clear days (exclusive of bank holidays) before the same is to be obeyed, unless the Court or Judge shall otherwise direct.",
+                "2": "(3) The bank may at any time before the time limited for obedience to any such order as aforesaid either offer to produce their books at the trial or give notice of their intention to show cause against such order, and thereupon the same not be enforced without further order."
+            }
+        },
+        "Section 7.": {
+            "heading": "Costs.",
+            "paragraphs": {
+                "0": "(1) The costs of any application to the Court or a Judge under or for the purposes of this Act and the costs of anything done or to be done under an order of the Court or a Judge made under or for the purposes of this Act shall be in the discretion of the Court or Judge, who may further order such costs or any part thereof to be paid to any party by the bank if they have been incurred in consequence of any fault or improper delay on the part of the bank.",
+                "1": "(2) Any order made under this section for the payment of costs to or by a bank may be enforced as if the bank were a party to the proceeding.",
+                "2": "(3) Any order under this section awarding costs may, on application to any Court of Civil Judicature designated in the order, be executed by such Court as if the order were a decree for money passed by itself:",
+                "3": "Provided that nothing in this sub-section shall be construed to derogate from any power which the Court or Judge making the order may possess for the enforcement of its or his directions with respect to the payment of costs."
+            }
+        },
+        "Section 8.": {
+            "heading": "Order of court to be construed to be order made by specified officer.",
+            "paragraphs": {
+                "0": "In the application of sections 5, 6 and 7 to any investigation or inquiry referred to in sub-clause (iii) of clause (4) of section 2, the order of al Court or a Judge referred to in the said sections shall be construed as referring to an order made by an officer of a rank not lower than the rank of a Superintendent of Police as may be specified in this behalf by the appropriate Government.",
+                "1": "Explanation.\u2014In the this section, \u201cappropriate Government\u201d means the Government by which the police officer or any other person conducting the investigation or inquiry is employed.]"
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. The Act has been extended in its application to the whole of the Union territory of Lakshadweep (with effect from 1-10-1967)vide Reg. 8 of 1965, s. 3 and the Schedule and to the Union territory of Pondicherry by Act 26 of 1968, s. 3 and the Schedule.This Act shall apply in relation to the Development Banks as if that were a bank as defined in section 2 of this Act, vide Act 18of 1964, s. 33.",
+            "1": "2. Subs. by Act 3 of 1951, s. 3 and the Schedule, for \u201cexcept Part B State\u201d.",
+            "2": "3. The word \u201cand\u201d rep. by Act 10 of 1914, s. 3 and the Second Schedule.",
+            "3": "4. Sub-section (3) rep. by s. 3 and the Second Schedule, ibid.",
+            "4": "5. Subs. by Act 56 of 1962, s. 4, for clause (1).",
+            "5": "6. Subs. by s. 4, ibid., for sub-clause (a)",
+            "6": "7. Added by Act 1 of 1893, s. 2.",
+            "7": "8. Subs. by Act 1 of 1984, s. 2, for clause (4) (w.e.f. 15-2-1984)."
+        },
+        "Page 3": {
+            "0": "1. Subs. by Act 1 of 1984, s. 2, for certain words (w.e.f. 15-2-1984)."
+        },
+        "Page 4": {
+            "0": "1. Ins. by Act 1 of 1984, s. 2 (w.e.f. 15-2-1984)."
+        }
+    }
+}

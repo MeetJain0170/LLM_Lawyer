@@ -1,0 +1,743 @@
+{
+    "Act Title": "THE INSTITUTES OF TECHNOLOGY ACT, 1961",
+    "Act ID": "ACT NO. 59 OF 1961",
+    "Enactment Date": "[19th December, 1961.]",
+    "Act Definition": {
+        "0": "An Act to declare certain institutions of technology to be institutions of national importance and to provide for certain matters connected with such institutions and the Indian Institute of Technology, Kharagpur."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Institutes of Technology Act, 1961.",
+                        "1": "(2) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Act."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Declaration of certain institutions as institutions of national importance.",
+                    "paragraphs": {
+                        "0": "Whereas the objects of the institutions known as the Indian Institute of Technology, Bombay, 2[the College of Engineering and Technology, Delhi,] 3[the Indian Institute of Technology, Guwahati, Assam] the Indian Institute of Technology, 4[Kanpur, the Indian Institute of Technology, Madras 5[the Indian Institute of Technology, Roorkee]], the Indian Institute of Technology, Bhubaneswar, the Indian Institute of Technology, Gandhi Nagar, the Indian Institute of Technology, Hyderabad, the Indian Institute of Technology, Indore, the Indian Institute of Technology, Jodhpur, the Indian Institute of Technology, Mandi, the Indian Institute of Technology, Patna, the Indian Institute of Technology, Ropar 6[and the Indian Institute of Technology (Banaras Hindu University), Varanasi] are such as to make them institutions of national importance, it is hereby declared that each such institution is an institution of national importance."
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cBoard\u201d, in relation to any Institute, means the Board of Governors thereof;",
+                                "1": "(b) \u201cChairman\u201d means the Chairman of the Board;",
+                                "2": {
+                                    "text": "(c) \u201ccorresponding Institute\u201d means,\u2014",
+                                    "contains": {
+                                        "0": "(i) in relation to the society known as the Indian Institute of Technology, Bombay, the Indian Institute of Technology, Bombay;",
+                                        "1": "7[(ia) in relation to the society known as the College of Engineering and Technology, Delhi, the Indian Institute of Technology, Delhi;]",
+                                        "2": "8[(ib) in relation to the society known as the Indian Institute of Technology, Guwahati, Assam, the Indian Institute of Technology, Guwahati.]",
+                                        "3": "(ii) in relation to the society known as the Indian Institute of Technology (Kanpur) Society, the Indian Institute of Technology, Kanpur, 1***",
+                                        "4": "(iii) in relation to the society known as the Indian Institute of Technology, Madras, the Indian Institute of Technology Madras;",
+                                        "5": "2[(iv) in relation to the University of Roorkee, Roorkee, the Indian Institute of Technology, Roorkee;]",
+                                        "6": "3[(v) in relation to the society known as the Indian Institute of Technology, Bhubaneswar, the Indian Institute of Technology, Bhubaneswar;",
+                                        "7": "(vi) in relation to the society known as the Indian Institute of Technology, Gandhinagar, the Indian Institute of Technology, Gandhinagar;",
+                                        "8": "(vii) in relation to the society known as the Indian Institute of Technology, Hyderabad, the Indian Institute of Technology, Hyderabad;",
+                                        "9": "(viii) in relation to the society known as the Indian Institute of Technology, Indore, the Indian Institute of Technology, Indore;",
+                                        "10": "(ix) in relation to the society known as the Indian Institute of Technology, Rajasthan, the Indian Institute of Technology, Jodhpur;",
+                                        "11": "(x) in relation to the society known as the Indian Institute of Technology, Mandi, the Indian Institute of Technology, Mandi;",
+                                        "12": "(xi) in relation to the society known as the Indian Institute of Technology, Patna, the Indian Institute of Technology, Patna;",
+                                        "13": "(xii) in relation to the society known as the Indian Institute of Technology, Punjab, the Indian Institute of Technology, Ropar;",
+                                        "14": "(xiii) in relation to the Institute of Technology, Banaras Hindu University, referred to in Statute 25(A)(1) of the Statutes set out in the Schedule to the Banaras Hindu University Act, 1915 (16 of 1915), the Indian Institute of Technology (Banaras Hindu University), Varanasi;]",
+                                        "15": "4[(xiv) in relation to the society known as the Indian Institute of Technology, Tirupati, the Indian Institute of Technology, Tirupati;",
+                                        "16": "(xv) in relation to the society known as the Indian Institute of Technology, Palakkad, the Indian Institute of Technology, Palakkad;",
+                                        "17": "(xvi) in relation to the society known as the Indian Institute of Technology, Goa, the Indian Institute of Technology, Goa;",
+                                        "18": "(xvii) in relation to the society known as the Indian Institute of Technology, Dharwar, the Indian Institute of Technology, Dharwad;",
+                                        "19": "(xviii) in relation to the society known as the Indian Institute of Technology, Bhilai, the Indian Institute of Technology, Bhilai;",
+                                        "20": "(xix) in relation to the society known as the Indian Institute of Technology, Jammu, the Indian Institute of Technology, Jammu;",
+                                        "21": "(xx) in relation to the society known as the Indian School of Mines, Dhanbad, the Indian Institute of Technology (Indian School of Mines), Dhanbad.]"
+                                    }
+                                },
+                                "3": "(d) \u201cCouncil\u201d means the Council established under sub-section (1) of section 31;",
+                                "4": "(e) \u201cDeputy Director\u201d, in relation to any Institute, means the Deputy Director thereof;",
+                                "5": "(f) \u201cDirector\u201d, in relation to any Institute, means the Director thereof;",
+                                "6": "(g) \u201cInstitute\u201d means any of the Institutions mentioned in section 2 and includes the Indian Institute of Technology, Kharagpur, incorporated under the Indian Institute of Technology (Kharagpur) Act, 1956 (5 of 1956);",
+                                "7": "1[(ga) \u201cInstitute of Technology, Banaras Hindu University\u201d means the Institute of Technology, Banaras Hindu University, referred to in Statute 25(A)(1) of the Statutes set out in the Schedule to the Banaras Hindu University Act, 1915 (16 of 1915);]",
+                                "8": "2[(gb) \u201cIndian School of Mines, Dhanbad\u201d means the society known as the Indian School of Mines, Dhanbad;]",
+                                "9": "(h) \u201cRegistrar\u201d, in relation to any Institute, means the Registrar thereof;",
+                                "10": "(i) \u201cSenate\u201d, in relation to any Institute, means the Senate thereof;",
+                                "11": {
+                                    "text": "(j) \u201csociety\u201d means any of the following societies registered under the Societies Registration Act, 1860, (21 of 1860) namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) the Indian Institute of Technology, Bombay;",
+                                        "1": "3[(ia) the College of Engineering and Technology, Delhi;]",
+                                        "2": "4[(ib) the Indian Institute of Technology, Guwahati, Assam,]",
+                                        "3": "(ii) the Indian Institute of Technology (Kanpur) Society;",
+                                        "4": "(iii) the Indian Institute of Technology, Madras;",
+                                        "5": "1[(iv) the Indian Institute of Technology, Bhubaneswar;",
+                                        "6": "(v) the Indian Institute of Technology, Gandhinagar;",
+                                        "7": "(vi) the Indian Institute of Technology, Hyderabad;",
+                                        "8": "(vii) the Indian Institute of Technology, Indore;",
+                                        "9": "(viii) the Indian Institute of Technology, Rajasthan;",
+                                        "10": "(ix) the Indian Institute of Technology, Mandi;",
+                                        "11": "(x) the Indian Institute of Technology, Patna;",
+                                        "12": "(xi) the Indian Institute of Technology, Punjab;]",
+                                        "13": "2[(xii) the Indian Institute of Technology, Tirupati;",
+                                        "14": "(xiii) the Indian Institute of Technology, Palakkad;",
+                                        "15": "(xiv) the Indian Institute of Technology, Goa;",
+                                        "16": "(xv) the Indian Institute of Technology, Dharwad;",
+                                        "17": "(xvi) the Indian Institute of Technology, Bhilai;",
+                                        "18": "(xvii) the Indian Institute of Technology, Jammu;",
+                                        "19": "(xviii) the Indian School of Mines, Dhanbad;]"
+                                    }
+                                },
+                                "12": "(k) \u201cStatutes\u201d and \u201cOrdinances\u201d, in relation to any Institute, mean the Statutes and Ordinances of the Institute made under this Act.",
+                                "13": "1[(l) \u201cUniversity of Roorkee\u201d means the University of Roorkee established under the Roorkee University Act, 1947 (U.P. Act IX of 1948);]",
+                                "14": "2[(m) \u201czone\u201d, in relation to an Institute, means such group of States and Union territories as the Central Government may, by notification in the Official Gazette, specify.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "THE INSTITUTES",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Incorporation of institutes.",
+                    "paragraphs": {
+                        "0": "(1) Each of the Institutes mentioned in section 2 shall be a body corporate having perpetual succession and a common seal and shall, by its name, sue and be sued.",
+                        "1": "3[(1A) The College of Engineering and Technology, Delhi shall, on such incorporation, be called the Indian Institute of Technology, Delhi.]",
+                        "2": "4[(1B) The Indian Institute of Technology, Guwahati Assam shall, on such incorporation, be called the Indian Institute of Technology, Guwahati.]",
+                        "3": "5[(1C) The University of Roorkee, Roorkee shall, on such incorporation, be called the Indian Institute of Technology, Roorkee.]",
+                        "4": "6[(1D) The Institute of Technology, Banaras Hindu University shall, on such incorporation, be called the Indian Institute of Technology (Banaras Hindu University), Varanasi.]",
+                        "5": "7[(IE) The Indian School of Mines, Dhanbad shall, on such incorporation, be called the Indian Institute of Technology (Indian School of Mines), Dhanbad.]",
+                        "6": "(2) The body corporate constituting each of the said Institutes shall consist of a Chairman, a Director and other members of the Board for the time being of the Institute."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Effect of incorporation of institutes.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "On and from the commencement of this Act,\u2014",
+                            "contains": {
+                                "0": "(a) any reference to a society in any law (other than this Act) or in any contract or other instrument shall be deemed as a reference to the corresponding Institute;",
+                                "1": "(b) all property, movable and immovable, of or belonging to a society shall vest in the corresponding Institute;",
+                                "2": "(c) all the rights and liabilities of a society shall be transferred to, and be the rights and liabilities of, the corresponding Institute; and",
+                                "3": "(d) every person employed by a society immediately before such commencement shall hold his office or service in the corresponding Institute by the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension, leave, gratuity, provident fund and other matters as he would have held the same if this Act had not been passed, and shall continue to do so unless and until his employment is terminated or until such tenure, remuneration and terms and conditions are duly altered by the Statutes:",
+                                "4": "Provided that if the alternation so made is not acceptable to such employee, his employment may be terminated by the Institute in accordance with the terms of the contract with the employee or, if no provision is made therein in this behalf, on payment to him by the Institute of compensation equivalent to three months\u2019 remuneration in the case of permanent employees and one month\u2019s remuneration in the case of other employees.",
+                                "5": "8[9[Explanation 1.]\u2014The reference in the section to the commencement of this Act shall be construed in relation to the Indian Institute of Technology, Guwahati as the reference to the date on which the provisions of the Institutes of Technology (Amendment) Act, 1994) come into force.]",
+                                "6": "1[Explanation 2.\u2014The reference in this section to the commencement of this Act shall be construed in relation to the Indian Institute of Technology, Bhubaneswar, the Indian Institute of Technology, Gandhinagar, the Indian Institute of Technology, Hyderabad, the Indian Institute of Technology, Indore, the Indian Institute of Technology, Jodhpur, the Indian Institute of Technology, Mandi, the Indian Institute of Technology, Patna and the Indian Institute of Technology, Ropar, as the reference to the date on which the provisions of the Institutes of Technology (Amendment) Act, 2012 come into force.]",
+                                "7": "2[Explanation 3.\u2014The reference in this section to the commencement of this Act shall be construed in relation to the Indian Institute of Technology, Tirupati, the Indian Institute of Technology, Palakkad, the Indian Institute of Technology, Goa, the Indian Institute of Technology, Dharwad, the Indian Institute of Technology, Bhilai, the Indian Institute of Technology, Jammu, and the Indian Institute of Technology (Indian School of Mines) Dhanbad, as the reference to the date on which the provisions of the Institutes of Technology (Amendment) Act, 2016 come into force.]"
+                            }
+                        }
+                    }
+                },
+                "Section 5A.": {
+                    "heading": "Effect of incorporation of Institute of Technology, Roorkee.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "On and from the commencement of the Institutes of Technology (Amendment) Act, 2002 (16 of 2002),\u2014",
+                            "contains": {
+                                "0": "(a) any reference to the University of Roorkee in any law (other than this Act) or in any contract or other instrument shall be deemed as a reference to the Indian Institute of Technology, Roorkee;",
+                                "1": "(b) all property, movable and immovable, of or belonging to the University of Roorkee, shall vest in the Indian Institute of Technology, Roorkee;",
+                                "2": "(c) all rights and liabilities of the University of Roorkee shall be transferred to, and be the rights and liabilities of, the Indian Institute of Technology, Roorkee;",
+                                "3": "(d) every person employed by the University of Roorkee immediately before such commencement shall hold his office or service in the Indian Institute of Technology, Roorkee by the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension, leave, gratuity, provident fund and other matters as he would have held the same if this Act had not been passed, and shall continue to do so unless and until his employment is terminated or until such tenure, remuneration and terms and conditions are duly altered by the Statutes:",
+                                "4": "Provided that if the alteration so made is not acceptable to such employee, his employment may be terminated by the Indian Institute of Technology, Roorkee in accordance with the terms of the contract with the employee or, if no provision is made therein in this behalf, on payment to him by the Indian Institute of Technology, Roorkee of compensation equivalent to three months\u2019 remuneration in the case of permanent employees and one month\u2019s remuneration in the case of other employees:",
+                                "5": "Provided further that any reference, by whatever form of words, to the Vice-Chancellor and Pro-Vice-Chancellor of the University of Roorkee in any law for the time being in force, or in any instrument or other document, shall be construed as a reference to the Director and the Deputy Director, respectively, of the Indian Institute of Technology, Roorkee; and",
+                                "6": "(e) on the commencement of the Institutes of Technology (Amendment) Act, 2002 (16 of 2002), the Vice-Chancellor of the University of Roorkee, appointed under the provisions of the Roorkee University Act, 1947 (U.P. Act IX of 1948) shall be deemed to have been appointed as Director under the Act, and shall hold office for a period of three months or till such time the Director is appointed, whichever is earlier."
+                            }
+                        },
+                        "1": "Explanation.\u2014The reference in this section to the commencement of this Act shall be construed in relation to the Indian Institute of Technology, Roorkee as the reference to the date on which the provisions of the Institutes of Technology (Amendment) Act, 2002 (16 of 2002) come into force.]"
+                    }
+                },
+                "Section 5B.": {
+                    "heading": "Effect of incorporation of Indian Institute of Technology (Banaras Hindu University), Varanasi.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "On and from the commencement of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012),\u2014",
+                            "contains": {
+                                "0": "(a) any reference to the Institute of Technology, Banaras Hindu University in any law for the time being in force (other than this Act) or in any contract or other instrument shall be deemed as a reference to the Indian Institute of Technology (Banaras Hindu University), Varanasi;",
+                                "1": "(b) all property, movable and immovable, of or belonging to the Institute of Technology, Banaras Hindu University, shall vest in the Indian Institute of Technology (Banaras Hindu University), Varanasi;",
+                                "2": "(c) all rights and liabilities of the Institute of Technology, Banaras Hindu University shall be transferred to, and be the rights and liabilities of, the Indian Institute of Technology (Banaras Hindu University), Varanasi;",
+                                "3": "(d) every person employed in the Institute of Technology, Banaras Hindu University immediately before such commencement shall hold his office or service in the Indian Institute of Technology (Banaras Hindu University), Varanasi by the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension, leave, gratuity, provident fund and other matters as he would have held the same if this Act had not been passed and shall continue to do so unless and until his employment is terminated or until such tenure, remuneration and terms and conditions are duly altered by the Statutes:",
+                                "4": "Provided that if the alteration so made is not acceptable to such employee, his employment may be terminated by the Indian Institute of Technology (Banaras Hindu University), Varanasi in accordance with the terms of the contract with the employee or, if no provision is made therein in this behalf, on payment to him by the Indian Institute of Technology (Banaras Hindu University), Varanasi of compensation equivalent to three months\u2019 remuneration in the case of permanent employees and one month\u2019s remuneration in the case of other employees:",
+                                "5": "Provided further that any reference, by whatever form of words, to the Director of the Institute of Technology, Banaras Hindu University in any law for the time being in force, or in any instrument or other document, shall be construed as a reference to the Director of the Indian Institute of Technology (Banaras Hindu University), Varanasi; and",
+                                "6": {
+                                    "text": "(e) on the commencement of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012)\u2014",
+                                    "contains": {
+                                        "0": "(i) the Vice-Chancellor of the Banaras Hindu University, appointed under the provisions of the Banaras Hindu University Act, 1915 (16 of 1915) shall be deemed to have been appointed as ex officio Chairman of the Board of Governors of the Indian Institute of Technology (Banaras Hindu University), Varanasi under this Act, and shall hold office for a period of three years with effect from such commencement;",
+                                        "1": "(ii) the Director of the Institute of Technology, Banaras Hindu University, appointed under the provisions of the Banaras Hindu University Act, 1915 (16 of 1915) shall be deemed to have been appointed as Director of the Indian Institute of Technology (Banaras Hindu University), Varanasi under this Act, and shall hold his office till Director is appointed under this Act."
+                                    }
+                                }
+                            }
+                        },
+                        "1": "Explanation.\u2014The reference in this section to the commencement of this Act shall be construed in relation to the Indian Institute of Technology (Banaras Hindu University), Varanasi as the reference to the date on which the provisions of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012) come into force.]"
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Powers of Institutes.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Subject to the provisions of this Act, every Institute shall exercise the following powers and perform the following duties, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to provide for instruction and research in such branches of engineering and technology, sciences and arts, as the Institute may think fit, and for the advancement of learning and dissemination of knowledge in such branches;",
+                                "1": "(b) to hold examinations and grant degrees, diplomas and other academic distinctions or titles;",
+                                "2": "(c) to confer honorary degrees or other distinctions;",
+                                "3": "(d) to fix, demand and receive fees and other charges;",
+                                "4": "(e) to establish, maintain and manage halls and hostels for the residence of students;",
+                                "5": "(f) to supervise and control the residence and regulate the discipline of students of the Institute and to make arrangements for promoting their health, general welfare and cultural and corporate life;",
+                                "6": "(g) to provide for the maintenance of units of the National Cadet Corps for the students of the Institute;",
+                                "7": "(h) to institute academic and other posts and to make appointments thereto (except in the case of the Director) ;",
+                                "8": "(i) to frame Statutes and Ordinances and to alter, modify or rescind the same;",
+                                "9": "(j) to deal with any property belonging to or vested in the Institute in such manner as the Institute may deem fit for advancing the objects of the Institute;",
+                                "10": "(k) to receive gifts, grants, donations or benefactions from the Government and to receive bequests, donations and transfers of movable or immovable properties from testators, donors or transferors, as the case may be;",
+                                "11": "(l) to co-operate with educational or other institutions in any part of the world having objects wholly or partly similar to those of the Institute by exchange of teachers and scholars and generally in such manner as may be conducive to their common objects;",
+                                "12": "(m) to institute and award fellowships, scholarships, exhibitions, prizes and medals; and",
+                                "13": "(n) to do all such things as may be necessary, incidental or conducive to the attainment of all or any of the objects of the Institute."
+                            }
+                        },
+                        "1": {
+                            "text": "1[(1A) subject to the provisions of this Act, every Institute may strive to meet the technological needs of the States and the Union territories included in its zone by\u2014",
+                            "contains": {
+                                "0": "(a) supporting and collaborating with technical education institutions located in the zone with a view to enhance their quality and capability;",
+                                "1": "(b) advising the State Governments and the Union territories included in its zone in the matter of technical education and any technological issue referred by them to the Institute for advice.]"
+                            }
+                        },
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), an Institute shall not dispose of in any manner any immovable property without the prior approval of the Visitor."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Institutes to be open to all races, creeds and classes.",
+                    "paragraphs": {
+                        "0": "(1) Every Institute shall be open to persons of either sex an of whatever race, creed, caste or class, and no test or condition shall be imposed as to religious belief or profession in admitting or appointing members, students, teachers or workers or in any other connection whatsoever.",
+                        "1": "(2) No bequest, donation or transfer of any property shall be accepted by any Institute which in the opinion of the Council involves conditions or obligations opposed to the spirit and object of this section."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Teaching at Institute.",
+                    "paragraphs": {
+                        "0": "All teaching at each of the Institutes shall be conducted by or in the name of the Institute in accordance with the Statutes and Ordinances made in this behalf."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Visitor.",
+                    "paragraphs": {
+                        "0": "(1) The President of India shall be the Visitor of every Institute.",
+                        "1": "(2) The Visitor may appoint one or more persons to review the work and progress of any Institute and to hold inquiries into the affairs thereof and to report thereon in such manner as the Visitor may direct.",
+                        "2": "(3) Upon receipt of any such report, the Visitor may take such action and issue such directions as he considers necessary in respect of any of the matters dealt with in the report and the Institute shall be bound to comply with such directions."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Authorities of Institutes.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The following shall be the authorities of an Institute, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a Board of Governors;",
+                                "1": "(b) a Senate; and",
+                                "2": "(c) such other authorities as may be declared by the Statutes to be the authorities of the Institute."
+                            }
+                        }
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Board of Governors.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Board of an Institute shall consist of the following persons, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the Chairman, to be nominated by the Visitor;",
+                                "1": "(b) the Director, ex officio;",
+                                "2": "(c) one person to be nominated by the Government of each of the States comprising the zone in which the Institute is situated, from among persons who, in the opinion of that Government, are technologists or industrialists of repute;",
+                                "3": "(d) four persons having special knowledge or practical experience in respect of education, engineering or science, to be nominated by the Council; and",
+                                "4": "(e) two professors of the Institute, to be nominated by the Senate:"
+                            }
+                        },
+                        "1": {
+                            "text": "1[Provided that in the case of the Indian Institute of Technology (Banaras Hindu University), Varanasi,\u2014",
+                            "contains": {
+                                "0": "(a) the Board of such Institute shall consist of Vice-Chairman to be nominated, after a period of three years from the commencement of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012), by the Executive Council referred to in clause (d) of section 2 of the Banaras Hindu University Act, 1915 (16 of 1915), from amongst its members including its Vice-Chancellor;\u201d",
+                                "1": "(b) four persons to be nominated under clause (d), out of which two persons to be nominated by the Executive Council referred to in clause (d) of section 2 of the Banaras Hindu University Act, 1915 (16 of 1915), from amongst its members including its Vice-Chancellor.]"
+                            }
+                        },
+                        "2": "2* * * * *"
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Term of office of, vacancies among, and allowances payable to, members of Board.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided in this section, the term of office of the Chairman or any other member of the Board shall be three years from the date of his nomination.",
+                        "1": "(2) The term of office of an ex officio member shall continue so long as he holds the office by virtue of which he is a member.",
+                        "2": "(3) The term of office of a member nominated under 3[clause (e)] of section 11 shall be two years from the 1st day of January of the year in which he is nominated.",
+                        "3": "(4) The term of office of a member nominated to fill a casual vacancy shall continue for the remainder of the term of the member in whose place he has been nominated.",
+                        "4": "(5) Notwithstanding anything contained in this section, an outgoing member shall, unless the Council otherwise directs, continue in office until another person is nominated as a member in his place.",
+                        "5": "(6) The members of the Board shall be entitled to such allowances, if any, from the Institute as may be provided for in the Statutes but no member other than the persons referred to in clauses (b) and (e) of section 11 shall be entitled to any salary by reason of this sub-section."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Functions of Board.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, the Board of any Institute shall be responsible for the general superintendence, direction and control of the affairs of the Institute and shall exercise all the powers of the Institute not otherwise provided for by this Act, the Statutes and the Ordinances, and shall have the power to review the acts of the Senate.",
+                        "1": {
+                            "text": "(2) Without prejudice to the provisions of sub-section (1), the Board of any Institute shall\u2014",
+                            "contains": {
+                                "0": "(a) take decisions on questions of policy relating to the administration and working of the Institute;",
+                                "1": "(b) institute courses of study at the Institute;",
+                                "2": "(c) make Statutes;",
+                                "3": "(d) institute and appoint persons to academic as well as other posts in the Institute;",
+                                "4": "(e) consider and modify or cancel Ordinances;",
+                                "5": "(f) consider an pass resolutions on the annual report, the annual accounts and the budget estimates of the Institute for the next financial year as it thinks fit and submit them to the Council together with a statement of its development plans;",
+                                "6": "(g) exercise such other powers and perform such other duties as may be conferred or imposed upon it by this Act or the Statutes."
+                            }
+                        },
+                        "2": "(3) The Board shall have the power to appoint such committees as it considers necessary for the exercise of its powers and the performance of its duties under this Act."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Senate.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Senate of each Institute shall consist of the following persons, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the Director, ex officio, who shall be the Chairman of the Senate;",
+                                "1": "(b) the Deputy Director, ex officio;",
+                                "2": "(c) the professors appointed or recognised as such by the Institute for the purpose of imparting instruction in the Institute;",
+                                "3": "(d) three persons, not being employees of the Institute, to be nominated by the Chairman in consultation with the Director, from among educationists of repute, one each from the fields of science, engineering and humanities; and",
+                                "4": "(e) such other members of the staff as may be laid down in the Statutes."
+                            }
+                        },
+                        "1": "1[Provided that in case of the Indian Institute of Technology (Banaras Hindu University), Varanasi, three members shall be nominated by the Executive Council referred to in clause (d) of section 2 of the Banaras Hindu University Act, 1915 (16 of 1915).]"
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Functions of Senate.",
+                    "paragraphs": {
+                        "0": "Subject to the provisions of this Act, the Statutes and the Ordinances, the Senate of an Institute shall have the control and general regulation, and be responsible for the maintenance, of standards of instruction, education and examination in the Institute and shall exercise such other powers an perform such other duties as may be conferred or imposed upon it by the Statutes."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Chairman of Board.",
+                    "paragraphs": {
+                        "0": "(1) The Chairman shall ordinarily preside at the meetings of the Board and at the Convocations of the Institute.",
+                        "1": "(2) It shall be the duty of the Chairman to ensure that the decisions taken by the Board are implemented.",
+                        "2": "(3) The Chairman shall exercise such other powers and perform such other duties as may be assigned to him by this Act or the Statutes."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Director.",
+                    "paragraphs": {
+                        "0": "(1) The Director of each Institute shall be appointed by the Council with the prior approval of the Visitor.",
+                        "1": "(2) The Director shall be the principal academic and executive officer of the Institute and shall be responsible for the proper administration of the Institute and for the imparting of instruction and maintenance of discipline therein.",
+                        "2": "(3) The Director shall submit annual reports and accounts to the Board.",
+                        "3": "(4) The Director shall exercise such other powers and perform such other duties as may be assigned to him by this Act or the Statutes or Ordinances."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Deputy Director.",
+                    "paragraphs": {
+                        "0": "The Deputy Director of each Institute shall be appointed on such terms and conditions as my be laid down by the Statutes and shall exercise such powers and perform such duties as may be assigned to him by this Act or the Statutes or by the Director."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Registrar.",
+                    "paragraphs": {
+                        "0": "(1) The Registrar of each Institute shall be appointed on such terms and conditions as may be laid down by the Statutes and shall be the custodian of records, the common seal, the funds of the Institute and such other property of the Institute as the Board shall commit to his charge.",
+                        "1": "(2) The Registrar shall act as the Secretary of the Board, the Senate, and such committees as may be prescribed by the Statutes.",
+                        "2": "(3) The Registrar shall be responsible to the Director for the proper discharge of his functions.",
+                        "3": "(4) The Registrar shall exercise such other powers and perform such other duties as may be assigned to him by this Act or the Statutes or by the Director."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Other authorities and officers.",
+                    "paragraphs": {
+                        "0": "The powers and duties of authorities and officers other than those hereinbefore mentioned shall be determined by the Statutes."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Grants by Central Government.",
+                    "paragraphs": {
+                        "0": "For the purpose of enabling the Institutes to discharge their functions efficiently under this Act, the Central Government may, after due appropriation made by Parliament by law in this behalf, pay to each Institute in each financial year such sums of money and in such manner as it may think fit."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Fund of the Institute.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Every Institute shall maintain a Fund to which shall be credited\u2014",
+                            "contains": {
+                                "0": "(a) all moneys provide by the Central Government;",
+                                "1": "(b) all fees and other charges received by the Institute;",
+                                "2": "(c) all moneys received by the Institute by way of grants, gifts, donations, benefactions, bequests or transfers; and",
+                                "3": "(d) all moneys received by the Institute in any other manner or from any other source."
+                            }
+                        },
+                        "1": "(2) All moneys credited to the Fund of any Institute shall be deposited in such Banks or invested in such manner as the Institute may, with the approval of the Central Government, decide.",
+                        "2": "(3) The Fund of any Institute shall be applied towards meeting the expenses of the Institute including expenses incurred in the exercise of its powers and discharge of its duties under this Act."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "(1) Every Institute shall maintain proper accounts and other relevant records and prepare an annual statement of accounts, including the balance-sheet, in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.",
+                        "1": "(2) The accounts of every Institute shall be audited by the Comptroller and Auditor-General of India and any expenditure incurred by him in connection with such audit shall be payable by the Institute to the comptroller and Auditor-General of India.",
+                        "2": "(3) The Comptroller and Auditor-General of India and any person appointed by him in connection with the audit of the accounts of any Institute shall have the same rights, privileges and authority in connection with such audit as the Comptroller and Auditor-General of India has in connection with the audit of the Government accounts, and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect the offices of the Institute.",
+                        "3": "(4) The accounts of every Institute as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Pension and provident fund.",
+                    "paragraphs": {
+                        "0": "(1) Every Institute shall constitute for the benefit of its employees, including the Director, in such manner and subject to such conditions as may be prescribed by the Statutes, such pension, insurance and provident funds as it may deem fit.",
+                        "1": "(2) Where any such provident fund has been so constituted, the Central Government may declare that the provisions of the Provident Funds Act, 1925 (19 of 1925) shall apply to such fund as if it were a Government Provident Fund."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Appointments.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "All appointments on the staff of any Institute, except that of the Director, shall be made in accordance with the procedure laid down in the Statutes, by\u2014",
+                            "contains": {
+                                "0": "(a) the Board, if the appointment is made on the academic staff in the post of Lecturer or above or if the appointment is made on the non-academic staff in any cadre the maximum of the pay-scale for which exceeds six hundred rupees per month;",
+                                "1": "(b) by the Director, in any other case."
+                            }
+                        }
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Statutes.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the provisions of this Act, the Statutes may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the conferment of honorary degrees;",
+                                "1": "(b) the formation of departments of teaching;",
+                                "2": "(c) the fees to be charged for courses of study in the Institute and for admission to the examinations of degree and diplomas of the Institute;",
+                                "3": "(d) the institution of fellowships, scholarships, exhibitions, medals and prizes;",
+                                "4": "(e) the term of office and the method of appointment of officers of the Institute;",
+                                "5": "(f) the qualifications of teachers of the Institute;",
+                                "6": "(g) the classification, the method of appointment and the determination of the terms and conditions of service of, teachers and other staff of the Institute;",
+                                "7": "(h) the constitution of pension, insurance and provident funds for the benefit of the officers, teachers and other staff of the Institute;",
+                                "8": "(i) the constitution, powers and duties of the authorities of the Institute;",
+                                "9": "(j) the establishment and maintenance of halls and hostels;",
+                                "10": "(k) the conditions of residence of students of the Institute and the levying of fees for residence in the halls and hostels and of other charges;",
+                                "11": "(l) the manner of filling vacancies among members of the Board;",
+                                "12": "(m) the allowances to be paid to the Chairman and members of the Board;",
+                                "13": "(n) the authentication of the orders and decisions of the Board;",
+                                "14": "(o) the meetings of the Board, the Senate, or any Committee, the quorum at such meetings and the procedure to be followed in the conduct of their business;",
+                                "15": "(p) any other matter which by this Act is to be or may be prescribed by the Statutes."
+                            }
+                        }
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Statutes how made.",
+                    "paragraphs": {
+                        "0": "(1) The first Statutes of each Institute shall be framed by the Council with the previous approval of the Visitor and a copy of the same shall be laid as soon as may be before each House of Parliament.",
+                        "1": "(2) The Board may, from time to time, make new or additional Statutes or may amend or repeal the Statutes in the manner hereafter in this section provided.",
+                        "2": "(3) Every new Statute or addition to the Statutes or any amendment or repeal of a Statute shall require the previous approval of the Visitor who may assent thereto or withhold assent or remit it to the Board or consideration.",
+                        "3": "(4) A new Statute or a Statute amending or repealing an existing Statute shall have no validity unless it has been assented to by the Visitor."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Ordinances.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the provisions of this Act and the Statutes, the Ordinances of each Institute may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the admission of the students to the Institute;",
+                                "1": "(b) the courses of study to be laid down for all degrees and diplomas of the Institute;",
+                                "2": "(c) the conditions under which students shall be admitted to the degree or diploma courses and to the examinations of the Institute, and shall be eligible for degrees and diplomas;",
+                                "3": "(d) the conditions of award of the fellowships, scholarships, exhibitions, medals and prizes;",
+                                "4": "(e) the conditions and mode of appointment and duties of examining bodies, examiners and moderators;",
+                                "5": "(f) the conduct of examinations;",
+                                "6": "(g) the maintenance of discipline among the students of the Institute; and",
+                                "7": "(h) any other matter which by this Act or the Statutes is to be or may be provided for by the Ordinances."
+                            }
+                        }
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Ordinances how made.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided in this section, Ordinances shall be made by the Senate.",
+                        "1": "(2) All Ordinances made by the Senate shall have effect from such date as it may direct, but every Ordinance so made shall be submitted, as soon as may be, to the Board and shall be considered by the Board at its next succeeding meeting.",
+                        "2": "(3) The Board shall have power by resolution to modify or cancel any such Ordinance and such Ordinance shall from the date of such resolution stand modified accordingly or cancelled, as the case may be."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Tribunal of Arbitration.",
+                    "paragraphs": {
+                        "0": "(1) Any dispute arising out of a contract between an Institute and any of its employees shall, at the request of the employee concerned or at the instance of the Institute, be referred to a Tribunal of Arbitration consisting of one member appointed by the Institute, one member nominated by the employee, and an umpire appointed by the Visitor.",
+                        "1": "(2) The decision of the Tribunal shall be final and shall not be questioned in any court.",
+                        "2": "(3) No suit or proceeding shall lie in any court in respect of any matter which is required by sub-section (1) to be referred to the Tribunal of Arbitration.",
+                        "3": "(4) The Tribunal of Arbitration shall have power to regulate its own procedure.",
+                        "4": "(5) Nothing in any law for the time being in force relating to arbitration shall apply to arbitrations under this section."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "THE COUNCIL",
+            "Sections": {
+                "Section 31.": {
+                    "heading": "Establishment of Council.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification in the Official Gazette, specify in this behalf, there shall be established a central body to be called the Council.",
+                        "1": {
+                            "text": "(2) The Council shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the Minister in charge of technical education in the Central Government, ex officio, as Chairman;",
+                                "1": "(b) the Chairman of each Institute, ex officio;",
+                                "2": "(c) the Director of each Institute, ex officio;",
+                                "3": "(d) the Chairman, University Grants Commission, ex officio;",
+                                "4": "(e) the Director-General, Council of Scientific and Industrial Research, ex officio;",
+                                "5": "(f) the Chairman of the Council of the Indian Institute of Science, Bangalore, ex officio;",
+                                "6": "(g) the Director of the Indian Institute of Science, Bangalore, ex officio;",
+                                "7": "(h) three persons to be nominated by the Central Government, one to represent the Ministry concerned with technical education, another to represent the Ministry of Finance and the third to represent any other Ministry;",
+                                "8": "(i) one person to be nominated by the All-India Council for Technical Education;",
+                                "9": "(j) not less than three, but not more than five, persons to be nominated by the Visitor, who shall be persons having special knowledge or practical experience in respect of education, industry, science or technology;",
+                                "10": "(k) three Members of Parliament, of whom two shall be elected by the House of the People from among its members and one by the Council of States from among its members."
+                            }
+                        },
+                        "2": "(3) An officer of the Ministry of the Central Government concerned with technical education shall be nominated by that Government to act as the Secretary of the Council."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Term of office of, vacancies among, and allowances payable to, members of Council.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided in this section, the term of office of a member of the Council shall be three years from the date of his nomination or election, as the case may be.",
+                        "1": "(2) The term of office of an ex officio member shall continue so long as he holds the office by virtue of which he is a member.",
+                        "2": "(3) A member of the Council referred to in clause (h) of sub-section (2) of section 31 shall hold office during the pleasure of the Central Government.",
+                        "3": "(4) The term of office of a member elected under clause (k) of sub-section (2) of section 31 shall expire as soon as he ceases to be a member of the House which elected him.",
+                        "4": "(5) The term of office of a member nominated or elected to fill a casual vacancy shall continue for the remainder of the term of the member in whose place he has been nominated or elected.",
+                        "5": "(6) Notwithstanding anything contained in this section an outgoing member shall, unless the Central Government otherwise directs, continue in office until another person is nominated or elected as a member in his place.",
+                        "6": "(7) The members of the Council shall be paid such travelling and other allowances by the Central Government as may be determined by that Government, but no member shall be entitled to any salary by reason of this sub-section."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Functions of Council.",
+                    "paragraphs": {
+                        "0": "(1) It shall be the general duty of the Council to co-ordinate the activities of all the Institutes.",
+                        "1": {
+                            "text": "(2) Without prejudice to the provisions of sub-section (1), the Council shall perform the following functions, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to advise on matters relating to the duration of the courses, the degrees and other academic distinctions to be conferred by the Institutes, admission standards and other academic matters;",
+                                "1": "(b) to lay down policy regarding cadres, methods of recruitment and conditions of service of employees, institution of scholarships and freeships, levying of fees and other matters of common interest;",
+                                "2": "(c) to examine the development plans of each Institute and to approve such of them as are considered necessary and also to indicate broadly the financial implications of such approved plans;",
+                                "3": "(d) to examine the annual budget estimates of each Institute and to recommend to the Central Government the allocation of funds for the purpose;",
+                                "4": "(e) to advise the Visitor, if so required, in respect of any function to be performed by him under this Act; and",
+                                "5": "(f) to perform such other functions as are assigned to it by or under this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Chairman of Council.",
+                    "paragraphs": {
+                        "0": "(1) The Chairman of the Council shall ordinarily preside at the meetings of the Council.",
+                        "1": "(2) It shall be the duty of the Chairman of the Council to ensure that the decisions taken by the Council are implemented.",
+                        "2": "(3) The Chairman shall exercise such other powers and perform such other duties as are assigned to him by this Act."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Power to make rules in respect of matters in this Chapter.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may 1[, by notification n the Official Gazette,] make rules to carry out the purposes of this Chapter.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the manner of filling vacancies among the members of the Council;",
+                                "1": "(b) the disqualifications for being chosen as, and for being a member of the Council;",
+                                "2": "(c) the circumstances in which, and the authority by which, members may be removed;",
+                                "3": "(d) the meetings of the Council and the procedure of conducting business thereat;",
+                                "4": "(e) the travelling and other allowances payable to members of the Council; and",
+                                "5": "(f) the functions of the Council and the manner in which such functions may be exercised."
+                            }
+                        },
+                        "2": "1[(3) Every rule made by the Central Government under this Chapter shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]"
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 36.": {
+                    "heading": "Acts and proceedings not to be invalidated by vacancies.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No act of the Council, or any Institute or Board or Senate or any other body set up under this Act or the Statutes, shall be invalid merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or defect in the constitution thereof, or",
+                                "1": "(b) any defect in the election, nomination or appointment of a person acting as a member thereof, or",
+                                "2": "(c) any irregularity in its procedure not affecting the merits of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provision or give such direction not inconsistent with the purposes of this Act, as appears to it to be necessary or expedient for removing the difficulty."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Transitional provisions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in this Act,\u2014",
+                            "contains": {
+                                "0": "(a) the Board of Governors of an Institute functioning as such immediately before the commencement of this Act shall continue to so function until a new Board is constituted for that Institute under this Act, but on the constitution of a new Board under this Act, the members of the Board holding office before such constitution shall cease to hold office;",
+                                "1": "(b) 1[the Staff Committee constituted in relation to the College of Engineering and Technology, Delhi and any Academic Council constituted in relation to any other Institute] before the commencement of this Act shall be deemed to be the Senate constituted under this Act until a Senate is constituted under this Act for that Institute;",
+                                "2": "(c) until the first Statutes and the Ordinances are made under this Act, the Statutes and Ordinances of the Indian Institute of Technology, kharagpur as in force immediately before the commencement of this Act shall continue to apply to that Institute and shall, with the necessary modifications and adaptations, also apply to any other Institute, in so far as they are not inconsistent with the provisions of this Act;",
+                                "3": "2[(d) until the first Statutes and the Ordinances in relation to the Indian Institute of Technology, Guwahati are made under this Act, the Statutes and Ordinances of the Indian Institute of Technology, Kharagpur as in force immediately before the commencement of the Institutes of Technology (Amendment) Act, 1994 (35 of 1994) shall apply to the Indian Institute of Technology, Guwahati with the necessary modification and adaptations in so far as they are not inconsistent with the provisions of this Act.",
+                                "4": "3[(e) the Syndicate of the University of Roorkee functioning as such immediately before the commencement of this Act shall continue to so function until a new Board is constituted for the Indian Institute of Technology, Roorkee under this Act, but on the constitution of a new Board under this Act, the members of the Syndicate holding office before such constitution shall cease to hold office;",
+                                "5": "(f) the Academic Council of the University of Roorkee functioning as such immediately before the commencement of this Act shall continue to so function until a new Senate is constituted for the Indian Institute of Technology, Roorkee under this Act, but on the constitution of a new Senate under this Act, the members of the Academic Council holding office before such constitution shall cease to hold office;",
+                                "6": "(g) until the first Statutes and the Ordinances in relation to the Indian Institute of Technology, Roorkee are made under this Act, the Statutes and Ordinances of the Indian Institute of Technology, Bombay as in force immediately before the commencement of the Institutes of Technology (Amendment) Act, 2002 shall apply to the Indian Institute of Technology, Roorkee with the necessary modifications and adaptations in so far as they are not inconsistent with the provisions of this Act;",
+                                "7": "(h) notwithstanding anything contained in the Institutes of Technology (Amendment) Act, 2002 (16 of 2002), any student who joined classes of the University of Roorkee on or after the commencement of 1994-95 academic session shall, for the purpose of clause (b) of sub-section (1) of section 6, be deemed to have pursued a course of study in the Indian Institute of Technology, Roorkee provided that such student has not already been awarded degree or diploma for the same course of study;",
+                                "8": "(i) if any difficulty arises in giving effect to the provisions of the Institutes of Technology (Amendment) Act, 2002 (16 of 2002), the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty:",
+                                "9": "Provided that no order shall be made under this clause after the expiry of two years from the commencement of the Institutes of Technology (Amendment) Act, 2002 (16 of 2002):",
+                                "10": "Provided further that every order made under this clause shall be laid, as soon as may be after it is made, before each House of Parliament.]",
+                                "11": "1[(j) until the first Statutes and Ordinances in relation to the Indian Institute of Technology, Bhubaneswar, the Indian Institute of Technology, Gandhinagar, the Indian Institute of Technology, Hyderabad, the Indian Institute of Technology, Indore, the Indian Institute of Technology, Jodhpur, the Indian Institute of Technology, Mandi, the Indian Institute of Technology, Patna and the Indian Institute of Technology, Ropar are made under this Act, the Statutes and Ordinances of such Institute, as in force immediately before the commencement of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012), shall apply to those Institutes with necessary modifications and adaptations in so far as they are not inconsistent with the provisions of this Act;",
+                                "12": "(k) the Executive Council, referred to in clause (d) of section 2 of the Banaras Hindu University Act, 1915 (16 of 1915), functioning as such immediately before the commencement of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012), shall continue to so function until a new Board is constituted for the Indian Institute of Technology (Banaras Hindu University), Varanasi under this Act, but on the constitution of a new Board under this Act, the Executive Council of the Banaras Hindu University shall cease to function so far as the Indian Institute of Technology (Banaras Hindu University), Varanasi is concerned;",
+                                "13": "(l) the Academic Council, referred to in clause (a) of section 2 of the Banaras Hindu University Act, 1915 (16 of 1915), functioning as such immediately before the commencement of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012) shall continue to so function until a new Senate is constituted for the Indian Institute of Technology (Banaras Hindu University), Varanasi under this Act, but on the constitution of a new Senate under this Act, the Academic Council of the Banaras Hindu University shall cease to function so far as the Indian Institute of Technology (Banaras Hindu University), Varanasi;",
+                                "14": "(m) until the first Statutes and the Ordinances in relation to the Indian Institute of Technology (Banaras Hindu University), Varanasi are made under this Act, the Statutes and Ordinances as are applicable to the Indian Institute of Technology, Kanpur immediately before the commencement of the Institutes of Technology (Amendment) Act, 2012, shall apply to the Indian Institute of Technology (Banaras Hindu University), Varanasi with the necessary modifications and adaptations in so far as they are not inconsistent with the provisions of this Act;",
+                                "15": "(n) notwithstanding anything contained in the Institutes of Technology (Amendment) Act, 2012 (34 of 2012), any student who joined classes of the Institute of Technology, Banaras Hindu University on or after the commencement of 2006-2007 academic session or completed the courses on or after 2009-2010 academic session shall for the purpose of clause (b) of sub-section (1) of section 6, be deemed to have pursued a course of study in the Indian Institute of Technology (Banaras Hindu University), Varanasi provided that such student has not already been awarded degree or diploma for the same course of study;",
+                                "16": "(o) if any difficulty arises in giving effect to the provisions of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012), the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act, as may appear to be necessary for removing the difficulty:",
+                                "17": "Provided that no order shall be made under this clause after the expiry of two years from the commencement of the Institutes of Technology (Amendment) Act, 2012:",
+                                "18": "Provided further that every order made under this clause shall be laid, as soon as may be after it is made, before each House of Parliament.]",
+                                "19": "1[(p) until the first Statutes and Ordinances in relation to the Indian Institute of Technology, Tirupati, the Indian Institute of Technology, Palakkad, the Indian Institute of Technology, Goa, the Indian Institute of Technology, Dharward, the Indian Institute of Technology, Bhilai, the Indian Institute of Technology, Jammu, are made under this Act, the Statutes and Ordinances of such Institutes, as in force immediately before the commencement of the Institutes of Technology (Amendment) Act, 2016 (41 of 2016), shall apply to those Institutes with necessary modifications and adaptations in so far as they are not inconsistent with the provisions of this Act;",
+                                "20": "(q) the Executive Board, referred to in Rule 7 of the Rules and Regulations of the Indian School of Mines, Dhanbad, functioning as such immediately before the commencement of the Institutes of Technology (Amendment) Act, 2016 (41 of 2016), shall continue to so function until a new Board is constituted for the Indian Institute of Technology (Indian School of Mines), Dhanbad, under this Act, but on the constitution of a new Board under this Act, the Executive Board of the Indian School of Mines, Dhanbad shall cease to function so far as the Indian Institute of Technology (Indian School of Mines), Dhanbad is concerned;",
+                                "21": "(r) the Academic Council, referred to in Rule 9 of the Rules and Regulations of the Indian School of Mines, Dhanbad, functioning as such immediately before the commencement of the Institutes of Technology (Amendment) Act, 2016 (41 of 2016) shall continue to so function until a new Senate is constituted for the Indian Institute of Technology (Indian School of Mines), Dhanbad under this Act, but on the constitution of a new Senate under this Act, the Academic Council of the Indian School of Mines, Dhanbad shall cease to function so far as the Indian Institute of Technology (Indian School of Mines), Dhanbad;",
+                                "22": "(s) until the first Statutes and the Ordinances in relation to the Indian Institute of Technology (Indian School of Mines), Dhanbad are made under this Act, the Statutes and Ordinances as are applicable to the Indian Institute of Technology, Roorkee immediately before the commencement of the Institutes of Technology (Amendment) Act, 2016 (41 of 2016), shall apply to the Indian Institute of Technology (Indian School of Mines), Dhanbad, with the necessary modifications and adaptations in so far as they are not inconsistent with the provisions of this Act;",
+                                "23": "(t) notwithstanding anything contained in the Institutes of Technology (Amendment) Act, 2016, any student who joined classes of the Indian School of Mines, Dhanbad on or after the commencement of 2015-2016 academic session or completed the courses on or after 2015-2016 academic session shall for the purpose of clause (b) of sub-section (1) of section 6, be deemed to have pursued a course of study in the Indian Institute of Technology (Indian School of Mines), Dhanbad provided that such student has not already been awarded degree or diploma for the same course of study;",
+                                "24": "(u) if any difficulty arises in giving effect to the provisions of the Institutes of Technology (Amendment) Act, 2016 (41 of 2016), the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act, as may appear to be necessary for removing the difficulty:",
+                                "25": "Provided that no order shall be made under this clause after the expiry of two years from the commencement of the Institutes of Technology (Amendment) Act, 2016 (41 of 2016):",
+                                "26": "Provided further that every order made under this clause shall be laid, as soon as may be after it is made, before each House of Parliament.]",
+                                "27": "1[Explanation. 1]\u2014The reference in clause (a) of this section to the commencement of this Act shall be construted in relation to the Indian Institute of Technology, Guwahati as the reference to the date on which the provisions of the institutes of Technology (Amendment) Act, 1994 (35 of 1994) come into force.]",
+                                "28": "2[Explanation 2.\u2014The reference in clauses (e) and (f) of this section to the commencement of this Act shall be construed in relation to the Indian Institute of Technology, Roorkee as the reference to the date on which the provisions of the Institutes of Technology (Amendment) Act, 2002 come into force.]",
+                                "29": "3[Explanation 3.\u2014The reference in clauses (k), (l) and (m) of this section to the commencement of this Act shall be construed in relation to the Indian Institute of Technology (Banaras Hindu University), Varanasi, as the reference to the date on which the provisions of the Institutes of Technology (Amendment) Act, 2012 (34 of 2012) come into force.]",
+                                "30": "4[Explanation 4.\u2014The reference in clauses (q), (r) and (s) of this section to the commencement of this Act shall be construed in relation to the Indian Institute of Technology (Indian School of Mines), Dhanbad, as the reference to the date on which the provisions of the Institutes of Technology (Amendment) Act, 2016 come into force.]"
+                            }
+                        }
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Repeal and savings.",
+                    "paragraphs": {
+                        "0": "(1) The Indian Institute of Technology (Kharagpur) Act, 1956 (5 of 1956) is hereby repealed.",
+                        "1": "(2) Notwithstanding such repeal, the provisions of the said Act set out in the Schedule shall continue to have effect:",
+                        "2": "Provided that in the said provisions, the expression \u201cthis Act\u201d means the said provisions."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "(See section 39)"
+                }
+            },
+            "1": "Provisions of the Indian Institute of Technology (Kharagpur) Act, 1956, continued in force",
+            "2": "2. Declaration of the Indian Institute of Technology (Kharagpur) as an institution of national importance.\u2014Whereas the objects of the institution known as the Indian Institute of Technology at Kharagpur in the district of Midnapore in the State of West Bengal are such as to make the institution one of national importance, it is hereby declared that the institution known as the Indian Institute of Technology, Kharagpur, is an institution of national importance.",
+            "3": {
+                "text": "3. Definitions.\u2014In this Act, unless the context otherwise requires,\u2014",
+                "contains": {
+                    "0": "(b) \u201cBoard\u201d means the Board of Governors of the Institute;",
+                    "1": "(c) \u201cChairman\u201d means the Chairman of the Board;",
+                    "2": "(e) \u201cDirector\u201d means the Director of the Institute;",
+                    "3": "(g) \u201cInstitute\u201d means the Institute known as the Indian Institute of Technology, Kharagpur, incorporated under this Act."
+                }
+            },
+            "4": "4. Incorporation.\u2014(1) The first Chairman, the first Director and the first members of the Board who shall be the persons appointed in this behalf by the Central Government, by notification in the Official Gazette, and all persons, who may hereafter become or be appointed as officers or members of the Board, so long as they continue to hold such office or membership, are hereby constituted a body corporate by the name of the Indian Institute of Technology, Kharagpur.",
+            "5": "(2) The Institute shall have perpetual succession and a common seal, and shall sue and be sued by the said name.",
+            "6": "5. Transfer of service of existing employees of the Indian Institute of Technology at Kharagpur.\u2014(1) Subject to the provisions of this Act, every person who is permanently employed in the Indian Institute of Technology at Kharagpur immediately before the commencement of this Act shall, on and from such commencement, become an employee of the Institute and shall hold his office or service therein by the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension, leave, gratuity, provident fund and other matters as he would have held the same on the date of commencement of this Act if this Act had not been passed.",
+            "7": "(2) Notwithstanding anything contained in sub-section (1), the Institute may, with the prior approval of the Visitor, alter the terms and conditions of any employee specified in sub-section (1), and if the alteration is not acceptable to such employee, his employment may be terminated by the Institute in accordance with the terms of the contract with the employee or, if no provision is made therein in this behalf, on payment to him by the Institute of compensation equivalent to three months\u2019 remuneration.",
+            "8": "(3) Every person employed in the Indian Institute of Technology at Kharagpur other than any such person as is referred to in sub-section (1) shall, on and from the commencement of this Act become an employee of the Institute upon such terms and conditions as may be provided for in the Statutes, and until such provision is made, on the terms and conditions applicable to him immediately before such commencement."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 1st April, 1962, vide notification No. S.O. 929, dated 23rd March, 1962, see Gazette of India, Extraordinary, Part II, sec. 3(ii).",
+            "1": "2. Ins. by Act 29 of 1963, s. 2 (w.e.f. 13-9-1963).",
+            "2": "3. Ins. by Act 35 of 1994, s. 2 (w.e.f. 1-9-1994).",
+            "3": "4. Subs. by Act 16 of 2002, s. 2, for \u201cKanpur and the Indian Institute of Technology, Madras\u201d (w.e.f. 21-9-2001).",
+            "4": "5. Subs. by Act 34 of 2012, s. 2, for \u201cand the Indian Institute of Technology, Roorkee\u201d (w.e.f. 29-6-2012).",
+            "5": "6. The words in brackets shall stand substituted (date to be notified) by Act 41 of 2016, s. 2 to read as under:\u2014\u201cthe  Indian  Institute  of  Technology  (Banaras  Hindu  University),  Varanasi,  the  Indian  Institute  of  Technology,  Tirupati,  theIndian  Institute  of  Technology,  Palakkad,  the  Indian  Institute  of  Technology,  Goa,  the  Indian  Institute  of  Technology,Dharwad,  the  Indian  Institute  of  Technology,  Bhilai,  the  Indian  Institute  of  Technology,  Jammu  and  the  Indian  Institute  ofTechnology (Indian School of Mines), Dhanbad\u201d.",
+            "6": "7. Ins. by Act 29 of 1963, s. 3 (w.e.f. 13-9-1963).",
+            "7": "8. Ins. by Act 35 of 1994, s. 3 (w.e.f. 1-9-1994)."
+        },
+        "Page 4": {
+            "0": "1. The word \u201cand\u201d omitted by Act 16 of 2002, s. 3 (w.e.f. 21-9-2001).",
+            "1": "2. Ins. by s. 3, ibid. (w.e.f. 21-9-2001).",
+            "2": "3. Ins. by Act 34 of 2012, s. 3 (w.e.f. 29-6-2012).",
+            "3": "4. The words in brackets shall stand inserted (date to be notified) by Act 41 of 2016, s. 3."
+        },
+        "Page 5": {
+            "0": "1. Ins. by Act 34 of 2012, s. 3 (w.e.f. 29-6-2012).",
+            "1": "2. The words in brackets shall stand inserted (date to be notified) by Act 41 of 2016, s. 3.",
+            "2": "3. Ins. by Act 29 of 1963, s. 3 (w.e.f. 13-9-1963).",
+            "3": "4. Ins. by Act 35 of 1994, s. 3 (w.e.f. 1-9-1994)."
+        },
+        "Page 6": {
+            "0": "1. Ins. by Act 16 of 2002, s. 3 (w.e.f. 21-9-2001).",
+            "1": "2. Ins. by Act 34 of 2012, s. 3 (w.e.f. 29-6-2012).",
+            "2": "3. Ins. by Act 29 of 1963, s. 4 (w.e.f. 13-9-1963).",
+            "3": "4. Ins. by Act 35 of 1994, s. 4 (w.e.f. 1-9-1994).",
+            "4": "5. Ins. by Act 16 of 2002, s. 4 (w.e.f. 21-9-2001).",
+            "5": "6. Ins. by Act 34 of 2012, s. 4 (w.e.f. 29-6-2012).",
+            "6": "7. The words in brackets shall stand inserted (date to be notified) by Act 41 of 2016, s. 4.",
+            "7": "8. The Explanation inserted by Act 35 of 1994, s. 5 (w.e.f. 1-9-1994).",
+            "8": "9. Explanation numbered as Explanation 1 thereof by Act 34 of 2012, s. 5 (w.e.f. 29-6-2012)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 34 of 2012, s. 5 (w.e.f. 29-6-2012).",
+            "1": "2. The words in brackets shall stand inserted (date to be notified) by Act 41 of 2016, s. 5.",
+            "2": "3. Ins. by Act 16 of 2002, s. 5 (w.e.f. 21-9-2001)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 34 of 2012, s. 6 (w.e.f. 29-6-2012)."
+        },
+        "Page 9": {
+            "0": "1. Ins. by Act 34 of 2012, s. 7 (w.e.f. 29-6-2012)."
+        },
+        "Page 10": {
+            "0": "1. Ins. by Act 34 of 2012, s. 8 (w.e.f. 29-6-2012).",
+            "1": "2. The Explanation omitted by Act 34 of 2012, s. 8 (w.e.f. 29-6-2012).",
+            "2": "3. Subs. by Act 29 of 1963, s. 5, for \u201cclause (c)\u201d (w.e.f. 13-9-1963)."
+        },
+        "Page 11": {
+            "0": "1. The proviso ins. by Act 34 of 2012, s. 9 (w.e.f. 29-6-2012)."
+        },
+        "Page 16": {
+            "0": "1. Ins. by Act 4 of 1986, s. 2 and the Schedule (w.e.f. 15-5-1986)."
+        },
+        "Page 17": {
+            "0": "1. Subs. by Act 29 of 1963, s. 6, for \u201cany Academic Council constituted in relation to any Institute\u201d (w.e.f. 13-9-1963).",
+            "1": "2. Added by Act 35 of 1994, s. 6 (w.e.f. 1-9-1994).",
+            "2": "3. Ins. by s. 6, ibid. (w.e.f. 21-9-2001)."
+        },
+        "Page 18": {
+            "0": "1. Ins. by Act 34 of 2012, s. 10 (w.e.f. 29-6-2012)."
+        },
+        "Page 19": {
+            "0": "1. The words in brackets shall stand inserted (date to be notified) by Act 41 of 2016, s. 6."
+        },
+        "Page 20": {
+            "0": "1. Explanation numbered as Explanation 1 thereof by Act 16 of 2002, s. 6 (w.e.f. 21-9-2001).",
+            "1": "2. Explanation 2 ins. by s. 6, ibid. (w.e.f. 21-9-2001).",
+            "2": "3. Explanation 3 ins. by Act 34 of 2012, s. 10 (w.e.f. 29-6-2012).",
+            "3": "4. The words in brackets shall stand inserted (date to be notified) by Act 41 of 2016, s. 6."
+        }
+    }
+}

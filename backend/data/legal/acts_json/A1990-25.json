@@ -1,0 +1,539 @@
+{
+    "Act Title": "THE PRASAR BHARATI (BROADCASTINGCORPORATION OF INDIA) ACT, 1990",
+    "Act ID": "ACT NO. 25 OF 1990",
+    "Enactment Date": "[12th September, 1990.]",
+    "Act Definition": {
+        "0": "An Act to provide for the establishment of a Broadcasting Corporation for India, to be known as Prasar Bharati, to define its composition, functions and powers and to provide for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Prasar Bharati (Broadcasting Corporation of India) Act, 1990.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cAkashvani\u201d means the offices, stations and other establishments, by whatever name called, which, immediately before the appointed day, formed part of or were under the Director-General, All India Radio of the Union Ministry of Information and Broadcasting;",
+                                "1": "(b) \u201cappointed day\u201d means the date appointed under section 3;",
+                                "2": "(c) \u201cbroadcasting\u201d means the dissemination of any form of communication like signs, signals, writing, pictures, images and sounds of all kinds by transmission of electro-magnetic waves through space or through cables intended to be received by the general public either directly or indirectly through the medium of relay stations and all its grammatical variations and cognate expressions shall be construed accordingly;",
+                                "3": "(d) \u201cBoard\u201d means the Prasar Bharati Board;",
+                                "4": "(e) \u201cBroadcasting Council\u201d means the Council established under section 14;",
+                                "5": "(f) \u201cChairman\u201d means the Chairman of the Corporation appointed under section 4;",
+                                "6": "(g) \u201cCorporation\u201d means the Prasar Bharati (Broadcasting Corporation of India) established under section 3;",
+                                "7": "(h) \u201cDoordarshan\u201d means the offices, kendras and other establishments, by whatever name called, which, immediately before the appointed day, formed part of or were under the Directorate-General, Doordarshan of the Union Ministry of Information and Broadcasting;",
+                                "8": "(i) \u201celected Member\u201d means a Member elected under section 3;",
+                                "9": "(j) \u201cExecutive Member\u201d means the Executive Member appointed under section 4;",
+                                "10": "(k) \u201ckendra\u201d means any telecasting centre with studios or transmitters or both and includes a relay station;",
+                                "11": "(l) \u201cMember\u201d means a Member of the Board;",
+                                "12": "(m) \u201cMember (Finance)\u201d means the Member (Finance) appointed under section 4;",
+                                "13": "(n) \u201cMember (Personnel)\u201d means the Member (Personnel) appointed under section 4;",
+                                "14": "(o) \u201cNominated Member\u201d means the Member nominated by the Union Ministry of Information and Broadcasting under section 3;",
+                                "15": "(p) \u201cNon-lapsable Fund\u201d means the Fund created from the commercial revenues of Akashvani and Doordarshan to meet expenditure on certain schemes;",
+                                "16": "(q) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "17": "(r) \u201cPart-time Member\u201d means a Part-time Member of the Board appointed under section 4, but does not include an ex officio Member, the Nominated Member or an elected Member;",
+                                "18": "(s) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "19": "(t) \u201cRecruitment Board\u201d means a board established under sub-section (1) of section 10;",
+                                "20": "(u) \u201cregulations\u201d means regulations made by the Corporation under this Act;",
+                                "21": "(v) \u201cstation\u201d means any broadcasting station with studios or transmitters or both and includes a relay station;",
+                                "22": "(w) \u201cWhole-time Member\u201d means the Executive Member, Member (Finance) or Member (Personnel);",
+                                "23": "(x) \u201cyear\u201d means the financial year."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "PRASAR BHARATI (BROADCASTING CORPORATION OF INDIA)",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Establishment and composition of Corporation.",
+                    "paragraphs": {
+                        "0": "(1)With effect from such date as the Central Government may by notification appointin this behalf, there shall be established for the purposes of this Act aCorporation, to be known as the Prasar Bharati (Broadcasting Corporation ofIndia).",
+                        "1": "(2) The Corporation shall be a body corporate by the nameaforesaid, having perpetual succession and a common seal with power to acquire,hold and dispose of property, both movable and immovable, and to contract, andshall by the said name sue and be sued.",
+                        "2": "(3) The headquarters of the Corporation shall be at NewDelhi and the Corporation may establish offices, kendras or stations at otherplaces in India and, with the previous approval of the Central Government,outside India.",
+                        "3": "(4) The general superintendence, direction and managementof the affairs of the Corporation shall vest in the Prasar Bharati Board whichmay exercise all such powers and do all such acts and things as may be exercisedor done by the Corporation under this Act.",
+                        "4": {
+                            "text": "(5) The Board shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) a Chairman;",
+                                "1": "(b) oneExecutive Member;",
+                                "2": "(c) one Member(Finance);",
+                                "3": "(d) one Member(Personnel);",
+                                "4": "(e) six Part-time Members;",
+                                "5": "(f) Director-General(Akashvani), ex officio;",
+                                "6": "(g) Director-General (Doordarshan), ex officio;",
+                                "7": "(h) onerepresentative of the Union Ministry of Information and Broadcasting, to be nominated by that Ministry; and",
+                                "8": "(i) tworepresentatives of the employees of the Corporation, of whom one shall beelected by the engineering staff from amongst themselves and one shall beelected by the other employees from amongst themselves."
+                            }
+                        },
+                        "5": "(6) The Corporation may appoint such committees as may benecessary for the efficient performance, exercise and discharge of its functions, powers and duties:",
+                        "6": "Provided that all or a majority of the members of eachcommittee shall be Members and a member of any such committee who is not aMember shall have only the right to attend meetings of the committee and takepart in the proceedings thereof, but shall not have the right to vote.",
+                        "7": "(7) The Corporation may associate with itself, in suchmanner and for such purposes as may be provided by regulations, any person whoseassistance or advice it may need in complying with any of the provisions of thisAct and a person so associated shall have the right to take part in thediscussions of the Board relevant to the purposes of which he has beenassociated, but shall not have the right to vote.",
+                        "8": {
+                            "text": "(8) No act or proceeding of the Board or of any committeeappointed by it under sub-section (6) shall be invalidated merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or any defect in the constitution of,the Board or such committee; or",
+                                "1": "(b) any defect in the appointment of a person acting as aMember or a member of such committee;or",
+                                "2": "(c) any irregularity in the procedure of the Board or suchcommittee not affecting the merits of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Appointment of Chairman and other Members.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Chairman and the other Members, except the ex officio Members, the Nominated Member and the elected Members shall be appointed by the President of India on the recommendation of a committee consisting of\u2014",
+                            "contains": {
+                                "0": "(a) the Chairman of the Council of States, who shall be the Chairman of the Committee;",
+                                "1": "(b) the Chairman of the Press Council of India established under section 4 of the Press Council Act, 1978(37 of 1978); and",
+                                "2": "(c) one nominee of the President of India."
+                            }
+                        },
+                        "1": "(2) No appointment of a Member shall be invalidated merely by reason of any vacancy in, or any defect in the constitution of, the committee appointed under sub-section (1).",
+                        "2": "(3) The Chairman and the Part-time Members shall be persons of eminence in public life; the Executive Member shall be a person having special knowledge or practical experience in respect of such matters as administration, management, broadcasting, education, literature, culture, arts, music, dramatics or journalism; the Member (Finance) shall be a person having special knowledge or practical experience in respect of financial matters and the Member (Personnel) shall be a person having special knowledge or practical experience in respect of personnel management and administration.",
+                        "3": "(4) The recommendations made by the committee constituted under sub-section (1) shall be binding for the purposes of appointment under this section."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Powers and functions of Executive Member.",
+                    "paragraphs": {
+                        "0": "TheExecutive Member shall be the Chief Executive of the Corporation and shall,subject to the control and supervision of the Board, exercise such powers anddischarge such functions of the Board as it may delegate to him."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Term of office, conditions of service, etc., of Chairman and other Members.",
+                    "paragraphs": {
+                        "0": "1[(1) The Chairman shall be Part-time Member and shall hold office for a term of three years from the date on which he enters upon his office or until he attains the age of seventy years, whichever is earlier:",
+                        "1": "Provided that any person holding office as a Chairman immediately before the commencement of the Prasar Bharati (Broadcasting Corporation of India) Amendment Act, 2008 (12 of 2008) shall, in so far as his appointment is inconsistent with the provisions of this sub-section, cease to hold office on such commencement as such Chairman and shall not be entitled to any compensation because of his ceasing to hold such office.]",
+                        "2": "(2) 1*** the Member (Finance) and the Member (Personnel) shall be Whole-time Members and every such Member shall hold office for a term of six years from the date on which he enters upon his office or until he attains the age of sixty-two years, whichever is earlier.",
+                        "3": "2[(2A) The Executive Member shall be a Whole-time Member and shall hold office for a term of five years from the date on which he enters upon his office or until he attains the age of sixty-five years, whichever is earlier:",
+                        "4": "Provided that any person holding office as an Executive Member immediately before the commencement of the Prasar Bharati (Broadcasting Corporation of India) Amendment Act, 2008 (12 of 2008), shall, in so far as his appointment is inconsistent with the provisions of this sub-section, cease to hold office on such commencement as such Executive Member and shall not be entitled to any compensation because of his ceasing to hold such office.]",
+                        "5": "(3) The term of office of Part-time Members shall be six years, but one-third of such Members shall retire on the expiration of every second year.",
+                        "6": "(4) The term of office of an elected Member shall be two years or till he ceases to be an employee of the Corporation, whichever is earlier.",
+                        "7": "(5) As soon as may be after the establishment of the Corporation, the President of India may, by order, make such provision as he thinks fit for curtailing the term of office of some of the Part-time Members then appointed in order that one-third of the Members holding office as such Part-time Members shall retire in every second year thereafter.",
+                        "8": "(6) Where before the expiry of the term of office of a person holding the office of Chairman, or any other Member, a vacancy arises, for any reason whatsoever, such vacancy shall be deemed to be a casual vacancy and the person appointed or elected to fill such vacancy shall hold office for the unexpired period of the term for which his predecessor in office would have held office if such vacancy had not arisen.",
+                        "9": "(7) The Whole-time Members shall be the employees of the Corporation and as such shall be entitled to such salaries and allowances and shall be subject to such conditions of service in respect of leave, pension (if any), provident fund and other matters as may be prescribed:",
+                        "10": "Provided that the salaries and allowances and the conditions of service shall not be varied to their disadvantage after their appointment.",
+                        "11": "(8) The Chairman and Part-time Members shall be entitled to such allowances as may be prescribed."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Removal and suspension of Chairman and Members.",
+                    "paragraphs": {
+                        "0": "(1)Subject to the provisions of sub-section (3), the Chairman or any other Member,except an ex officio Member, the Nominated Member and an elected Member, shallonly be removed from his office by order of the President of India on the groundof misbehavior after the Supreme Court, on a reference being made to it by thePresident, has, on inquiry held in accordance with such procedure as the SupremeCourt may by rules provide, reported that the Chairman or such other Member, asthe case may be, ought, on such ground, be removed.",
+                        "1": "(2) ThePresident may suspend from office the Chairman or other Member except an exofficio Member, the Nominated Member or an elected Member, in respect of whom areference has been made to the Supreme Court under sub-section (1) until thePresident has passed orders on receipt of the report of the Supreme Court onsuch reference.",
+                        "2": {
+                            "text": "(3)Notwithstanding anything contained in sub-section (1), the President may, byorder, remove the Chairman or any Whole-time Member from his office if suchChairman or such Whole-time Member\u2014",
+                            "contains": {
+                                "0": "(a) ceases to be a citizen of India; or",
+                                "1": "(b) is adjudged an insolvent; or",
+                                "2": "(c) engages during his term of office in any paidemployment outside the duties of his office; or",
+                                "3": "(d) is convicted of any offence involving moral turpitude;or",
+                                "4": "(e) is, in the opinion of the President, unfit to continuein office by reason of infirmity of body or mind:"
+                            }
+                        },
+                        "3": {
+                            "text": "1. Words \u201cThe Executive Member,\u201d omitted by Act 12 of 2008, s. 2 (w.e.f. 7-2-2008). 2. Ins. by s. 2, ibid. (w.e.f. 7-2-2008).",
+                            "contains": {
+                                "0": "Provided that the President may, by order, remove anyPart-time Member from his office if he is adjudged an insolvent or is convictedof any offence involving moral turpitude or where he is, in the opinion of thePresident, unfit to continue in office by reason of infirmity of body or mind.",
+                                "1": "(4) If the Chairman or any Whole-time Member, except any exofficio Member, the Nominated Member or any elected Member, is, or becomes in anyway concerned or interested in any contract or agreement made by or on behalf ofthe Corporation or the Government of India or the Government of a State or,participates in any way in the profit thereof, or in any benefit or emolumentarising therefrom than as a member, and in common with other members of anincorporated company, he shall, for the purposes of sub-section (1), be deemedto be guilty of misbehaviour.",
+                                "2": "(5) If a Part-time Member is, or becomes in any wayconcerned, or interested in any contract or agreement made by or on behalf of theCorporation, he shall, for the purposes of sub-section (1), be deemed to beguilty of misbehaviour.",
+                                "3": "(6) The Chairman or any other Member may resign his officeby giving notice thereof in writing to the President of India and on suchresignation being accepted, the Chairman or other Member shall be deemed to havevacated his office."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Meetings of Board.",
+                    "paragraphs": {
+                        "0": "(1) The Board shall meet at such times and places and shall observe such rules of procedure in regard to the transaction of business at its meetings (including the quorum at meetings) as may be provided by regulations:",
+                        "1": "Provided that there shall not be less than six meetings every year but three months shall not intervene between one meeting and the next meeting.",
+                        "2": "(2) A Member shall be deemed to have vacated his office if he absents himself for three consecutive meetings of the Board without the leave of the Chairman.",
+                        "3": "(3) The Chairman shall preside at the meetings of the Board and if for any reason he is unable to attend any meeting, the Executive Member and in the absence of both, any other Member elected by the Members present at such meeting, shall preside at the meeting.",
+                        "4": "(4) All questions which come up before any meeting of the Board shall be decided by a majority of the votes of the Members present and voting and, in the event of an equality of votes, the Chairman, or in his absence, the person presiding, shall have and exercise a second or casting vote."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Officers and other employees of Corporation.",
+                    "paragraphs": {
+                        "0": "(1) Subject to such control, restrictions and conditions as may be prescribed, the Corporation may appoint, after consultation with the Recruitment Board, the Director-General (Akashvani), the Director-General (Doordarshan) and such other officers and other employees as may be necessary.",
+                        "1": "(2) The method of recruitment of such officers and employees and all other matters connected therewith and the conditions of service of such officers and other employees shall be such as may be provided by regulations."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Establishment of Recruitment Boards.",
+                    "paragraphs": {
+                        "0": "(1) the Corporation shall, as soon as may be, after the appointed day and in such manner and subject to such conditions and restrictions as may be prescribed, establish for the purposes of section 9, one or more Recruitment Boards consisting wholly of persons other than the Members, officers and other employees of the Corporation:",
+                        "1": "Provided that for the purposes of appointment to the posts carrying scales of pay which are not less than that of a Joint Secretary to the Central Government, the Recruitment Board shall consist of the Chairman, other Members, the ex officio Members, the Nominated Member and the elected Members.",
+                        "2": "(2) The qualifications and other conditions of service of the members constituting the Recruitment Board and the period for which such members shall hold office, shall be such as may be prescribed."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Status of officers and employees.",
+                    "paragraphs": {
+                        "0": "(1) All officers and employees recruited for the purposes of Akashvani or Doordarshan before the appointed day and in service in the Corporation as on the 1st day of April, 2000, shall be on deemed deputation to the Corporation with effect from the 1st day of April, 2000, and shall so continue till their retirement.",
+                        "1": "(2) All officers and employees recruited during the period on or after the appointed day till the 5th day of October, 2007, shall be on deemed deputation to the Corporation with effect from the 1st day of April, 2000 or the date of their joining service in the Corporation, whichever is later and until their retirement.",
+                        "2": "Explanation.\u2014For the purposes of sub-sections (1) and (2), \u201cofficers and employees recruited\u201d means officers and employees recruited either under the proviso to article 309 of the Constitution or in accordance with the regulations made under the Act, but shall not include persons engaged or appointed on daily wages, casual, ad hoc or work charged basis.",
+                        "3": "(3) The officers and employees referred to in sub-section (1) and sub-section (2) shall be entitled to the pay and all other benefits as admissible to an employee of the Central Government:",
+                        "4": "Provided that such officers and employees shall not be entitled to any deputation allowance.",
+                        "5": "(4) Notwithstanding anything contained in any other law for the time being in force, the Corporation shall have the disciplinary and supervisory powers and full control on the officers and employees referred to in sub-section (1) and sub-section (2), including the power to transfer them from one place, post or media to another, and to suspend, initiate disciplinary proceedings and impose major or minor penalties:",
+                        "6": "Provided that the power to impose major penalties of compulsory retirement, removal or dismissal from service shall be exercised by the Central Government.",
+                        "7": "(5) All officers and employees recruited after the 5th day of October, 2007 shall be officers and employees of the Corporation and shall be governed by such conditions of service as may be specified in the regulations."
+                    }
+                },
+                "Section 11A.": {
+                    "heading": "Section 11 not to apply to certain officers and employees.",
+                    "paragraphs": {
+                        "0": "(1) The provisions of section 11 shall not apply to officers and employees of the Indian Information Service, the Central Secretariat Service or any other service borne on any cadre outside Akashvani or Doordarshan, who have been working in Akashvani or Doordarshan before the appointed day or in service in the Corporation after that day.",
+                        "1": "(2) The terms and conditions of service in the Corporation of officers and employees referred to in sub-section (1) shall be such as may be prescribed."
+                    }
+                },
+                "Section 11B.": {
+                    "heading": "Transfer of posts of Akashvani and Doordarshan to Corporation.",
+                    "paragraphs": {
+                        "0": "(1) All posts in the erstwhile Akashvani and Doordarshan other than the posts borne on the strength of the cadres referred to insub-section (2) shall be deemed to have been transferred to the Corporation with effect from the 1st day of April, 2000.",
+                        "1": "(2) All matters relating to the posts borne on the strength of the cadres of the Indian Information Service, the Central Secretariat Service or any other cadre outside Akashvani or Doordarshan, in so far as such posts are concerned with the Corporation, shall be determined in such manner and on such terms and conditions as may be prescribed.]"
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Functions and powers of Corporation.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, it shall be the primary duty of the Corporation to organise and conduct public broadcasting services to inform, educate and entertain the public and to ensure a balanced development of broadcasting on radio and television.",
+                        "1": "Explanation.\u2014For the removal of doubts, it is hereby declared that the provisions of this section shall be in addition to, and not in derogation of, the provisions of the Indian Telegraph Act, 1885(13 of 1985).",
+                        "2": {
+                            "text": "(2) The Corporation shall, in the discharge of its functions, be guided by the following objectives, namely:\u2014",
+                            "contains": {
+                                "0": "(a) upholding the unity and integrity of the country and the values enshrined in the Constitution;",
+                                "1": "(b) safeguarding the citizen\u2019s right to be informed freely, truthfully and objectively on all matters of public interest, national or international, and presenting a fair and balanced flow of information including contrasting views without advocating any opinion or ideology of its own;",
+                                "2": "(c) paying special attention to the fields of education and spread of literacy, agriculture, rural development, environment, health and family welfare and science and technology;",
+                                "3": "(d) providing adequate coverage to the diverse cultures and languages of the various regions of the country by broadcasting appropriate programmes;",
+                                "4": "(e) providing adequate coverage to sports and games so as to encourage healthy competition and the spirit of sportsmanship;",
+                                "5": "(f) providing appropriate programmes keeping in view the special needs of the youth;",
+                                "6": "(g) informing and stimulating the national consciousness in regard to the status and problems of women and paying special attention to the upliftment of women;",
+                                "7": "(h) promoting social justice and combating exploitation, inequality and such evils as untouchability and advancing the welfare of the weaker sections of the society;",
+                                "8": "(i) safeguarding the rights of the working classes and advancing their welfare;",
+                                "9": "(j) serving the rural and weaker sections of the people and those residing in border regions, backward or remote areas;",
+                                "10": "(k) providing suitable programmes keeping in view the special needs of the minorities and tribal communities;",
+                                "11": "(l) taking special steps to protect the interests of children, the blind, the aged, the handicapped and other vulnerable sections of the people;",
+                                "12": "(m) promoting national integration by broadcasting in a manner that facilitates communication in the languages in India; and facilitating the distribution of regional broadcasting services in every State in the languages of that State;",
+                                "13": "(n) providing comprehensive broadcast coverage through the choice of appropriate technology and the best utilisation of the broadcast frequencies available and ensuring high quality reception;",
+                                "14": "(o) promoting research and development activities in order to ensure that radio and television broadcast technology are constantly updated; and",
+                                "15": "(p) expanding broadcasting facilities by establishing additional channels of transmission at various levels."
+                            }
+                        },
+                        "3": {
+                            "text": "(3) In particular, and without prejudice to the generality of the foregoing provisions, the Corporation may take such steps as it thinks fit\u2014",
+                            "contains": {
+                                "0": "(a) to ensure that broadcasting is conducted as a public service to provide and produce programmes;",
+                                "1": "(b) to establish a system for the gathering of news for radio and television;",
+                                "2": "(c) to negotiate for purchase of, or otherwise acquire, programmes and rights or privileges in respect of sports and other events, films, serials, occasions, meetings, functions or incidents of public interest, for broadcasting and to establish procedures for the allocation of such programmes, rights or privileges to the services;",
+                                "3": "(d) to establish and maintain a library or libraries of radio, television and other materials;",
+                                "4": "(e) to conduct or commission, from time to time, programmes, audience research, market or technical service, which may be released to such persons and in such manner and subject to such terms and conditions as the Corporation may think fit;",
+                                "5": "(f) to provide such other services as may be specified by regulations."
+                            }
+                        },
+                        "4": "(4) Nothing in sub-sections (2) and (3) shall prevent the Corporation from managing on behalf of the Central Government and in accordance with such terms and conditions as may be specified by that Government the broadcasting of External Services and monitoring of broadcasts made by organisations outside India on the basis of arrangements made for reimbursement of expenses by the Central Government.",
+                        "5": "(5) For the purposes of ensuring that adequate time is made available for the promotion of the objectives set out in this section, the Central Governmentshall have the power to determine the maximum limit of broadcast time in respect of the advertisement.",
+                        "6": "(6) The Corporation shall be subject to no civil liability on the ground merely that it failed to comply with any of the provisions of this section.",
+                        "7": "(7) The Corporation shall have power to determine and levy fees and other service charges for or in respect of the advertisements and such programmes as may be specified by regulations:",
+                        "8": "Provided that the fees and other service charges levied and collected under this sub-section shall not exceed such limits as may be determined by the Central Government, from time to time."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Parliamentary Committee.",
+                    "paragraphs": {
+                        "0": "(1) There shall be constituted a Committee consisting of twenty-two Members of Parliament, of whom fifteen from the House of the People to be elected by the Members thereof and seven from the Council of States to be elected by the Members thereof in accordance with the system of proportional representation by means of the single transferable vote, to oversee that the Corporation discharges its functions in accordance with the provisions of this Act and, in particular, the objectives set out in section 12 and submit a report thereon to Parliament.",
+                        "1": "(2) The Committee shall function in accordance with such rules as may be made by the Speaker of the House of the People."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Establishment of Broadcasting Council, term of office and removal, etc., of members thereof.",
+                    "paragraphs": {
+                        "0": "(1) There shall be established, by notification, as soon as may be after the appointed day, a Council, to be known as the Broadcasting Council, to receive and consider complaints referred to in section 15 and to advise the Corporation in the discharge of its functions in accordance with the objectives set out in section 12.",
+                        "1": {
+                            "text": "(2) The Broadcasting Council shall consist of\u2014",
+                            "contains": {
+                                "0": "(i) a President and ten other members to be appointed by the President of India from amongst persons of eminence in public life;",
+                                "1": "(ii) four Members of Parliament, of whom two from the House of the People to be nominated by the Speaker thereof and two from the Council of States to be nominated by the Chairman thereof."
+                            }
+                        },
+                        "2": "(3) The President of the Broadcasting Council shall be a whole-time member and every other member shall be a part-time member and the President or the part-time member shall hold office as such for a term of three years from the date on which he enters upon his office.",
+                        "3": "(4) The Broadcasting Council may constitute such number of Regional Councils as it may deem necessary to aid and assist the Council in the discharge of its functions.",
+                        "4": "(5) The President of the Broadcasting Council shall be entitled to such salary and allowances and shall be subject to such conditions of service in respect of leave, pension (if any), provident fund and other matters as may be prescribed:",
+                        "5": "Provided that the salary and allowances and the conditions of service shall not be varied to the disadvantage of the President of the Broadcasting Council after his appointment.",
+                        "6": "(6) The other members of the Broadcasting Council and the members of the Regional Councils constituted under sub-section (4) shall be entitled to such allowances as may be prescribed."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Jurisdiction of, and the procedure to be followed by, Broadcasting Council.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Broadcasting Council shall receive and consider complaints from\u2014",
+                            "contains": {
+                                "0": "(i) any person or group of persons alleging that a certain programme or broadcast or the functioning of the Corporation in specific cases or in general is not in accordance with the objectives for which the Corporation is established;",
+                                "1": "(ii) any person (other than an officer or employee of the Corporation) claiming himself to have been treated unjustly or unfairly in any manner (including unwarranted invasion of privacy, misrepresentation, distortion or lack of objectivity) in connection with any programme broadcast by the Corporation."
+                            }
+                        },
+                        "1": "(2) A complaint under sub-section (1) shall be made in such manner and within such period as may be specified by regulations.",
+                        "2": "(3) The Broadcasting Council shall follow such procedure as it thinks fit for the disposal of complaints received by it.",
+                        "3": "(4) If the complaint is found to be justified either wholly or in part, the Broadcasting Council shall advise the Executive Member to take appropriate action.",
+                        "4": "(5) If the Executive Member is unable to accept the recommendation of the Broadcasting Council, he shall place such recommendation before the Board for its decision thereon.",
+                        "5": "(6) If the Board is also unable to accept the recommendation of the Broadcasting Council, it shall record its reasons therefor and inform the Broadcasting Council accordingly.",
+                        "6": "(7) Notwithstanding anything contained in sub-sections (5) and (6), where the Broadcasting Council deems it appropriate, it may, for reasons to be recorded in writing, require the Corporation to broadcast its recommendations with respect to a complaint in such manner as the Council may deem fit."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "ASSETS, FINANCES AND ACCOUNTS",
+            "Sections": {
+                "Section 16.": {
+                    "heading": "Transfer of certain assets, liabilities, etc., of Central Government to Corporation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "As from the appointed day,\u2014",
+                            "contains": {
+                                "0": "(a) all property and assets (including the Non-lapsable Fund) which immediately before that day vested in the Central Government for the purpose of Akashvani or Doordarshan or both shall stand transferred to the Corporation on such terms and conditions as may be determined by the Central Government and the book value of all such property and assets shall be treated as the capital provided by the Central Government to the Corporation;",
+                                "1": "(b) all debts, obligations and liabilities incurred, all contracts entered into and all matters and things engaged to be done by, with or for the Central Government immediately before such day for or in connection with the purposes of Akashvani or Doordarshan or both shall be deemed to have been incurred, entered into and engaged to be done by, with or for the Corporation;",
+                                "2": "(c) all sums of money due to the Central Government in relation to the Akashvani or Doordarshan or both immediately before such day shall be deemed to be due to the Corporation;",
+                                "3": "(d) all suits and other legal proceedings instituted or which could have been instituted by or against the Central Government immediately before such day for any matter in relation to the Akashvani or Doordarshan or both may be continued or instituted by or against the Corporation."
+                            }
+                        }
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Grants, etc., by Central Government.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "For the purposes of enabling the Corporation to discharge its functions efficiently under this Act, the Central Government may, after due appropriation made by Parliament by law in this behalf, pay to the Corporation in each financial year,\u2014",
+                            "contains": {
+                                "0": "(i) the proceeds of the broadcast receiver licence fees, if any, as reduced by the collection charges; and",
+                                "1": "(ii) such other sums of money as that Government considers necessary,"
+                            }
+                        },
+                        "1": "by way of equity, grant-in-aid or loan."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Fund of Corporation.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation shall have its own Fund and all the receipts of the Corporation (including the amounts which stand transferred to the Corporation under section 16) shall be credited to the Fund and all payments by the Corporation shall be made therefrom.",
+                        "1": "(2) All moneys belonging to the Fund shall be deposited in one or more nationalised banks in such manner as the Corporation may decide.",
+                        "2": "(3) The Corporation may spend such sums as it thinks fit for performing its functions under this Act and such sums shall be treated as expenditure payable out of the Fund of the Corporation.",
+                        "3": "Explanation.\u2014For the purposes of this section, \u201cnationalised bank\u201d means a corresponding new bank specified in the First Schedule to the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970(5 of 1970) or a corresponding new bank specified in the First Schedule to the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980(40 of 1980)."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Investment of moneys.",
+                    "paragraphs": {
+                        "0": "The Corporation may invest its moneys in the securities of the Central Government or any State Government or in such other manner as may be prescribed."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Annual Financial Statement of the Corporation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Corporation shall prepare, in each financial year, an Annual Financial Statement for the next financial year showing separately\u2014",
+                            "contains": {
+                                "0": "(a) the expenditure which is proposed to be met from the internal resources of the Corporation; and",
+                                "1": {
+                                    "text": "(b) the sums required from the Central Government to meet other expenses, and distinguishing\u2014",
+                                    "contains": {
+                                        "0": "(i) revenue expenditure from other expenditure; and",
+                                        "1": "(ii) non-plan expenditure from plan expenditure."
+                                    }
+                                }
+                            }
+                        },
+                        "1": "(2) The Annual Financial Statement shall be prepared in such form and forwarded at such time to the Central Government for its approval as may be agreed to by that Government and the Corporation."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Accounts and audit of Corporation.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form and in such manner as may be prescribed.",
+                        "1": "(2) The accounts of the Corporation shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Corporation to the Comptroller and Auditor-General.",
+                        "2": "(3) The Comptroller and Auditor-General and any person appointed by him in connection with the audit of the accounts of the Corporation shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General has in connection with the audit of Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Corporation.",
+                        "3": "(4) The accounts of the Corporation as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Corporation not liable to be taxed.] Omitted by Act 20 of 2002, s. 163 (w.e.f.1-4-2003)."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 23.": {
+                    "heading": "Power of Central Government to give directions.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, from time to time as and when occasion arises, issue to the Corporation such directions as it may think necessary in the interests of the sovereignty, unity and integrity of India or the security of the State or preservation of public order requiring it not to make a broadcast on a matter specified in the direction or to make a broadcast on any matter of public importance specified in the direction.",
+                        "1": "(2) Where the Corporation makes a broadcast in pursuance of the direction issued under sub-section (1), the fact that such broadcast has been made in pursuance of such direction may also be announced along with such broadcast, if the Corporation so desires.",
+                        "2": "(3) A copy of every direction issued under sub-section (1) shall be laid before each House of Parliament."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Power of Central Government to obtain information.",
+                    "paragraphs": {
+                        "0": "The Central Government may require the Corporation to furnish such information as that Government may consider necessary."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Report to Parliament in certain matters and recommendations as to action against the Board.",
+                    "paragraphs": {
+                        "0": "(1)Where the Board persistently makes default in complying with any directionsissued under section 23 or fails to supply the information required undersection 24, the Central Government may prepare a report thereof and lay itbefore each House of Parliament for any recommendation thereof as to any action(including supersession of the Board) which may be taken against the Board.",
+                        "1": "(2)On the recommendation of the Parliament, the President may by notificationsupersede the Board for such period not exceeding six months as may be specifiedin the notification:",
+                        "2": "Provided that before issuing thenotification under this sub-section, the President shall give a reasonableopportunity to the Board to show cause as to why it should not be superseded andshall consider the explanations and objections, if any, of the Board.",
+                        "3": {
+                            "text": "(3)Upon the publication of the notification under sub-section (2),\u2014",
+                            "contains": {
+                                "0": "(a)allthe Members shall, as from the date of supersession, vacate their offices as such;",
+                                "1": "(b)allthe powers, functions and duties which may, by or under the provisions of thisAct be exercised or discharged by or on behalf of the Board, shall, until theBoard is reconstituted under this Act, be exercised and discharged by suchperson or persons as the President may direct."
+                            }
+                        },
+                        "4": "(4) On the expiration of the period of supersession specified in the notificationissued under sub-section (2), the President may reconstitute the Board by freshappointments, and in such a case any person who had vacated his office underclause (a) of sub-section (3) shall not be disqualified for appointment:",
+                        "5": "Provided that the President may, at any time before theexpiration of the period of supersession, take action under this sub-section.",
+                        "6": "(5)The Central Government shall cause the notification issued under sub-section (2)and a full report of the action taken under this section to be laid before eachHouse of Parliament."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Office of member not to disqualify a Member of Parliament.",
+                    "paragraphs": {
+                        "0": "It is hereby declared that the office of the member of the Broadcasting Council or of the Committee constituted under section 13 shall not disqualify its holder for being chosen as, or for being, a Member of either House of Parliament."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Chairman, Members, etc., to be public servants.",
+                    "paragraphs": {
+                        "0": "The Chairman and every other Member, every officer or other employee of the Corporation and every member of a Committee thereof, the President and every member of the Broadcasting Council or every member of a Regional Council or a Recruitment Board shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code(45 of 1860)."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit or other legal proceeding shall lie against the Corporation,the Chairman or any Member or officer or other employee thereof or the President or a member of the Broadcasting Council or a member of a Regional Council or a Recruitment Board for anything which is in good faith done or intended to be done in pursuance of this Act or of any rules on regulations made thereunder."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Authentication of orders and other instruments of Corporation.",
+                    "paragraphs": {
+                        "0": "All orders and decisions of the Corporation shall be authenticated by the signature of the Chairman or any other Member authorised by the Corporation in this behalf and all other instruments executed by the Corporation shall be authenticated by the signature of the Executive Member or by any officer of the Corporation authorised by him in this behalf."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Delegation of powers.",
+                    "paragraphs": {
+                        "0": "The Corporation may, by general or special order, delegate to the Chairman or any other Member or to any officer of the Corporation, subject to such conditions and limitations, if any, as may be specified therein, such of its powers and duties under this Act as it may deem fit."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Annual report.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation shall prepare once in every calendar year, in such form and within such time as may be prescribed, an annual report giving a full account of its activities (including the recommendations and suggestions made by the Broadcasting Council and the action taken thereon) during the previous year and copies thereof shall be forwarded to the Central Government and that Government shall cause the same to be laid before each House of Parliament.",
+                        "1": "(2) The Broadcasting Council shall prepare once in every calendar year, in such form and within such time as may be prescribed, an annual report giving a full account of its activities during the previous year and copies thereof shall be forwarded to the Central Government and that Government shall cause the same to be laid before each House of Parliament."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules for carrying out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the salaries and allowances and conditions of service in respect of leave, pension (if any), provident fund and other matters in relation to the Whole-time Members under sub-section (7) of section 6;",
+                                "1": "(b) the allowances payable to the Chairman and Part-time Members under sub-section (8) of section 6;",
+                                "2": "(c) the control, restrictions and conditions subject to which the Corporation may appoint officers and other employees under sub-section (1) of section 9;",
+                                "3": "(d) the manner in which and the conditions and restrictions subject to which a Recruitment Board may be established under sub-section (1) of section 10;",
+                                "4": "(e) the qualifications and other conditions of service of the members of a Recruitment Board and their period of office under sub-section (2) of section 10;",
+                                "5": "1[(f) the terms and conditions of service in the Corporation of officers and employees under sub-section (2) of section 11A;",
+                                "6": "(ff) the manner and the terms and conditions subject to which matters relating to the posts borne on the strength of the cadres of the Indian Information Service, the Central Secretariat Service or any other cadre outside Akashvani or Doordarshan shall be determined under sub-section (2) of section 11B;]",
+                                "7": "(g) the salary and allowances and conditions of service in respect of leave, pension (if any), provident fund and other matters in relation to the President of the Broadcasting Council under sub-section (5) of section 14;",
+                                "8": "(h) the allowances payable to other members of the Broadcasting Council and the members of the Regional Councils, under sub-section (6) of section 14;",
+                                "9": "(i) the manner in which the Corporation may invest its moneys under section 19;",
+                                "10": "(j) the form and the manner in which the annual statement of accounts shall be prepared under sub-section (1) of section 21;",
+                                "11": "(k) the form in which, and the time within which the Corporation and the Broadcasting Council shall prepare their annual report under section 31;",
+                                "12": "(l) any other matter which is required to be, or may be, prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Power to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation may, by notification, make regulations not inconsistent with this Act and the rules made thereunder for enabling it to perform its functions under this Act.",
+                        "1": {
+                            "text": "(2) Without prejudice to the generality of the foregoing power such regulations may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the manner in which and the purposes for which the Corporation may associate with itself any person under sub-section (7) of section 3;",
+                                "1": "(b) the times and places at which meetings of the Board shall be held and, the procedure to be followed thereat, and the quorum necessary for the transaction of the business at a meeting of the Board under sub-section (1) of section 8;",
+                                "2": "(c) the methods of recruitment and conditions of service of officers and other employees of the Corporation under sub-section (2) of section 9;",
+                                "3": "1[(d) the conditions of service of officers and employees under sub-section (5) of section 11;]",
+                                "4": "2* * * * *",
+                                "5": "(f) the services which may be provided by the Corporation under clause (f) of sub-section (3) of section 12;",
+                                "6": "(g) the determination and levy of fees and other service charges in respect of advertisements and other programmes under sub-section (7) of section 12;",
+                                "7": "(h) the manner in which and the period within which complaints may be made under sub-section (2) of section 15;",
+                                "8": "(i) any other matter in respect of which provision is, in the opinion of the Corporation, necessary for the performance of its functions under this Act:",
+                                "9": "Provided that the regulations under clause (c) or clause (d) shall be made only with the prior approval of the Central Government."
+                            }
+                        }
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Rules and regulations to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act, as it may deem necessary, for the removal of the difficulty:",
+                        "1": "Provided that no such order shall be made after the expiry of a period of three years from the appointed day."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 15th September, 1997, vide notification No. S.O. 509(E), dated 22nd July, 1997, see Gazette of India, Extraordinary, Part II,sec. 3(ii)."
+        },
+        "Page 5": {
+            "0": "1.Subs. by Act 12 of 2008, s.2,for sub-section (1) (w.e.f .7-2-2008)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 6 of 2012, s. 2, for section 11 (w.e.f. 8-3-2012)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 6 of 2012, s. 3, for clause (f) (w.e.f. 8-3-2012)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 6 of 2012, s. 4, for clause (d) (w.e.f. 8-3-2012).",
+            "1": "2. Clause (e) omitted by s. 4, ibid. (w.e.f. 8-3-2012)."
+        }
+    }
+}

@@ -1,0 +1,580 @@
+{
+    "Act Title": "THE COAL MINES PROVIDENT FUND AND MISCELLANEOUS PROVISIONS ACT, 1948",
+    "Act ID": "ACT NO. 46 OF 1948",
+    "Enactment Date": "[3rd September, 1948.]",
+    "Act Definition": {
+        "0": {
+            "text": "An Act to make provisions for the framing of a Provident Fund Scheme 1[, a 2[Pension Scheme]] 3[, a Deposit linked Insurance Scheme] and a Bonus Scheme for persons employed in Coal Mines.",
+            "contains": {
+                "0": "4* * * * *"
+            }
+        }
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "5[(1) This Act may be called the Coal Mines Provident Fund and Miscellaneous Provisions Act 1948].",
+                "1": "6[(2) It extends to the whole of India 7* * *."
+            }
+        },
+        "Section 2.": {
+            "heading": "Interpretation.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless there is anything repugnant in the subject or context,\u2014",
+                    "contains": {
+                        "0": "(a) \u201cbonus\u201d means any sum of money payable to an 8[employee] under the Coal Mines Bonus Scheme framed under this Act;",
+                        "1": "9[(aa) \u201ccoal\u201d includes lignite;]",
+                        "2": {
+                            "text": "10[(b) \u201ccoal mine\u201d means any excavation where any operation for the purpose of searching for or obtaining coal has been or is being carried on, and includes\u2014",
+                            "contains": {
+                                "0": "(i) all borings and bore holes;",
+                                "1": "(ii) all shafts, in or adjacent to and belonging to a coal mine, whether in the course of being sunk or not;",
+                                "2": "(iii) all levels and inclined planes in the course of being driven;",
+                                "3": "(iv) any open cast working or quarry, that is to say, an excavation where any operation for the purpose of searching for or obtaining coal has been or is being carried on, not being a shaft or an excavation which extends below superjacent ground;",
+                                "4": "(v) all conveyors or aerial rope-ways provided for the bringing into or removal from a coal mine of coal or other articles or for the removal of refuse therefrom;",
+                                "5": "(vi) all adits, levels, planes, machinery, works, railways, tramways and sidings, in or adjacent to and belonging to a coal mine;",
+                                "6": "(vii) all workshops situated within the precincts of a coal mine and under the same management and used for purposes connected with that coal mine or a number of coal mines under the same management;",
+                                "7": "(viii) any office of a coal mine;",
+                                "8": "(ix) all power stations for supplying electricity for the purpose of working the coal mine or a number of coal mines under the same management;",
+                                "9": "(x) any premises for the time being used for depositing refuse from a coal mine, or in which any operation in connection with such refuse is being carried on, being premises exclusively occupied by the employer of the coal mine;",
+                                "10": "(xi) all hospitals and canteens maintained for the benefit of the employees of a coal mine or a number of coal mines under the same management;",
+                                "11": "(xii) any coke oven or plant;",
+                                "12": "(xiii) any premises in or adjacent to and belonging to a coal mine, on which any plant or other machinery connected with a coal mine is situated or on which any process ancillary to the work of a coal mine is being carried on;]"
+                            }
+                        },
+                        "3": "(c) \u201ccontribution\u201d means the contribution payable in respect of a member under the Coal Mines Provident Fund Scheme framed under this Act of 1[or the contribution payable in respect of an employee to whom the Insurance Scheme applies];",
+                        "4": {
+                            "text": "2[(d) \u201cemployee\u201d means any person who is employed for wages in any kind of work, manual or otherwise, in or in connection with a coal mine, and who gets his wages directly or indirectly from the employer, and includes\u2014",
+                            "contains": {
+                                "0": "(1) any person employed by or through a contractor in or in connection with a coal mine, and",
+                                "1": {
+                                    "text": "(2) for the purposes of the Coal Mines Provident Fund Scheme, also",
+                                    "contains": {
+                                        "0": "(i) any other person who is employed as a sanitary worker, mali, teacher or domestic servant in or in connection with a coal mine and who receives wages directly from the employer, and",
+                                        "1": "(ii) any apprentice or trainee who receives stipend or other remuneration from the employer.]"
+                                    }
+                                }
+                            }
+                        },
+                        "5": "3[(e) \u201cemployer\u201d, when used in relation to a coal mine, means any person who is the immediate proprietor or lessee or occupier of the coal mine or of any part thereof and in the case of a coal mine the business whereof is being carried on by a liquidator or receiver, such liquidator or receiver and in the case of a coal mine owned by a company the business whereof is being carried on by a managing agent, such managing agent; but does not include a person who merely receives a royalty, rent or fine from the coal mine, or is merely the proprietor of the coal mine, subject to any lease, grant or licence for the working thereof, or is merely the owner of the soil and not interested in the coal of the coal mine; but any contractor for the working of a coal mine or any part thereof shall be subject to this Act in like manner as if he were an employer, but not so as to exempt the employer from any liability;]",
+                        "6": "4* * * * *",
+                        "7": "(f) \u201cFund\u201d means the provident fund established under the Coal Mines Provident Fund Scheme; 5* * *",
+                        "8": "1[(fa) \u201cInsurance Fund\u201d means the Deposit-linked Insurance Fund established under subsection (2) of section 3G;",
+                        "9": "(fb) \u201cInsurance Scheme\u201d means the Coal Mines Deposit-linked Insurance Scheme framed under sub-section (1) of section G;]",
+                        "10": "6 [ 7 [(fc)] [\u201cmanaging agent\u201d has the meaning assigned to it in the Companies Act, 1956 (1 of 1956); and;]",
+                        "11": "(g) \u201cmember\u201d means a member of the Fund.",
+                        "12": "1[(h) \u201cPension Fund\u201d means the Pension Fund established under sub-section (2) of section 3E;",
+                        "13": "(i) \u201cPension Scheme\u201d means the Coal Mines Pension Scheme framed under sub-section (1) of section 3E;",
+                        "14": "(j) \u201csuperannuation\u201f, \u201ein relation to an employee who is a member of the Pension Scheme, means the attainment, by the said employee, of such age as is fixed in the contract or conditions of service as the age on the attainment of which such employee shall vacate the employment.]"
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Coal Mines Provident Fund Scheme.",
+            "paragraphs": {
+                "0": "(1) The Central Government may, by notification in the Official Gazette, frame a scheme to be called the Coal Mines Provident Fund Scheme a for the establishment of a provident fund for 2[employees] and specify the coal mines to which the said scheme shall apply.",
+                "1": "3[(1A) The Fund shall vest in, and be administered by, the Board constituted under section 3A.]",
+                "2": "(2) Any scheme framed under the provisions of sub-section (1) may provide for all or any of the matters specified in the First Schedule."
+            }
+        },
+        "Section 3A.": {
+            "heading": "Constitution of Board of Trustees.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) The Central Government may, by notification in the Official Gazette, constitute, with effect from such date as may be specified therein, a Board of Trustees for the territories to which this Act extends (hereinafter in this Act referred to as the Board) consisting of the following persons, namely:\u2014",
+                    "contains": {
+                        "0": "(a) a Chairman appointed by the Central Government;",
+                        "1": "(b) the Coal Mines Provident Fund Commissioner, ex Officio;",
+                        "2": "(c) three persons appointed by the Central Government;",
+                        "3": "(d) not more than six persons representing Governments of such States as the Central Government may specify in this behalf, from time to time, appointed by the Central Government;",
+                        "4": "(e) six persons representing employers, appointed by the Central Government after consultation with such organisations of employers as may be recognised by the Central Government in this behalf, and of whom at least one shall be a person who is not a member of any such organisation;",
+                        "5": "(f) six persons representing employees, appointed by the Central Government after consultation with such organisations of employees as may be recognised by the Central Government in this behalf and of whom at least one shall be an employee himself and at least one shall be a person who is not a member of any such organisation."
+                    }
+                },
+                "1": "(2) The terms and conditions subject to which a member of the Board may be appointed and the time, place and procedure of the meetings of the Board shall be such as may be provided for in the Coal Mines Provident Fund Scheme.",
+                "2": "(3) The Board shall 5[, subject to the provisions of section 3E 6[and section 3G],] administer the Fund Fund vested in it in such manner as may be specified in the Scheme aforesaid.",
+                "3": "(4) The Board shall perform such other functions as it may be required to perform by or under any provisions of 7[the Coal Mines Provident Fund Scheme 8[, the Coal Mines Family Pension Scheme and the Insurance Scheme]]."
+            }
+        },
+        "Section 3B.": {
+            "heading": "Board of Trustee to be a body corporate.",
+            "paragraphs": {
+                "0": "The board of Trustees constituted under section 3 A shall be a body corporate under the name specified in the notification constituting it, having perpetual succession and a common seal and shall by the said name sue and be sued."
+            }
+        },
+        "Section 3C.": {
+            "heading": "Appointment of officers.",
+            "paragraphs": {
+                "0": "(1) The Central Government shall appoint a Coal Mines Provident Fund Commissioner, who shall be the chief executive officer of the Board and shall be subject to the general control and superintendence of the Board.",
+                "1": "(2) The Central Government may also appoint as many other officers, whose minimum monthly salary in the scale of pay (if any) applicable to them is not less than four hundred rupees, as it may consider necessary to assist the Coal Mines Provident Fund Commissioner in the discharge of his duties.",
+                "2": "(3) Subject to the provisions of sub-sections (1) and (2), the Board may appoint such other officers and employees as it may consider necessary for the efficient administration of the Coal Mines Provident Fund Scheme, 1[, the Coal Mines Family Pension Scheme and the Insurance Scheme].",
+                "3": "(4) The method of recruitment, salary and allowance, discipline and other conditions of service of the Coal Mines Provident Fund Commissioner shall be such as may be specified by the Central Government and such salary and allowances shall be paid out of the Fund.",
+                "4": "(5) The method of recruitment, salary and allowances, discipline and other conditions of service of other officers and employees of the Board shall be such as may be specified by the Board with the approval of the Central Government."
+            }
+        },
+        "Section 3D.": {
+            "heading": "Transfer of accounts.",
+            "paragraphs": {
+                "0": "(1) Where any employee who is a subscriber to any provident fund of the coal mine in which he is employed becomes a member of the fund in accordance with the provisions of any Coal Mines Provident Fund Scheme, the accumulations in the provident fund of the coal mine standing to the credit of the employees shall, notwithstanding anything to the contrary contained in any law for the time being in force or in any deed or other instrument establishing the provident fund but subject to the provisions, if any, contained in the Scheme, be transferred, by such person and within such time as may be provided in the Scheme, to the Fund and shall be credited to the account of the employee in the Fund.",
+                "1": "(2) Where a member of the Fund leaves his employment in a coal mine and obtains re-employment in any other establishment (not being a coal mine to which the Coal Mines Provident Fund Scheme applies) and becomes a subscriber to any provident fund of that establishment, the amount of accumulations to the credit of such employee in the Fund shall be transferred, within such time as may be specified by the Central Government in this behalf, to the credit of his account in the provident fund of the establishment in which he is re-employed, if the employee so desires and the rules in relation to that provident fund permit such transfer.",
+                "2": "(3) Where any employee who is a subscriber to any provident fund of an establishment (not being a coal mine to which the Coal Mines Provident Fund Scheme applies) leaves his employment in that establishment and obtains re-employment in a coal-mine and becomes a member of the Fund, the amount of accumulations to the credit 100 of such employee in the provident fund of the establishment left by him shall, if the employee so desires and the rules in relation to such provident fund so permit, be transferred to the credit of his account in the Fund.]"
+            }
+        },
+        "Section 3E.": {
+            "heading": "Coal Mines Pension Scheme.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) The Central Government may, by notification in the Official Gazette, frame a scheme to be called the Coal Mines Pension Scheme for the purpose of providing for\u2014",
+                    "contains": {
+                        "0": "(a) superannuation pension, retiring pension or permanent total disablement pension to the persons employed in any coal mine or class of coal mines to which this Act applies; and",
+                        "1": "(b) widow or widower pension, children pension or orphan pension and life assurance benefits, payable to the beneficiaries of such employees."
+                    }
+                },
+                "1": {
+                    "text": "(2) Notwithstanding anything contained in section 3, there shall be established, as soon as may be after framing of the Pension Scheme, a Pension Fund into which there shall be paid, from time to time, in respect of every employee who is a member of the Pension Scheme,\u2014",
+                    "contains": {
+                        "0": "(a) such sums, not exceeding one-fourth, of the amount payable to the Fund under sub-section (1) of section 10D as the employer\u201fs contribution as well as the employee\u201fs contribution, as may be specified in the Pension Scheme;",
+                        "1": "(b) such sums as the Central Government may, after due appropriation made by Parliament by law in this behalf, specify;",
+                        "2": "(c) the net assets of the [Pension Fund] as existed immediately before the establishment of the Pension Fund; and",
+                        "3": "(d) any other contribution which may be made to the Pension Fund with the previous approval of the Central Government."
+                    }
+                },
+                "2": "(3) On the establishment of the Pension Fund, the Pension Scheme (hereinafter referred to as the ceased scheme) shall cease to operate and all assets of the ceased scheme shall vest in, and shall stand transferred to, and all liabilities under the ceased scheme shall be enforceable against, the Pension Fund and the beneficiaries under the ceased scheme shall be entitled to draw the benefits, not less than the benefits, they were entitled to under the ceased scheme, from the Pension Fund.",
+                "3": "(4) The Pension Fund shall vest in and be administered by the Board in such manner as may be specified in the Pension Scheme.",
+                "4": "(5) A Scheme framed under the provision of sub-section (1) may provide for all or any of the matters specified in the Second Schedule.]"
+            }
+        },
+        "Section 3F.": {
+            "heading": "Special grant by Central Government.",
+            "paragraphs": {
+                "0": "The Central Government shall, after due appropriation made by Parliament by law in this behalf, pay such further sums as may be determined by it into the Family Pension Fund to meet all the expenses in connection with the administration of the Coal Mines Family Pension Scheme other than the expenses towards the cost of any benefits provided by or under the said Scheme.]"
+            }
+        },
+        "Section 3G.": {
+            "heading": "Coal Mines Deposit-linked Insurance Scheme.",
+            "paragraphs": {
+                "0": "(1) The Central Government may, by notification in the Official Gazette, frame a scheme to be called the Coal Mines Deposit-linked Insurance Scheme for the purpose of providing life insurance benefits to such employees as are covered by the Coal Mines Provident Fund Scheme.",
+                "1": "(2) There shall be established, as soon as may be after the framing of the Insurance Scheme, a Deposit-linked Insurance Fund into which shall be paid by the employer from time to time in respect of every such employee in relation to whom he is the employer such amount, not being more than one per cent. of the aggregate of the basic wages, dearness allowance and retaining allowance (if any) for the time being payable in relation to such employee, as the Central Government may, be notification in the Official Gazette, specify.",
+                "2": {
+                    "text": "Explanation.\u2014For the purposes of this sub-section,\u2014",
+                    "contains": {
+                        "0": "(a) the expression \u201cbasic wages\u201d has the meaning assigned to it in the Employees\u201f Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952);",
+                        "1": "(b) \u201cdearness allowance\u201d means all cash payments, by whatever name called, paid to an employee on account of a rise in the cost of living and shall be deemed to include also the cash value of any food concession allowed to the employee;",
+                        "2": "(c) \u201cretaining allowance\u201d means an allowance payable for the time being to an employee of any coal mine during any period in which the coal mine is not working, for retaining his services."
+                    }
+                },
+                "3": "(3) The Central Government shall after due appropriation made by Parliament by law, contribute to the Insurance Fund in relation to each employee covered by the Coal Mines Provident Fund Scheme, an amount representing one half of the contribution which an employer is required, by sub-section (2), to make.",
+                "4": "(4) (a) The employer shall pay into the Insurance Fund such further sums of money, not exceeding one-fourth of the contribution which he is required to make under sub-section (2), as the Central Government, may from time to time, determine, to meet all the expenses in connection with the administration of the Insurance Scheme other than the expenses towards the cost of any benefits provided by or under that scheme.",
+                "5": "(b) The Central Government shall, after due appropriation made by Parliament by law, pay into the Insurance Fund such further sums of money representing one-half of the sums payable by the employer under clause (a), to meet all the expenses in connection with the administration of the Insurance Scheme other than the expenses towards the cost of any benefits provided by or under that scheme.",
+                "6": "(5) The Insurance Fund shall vest in the Board and shall be administered by the Board in such manner as may be specified in the Insurance Scheme.",
+                "7": "(6) Any scheme framed under the provisions of sub-section (1) may provide for all or any of the matters specified in the Third Schedule.]"
+            }
+        },
+        "Section 4.": {
+            "heading": "Fund to be recognised under Act 43 of 1961.",
+            "paragraphs": {
+                "0": "For the purposes of the Income-tax Act, 1961, the Fund shall be deemed to be a recognised Provident Fund within the meaning of Part A of the Fourth Schedule to that Act.]"
+            }
+        },
+        "Section 5.": {
+            "heading": "Coal Mines Bonus Schemes.",
+            "paragraphs": {
+                "0": "(1) The Central Government may, by notification in the Official Gazette, frame a scheme to be called the Coal Mines Bonus Scheme for the payment of bonus to 2[employees] and specify the coal mines to which the said scheme shall apply.",
+                "1": "(2) A scheme framed under the provisions of sub-section (1) may provide for all or any of the matters specified in the 3[Fourth Schedule.]",
+                "2": "4[(3) The employer shall pay the bonus in accordance with the Scheme as aforesaid.]"
+            }
+        },
+        "Section 6.": {
+            "heading": "Retrospective operation of a scheme.",
+            "paragraphs": {
+                "0": "A scheme framed under this Act may provide that any of its provisions shall come into force either prospectively or retrospectively with effect from such date as may be specified in this behalf in the scheme."
+            }
+        },
+        "Section 7.": {
+            "heading": "Modification of a scheme.",
+            "paragraphs": {
+                "0": "The Central Government may, by notification in the Official Gazette, add to, amend or vary, 5[either prospectively or retrospectively] a scheme framed under this Act."
+            }
+        },
+        "Section 7A.": {
+            "heading": "Schemes to be laid before Parliament.",
+            "paragraphs": {
+                "0": "Every scheme made under this Act shall be laid as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in 7[two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid], both Houses agree in making any modification in the scheme or both Houses agree that the scheme should not be made, the scheme shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that scheme."
+            }
+        },
+        "Section 7B.": {
+            "heading": "Determination of moneys due from employers.",
+            "paragraphs": {
+                "0": "(1) The Coal Mines Provident Fund Commissioner or any other officer duly authorised in this behalf by the Central Government may, by order, determine the amount due from any employer under any provision of this Act or of any scheme framed thereunder and for this purpose may conduct such enquiry as he may deem necessary.",
+                "1": {
+                    "text": "(2) The officer conducting the enquiry under sub-section (1) shall, for the purpose of such enquiry, have the same powers as are vested in a Court under the Code of Civil Procedure, 1908 (5 of 1908) for trying a suit in respect of the following matters, namely:\u2014",
+                    "contains": {
+                        "0": "(a) enforcing the attendance of any person or examining him on oath;",
+                        "1": "(b) requiring the discovery and production of documents;",
+                        "2": "(c) receiving evidence on affidavit;",
+                        "3": "(d) issuing commissions for the examination of witnesses;"
+                    }
+                },
+                "2": {
+                    "text": "and any such enquiry shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purpose of section 196, of the Indian Penal Code (45 of 1860).",
+                    "contains": {
+                        "0": "(3) No order determining the amount due from any employer shall be made under sub-section (1) unless the employer is given a reasonable opportunity of representing his case.",
+                        "1": "(4) An order made under this section shall be final and shall not be questioned in any Court of law.]"
+                    }
+                }
+            }
+        },
+        "Section 8.": {
+            "heading": "Protection against attachment.",
+            "paragraphs": {
+                "0": "(1) The amount of provident fund standing to the credit of any member in the Fund shall not in any way be capable of being assigned or charged and shall not be liable to attachment under any decree or order of any Court in respect of any debt or liability incurred by the member and neither the Official Assignee nor any Receiver appointed under the Provincial Insolvency Act, 1920 (5 of 1920), shall be entitled to, or have any claim on, any such amount.",
+                "1": "(2) Any amount standing to the credit of any member in the Fund at the time of his death and payable to his nominee under the Coal Mines Provident Fund Scheme shall, subject to any deduction authorized by the said scheme, vest in the nominee and shall be free from any debt or other liability incurred by the deceased or incurred by the nominee before the death of the member.",
+                "2": "1[(3) The provisions of sub-section (1) and sub-section (2) shall, so far as may be, apply in relation to the family pension or any other amount payable under the Coal Mines Family Pension Scheme 2[and also in relation to any amount payable under the Insurance Scheme] as they apply in relation to any amount payable out of the Fund.]"
+            }
+        },
+        "Section 9.": {
+            "heading": "Penalty.",
+            "paragraphs": {
+                "0": {
+                    "text": "3[(1) If any person\u2014",
+                    "contains": {
+                        "0": "(a) contravenes any provisions of this Act or of any scheme framed thereunder, he shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees or with both;",
+                        "1": "(b) who has been convicted of any offence punishable is aforesaid, is again guilty of any such offence within a period of two years from the date of the previous conviction, he shall be punishable on conviction with imprisonment for a term which may extend to one year, or with fine which may extend to two thousand rupees, or with both.]"
+                    }
+                },
+                "1": "(2) No Court shall take cognizance of any offence punishable under 4[sub-section (1)] except on a report in writing of the facts constituting such offence made by an Inspector with the previous sanction of such authority as may be specified in this behalf by the Central Government.",
+                "2": "5[(3) No Court inferior to that of a Presidency Magistrate or a Magistrate of the first class shall try any offence punishable under sub-section (1)]."
+            }
+        },
+        "Section 10.": {
+            "heading": "Inspectors.",
+            "paragraphs": {
+                "0": "(1) The Central Government may, by notification in the Official Gazette, appoint such persons as it thinks fit to be Inspectors for the purposes of the Coal Mines Provident Fund Scheme 6[or the Insurance Scheme] or the Coal Mines Bonus Scheme and may define their jurisdiction.",
+                "1": {
+                    "text": "(2) An Inspector may, in respect of any coal mine within his jurisdiction,\u2014",
+                    "contains": {
+                        "0": {
+                            "text": "1 [(a) require an employer or any contractor from whom any amount is recoverable under section 10E\u2014",
+                            "contains": {
+                                "0": "(i) to furnish such information, or",
+                                "1": "(ii) to produce in the office of the Inspector or such other place as may be nearer to the employer or, as the case may be, the contractor, such accounts, books, registers and other documents,"
+                            }
+                        },
+                        "1": {
+                            "text": "relating to the employment of persons in a coal mine as the Inspector may consider necessary for the purposes of any scheme framed under this Act;]",
+                            "contains": {
+                                "0": "(b) at any reasonable time 2[and with such assistance, if any, as he may think fit, enter and search any coal mine] and require any one found in charge thereof to produce before him such accounts, books, registers and other documents relating to the employment of persons in the coal mine as he may consider necessary;",
+                                "1": "(c) examine, with respect to any matter relevant to any of the purposes aforesaid, the employer 3[or any contractor from whom any amount is recoverable under section 10E], his agent or servant or any other person found in charge of the coal mine 4* * * or whom the Inspector has reasonable cause to believe to be or to have been an employee in the coal mine.",
+                                "2": "3(d) make copies of, or take extracts from, any accounts, books, registers or other documents maintained in relation to a coal mine and where he has reason to believe that any offence under this Act has been committed by an employer or contractor, seize with such assistance as he may think fit, such accounts, books, registers or other documents or portions thereof as he may consider relevant in respect of that offence;",
+                                "3": "(e) exercise such other powers as any such Scheme may provide.]"
+                            }
+                        },
+                        "2": "3(2A) Every person required to furnish any information or produce any document under clause (a) or clause (b) of sub-section (2) shall be deemed to be legally bound to do so within the meaning of section 175 of the Indian Penal Code (45 of 1860).",
+                        "3": "(2B) The provisions of the 5[Code of Criminal Procedure, 1973, (2 of 1974)] shall, so far as may be, apply to any search or seizure under sub-section (2) as they apply to any search or seizure made under the authority of a warrant issued under 5[section 94 of the said Code.]",
+                        "4": "(3) Every Inspector shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code, 1860 (45 of 1860)."
+                    }
+                }
+            }
+        },
+        "Section 10A.": {
+            "heading": "Mode of recovery of money due from an employer.",
+            "paragraphs": {
+                "0": "Any amount due from an employer in in respect of any contribution or bonus under any scheme framed under this Act 7[or any accumulations required to be transferred under sub-section (1) or sub-section (3) of section 3D or any damages recoverable under section 10F or any charges payable by the employer under this Act in respect of the administration of any such scheme] may be recovered by the Central Government in the same manner as an arrear of land revenue.]"
+            }
+        },
+        "Section 10B.": {
+            "heading": "Determination of employer in certain cases.",
+            "paragraphs": {
+                "0": "(1) Where the employer is a firm or other association of individuals, all, or any of the partners or members thereof, or where the employer is a company, all or any of the directors thereof, may be prosecuted and punished under this Act for any offence for which the employer is punishable:",
+                "1": {
+                    "text": "Provided that where a firm, association or company has given notice in writing to the Coal Mines Provident Fund Commissioner or any officer specified by the Central Government in this behalf that it has nominated,\u2014",
+                    "contains": {
+                        "0": "(a) in the case of a firm, any of its partners,",
+                        "1": "(b) in the case of an association, any of its members,",
+                        "2": "(c) in the case of a company, any of its directors,"
+                    }
+                },
+                "2": {
+                    "text": "who is resident in each case in any place to which this Act extends and who is in each case either in fact in charge of the management of, or holds the largest number of shares in, such firm, association or company, to assume the responsibility of the employer for the purposes of this Act or of any scheme framed thereunder, such partner, member or director, as the case may be, shall, so long as he continues to so reside and be in charge or hold the largest number of shares as aforesaid, be deemed to be the employer for the purposes of this Act or any scheme framed thereunder, unless a notice in writing cancelling his nomination or stating that he has ceased to be a partner, member or director, as the case may be, is received by the Coal Mines Provident Fund Commissioner or any officer specified by the Central Government in this behalf.",
+                    "contains": {
+                        "0": "(2) Where the employer is a Government or any local authority, all or any of the officers or persons authorised by such Government or local authority, as the case may be, to manage the affairs of the coal mine, shall, notwithstanding anything to the contrary contained in any law or contract for the time being in force, be deemed to be the employers or employer in respect of the coal mine and may be prosecuted and punished under this Act for any offence for which the employer is punishable."
+                    }
+                }
+            }
+        },
+        "Section 10C.": {
+            "heading": "Delegation of powers.",
+            "paragraphs": {
+                "0": "(1) The Central Government may, by notification in the Official Gazette, direct that any power exercisable by it under this Act or any scheme framed thereunder shall, subject to such conditions, if any, as may be specified in the notification, be exercisable also by the Coal Mines Provident Fund Commissioner or any officer authorised in this behalf by the Central Government.",
+                "1": "(2) The Board may delegate to its Chairman or the Coal Mines Provident Fund Commissioner or any other officer or the Board, subject to such conditions and limitations, if any, as the Board may specify, such of the powers and functions of the Board under this act or any scheme framed thereunder, as the Board may deem necessary for the efficient administration of any scheme framed under this Act."
+            }
+        },
+        "Section 10D.": {
+            "heading": "Payment of contribution by employers and recovery thereof from members.",
+            "paragraphs": {
+                "0": "(1) The contribution shall be payable by the employer (hereinafter referred to as the employer\u201fs contribution) and by the employee (hereinafter referred to as the employee\u201fs contribution) at such rate as may be specified in the Coal Mines Provident Fund Scheme, and the employer shall pay the employer\u201fs contribution as well as the employee\u201fs contribution, whether or not he has recovered from any employee the employee\u201fs share of the contribution.",
+                "1": "(2) The amount of any contribution paid by the employer on behalf of a member shall, notwithstanding anything to the contrary contained in any other law for the time being in force or any contract, be recoverable by means of deduction from the wages of the member and not otherwise.",
+                "2": "(3) Save as otherwise provided in the Coal Mines Provident Fund Scheme, no deduction under sub-section (2) shall be made from any wages other than such as are paid in respect of the period for which the contribution is payable.",
+                "3": "(4) Notwithstanding any contract to the contrary, the employer shall not be entitled to deduct the employer\u201fs contribution or the charges referred to in section 10A from the wages of a member or otherwise to recover such contribution or charges from such member."
+            }
+        },
+        "Section 10E.": {
+            "heading": "Recovery of monies by employers and contractors.",
+            "paragraphs": {
+                "0": "(1) 1[The amount of contribution (that is to say the employer\u201fs contribution as well as the employee\u201fs contribution in pursuance of the Coal Mines Provident Fund Scheme and the employer\u201fs contribution in pursuance of the Insurance Scheme)] and any charges referred to in section 10A paid or payable by an employer in respect of an employee employed by or through a contractor and any bonus paid or payable under any Coal Mines Bonus Scheme in respect of any such employee may be recovered by such employer from the contractor either by deduction from any amount payable to the contractor under any contract or as a debt payable by the contractor.",
+                "1": "(2) A contractor from whom the amounts mentioned in sub-section (1) may be recovered in respect of any employee employed by or through him may, save as otherwise provided in the Coal Mines Provident Fund Scheme, recover from such employee the employee\u201fs contribution under any such Scheme by deduction from the wages payable to the employee subject to the condition that no such deduction shall be made from any wages other than such as are payable in respect of the period to which the employee\u201fs contribution relates.",
+                "2": "(3) Notwithstanding any contract to the contrary, no contractor shall be entitled to deduct the employer\u201fs contribution or the charges or bonus referred to in sub-section (1) from the amount payable to an employee employed by or through him or otherwise to recover such contribution or charges or bonus from such employee."
+            }
+        },
+        "Section 10F.": {
+            "heading": "Power to recover damages.",
+            "paragraphs": {
+                "0": "Where an employer makes default in the payment of any contribution or bonus or any charges payable by him under any scheme framed under this Act, or where any person who is required to transfer provident fund accumulations in accordance with the provisions of section 3D makes default in the transfer of such accumulations, the Central Government may recover from such employer or person, as the case may be, such damages, not exceeding twenty-five per cent of the amount of arrears, as it may think fit to impose.]"
+            }
+        },
+        "Section 11.": {
+            "heading": "Priority of payment of contributions and bonus over other debts.",
+            "paragraphs": {
+                "0": "The amount due in respect of any contribution or bonus under a scheme framed under this Act or any charges incurred in respect of the administration of any such scheme, shall, where the liability therefore has accrued before the persons liable has been adjudicated insolvent or, in the case of a company ordered to be wound up, before the date of such order, be deemed to be included among the debts which, under section 49 of the Presidency-towns Insolvency Act, 1909 (3 of 1909), or under section 61 of the Provincial Insolvency Act, 1920 (5 of 1920), or under section 230 of the 1[Companies Act, 1956 (1 of 1956),] are to be paid in priority to all other debts in the distribution of the property of the insolvent or the assets of a company being wound up, as the case may be."
+            }
+        },
+        "Section 11A.": {
+            "heading": "Protection for acts done in good faith.",
+            "paragraphs": {
+                "0": "No suit or other legal proceeding shall lie against any person in respect of anything which is in good faith done or intended to be done under this Act or under any schemes framed thereunder.]"
+            }
+        },
+        "Section 11B.": {
+            "heading": "Power to remove difficulties.",
+            "paragraphs": {
+                "0": "If any difficulty arises in giving effect to the provisions of this Act or any scheme framed thereunder the Central Government may, by order published in the Official Gazette, make such provision or give such direction not inconsistent with the purposes of this Act, as it appears to it to be necessary or expedient for removing the difficulty.]"
+            }
+        },
+        "Section 11C.": {
+            "heading": "Power to exempt.",
+            "paragraphs": {
+                "0": "(1) The Central Government may, if requested so to do by the employer, by notification in the Official Gazette, and subject to such conditions as may be specified in the notification, exempt any coal mine from the operation of all or any of the provisions of the Insurance Scheme, if it is satisfied that the employees of such coal mine are without making any separate contribution or payment of premium, in enjoyment of benefits in the nature of life insurance, whether linked to their deposits in provident fund or not, and such benefits are more favourable to such employees than the benefits admissible under the Insurance Scheme.",
+                "1": "(2) Without prejudice to the provisions of sub-section (1), the Insurance Scheme may provide for the exemption of any person or class of persons employed in any coal mine and covered by that scheme from the operation of all any of the provisions thereof, if the benefits in the nature of life insurance admissible to such person or class of persons are more favourable than the benefits provided under the Insurance Scheme.",
+                "2": {
+                    "text": "(3) Where in respect of any person or class of persons employed in any coal mine, an exemption is granted under this section from the operation of all or any of the provisions of the Insurance Scheme (whether such exemption is granted to the coal mine wherein such person or class of persons is employed or to the person or class of persons as such), the employer in relation to such coal mine\u2014",
+                    "contains": {
+                        "0": "(a) shall, in relation to the benefits in the nature of life insurance, to which any such person or class of persons is entitled, or any insurance fund, maintain such accounts, submit such returns, make such investment, provide for such facilities for inspection and pay such inspection charges, as the Central Government may direct;",
+                        "1": "(b) shall not, at any time after the exemption without the leave of the Central Government, reduce the total quantum of benefits in the nature of life insurance to which any such person or class of persons was entitled immediately before the date of the exemption; and",
+                        "2": "(c) shall, where any such person leaves his employment and obtains reemployment in any other coal mine transfer within such time as may be specified in this behalf by the Central Government, the amount of accumulations to the credit of that person in the insurance fund of the coal mine left by him to the credit of that person\u201fs account in the insurance fund of the coal mine in which he is reemployed or, as the case may be, in the Deposit-linked Insurance Fund."
+                    }
+                },
+                "3": "Explanation.\u2014For the purposes of this sub-section \u201cinsurance fund\u201d means any fund established by an employer under any scheme for providing benefits in the nature of life insurance to employees, whether linked to their deposits in provident fund or not, without payment by the employees of any separate contribution or premium in that behalf.",
+                "4": {
+                    "text": "(4) Any exemption granted under this section may be cancelled by the authority which granted it, by order in writing, if an employer fails to comply\u2014",
+                    "contains": {
+                        "0": "(a) in the case of an exemption granted under sub-section (1) with any of the conditions imposed under that sub-section or with any of the provisions of sub-section (3);",
+                        "1": "(b) in the case of an exemption granted under sub-section (2), with any of the provisions of sub-section (3)."
+                    }
+                },
+                "5": "(5) Where any exemption granted under sub-section (1) or sub-section (2) is cancelled, the amount of accumulations to the credit of every employee to whom such exemption applied, in the insurance fund of the coal mine in which he is employed shall be transferred within such time and in such manner as may be specified in the Insurance Scheme to the credit of his account in the Insurance Fund."
+            }
+        },
+        "Section 11D.": {
+            "heading": "Act to have effect notwithstanding anything contained in Act 31 of 1956.",
+            "paragraphs": {
+                "0": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in the Life Insurance Corporation Act, 1956.]"
+            }
+        },
+        "Section 12.": {
+            "heading": "Repeal of Ordinance 7 of 1948.",
+            "paragraphs": {
+                "0": "(1) The Coal Mines Provident Fund and Bonus Schemes Ordinance, 1948, is hereby repealed.",
+                "1": "(2) Notwithstanding any such repeal, anything done or any action taken in exercise of any power conferred by or under the said Ordinance shall be deemed to have been done or taken in exercise of the powers conferred by or under this Act, as if this Act had commenced on the 23rd day of April, 1948."
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": {
+                "text": "THE FIRST SCHEDULE",
+                "contains": {
+                    "0": "(See section 3)"
+                }
+            },
+            "1": "MATTERS TO BE PROVIDED FOR IN THE COAL MINES POROVIDENT FUND SCHEME",
+            "2": "1. The employees or class of employees who shall join the Fund, the contributions payable to the Fund and the conditions under which an employee may be exempted from joining the Fund or from payment of contributions.",
+            "3": "1[2. Payment of contributions to the Fund by employers and by, or on behalf of, 2[employees (whether employed by an employer directly or by or through a contractor),] the rate, time and manner of such payment and the manner in which such contributions may be recovered.]",
+            "4": "3 [2A. The manner in which employees\u201f contribution may be recovered by contractors from employees employed by or through such contractors.]",
+            "5": "3. The payment by the employer of such sums of money as may be considered necessary to meet the cost of administering the Fund and the rate at which and the manner in which 4[the payment shall be made.]",
+            "6": "5[4. The constitution of any Committee for assisting the Board.]",
+            "7": "6[5. The opening of regional and other offices.]",
+            "8": "6. The manner in which accounts shall be kept, the investment of moneys belonging to the Fund, the preparation of a budget, the audit of accounts and the submission of reports to the Central Government.",
+            "9": "7. The conditions under which withdrawals from the Fund may be permitted and any deduction or forfeiture may be made and 7[, the maximum amount of such deduction or forfeiture and the utilisation of such deducted or forfeited amounts.]",
+            "10": "8. The fixation of the rate of interest payable to members by the Central Government in consultation with the Board of Trustees.",
+            "11": "9. The form in which an employee shall furnish particulars about himself and his family when required.",
+            "12": "10. The nomination of a person to receive the amount standing to the credit of a member after his \u201cdeath and the cancellation or the change of such nomination.",
+            "13": "11. The registers and records to be maintained by the employer 3[or contractor] and the returns to be furnished by him.",
+            "14": "12. The form or design of an identity card or a token or a disc for purposes of identifying any employee and for the issue, custody and replacement thereof.",
+            "15": "13. The fees to be levied for any of the purposes specified in this Schedule.",
+            "16": "8[13A. The manner in which accumulations in any existing provident fund shall be transferred to the Fund under section 3D, and the mode of valuation of any assets which may be transferred by the person administering such provident fund.",
+            "17": "14. Any other matter which is to be provided for in the Coal Mines Provident Fund Scheme or which may be necessary or proper for the purpose of implementing that Scheme.]"
+        },
+        "THE SECOND SCHEDULE": {
+            "0": {
+                "text": "1[THE SECOND SCHEDULE",
+                "contains": {
+                    "0": "(See section 3E(5)]"
+                }
+            },
+            "1": "MATTERS TO BE PROVIDED FOR IN THE COAL MINES FAMILY PENSION SCHEME",
+            "2": "1. The employees or class of employees to whom the Coal Mines Pension Scheme shall apply and the time within which option to join that scheme shall be exercised by those employees to whom the said scheme does not apply.",
+            "3": "2. The time within which the employees who are not members of the Family Pension Scheme under section 3E as it stood before the commencement of the Coal Mines Provident Fund and Miscellaneous Provisions (Amendment) Act, 1996 (hereinafter, in this Schedule, referred to as the amending Act) shall opt for the Pension Scheme.",
+            "4": "3. The portion of employers\u201f contribution and employees\u201f contribution to the Fund which shall be credited to the Pension Fund and the manner in which it is credited.",
+            "5": "4. The Central Government contribution and other contributions to the Fund which shall be credited to the Pension Fund and the manner in which it is credited.",
+            "6": "5. The minimum qualifying service for being eligible for pension and the manner in which the employees may be granted the benefits of their past service under section 3E as it stood before the commencement of the amending Act.",
+            "7": "6. The regulation of the period of service for which no contribution is received.",
+            "8": "7. The manner in which employees\u201f interest will be protected against default in payment of contribution by the employer.",
+            "9": "8. The manner in which the accounts of the Pension Fund shall be kept and investment of moneys belonging to Pension Fund to be made subject to such pattern of investment as may be determined by the Central Government",
+            "10": "9. The form in which an employee shall furnish particulars about himself and the members of his family whenever required.",
+            "11": "10. The forms, registers and records to be maintained in respect of employees required for the administration of the Pension Scheme.",
+            "12": "11. The scale of pension and pensionary benefits and the conditions relating to grant of such benefits to the employees, the amount of life assurance payable under the Pension Scheme and the manner of such payment.",
+            "13": "12. The mode of disbursement of pension and arrangements to be entered into with such disbursing agencies as may be specified for the purpose.",
+            "14": "13. The manner in which the expenses incurred in connection with the administration of the Pension Scheme may be paid by the Central Government to the Board.",
+            "15": "14. Nomination of persons for receiving pension and assurance amounts in the case of death of an employee.",
+            "16": "15. Any other matter which is to be provided for in the Pension Scheme or which may be necessary or proper for the purpose of implementation of the Pension Scheme.]."
+        },
+        "THE THIRD SCHEDULE": {
+            "0": {
+                "text": "1[THE THIRD SCHEDULE",
+                "contains": {
+                    "0": "(See section 3G)"
+                }
+            },
+            "1": "MATTERS TO BE PROVIDED FOR IN THE COAL MINES DEPOSIT-LINKED INSURANCE SCHEME",
+            "2": "1. The employees or class of employees who shall be covered by the Insurance Scheme.",
+            "3": "2. The manner in which the accounts of the Insurance Fund shall be kept and the investment of moneys belonging to the Insurance Fund, subject to such pattern of investment as may be determined, by order, by the Central Government.",
+            "4": "3. The form in which an employee shall furnish particulars about himself and the members of his family whenever required.",
+            "5": "4. The nomination of a person to receive the insurance amount due to the employee after his death and the cancellation or variation of such nomination.",
+            "6": "5. The registers and records to be maintained in respect of employees; the form or design of any identity card, token or disc for the purpose of identifying any employee or his nominee or member of his family entitled to receive the insurance amount.",
+            "7": "6. The scales of insurance amount which shall not be less than the average balance in the account of the employee concerned in the Fund during a period of three years immediately preceding his death or more than rupees ten thousand.",
+            "8": "7. The minimum average balance to be maintained by an employee in the Fund to make him eligible for the benefits under the scheme.",
+            "9": "8. The manner in which the amount due to the nominee or the member of the family of the employee under the scheme is to be paid including a provision that the amount shall not be paid otherwise than in the form of a deposit in a savings bank account, in the name of such nominee or member of family, in any corresponding new bank specified in the First Schedule to the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970).",
+            "10": "9. Any other matter which is to be provided for in the Insurance Scheme or which may be necessary or proper for the purpose of implementing that scheme.]"
+        },
+        "THE FOURTH SCHEDULE": {
+            "0": {
+                "text": "1[THE FOURTH SCHEDULE]",
+                "contains": {
+                    "0": "(See section 5)"
+                }
+            },
+            "1": "MATTERS TO BE PROVIDED FOR IN THE COAL MINES BONUS SCHEME",
+            "2": "1. The payment of bonus dependent on the attendance of an 2[employee] during any period.",
+            "3": "2. The employees or class of employees who shall be eligible for the bonus and the conditions of eligibility.",
+            "4": "3. The rate at which the bonus shall be payable to an employee and the manner in which the bonus shall be calculated.",
+            "5": "4. The conditions under which an employee may be debarred from getting the bonus in whole or in part.",
+            "6": "5. The rate at which sums shall be set apart by the employer for payment of bonus and the time and manner of such payment.",
+            "7": "6. The registers and records to be maintained by the employer 3[or contractor] and the returns to be furnished by him.",
+            "8": "4 [6A. The transfer, by an employer to the Fund or any other fund specified by the Central Government, of the amount of bonus remaining unpaid or unclaimed for a period of six months from the end of the quarter to which the bonus relates and the extinguishment of the employer\u201fs liability to his employees to the extent of the amount so transferred.",
+            "9": "7. Any other matter which is to be provided for in the Coal Mines Bonus Scheme or which may be necessary or proper for the purpose of implementing that Scheme.]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. Subs. by Act 23 of 1996, s. 2, for \u201cFamily Pension Scheme\u201d (w.e.f. 31-3-1998).",
+            "1": "2. Ins. by Act 16 of 1971, s. 2.",
+            "2": "3. Ins. by Act 99 of 1976, s. 2 (w.e.f. 1-8-1976).",
+            "3": "4. Omitted by Act 16 of 1971, s. 3.",
+            "4": "5. Subs. by Act 99 of 1976, s. 3, for sub-section (1) (w.e.f. 1-8-1976).",
+            "5": "6. Subs. by the A.O. 1950, for sub-section (2).",
+            "6": "7. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 51 of 1970, s. 2 and the Schedule (w.e.f. 1-9-1971).",
+            "7": "8. Subs. by Act 80 of 1950, s. 3, for \u201cemployee in a coal mine\u201d.",
+            "8": "9. Ins. by Act 45 of 1965, s. 2 (w.e.f. 1-4-1966).10. Subs. by s. 2, ibid., for clause (b) (w.e.f. 1-4-1966)."
+        },
+        "Page 4": {
+            "0": "1. Ins. by Act 99 of 1976, s. 4 (w.e.f. 1-8-1976).",
+            "1": "2. Subs. by Act 45 of 1965, s. 2, for clause (d) (w.e.f. 1-4-1966).",
+            "2": "3. Subs. by s. 2, ibid., for clause (e) (w.e.f. 1-4-1966).",
+            "3": "4. Omitted by Act 23 of 1996, s. 3 (w.e.f. 31-3-1998).",
+            "4": "5. The word \u201cand\u201d omitted by Act 45 of 1965, s. 2 (w.e.f. 1-4-1966).",
+            "5": "6. Ins. by s. 2, ibid. (w.e.f. 1-4-1966).",
+            "6": "7. Clause (ff) re-lettered as clause (fc) thereof by Act 99 of 1976, s. 4 (w.e.f. 1-8-1976)."
+        },
+        "Page 5": {
+            "0": "1. Ins. by Act 23 of 1996, s. 3 (w.e.f. 31-3-1998).",
+            "1": "2. Subs. by Act 80 of 1950, s. 4, for \u201cemployees in coal mines\u201d.",
+            "2": "3. Ins. by Act 45 of 1965, s. 3 (w.e.f. 1-4-1966).",
+            "3": "4. Ins. by s. 4, ibid. (w.e.f. 1-4-1966).",
+            "4": "5. Ins. by Act 16 of 1971, s. 6 (w.e.f. 13-2-1971).",
+            "5": "6. Ins. by Act 99 of 1976, s. 5 (w.e.f. 1-8-1976).",
+            "6": "7. Subs. by Act 16 of 1971, s. 6, for \u201cthe scheme aforesaid\u201d (w.e.f. 13-2-1971).",
+            "7": "8. subs. by Act 99 of 1976, s. 5, for \u201cand the Coal Mines Family Pension Scheme\u201d (w.e.f. 1-8-1976)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 99 of 1976, s. 6, for \u201cand the Coal Mines Family Pension Scheme\u201d (w.e.f. 1-8-1976).",
+            "1": "2. Subs. by Act 23 of 1996, s. 5, for section 3E  (w.e.f. 31-3-1998)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 99 of 1976, s. 7 (w.e.f. 1-8-1976)."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 23 of 1996, s. 6, for section 4 (w.e.f. 31-3-1996).",
+            "1": "2. Subs. by Act 80 of 1950, s. 4, for \u201cemployees in coal mines\u201d.",
+            "2": "3. Subs. by Act 99 of 1976, s. 8, for \u201cThird Schedule\u201d (w.e.f. 1-8-1976).",
+            "3": "4. Ins. by Act 45 of 1965, s. 5 (w.e.f. 1-4-1966).",
+            "4": "5. Ins. by Act 99 of 1976, s. 9 (w.e.f. 1-8-1976).",
+            "5": "6. Ins. by Act 45 of 1965, s. 6 (w.e.f. 1-4-1966).",
+            "6": "7. Subs. by Act 99 of 1976, s. 10, for certain words (w.e.f. 1-8-1976)."
+        },
+        "Page 9": {
+            "0": "1. Ins. by Act 16 of 1971, s. 10 (w.e.f. 13-2-1971).",
+            "1": "2. Ins. by Act 99 of 1976, s. 11 (w.e.f. 1-8-1976).",
+            "2": "3. Subs. by Act 45 of 1965, s. 7, for sub-section (1) (w.e.f. 1-4-1966).",
+            "3": "4. Subs. by s. 7, ibid., for \u201cany such scheme\u201d (w.e.f. 1-4-1966).",
+            "4": "5. Ins. by s. 7, ibid. (w.e.f. 1-4-1966).",
+            "5": "6. Ins. by Act 99 of 1976, s. 12 (w.e.f. 1-8-1976)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 45 of 1965, s. 8, for clause (a) (w.e.f. 1-4-1966).",
+            "1": "2. Subs. by s. 8, ibid., for \u201center any coal mine or its office\u201d (w.e.f. 1-4-1966).",
+            "2": "3. Ins. by s. 8, ibid. (w.e.f. 1-4-1966).",
+            "3": "4. The words \u201cor its office\u201d omitted by s. 8, ibid. (w.e.f. 1-4-1996).",
+            "4": "5. Subs. by Act 23 of 1996, s. 7, for certain words (w.e.f. 31-3-1996).",
+            "5": "6. Ins. by Act 21 of 1951, s. 2.",
+            "6": "7. Ins. by Act 45 of 1965, s. 9 (w.e.f. 1-4-1966).",
+            "7": "8. Ins. by s. 10, ibid. (w.e.f. 1-4-1966)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 99 of 1976, s. 13, for certain words and brackets (w.e.f. 1-8-1976)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 23 of 1996, s. 8, for certain words (w.e.f. 31-3-1998).",
+            "1": "2. Ins. by Act 80 of 1950, s. 5.",
+            "2": "3. Ins. by Act 45 of 1965, s. 11 (w.e.f. 1-4-1966).",
+            "3": "4. Ins. by Act 99 of 1976, s. 14 (w.e.f. 1-8-1976)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 21 of 1951, s. 3, for para 2 (w.e.f. 28-4-1951).",
+            "1": "2. Subs. by Act 45 of 1965, s. 12, for \u201cemployees\u201d (w.e.f. 1-4-1966).",
+            "2": "3. Ins. by s. 12, ibid. (w.e.f. 1-4-1966).",
+            "3": "4. Subs. by Act 21 of 1951, s. 3, for \u201cit shall be paid\u201d.",
+            "4": "5. Subs. by Act 45 of 1965, s. 12, for item 4 (w.e.f. 1-4-1966).",
+            "5": "6. Subs. by s. 12, ibid., for item 5 (w.e.f. 1-4-1966).",
+            "6": "7. Subs. by s. 12, ibid., for certain words (w.e.f. 1-4-1966).",
+            "7": "8. Subs. by s. 12, ibid., for item 14 (w.e.f. 1-4-1966)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 23 of 1996, s. 9, for the Second Schedule (w.e.f. 31-3-1998)."
+        },
+        "Page 16": {
+            "0": "1. Ins. by Act 99 of 1976, s. 15 (w.e.f. 1-8-1976)."
+        },
+        "Page 17": {
+            "0": "1.  THE THIRD SCHEDULE re-numbered as THE FOUTH SCHEDULE by Act 99 of 1976, s. 15 (w.e.f. 1-8-1976).",
+            "1": "2. Subs. by Act 80 of 1950, s. 6, for \u201cemployee in coal mine\u201d.",
+            "2": "3. Ins. by Act 45 of 1965, s. 13 (w.e.f. 1-4-1966).",
+            "3": "4. Subs. by s. 13, ibid., for item 7 (w.e.f. 1-4-1966)."
+        }
+    }
+}

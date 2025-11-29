@@ -1,0 +1,254 @@
+{
+    "Act Title": "THE TOKYO CONVENTION ACT, 1975",
+    "Act ID": "ACT NO. 20 OF 1975",
+    "Enactment Date": "[8th May, 1975.]",
+    "Act Definition": {
+        "0": "An Act to give effect to the Convention on offences and certain other acts committed on board aircraft.",
+        "1": "WHEREAS a Convention on offences and certain other acts committed on board aircraft was on the Fourteenth day of September, 1963, signed at Tokyo;",
+        "2": "AND WHEREAS it is expedient that India should accede to the said Convention and should make provisions for giving effect thereto;"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Tokyo Convention Act, 1975.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "DEFINITIONS",
+            "Sections": {
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) \u201caircraft\u201d means any aircraft, whether or not registered in India, other than\u2014",
+                                    "contains": {
+                                        "0": "(i) a military aircraft; or",
+                                        "1": "(ii) an aircraft belonging to, or exclusively employed in the service of, the State;"
+                                    }
+                                },
+                                "1": {
+                                    "text": "(b) \u201cappropriate authority\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(i) in relation to India, any police officer not below the rank of an Assistant Sub-Inspector or any Immigration Officer, and",
+                                        "1": "(ii) in relation to any other country, being a Convention country, any officer having functions corresponding to the functions in India either of a police officer not below the rank of an Assistant Sub-Inspector or of an Immigration Officer;"
+                                    }
+                                },
+                                "2": "(c) \u201ccommander\u201d, in relation to an aircraft, means the member of the crew designated as commander of the aircraft by the operator thereof, or failing such a person, the person who is for the time being the pilot in command of the aircraft;",
+                                "3": "(d) \u201cConvention country\u201d means a country in which the Tokyo Convention is for the time being in force;",
+                                "4": {
+                                    "text": "(e) \u201cIndian registered aircraft\u201d means an aircraft\u2014",
+                                    "contains": {
+                                        "0": "(A) which is for the time being registered in India;",
+                                        "1": {
+                                            "text": "(B) which is not for the time being registered in any country but in the case of which either the operator of the aircraft or each person entitled as owner to any legal or beneficial interest in it satisfies the following requirements, namely:\u2014",
+                                            "contains": {
+                                                "0": "(i) that he is a person qualified to be owner of a legal or beneficial interest in an aircraft registered in India; and",
+                                                "1": "(ii) that he resides or has his principal place of business in India; or"
+                                            }
+                                        },
+                                        "2": "(C) Which, for the time being registered in any country other than India, is for the time being chartered by demise to a person who, or to persons each of whom, satisfies the requirements specified in sub-clause (B) (i) and (ii);"
+                                    }
+                                },
+                                "5": "(f) \u201cmilitary aircraft\u201d means an aircraft of the naval, military or air force of any country and includes every aircraft, commanded by a person in naval, military or air force service, detailed for the purpose;",
+                                "6": "(g) \u201coperator\u201d, in relation to an aircraft at any time, means the person who at that time has the management of the aircraft;",
+                                "7": "(h) \u201cpilot in command\u201d, in relation to an aircraft, means a person who for the time being is in charge of the piloting of the aircraft without being under the direction of any other pilot in the aircraft and responsible for the operation and safety of the aircraft during flight time;",
+                                "8": "(i) \u201cTokyo Convention\u201d means the Convention on offences and certain other acts committed on board aircraft signed at Tokyo on the Fourteenth day of September, 1963;",
+                                "9": "(j) any reference to a country or to the territorial limits thereof shall be construed as including a reference to the territorial waters, if any, of that country, and any reference to an aircraft in flight shall include a reference to an aircraft during any period when it is on the surface of the sea or land but not within the territorial limits of any country."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) For the purposes of this Act, the period during which an aircraft is in flight shall be deemed to include any period from the moment when power is applied for the purpose of the aircraft taking off on a flight until the moment when the landing run, if any, at the termination of that flight ends; and for the purpose of section 5 the aforesaid period shall also be deemed to include\u2014",
+                            "contains": {
+                                "0": "(i) any further period from the moment when all external doors, if any, of the aircraft are closed following embarkation for a flight until the moment when any such door is opened for disembarkation, after that flight;",
+                                "1": {
+                                    "text": "(ii) if the aircraft makes a forced landing, any period thereafter until the time\u2014",
+                                    "contains": {
+                                        "0": "(a) in a case where the forced landing takes place in India, when the appropriate authority arrives at the place of such forced landing; and",
+                                        "1": "(b) in any other case, when the appropriate authority takes over the responsibility for the aircraft and for the persons and property on board the aircraft."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "OFFENCES",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Application of criminal law to aircraft.",
+                    "paragraphs": {
+                        "0": "(1) Any act or omission taking place on board an Indian registered aircraft while in flight elsewhere than in or over India which, if taking place in India, would constitute an offence under any law in force in India shall constitute that offence:",
+                        "1": "Provided that this sub-section shall not apply to any act or omission which is expressly or impliedly authorised by or under any law of a country outside India, where the aircraft is in flight.",
+                        "2": "(2) No proceedings for an offence under any law in force in India, committed on board an aircraft while in flight elsewhere than in or over India (other than an offence under the Aircraft Act, 1934 [22 of 1934]) shall be instituted except by or with the consent of the Central Government.",
+                        "3": "(3) Nothing contained in sub-section (2) shall prevent the arrest, or the issue of a warrant for the arrest, of any person in respect of any offence, or the remanding in custody or on bail of any person charged with any offence."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Provisions as to Extradition Act.",
+                    "paragraphs": {
+                        "0": "For the purposes of application of the Extradition Act, 1962 (34 of 1962), to crimes committed on board an aircraft in flight, any aircraft registered in a Convention country shall, at any time while that aircraft is in flight, be deemed to be within the jurisdiction of that country, whether or not it is for the time being also within the jurisdiction of any other country."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Powers of commander of aircraft.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) If the commander of an aircraft in flight, wherever the aircraft may be, has reasonable grounds to believe in respect of any person on board the aircraft\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) that the person in question has done or is about to do any act on the aircraft while it is in flight which jeopardises or may jeopardise\u2014",
+                                    "contains": {
+                                        "0": "(i) the safety of the aircraft or of persons or property on board the aircraft; or",
+                                        "1": "(ii) the good order and discipline on board the aircraft; or"
+                                    }
+                                },
+                                "1": "(b) that the person in question has done on the aircraft while in flight any act which in the opinion of the commander is an offence under any law in force in the country in which the aircraft is registered, not being a law of a political nature or based on racial or religious discrimination,"
+                            }
+                        },
+                        "1": {
+                            "text": "then, subject to the provisions of sub-section (4), the commander may take with respect to that person such reasonable measures, including restraint of his person, as may be necessary\u2014",
+                            "contains": {
+                                "0": "(i) to protect the safety of the aircraft or of persons or property on board the aircraft; or",
+                                "1": "(ii) to maintain good order and discipline on board the aircraft; or",
+                                "2": "(iii) to enable the commander to disembark or deliver that person in accordance with the provisions of sub-section (5).",
+                                "3": "(2) The aircraft commander may require the assistance of other crew members and may request, but not require, the assistance of passengers or authorise other crew members and passengers, to restrain any person whom he is entitled to restrain.",
+                                "4": "(3) Any crew member or passenger may also take reasonable preventive measures without any authorisation under sub-section (2) when he has reasonable grounds to believe that such action is immediately necessary to protect the safety of the aircraft, or of persons or property therein.",
+                                "5": {
+                                    "text": "(4) Any restraint imposed on any person on board an aircraft under the powers conferred by the foregoing provisions of this section shall not be continued after the time when the aircraft first thereafter ceases to be in flight unless before or as soon as is reasonably practicable after that time, the commander of the aircraft causes notification of the fact that a person on board the aircraft is under restraint and of the reasons therefor to be sent to the appropriate authority of the country in which the aircraft so ceases to be in flight, but subject to such notification may be continued after that time\u2014",
+                                    "contains": {
+                                        "0": "(a) for any period (including the period of any further flight) between that time and the first occasion thereafter on which the commander is able with any requisite consent of the appropriate authorities to disembark or deliver the person under restraint in accordance with the provisions of sub-section (5); or",
+                                        "1": "(b) if the person under restraint agrees to continue his journey under restraint on board that aircraft."
+                                    }
+                                },
+                                "6": {
+                                    "text": "(5) The commander of an aircraft,\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(a) if, in the case of any person on board the aircraft, he has reasonable grounds\u2014",
+                                            "contains": {
+                                                "0": "(i) to believe as mentioned in clause (a) of sub-section (1); and",
+                                                "1": "(ii) to believe that it is necessary so to do in order to protect the safety of the aircraft or of persons or property on board the aircraft or to maintain good order and discipline on board the aircraft,"
+                                            }
+                                        }
+                                    }
+                                },
+                                "7": {
+                                    "text": "may disembark that person in any country in which that aircraft may be; and",
+                                    "contains": {
+                                        "0": "(b) if, in the case of any person on board the aircraft, he has reasonable grounds to believe as mentioned in clause (b) of sub-section (1), may deliver that person to the appropriate authority."
+                                    }
+                                },
+                                "8": {
+                                    "text": "(6) The commander of an aircraft\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(a) if he disembarks any person in pursuance of clause (a) of sub-section (5), in the case of an Indian registered aircraft, in any country or, in the case of any other aircraft, in India, shall report the fact of, and the reasons for, that disembarkation to\u2014",
+                                            "contains": {
+                                                "0": "(i) the appropriate authority in the country of disembarkation; and",
+                                                "1": "(ii) the appropriate diplomatic or consular officer of the country of nationality of that person;"
+                                            }
+                                        },
+                                        "1": {
+                                            "text": "(b) if he intends to deliver any person in pursuance of clause (b) of sub-section (5) in India, or in the case of an Indian registered aircraft, in any other country which is a Convention country, shall before or as soon as reasonably practicable after landing give notification of his intention and of the reasons therefor\u2014",
+                                            "contains": {
+                                                "0": "(i) to the appropriate authority; and",
+                                                "1": "(ii) in either case, to the appropriate diplomatic or consular officer of the country of nationality of that person,"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2": "and any commander of an aircraft who without reasonable cause fails to comply with the requirements of this sub-section shall be liable on summary conviction to a fine not exceeding one thousand rupees."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Jurisdiction.",
+                    "paragraphs": {
+                        "0": "(1) For the avoidance of doubt, it is hereby declared that for the purpose of any proceedings before a court in India, any court having jurisdiction in respect of piracy committed on the high seas shall have jurisdiction in respect of offences and other acts committed on board an aircraft as described in this Act wherever that offence or act is committed.",
+                        "1": "(2) For the purposes of conferring jurisdiction, an offence under any law in force in India, committed on board an aircraft in flight shall be deemed to have been committed in any place in India where the offender may for the time being be."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Provisions as to evidence in connection with aircraft.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Where in any proceedings before a court in India for an offence or other act committed on board an aircraft the testimony of any person is required and the court is satisfied that the person in question cannot be found in India, there shall be admissible in evidence before that court any deposition relating to the subject matter of those proceedings previously made on oath by that person outside India which was so made\u2014",
+                            "contains": {
+                                "0": "(a) in the presence of the person charged with the offence; and",
+                                "1": "(b) before a judge or a magistrate of a country such as is mentioned in the First Schedule to the Citizenship Act, 1955 (57 of 1955) or before a consular officer of the Central Government."
+                            }
+                        },
+                        "1": "(2) Any such deposition shall be authenticated by the signature of the judge, magistrate or consular officer before whom it was made and he shall certify that the person charged with the offence was present at the taking of the deposition.",
+                        "2": "(3) It shall not be necessary in any proceedings to prove the signature or official character of the person appearing so to have authenticated any such deposition or to have given such a certificate, and such a certificate shall, unless the contrary is proved, be sufficient evidence in any proceedings that the person charged with the offence was present at the making of the deposition.",
+                        "3": "(4) If a complaint is made to such a consular officer as aforesaid that any offence has been committed on an Indian registered aircraft while in flight elsewhere than in or over India, that officer may enquire into the case upon oath.",
+                        "4": {
+                            "text": "(5) In this section\u2014",
+                            "contains": {
+                                "0": "(a) the expression \u201cdeposition\u201d includes an affidavit, affirmation or statement made upon oath; and",
+                                "1": "(b) the expression \u201coath\u201d includes an affirmation or declaration in the case of persons allowed by law to affirm or declare instead of swearing,"
+                            }
+                        },
+                        "5": "and noting contained in this section shall prejudice the admission as evidence of any deposition which is admissible in evidence apart from this section."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Provisions as to documentary evidence.",
+                    "paragraphs": {
+                        "0": "(1) In any legal proceedings under this Act, a document published by the Ministry of the Central Government dealing with Civil Aviation and purporting to be the publication known as \u201cAeronautical Information Publication\u201d or a publication of the series known as \u201cNotam\u201d and \u201cAeronautical Information Circular\u201d shall be evidence of the matters appearing from that document.",
+                        "1": "(2) Any message or signal transmitted to or received from an aircraft which relates to the position of the aircraft will be treated as evidence of certain records and shall apply to any legal proceedings."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 9.": {
+                    "heading": "Power to apply the provisions of Act with modifications to certain aircraft.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by notification in the Official Gazette, direct that all or any of the provisions of this Act shall apply to an aircraft referred to in sub-clause (B) of clause (e) of sub-section (1) of section 2, subject to such modifications as may be specified in the notification."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Contracting parties to Convention.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by notification in the Official Gazette, certify as to who are the contracting parties to the Tokyo Convention and to what extent they have availed themselves of the provisions of the Convention, and any such notification by the Central Government shall be conclusive evidence of the matters certified therein."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Power to treat certain aircraft to be registered in Convention country.",
+                    "paragraphs": {
+                        "0": "If the Central Government is satisfied that the requirements of Article 18 of the Tokyo Convention have been satisfied in relation to any aircraft, it may, by notification in the Official Gazette, direct that such aircraft shall, for the purposes of this Act, be treated as registered in such Convention country as may be specified in the notification."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. 1st January, 1976, vide notification No. S.O. 5426, dated 17th December, 1975, see Gazette of India, Extraordinary, Part II,sec. 3(ii)."
+        }
+    }
+}

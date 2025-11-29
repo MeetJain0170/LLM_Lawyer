@@ -1,0 +1,581 @@
+{
+    "Act Title": "THE CITIZENSHIP ACT, 1955",
+    "Act ID": "ACT No. 57 OF 1955",
+    "Enactment Date": "[30th December, 1955.]",
+    "Act Definition": {
+        "0": "An Act to provide for the acquisition and determination of Indian citizenship."
+    },
+    "Chapters": {
+        "Sections": {
+            "Section 1.": {
+                "heading": "Short title.",
+                "paragraphs": {
+                    "0": "This Act may be called the Citizenship Act, 1955."
+                }
+            },
+            "Section 2.": {
+                "heading": "Interpretation.",
+                "paragraphs": {
+                    "0": {
+                        "text": "(1) In this Act, unless the context otherwise requires,\u2015",
+                        "contains": {
+                            "0": "(a) \u201ca Government in India\u201d means the Central Government or a State Government.",
+                            "1": {
+                                "text": "2[(b) \u201cillegal migrant\u201d means a foreigner who has entered into India\u2015",
+                                "contains": {
+                                    "0": "(i) without a valid passport or other travel documents and such other document or authority as may be prescribed by or under any law in that behalf; or",
+                                    "1": "(ii) with a valid passport or other travel documents and such other document or authority as may be prescribed by or under any law in that behalf but remains therein beyond the permitted period of time;]",
+                                    "2": "3[Provided that any person belonging to Hindu, Sikh, Buddhist, Jain, Parsi or Christian community from Afghanistan, Bangladesh or Pakistan, who entered into India on or before the 31st day of December, 2014 and who has been exempted by the Central Government by or under clause (c) of sub-section (2) of section 3 of the Passport (Entry into India) Act, 1920 (34 of 1920) or from the application of the provisions of the Foreigners Act, 1946 (31 of 1946) or any rule or order made there under, shall not be treated as illegal migrant for the purposes of this Act;]"
+                                }
+                            },
+                            "2": "(d) \u201cIndian consulate\u201d means the office of any consular officer of the Government of India where a register of births is kept, or where there is no such office, such office as may be prescribed;",
+                            "3": "(e) \u201cminor\u201d means a person who has not attained the age of eighteen years;",
+                            "4": "4[(ee) \u201cOverseas Citizen of India Cardholder\u201d means a person registered as an Overseas Citizen of India Cardholder by the Central Government under section 7A;]",
+                            "5": "(f) \u201cperson\u201d does not include any company or association or body of individuals, whether incorporated or not;",
+                            "6": "(g) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                            "7": "5* * * * *",
+                            "8": "(h) \u201cundivided India\u201d means India as defined in the Government of India Act, 1935, as originally enacted."
+                        }
+                    },
+                    "1": "(2) For the purposes of this Act, a person born aboard a registered ship or aircraft, or aboard an unregistered ship or aircraft of the government of any country, shall be deemed to have been born in the place in which the ship or aircraft was registered or, as the case may be, in that country.",
+                    "2": "(3) Any reference in this Act to the status or description of the father of a person at the time of that person's birth shall, in relation to a person born after the death of his father, be construed as a reference to the status or description of the father at the time of the father's death; and where that death occurred before, and the birth occurs after, the commencement of this Act, the status or description which would have been applicable to the father had he died after the commencement of this Act shall be deemed to be the status or description applicable to him at the time of his death.",
+                    "3": "(4) For the purposes of this Act, a person shall be deemed to be of full age if he is not a minor and of full capacity if he is not of unsound mind."
+                }
+            }
+        },
+        "0": {
+            "Name": "ACQUISITION OF CITIZENSHIP",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Citizenship by birth.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Except as provided in sub-section (2), every person born in India\u2015",
+                            "contains": {
+                                "0": "(a) on or after the 26th day of January, 1950, but before the 1st day of July, 1987;",
+                                "1": "(b) on or after the 1st day of July, 1987, but before the commencement of the Citizenship (Amendment) Act, 2003 (6 of 2004) and either of whose parents is a citizen of India at the time of his birth;",
+                                "2": {
+                                    "text": "(c) on or after the commencement of the Citizenship (Amendment) Act, 2003 (6 of 2004), where\u2015",
+                                    "contains": {
+                                        "0": "(i) both of his parents are citizens of India; or",
+                                        "1": "(ii) one of whose parents is a citizen of India and the other is not an illegal migrant at the time of his birth,"
+                                    }
+                                }
+                            }
+                        },
+                        "1": "shall be a citizen of India by birth.",
+                        "2": {
+                            "text": "(2) A person shall not be a citizen of India by virtue of this section if at the time of his birth\u2015",
+                            "contains": {
+                                "0": "(a) either his father or mother possesses such immunity from suits and legal process as is accorded to an envoy of a foreign sovereign power accredited to the President of India and he or she, as the case may be, is not a citizen of India; or",
+                                "1": "(b) his father or mother is an enemy alien and the birth occurs in a place then under occupation by the enemy.]"
+                            }
+                        }
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Citizenship by descent.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "2[(1) A person born outside India shall be a citizen of India by descent,\u2015",
+                            "contains": {
+                                "0": "(a) on or after the 26th day of January, 1950, but before the 10th day of December, 1992, if his father is a citizen of India at the time of his birth; or",
+                                "1": "(b) on or after the 10th day of December, 1992, if either of his parents is a citizen of India at the time of his birth:"
+                            }
+                        },
+                        "1": {
+                            "text": "Provided that if the father of a person referred to in clause (a) was a citizen of India by descent only, that person shall not be a citizen of India by virtue of this section unless\u2015",
+                            "contains": {
+                                "0": "(a) his birth is registered at an Indian consulate within one year of its occurrence or the commencement of this Act, whichever is later, or, with the permission of the Central Government, after the expiry of the said period; or",
+                                "1": "(b) his father is, at the time of his birth, in service under a Government in India:"
+                            }
+                        },
+                        "2": {
+                            "text": "Provided further that if either of the parents of a person referred to in clause (b) was a citizen of India by descent only, that person shall not be a citizen of India by virtue of this section, unless\u2015",
+                            "contains": {
+                                "0": "(a) his birth is registered at an Indian consulate within one year of its occurrence or on or after the 10th day of December, 1992, whichever is later, or, with the permission of the Central Government, after the expiry of the said period; or",
+                                "1": "(b) either of his parents is, at the time of his birth, in service under a Government in India:"
+                            }
+                        },
+                        "3": {
+                            "text": "Provided also that on or after the commencement of the Citizenship (Amendment) Act, 2003 (6 of 2004), a person shall not be a citizen of India by virtue of this section, unless his birth is registered at an Indian consulate in such form and in such manner, as may be prescribed,\u2015",
+                            "contains": {
+                                "0": "(i) within one year of its occurrence or the commencement of the Citizenship (Amendment) Act, 2003(6 of 2004), whichever is later; or",
+                                "1": "(ii) with the permission of the Central Government, after the expiry of the said period:"
+                            }
+                        },
+                        "4": "Provided also that no such birth shall be registered unless the parents of such person declare, in such form and in such manner as may be prescribed, that the minor does not hold the passport of another country.",
+                        "5": "(1A) A minor who is a citizen of India by virtue of this section and is also a citizen of any other country shall cease to be a citizen of India if he does not renounce the citizenship or nationality of another country within six months of attaining full age.]",
+                        "6": "(2) If the Central Government so directs, a birth shall be deemed for the purposes of this section to have been registered with its permission, notwithstanding that its permission was not obtained before the registration.",
+                        "7": "(3) For the purposes of the proviso to sub-section (1), 1[any person] born outside undivided India who was, or was deemed to be, a citizen of India at the commencement of the Constitution shall be deemed to be a citizen of India by descent only."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Citizenship by registration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "2[(1) Subject to the provisions of this section and such other conditions and restrictions as may be prescribed, the Central Government may, on an application made in this behalf, register as a citizen of India any person not being an illegal migrant who is not already such citizen by virtue of the Constitution or of any other provision of this Act if he belongs to any of the following categories, namely:\u2015",
+                            "contains": {
+                                "0": "(a) a person of Indian origin who is ordinarily resident in India for seven years before making an application for registration;",
+                                "1": "(b) a person of Indian origin who is ordinarily resident in any country or place outside undivided India;",
+                                "2": "(c) a person who is married to a citizen of India and is ordinarily resident in India for seven years before making an application for registration;",
+                                "3": "(d) minor children of persons who are citizens of India;",
+                                "4": "(e) a person of full age and capacity whose parents are registered as citizens of India under clause (a) of this sub-section or sub-section (1) of section 6;",
+                                "5": "(f) a person of full age and capacity who, or either of his parents, was earlier citizen of independent India, and 3[is ordinarily resident in India for twelve months] immediately before making an application for registration;",
+                                "6": "(g) a person of full age and capacity who has been registered as an 4[Overseas Citizen of India Cardholder] for five years, and who 5[is ordinarily resident in India for twelve months] before making an application for registration."
+                            }
+                        },
+                        "1": {
+                            "text": "Explanation 1.\u2015For the purposes of clauses (a) and (c), an applicant shall be deemed to be ordinarily resident in India if\u2015",
+                            "contains": {
+                                "0": "(i) he has resided in India throughout the period of twelve months immediately before making an application for registration; and",
+                                "1": "(ii) he has resided in India during the eight years immediately preceding the said period of twelve months for a period of not less than six years."
+                            }
+                        },
+                        "2": "Explanation 2.\u2015For the purposes of this sub-section, a person shall be deemed to be of Indian origin if he, or either of his parents, was born in undivided India or in such other territory which became part of India after the 15th day of August, 1947.]",
+                        "3": "1[(1A) The Central Government, if it is satisfied that special circumstances exist, may after recording the circumstances in writing, relax the period of twelve months, specified in clauses (f) and (g) and clause (i) of Explanation 1 of sub-section (1), up to a maximum of thirty days which may be in different breaks.]",
+                        "4": "(2) No person being of full age shall be registered as a citizen of India under sub-section (1) until he has taken the oath of allegiance in the form specified in the Second Schedule.",
+                        "5": "(3) No person who has renounced, or has been deprived of, his Indian citizenship or whose Indian citizenship has terminated, under this Act shall be registered as a citizen of India under sub-section (1) except by order of the Central Government.",
+                        "6": "(4) The Central Government may, if satisfied that there are special circumstances justifying such registration, cause any minor to be registered as a citizen of India.",
+                        "7": "(5) A person registered under this section shall be a citizen of India by registration as from the date on which he is so registered; and a person registered under the provisions of clause (b)(ii) of article 6 or article 8 of the Constitution shall be deemed to be a citizen of India by registration as from the commencement of the Constitution or the date on which he was so registered, whichever may be later.",
+                        "8": "2[(6) If the Central Government is satisfied that circumstances exist which render it necessary to grant exemption from the residential requirement under clause (c) of sub-section (1) to any person or a class of persons, it may, for reasons to be recorded in writing, grant such exemption.]."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Citizenship by naturalization.",
+                    "paragraphs": {
+                        "0": "(1) Where an application is made in the prescribed manner by any person of full age and capacity 3[not being an illegal migrant] for the grant of a certificate of naturalisation to him, the Central Government may, if satisfied that the applicant is qualified for naturalisation under the provisions of the Third Schedule, grant to him a certificate of naturalisation:",
+                        "1": "Provided that, if in the opinion of the Central Government, the applicant is a person who has rendered distinguished service to the cause of science, philosophy, art, literature, world peace or human progress generally, it may waive all or any of the conditions specified in the Third Schedule.",
+                        "2": "(2) The person to whom a certificate of naturalisation is granted under sub-section (1) shall, on taking the oath of allegiance in the form specified in the Second Schedule, be a citizen of India by naturalisation as from the date on which that certificate is granted."
+                    }
+                },
+                "Section 6A.": {
+                    "heading": "Special provisions as to citizenship of persons covered by the Assam Accord.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) For the purposes of this section\u2015",
+                            "contains": {
+                                "0": "(a) \u201cAssam\u201d means the territories included in the State of Assam immediately before the commencement of the Citizenship (Amendment) Act, 1985 (65 of 1985);",
+                                "1": "(b) \u201cdetected to be a foreigner\u201d means detected to be a foreigner in accordance with the provisions of the Foreigners Act, 1946 (31 of 1946) and the Foreigners (Tribunals) Order, 1964 by a Tribunal constituted under the said Order;",
+                                "2": "(c) \u201cspecified territory\u201d means the territories included in Bangladesh immediately before the commencement of the Citizenship (Amendment) Act, 1985 (65 of 1985);",
+                                "3": "(d) a person shall be deemed to be Indian origin, if he, or either of his parents or any of his grandparents was born in undivided India;",
+                                "4": "(e) a person shall be deemed to have been detected to be a foreigner on the date on which a Tribunal constituted under the Foreigners (Tribunals) Order, 1964 submits its opinion to the effect that he is a foreigner to the officer or authority concerned."
+                            }
+                        },
+                        "1": "(2) Subject to the provisions of sub-sections (6) and (7), all persons of Indian origin who came before the lst day of January, 1966 to Assam from the specified territory (including such of those whose names were included in the electoral rolls used for the purposes of the General Election to the House of the People held in 1967) and who have been ordinarily resident in Assam since the dates of their entry into Assam shall be deemed to be citizens of India as from the lst day of January, 1966.",
+                        "2": {
+                            "text": "(3) Subject to the provisions of sub-sections (6) and (7), every person of Indian origin who\u2015",
+                            "contains": {
+                                "0": "(a) came to Assam on or after the lst day of January, 1966 but before the 25th day of March, 1971 from the specified territory; and",
+                                "1": "(b) has, since the date of his entry into Assam, been ordinarily resident in Assam; and",
+                                "2": "(c) has been detected to be a foreigner;"
+                            }
+                        },
+                        "3": {
+                            "text": "shall register himself in accordance with the rules made by the Central Government in this behalf under section 18 with such authority (hereafter in this sub-section referred to as the registering authority) as may be specified in such rules and if his name is included in any electoral roll for any Assembly or Parliamentary constituency in force on the date of such detection, his name shall be deleted therefrom.",
+                            "contains": {
+                                "0": {
+                                    "text": "Explanation.\u2015In the case of every person seeking registration under this sub-section, the opinion of the Tribunal constituted under the Foreigners (Tribunals) Order, 1964 holding such person to be a foreigner, shall be deemed to be sufficient proof of the requirement under clause (c) of this sub-section and if any question arises as to whether such person complies with any other requirement under this sub- section, the registering authority shall,\u2015",
+                                    "contains": {
+                                        "0": "(i) if such opinion contains a finding with respect to such other requirement, decide the question in conformity with such finding;",
+                                        "1": "(ii) if such opinion does not contain a finding with respect to such other requirement, refer the question to a Tribunal constituted under the said Order hang jurisdiction in accordance with such rules as the Central Government may make in this behalf under section 18 and decide the question in conformity with the opinion received on such reference."
+                                    }
+                                },
+                                "1": "(4) A person registered under sub-section (3) shall have, as from the date on which he has been detected to be a foreigner and till the expiry of a period of ten years from that date, the same rights and obligations as a citizen of India (including the right to obtain a passport under the Passports Act, 1967 (15 of 1967) and the obligations connected therewith), but shall not entitled to have his name included in any electoral roll for any Assembly or Parliamentary constituency at any time before the expiry of the said period of ten years.",
+                                "2": "(5) A person registered under sub-section (3) shall be deemed to be a citizen of India for all purposes as from the date of expiry of a period of ten years from the date on which he has been detected to be a foreigner.",
+                                "3": {
+                                    "text": "(6) Without prejudice to the provisions of section 8\u2015",
+                                    "contains": {
+                                        "0": "(a) if any person referred to in sub-section (2) submits in the prescribed manner and form and to the prescribed authority within sixty days from the date of commencement of the Citizenship (Amendment) Act, 1985 (65 of 1985), a declaration that he does not wish to be a citizen of India, such person shall not be deemed to have become a citizen of India under that sub-section;",
+                                        "1": "(b) if any person referred to in sub-section (3) submits in the prescribed manner and form and to the prescribed authority within sixty days from the date of commencement of the Citizenship (Amendment) Act, 1985(65 of 1985), or from the date on which he has been detected to be a foreigner, whichever is later, a declaration that he does not wish to be governed by the provisions of that sub-section and sub-sections (4) and (5), it shall not be necessary for such person to register himself under sub-section (3)."
+                                    }
+                                },
+                                "4": "Explanation.\u2015Where a person required to file a declaration under this sub-section does not have the capacity to enter into a contract, such declaration may be filed on his behalf by any person competent under the law for the time being in force to act on his behalf.",
+                                "5": {
+                                    "text": "(7) Nothing in sub-sections (2) to (6) shall apply in relation to any person\u2015",
+                                    "contains": {
+                                        "0": "(a) who, immediately before the commencement of the Citizenship (Amendment) Act, 1985 (65 of 1985), is a citizen of India;",
+                                        "1": "(b) who was expelled from India before the commencement of the Citizenship (Amendment) Act, 1985, under the Foreigners Act, 1946 (31 of 1946)."
+                                    }
+                                },
+                                "6": "(8) Save as otherwise expressly provided in this section, the provisions of this section shall have effect notwithstanding anything contained in any other law for the time being in force.]"
+                            }
+                        }
+                    }
+                },
+                "Section 6B.": {
+                    "heading": "Special provisions as to citizenship of person covered by proviso to clause (b) of sub-section (1) of section 2.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government or an authority specified by it in this behalf may, subject to such conditions, restrictions and manner as may be prescribed, on an application made in this behalf, grant a certificate of registration or certificate of naturalisation to a person referred to in the proviso to clause (b) of sub-section (1) of section 2.",
+                        "1": "(2) Subject to fulfillment of the conditions specified in section 5 or the qualifications for naturalisation under the provisions of the Third Schedule, a person granted the certificate of registration or certificate of naturalisation under sub-section (1) shall be deemed to be a citizen of India from the date of his entry into India.",
+                        "2": "(3) On and from the date of commencement of the Citizenship (Amendment) Act, 2019, any proceeding pending against a person under this section in respect of illegal migration or citizenship shall stand abated on conferment of citizenship to him:",
+                        "3": "Provided that such person shall not be disqualified for making application for citizenship under this section on the ground that the proceeding is pending against him and the Central Government or authority specified by it in this behalf shall not reject his application on that ground if he is otherwise found qualified for grant of citizenship under this section:",
+                        "4": "Provided further that the person who makes the application for citizenship under this section shall not be deprived of his rights and privileges to which he was entitled on the date of receipt of his application on the ground of making such application.",
+                        "5": "(4) Nothing in this section shall apply to tribal area of Assam, Meghalaya, Mizoram or Tripura as included in the Sixth Schedule to the Constitution and the area covered under \u201cThe Inner Line\u201d notified under the Bengal Eastern Frontier Regulation, 1873 (Reg. 5 of 1873).]"
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Citizenship by incorporation of territory.",
+                    "paragraphs": {
+                        "0": "If any territory becomes a part of India, the Central Government may, by order notified in the Official Gazette, specify the persons who shall be citizens of India by reason of their connection with that territory; and those persons shall be citizens of India as from the date to be specified in the order."
+                    }
+                }
+            }
+        },
+        "1": {
+            "Name": "OVERSEAS CITIZENSHIP",
+            "Sections": {
+                "Section 7A.": {
+                    "heading": "Registration of Overseas Citizen of India Cardholder.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government may, subject to such conditions, restrictions and manner as may be prescribed, on an application made in this behalf, register as an Overseas Citizen of India Cardholder\u2015",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) any person of full age and capacity,\u2015",
+                                    "contains": {
+                                        "0": "(i) who is a citizen of another country, but was a citizen of India at the time of, or at any time after the commencement of the Constitution; or",
+                                        "1": "(ii) who is a citizen of another country, but was eligible to become a citizen of India at the time of the commencement of the Constitution; or",
+                                        "2": "(iii) who is a citizen of another country, but belonged to a territory that became part of India after the 15th day of August, 1947; or",
+                                        "3": "(iv) who is a child or a grandchild or a great grandchild of such a citizen; or"
+                                    }
+                                },
+                                "1": "(b) a person, who is a minor child of a person mentioned in clause (a); or",
+                                "2": "(c) a person, who is a minor child, and whose both parents are citizens of India or one of the parents is a citizen of India; or",
+                                "3": "(d) spouse of foreign origin of a citizen of India or spouse of foreign origin of an Overseas Citizen of India Cardholder registered under section 7A and whose marriage has been registered and subsisted for a continuous period of not less than two years immediately preceding the presentation of the application under this section:"
+                            }
+                        },
+                        "1": "Provided that for the eligibility for registration as an Overseas Citizen of India Cardholder, such spouse shall be subjected to prior security clearance by a competent authority in India:",
+                        "2": "Provided further that no person, who or either of whose parents or grandparents or great grandparents is or had been a citizen of Pakistan, Bangladesh or such other country as the Central Government may, by notification in the Official Gazette, specify, shall be eligible for registration as an Overseas Citizen of India Cardholder under this sub-section.",
+                        "3": "(2) The Central Government may, by notification in the Official Gazette, specify the date from which the existing persons of Indian Origin Cardholders shall be deemed to be Overseas Citizens of India Cardholders.",
+                        "4": "Explanation.\u2015For the purposes of this sub-section, \u201cPersons of Indian Origin Cardholders\u201d means the persons registered as such under notification number 26011/4/98 F.I., dated the 19th August, 2002, issued by the Central Government in this regard.",
+                        "5": "(3) Notwithstanding anything contained in sub-section (1), the Central Government may, if it is satisfied that special circumstances exist, after recording the circumstances in writing, register a person as an Overseas Citizen of India Cardholder."
+                    }
+                },
+                "Section 7B.": {
+                    "heading": "Conferment of rights on Overseas Citizen of India Cardholder.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in any other law for the time being in force, an Overseas Citizen of India Cardholder shall be entitled to such rights, other than the rights specified under sub-section (2), as the Central Government may, by notification in the Official Gazette, specify in this behalf.",
+                        "1": {
+                            "text": "(2) An Overseas Citizen of India Cardholder shall not be entitled to the rights conferred on a citizen of India\u2015",
+                            "contains": {
+                                "0": "(a) under article 16 of the Constitution with regard to equality of opportunity in matters of public employment;",
+                                "1": "(b) under article 58 of the Constitution for election as President;",
+                                "2": "(c) under article 66 of the Constitution for election as Vice-President;",
+                                "3": "(d) under article 124 of the Constitution for appointment as a Judge of the Supreme Court;",
+                                "4": "(e) under article 217 of the Constitution for appointment as a Judge of the High Court;",
+                                "5": "(f) under section 16 of the Representation of the People Act, 1950 (43 of 1950) in regard to registration as a voter;",
+                                "6": "(g) under sections 3 and 4 of the Representation of the People Act, 1951 (43 of 1951) with regard to the eligibility for being a member of the House of the People or of the Council of States, as the case may be;",
+                                "7": "(h) under sections 5, 5A and section 6 of the Representation of the People Act, 1951 (43 of 1951) with regard to the eligibility for being a member of the Legislative Assembly or the Legislative Council, as the case may be, of a State;",
+                                "8": "(i) for appointment to public services and posts in connection with affairs of the Union or of any State except for appointment in such services and posts as the Central Government may, by special order in that behalf, specify."
+                            }
+                        },
+                        "2": "(3) Every notification issued under sub-section (1) shall be laid before each House of Parliament."
+                    }
+                },
+                "Section 7C.": {
+                    "heading": "Renunciation of Overseas Citizen of India Card.",
+                    "paragraphs": {
+                        "0": "(1) If any Overseas Citizen of India Cardholder of full age and capacity makes in prescribed manner a declaration renouncing the Card registering him as an Overseas Citizen of India Cardholder, the declaration shall be registered by the Central Government, and upon such registration, that person shall cease to be an Overseas Citizen of India Cardholder.",
+                        "1": "(2) Where a person ceases to be an Overseas Citizen of India Cardholder under sub-section (1), the spouse of foreign origin of that person, who has obtained Overseas Citizen of India Card under clause (d) of sub-section (1) of section 7A, and every minor child of that person registered as an Overseas Citizen of India Cardholder shall thereupon cease to be an Overseas Citizen of India Cardholder."
+                    }
+                },
+                "Section 7D.": {
+                    "heading": "Cancellation of registration as Overseas Citizen of India Cardholder.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Central Government may, by order, cancel the registration granted under sub-section (1) of section 7A, if it is satisfied that\u2015",
+                            "contains": {
+                                "0": "(a) the registration as an Overseas Citizen of India Cardholder was obtained by means of fraud, false representation or the concealment of any material fact; or",
+                                "1": "(b) the Overseas Citizen of India Cardholder has shown disaffection towards the Constitution, as by law established; or",
+                                "2": "(c) the Overseas Citizen of India Cardholder has, during any war in which India may be engaged, unlawfully traded or communicated with an enemy or been engaged in, or associated with, any business or commercial activity that was to his knowledge carried on in such manner as to assist an enemy in that war; or",
+                                "3": "(d) the Overseas Citizen of India Cardholder has, within five years after registration under sub-section (1) of section 7A, been sentenced to imprisonment for a term of not less than two years; or",
+                                "4": "1[(da) the Overseas Citizen of India Cardholder has violated any of the provisions of this Act or provisions of any other law for time being in force as may be specified by the Central Government in the notification published in the Official Gazette; or;]",
+                                "5": "(e) it is necessary so to do in the interests of the sovereignty and integrity of India, the security of India, friendly relations of India with any foreign country, or in the interests of the general public; or",
+                                "6": {
+                                    "text": "(f) the marriage of an Overseas Citizen of India Cardholder, who has obtained such Card under clause (d) of sub-section (1) of section 7A,\u2015",
+                                    "contains": {
+                                        "0": "(i) has been dissolved by a competent court of law or otherwise; or",
+                                        "1": "(ii) has not been dissolved but, during the subsistence of such marriage, he has solemnised marriage with any other person.]]",
+                                        "2": "1[Provided that no order under this section shall be passed unless the Overseas Citizen of India Cardholder has been given a reasonable opportunity of being heard.]"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "Name": "TERMINATION OF CITIZENSHIP",
+            "Sections": {
+                "Section 8.": {
+                    "heading": "Renunciation of citizenship.",
+                    "paragraphs": {
+                        "0": "(1) If any citizen of India of full age and capacity, 1***, makes in the prescribed manner a declaration renouncing his Indian Citizenship, the declaration shall be registered by the prescribed authority; and, upon such registration, that person shall cease to be a citizen of India:",
+                        "1": "Provided that if any such declaration is made during any war in which India may be engaged, registration thereof shall be withheld until the Central Government otherwise directs.",
+                        "2": "(2) Where 2[a person] ceases to be a citizen of India under sub-section (1), every minor child of that person shall thereupon cease to be a citizen of India:",
+                        "3": "Provided that any such child may, within one year after attaining full age, make a declaration 3[in the prescribed form and manner] that he wishes to resume Indian citizenship and shall thereupon again become a citizen of India.",
+                        "4": "4* * * * *"
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Termination of citizenship.",
+                    "paragraphs": {
+                        "0": "(1) Any citizen of India who by naturalisation, registration otherwise voluntarily acquires, or has at any time between the 26th January, 1950 and the commencement of this Act, voluntarily acquired, the citizenship of another country shall, upon such acquisition or, as the case may be, such commencement, cease to be a citizen of India:",
+                        "1": "Provided that nothing in this sub-section shall apply to a citizen of India who, during any war in which India may be engaged, voluntarily acquires the citizenship of another country, until the Central Government otherwise directs.",
+                        "2": "(2) If any question arises as to whether, when or how any 5[citizen of India] has acquired the citizenship of another country, it shall be determined by such authority, in such manner, and having regard to such rules of evidence, as may be prescribed in this behalf."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Deprivation of citizenship.",
+                    "paragraphs": {
+                        "0": "(1) A citizen of India who is such by naturalisation or by virtue only of clause (c) of article 5 of the Constitution or by registration otherwise than under clause (b)(ii) of article 6 of the Constitution or clause (a) of sub-section (1) of section 5 of this Act, shall cease to be a citizen of India, if he is deprived of that citizenship by an order of the Central Government under this section.",
+                        "1": {
+                            "text": "(2) Subject to the provisions of this section, the Central Government may, by order, deprive any such citizen of Indian citizenship, if it is satisfied that\u2015",
+                            "contains": {
+                                "0": "(a) the registration or certificate of naturalisation was obtained by means of fraud, false representation or the concealment of any material fact; or",
+                                "1": "(b) that citizen has shown himself by act or speech to be disloyal or disaffected towards the Constitution of India as by law established; or",
+                                "2": "(c) that citizen has, during any war in which India may be engaged, unlawfully traded or communicated with an enemy or been engaged in, or associated with, any business that was to his knowledge carried on in such manner as to assist an enemy in that war; or",
+                                "3": "(d) that citizen has, within five years after registration or naturalisation, been sentenced in any country to imprisonment for a term of not less than two years; or",
+                                "4": "(e) that citizen has been ordinarily resident out of India for a continuous period of seven years, and during that period, has neither been at any time a student of any educational institution in a country outside India or in the service of a Government in India or of an international organisation of which India is a member, not registered annually in the prescribed manner at an Indian consulate his intention to retain his citizenship of India."
+                            }
+                        },
+                        "2": "(3) The Central Government shall not deprive a person of citizenship under this section unless it is satisfied that it is not conducive to the public good that person should continue to be a citizen of India.",
+                        "3": "(4) Before making an order under this section, the Central Government shall give the person against whom the order is proposed to be made notice in writing informing him of the ground on which it is proposed to be made and, if the order is proposed to be made on any of the grounds specified in sub- section (2) other than clause (e) thereof, of his right, upon making application therefore in the prescribed manner, to have his case referred to a committee of inquiry under this section.",
+                        "4": "(5) If the order is proposed to be made against a person on any of the grounds specified in sub-section (2) other than clause (e) thereof and that person so applies in the prescribed manner, the Central Government shall, and in any other case it may, refer the case to a Committee of Inquiry consisting of a chairman (being a person who has for at least ten years held a judicial office) and two other members appointed by the Central Government in this behalf.",
+                        "5": "(6) The Committee of Inquiry shall, on such reference, hold the inquiry in such manner as may be prescribed and submit its report to the Central Government; and the Central Government shall ordinarily be guided by such report in making an order under this section."
+                    }
+                }
+            }
+        },
+        "3": {
+            "Name": "SUPPLEMENTAL",
+            "Sections": {
+                "Section 11.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Commonwealth citizenship.]Omitted by Act The Citizenship (Amendment) Act, (6 of 2004), s. 10 (w.e.f. 3-12-2004)."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Power to confer rights of Indian citizen or citizens of certain country.] Omitted by s. 10, ibid. (w.e.f. 3-12-2004)."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Certificate of Citizenship in case of doubt.",
+                    "paragraphs": {
+                        "0": "The Central Government may, in such cases as it thinks fit, certify that a person with respect to whose citizenship of India a doubt exists, is a citizen of India; and a certificate issued under this section shall, unless it is proved that it was obtained by means of fraud, false representation or concealment of any material fact, be conclusive evidence that person was such a citizen on the date thereof, but without prejudice to any evidence that he was such a citizen at an earlier date."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Disposal of application under sections 5, 6 and 7A.",
+                    "paragraphs": {
+                        "0": "(1) The prescribed authority or the Central Government may, in its discretion, grant or refuse an application under 1[sections 5, 6 and 7A] and shall not be required to assign any reasons for such grant or refusal.",
+                        "1": "(2) Subject to the provisions of section l5 the decision of the prescribed authority or the Central Government on any such application as aforesaid shall be final and shall not be called in question in any court."
+                    }
+                },
+                "Section 14A.": {
+                    "heading": "Issue of national identity cards.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may compulsorily register every citizen of India and issue national identity card to him.",
+                        "1": "(2) The Central Government may maintain a National Register of Indian Citizens and for that purpose establish a National Registration Authority.",
+                        "2": "(3) On and from the date of commencement of the Citizenship (Amendment) Act, 2003 (6 of 2004), the Registrar General, India, appointed under sub-section (1) of section 3 of the Registration of Births and Deaths Act, 1969 (18 of 1969) shall act as the National Registration Authority and he shall function as the Registrar General of Citizen Registration.",
+                        "3": "(4) The Central Government may appoint such other officers and staff as may be required to assist the Registrar General of Citizen Registration in discharging his functions and responsibilities.",
+                        "4": "(5) The procedure to be followed in compulsory registration of the citizens of India shall be such as may be prescribed.]"
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Revision.",
+                    "paragraphs": {
+                        "0": "(1) Any person aggrieved by an order made under this Act by the prescribed authority or any officer or other authority (other than the Central Government) may, within a period of thirty days from the date of the order, make an application to the Central Government for a revision of that order:",
+                        "1": "Provided that the Central Government may entertain the application after the expiry of the said period of thirty days, if it is satisfied that the applicant was prevented by sufficient cause from making the application in time.",
+                        "2": "(2) On receipt of any such application under sub-section (1), the Central Government shall, after considering the application of the aggrieved person and any report thereon which the officer or authority making the order may submit, make such order in relation to the application as it deems fit, and the decision of the Central Government shall be final."
+                    }
+                },
+                "Section 15A.": {
+                    "heading": "Review.",
+                    "paragraphs": {
+                        "0": "1) Any person aggrieved by an order made by the Central Government, may, within thirty days from the date of such order, make an application for review of such order:",
+                        "1": "Provided that the Central Government may entertain an application after the expiry of the said period of thirty days, if it is satisfied that the applicant was prevented by sufficient cause from making the application in time:",
+                        "2": "Provided further that an application for a review of an order passed in terms of the provisions of section 14A shall be disposed of in the manner provided for in the procedure as may be laid down under clause (ia) of sub-section (2) of section 18.",
+                        "3": "(2) On receipt of an application under sub-section (1), the Central Government shall, make such order as it deems fit, and the decision of the Central Government on such review shall be final.]"
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Delegation of powers.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by order, direct that any power which is conferred on it by any of the provisions of this Act other than those of section 10 and section 18 shall, in such circumstances and under such conditions, if any, as may be specified in the order, be exercisable also by such officer or authority as may be so specified."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Offences.",
+                    "paragraphs": {
+                        "0": "Any person who, for the purpose of procuring anything to be done or not to be done under this Act, knowingly makes any representation which is false in a material particular shall be punishable with imprisonment for a term which may extend to 2[five years], or 3[with fine which may extend to fifty thousand rupees], or with both."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette make rules to carry out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for\u2015",
+                            "contains": {
+                                "0": "(a) the registration of anything required or authorised under this Act to be registered, and the conditions and restrictions in regard to such registration;",
+                                "1": "4[(aa) the form and manner in which a declaration under sub-section (1) of section 4 shall be made;];",
+                                "2": "(b) the forms to be used and the registers to be maintained under this Act;",
+                                "3": "(c) the administration and taking of oaths of allegiance under this Act and the time within which and the manner in which, such oaths shall be taken and recorded;",
+                                "4": "(d) the giving of any notice required or authorised to be given by any person under this Act;",
+                                "5": "(e) the cancellation of the registration of, and the cancellation and amendment of certificates of naturalisation relating to, persons deprived of citizenship under this Act, and the delivering up of such certificates for those purposes;",
+                                "6": "1[(ee) the manner and form in which and the authority to whom declarations referred to in clauses (a) and (b) of sub-section (6) of section 6A shall be submitted and other matters connected with such declarations;]",
+                                "7": "2[(eei) the conditions, restrictions and manner for granting certificate of registration or certificate of naturalisation under sub-section (1) of section 6B;]",
+                                "8": "3[(eea) the conditions and the manner subject to which a person may be registered as an Overseas Citizen of India Cardholder under sub-section (1) of section 7A;",
+                                "9": "(eeb) the manner of making declaration for renunciation of Overseas Citizen of India Card under sub-section (1) of section 7C;]",
+                                "10": "(f) the registration at Indian consulates of the births and deaths of persons of any class or description born or dying outside India;",
+                                "11": "(g) the levy and collection of fees in respect of applications, registrations, declarations and certificates under this Act, in respect of the taking of an oath of allegiance, and in respect of the supply of certified or other copies of documents;",
+                                "12": "(h) the authority to determine the question of acquisition of citizenship of another country, the procedure to be followed by such authority and rules of evidence relating to such cases;",
+                                "13": "(i) the procedure to be followed by the committees of inquiry appointed under section 10 and the conferment on such committees of any of the powers, rights and privileges of civil courts;",
+                                "14": "4[(ia) the procedure to be followed in compulsory registration of the citizens of India under sub- section (5) of section 14A;]",
+                                "15": "(j) the manner in which applications for revision may be made and the procedure to be followed by the Central Government in dealing with such applications; and",
+                                "16": "(k) any other matter which is to be, or may be, prescribed under the Act."
+                            }
+                        },
+                        "2": "(3) In making any rule under this section, the Central Government may provide that a breach thereof shall be punishable with fine which may extend to one thousand rupees.",
+                        "3": "5[Provided that any rule made in respect of a matter specified in clause (ia) of sub-section (2) may provide that a breach thereof shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.]",
+                        "4": "6[(4) Every rule made under this section shall be laid, as soon as may be after it is made before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of session, immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]"
+                    }
+                },
+                "Section 19.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Repeals.] [Rep. by the Repealing and Amending Act, 1960 (58 of 1960), s. 2 and the First Schedule.]"
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "[THE FIRST SCHEDULE.] [Omitted.].": {
+            "0": "[THE FIRST SCHEDULE.] [Omitted by Act the Citizenship (Amendment) Act, 2003 (6 of 2004), s. 16 (w.e.f. 3-12-2004).]"
+        },
+        "THE SECOND SCHEDULE": {
+            "0": {
+                "text": "1[THE SECOND SCHEDULE",
+                "contains": {
+                    "0": {
+                        "text": "[See sections 5(2) and 6(2)]",
+                        "contains": {
+                            "0": "OATH OF ALLEGIANCE"
+                        }
+                    }
+                }
+            },
+            "1": "I, A. B. _________ do solemnly affirm (or swear) that I will bear true faith and allegiance to the Constitution of India as by law established, and that I will faithfully observe the laws of India and fulfill my duties as a citizen of India.]"
+        },
+        "THE THIRD SCHEDULE": {
+            "0": {
+                "text": "THE THIRD SCHEDULE",
+                "contains": {
+                    "0": "[See section 6(1)]"
+                }
+            },
+            "1": "QUALIFICATIONS FOR NATURALISATION",
+            "2": {
+                "text": "The qualifications for naturalisation of a person 1*** are\u2015",
+                "contains": {
+                    "0": "(a) that he is not a subject or citizen of any country where citizens of India are prevented by law or practice of that country from becoming subjects or citizens of that country by naturalisation;",
+                    "1": "(b) that, if he is a citizen of any country, 2***;",
+                    "2": "(c) that he has either resided in India or been in the service of a Government in India or partly the one and partly the other, throughout the period of twelve months immediately preceding the date of the application;",
+                    "3": "3[Provided that if the Central Government is satisfied that special circumstances exist, it may, after recording the circumstances in writing, relax the period of twelve months up to a maximum of thirty days which may be in different breaks.]",
+                    "4": "(d) that during the 4[fourteen years] immediately preceding the said period of twelve months, he has either resided in India or been in the service of a Government in India, or partly the one and partly the other, for periods amounting in the aggregate to not less than 5[eleven years];",
+                    "5": "6[Provided that for the person belonging to Hindu, Sikh, Buddhist, Jain, Parsi or Christian community in Afghanistan, Bangladesh or Pakistan, the aggregate period of residence or service of Government in India as required under this clause shall be read as \u201cnot less than five years\u201d in place of \u201cnot less than eleven years\u201d.]",
+                    "6": "(e) that he is of good character;",
+                    "7": "(f) that he has an adequate knowledge of a language specified in the Eighth Schedule to the Constitution; and",
+                    "8": "(g) that in the event of a certificate of naturalisation being granted to him, he intends to reside in India, or to enter into, or continue in, service under a Government in India or under an international organisation of which India is a member or under a society, company or body of persons established in India:"
+                }
+            },
+            "3": {
+                "text": "Provided that the Central Government may, if in the special circumstances of any particular case it thinks fit,\u2015",
+                "contains": {
+                    "0": "(i) allow a continuous period of twelve months ending not more than six months before the date of the application to be reckoned, for the purposes of clause (c) above, as if it had immediately preceded that date;",
+                    "1": "(ii) allow periods of residence or service earlier than 7[fifteen years] before the date of the application to be reckoned in computing the aggregate mentioned in clause (d) above."
+                }
+            }
+        },
+        "[THE FOURTH SCHEDULE.] [Omitted.].": {
+            "0": "[THE FOURTH SCHEDULE.] Omitted by the Citizenship (Amendment) Act, 2005 (32 of 2005), s. 5 (w.e.f. 28-6-2005)."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. This Act has been extended to the Union territory of Dadra and Nagar haveli, vide Notification No. S.O. 846, dated 17-3-1962,  Gazette  of  India,  Extraordinary,  Part  II,  sec.  3(ii),  page  517.  The  Union  territory  of  Goa,  Daman  and  Diu  videNotification No. S.O. 847, dated 17-3-1962, see ibid., and to Pondicherry  with  modification  vide  Notification No. G.S.R.1557, dated 24-11-1962, Gazette of India, Part II, section 3(i).2. Subs. by Act 6 of 2004, s. 2, for clauses (b) and (c) (w.e.f. 3-12-2004).",
+            "1": "3. Ins. by Act 47 of 2019, s. 2 (w.e.f. 10-1-2020).4. Subs. by Act 1 of 2015, s. 2, for clause (ee) (w.e.f. 6-1-2015).5. Omitted by Act 32 of 2005, s. 2 (w.e.f. 28-6-2005)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 6 of 2004, s. 3, for section 3 (w.e.f. 3-12-2004).",
+            "1": "2. Subs. by s. 4, ibid., for sub-section (1) (w.e.f. 3-12-2004)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 39 of 1992, s. 2, for \u201cany male person\u201d.",
+            "1": "2. Subs. by Act 6 of 2004, s. 5, for sub-section (1) (w.e.f. 3-12-2004).",
+            "2": "3. Subs. by Act 1 of 2015, s. 3, for \u201chas been residing in India for one year\u201d (w.e.f. 6-1-2015).",
+            "3": "4. Subs. by s. 3, ibid., for \u201cOverseas Citizen of India\u201d (w.e.f. 6-1-2015).",
+            "4": "5. Subs. by s. 3, ibid., for \u201chas been residing in India for one year\u201d (w.e.f. 6-1-2015)."
+        },
+        "Page 6": {
+            "0": "1. Ins. by Act 1 of 2015, s. 3 (w.e.f. 6-1-2015).",
+            "1": "2. Ins. by Act 6 of 2004, s. 5 (w.e.f. 3-12-2004).",
+            "2": "3. Subs. by s. 6, ibid., for \u201cwho is not a citizen of a country specified in the First Schedule\u201d (w.e.f. 3-12-2004).",
+            "3": "4. Ins. by Act 65 of 1985, s. 2 (w.e.f. 7-12-1985)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 47 of 2019, s. 3 (w.e.f. 10-1-2020).",
+            "1": "2. Ins. by Act 6 of 2004, s. 7 (w.e.f. 3-12-2004).",
+            "2": "3. Subs. by Act 1 of 2015, s. 4, for sections 7A, 7B, 7C and 7D (w.e.f. 6-1-2015)."
+        },
+        "Page 10": {
+            "0": "1. Ins. by Act 47 of 2019, s. 4 (w.e.f. 10-1-2020)."
+        },
+        "Page 11": {
+            "0": "1. The words \u201cwho is also a citizen or national of another country\u201d omitted by Act 6 of 2004, s. 8 (w.e.f. 3-12-2004).",
+            "1": "2. Subs. by Act 39 of 1992, s. 3, for \u201ca male person\u201d (w.e.f. 10-12-1987).",
+            "2": "3. Ins. by Act 6 of 2004, s. 8 (w.e.f. 3-12-2014).",
+            "3": "4. Omitted by s. 8, ibid. (w.e.f. 3-12-2004).",
+            "4": "5. Subs. by s. 9, ibid., for \u201cperson\u201d (w.e.f. 3-12-2004)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 6 of 2004, s. 11, for \u201csections 5 and 6\u201d (w.e.f. 3-12-2004).",
+            "1": "2. Ins. by s. 12, ibid. (w.e.f. 3-12-2004)."
+        },
+        "Page 13": {
+            "0": "1. Ins. by Act 6 of 2004,  s. 13, ibid. (w.e.f. 3-12-2004).",
+            "1": "2. Subs. by s. 14, ibid., for \u201csix months\u201d (w.e.f. 3-12-2004)",
+            "2": "3. Subs. by s. 14, ibid., for \u201cwith fine\u201d (w.e.f. 3-12-2004)..",
+            "3": "4. Ins. by s. 15, ibid. (w.e.f. 3-12-2004)."
+        },
+        "Page 14": {
+            "0": "1. Ins. by Act 65 of 1985, s. 3 (w.e.f. 7-12-1985).",
+            "1": "2. Ins. by Act 47 of 2019, s. 5 (w.e.f. 10-1-2020).",
+            "2": "3. Ins. by Act 1 of 2015, s. 5 (w.e.f. 6-1-2015).",
+            "3": "4. Ins. by Act 6 of 2004, s. 15 (w.e.f. 7-12-1985).",
+            "4": "5. The proviso ins. by s. 15, ibid. (w.e.f. 3-12-2004).",
+            "5": "6. Subs. by Act 4 of 1986, s. 2 and the Schedule for sub-section (4) (w.e.f. 15-5-1986)."
+        },
+        "Page 16": {
+            "0": "1. Subs. by Act 6 of 2004, s. 17, for the Second Schedule (w.e.f. 3-12-2004)."
+        },
+        "Page 17": {
+            "0": "1. Subs. by Act 6 of 2004, s. 18, for \u201cwho is not a citizen of a country specified in the First Schedule\u201d (w.e.f. 3-12-2004).2. Subs. by s. 18, ibid., for \u201che has renounced the citizenship of that country in accordance with the law therein in force     inthat behalf and has notified such renunciation to the Central Government\u201d (w.e.f. 3-12-2004).",
+            "1": "3. The proviso ins. by Act 1 of 2015, s. 6 (w.e.f. 6-1-2015).",
+            "2": "4. Subs. by Act 6 of 2004, s. 18, for \u201ctwelve years\u201d (w.e.f. 3-12-2004).",
+            "3": "5. Subs. by s. 18, ibid., for \u201cnine years\u201d (w.e.f. 3-12-2004).",
+            "4": "6. The proviso ins. by Act 47 of 2019, s. 6 (w.e.f. 10-1-2020).",
+            "5": "7. Subs. by Act 6 of 2004, s. 18, for \u201cthirteen years\u201d (w.e.f. 3-12-2004)."
+        }
+    }
+}

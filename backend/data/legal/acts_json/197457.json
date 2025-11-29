@@ -1,0 +1,591 @@
+{
+    "Act Title": "THE SICK TEXTILE UNDERTAKINGS (NATIONALISATION) ACT, 1974",
+    "Act ID": "ACT NO. 57 OF 1974",
+    "Enactment Date": "[21st December, 1974.]",
+    "Act Definition": {
+        "0": "An Act to provide for the acquisition and transfer of the sick textile undertakings, and the right, title and interest of the owners in respect of the sick textile undertakings, specified in the First Schedule with a view to re-organising and rehabilitating such sick textile undertakings so as to subserve the interests of the general public by the augmentation of the production and distribution, at fair prices, of different verieties of cloth and yarn, and for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Sick Textile Undertakings (Nationalisation) Act, 1974.",
+                        "1": "(2) The provisions of sections 32 and 33 shall come into force at once and the remaining provisions of this Act shall be deemed to have come into force on the 1st day of April, 1974."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cappointed day\u201d means the 1st day of April, 1974;",
+                                "1": {
+                                    "text": "(b) \u201cbank\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(i) the State Bank of India constituted under the State Bank of India Act, 1955 (23 of 1955);",
+                                        "1": "(ii) a subsidiary bank as defined in the State Bank of India (Subsidiary Banks) Act, 1959 (38 of 1959);",
+                                        "2": "(iii) a corresponding new bank constituted under section 3 of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970);",
+                                        "3": "(iv) any other bank, being a scheduled bank as defined in clause (e) of section 2 of the Reserve Bank of India Act, 1934 (2 of 1934);"
+                                    }
+                                },
+                                "2": "(c) \u201cCommissioner\u201d means a Commissioner of Payments appointed under section 17;",
+                                "3": "(d) \u201cCustodian\u201d means a Custodian appointed under section 5 of the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972), and includes the person, or body of persons authorised by the Central Government to take over the management of a textile undertaking under the Industries (Development and Regulation) Act, 1951 (65 of 1951);",
+                                "4": "(e) \u201cNational Textile Corporation\u201d means the National Textile Corporation Limited, formed and registered under the Companies Act, 1956 (1 of 1956);",
+                                "5": "(f) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "6": "(g) \u201cOrdinance\u201d means the Sick Textile Undertakings (Nationalisation) Ordinance, 1974 (12 of 1974);",
+                                "7": "(h) \u201cowner\u201d, when used in relation to a sick textile undertaking, means any person or firm who or which is, immediately before the appointed day, the immediate proprietor or lessee or occupier of the sick textile undertaking or any part thereof, and in the case of a textile company which is being wound up or the business whereof is being carried on by a liquidator or receiver, includes such liquidator or receiver, and also includes any agent or manager or such owner but does not include any person or body of persons authorised under the Industries (Development and Regulation) Act, 1951 (65 of 1951), or the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972), to take over the management of the whole or any part of the sick textile undertaking;",
+                                "8": "(i) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "9": "(j) \u201csick textile undertaking\u201d means a textile undertaking, specified in the First Schedule, the management of which has, before the appointed day, been taken over by the Central Government under the Industries (Development and Regulation) Act, 1951 (65 of 1951), or as the case may be, vested in the Central Government under the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972);",
+                                "10": "(k) \u201cspecified date\u201d means such date as the Central Government may, for the purpose of any provision of this Act, by notification, specify; and different dates may be specified for different provisions of this Act;",
+                                "11": "(l) \u201cSubsidiary Textile Corporation\u201d means a Textile Corporation formed by the National Textile Corporation as its subsidiary;",
+                                "12": "(m) \u201ctextile\u201d includes yarn or fabrics made either wholly or partly of cotton, wool, jute, synthetic and artificial (man-made) fibres;",
+                                "13": "(n) \u201ctextile company\u201d means a company specified in column (3) of the First Schedule as owning the textile undertaking specified in the corresponding entry in column (2) of that Schedule;",
+                                "14": "(o) \u201ctextile undertaking\u201d means an undertaking engaged in the manufacture of textiles and to which the provisions of the Factories Act, 1948 (63 of 1948), apply."
+                            }
+                        },
+                        "1": "(2) Words and expressions used but not defined in this Act and defined in the Industries (Development and Regulation) Act, 1951 (65 of 1951), shall have the meanings respectively assigned to them in that Act.",
+                        "2": "(3) Words and expressions used but not defined either in this Act or in the Industries (Development and Regulation) Act, 1951 (65 of 1951), but defined in the Companies Act, 1956 (1 of 1956), shall have the meanings respectively assigned to them in the Companies Act, 1956."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "ACQUISITION OF THE RIGHTS OF OWNERS OF SICK TEXTILE UNDERTAKINGS",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Acquisition of rights of owners in respect of sick textile undertakings.",
+                    "paragraphs": {
+                        "0": "(1) On the appointed day, every sick textile undertaking and the right, title and interest of the owner in relation to every such sick textile undertaking shall stand transferred to, and shall vest absolutely in, the Central Government.",
+                        "1": "(2) Every sick textile undertaking which stands vested in the Central Government by virtue of sub-section (1) shall, immediately after it has so vested, stand transferred to, and vested in, the National Textile Corporation.",
+                        "2": "1[(3) Notwithstanding the transfer and vesting of any sick textile undertaking to the National Textile Corporation by virtue of sub-section (2), the lease-hold rights of the sick textile undertakings shall continue to remain vested in the Central Government on payment of lease-hold rents and shall be discharged, for and on behalf of that Government, by the National Textile Corporation as and when payment of such lease-hold rents or any amount becomes due and payable.",
+                        "3": "(4) Subject to sub-section (3), no court shall have jurisdiction to order divestment from the National Textile Corporation of the property vested in it by the Central Government.]"
+                    }
+                },
+                "Section 4.": {
+                    "heading": "General effect of vesting.",
+                    "paragraphs": {
+                        "0": "(1) The sick textile undertaking referred to in section 3 shall be deemed to include all assets, rights, lease-holds, powers, authorities and privileges and all property, movable and immovable, including lands, buildings, workshops, stores, instruments, machinery and equipment, cash balances, cash on hand, reserve funds, investments and book debts and all other rights and interests in, or arising out of, such property as were immediately before the appointed day in the ownership, possession, power or control of the owner of the sick textile undertaking, whether within or outside India, and all books of account, registers and all other documents of whatever nature relating thereto and shall also be deemed to include the liabilities and obligations specified in sub-section (2) of section 5.",
+                        "1": "(2) All property as aforesaid which have vested in the Central Government under sub-section (1) of section 3 shall, by force of such vesting, be freed and discharged from any trust, obligation, mortgage, charge, lien and all other incumbrances affecting it, and any attachment, injunction or decree or order of any court restricting the use of such property in any manner shall be deemed to have been withdrawn.",
+                        "2": "(3) Where any licence or other instrument in relation to a sick textile undertaking had been granted at any time before the date on which the Ordinance was promulgated, to an owner by the Central Government or a State Government or any other authority, the National Textile Corporation shall, on and from such date, be deemed to be substituted in such licence or other instrument in place of the owner referred to therein as if such licence or other instrument had been granted to it and shall hold such licence or the sick textile undertaking specified in such other instrument for the remainder of the period for which the owner would have held such licence or the sick textile undertaking under such other instrument.",
+                        "3": "(4) Every mortgagee of any property which has vested under this Act in the Central Government and every person holding any charge, lien or other interest in or in relation to any such property shall give, within such time and in such manner as may be prescribed, an intimation to the Commissioner of such mortgage, charge, lien or other interest.",
+                        "4": "(5) For the removal of doubts, it is hereby declared that the mortgagee of any property referred to in sub-section (2) or any other person holding any charge, lien or other interest in, or in relation to, any such property shall be entitled to claim, in accordance with his rights and interests, payment of the mortgage money or other dues, in whole or in part, out of the amount specified in relation to such property in the First Schedule, but no such mortgage, charge, lien or other interest shall be enforceable against any property which has vested in the Central Government.",
+                        "5": "(6) If, on the appointed day, any suit, appeal or other proceeding of whatever nature in relation to any matter specified in sub-section (2) of section 5 in respect of the sick textile undertaking, instituted or preferred by or against the textile company, is pending, the same shall not abate, be discontinued or be, in any way, prejudicially affected by reason of the transfer of the sick textile undertaking or of anything contained in this Act but the suit, appeal or other proceeding may be continued, prosecuted and enforced by or against the National Textile Corporation.",
+                        "6": "(7) Any person, who, on the date on which the Ordinance was promulgated, was in possession of, or had under his custody or control, the whole or any part of any sick textile undertaking referred to in section 3, the management of which could not be taken over by the Central Government by reason of any decree, order or injunction of any court or otherwise, shall deliver forthwith the possession of such undertaking or part and all books of account, registers and all other documents of whatever nature relating to such undertaking or part to the Central Government or the National Textile Corporation or such other person as the Central Government or the National Textile Corporation, as the case may be, may specify in this behalf.",
+                        "7": "1[(8) Notwithstanding the fact that the textile operations have been discontinued in any sick textile undertaking being revived, shall for all effects and purposes be deemed that the textile operations are being continued and no suit or proceeding shall be instituted or if instituted be maintainable against the National Textile Corporation on the ground that it has discontinued such activity in the sick textile undertaking.",
+                        "8": "(9) For the removal of doubts, it is hereby declared that the continued deemed vesting of the lease-hold land in the Central Government shall not affect, impair or in any manner prejudice the rights of the National Textile Corporation to prosecute or defend any proceedings as a subsequent vestee in respect of any such lease-hold rights and no such proceedings shall fail only on account of the non-impleadment of that Government.]"
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Owner to be liable for certain prior liabilities.",
+                    "paragraphs": {
+                        "0": "(1) Every liability, other than the liability specified in sub-section (2) of the owner of a sick textile undertaking, in respect of any period prior to the appointed day, shall be the liability of such owner and shall be enforceable against him and not against the Central Government or the National Textile Corporation.",
+                        "1": {
+                            "text": "(2) Any liability arising in respect of\u2014",
+                            "contains": {
+                                "0": "(a) loans advanced by the Central Government, or a State Government, or both, to a sick textile undertaking (together with interest due thereon) after the management of such undertaking had been taken over by the Central Government.",
+                                "1": "(b) amounts advanced to a sick textile undertaking (after the management of such undertaking had been taken over by the Central Government), by the National Textile Corporation or by a State Textile Corporation, or by both, together with interest due thereon.",
+                                "2": "(c) wages, salaries and other dues of employees of the sick textile undertaking, in respect of any period after the management of such undertaking had been taken over by the Central Government,"
+                            }
+                        },
+                        "2": {
+                            "text": "shall, on and from the appointed day, be the liability of the Central Government and shall be discharged, for and on behalf of that Government, by the National Textile Corporation as and when repayment of such loans or amounts becomes due or as and when such wages, salaries or other dues become due and payable.",
+                            "contains": {
+                                "0": {
+                                    "text": "(3) For the removal of doubts, it is hereby declared that,\u2014",
+                                    "contains": {
+                                        "0": "(a) save as otherwise expressly provided in this section or in any other section of this Act, no liability, other than the liability specified in sub-section (2), in relation to a sick textile undertaking in respect of any period prior to the appointed day, shall be enforceable against the Central Government or the National Textile Corporation;",
+                                        "1": "(b) no award, decree or order of any court, tribunal or other authority in relation to any sick textile undertaking passed after the appointed day in respect of any matter, claim or dispute, in relation to any matter not referred to in sub-section (2), which arose before that day, shall be enforceable against the Central Government or the National Textile Corporation;",
+                                        "2": "(c) no liability of any sick textile undertaking or any owner thereof for the contravention, before the appointed day, of any provision of law for the time being in force, shall be enforceable against the Central Government or the National Textile Corporation."
+                                    }
+                                },
+                                "1": "Explanation.\u2014In this section, \u201cState Textile Corporation\u201d means a corporation, formed and registered under the Companies Act, 1956 (1 of 1956), in a State, which is in charge of the management of a sick textile undertaking either as a person authorised under the Industries (Development and Regulation) Act, 1951 (65 of 1951), or as the Custodian under the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972) and includes the West Bengal State Textile Corporation Limited which has advanced amounts to sick textile undertakings in the State."
+                            }
+                        }
+                    }
+                },
+                "Section 6.": {
+                    "heading": "National Textile Corporation to form subsidiary corporations.",
+                    "paragraphs": {
+                        "0": "(1) The National Textile Corporation may, if it considers it necessary so to do, form subsidiary corporations under the Companies Act, 1956 (1 of 1956), and register them under that Act.",
+                        "1": "(2) The National Textile Corporation may, by order in writing, transfer any sick textile undertaking or part thereof to a Subsidiary Textile Corporation and any such transfer shall be subject to such terms and conditions as may be specified in the said order.",
+                        "2": "(3) The Subsidiary Textile Corporation shall, on and from the date of such transfer, be deemed to be substituted in the licence or other instrument referred to in sub-section (3) of section 4 in place of the National Textile Corporation as if such licence or other instrument had been granted to the Subsidiary Textile Corporation, and shall hold such licence or other instrument for the remainder of the period for which the National Textile Corporation would have held such licence or other instrument.",
+                        "3": "(4) On the transfer to a Subsidiary Textile Corporation of any sick textile undertaking or any part thereof, the liabilities required to be discharged by the National Textile Corporation under sub-section (2) of section 5, shall, in so far as they relate to the sick textile undertaking or part thereof so transferred to the Subsidiary Textile Corporation, be discharged, on and from the date of such transfer, by the Subsidiary Textile Corporation as and when any such liability is required to be discharged.",
+                        "4": "(5) Save as otherwise expressly provided in this Act, references in this Act to the National Textile Corporation shall, in respect of any sick textile undertaking or any part thereof which is transferred to a Subsidiary Textile Corporation, be construed as references to the Subsidiary Textile Corporation."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Shares to be issued by the National Textile Corporation for the value of the assets transferred to it by the Central Government.",
+                    "paragraphs": {
+                        "0": "(1) An amount equal to the value of the assets of a sick textile undertaking transferred to, and vested in, the National Textile Corporation under sub-section (2) of section 3, shall be deemed to be the contribution made by the Central Government to the equity capital of the National Textile Corporation; and for the contribution so made, the National Textile Corporation shall issue (if necessary after amending its memorandum and articles of association) to the Central Government paid-up shares, in its equity capital, having a face value equal to the amount specified against the sick textile undertaking in the corresponding entry in column (4) of the First Schedule.",
+                        "1": "(2) Where any liability assumed by the Central Government under this Act is taken over by the National Textile Corporation under section 27, the Central Government shall surrender to that Corporation the shares issued to it under sub-section (1) having the face value equal to the amount to the extent to which the liability has been so taken over by the National Textile Corporation and thereupon the share capital of the National Textile Corporation shall, to the extent of the face value of the shares so surrendered, stand reduced."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "PAYMENT OF AMOUNT",
+            "Sections": {
+                "Section 8.": {
+                    "heading": "Payment of amount to owners of sick textile undertakings.",
+                    "paragraphs": {
+                        "0": "The owner of every sick textile undertaking shall be given by the Central Government, in cash and in the manner specified in Chapter VI, for the transfer to, and vesting in, it, under sub-section (1) of section 3, of such sick textile undertaking and the right, title and interest of the owner in relation to such sick textile undertaking, an amount equal to the amount specified against it in the corresponding entry in column (4) of the First Schedule."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Payment of further amount.",
+                    "paragraphs": {
+                        "0": "(1) In consideration of the retrospective operation of the provisions of sections 3, 4 and 5, there shall be given, in cash, by the Central Government, to the owner of every sick textile undertaking, the management of which was taken over by the Central Government, an amount equal to an amount calculated at the rate specified in section 6 of the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972), for the period commencing on the appointed day and ending on the date on which the Ordinance was promulgated.",
+                        "1": "(2) In addition to the amount referred to in section 8, there shall be given by the Central Government, in cash, to the owner of every sick textile undertaking, simple interest at the rate of four per cent. per annum on the amount specified against such owner in the corresponding entry in column (4) of the First Schedule for the period commencing on the date on which the Ordinance was promulgated, and ending on the date on which payment of such amount is made by the Central Government to the Commissioner.",
+                        "2": "(3) The amount representing interest calculated at the rate specified in sub-section (2) shall be given in addition to the amount specified in the First Schedule."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Accounts to be rendered by the owners of sick textile undertakings.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Where in pursuance of any decree, order or injunction of a court or otherwise, the Central Government or the Custodian was prevented from taking over the management of any sick textile undertaking, the owner of such sick textile undertaking shall,\u2014",
+                            "contains": {
+                                "0": "(a) in the case of an undertaking the management of which was subsequently taken over by the Central Government at any time before the date on which the Ordinance was promulgated, within sixty days from such date; or",
+                                "1": "(b) in the case of any other sick textile undertaking, the management of which could not be taken over by the Central Government before the date on which the Ordinance was promulgated, within sixty days from such date,"
+                            }
+                        },
+                        "1": {
+                            "text": "render accounts in relation to the period commencing on the date of the notified order under the Industries (Development and Regulation) Act, 1951 (5 of 1951), or, as the case may be, on the date of commencement of the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972), and ending on the date on which the management of the sick textile undertaking was taken over by the Central Government or the Custodian, as the case may be, with regard to the\u2014",
+                            "contains": {
+                                "0": "(i) assets and stores of the sick textile undertaking acquired or sold during the said period;",
+                                "1": "(ii) textile sold or despatched during the said period; and",
+                                "2": "(iii) income derived by the owner from the sick textile undertaking during the said period.",
+                                "3": "(2) If on examination of the accounts referred to in sub-section (1), any income is found to have been derived by the owner from the sick textile undertaking during the period referred to in that sub-section, such income shall be recoverable by the Central Government from the amount payable under section 8 to the owner of such sick textile undertaking and the debt due to the Central Government on this account shall rank as an unsecured debt.",
+                                "4": "(3) If no account is rendered by the owner of a sick textile undertaking within the period referred to in sub-section (1) or if the Central Government has any reason to believe that the account rendered by such owner is incorrect or false in material particulars, the Central Government may refer the matter to the Commissioner and thereupon the Commissioner shall determine the income derived by the owner from the sick textile undertaking during the period referred to in sub-section (1), and take steps to recover the said income from the amount payable to the owner of the sick textile undertaking under section 8, as if the debt due to the Central Government on this account were an unsecured debt.",
+                                "5": "(4) No mortgage, charge, lien or other incumbrance in relation to a sick textile undertaking or any asset thereof shall be binding on the Central Government or the National Textile Corporation if such mortgage, charge, lien or other incumbrance was created, at any time during the period in which the Central Government or the Custodian was prevented, by any decree, order or injunction of a court or otherwise, from taking over the management of the said sick textile undertaking."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "MANAGEMENT, ETC., OF SICK TEXTILE UNDERTAKINGS",
+            "Sections": {
+                "Section 11.": {
+                    "heading": "Management, etc., of sick textile undertakings.",
+                    "paragraphs": {
+                        "0": "The National Textile Corporation or any person which that Corporation may, by order in writing, specify, shall be entitled to exercise the powers of general superintendence, direction, control and management of the affairs and business of a sick textile undertaking, the right, title and interest of an owner in relation to which have vested in that Corporation under sub-section (2) of section 3, and do all such things as the owner of the sick textile undertaking is authorised to exercise and do."
+                    }
+                },
+                "Section 11A.": {
+                    "heading": "Special provision for disposal of assets of the sick textile undertakings in certain circumstances.",
+                    "paragraphs": {
+                        "0": "If the National Textile Corporation considers it necessary or expedient for the better management, modernisation, restructuring or revival of a sick textile undertaking so to do, it may, with the previous sanction of the Central Government, transfer, mortgage, sell or otherwise dispose of any land, plant, machinery or any other assets of any of the sick textile undertakings:",
+                        "1": "Provided that the proceeds of no such transfer, mortgage, sale or disposal shall be utilised for any purpose other than the purpose for which the sanction of the Central Government has been obtained.]"
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Duty of persons in charge of management of sick textile undertakings to deliver all assets, etc.",
+                    "paragraphs": {
+                        "0": "On the vesting of the management of a sick textile undertaking in the National Textile Corporation all persons in charge of the management of such sick textile undertaking immediately before such vesting shall be bound to deliver to the National Textile Corporation all assets, books of account, registers or other documents in their custody relating to the sick textile undertaking."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Accounts.",
+                    "paragraphs": {
+                        "0": "The National Textile Corporation shall maintain the accounts of sick textile undertakings in accordance with the provisions of the Companies Act, 1956 (1 of 1956)."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "PROVISIONS RELATING TO EMPLOYEES OF SICK TEXTILE UNDERTAKINGS",
+            "Sections": {
+                "Section 14.": {
+                    "heading": "Employment of certain employees to continue.",
+                    "paragraphs": {
+                        "0": "(1) Every person who is a workman within the meaning of the Industrial Disputes Act, 1947 (14 of 1947), and has been, immediately before the appointed day, employed in a sick textile undertaking shall become, on and from the appointed day, an employee of the National Textile Corporation, and shall hold office or service in the National Textile Corporation with the same rights and privileges as to pension, gratuity and other matters as would have been admissible to him if the rights in relation to such sick textile undertaking had not been transferred to, and vested in, the National Textile Corporation, and shall continue to do so unless and until his employment in the National Textile Corporation is duly terminated or until his remuneration, terms and conditions of employment are duly altered by the National Textile Corporation.",
+                        "1": "(2) Every person who is not a workman within the meaning of the Industrial Disputes Act, 1947 (14 of 1947), and who has been, immediately before the appointed day, employed in a sick textile undertaking shall, in so far as such person is employed in connection with the sick textile undertaking which has vested in the National Textile Corporation, become, as from the appointed day, an employee of the National Textile Corporation and shall hold his office or service therein by the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension and gratuity and other matters as he would have held the same under the sick textile undertaking if it had not vested in the National Textile Corporation and shall continue to do so unless and until his employment in the National Textile Corporation is duly terminated or until his remuneration, terms and conditions of employment are duly altered by the National Textile Corporation:",
+                        "2": "Provided that in respect of any sick textile undertaking the management of which could not be taken over by the Central Government under the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972), by reason of any decree, order or injunction of any court, any agent, director (including a managing or whole-time director, by whatever name called) or manager shall not become an employee of the National Textile Corporation.",
+                        "3": "(3) Notwithstanding anything contained in the Industrial Disputes Act, 1947 (14 of 1947), or in any other law for the time being in force, the transfer of the services of any officer or other person employed in a sick textile undertaking to the National Textile Corporation shall not entitle such officer or other employee to any compensation under this Act or any other law for the time being in force and no such claim shall be entertained by any court, tribunal or other authority.",
+                        "4": "(4) Where, under the terms of any contract of service or otherwise, any person whose services become terminated or whose services become transferred to the National Textile Corporation by reason of the provisions of this Act is entitled to any arrears of salary or wages or any payment for any leave not availed of or other payment, not being payment by way of gratuity or pension, such person may, except to the extent such liability has been taken over by the Central Government under section 5, enforce his claim against the owner of the sick textile undertaking but not against the Central Government or the National Textile Corporation."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Provident and other funds.",
+                    "paragraphs": {
+                        "0": "(1) Where the owner of a sick textile undertaking has established a provident fund, superannuation, welfare or other fund for the benefit of the persons employed in such sick textile undertaking the monies relatable to the employees, whose services have become transferred by or under this Act to the National Textile Corporation shall, out of the monies standing, on the appointed day, to the credit of such provident fund, superannuation, welfare or other fund, stand transferred to, and shall vest in, the National Textile Corporation.",
+                        "1": "(2) The monies which stand transferred, under sub-section (1), to the National Textile Corporation shall be dealt with by that Corporation in such manner as may be prescribed."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Transfer of employees to a Subsidiary Textile Corporation.",
+                    "paragraphs": {
+                        "0": "Where any sick textile undertaking or any part thereof is transferred under this Act to a Subsidiary Textile Corporation, every person referred to in sub-section (1) and sub-section (2) of section 14 shall, on and from the date of such transfer, become an employee of the Subsidiary Textile Corporation, and the provisions of sections 14 and 15 shall apply to such employee as they apply to an employee of the National Textile Corporation as if references in the said sections to the National Textile Corporation were references to the Subsidiary Textile Corporation."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "COMMISSIONERS OF PAYMENTS",
+            "Sections": {
+                "Section 17.": {
+                    "heading": "Appointment of Commissioners of Payments.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) For the purpose of disbursing the amounts payable to the owner of each sick textile undertaking, the Central Government shall, by notification in the Official Gazette,\u2014",
+                            "contains": {
+                                "0": "(a) appoint such number of persons as it may think fit to be Commissioners of Payments; and",
+                                "1": "(b) define the local limits within which the Commissioners of Payments shall exercise the powers conferred, and perform the duties imposed, on them by or under this Act."
+                            }
+                        },
+                        "1": "(2) The Central Government may appoint such other persons as it may think fit to assist the Commissioner and thereupon the Commissioner may authorise one or more of such persons also to exercise all or any of the powers exercisable by him under this Act, and different persons may be authorised to exercise different powers.",
+                        "2": "(3) Any person authorised by the Commissioner to exercise any powers may exercise those powers in the same manner and with the same effect as if they have been conferred on that person directly by this Act and not by way of authorisation.",
+                        "3": "(4) The salaries and allowances of the Commissioner and other persons appointed under this section shall be defrayed out of the Consolidated Fund of India.",
+                        "4": "(5) References in this Act to the Commissioner shall, where more than one Commissioner has been appointed, be construed as references to the Commissioner in relation to the sick textile undertaking within the local limits of the jurisdiction specified under clause (b) of sub-section (1)."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Payment by the Central Government to the Commissioner.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, within thirty days from the specified date, pay in cash to the Commissioner, for payment to the owner of a sick textile undertaking, an amount equal to the amount specified against the sick textile undertaking in the First Schedule and shall also pay to the Commissioner such sums as may be due to the owner of a sick textile undertaking under sub-sections (1) and (2) of section 9.",
+                        "1": "(2) In relation to the sick textile undertakings, the management of which was taken over by the Central Government under the Industries (Development and Regulation) Act, 1951 (5 of 1951), there shall be paid by the Central Government [in addition to the amount referred to in sub-section (1)], to the Commissioner, in cash, an amount calculated at the rate specified in section 6 of the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972), for the period commencing on the date on which such management was taken over by the Central Government and ending on the appointed day.",
+                        "2": "(3) In relation to the sick textile undertakings, the management of which was taken over by the Central Government under the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972), there shall be paid by the Central Government [in addition to the amount referred to in sub-section (1)], to the Commissioner, in cash, such amount payable under section 6 of that Act as remains unpaid in relation to the period commencing on the date on which such management was taken over by the Central Government and ending on the appointed day.",
+                        "3": "(4) A deposit account shall be opened by the Central Government, in favour of the Commissioner, in the Public Account of India, and every amount paid under this Act to the Commissioner shall be deposited by him to the credit of the said deposit account in the Public Account of India, and thereafter the said deposit account shall be operated by the Commissioner.",
+                        "4": "(5) Separate records shall be maintained by the Commissioner in respect of each sick textile undertaking in relation to which payments have been made to him under this Act.",
+                        "5": "(6) Interest accruing on the amounts standing to the credit of the deposit account referred to in sub-section (4) shall inure to the benefit of the owners of the sick textile undertakings."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Certain powers of the National Textile Corporation.",
+                    "paragraphs": {
+                        "0": "(1) The National Textile Corporation shall be entitled to receive, up to the specified date, to the exclusion of all other persons, any money due to the sick textile undertaking, realised after the appointed day, notwithstanding that the realisations pertain to a period prior to the appointed day.",
+                        "1": "(2) The National Textile Corporation may make a claim to the Commissioner with regard to every payment made by the Custodian after the appointed day but before the date on which the Ordinance was promulgated for discharging any liability of the owner of a sick textile undertaking in relation to any period prior to the appointed day, and every such claim shall have priority, in accordance with the priorities attaching under this Act, to the matter in relation to which such liability has been discharged by the Custodian.",
+                        "2": "(3) Save as otherwise provided in this Act, the liabilities in relation to a sick textile undertaking in respect of any period prior to the appointed day which have not been discharged by the Custodian shall be the liabilities of the owner of that sick textile undertaking."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Claims to be made to the Commissioner.",
+                    "paragraphs": {
+                        "0": "Every person having a claim against the owner of a sick textile undertaking shall prefer such claim before the Commissioner within thirty days from the specified date:",
+                        "1": "Provided that if the Commissioner is satisfied that the claimant was prevented by sufficient cause from preferring the claim within the said period of thirty days, he may entertain the claim within a further period of thirty days but not thereafter."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Priority of claims.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The claims arising out of the matters specified in the Second Schedule shall have priorities in accordance with the following principles, namely:\u2014",
+                            "contains": {
+                                "0": "(a) category I will have precedence over all other categories, and category II will have precedence over category III and so on;",
+                                "1": "(b) the claims specified in each of the categories except Category IV, shall rank equally and be paid in full, but if the amount is insufficient to meet such claims in full, they shall abate in equal proportions and be paid accordingly;",
+                                "2": "(c) the liabilities specified in category IV shall be discharged, subject to the priorities specified in this section, in accordance with the terms of the secured loans and the priority, inter se, of such loans; and",
+                                "3": "(d) the question of payment of a liability with regard to a matter specified in a lower category shall arise only if a surplus is left after meeting all the liabilities specified in the immediately higher category."
+                            }
+                        }
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Examination of claims.",
+                    "paragraphs": {
+                        "0": "(1) On receipt of the claims under section 20, the Commissioner shall arrange the claims in the order of priority specified in the Second Schedule and examine the same in accordance with the said order.",
+                        "1": "(2) If on examination of the claims, the Commissioner is of the opinion that the amount paid to him under this Act is not sufficient to meet the liabilities specified by any lower category, he shall not be required to examine the liabilities in respect of such lower category."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Admission or rejection of claims.",
+                    "paragraphs": {
+                        "0": "(1) After examining the claims with reference to the priority set out in the Second Schedule, the Commissioner shall fix a certain date on or before which every claimant shall file the proof of his claim or be excluded from the benefit of the disbursement made by the Commissioner.",
+                        "1": "(2) Not less than fourteen days\u201f notice of the date so fixed shall be given by advertisement in one issue of the daily newspaper in the English language and one issue of the daily newspaper in the regional language as the Commissioner may consider suitable, and every such notice shall call upon the claimant to file the proof of his claim with the Commissioner within the time specified in the advertisement.",
+                        "2": "(3) Every claimant who fails to file the proof of his claim within the time specified by the Commissioner shall be excluded from the disbursements made by the Commissioner.",
+                        "3": "(4) The Commissioner shall, after such investigation as may, in his opinion, be necessary and after giving the sick textile undertaking an opportunity of refuting the claim and after giving the claimants a reasonable opportunity of being heard, in writing, admit or reject the claim in whole or in part.",
+                        "4": {
+                            "text": "(5) The Commissioner shall have the power to regulate his own procedure in all matters arising out of the discharge of his functions including the place or places at which he will hold his sittings and shall, for the purpose of making any investigation under this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the summoning and enforcing the attendance of any witness and examining him on oath;",
+                                "1": "(b) the discovery and production of any document or other material object producible as evidence;",
+                                "2": "(c) the reception of evidence on affidavits;",
+                                "3": "(d) the issuing of any commission for the examination of witnesses."
+                            }
+                        },
+                        "5": "(6) Any investigation before the Commissioner shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Commissioner shall be deemed to be a civil court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).",
+                        "6": "(7) A claimant who is dissatisfied with the decision of the Commissioner may prefer an appeal against the decision to the principal civil court of original jurisdiction within the local limits of whose jurisdiction the sick textile undertaking is situated:",
+                        "7": "Provided that where a person who is a Judge of a High Court is appointed to be the Commissioner, such appeal shall lie to the High Court for the State in which the sick textile undertaking is situated, and such appeal shall be heard and disposed of by not less than two Judges of that High Court."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Disbursement of money by the Commissioner to claimants.",
+                    "paragraphs": {
+                        "0": "After admitting a claim under this Act, the amount due in respect of such claim shall be credited by the Commissioner to the relevant fund or be paid to the person or persons to whom such sums are due and on such credit or payment the liability of the owner in respect of such claim shall stand discharged."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Disbursement of amounts to the owners of sick textile undertakings.",
+                    "paragraphs": {
+                        "0": "(1) If out of the monies paid to him in relation to a sick textile undertaking, there is a balance left after meeting the liabilities as specified in the Second Schedule, the Commissioner shall disburse such balance to the owner of such sick textile undertaking.",
+                        "1": "(2) Before making any payment to the owner of any sick textile undertaking under sub-section (1), the Commissioner shall satisfy himself as to the right of such person to receive the whole or any part of such amount, and in the event of there being a doubt or dispute as to the right of the person to receive the whole or any part of the amount referred to in sections 8 and 9, the Commissioner shall refer the matter to the court and make the disbursement in accordance with the decision of the court.",
+                        "2": "(3) For the removal of doubts, it is hereby declared that the entries in column (3) of the First Schedule shall not be deemed to be conclusive as to the right, title and interest of any person in relation to any sick textile undertaking specified in the corresponding entries in column (2) of the said Schedule and evidence shall be admissible to establish the right, title and interest of any person in relation to such sick textile undertaking.",
+                        "3": "(4) Where any machinery, equipment or other property in a sick textile undertaking has vested in the National Textile Corporation, but such machinery, equipment or other property does not belong to the owner of such sick textile undertaking, the amount specified in column (4) of the First Schedule against such sick textile undertaking shall, on a reference made to it by the Commissioner, be apportioned by the court between the owner of such sick textile undertaking and the owner of such machinery, equipment or other property having due regard to the value of such machinery, equipment or other property on the appointed day.",
+                        "4": "Explanation.\u2014In this section, \u201ccourt,\u201d in relation to a sick textile undertaking, means the principal civil court of original jurisdiction within the local limits of whose jurisdiction the sick textile undertaking is situated."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Undisbursed or unclaimed amounts to be deposited to the general revenue account.",
+                    "paragraphs": {
+                        "0": "Any money paid to the Commissioner which remains undisbursed or unclaimed for a period of three years from the last day on which the disbursement was made, shall be transferred by the Commissioner to the general revenue account of the Central Government; but a claim to any money so transferred may be preferred to the Central Government by the person entitled to such payment and shall be dealt with as if such transfer had not been made, the order, if any, for payment of the claim being treated as an order for the refund of revenue."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 27.": {
+                    "heading": "Assumption of liability.",
+                    "paragraphs": {
+                        "0": "(1) Where any liability of the owner of a sick textile undertaking arising out of any item specified in category I of the Second Schedule is not discharged fully by the Commissioner out of the amount paid to him under this Act, the Commissioner shall intimate in writing to the Central Government the extent of the liability which remains undischarged, and that liability shall be assumed by the Central Government.",
+                        "1": "(2) The Central Government may, by order, direct the National Textile Corporation to take over any liability assumed by that Government under sub-section (1), and on receipt of such direction, it shall be the duty of, the National Textile Corporation to discharge such liability."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Management to continue to vest in the Custodian until alternative arrangements are made.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding the vesting, under this Act, of a sick textile undertaking in the National Textile Corporation,\u2014",
+                            "contains": {
+                                "0": "(a) the Custodian who has been managing the affairs of such undertaking before the date on which the Ordinance was promulgated shall, until alternative arrangements have been made by the National Textile Corporation, continue to manage the affairs of such undertaking as if the Custodian had been authorised by the National Textile Corporation to manage the affairs of such undertaking; and",
+                                "1": "(b) the Custodian or any person authorised by him for this purpose shall, until alternative arrangements have been made by the National Textile Corporation, continue to be authorised to operate, in relation to the sick textile undertaking, any account of such undertaking in a bank as if such Custodian or the person authorised by the Custodian had been authorised by the National Textile Corporation to operate such account."
+                            }
+                        }
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Act to override all other enactments.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act or in any decree or order of any court, tribunal or authority."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Contracts to cease to have effect unless ratified by National Textile Corporation.",
+                    "paragraphs": {
+                        "0": "(1) Every contract entered into by the owner or occupier of any sick textile undertaking for any service, sale or supply and in force immediately before the appointed day shall, on and from the expiry of one hundred and eighty days from the date on which this Act receives the assent of the President, cease to have effect unless such contract is before the expiry of that period, ratified, in writing, by the National Textile Corporation and in ratifying such contract the National Textile Corporation may, with the previous approval of the Central Government, make such alterations or modifications therein as it may think fit:",
+                        "1": "Provided that the National Textile Corporation shall not omit to ratify a contract, and shall not make any alteration or modification in a contract, unless it is satisfied that such contract is unduly onerous or has been entered into in bad faith or is detrimental to the interests of the sick textile undertaking.",
+                        "2": "(2) The National Textile Corporation shall not omit to ratify a contract, and, shall not make any alteration or modification therein, except after giving to the parties to the contract a reasonable opportunity of being heard and except after recording in writing its reasons for refusal to ratify the contract or for making any alteration or modification therein."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Transfer of assets, etc., to be void in certain cases.",
+                    "paragraphs": {
+                        "0": "(1) Except with the prior approval of the Central Government, no owner of a sick textile undertaking, specified in the Schedule to the Sick Textile Undertakings (Taking Over of Management) Act, 1972 (72 of 1972), the management of which could not be taken over by the Central Government by reason of any decree, order or injunction of any court or otherwise, shall, on and from the date of introduction of the Sick Textile Undertakings (Nationalisation) Bill, 1974, in the House of the People, transfer, by sale, mortgage or otherwise, any property or other assets forming part of the said sick textile undertaking and any such transfer without the previous approval of the Central Government shall be void and inoperative.",
+                        "1": "(2) Any person who contravenes the provisions of sub-section (1) shall be punishable with imprisonment for a term which may extend to two years, or with fine which may extend to ten thousand rupees, or with both."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Penalties.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any person who,\u2014",
+                            "contains": {
+                                "0": "(a) having in his possession, custody or control any property forming part of a sick textile undertaking wrongfully withholds such property from the Central Government or the National Textile Corporation, or any person authorised by that Government or Corporation, as the case may be, in this behalf, or",
+                                "1": "(b) wrongfully obtains possession of, or retains, any property forming part of the sick textile undertaking or wilfully withholds or fails to furnish to the Central Government, the National Textile Corporation or any person specified by that Government, or Corporation, as the case may be, any document relating to such sick textile undertaking which may be in his possession, custody or control or fails to deliver to the National Textile Corporation or any person specified by that Corporation any assets, books of account, registers or other documents in his custody relating to the sick textile undertaking, or",
+                                "2": "(c) wrongfully removes or destroys and property forming part of any sick textile undertaking or prefers any claim under this Act which he knows or has reasonable cause to believe to be false or grossly inaccurate,"
+                            }
+                        },
+                        "1": "shall be punishable with imprisonment for a term which may extend to two years, or with fine which may extend to ten thousand rupees, or with both."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                                "1": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against the Central Government or any officer of that Government or the Custodian or the National Textile Corporation or any Subsidiary Textile Corporation or any officer or other person authorised by either of such Corporations for anything which is, in good faith done or intended to be done under this Act."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Textile companies not to be wound up by the court.",
+                    "paragraphs": {
+                        "0": "No proceeding for the winding up of a textile company, the right, title and interest in relation to the sick textile undertaking owned by which have vested in the National Textile Corporation under this Act or for the appointment of a receiver in respect of the business of the sick textile undertaking shall lie or be proceeded with in any court except with the consent of the Central Government."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Delegation of powers.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, direct that all or any of the powers exercisable by it under this Act, other than the power under section 37, may also be exercised by any person or persons as may be specified in the notification.",
+                        "1": "(2) Whenever any delegation of power is made under sub-section (1), the person to whom such power has been delegated shall act under the direction, control and supervision of the Central Government."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules to carry out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the time within which the manner in which an intimation referred to in sub-section (4) of section 4 shall be given;",
+                                "1": "(b) the manner in which monies in any provident or other fund referred to in section 15 shall be dealt with;",
+                                "2": "(c) any other matter which is required to be, or may be, prescribed."
+                            }
+                        },
+                        "2": "(3) Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order not inconsistent with the provisions of this Act, remove the difficulty:",
+                        "1": "Provided that no such order shall be made after the expiry of a period of two years from the date on which this Act receives the assent of the President."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Declaration as to the policy of the State.",
+                    "paragraphs": {
+                        "0": "It is hereby declared that this Act is for giving effect to the policy of the State towards securing the principles specified in clause (b) of article 39 of the Constitution.",
+                        "1": "Explanation.\u2014In this section, \u201cState\u201d has the same meaning as in article 12 of the Constitution."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Repeal and savings.",
+                    "paragraphs": {
+                        "0": "(1) The Sick Textile Undertakings (Nationalisation) Ordinance, 1974 (Ord. 12 of 1974), as hereby repealed.",
+                        "1": "(2) Notwithstanding such repeal, anything done or any action taken under the Ordinance so repealed shall be deemed to have been done or taken under the corresponding provisions of this Act."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Validation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in any judgment, decree or order of any court, tribunal or other authority,\u2014",
+                            "contains": {
+                                "0": "(a) the provisions of this Act, as amended by the Textile Undertakings (Nationalisation) Laws (Amendment and Validation) Act, 2014 (36 of 2014), shall have and shall be deemed always to have effect for all purposes as if the provisions of this Act, as amended by the said Act, had been in force at all material times;",
+                                "1": "(b) any lease-hold property divested from the National Textile Corporation to any person under the provisions of this Act, as it stood immediately before the commencement of the Textile Undertakings (Nationalisation) Laws (Amendment and Validation) Act, 2014 (36 of 2014), shall stand transferred to and vest or continue to vest, free from all encumbrances, in the National Textile Corporation in the same manner as it was vested in the National Textile Corporation before such divesting of that property under the provisions of this Act, as if the provisions of this Act as amended by the aforesaid Act, were in force at all material times;",
+                                "2": "(c) no suit or other proceedings shall, without prejudice to the generality of the foregoing provisions, be maintained or continued in any court or tribunal or authority for the enforcement of any decree or order or direction given by such court or tribunal or authority, notwithstanding any undertaking filed by the National Textile Corporation in any court or tribunal or authority, directing divestment of such lease-hold property from the National Textile Corporation vested in it under section 3 of this Act, as it stood before the commencement of the Textile Undertakings"
+                            }
+                        },
+                        "1": {
+                            "text": "(Nationalisation) Laws (Amendment and Validation) Act, 2014 (36 of 2014), and such lease-hold property shall continue to vest in the National Textile Corporation under section 3 of this Act, as amended by the aforesaid Act, as if the said section was in force at all material times;",
+                            "contains": {
+                                "0": "(d) any transfer of any property, vested in the National Textile Corporation, by virtue of any order of attachment, seizure or sale in execution of a decree of a civil court or orders of any tribunal or other authority in respect of lease-hold property vested in the National Textile Corporation which is contrary to the provisions of this Act, as amended by the Textile Undertakings (Nationalisation) Laws (Amendment and Validation) Act, 2014 (36 of 2014), shall be deemed to be null and void and notwithstanding such transfer, continue to vest in the National Textile Corporation under this Act.]"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": "THE FIRST SCHEDULE",
+            "1": "[See sections 2 (h), 8 and 18]",
+            "2": {
+                "text": "Sl. Name of the undertaking Name of the owner Amount No. (in rupees) (1) (2) (3) (4) 1 Adoni Cotton Mills, Alur Road, Adoni Adoni Cotton Mills Limited, 22, Bell 10,79,000 (Andhra Pradesh) Building, Sir P. M. Road, Bombay-1. 2 Ahmedabad Jupiter Spinning, Weaving 1,39,06,000 and Manufacturing Mills, Mill No. 1, The Ahmedabad Jupiter Spinning, Dadheechi Road, Ahmedabad Weaving and Manufacturing Company (Gujarat) Limited, Dadheechi Road, 3 Ahmedabad Jupiter Spinning, Weaving Ahmedabad. 2,35,68,000 and Manufacturing Mills, Mill No. 2, Parel, Bombay-13 (Maharashtra) 4 Ahmedabad New Textile Mills, Outside The Ahmedabad New Textile Mills 93,44,000 Raipur Gate, Ahmedabad (Gujarat) Company Limited, Outside Raipur Gate, Ahmedabad. 5 Ajudhia Textile Mills, Azadpur Delhi- The Ajudhia Textile Mills Limited, 23- 8,41,000 33 24, Radha Bazar Street, Calcutta-1. 6 Alagappa Textile (Cochin) Mills, The Alagappa Textiles (Cochin) Limited, 43,62,000 Alagappanagar (Kerala) Alagappanagar (Kerala). 7 Anantapur Cotton Mills, Tadapatri The Anantapur Cotton Mills Limited, 2,97,000 (Andhra Pradesh) Tadapatri (Andhra Pradesh). 8 Apollo Mills, N. M. Joshi Marg, Apollo Mills Limited, N.M. Joshi Marg, 1,20,37,000 Chinchpokli, Bombay-11 Chinchpokli, Bombay-II (Maharahtra) (Maharashtra). 9 Arati Cotton Mills, Dassnagar, Howrah Arati Cotton Mills Limited, 29, Strand 4,85,000 (West Bengal) Road, Calcutta-1. 10 Associate Industries (Assam) (Spinning Associated Industries (Assam), 14,14,000 Unit), Chandrapur, Distt. Kamrup Chandrapur, Distt. Kamrup (Assam). (Assam) 11 Aurangabad Mills, Aurangabad The Aurungabad Mills Limited, 16, 1,000 (Maharashtra) Himgiri Padam Tekri, Pedoor Road, Bombay-26. 12 Azam Jahi Mills, Warangal (Andhra The Azam Jahi Mills Limited, 159, 92,95,000 Pradesh) Gunfoundry Road, Hyderabad.",
+                "contains": {
+                    "0": "13 Balarama Varma Textile Mills, Balarama Varma Textiles, 34,00,000 Shencottah (Tamil Nadu) Limited, Shencottah (Tamil Nadu). 14 Bangasri Cotton Mills, Sodepur The Bangasri Cotton Mills Limited, 4,85,000 (West Bengal) Chandrachur Sadan, Sodepur, 24- Parganas (West Bengal). 15 Bengal Fine Spinning and Weaving Bengal Fine Spinning and Weaving Mills 15,16,000 Mills, Mill No. 1, Konnagar, District Limited, 7, Bipin Bihari Ganguli Hooghly (West Bengal) Street, Calcutta. 16 Bengal Fine Spinning and Weaving 11,96,000 Mills, Mill No. 2, Kataganj, District Nadia (West Bengal) 17 Bengal Luxmi (Cotton Mills, Bengal Luxmi Cotton Mills Limited, 7, 22,00,000 Serampore, District Hooghly Chowringhee Road, Calcutta. (West Bengal) 18 Bengal Nagpur Cotton Mills, Bengal Nagpur Cotton Mills Limited, 4, 69,71,000 Rajnandgaon (Madhya Pradesh) Lyons Range, Calcutta. (1) (2) (3) (4) 19 Bengal Textile Mills, Cossimbazar Bengal Textile Mills Limited, 3,48,000 (West Bengal) Mercantile Building, Lal Bazar, Calcutta. 20 Bihar Co-operative Weavers\u201f Spinning Bihar Co-operative Weavers\u201f Spinning 13,07,000 Mills, Mokameh, Patna (Bihar) Mills Limited, Mokameh, Patna. 21 Bijli Cotton Mills, Mendu Road, The Bijli Cotton Mills (Private) Limited, 21,49,000 Hathras (Uttar Pradesh) Agra (Uttar Pradesh). 22 Burhanpur Tapti Mills, Lalbag, The Burhanpur Tapti Mills 86,80,000 Burhanpur R. S. (Nimar) (Madhya Limited, Burhanpur R. S. Nimar Pradesh) (Madhya Pradesh). 23 Combodia Mills, Ondipudur, The Combodia Mills Limited, 64,40,000 Coimbatore-16 (Tamil Nadu) Ondipudur, Coimbatore-16 (Tamil Nadu) 24 Cannanore Spinning and Weaving The Cannanore Spinning and Weaving 47,08,000 Mills, Cannanore (Kerala) Mills Limited, Cannanore (Kerala). 25 Cannanore Spinning and Weaving 61,24,000 Mills, Mahe (Pondicherry) 26 Central Cotton Mills, Howrah Central Cotton Mills 44,10,000 (West Bengal) Limited, 9, Brabourne Road, Calcutta- 1. 27 Chhaganlal Textile Mills, Chalisgaon, The Chhaganlal Textile Mills (Private) 5,42,000 East Khandesh (Maharashtra) Limited, Chowk, Bhopal (Madhya Pradesh). 28 Coimbatore Murugan Mills, The Coimbatore Murugan Mills Limited, 18,50,000 Mettupalayam Road, Coimbatore-11 Mettupalayam Road, Coimbatore-11. 29 Coimbatore Spinning and Weaving The Coimbatore Spinning and Weaving 47,03,000 Mills, Krishnaswamy Mudaliar Road, Company Limited, Krishnaswamy Coimbatore-1 Mudaliar Road, Coimbatore-1. 30 Dayalbagh Spinning and Weaving Sir Sahabji Maharaj Mills Limited, 5,74,000 Mills, Amritsar (Punjab) Dayalbagh, Agra (Uttar Pradesh) 31 Digvijay Spinning and Weaving Mills, The Digvijay Spinning and Weaving 75,65,000 Lalbagh, Parel, Bombay-33 (Maha- Company Limited, Lalbagh, rashtra) Parel, Bombay-33 32 Edward Mills, Beawar (Rajasthan) The Edward Mills Company 6,79,000 Limited, Beawar (Rajasthan). 33 Edward Textile Mills, Ferguson Road, Edward Textile Mills Limited, Indu 66,28,000 Lower Parel, Bombay (Maharashtra) House, Dougall Road, Ballard Estate, Bombay (Maharashtra). 34 Fine Knitting Mills, near The Fine Knitting Company Limited, 10,17,000 Chamundamata, Asarva Road, Asarva, near Chamundamata, Ahmedabad (Gujarat) Ahmedabad-16 (Gujarat). 35 Gaya Cotton and Jute Mills, Gaya Gaya Cotton and Jute Mills Limited, 10,49,000 (Bihar) Gaya (Bihar). 36 Himabhai Manufacturing Mills, Outside The Himabhai Manufacturing Company 54,77,000 Saraspur Gate, Ahmedabad (Gujarat) Limited, Opp. Chartoda Kabrastan, Saraspur, Ahmedabad-18 (Gujarat). 37 Hira Mills, 1/10, Hira Mill Marg (Agar The Hira Mills Limited, 1/10, Hira Mill 12,39,000 Road), Ujjain (Madhya Pradesh) Marg (Agar Road), Ujjain (Madhya Pradesh). 38 India United Mills, Mill No.1, Ambedkar Marg, Bombay-12 The India United Mills Limited, Indu 39 India United Mills, Mill No. 2, Bhogale House, Narottam Morarjee Marg Marg, Bombay-33 (Dougall Road), Ballard Estate, Bombay-400001. (1) (2) (3) (4)",
+                    "1": "40 India United Mills, Mill No. 3, Bhogale Marg, Bombay-33",
+                    "2": "41 India United Mills, Mill No. 4, T. B. Kadam Marg, Bombay-33 42 India United Mills, Mill No. 5, The India United Mills Limited, Indu 1,000 Chinmchpokli Lane, Bombay-27 House, Narrottam Morarjee Marg, (Dougall Road), Ballard Estate, Bombay-400001. 43 India United Mills, Dye Works, Sawarkar Marg, Bombay-28",
+                    "3": "44 Indore Malwa United Mills, Indore The Indore Malwa United Mills 94,25,000 Limited, 139, Meadows Street, Fort, Bombay. 45 Jayashankar Mills Barsi, Barsi, District The Jayashankar Mills Barsi Limited, 31,04,000 Sholapur (Maharashtra) Barsi, 139, District Sholapur (Maharashtra). 46 Jehangir Vakil Mills, Outside Delhi The Jehangir Vakil Mills Company 98,89,000 Gate, Ahmedabad (Gujarat) Limited, Outside Delhi Gate, Ahmedabad (Gujarat). 47 Jyoti Weaving Factory, 69, S. K. Dev Jyoti Weaving Factory (Private) Limited- 1,000 Road, Calcutta-48, West Bengal 69, S. K. Dev Road, Patipukur, Calcutta, 48 (West Bengal). 48 Kaleeswarar Mills, \u201eA\u201f Unit, 32,08,000 Coimbatore (Tamil Nadu) The Kaleeswarar Mills Limited, Coimbatore (Tamil Nadu) 49 Kaleeswarar Mills, \u201eB\u201f Unit, 15,97,000 Kalaynarkoil (District Ramnad), (Tamil Nadu) 50 Kalyanmal Mills, 15, Silnath Camp, Kalyanmal Mills Limited, 15, Silnath 90,64,000 Indore (Madhya Pradesh) Camp, Indore (Madhya Pradesh).",
+                    "4": "51 Kanoria Industries (Cotton Mills Kanoria Industries Limited, 59, 7,88,000 Section), Konnagar (West Bengal) Netaji Subhas Road, Calcutta-1. 52 Kerala Lakshmi Mills, Trichur (Kerala Kerala Lakshmi Mills Limited, Pullazhi, 25,71,000 State) Trichur-4, Kerala State. 53 Keshav Mills, Petlad (Gujarat) Keshav Mills Company Limited, Petlad 56,28,000 (Gujarat). 54 Kharar Textile Mills, Kharar, near The Panipat Woollen and General Mills 12,89,000 Chandigarh Company Limited, Kharar, near Chandigarh. 55 Kishnaveni Textile Mills, Trichy Road, Kishnaveni Textiles Limited, Trichy 25,50,000 Singanallur Post, Coimbatore (Tamil Road, Singanallur Post, Coimbatore- Nadu) 5. 56 Laxmi Narayan Cotton Mills, Rishra Laxmi Narayan Cotton Mills 18,77,000 (West Bengal) Limited, 4B, Garstin Place, Calcutta-1. 57 Lord Krishna Textile Mills, Saharanpur Lord Krishna Sugar Mills Limited, 69,92,000 (Uttar Pradesh) Chand Hotel, Chandni Chowk, Delhi.",
+                    "5": "58 Mahalakshmi Mills, Beawar (Rajasthan) The Mahalakshmi Mills Company 3,68,000 Limited Beawar (Rajasthan).",
+                    "6": "59 Mahalaxmi Mills, Vartej Road, The Mahalaxmi Mills Limited, Vartej 83,61,000 Bhavnagar (Gujarat) Road, Bhavnagar (Gujarat). (1) (2) (3) (4) 60 Mahboob Shahi Kulbarga Mills, Mahboob Shahi Kulbarga Mills 1,34,84,000 Gulbarga (Karnataka) Company Limited, Gulbarga (Karnataka). 61 Mahindra Mills, Cossimbazar Mahindra Mills Limited, B. K. Paul 7,71,000 (West Bengal) Avenue, Calcutta. 62 Minerva Mills, Malleswaram, Minerva Mills Limited, 75,41,000 Bangalore-3 (Karnataka) Temple Bar Building, 70, Forbes Street, Fort, Bombay-1 63 Model Mills Nagpur, Umrer Road, The Model Mills Nagpur Limited, Ilace 1,000 Nagpur (Maharashtra) House, Sir Phirozshah Mehta Road, Bombay-1. 64 Muir Mills, Civil Lines, Kanpur (Uttar Muir Mills Company Limited, Civil 1,36,60,000 Pradesh) Lines, Kanpur (Uttar Pradesh). 65 Mysore Spinning and Manufacturing The Mysore Spinning and Manufacturing 84,97,000 Mills, Magadi Road, Bangalore Company Limited, 70, Forbes Street, (Karnataka) Fort, Bombay. 66 Natraj Spinning and Weaving Mills Natraj Spinning and Weaving Mills 17,26,000 Nirmal, Adilabad District (Andhra Limited, 37, Lal Bahadur Stadium, Pradesh) Hyderabad-1. 67 Netha Co-operative Spinning The Netha Co-operative Spinning Mills 28,42,000 Mills, 608, Elechiguda, Limited, Secunderabad-3. Secunderabad-3 (Andhra Pradesh) 68 New Bhopal Textile Mills, Chandbar, The New Bhopal Textile Limited, 7,35,000 Tehsil Huzur, Bhopal (Madhya Chandbar, Tehsil Huzur, Bhopal. Pradesh) 69 New Kaiser-i-Hind Spinning and New Kaiser-i-Hind Spinning and 48,70,000 Weaving Mills, Gorupdeo Road, Weaving Company Limited, Ashoka Chinchpokli, Bombay-33 Apartment, Altamount Road, Bombay. (Maharashtra) 70 New Maneckchock Spinning and The New Maneckchock Spinning and 54,37,000 Weaving Mills, Opp. Idgah Gate, Weaving Company Limited, Opp. Ahmedabad-16 (Gujarat) Idgah Gate, Ahmedabad-16. 71 New Pratap Spinning, Weaving and New Pratap Spinning and Weaving and 70,45,000 Manufacturing Mills, Dhulia, West Manufacturing Company Limited, Khandesh Dhulia, West Khandesh. 72 New Victoria Mills, 14/1, Civil Lines, The New Victoria Mills Company 47,38,000 Kanpur (Uttar Pradesh) Limited, 14/1, Civil Lines, Kanpur (Uttar Pradesh). 73 Om Parasakthi Mills, Kishnarayapuram, Om Parasakthi Mills Limited, 27,99,000 Ganapathy P.O., Coimbatore-6 (Tamil Kishnarayapuram, Ganapathy P.O., Nadu) Coimbatore-6. 74 Orissa Cotton Mills, Bhagatpur, Cuttack Orissa Cotton Mills Limited, 41, Ironside 1,000 Road, Calcutta-1. 75 Osmanshahi Mills, Mill Road, Nanded Osmanshahi Mills Limited, Mill Road, 1,06,71,000 (Maharashtra) Nanded (Maharashtra). 76 Panipat Woollen Mills, Kharar, near The Panipat Woollen and General Mills 6,40,000 Chandigarh Company Limited, Kharar, near Chandigarh. 77 Pankaja Mills, Coimbatore Pankaja Mills Limited, Coimbatore. 26,10,000",
+                    "7": "78 Parvathi Mills, Quilon (Kerala) Parvathi Mills Limited , Quilon (Kerala). 26,05,000",
+                    "8": "79 Pioneer Spinners, Pioneernagar, (Tamil Pioneer Spinners (Private) Limited, 26,44,000 Nadu) Pioneernagar (Tamil Nadu). 80 Prabha Mills, Viramgam (Gujarat) Prabha Mills Limited, Highway 9,10,000 Rose Building, 92, Ambawadi Dixit Road, Vile Parle, Bombay-57. (1) (2) (3) (4) 81 R. B. Bansilal Abirchand Spinning and R. B. Bansilal Abirchand Spinning and 57,50,000 Weaving Mills, Hinghanghat Weaving Mills Company (Private) (Maharashtra) Limited, Hinganghat (Maharashtra). 82 Rajkot Spinning and Weaving Mills, The Rajkot Spinning and Weaving Mills 31,79,000 Karansinhji Cross-Road, Limited, Karansinhji Cross Road, Post Box No. 2, Rajkot (Gujarat) Post Box No. 2, Rajkot. 83 Rajnagar Spinning, Weaving and Manufacturing Mills, Unit No.1, The Rajnagar Spinning, Weaving and Ahmedabad (Gujarat) Manufacturing Company Limited, 84 Rajnagar Spinning, Weaving and Outside Prem Gate, Ahmedabad. 58,81,000 Manufacturing Mills, Unit No. 2, Ahmedabad (Gujarat) 85 Rampooria Cotton Mills, Serampore Rampooria Cotton Mills Limited, 8-B, 47,67,000 (West Bengal) Lall Bazar Street, Calcutta-1. 86 R.S.R. Gopaldas Mohta Spinning and The R.S.R. Gopaldas Mohta Spinning 1,01,88,000 Weaving Mills, Akola (Maharashtra) and Weaving Mills (Private) Limited, Akola, District Akola (Maharashtra). 87 Savatram Ramprasad Mills, Akola Savatram Ramprasad Mills Company 59,34,000 (Maharashtra) Limited, Akola (Maharashtra). 88 Seksaria Cotton Mills, Delisle Road, Seksaria Cotton Mills Limited, Delisle 49,67,000 Parel, Bombay Road, Parel, Bombay. 89 Shree Bijay Cotton Mills, Bijainagar Shree Bijay Cotton Mills Limited, 87,000 (Rajasthan) Bijainagar (Rajasthan). 90 Shree Mahalaxmi Mills, Palta M/s. Gajraj Pannalal Limited, Calcutta. 27,22,000 (West Bengal) 91 Shri Vikram Cotton Mills, Talkatora, Shri Vikram Cotton Mills Limited, 12,46,000 Lucknow (Uttar Pradesh) Lucknow (Uttar Pradesh). 92 Sodepur Cotton Mills, Sodepur Sodepur Cotton Mills Limited, Sodepur 1,000 (West Bengal) (West Bengal). 93 Somasundaram Mills, 10/64, The Somasundaram Mills (Private) 38,25,000 Somasundaram Mill Road, Limited, 10/ 64, Somasundaram Mill Coimbatore Road, Coimbatore (Tamil Nadu). 94 Sree Yallamma Cotton, Woollen and Shree Yallamma Cotton, Woollen and 10,18,000 Silk Mills, Yallamnagar (Tolahunaso Silk Mills Company Limited, Railway Station) Davangere City (Karnataka State). 95 Sri Bharathi Mills, Mudaliarpet P.O., Sri Bharathi Mills Limited, Mudaliarpet 15,22,000 Pondicherry P.O., Pondicherry. 96 Sri Kothandram Spinning Mills, Sri Kothandram Spinning Mills (Private) 97,000 Madurai Limited, Madurai. 97 Sri Ranga Vilas Ginning, Spinning and Sri Ranga Vilas Ginning, Spinning and 35,14,000 Weaving Mills, Avanashi Road, Weaving Mills Limited, Avanashi Peelamedu P.O., Coimbatore (Tamil Road, Peelamedu P.O., Post Box Nadu) No. 828, Coimbatore. 98 Sri Sarada Mills, Podanur (Tamil Nadu) Sri Sarada Mills Limited, Podanur 50,31,000 (Tamil Nadu). 99 Suraj Textile Mills, Malout Mandi, Suraj Textile Mills Limited, Malout 2,37,000 Punjab Mandi, Punjab. 100 Swadeshi Cotton and flour Mills, 7, The Swadeshi Cotton and flour Mills 1,000 Silnath Camp, Indore-3 (Madhya Limited, 7, Shilnath Camp, Pradesh) Indore-3 (Madhya Pradesh). 101 Tirupathi Cotton Mills, Ranigunta Tirupathi Cotton Mills Limited, 8, Boag 23,99,000 (Andhra Pradesh). Road, T. Nagar, Madras-17. 102 Vidarbha Mills (Berar) Ellichpur Vidarbha Mills Berar Limited, Ellichpur 73,26,000 (Maharashtra) (Maharashtra). 103 Vijaymohini Mills, Trivandrum The Vijaymohini Mills Limited, 32,95,000 Trivandrum."
+                }
+            }
+        },
+        "THE SECOND SCHEDULE": {
+            "0": "THE SECOND SCHEDULE",
+            "1": "[See sections 21, 22, 23 and 27]",
+            "2": {
+                "text": "Order of priorities for the discharge of liabilities in respect of a sick textile undertaking",
+                "contains": {
+                    "0": "PART A",
+                    "1": "Post-take-over management period"
+                }
+            },
+            "3": {
+                "text": "Category I.\u2014",
+                "contains": {
+                    "0": "(a) Loans advanced by a bank.",
+                    "1": "(b) Loans advanced by an institution other than a bank.",
+                    "2": "(c) Any other loan.",
+                    "3": "(d) Any credit availed of for purpose of trade or manufacturing operations."
+                }
+            },
+            "4": {
+                "text": "Category II.\u2014",
+                "contains": {
+                    "0": "(a) Revenue, taxes, cesses, rates or any other dues to the Central Government or a State Government.",
+                    "1": {
+                        "text": "(b) Any other dues.",
+                        "contains": {
+                            "0": "PART B",
+                            "1": "Pre-take-over management period"
+                        }
+                    }
+                }
+            },
+            "5": {
+                "text": "Category III.\u2014",
+                "contains": {
+                    "0": "Arrears in relation to provident fund, salaries and wages, and other amounts, due to an employee."
+                }
+            },
+            "6": {
+                "text": "Category IV.\u2014",
+                "contains": {
+                    "0": "Secured loans."
+                }
+            },
+            "7": {
+                "text": "Category V.\u2014",
+                "contains": {
+                    "0": "Revenue, taxes, cesses, rates or any other dues to the Central Government, a State Government, a local authority or a State Electricity Board."
+                }
+            },
+            "8": {
+                "text": "Category VI.\u2014",
+                "contains": {
+                    "0": "(a) Any credit availed of for purpose of trade or manufacturing operations.",
+                    "1": "(b) Any other dues."
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 4": {
+            "0": "1. Ins. by Act 36 of 2014, s. 2 (w.e.f. 17-12-2014)."
+        },
+        "Page 5": {
+            "0": "1. Ins. by Act 36 of 2014, s. 3 (w.e.f. 17-12-2014)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 40 of 1995, s. 2 (w.e.f. 8-9-1995)."
+        },
+        "Page 15": {
+            "0": "1. Ins. by Act 36 of 2014, s. 4 (w.e.f. 17-12-2014)."
+        }
+    }
+}

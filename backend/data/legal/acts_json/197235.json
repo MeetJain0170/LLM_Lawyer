@@ -1,0 +1,1240 @@
+{
+    "Act Title": "THE DELHI CO-OPERATIVE SOCIETIES ACT, 1972",
+    "Act ID": "ACT NO. 35 OF 1972",
+    "Enactment Date": "[17th June, 1972.]",
+    "Act Definition": {
+        "0": "An Act to consolidate and amend the law relating to co-operative societies in the Union territory of Delhi"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Delhi Co-operative Societies Act, 1972.",
+                        "1": "(2) It extends to the whole of the Union territory of Delhi.",
+                        "2": "(3) It shall come into force on such date1 as the Lieutenant-Governor may, by notification in the Delhi Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cbye-laws\u201d means the registered bye-laws for the time being in force, and includes registered amendments of such bye-laws;",
+                                "1": "(b) \u201ccommittee\u201d means the governing body of a co-operative society, by whatever name called, to which the management of the affairs of the society is entrusted;",
+                                "2": "(c) \u201cco-operative bank\u201d shall have the same meaning as is assigned to it in the Deposit Insurance Corporation Act, 1961 (47 of 1961);",
+                                "3": "(d) \u201cco-operative society\u201d means a society registered or deemed to be registered under this Act;",
+                                "4": "(e) \u201cco-operative society with limited liability\u201d means a co-operative society the liability of whose members is limited by its bye-laws to the amount, if any, unpaid on the shares individually held by them or to such amount as they may individually undertake to contribute to the assets of the society, in the event of its being wound up;",
+                                "5": "(f) \u201cco-operative society with unlimited liability\u201d means a co-operative society the liability of whose members is unlimited for the purpose of contributing jointly and severally to any deficiency in the assets of the society in the event of its being wound up;",
+                                "6": "(g) \u201cDeposit Insurance Corporation\u201d means the Deposit Insurance Corporation established under section 3 of the Deposit Insurance Corporation Act, 1961 (47 of 1961);",
+                                "7": {
+                                    "text": "(h) \u201cfederal society\u201d means a society\u2014",
+                                    "contains": {
+                                        "0": "(a) not less than five members of which are themselves societies; and",
+                                        "1": "(b) in which the voting rights are so regulated that the members which are societies have not less than four-fifth of the total number of votes in the general meeting of such society;"
+                                    }
+                                },
+                                "8": "(i) \u201cfinancing bank\u201d means a co-operative society, the objects of which include the creation of funds to be lent to other co-operative societies;",
+                                "9": "(j) \u201cLieutenant-Governor\u201d means the administrator of the Union territory of Delhi appointed by the President under article 239 of the Constitution;",
+                                "10": "(k) \u201cmember\u201d means a person joining in the application for the registration of a co-operative society and a person admitted to membership after such registration in accordance with this Act, the rules and the bye-laws, and includes a nominal and an associate member and the Central Government when it subscribes to the share capital of a society;",
+                                "11": "(l) \u201cofficer\u201d means the president, vice-president, chairman, vice-chairman, managing director, secretary, manager, member of committee, treasurer, liquidator, administrator and includes any other person empowered under the rules or the bye-laws to give directions in regard to the business of a co-operative society;",
+                                "12": "(m) \u201cprescribed\u201d means prescribed by rules;",
+                                "13": "(n) \u201cRegistrar\u201d means a person appointed to perform the functions of the Registrar of Co-operative Societies under this Act, and includes any person appointed to assist the Registrar when exercising all or any of the powers of the Registrar;",
+                                "14": "(o) \u201cReserve Bank\u201d means the Reserve Bank of India constituted under the Reserve Bank of India Act, 1934 (2 of 1934);",
+                                "15": "(p) \u201crules\u201d means the rules made under this Act;",
+                                "16": "(q) \u201cTribunal\u201d means the Delhi Co-operative Tribunal constituted under section 78."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "REGISTRATION OF CO-OPERATIVE SOCIETIES",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Registrar.",
+                    "paragraphs": {
+                        "0": "(1) The Lieutenant-Governor may appoint a person to be the Registrar of Co-operative Societies for the Union territory of Delhi and may appoint other persons to assist him.",
+                        "1": "(2) The Lieutenant-Governor may, by general or special order, confer on any person appointed to assist the Registrar all or any of the powers of the Registrar under this Act.",
+                        "2": "(3) Every person appointed to assist the Registrar shall exercise the powers conferred on him under sub-section (2) subject to the general guidance, superintendence and control of the Registrar.",
+                        "3": "(4) The Lieutenant-Governor may, by notification in the Delhi Gazette and subject to such conditions as he may think fit to impose, confer all or any of the powers of the Registrar under this Act on any federal society, or an officer of such federal society; and every such federal society or officer on whom the powers of the Registrar are so conferred shall exercise such powers under the general guidance, superintendence and control of the Registrar."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Societies which may be registered.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions hereinafter contained, a society which has as its object the promotion of the economic interests of its members in accordance with co-operative principles, or a society established with the object of facilitating the operations of such a society, may be registered under this Act with or without limited liability:",
+                        "1": "Provided that no society shall be registered if it is likely to be economically unsound or the registration of which may have an adverse effect on development of co-operative movement:",
+                        "2": "Provided further that, unless the Lieutenant-Governor by general or special order otherwise directs, the liability of the society of which a member is a co-operative society shall be limited.",
+                        "3": "(2) The word \u201climited\u201d or its equivalent in any Indian language shall be the last word in the name of every society registered under this Act with limited liability."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Restrictions on registration.",
+                    "paragraphs": {
+                        "0": "No society other than a federal society shall be registered under this Act unless it consists of at least ten persons (each of such persons being a member of different family), who are qualified to be members under this Act and who reside in the area of operation of the society.",
+                        "1": "Explanation.\u2014For the purposes of this section the expression \u201cmember of a family\u201d means wife, husband, father, mother, grand-father, grand-mother, step-father, step-mother, son, unmarried daughter, unmarried step-daughter, step-son, grand-son, unmarried grand-daughter, unmarried sister, unmarried half-sister, brother, half-brother and wife of brother or half-brother."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Restrictions on holding of shares.",
+                    "paragraphs": {
+                        "0": "No member other than the Central Government or a co-operative society shall hold more than such portion of the share-capital of a co-operative society, subject to a maximum of one-fifth, as may be prescribed or have or claim any interest in the shares of such society exceeding ten thousand rupees, whichever is less."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Application for registration.",
+                    "paragraphs": {
+                        "0": "(1) For the purposes of registration, an application shall be made to the Registrar.",
+                        "1": {
+                            "text": "(2) The application shall be signed,\u2014",
+                            "contains": {
+                                "0": "(a) in the case of a society of which no member is a co-operative society, by at least ten persons qualified in accordance with the requirements of section 5; and",
+                                "1": "(b) in the case of a society of which a member is a co-operative society, by a duly authorised person on behalf of every such society and where all the members of the society are not co-operative societies, by ten other members, or, when there are less than ten other members, by all of them."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Power of the Registrar to decide certain questions.",
+                    "paragraphs": {
+                        "0": "Where any question arises whether for the purpose of this Act a person resides in the area of operation of a society or not, or whether a society is of same type as another society or of different type, the question shall be decided by the Registrar whose decision shall be final."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Registration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) If the Registrar is satisfied\u2014",
+                            "contains": {
+                                "0": "(a) that the application complies with the provisions of this Act and the rules;",
+                                "1": "(b) that the objects of the proposed society are in accordance with section 4;",
+                                "2": "(c) that the proposed bye-laws are not contrary to the provisions of this Act and the rules; and",
+                                "3": "(d) that the proposed society has reasonable chances of success, the Registrar may register the society and its bye-laws."
+                            }
+                        },
+                        "1": "(2) When the Registrar refuses to register a society, he shall communicate the order of refusal, together with the reasons therefor, to such of the applicants as may be prescribed.",
+                        "2": "(3) The application for registration shall be disposed of by the Registrar within a period of three months from the date of receipt thereof by him:",
+                        "3": "Provided that if the Registrar is unable to dispose of the application within the aforesaid period, he shall make a report to the Lieutenant-Governor stating therein the reasons for his inability to do so, and the Lieutenant-Governor may allow him further time not exceeding three months to dispose of such application."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Registration certificate.",
+                    "paragraphs": {
+                        "0": "Where a society is registered under this Act, the Registrar shall issue a certificate of registration signed by him, which shall be conclusive evidence that the co-operative society therein mentioned is duly registered under this Act."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Amendment of bye-laws of a co-operative society.",
+                    "paragraphs": {
+                        "0": "(1) No amendment of any bye-laws of a co-operative society shall be valid unless such amendment has been registered under this Act.",
+                        "1": {
+                            "text": "(2) Every proposal for such amendment shall be forwarded to the Registrar and if the Registrar is satisfied that the proposed amendment\u2014",
+                            "contains": {
+                                "0": "(a) is not contrary to the provisions of this Act and the rules;",
+                                "1": "(b) does not conflict with co-operative principles; and",
+                                "2": "(c) will promote the economic interests of the members of the society,"
+                            }
+                        },
+                        "2": {
+                            "text": "he may register the amendment.",
+                            "contains": {
+                                "0": "(3) The Registrar shall forward to the society a copy of the registered amendment together with a certificate signed by him and such certificate shall be conclusive evidence that the amendment has been duly registered.",
+                                "1": "(4) Where the Registrar refuses to register an amendment of the bye-laws of a co-operative society, he shall communicate the order of refusal together with the reasons therefor, to the society in the manner prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 12.": {
+                    "heading": "When amendments of bye-laws come into force.",
+                    "paragraphs": {
+                        "0": "An amendment of the bye-laws of a co-operative society shall, unless it is expressed to come into operation on a particular day, come into force on the day on which it is registered,"
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Change of name.",
+                    "paragraphs": {
+                        "0": "(1) A co-operative society may, by an amendment of its bye-laws, change its name but such change shall not affect any right or obligation of the society or of any of its members or past members, and any legal proceedings pending may be continued by or against the society under its new name.",
+                        "1": "(2) Where a co-operative society changes its name, the Registrar shall enter the new name on the register of co-operative societies in place of the former name and shall amend the certificate of registration accordingly."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Change of liability.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act and the rules, a co-operative society may, by an amendment of its bye-laws, change the form or extent of its liability.",
+                        "1": "(2) When a co-operative society has passed a resolution to change the form or extent of its liability, it shall give notice thereof in writing to all its members and creditors and, notwithstanding any bye-law or contract to the contrary, any member or creditor shall, during a period of one month from the date of service of the notice upon him, have the option of withdrawing his shares, deposits or loans, as the case may be.",
+                        "2": "(3) Any member or creditor who does not exercise his option within the period specified in sub-section (2) shall be deemed to have assented to the change.",
+                        "3": {
+                            "text": "(4) An amendment of a bye-law of a co-operative society changing the form or extent of its liability shall not be registered or take effect until either\u2014",
+                            "contains": {
+                                "0": "(a) the assent thereto of all members and creditors has been obtained; or",
+                                "1": "(b) all claims of members and creditors who exercise the option referred to in sub-section (2) within the period specified therein have been met in full."
+                            }
+                        }
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Amalgamation, transfer of assets and liabilities and division of co-operative societies.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) A co-operative society may, with the previous approval of the Registrar and by a resolution passed by a two-thirds majority of the members present and voting at a general meeting of the society,\u2014",
+                            "contains": {
+                                "0": "(a) transfer its assets and liabilities in whole or in part to any other co-operative society;",
+                                "1": "(b) divide itself into two or more co-operative societies."
+                            }
+                        },
+                        "1": "(2) Any two or more co-operative societies may, with the previous approval of the Registrar and by a resolution passed by a two-thirds majority of the members present and voting at a general meeting of each such society, amalgamate themselves and form a new co-operative society.",
+                        "2": "(3) The resolution of a co-operative society under sub-section (1) or sub-section (2) shall contain all particulars of the transfer, division or amalgamation, as the case may be:",
+                        "3": "Provided that in the case of a co-operative bank, the Registrar shall not accord approval to any such resolution without the previous sanction in writing of the Reserve Bank.",
+                        "4": "(4) When a co-operative society has passed any such resolution, it shall give notice thereof in writing to all its members and creditors and, notwithstanding any bye-laws or contract to the contrary, any member or creditor shall, during the period of one month of the date of service of the notice upon him, have the option of withdrawing his shares, deposits or loans, as the case may be.",
+                        "5": "(5) Any member or creditor who does not exercise his option within the period specified in sub-section (4) shall be deemed to have assented to the proposals contained in the resolution.",
+                        "6": {
+                            "text": "(6) A resolution passed by a co-operative society under this section shall not take effect until, either\u2014",
+                            "contains": {
+                                "0": "(a) the assent thereto of all the members and creditors has been obtained; or",
+                                "1": "(b) all claims of members and creditors who exercise the option referred to in sub-section (4) within the period specified therein have been met in full."
+                            }
+                        },
+                        "7": "(7) Where a resolution passed by a co-operative society under this section involves the transfer of any assets and liabilities, the resolution shall, notwithstanding anything contained in any law for the time being in force, be a sufficient conveyance to vest the assets and liabilities in the transferee without any further assurance."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Power to direct amalgamation, division and reorganisation in public interest etc.",
+                    "paragraphs": {
+                        "0": "(1) Where the Registrar is satisfied that it is essential in the public interest, or in the interest of the co-operative movement, or for the purpose of securing the proper management of any co-operative society that two or more co-operative societies should be amalgamated or any co-operative society should be divided to form two or more co-operative societies or should be reorganised, then, notwithstanding anything contained in section 15, but subject to the provisions of this section, the Registrar may, by order, provide for the amalgamation, division or reorganisation of these co-operative societies into a single society or into societies with such constitution, property rights, interests and authorities and such liabilities, duties and obligations as may be specified in the order:",
+                        "1": "Provided that no such order of amalgamation, division or reorganisation in respect of a co-operative bank shall be made without the previous sanction in writing of the Reserve Bank.",
+                        "2": {
+                            "text": "(2) No order shall be made under this section, unless\u2014",
+                            "contains": {
+                                "0": "(a) a copy of the proposed order has been sent in draft to the co-operative society or each of the co-operative societies concerned; and",
+                                "1": "(b) the Registrar has considered and made such modifications in the draft order as may seem to him desirable in the light of any suggestions and objections which may be received by him within such period (not being less than two months from the date on which a copy of the order aforesaid is received by the society or societies, as the case may be), as the Registrar may fix in that behalf, either from the society or from any of the societies concerned or from any member or class of members thereof or from any creditor or class of creditors thereof."
+                            }
+                        },
+                        "3": "(3) The order referred to in sub-section (1) may contain such incidental, consequential and supplemental provisions as may, in the opinion of the Registrar, be necessary to give effect to the amalgamation, division or reorganisation, as the case may be.",
+                        "4": "(4) Every member or creditor of each of the co-operative societies to be amalgamated, divided or reorganised, who has objected to the scheme of amalgamation, division or reorganisation, within the period specified, shall be entitled to receive, on the issue of the order of amalgamation, division or reorganisation, his share or interest, if he be a member, and the amount in satisfaction of his dues, if he be a creditor.",
+                        "5": "(5) On the issue of an order under sub-section (1), the provisions of sub-sections (2), (3) and (4) of section 19 shall apply to the co-operative societies so amalgamated, divided or reorganised as if the amalgamation, division or reorganisation had been made under section 15."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Registrar to prepare scheme of amalgamation of co-operative bank in certain cases.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "When an order of moratorium has been made by the Central Government under sub-section (2) of section 45 of the Banking Regulation Act, 1949 (10 of 1949), in respect of a co-operative bank, the Registrar, with the previous approval of the Reserve Bank in writing, may, during the period of moratorium, prepare a scheme\u2014",
+                            "contains": {
+                                "0": "(a) for the reorganisation of the co-operative bank; or",
+                                "1": "(b) for the amalgamation of the co-operative bank with any other co-operative bank."
+                            }
+                        }
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Liability of a co-operative bank to the Deposit Insurance Corporation.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in sections 15 and 16 or any other provision of this Act, where a co-operative bank, being an insured bank within the meaning of the Deposit Insurance Corporation Act, 1961 (47 of 1961), is amalgamated or reorganised and the Deposit Insurance Corporation has become liable to pay to the depositors of the insured bank under sub-section (2) of section 16 of that Act, the bank with which such insured bank is amalgamated, or the new co-operative bank formed after such amalgamation, or as the case may be, the insured bank or transferee bank shall be under an obligation to repay to the Deposit Insurance Corporation in the circumstances, to the extent of and in the manner referred to in section 21 of the Deposit Insurance Corporation Act, 1961 (47 of 1961)."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Cancellation of registration certificates of co-operative societies in certain cases.",
+                    "paragraphs": {
+                        "0": "(1) Where the whole of the assets and liabilities of a co-operative society are transferred to another co-operative society in accordance with the provisions of section 15 or section 16, the registration of the first mentioned co-operative society shall stand cancelled and the society shall be deemed to have been dissolved and shall cease to exist as a corporate body.",
+                        "1": "(2) Where two or more co-operative societies are amalgamated into a new co-operative society in accordance with the provisions of section 15 or section 16, the registration of each of the amalgamating societies shall stand cancelled on the registration of the new society, and each society shall be deemed to have been dissolved and shall cease to exist as a corporate body.",
+                        "2": "(3) Where a co-operative society divides itself into two or more co-operative societies in accordance with the provisions of section 15 or is divided by the Registrar in accordance with the provisions of section 16, the registration of that society shall stand cancelled on the registration of the new societies, and that society shall be deemed to have been dissolved and shall cease to exist as a corporate body.",
+                        "3": "(4) The amalgamation and splitting of co-operative societies shall not in any manner whatsoever affect any right or obligation of the resulting co-operative society or societies or render defective any legal proceedings by or against the co-operative society or societies, and any legal proceedings that might have been continued or commenced by or against the co-operative society or societies, as the case may be, before the amalgamation or splitting, may be continued or commenced by or against the resulting co-operative society or societies.",
+                        "4": "(5) Where a co-operative society has not commenced business within a reasonable time of its registration or has ceased to function or if the Registrar is satisfied, after making such inquiry as he thinks fit, that the society no longer has genuinely as its objects one or more of the objects specified in section 4 and that its registration ought in the interests of the general public be cancelled, he shall make an order cancelling the registration of the co-operative society. The co-operative society shall, from the date of such order of cancellation, be deemed to be dissolved and shall cease to exist as a corporate body."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "MEMBERS OF CO-OPERATIVE SOCIETIES AND THEIR RIGHTS AND LIABILITIES",
+            "Sections": {
+                "Section 20.": {
+                    "heading": "Persons who may become members.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) No person shall be admitted as member of a co-operative society except the following, namely:\u2014",
+                            "contains": {
+                                "0": "(a) an individual competent to contract under section 11 of the Indian Contract Act, 1872 (9 of 1872);",
+                                "1": "(b) any other co-operative society;",
+                                "2": "(c) the Central Government; and",
+                                "3": "(d) such class or classes of persons or association of persons as may be notified by the Lieutenant-Governor in this behalf:"
+                            }
+                        },
+                        "1": "Provided that the provisions of clause (a) shall not apply to an individual seeking admission to a society exclusively formed for the benefit of students of a school or college.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), the Lieutenant-Governor may, having regard to the fact that the interest of any person or class of persons conflicts or is likely to conflict with the objects of any society or class of societies, by general or special order, published in the Delhi Gazette, declare that any person or class of persons engaged in or carrying on any profession, business or employment shall be disqualified from being admitted, or for continuing, as members or shall be eligible for membership only to a limited extent of any specified society or class of societies, so long as such person is or such persons are engaged in or carrying on that profession, business or employment, as the case may be."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Nominal or associate members.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in clause (d) of section 20, a co-operative society may admit any person as a nominal or associate member in accordance with its bye-laws.",
+                        "1": "(2) A nominal or associate member shall not be entitled to any share in any form whatsoever, in the assets or profits of the co-operative society.",
+                        "2": "(3) Save as provided in this section, a nominal or associate member shall have such privileges and rights of a member and be subject to such liabilities of a member, as may be specified in the bye-laws of the society."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Member not to exercise rights till due payment made.",
+                    "paragraphs": {
+                        "0": "No member of a co-operative society shall exercise the rights of a member unless he has made such payment to the society in respect of membership or has acquired such interest in the society as may be specified in the bye-laws."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Votes of members.",
+                    "paragraphs": {
+                        "0": "Every member of a co-operative society shall have one vote in the affairs of the society:",
+                        "1": {
+                            "text": "Provided that\u2014",
+                            "contains": {
+                                "0": "(a) in the case of an equality of votes, the chairman shall have a second or casting vote;",
+                                "1": "(b) a nominal or associate member shall not have the right of vote;",
+                                "2": "(c) where the Central Government is a member of the co-operative society, each person nominated by the Central Government on the committee shall have one vote."
+                            }
+                        }
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Manner of exercising vote.",
+                    "paragraphs": {
+                        "0": "(1) Every member of a co-operative society shall exercise his vote in person and no member shall be permitted to vote by proxy.",
+                        "1": "(2) Notwithstanding anything contained in sub-section (1), a co-operative society which is a member of another co-operative society, may, subject to the rules, appoint one of its members to vote on its behalf in the affairs of that other society."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Restriction on transfer of shares or interest.",
+                    "paragraphs": {
+                        "0": "The transfer of the share or interest of a member in the capital of a co-operative society shall be subject to such conditions as to maximum holding as are specified in section 6."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Transfer of interest on death of members.",
+                    "paragraphs": {
+                        "0": "(1) On the death of a member a co-operative society may transfer the share or interest of the deceased member to the person nominated in accordance with the rules made in this behalf, or, if there is no person so nominated, to such person as may appear to the committee to be the heir or legal representative of the deceased member, or pay to such nominee, heir or legal representative, as the case may be, a sum representing the value of such member\u2019s share or interest as ascertained in accordance with the rules or bye-laws:",
+                        "1": {
+                            "text": "Provided that\u2014",
+                            "contains": {
+                                "0": "(i) in the case of a co-operative society with unlimited liability, such nominee, heir or legal representative, as the case may be, may require payment by the society of the value of the share or interest of the deceased member ascertained as aforesaid;",
+                                "1": "(ii) in the case of a co-operative society with limited liability, the society shall transfer the share or interest of the deceased member to such nominee, heir or legal representative, as the case may be, being qualified in accordance with the rules and bye-laws for membership of the society, or on his application within one month of the death of the deceased member to any person specified in the application who is so qualified;",
+                                "2": "(iii) no such transfer or payment shall be made except with the consent of the nominee, heir or legal representative, as the case may be."
+                            }
+                        },
+                        "2": "(2) A co-operative society shall, subject to the provisions of section 36 and unless within six months of the death of member prevented by an order of a competent court, pay to such nominee, heir or legal representative, as the case may be, all other moneys due to the deceased member from the society.",
+                        "3": "(3) All transfers and payments made by a co-operative society in accordance with the provisions of this section shall be valid and effectual against any demand made upon the society by any other person."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Liability of past member and estate of deceased member.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Subject to the provisions of sub-section (2), the liability of a past member or of the estate of a deceased member of a co-operative society for the debts of the society as they existed,\u2014",
+                            "contains": {
+                                "0": "(a) in the case of a past member, on the date on which he ceased to be a member;",
+                                "1": "(b) in the case of a deceased member, on the date of his death, shall continue for a period of two years from such date."
+                            }
+                        },
+                        "1": "(2) Where a co-operative society is ordered to be wound up under section 63, the liability of a past member or of the estate of a deceased member who ceased to be a member or died within two years immediately preceding the date of the order of winding up, shall continue until the entire liquidation proceedings are completed, but such liability shall extend only to the debts of the society as they existed on the date of his ceasing to be a member or death, as the case may be."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "MANAGEMENT OF CO-OPERATIVE SOCIETIES",
+            "Sections": {
+                "Section 28.": {
+                    "heading": "Final authority in a co-operative society.",
+                    "paragraphs": {
+                        "0": "(1) The final authority in a co-operative society shall vest in the general body of members:",
+                        "1": "Provided that where the bye-laws of a co-operative society provide for the constitution of a smaller body consisting of delegates of members of the society elected or selected in accordance with such bye-laws the smaller body shall exercise such powers of the general body as may be prescribed or as may be specified in the bye-laws of the society.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (2) of section 24 each delegate shall have one vote in the affairs of the society."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Annual general meeting.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Every co-operative society shall, within a period of six months next after the date fixed for making-up its accounts for the year under the rules for the time being in force, call a general meeting of its members for the purpose of\u2014",
+                            "contains": {
+                                "0": "(a) approval of the programme of the activities of the society prepared by the committee for the ensuing year;",
+                                "1": "(b) election, if any, of the members of the committee other than nominated members subject to the provisions of section 31;",
+                                "2": "(c) consideration of the audit report and the annual report;",
+                                "3": "(d) disposal of the net profits; and",
+                                "4": "(e) consideration of any other matter which may be brought forward in accordance with bye-laws:"
+                            }
+                        },
+                        "1": "Provided that the Registrar may, by general or special order, extend the period for holding such meeting for a further period not exceeding three months:",
+                        "2": "Provided further that, if in the opinion of the Registrar no such extension is necessary, or such meeting is not called by the society within the extended period, if any, granted by him, the Registrar or any person authorised by him may call such meeting in the manner prescribed, and that meeting shall be deemed to be a general meeting duly called by the society; and the Registrar may order that the expenditure incurred in calling such a meeting shall be paid out of the funds of the society or by such person or persons who, in the opinion of the Registrar, were responsible for the refusal or failure to convene the general meeting.",
+                        "3": "(2) At every annual general meeting of a co-operative society, the committee shall lay before the society a statement showing the details of the loans, if any, given to any of the members of the committee during the preceding year."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Special general meeting.",
+                    "paragraphs": {
+                        "0": "(1) The committee of a co-operative society may, at any time, call a special general meeting of the society and shall call such meeting within one month after the receipt of a requisition in writing from the Registrar or from such number of members or a proportion of the total number of members, as may be provided in the bye-laws.",
+                        "1": "(2) If a special general meeting of a co-operative society is not called in accordance with the requistion referred to in sub-section (1), the Registrar or any person authorised by him in this behalf shall have the power to call such meeting and that meeting shall be deemed to be a meeting called by the committee, and the Registrar may order that the expenditure incurred in calling such a meeting shall be paid out of the funds of the society or by any such person or persons who, in the opinion of the Registrar, were responsible for the refusal or failure to convene the special general meeting."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Election and nomination of members of committees.",
+                    "paragraphs": {
+                        "0": "(1) The superintendence, direction and control of the preparation of the electoral rolls for, and the conduct of, elections of the members of the committees of such co-operative societies or class of co-operative societies as may be prescribed shall be vested in such returning officers not below the rank of gazetted officers as may be appointed by the Lieutenant-Governor in this behalf.",
+                        "1": "(2) The vote at such elections shall be by secret ballot.",
+                        "2": "(3) The term of office of the elected members of the committee shall be such, not exceeding three co-operative years including the co-operative year of their election, as may be specified in the bye-laws of the society:",
+                        "3": "Provided that the elected members shall continue to hold office till their successors are elected or nominated under the provisions of the Act or the rules or bye-laws.",
+                        "4": "(4) No person shall be eligible to be elected as a member of the committee of a co-operative society unless he is shareholder of that co-operative society.",
+                        "5": {
+                            "text": "(5) Notwithstanding anything contained in this Act, a person shall be disqualified for election as, or for being, the president, vice-president, chairman, vice-chairman, managing director, secretary, joint secretary or treasurer of a committee,\u2014",
+                            "contains": {
+                                "0": "(a) if he has held any such office on that committee during two consecutive terms, whether full or part;",
+                                "1": "(b) if he holds any such office on a committee of another co-operative society of the same type;",
+                                "2": "(c) if he holds any such office on the committees of three or more co-operative societies of a different type or different types:"
+                            }
+                        },
+                        "6": "Provided that nothing contained in this sub-section shall be deemed to disqualify any such person for election as, or for being, a delegate of a society or a member of another committee.",
+                        "7": "Explanation 1.\u2014Where any person holding any office as aforesaid at the commencement of this Act is again elected to any such office after such commencement, he shall for the purpose of this sub-section be deemed to have held that office for one term before such election.",
+                        "8": "Explanation 2.\u2014A person who has ceased to hold any such office as aforesaid continuously for one full term shall again be qualified for election to any of those offices.",
+                        "9": "(6) On the committee of such co-operative societies or class of co-operative societies as may be prescribed, two seats shall be reserved, one for the members who belong to the Scheduled Castes and one for economically weaker sections of the members who as land-owners or tenants or as both do not hold more than the prescribed area of agricultural land or fulfil the prescribed conditions, and if no such persons are elected, the committee shall co-opt the required number of members from amongst the persons entitled to such representation:",
+                        "10": "Provided that in the case of a primary agricultural credit society such number of seats, being not less than one-half of the total number of members of the Committee, shall be reserved for members belonging to the Scheduled Castes and the aforesaid economically weaker sections of the members as may be prescribed, and if no such persons are elected, the Committee shall co-opt the required number of members from amongst the persons entitled to such representation.",
+                        "11": {
+                            "text": "Explanation.\u2014For the purpose of this sub-section,\u2014",
+                            "contains": {
+                                "0": "(i) \u201cScheduled Castes\u201d means any of the Scheduled Castes specified in Part I of the Schedule to the Constitution (Scheduled Castes) (Union Territories) Order, 1951;",
+                                "1": "(ii) \u201cprimary agricultural credit society\u201d has the meaning assigned to it in clause (cii) of section 2 of the Reserve Bank of India Act, 1934 (2 of 1934)."
+                            }
+                        },
+                        "12": "(7) Notwithstanding anything contained in this Act, any dispute relating to election of members of any committee of a co-operative society mentioned in sub-section (1) shall be referred to the Lieutenant-Governor whose decision thereon shall be final.",
+                        "13": "(8) The Lieutenant-Governor may make rules generally to provide for or to regulate matters in respect of elections of members of the committees.",
+                        "14": {
+                            "text": "(9) Notwithstanding anything contained in sub-sections (1) to (8),\u2014",
+                            "contains": {
+                                "0": "(a) where the Central Government has subscribed to the share capital of a co-operative society, the Central Government or any person authorised by it in this behalf shall have the right to nominate on the committee such number of persons not exceeding three or one-third of the total number of members thereof, whichever is less, as the Central Government may determine;",
+                                "1": "(b) where the Industrial Finance Corporation, the State Finance Corporation or any other financing institution notified in this behalf by the Central Government has provided finance to a co-operative society, the Industrial Finance Corporation, State Finance Corporation or other financing institution, as the case may be, shall have the right to nominate one person on the committee."
+                            }
+                        },
+                        "15": "(10) A person nominated under sub-section (9) shall hold office during the pleasure of the Central Government or the Corporation or other financing institution, as the case may be."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Supersession of committee.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) If, in the opinion of the Registrar, the committee of any co-operative society persistently makes default or is negligent in the performance of the duties imposed on it by this Act or the rules or the by-laws, or commits any act which is prejudicial to the interest of the society, or its members, the Registrar may, after giving the committee an opportunity to state its objections, if any, by order in writing, remove the committee; and",
+                            "contains": {
+                                "0": "(a) order fresh election of the committee, or",
+                                "1": "(b) appoint one or more administrators who need not be members of the society,"
+                            }
+                        },
+                        "1": {
+                            "text": "to manage the affairs of the society for a period not exceeding one year specified in the order, which period may, at the discretion of the Registrar be extended from time to time, so, however, that the aggregate period does not exceed three years.",
+                            "contains": {
+                                "0": "(2) The Registrar may fix any remuneration for the administrator, as he may think fit. Such remuneration shall be paid out of the funds of the society.",
+                                "1": "(3) The administrator shall, subject to the control of the Registrar and to such instructions as he may from time to time give, have power to exercise all or any of the functions of the committee or of any officer of the society and take all such actions as may be required in the interest of the society.",
+                                "2": "(4) The administrator shall, at the expiry of his term of office, arrange for the constitution of a new committee in accordance with the bye-laws of the society.",
+                                "3": "(5) Before taking any action under sub-section (1) in respect of a co-operative society, the Registrar shall consult the financing institution to which it is indebted.",
+                                "4": "(6) Notwithstanding anything contained in this Act, the Registrar shall in the case of a co-operative bank, if so required in writing by the Reserve Bank in the public interest or for preventing the affairs of the co-operative bank being conducted in a manner detrimental to the interests of the depositors or for securing the proper management of a co-operative bank pass an order for the supersession of the committee of that co-operative bank and appointment of an administrator therefor for such period or periods not exceeding five years in the aggregate, as may from time to time be specified by the Reserve Bank."
+                            }
+                        }
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Securing possession of records, etc.",
+                    "paragraphs": {
+                        "0": "(1) (a) If the record, registers or the books of accounts of a co-operative society are likely to be tampered with or destroyed and the fund and property of a society are likely to be misappropriated or misapplied; or",
+                        "1": "(b) if the committee of a co-operative society is reconstituted at a general meeting of the society or the committee of a society is removed by the Registrar under section 32 or if the society is ordered to be wound up under section 63 and the outgoing members of the committee refuse to hand over charge of the records and property of the society to those having or entitled to receive such charge,",
+                        "2": {
+                            "text": "the Registrar may apply to the magistrate, within whose jurisdiction the society functions, for securing the records and property of the society.",
+                            "contains": {
+                                "0": "(2) On receipt of an application under sub-section (1), the magistrate may, by a warrant, authorise any police officer, not below the rank of sub-inspector to enter and search any place where the records and the property are kept or are believed to be kept and to seize such records and property; and the records and property so seized shall be handed over to the new committee or administrator of the society or the liquidator, as the case may be."
+                            }
+                        }
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Acts of co-operative societies not to be invalidated by certain defects.",
+                    "paragraphs": {
+                        "0": "No act of a co-operative society or of any committee or of any officer shall be deemed to be invalidated by reason only of the existence of any defect in procedure or in the constitution of the society or of the committee or in the appointment or election of an officer or on the ground that such officer was disqualified for his appointment."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "PRIVILEGES OF CO-OPERATIVE SOCIETIES",
+            "Sections": {
+                "Section 35.": {
+                    "heading": "Co-operative societies to be bodies corporate.",
+                    "paragraphs": {
+                        "0": "The registration of a co-operative society shall render it a body corporate by the name under which it is registered having perpetual succession and a common seal, and with power to hold property, enter into contract, institute and defend suits and other legal proceedings and to do all things necessary for the purposes for which it is constituted."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "First charge of co-operative society on certain assets.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in any law for the time being in force, but subject to any prior claim of the Government in respect of land revenue or any money recoverable as land revenue, any debt or outstanding demand owing to a co-operative society by any member or past member or deceased member shall be a first charge upon the crops and other agricultural produce, cattle, fodder for cattle, agricultural or industrial implements or machinery, raw materials for manufacture and any finished products manufactured from such raw materials, belonging to such member, past member or forming part of the estate of the deceased member, as the case may be.",
+                        "1": "(2) No person shall transfer any property which is subject to a charge under sub-section (1) except with the previous permission in writing of the co-operative society which holds the charge.",
+                        "2": "(3) Notwithstanding anything contained in any law for the time being in force, any transfer of property made in contravention of the provisions of sub-section (2) shall be void.",
+                        "3": "(4) The charge created under sub-section (1) shall be available as against any claim of the Government arising from a loan granted under the Land Improvement Loans Act, 1883 (19 of 1883), or the Agriculturists\u2019 Loans Act, 1884 (12 of 1884), after the grant of the loan by the society."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Charge on immovable property of members borrowing loans from certain societies.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in this Act or in any other law for the time being in force,\u2014",
+                            "contains": {
+                                "0": "(i) any person who makes an application to a society of which he is a member for a loan shall, if he owns any land or has interest in any land as a tenant, make a declaration in the prescribed form which shall state that the applicant thereby creates a charge on such land or interest specified in the declaration for the payment of the amount of the loan which the society may make to the member in pursuance of the application and for all future advances, if any, required by him which the society may make to him as such member subject to such maximum as may be determined by the society together with interest on such amount of the loan and advances;",
+                                "1": "(ii) any person who has borrowed a loan from a society of which he is a member before the date of the coming into force of this Act, and who owns any land or has any interest in land as a tenant shall, as soon as possible, make a declaration in the form and to the effect referred to in clause (i);",
+                                "2": "(iii) a declaration made under clause (i) or clause (ii) may be varied at any time by a member with the consent of the society in favour of which such charge is created;",
+                                "3": "(iv) no member shall alienate the whole or any part of the land or interest therein specified in the declaration made under clause (i) or clause (ii) until the whole amount borrowed by the member together with interest thereon is paid in full:",
+                                "4": "Provided that for the purpose of paying in full to the society the whole amount borrowed by the member together with interest thereon, the member may, with the previous permission in writing of the society and subject to such conditions as the society may impose, alienate the whole or any part of such land or interest thereon:",
+                                "5": "Provided further that standing crops on any land may be alienated with the previous permission of the society;",
+                                "6": "(v) any alienation made in contravention of the provisions of clause (iv) shall be void;",
+                                "7": "(vi) subject to the prior claims of the Government in respect of land revenue or any money recoverable as land revenue, there shall be a first charge in favour of the society on the land or interest specified in the declaration made under clause (i) or clause (ii) for and to the extent of the dues owing by him on account of the loans and advances;",
+                                "8": "(vii) the record of rights shall also include the particulars of every charge on land or interest created under a declaration under clause (i) or clause (ii) notwithstanding anything contained in any law relating to land revenue for the time being in force;",
+                                "9": "(viii) any sum due to a society in consequence of charge created under a declaration under clause (i) or clause (ii) shall, on application for its recovery being made by such society accompanied by a certificate signed by the Registrar, be recoverable by the Collector, according to the law and under the rules for the time being in force for the recovery of land revenue."
+                            }
+                        },
+                        "1": "Explanation.\u2014For the purposes of this section, \u201csociety\u201d shall mean any co-operative society or class of co-operative societies specified in this behalf by the Lieutenant-Governor by a general or special order."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Charge and set-off in respect of share or contribution or interest of members.",
+                    "paragraphs": {
+                        "0": "A co-operative society shall have a charge upon the share or contribution or interest in the capital and on the deposits of a member or past member, or deceased member and upon any dividend, bonus or profits payable to a member or past member or the estate of a deceased member in respect of any debt due from such member or past member or the estate of such deceased member to the society, and may set-off any sum credited or payable to a member or past member or the estate of deceased member in or towards payment of any such debt."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Share or contribution or interest not liable to attachment.",
+                    "paragraphs": {
+                        "0": "Subject to the provisions of section 38, the share or contribution or interest of a member or past member or deceased member in the capital of a co-operative society shall not be liable to attachment or sale under any decree or order of any court in respect of any debt or liability incurred by such member, and a receiver under the Provincial Insolvency Act, 1920 (5 of 1920) shall not be entitled to or have any claim on such share or contribution or interest."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Register of members.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any register or list of members or shares kept by any co-operative society shall be prima facie evidence of any of the following particulars entered therein:\u2014",
+                            "contains": {
+                                "0": "(a) the date on which any person entered in such register or list became a member;",
+                                "1": "(b) the date on which any such person ceased to be a member."
+                            }
+                        }
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Admissibility of copy of entry as evidence.",
+                    "paragraphs": {
+                        "0": "(1) A copy of any entry in a book of a co-operative society regularly kept in the course of its business shall, if certified in such manner as may be prescribed, be received in any suit or legal proceedings as prima facie evidence of the existence of such entry, and shall be admitted as evidence of the matters, transactions and accounts therein recorded in every case where, and to the same extent as, the original entry itself is admissible.",
+                        "1": "(2) No officer of a co-operative society and no officer in whose office the books of a co-operative society are deposited after liquidation shall, in any legal proceedings to which the soceity or the liquidator is not a party, be compelled to produce any of the society\u2019s books or documents the contents of which can be proved under this section, or to appear as a witness to prove the matters, transactions and accounts therein recorded, except under order of the court or the arbitrator made for special cause."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Exemption from compulsory registration of instruments.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Nothing in clauses (b) and (c) of sub-section (1) of section 17 of the Indian Registration Act, 1908 (16 of 1908) shall apply to\u2014",
+                            "contains": {
+                                "0": "(1) any instrument relating to shares in a co-operative society notwithstanding that the assets of the society consist in whole or in part of immovable property; or",
+                                "1": "(2) any debenture issued by any such society and not creating, declaring, assigning, limiting or extinguishing any right, title or interest to or in immovable property, except in so far as it entitles the holder thereof to the security afforded by a registered instrument whereby the society has mortgaged, conveyed, or otherwise transferred the whole or part of its immovable property or any interest therein to trustees upon trust for the benefit of the holders of such debentures; or",
+                                "2": "(3) an endorsement upon or transfer of any debenture issued by any such society."
+                            }
+                        }
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Exemption from certain taxes, fees and duties.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette, remit the income-tax payable in respect of the profits of any class of co-operative societies or the dividends or other payments received by members of any class of such societies on account of profits.",
+                        "1": {
+                            "text": "(2) The Central Government may, by notification in the Official Gazette, remit in respect of any class of co-operative societies\u2014",
+                            "contains": {
+                                "0": "(a) the stamp duty chargeable under any law for the time being in force in respect of any instrument executed by or on behalf of a co-operative society or by an officer or member thereof and relating to the business of such society or any class of such instruments or in respect of any award or order made under this Act, in cases, where, but for such remission the co-operative society, officer or member, as the case may be, would be liable to pay such stamp duty;",
+                                "1": "(b) any fee payable under any law for the time being in force relating to the registration of documents or court-fee."
+                            }
+                        },
+                        "2": {
+                            "text": "(3) The Central Government may, by notification, exempt any class of co-operative societies from\u2014",
+                            "contains": {
+                                "0": "(a) land revenue;",
+                                "1": "(b) taxes on agricultural income;",
+                                "2": "(c) taxes on sale or purchase of goods; and",
+                                "3": "(d) taxes on professions, trades, callings and employments."
+                            }
+                        }
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Deduction from salary to meet co-operative society\u2019s claim in certain cases.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in any law for the time being in force, a member of a co-operative society may execute an agreement in favour of the society providing that his employer shall be competent to deduct from the salary or wages payable to him by the employer, such amount as may be specified in the agreement and to pay the amount so deducted to the society in satisfaction of any debt or other demand owing by the member to the society.",
+                        "1": "(2) On the execution of such agreement, the employer shall, if so required by the co-operative society by a requisition in writing and so long as the society does not intimate that the whole of such debt or demand has been paid, make the deduction in accordance with the agreement and pay the amount so deducted to the society, as if it were a part of the salary or wages payable on the day as required under the Payment of Wages Act, 1936 (4 of 1936). Such payment shall be valid discharge of the employer for his liability to pay the amount deducted.",
+                        "2": "(3) Where a requisition in writing from any society registered or deemed to be registered in any reciprocating State in respect of a member of that society, who has executed any such agreement as is referred to in sub-section (1) and who for the time being is employed in the Union territory of Delhi, is received by his employer, the requisition shall be acted upon as if it had been made by a society in Delhi and the provisions of this section shall have effect accordingly.",
+                        "3": "Explanation.\u2014For the purpose of this sub-section, \u201creciprocating State\u201d means any State or Union territory which the Lieutenant-Governor may, by notification in the Delhi Gazette, declare to be a reciprocating State.",
+                        "4": "(4) If after the receipt of a requisition made under sub-section (2) or sub-section (3), the employer at any time fails to deduct the amount specified in the requisition from the salary or wages payable to the member concerned or makes default in remitting the amount deducted to the society, the society shall be entitled to recover any such amount from the employer as arrears of land revenue and the amount so due from the employer shall rank in priority in respect of the liability of the employer equal to that of the wages in arrears.",
+                        "5": "(5) Nothing contained in this section shall apply to establishment under a railway administration operating any railway as defined in clause (20) of article 366 of the Constitution."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Other forms of State aid to co-operative societies.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in any law for the time being in force, the Central Government may\u2014",
+                            "contains": {
+                                "0": "(a) subscribe to the share capital of a co-operative society;",
+                                "1": "(b) give loans or make advances to co-operative societies;",
+                                "2": "(c) guarantee the repayment of principal and payment of interest on debentures issued by a co-operative society;",
+                                "3": "(d) guarantee the repayment of share capital of a co-operative society and dividends thereon at such rates as may be specified by the Central Government;",
+                                "4": "(e) guarantee the repayment of principal and payment of interest on loans and advances to a co-operative society; and",
+                                "5": "(f) give financial assistance in any other form, including subsidies, to any co-operative society."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "PROPERTIES AND FUNDS OF CO-OPERATIVE SOCIETIES",
+            "Sections": {
+                "Section 46.": {
+                    "heading": "Funds not to be divided by way of profit.",
+                    "paragraphs": {
+                        "0": "No part of the funds of a co-operative society shall be divided by way of bonus or dividend or otherwise among its members:",
+                        "1": "Provided that after at least one-fourth of the net profits in any year has been carried to the reserve fund, payments from the remainder of such profits and from any profits of past years available for distribution may be made to the members to such extent and under such conditions as may be prescribed by the rules or bye-laws."
+                    }
+                },
+                "Section 47.": {
+                    "heading": "Contribution to charitable purpose.",
+                    "paragraphs": {
+                        "0": "Any co-operative society may, with the sanction of the Registrar, after one-fourth of the net profits in any year has been carried to the reserve fund, contribute an amount not exceeding five per cent. of the remaining net profits to any purpose connected with the development of co-operative movement or charitable purpose as defined in section 20 of the Charitable Endowments Act, 1890 (6 of 1890)."
+                    }
+                },
+                "Section 48.": {
+                    "heading": "Contribution to Co-operative Education Fund.",
+                    "paragraphs": {
+                        "0": "A co-operative society shall out of its net profits in any year credit such portion of the profits not exceeding five per cent. as may be prescribed to the Co-operative Education Fund constituted under the rules."
+                    }
+                },
+                "Section 49.": {
+                    "heading": "Investment of funds.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) A co-operative society may invest or deposit its fund\u2014",
+                            "contains": {
+                                "0": "(a) in the post office savings bank; or",
+                                "1": "(b) in any of the securities specified in section 20 of the Indian Trusts Act, 1882 (2 of 1882); or",
+                                "2": "(c) in the shares or securities of any other co-operative society; or",
+                                "3": "(d) with any bank carrying on the business of banking approved for this purpose by the Registrar; or",
+                                "4": "(e) in any other mode permitted by the rules."
+                            }
+                        },
+                        "1": "(2) Any investments or deposits made before the commencement of this Act which would have been valid if this Act had been in force are hereby ratified and confirmed."
+                    }
+                },
+                "Section 50.": {
+                    "heading": "Restrictions on loans.",
+                    "paragraphs": {
+                        "0": "(1) A co-operative society shall not make a loan to any person other than a member:",
+                        "1": "Provided that with the general or special sanction of the Registrar a co-operative society may make a loan to another co-operative society.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), a co-operative society may make a loan to a depositor within his deposit on its security."
+                    }
+                },
+                "Section 51.": {
+                    "heading": "Restrictions on borrowings.",
+                    "paragraphs": {
+                        "0": "A co-operative society shall receive deposits and loans only to such extent and under such conditions as may be prescribed or as may be specified in the bye-laws."
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Restrictions on other transactions with non-members.",
+                    "paragraphs": {
+                        "0": "Save as provided in sections 50 and 51, the transactions of a co-operative society with any person other than a member shall be subject to such prohibitions and restrictions, if any, as may be prescribed."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "AUDIT, INQUIRY, INSPECTION AND SURCHARGE",
+            "Sections": {
+                "Section 53.": {
+                    "heading": "Audit.",
+                    "paragraphs": {
+                        "0": "(1) The Registrar shall audit or cause to be audited by a person authorised by him by general or special order in writing in this behalf, the accounts of every co-operative society at least once in each year.",
+                        "1": "(2) The audit under sub-section (1) shall include an examination of overdue debts, if any, the verification of the cash balance and securities, and a valuation of the assets and liabilities of the society.",
+                        "2": "(3) The person auditing the accounts of a co-operative society shall have free access to the books, accounts, papers, vouchers, stock and other property of such society and shall be allowed to verify its cash balance and securities.",
+                        "3": "(4) The directors, managers, administrators and other officers of the society shall furnish to the person auditing the accounts of a co-operative society all such information as to its transactions and working as such person may require.",
+                        "4": {
+                            "text": "(5) The Registrar or the person authorised by him under sub-section (1) to audit the accounts of a co-operative society shall have power where necessary\u2014",
+                            "contains": {
+                                "0": "(a) to summon at the time of his audit any officer, agent, servant or member of the society, past or present, who he has reason to believe can give valuable information in regard to transactions of the society or the management of its affairs; and",
+                                "1": "(b) to require the production of any book or document relating to the affairs of, or any cash or securities belonging to, the society by any officer, agent, servant, or member in possession of such books, documents, cash or securities and in the event of serious irregularities discovered during audit, to take them into custody."
+                            }
+                        },
+                        "5": "(6) If at the time of audit the accounts of a society are not complete, the Registrar or the person authorised by him under sub-section (1) to audit, may cause the accounts to be written up at the expense of the society.",
+                        "6": "(7) Audit fee, if any, due from any co-operative society shall be recoverable in the same manner as is provided in section 75."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Inspection of societies.",
+                    "paragraphs": {
+                        "0": "The Registrar, or any person authorised by general or special order in this behalf by him, may inspect a co-operative society. For the purpose of inspection, the Registrar or the person so authorised by him shall at all times have access to all books, accounts, papers, vouchers, securities, stock and other property of the society and may in the event of serious irregularities discovered during inspection take them into custody and shall have power to verify the cash balance of the society and subject to the general or special order of the Registrar to call a committee meeting and a general meeting. Every officer or member of the society shall furnish such information with regard to the working of the society as the Registrar or the person making such inspection may require."
+                    }
+                },
+                "Section 55.": {
+                    "heading": "Inquiry by Registrar.",
+                    "paragraphs": {
+                        "0": "(1) The Registrar may of his own motion or on the application of a majority of the committee or of not less than one-third of the members, hold an inquiry or direct some person authorised by him by order in writing in this behalf to hold an inquiry into the constitution, working and financial condition of a co-operative society.",
+                        "1": {
+                            "text": "(2) The Registrar or the person authorised by him under sub-section (1) shall have the following powers, namely:\u2014",
+                            "contains": {
+                                "0": "(a) he shall at all times have, for purpose of examination, free access to the books, accounts, cash and other properties belonging to or in the custody of the society and may summon any person in possession or responsible for the custody of any such books, accounts, documents, securities, cash or other properties to produce the same, at any place specified by him;",
+                                "1": "(b) he may, notwithstanding any rule or bye-law specifying the period of notice for a general meeting of the society, require the officers of the society to call a general meeting at such time and place at the headquarters of the society to consider such matters, as may be directed by him; and where the officers of the society refuse or fail to call such a meeting he shall have power to call it himself;",
+                                "2": "(c) he may summon any person who is reasonably believed by him to have any knowledge of the affairs of the society to appear before him at any place at the headquarters of the society or any branch thereof and may examine such person on oath."
+                            }
+                        },
+                        "2": "(3) Any meeting called under clause (b) of sub-section (2) shall have all the powers of a general meeting called under the bye-laws of the society and its proceedings shall be regulated by such bye-laws.",
+                        "3": "(4) The Registrar shall communicate a brief summary of the report of the inquiry to the society, the financing institutions, if any, to which the society is affiliated, and to the person or authority, if any, at whose instance the inquiry is made."
+                    }
+                },
+                "Section 56.": {
+                    "heading": "Inspection of books of indebted societies.",
+                    "paragraphs": {
+                        "0": "(1) The Registrar shall, on the application of a creditor of a co-operative society, inspect or direct some person authorised by him by order in writing in this behalf to inspect the books of the society:",
+                        "1": {
+                            "text": "Provided that no such inspection shall be made unless the applicant\u2014",
+                            "contains": {
+                                "0": "(a) satisfies the Registrar that the debt is a sum then due, and that he has demanded payment thereof and has not received satisfaction within a reasonable time; and",
+                                "1": "(b) deposits with the Registrar such sum as security for the costs of proposed inspection as the Registrar may require."
+                            }
+                        },
+                        "2": "(2) The Registrar shall communicate the result of any such inspection to the creditor."
+                    }
+                },
+                "Section 57.": {
+                    "heading": "Costs of inquiry.",
+                    "paragraphs": {
+                        "0": "Where an inquiry is held under section 55, or an inspection is made under section 56, the Registrar may apportion the costs, or such part of the costs, as he may think fit, between the society, the members or creditor demanding an inquiry or inspection, and the officers or former officers and the members or past members of the society:",
+                        "1": {
+                            "text": "Provided that\u2014",
+                            "contains": {
+                                "0": "(a) no order of the apportionment of the costs shall be made under this section unless the society or the person liable to pay the costs thereunder has had a reasonable opportunity of being heard;",
+                                "1": "(b) the Registrar shall state in writing under his own hand the grounds on which the costs are apportioned."
+                            }
+                        }
+                    }
+                },
+                "Section 58.": {
+                    "heading": "Recovery of costs.",
+                    "paragraphs": {
+                        "0": "Any sum awarded by way of costs under section 57 may be recovered, on application to a magistrate having jurisdiction in the place where the person from whom the money is claimable, actually and voluntarily resides or carries on business, and such magistrate shall recover the same as if it were a fine imposed by himself."
+                    }
+                },
+                "Section 59.": {
+                    "heading": "Surcharge.",
+                    "paragraphs": {
+                        "0": "(1) If in the course of an audit, inquiry, inspection or the winding up of a co-operative society, it is found that any person, who is or was entrusted with the organisation or management of such society or who is or has at any time been an officer or an employee of the society, has made any payment contrary to this Act, the rules or the bye-laws or has caused any deficiency in the assets of the society by breach of trust or wilful negligence or has misappropriated or fraudulently retained any money or other property belonging to such society, the Registrar may, of his own motion or on the application of the committee, liquidator or any creditor, inquire himself or direct any person authorised by him, by an order in writing in this behalf, to inquire into the conduct of such person:",
+                        "1": "Provided that no such inquiry shall be held after the expiry of six years from the date of any act or omission referred to in this sub-section.",
+                        "2": "(2) Where an inquiry is made under sub-section (1), the Registrar may, after giving the person concerned an opportunity of being heard, make an order, requiring him to repay or restore the money or property or any part thereof, with interest at such rate, or to pay contribution and costs or compensation to such extent, as the Registrar may consider just and equitable."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VIII",
+            "Name": "SETTLEMENT OF DISPUTES",
+            "Sections": {
+                "Section 60.": {
+                    "heading": "Disputes which may be referred to arbitration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Notwithstanding anything contained in any law for the time being in force, if any dispute touching the constitution, management or the business of a co-operative society other than a dispute regarding disciplinary action taken by the society or its committee against a paid employee of the society arises\u2014",
+                            "contains": {
+                                "0": "(a) among members, past members and persons claiming through members, past members and deceased members, or",
+                                "1": "(b) between a member, past member or person claiming through a member, past member or deceased member and the society, its committee or any officer, agent or employee of the society or liquidator, past or present, or",
+                                "2": "(c) between the society or its committee and any past committee, any officer, agent or employee, or any past officer, past agent or past employee or the nominee, heirs or legal representatives of any deceased officer, deceased agent, or deceased employee of the society, or",
+                                "3": "(d) between the society and any other co-operative society, between a society and liquidator of another society or between the liquidator of one society and the liquidator of another society,"
+                            }
+                        },
+                        "1": {
+                            "text": "such disputes shall be referred to the Registrar for decision and no court shall have jurisdiction to entertain any suit or other proceedings in respect of such dispute.",
+                            "contains": {
+                                "0": {
+                                    "text": "(2) For the purposes of sub-section (1), the following shall be deemed to be disputes touching the constitution, management or the business of a co-operative society, namely:\u2014",
+                                    "contains": {
+                                        "0": "(a) a claim by the society for any debt or demand due to it from a member or the nominee, heirs or legal representatives of a deceased member, whether such debt or demand be admitted or not;",
+                                        "1": "(b) a claim by a surety against the principal debtor where the society has recovered from the surety any amount in respect of any debt or demand due to it from the principal debtor as a result of the default of the principal debtor, whether such debt or demand is admitted or not;",
+                                        "2": "(c) any dispute arising in connection with the election of any officer of a society other than a society mentioned in sub-section (1) of section 31."
+                                    }
+                                },
+                                "1": "(3) If any question arises whether a dispute referred to the Registrar under this section is or is not a dispute touching the constitution, management or the business of a co-operative society, the decision thereon of the Registrar shall be final and shall not be called in question in any court.",
+                                "2": {
+                                    "text": "(4) (a) Notwithstanding anything contained in the Limitation Act, 1963 (36 of 1963), but subject to the specific provisions made in this Act, the period of limitation in the case of a dispute referred to the Registrar under sub-section (1) shall\u2014",
+                                    "contains": {
+                                        "0": "(i) when the dispute relates to the recovery of any sum including interest thereon due to a co-operative society by a member thereof, be computed from the date on which such member dies or ceases to be a member of the society;",
+                                        "1": "(ii) save as otherwise provided in sub-clause (iii), when the dispute relates to any act or omission on the part of any of the parties referred to in clause (b) or clause (c) of sub-section (1), be six years from the date on which the act or omission with reference to which the dispute arose, took place;",
+                                        "2": "(iii) when the dispute relates to a co-operative society which has been ordered to be wound up under section 63 or in respect of which an administrator has been appointed under section 32, be six years from the date of the order issued under section 63 or section 32, as the case may be;",
+                                        "3": "(iv) when the dispute is in respect of an election of an officer of a co-operative society other than a society referred to in sub-section (1) of section 31, be one month from the date of the declaration of the result of the election."
+                                    }
+                                },
+                                "3": "(b) The period of limitation in the case of any other dispute except those mentioned in the foregoing clause which are required to be referred to the Registrar under the last preceding section shall be regulated by the provisions of the Limitation Act, 1963 (36 of 1963), as if the dispute was a suit and the Registrar a civil court.",
+                                "4": "(c) Notwithstanding anything contained in clauses (a) and (b), the Registrar may admit a dispute after the expiry of the period of limitation, if the applicant satisfies the Registrar that he had sufficient cause for not referring the dispute within such period and the dispute so admitted shall be a dispute which shall not be barred on the ground that the period of limitation has expired."
+                            }
+                        }
+                    }
+                },
+                "Section 61.": {
+                    "heading": "Reference of disputes to arbitration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Registrar may, on receipt of the reference of dispute under section 60,\u2014",
+                            "contains": {
+                                "0": "(a) decide the dispute himself, or",
+                                "1": "(b) transfer if for disposal to any person who has been invested by the Lieutenant-Governor with powers in that behalf, or",
+                                "2": "(c) refer it for disposal to one arbitrator."
+                            }
+                        },
+                        "1": "(2) The Registrar may withdraw any reference transferred under clause (b) of sub-section (1) or referred under clause (c) of that sub-section and decide it himself or refer the same to another arbitrator for decision.",
+                        "2": "(3) The Registrar or any other person to whom a dispute is referred for decision under this section may, pending the decision of the dispute, make such interlocutory orders as he may deem necessary in the interest of justice."
+                    }
+                },
+                "Section 62.": {
+                    "heading": "Power of financing bank to proceed.",
+                    "paragraphs": {
+                        "0": "(1) If a co-operative society is unable to pay its debts to a financing bank by reason of its members committing default in the payment of the moneys due by them, the financing bank may direct the committee of such a society to proceed against such members under section 60 and if the committee fails to do so within a period of ninety days from the date of receipt of such direction, the financing bank itself may proceed against such members in which case the provisions of this Act, the rules or the bye-laws shall apply as if all references to the society or its committee in the said provisions were references to the financing bank.",
+                        "1": "(2) Where a financing bank has obtained a decree or award against a society in respect of moneys due to it from the society, the financing bank may proceed to recover such moneys firstly from the assets of the society and secondly from the members to the extent of their debts due to the society."
+                    }
+                }
+            }
+        },
+        "8": {
+            "ID": "CHAPTER IX",
+            "Name": "WINDING UP OF CO-OPERATIVE SOCIETIES",
+            "Sections": {
+                "Section 63.": {
+                    "heading": "Winding up of co-operative societies.",
+                    "paragraphs": {
+                        "0": "(1) If the Registrar, after an inquiry has been held under section 55, or an inspection has been made under section 56, or on receipt of an application made by not less than three-fourths of the members of a co-operative society, is of opinion that the society ought to be wound up, he may issue an order directing it to be wound up.",
+                        "1": {
+                            "text": "(2) The Registrar may of his own motion make an order directing the winding up of a co-operative society\u2014",
+                            "contains": {
+                                "0": "(a) where it is a condition of the registration of the society that the society shall consist of at least ten members and the number of members has been reduced to less than ten, or",
+                                "1": "(b) where the co-operative society has not commenced working or has ceased to function in accordance with co-operative principles."
+                            }
+                        },
+                        "2": "(3) The Registrar may cancel an order for the winding up of a co-operative society, at any time, in any case where, in his opinion, the society should continue to exist.",
+                        "3": "(4) A copy of such order shall be communicated by registered post to the society and to the financing institutions, if any, of which the society is a member.",
+                        "4": "(5) Notwithstanding anything contained in this section no co-operative bank shall be wound up except with the previous sanction in writing of the Reserve Bank."
+                    }
+                },
+                "Section 64.": {
+                    "heading": "Winding up of co-operative banks at the direction of the Reserve Bank.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything to the contrary contained in this Act, the Registrar shall make an order for winding up of a co-operative bank, if so required by the Reserve Bank in the circumstances mentioned in section 13D of the Deposit Insurance Corporation Act, 1961 (47 of 1961)."
+                    }
+                },
+                "Section 65.": {
+                    "heading": "Reimbursement to the Deposit Insurance Corporation by the liquidator.",
+                    "paragraphs": {
+                        "0": "Where a co-operative bank being an insured bank within the meaning of the Deposit Insurance Corporation Act, 1961 (47 of 1961), is wound up, or taken into liquidation, and the Deposit Insurance Corporation has become liable to the depositors of the insured bank under sub-section (1) of section 16 of that Act, the Deposit Insurance Corporation shall be reimbursed by the liquidator or such other person in the circumstances to the extent and in the manner provided in section 21 of the Deposit Insurance Corporation Act, 1961."
+                    }
+                },
+                "Section 66.": {
+                    "heading": "Liquidator.",
+                    "paragraphs": {
+                        "0": "(1) Where the Registrar has made an order under section 63 for the winding up of a co-operative society, the Registrar may appoint a liquidator for the purpose and fix his remuneration.",
+                        "1": "(2) A liquidator shall, on appointment, take into his custody or under his control all the property, effects and actionable claims to which the society is or appears to be entitled and shall take such steps as he may deem necessary or expedient, to prevent loss or deterioration of, or damage to, such property, effects and claims. He may carry on the business of the society so far as may be necessary with the previous approval of the Registrar.",
+                        "2": "(3) Where an appeal is preferred under section 76, an order of winding up of a co-operative society made under section 63 shall not operate thereafter until the order is confirmed in appeal:",
+                        "3": "Provided that the liquidator shall continue to have custody or control of the property, effects and actionable claims mentioned in sub-section (2) and have authority to take the steps referred to in that sub-section.",
+                        "4": "(4) Where an order of winding up of a co-operative society is set aside in appeal, the property, effects and actionable claims of the society shall revest in the society."
+                    }
+                },
+                "Section 67.": {
+                    "heading": "Powers of liquidator.",
+                    "paragraphs": {
+                        "0": "(1) Subject to any rules made in this behalf, the whole of the assets of a co-operative society, in respect of which an order for winding up has been made, shall vest in the liquidator appointed under section 66 from the date on which the order takes effect and the liquidator shall have power to realise such assets by sale or otherwise.",
+                        "1": {
+                            "text": "(2) Such liquidator shall also have power, subject to the control of the Registrar,\u2014",
+                            "contains": {
+                                "0": "(a) to institute and defend suits and other legal proceedings on behalf of the co-operative society by the name of his office;",
+                                "1": "(b) to determine from time to time the contribution (including debts due and costs of liquidation) to be made or remaining to be made by the members or past members or by the estates or nominees, heirs or legal representatives of deceased members or by any officers or former officers, to the assets of the society;",
+                                "2": "(c) to investigate all claims against the co-operative society and subject to the provisions of this Act, to decide questions of priority arising between claimants;",
+                                "3": "(d) to pay claims against the co-operative society including interest up to the date of winding up according to their respective priorities, if any, in full or rateably, as the assets of the society may permit; the surplus, if any, remaining after payment of the claims being applied in payment of interest from the date of such order of winding up at a rate fixed by him but not exceeding the contract rate in any case;",
+                                "4": "(e) to determine by what persons and in what proportions the costs of the liquidation are to be borne;",
+                                "5": "(f) to determine whether any person is a member, past member or nominee of deceased member;",
+                                "6": "(g) to give such directions in regard to the collection and distribution of the assets of the society as may appear to him to be necessary for winding up the affairs of the society;",
+                                "7": "(h) to carry on the business of the society so far as may be necessary for the beneficial winding up of the same;",
+                                "8": "(i) to make any compromise or arrangement with creditors or persons claiming to be creditors or having or alleging to have any claim, present or future, whereby the society may be rendered liable;",
+                                "9": "(j) to make any compromise or arrangement with any person between whom and the society there exists any dispute and to refer any such dispute to arbitration;",
+                                "10": "(k) after consulting the members of the society, to dispose of the surplus, if any, remaining after paying the claims against the society, in such manner as may be prescribed; and",
+                                "11": "(l) to compromise all calls or liabilities to calls and debts and liabilities capable of resulting in debts, and all claims, present or future, certain or contingent, subsisting or supposed to subsist between the society and a contributory or alleged contributory or other debtor or person apprehending liability to the co-operative society and all questions in any way relating to or affecting the assets or the winding up of the society on such terms as may be agreed and take any security for the discharge of any such call, liability, debt or claim and give a complete discharge in respect thereof."
+                            }
+                        },
+                        "2": "(3) When the affairs of a co-operative society have been wound up, the liquidator shall make a report to the Registrar and deposit the records of the society in such place as the Registrar may direct."
+                    }
+                },
+                "Section 68.": {
+                    "heading": "Priority of contributions assessed by liquidator.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in the Provincial Insolvency Act, 1920 (5 of 1920), the contribution assessed by a liquidator shall rank next to debts due to the Government or to any local authority in order of priority in insolvency proceedings."
+                    }
+                },
+                "Section 69.": {
+                    "heading": "Power of Registrar to cancel registration of a co-operative society.",
+                    "paragraphs": {
+                        "0": "(1) The Registrar may after considering the report of the liquidator made to him under sub-section (3) of section 67 order the registration of the co-operative society to be cancelled.",
+                        "1": "(2) An order passed under sub-section (1) shall be communicated by registered post to the president of the society and to the financing institutions, if any, of which the society was a member."
+                    }
+                }
+            }
+        },
+        "9": {
+            "ID": "CHAPTER X",
+            "Name": "EXECUTION OF AWARDS, DECREES, ORDERS AND DECISIONS",
+            "Sections": {
+                "Section 70.": {
+                    "heading": "Enforcement of charge.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in Chapter VIII or any other law for the time being in force, but without prejudice to any other mode of recovery provided in this Act, the Registrar or any person subordinate to him empowered by the Registrar in this behalf may, on the application of a co-operative society, make an order directing the payment of any debt or outstanding demand due to the society by any member or past or deceased member, by sale of the property or any interest therein, which is subject to a charge under section 36:",
+                        "1": "Provided that no order shall be made under this section unless the member, past member or the nominee, heir or legal representative of the deceased member, has been served with a notice in the manner prescribed."
+                    }
+                },
+                "Section 71.": {
+                    "heading": "Execution of orders, etc.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Every decision, award or order duly passed by the Registrar or arbitrator or Tribunal under section 29, section 30, section 59, section 61, section 70, section 76, section 78 or section 79 shall, if not carried out,\u2014",
+                            "contains": {
+                                "0": "(a) where the decision, award or order provides for the recovery of money, be executed according to the law for the time being in force relating to the recovery of land revenue:",
+                                "1": "Provided that an application for the recovery of any sum in the manner aforesaid shall be made to the Collector and shall be accompanied by a certificate signed by the Registrar or by any person subordinate to him and empowered by the Registrar in this behalf; and",
+                                "2": "(b) in any other case be executed by the Registrar or any person subordinate to him and empowered by the Registrar in this behalf, in the same manner as is provided in the case of a civil court by the Code of Civil Procedure, 1908 (5 of 1908)."
+                            }
+                        }
+                    }
+                },
+                "Section 72.": {
+                    "heading": "Execution of orders of liquidator.",
+                    "paragraphs": {
+                        "0": "The orders of the liquidator under section 67 shall be executed according to the Act and under the rules for the time being in force for the recovery of arrears of land revenue."
+                    }
+                },
+                "Section 73.": {
+                    "heading": "Attachment before award.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Where the Registrar is satisfied that a party to any reference made to him under section 60 with intent to defeat or delay the execution of any decision that may be passed thereon is about to\u2014",
+                            "contains": {
+                                "0": "(a) dispose of the whole or any part of the property; or",
+                                "1": "(b) remove the whole or any part of the property from the local limits of the jurisdiction of the Registrar, the Registrar may, unless adequate security is furnished, direct the conditional attachment of the said property or such part thereof as he thinks necessary. Such attachment shall be executed by a civil court having jurisdiction in the same way as an attachment order passed by itself and shall have the same effect as such an order:"
+                            }
+                        },
+                        "1": "Provided that the powers of the Registrar under this section shall not be delegated to any officer below such rank as may be prescribed."
+                    }
+                },
+                "Section 74.": {
+                    "heading": "Registrar or person empowered by him to be civil court for certain purposes.",
+                    "paragraphs": {
+                        "0": "The Registrar or any person empowered by him in this behalf shall be deemed, when exercising any powers under this Act for the recovery of any amount by the attachment and sale or by sale without attachment of any property, or when passing any orders on any application made to him for such recovery or for taking a step-in-aid of such recovery, to be civil court for the purposes of article 136 of the Schedule to the Limitation Act, 1963 (36 of 1963)."
+                    }
+                },
+                "Section 75.": {
+                    "heading": "Recovery of sums due to Government.",
+                    "paragraphs": {
+                        "0": "(1) All sums due from a co-operative society, or from an officer or member or past member of a co-operative society as such, to Government, including any costs awarded to Government under any provision of this Act, may on a certificate issued by the Registrar in this behalf, be recovered in the same manner as arrears of land revenue.",
+                        "1": "(2) Sums due from a co-operative society to Government and recoverable under sub-section (1), may be recovered, firstly, from the property of the society, secondly, in the case of a society the liability of the members of which is limited, from the members, past members or the estates of deceased members, subject to the limit of their liability, and, thirdly, in the case of other societies, from the members, past members or the estates of the deceased members:",
+                        "2": "Provided that the liability of past members and the estates of deceased members shall in all cases be subject to the provisions of section 27."
+                    }
+                }
+            }
+        },
+        "10": {
+            "ID": "CHAPTER XI",
+            "Name": "APPEALS AND REVISION",
+            "Sections": {
+                "Section 76.": {
+                    "heading": "Appeals.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Subject to the provisions of section 77, an appeal shall lie under this section against\u2014",
+                            "contains": {
+                                "0": "(a) an order of the Registrar made under sub-section (2) of section 9 refusing to register a society;",
+                                "1": "(b) an order of the Registrar made under sub-section (4) of section 11 refusing to register an amendment of the bye-laws of a co-operative society;",
+                                "2": "(c) an order of the Registrar made under sub-section (1) of section 16;",
+                                "3": "(d) a decision of a co-operative society refusing to admit any person as a member of the society who is otherwise duly qualified for membership under the bye-laws of the society;",
+                                "4": "(e) a decision of a co-operative society expelling any of its members;",
+                                "5": "(f) an order of the Registrar removing the committee of a co-operative society made under section 32;",
+                                "6": "(g) an order made by the Registrar under section 57 apportioning the costs of an enquiry held under section 55 or an inspection made under section 56;",
+                                "7": "(h) any order of surcharge under section 59;",
+                                "8": "(i) any decision or award made under section 61;",
+                                "9": "(j) an order made by the Registrar under section 63 directing the winding up of a co-operative society;",
+                                "10": "(k) any order made by the liquidator of a co-operative society in exercise of the powers conferred on him by section 67;",
+                                "11": "(l) any order made under section 73."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) An appeal against any decision or order under sub-section (1) shall be made within sixty days from the date of the decision or order\u2014",
+                            "contains": {
+                                "0": "(a) if the decision or order falls under clause (g), (h), (i) or (l) of sub-section (1), to the Tribunal;",
+                                "1": "(b) if the decision or order falls under clause (f), to the Lieutenant-Governor;",
+                                "2": "(c) in any other case, to the Lieutenant-Governor or the Registrar according as the decision or order was made by the Registrar or any other person."
+                            }
+                        },
+                        "2": "(3) No appeal shall lie under this section from any decision or order made by the Registrar in appeal."
+                    }
+                },
+                "Section 77.": {
+                    "heading": "No appeal or revision in certain cases.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in this Act, where with the previous sanction in writing or on requisition of the Reserve Bank,\u2014",
+                            "contains": {
+                                "0": "(i) a co-operative bank is being wound up; or",
+                                "1": "(ii) in respect of which a scheme of amalgamation or reorganisation is given effect to; or",
+                                "2": "(iii) in respect of which an order for the supersession of the committee and the appointment of an administrator therefor has been made,"
+                            }
+                        },
+                        "1": "no appeal, revision or review thereagainst shall lie or be permissible, and the sanction or requisition of the Reserve Bank shall not be liable to be called in question."
+                    }
+                },
+                "Section 78.": {
+                    "heading": "Delhi Co-operative Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) The Lieutenant-Governor shall constitute a Tribunal to be called the Delhi Co-operative Tribunal to exercise the functions conferred on the Tribunal by or under this Act.",
+                        "1": "(2) The Tribunal shall consist of not more than three members possessing such qualifications as may be prescribed.",
+                        "2": "(3) Any vacancy in the membership of the Tribunal shall be filled by the Lieutenant-Governor.",
+                        "3": "(4) Subject to the previous approval of the Lieutenant-Governor, the Tribunal shall frame regulations consistent with the provisions of this Act and the rules made thereunder, for regulating its procedure and the disposal of its business.",
+                        "4": "(5) The regulations made under sub-section (4) shall be published by the Lieutenant-Governor in the Delhi Gazette.",
+                        "5": "(6) The Tribunal may call for and examine the record of any proceeding, in which an appeal lies to it, for the purpose of satisfying itself as to the legality or propriety of any decision or order passed and if in any case it shall appear to the Tribunal that any such decision or order should be modified, annulled or reversed, the Tribunal may pass such order thereon as it may deem fit.",
+                        "6": "(7) An order passed in appeal under section 76 or in revision under sub-section (6) of this section or in review under section 79 by the Tribunal shall be final and conclusive, and shall not be called in question in any civil or revenue court.",
+                        "7": "Explanation.\u2014The Tribunal hearing an appeal under this Act shall exercise all the powers conferred upon an appellate court by section 97 of, and Order XLI of the First Schedule to, the Code of Civil Procedure, 1908 (5 of 1908)."
+                    }
+                },
+                "Section 79.": {
+                    "heading": "Review of orders of Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) The Tribunal may either on the application of the Registrar, or on the application of any party interested, review its own order in any case, and pass in reference thereto such order as it thinks just:",
+                        "1": "Provided that no such application made by the party shall be entertained unless the Tribunal is satisfied that there has been the discovery of new and important matter of evidence, which after the exercise of due diligence was not within the knowledge of the applicant or could not be produced by him at the time when its order was made or that there has been some mistake or error apparent on the face of the record, or for any other sufficient reason:",
+                        "2": "Provided further that no such order shall be varied or revised unless notice has been given to the parties interested to appear and be heard in support of such order.",
+                        "3": "(2) An application for review under sub-section (1) by any party shall be made within ninety days from the date of communication of the order of the Tribunal."
+                    }
+                },
+                "Section 80.": {
+                    "heading": "Revision.",
+                    "paragraphs": {
+                        "0": "Subject to the provisions of section 77, the Lieutenant-Governor may, suo motu or on the application of a party to a reference, call for and examine the record of any proceedings in which no appeal lies to the Lieutenant-Governor under section 76 (not being any proceedings in which an appeal lies to the Tribunal) for the purpose of satisfying himself as to the legality and propriety of any decision or order passed and if in any case it shall appear to him that any such decision or order should be modified, annulled or revised, he may pass such order thereon as he may deem fit."
+                    }
+                },
+                "Section 81.": {
+                    "heading": "Interlocutory orders.",
+                    "paragraphs": {
+                        "0": "Where an appeal is made under section 76 or where the Tribunal or Lieutenant-Governor calls for the record of a case under section 78 or section 80, the appellate authority or the Tribunal or Lieutenant-Governor, as the case may be, may, in order to prevent the ends of justice being defeated, make such interlocutory order, including an order of stay, pending the decision of the appeal or revision as such authority or the Tribunal or Lieutenant-Governor may deem fit."
+                    }
+                }
+            }
+        },
+        "11": {
+            "ID": "CHAPTER XII",
+            "Name": "OFFENCES AND PENALTIES",
+            "Sections": {
+                "Section 82.": {
+                    "heading": "Offences.",
+                    "paragraphs": {
+                        "0": "(1) Any person other than a co-operative society carrying on business under any name or title of which the word \u201cco-operative\u201d, or its equivalent in any Indian language is part, without the sanction of the Lieutenant-Governor shall be punishable with fine which may extend to two hundred rupees and in the case of a continuing breach with a further fine which may extend to five hundred rupees for every day during which the breach is continued after conviction for the first such breach.",
+                        "1": "(2) Any member or past member or the nominee, heir or legal representative of a deceased member of a co-operative society who contravenes the provisions of sections 36 and 37 by disposing of any property in respect of which the society is entitled to have a first charge under that section or do any other act to the prejudice of such claim, shall be punishable with fine which may extend to five hundred rupees.",
+                        "2": "(3) A co-operative society or an officer or member thereof wilfully making a false return or furnishing false information, or any person wilfully or without any reasonable excuse disobeying any summons, requisition or lawful written order issued under the provisions of this Act or wilfully not furnishing any information required from him by a person authorised in this behalf under the provisions of this Act, shall be punishable with fine which may extend to two hundred rupees.",
+                        "3": "(4) Any employer who, without sufficient cause, fails to pay to a co-operative society the amount deducted by him under section 44 within a period of fourteen days from the date on which such deduction is made shall, without prejudice to any action that may be taken against him under any law for the time being in force be punishable with fine which may extend to five hundred rupees.",
+                        "4": "(5) Any officer or custodian who wilfully fails to hand over custody of books, records, cash, security and other property belonging to a co-operative society of which he is an officer or custodian, to a person entitled under section 33, 53, 54, 55 or 66 shall be punishable with fine which may extend to two hundred rupees and in the case of a continuing breach with a further fine which may extend to five hundred rupees for every day during which the breach is continued after conviction for the first such breach.",
+                        "5": "(6) Any person who fraudulently acquires or abets in the acquisition of any such property which is subject to a charge under sections 36 and 37 shall be punishable with fine which may extend to two hundred rupees."
+                    }
+                },
+                "Section 83.": {
+                    "heading": "Cognizance of offence.",
+                    "paragraphs": {
+                        "0": "(1) No court inferior to that of a magistrate of the first class shall try any offence under this Act.",
+                        "1": "(2) No prosecution shall be instituted under this Act without the previous sanction of the Registrar and such sanction shall not be given without giving to the person concerned a reasonable opportunity to represent his case."
+                    }
+                },
+                "Section 84.": {
+                    "heading": "Address of societies.",
+                    "paragraphs": {
+                        "0": "Every co-operative society shall have an address registered in the manner prescribed to which all notices and communications may be sent, and shall send to the Registrar notice of every change thereof within thirty days of such change."
+                    }
+                },
+                "Section 85.": {
+                    "heading": "Copy of Act, rules and bye-laws, etc., to be open to inspection.",
+                    "paragraphs": {
+                        "0": "Every co-operative society shall keep a copy of this Act, the rules and its bye-laws and also a list of its members, open to inspection free of charge at all reasonable times at the registered address of the society."
+                    }
+                },
+                "Section 86.": {
+                    "heading": "Prohibition against the use of the word \u201cco-operative\u201d.",
+                    "paragraphs": {
+                        "0": "No person other than a co-operative society shall trade or carry on business under any name or title of which the word \u201cco-operative\u201d or its equivalent in any Indian language is part:",
+                        "1": "Provided that nothing in this section shall apply to the use by any person or his successor-in-interest of any name or title under which he carried on business at the date on which the Co-operative Societies Act, 1912 (2 of 1912), came into operation."
+                    }
+                },
+                "Section 87.": {
+                    "heading": "Power to exempt societies from conditions as to registration.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in this Act, the Lieutenant-Governor may, by general or special order and subject to such conditions, if any, as he may impose, exempt any society or class of societies from any of the requirements of this Act as to registration."
+                    }
+                },
+                "Section 88.": {
+                    "heading": "Power to exempt co-operative societies from provisions of the Act.",
+                    "paragraphs": {
+                        "0": "The Lieutenant-Governor may, by general or special order, to be published in the Delhi Gazette, exempt any co-operative society or any class of co-operative societies from any of the provisions of this Act, or may direct that such provisions shall apply to such societies or class of societies with such modifications as may be specified in the order."
+                    }
+                },
+                "Section 89.": {
+                    "heading": "Liquidator to be public servant.",
+                    "paragraphs": {
+                        "0": "Any person appointed as liquidator under the provisions of this Act or the rules shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 90.": {
+                    "heading": "Notice necessary in suits.",
+                    "paragraphs": {
+                        "0": "No suit shall be instituted against a co-operative society or any of its officers in respect of any act touching the business of the society until the expiration of three months next after notice in writing has been delivered to the Registrar or left at his office, stating the cause of action, the name, description and place of residence of the plaintiff and the relief which he claims, and the plaint shall contain a statement that such notice has been so delivered or left."
+                    }
+                },
+                "Section 91.": {
+                    "heading": "Companies Act not to apply.",
+                    "paragraphs": {
+                        "0": "The provisions of the Companies Act, 1956 (1 of 1956), shall not apply to co-operative societies."
+                    }
+                },
+                "Section 92.": {
+                    "heading": "Saving of existing societies.",
+                    "paragraphs": {
+                        "0": "(1) Every society now existing which has been registered under the Co-operative Credit Societies Act, 1904 (10 of 1904) or under the Co-operative Societies Act, 1912 (2 of 1912), or under the Bombay Co-operative Societies Act, 1925 (Bom. 7 of 1925) as in force in the Union territory of Delhi, shall be deemed to be registered under the corresponding provisions of this Act, and its bye-laws shall, so far as the same are not inconsistent with the express provisions of this Act, continue in force until altered or rescinded.",
+                        "1": "(2) All appointments, rules and orders made, notifications and notices issued and suits and other proceedings instituted under the said Acts shall, so far as they are consistent with the provisions of this Act, be deemed to have been respectively made, issued and instituted under this Act, save that an order made cancelling the registration of a society shall be deemed, unless the society has already been finally liquidated, as an order issued under section 63 for its being wound up."
+                    }
+                },
+                "Section 93.": {
+                    "heading": "Bar of jurisdiction of courts.",
+                    "paragraphs": {
+                        "0": "(1) Save as provided in this Act, no civil or revenue court shall have any jurisdiction in respect of\u2014",
+                        "1": "(a) the registration of a co-operative society or its bye-laws or of an amendment of a bye-law;",
+                        "2": "(b) the removal of a committee;",
+                        "3": "(c) any dispute required under section 60 to be referred to the Registrar; and",
+                        "4": "(d) any matter concerning the winding up and the dissolution of a co-operative society.",
+                        "5": "(2) While a co-operative society is being wound up, no suit or other legal proceedings relating to the business of such society shall be proceeded with or instituted against, the liquidator as such or against the society or any member thereof, except by leave of the Registrar and subject to such terms as he may impose.",
+                        "6": "(3) Save as provided in this Act, no order, decision or award made under this Act shall be questioned in any court on any ground whatsoever."
+                    }
+                },
+                "Section 94.": {
+                    "heading": "Powers of civil court.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In exercising the functions conferred on him by or under this Act, the Registrar, the arbitrator or any other person deciding a dispute under section 61 and the liquidator of a co-operative society or person entitled to audit, inspect or hold an inquiry and the Tribunal, shall have all the powers of a civil court, while trying a suit, under the Code of Civil Procedure, 1908 (5 of 1908), in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) summoning and enforcing the attendance of any person and examining him on oath;",
+                                "1": "(b) requiring the discovery and production of any document;",
+                                "2": "(c) proof of facts by affidavits; and",
+                                "3": "(d) issuing commissions for examination of witnesses."
+                            }
+                        },
+                        "1": "(2) In the case of an affidavit, any officer appointed by the Registrar, the arbitrator or any other person deciding a dispute and the liquidator or the Tribunal, as the case may be, may administer the oath to the deponent."
+                    }
+                },
+                "Section 95.": {
+                    "heading": "Indemnity.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceedings shall lie against the Registrar or any person subordinate to him or acting on his authority in respect of anything in good faith done or purporting to have been done under this Act."
+                    }
+                },
+                "Section 96.": {
+                    "heading": "Qualifications, remuneration and other conditions of service of employees of co-operative societies.",
+                    "paragraphs": {
+                        "0": "(1) The Lieutenant-Governor shall, as soon as may be after the commencement of this Act, constitute a common service comprising of officers and other employees of different classes of co-operative societies and shall determine the number and designation of such officers and other employees.",
+                        "1": "(2) The Lieutenant-Governor shall make rules regulating the qualifications, remuneration, allowances, recruitment and other conditions of service of such officers and other employees of the co-operative societies."
+                    }
+                },
+                "Section 97.": {
+                    "heading": "Rules.",
+                    "paragraphs": {
+                        "0": "(1) The Lieutenant-Governor may, for any co-operative society or class of co-operative societies, make rules to carry out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(i) the maximum number of shares or portion of the capital of a co-operative society which may, subject to the provisions of section 6, be held by a member;",
+                                "1": "(ii) the form to be used and the conditions to be complied with in the making of applications for the registration of a society and the procedure in the matter of such applications;",
+                                "2": "(iii) the procedure and conditions for change in the form and extent of the liability of a co-operative society;",
+                                "3": "(iv) the matters in respect of which the society may or shall make bye-laws and for the procedure to be followed in making, altering and abrogating bye-laws and the conditions to be satisfied prior to such making, alteration or abrogation;",
+                                "4": "(v) the conditions to be complied with by persons applying for admission or admitted as members, for the election and admission of members, and for the payment to be made and the interest to be acquired before the exercise of the right of membership;",
+                                "5": "(vi) the manner in which funds may be raised by means of shares and debentures or otherwise;",
+                                "6": "(vii) for general meeting of the members and for the procedure at such meetings and the powers to be exercised by such meetings;",
+                                "7": "(viii) the prohibitions and restrictions subject to which societies may transact business with persons who are not members;",
+                                "8": "(ix) the proportion of individuals and societies in the constitution of the committee of management and the general body of a co-operative society of which another co-operative society is a member;",
+                                "9": "(x) the determination of co-operative societies or class of co-operative societies for the purpose of sub-section (1) of section 31, and subject to the provisions of the said section, the election and nomination of members of committees, the appointment or election of officers and the suspension and removal of the members and other officers, and for the powers to be exercised and the duties to be performed by the committees and other officers;",
+                                "10": "(xi) the area of agricultural land, the conditions required to be fulfilled for the purpose of sub-section (6) of section 31;",
+                                "11": "(xii) the appointment and regulation of work entrusted to person or persons replacing the committee in pursuance of section 32;",
+                                "12": "(xiii) prohibiting a co-operative society from electing a defaulting member on its committee or to be its representative;",
+                                "13": "(xiv) the accounts and books to be kept by a co-operative society and the audit of such accounts and the charges, if any, to be made for such audit, and for the periodical publication of a balance-sheet showing the assets and liabilities of a co-operative society;",
+                                "14": "(xv) the returns to be submitted by a co-operative society to the Registrar, the persons by whom and the form in which such returns shall be submitted and in case of failure to submit any such returns for the levy of expenses of preparing it;",
+                                "15": "(xvi) the persons by whom and the form in which copies of the entries in books of societies may be certified and for the charges to be levied for the supply of such copies;",
+                                "16": "(xvii) the formation and maintenance of a register of members and where the liability of the members is limited by shares, of a register of shares;",
+                                "17": "(xviii) the appointment of an arbitrator to decide disputes;",
+                                "18": "(xix) the procedure to be followed in proceedings before the Registrar, arbitrator or other persons deciding disputes including the appointment of a guardian for a party to the dispute who is a minor or who, by reason of unsoundness of mind or mental infirmity, is incapable of protecting his interests, and the levy of the expenses relating to such proceeding;",
+                                "19": "(xx) the withdrawal and expulsion of members and for the payments, if any, to be made to members who withdraw or are expelled and for the liability of past members and of the estates of deceased members;",
+                                "20": "(xxi) the mode in which the value of a deceased member\u2019s share or interest shall be ascertained and for the nomination of a person to whom such share or interest may be paid or transferred;",
+                                "21": "(xxii) the payments to be made and conditions to be complied with by members applying for loans, the period for which any loans may be made and the maximum amount may be lent, to any member;",
+                                "22": "(xxiii) the formation and maintenance of reserve funds and other funds and the objects to which such funds may be applied, and for the investment of any funds under the control of a co-operative society;",
+                                "23": "(xxiv) the extent to which a co-operative society may limit the number of its members;",
+                                "24": "(xxv) the conditions under which profits may be distributed to the members of a co-operative society with unlimited liability, and the maximum rate of dividend which may be paid by co- operative societies;",
+                                "25": "(xxvi) the calculation and writing off of bad debts by co-operative societies;",
+                                "26": "(xxvii) the procedure to be followed by a liquidator appointed under section 66 in respect of provisions of section 67;",
+                                "27": "(xxviii) the procedure to be followed in presenting and disposing of appeals under this Act;",
+                                "28": "(xxix) the form of orders referred to in sections 71 and 72;",
+                                "29": "(xxx) qualifications of the members of the Tribunal;",
+                                "30": "(xxxi) the issue and service of processes and for proof of service thereof;",
+                                "31": "(xxxii) the manner of effecting attachment;",
+                                "32": "(xxxiii) the custody, preservation and sale of property under attachment;",
+                                "33": "(xxxiv) the investigation of claims by persons other than the defaulter to any right or interest in the attached property, and for the postponement of the sale pending such investigation;",
+                                "34": "(xxxv) the immediate sale of perishable articles;",
+                                "35": "(xxxvi) the inspection of documents in the office of the Registrar or of any other officer or authority and the levy of fees for granting certified copies of the same;",
+                                "36": "(xxxvii) the terms and conditions on which the Central Government may make share-capital contribution or give assistance, financial or other, to societies and the terms and conditions on which the Central Government may guarantee the payment of the principal or interest on debentures issued by societies or loans raised by them;",
+                                "37": "(xxxviii) the manner in which funds may be raised by a society or a class of societies by means of shares or debentures of otherwise and the quantum of funds so raised;",
+                                "38": "(xxxix) for giving reasonable notice of the charge under sections 36 and 37;",
+                                "39": "(xl) qualifications, remuneration, allowances and recruitment and the conditions of service of officers and other employees of a society or class of societies;",
+                                "40": "(xli) the method of communicating or publishing any order, decision or award required to be communicated or published under this Act or the rules."
+                            }
+                        },
+                        "2": "(3) Every rule made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification to the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 98.": {
+                    "heading": "Repeal and savings.",
+                    "paragraphs": {
+                        "0": "On the day on which the Delhi Co-operative Societies Act, 1972 comes into force, the Bombay Co-operative Societies Act, 1925 (Bom. 7 of 1925) as in force in the Union territory of Delhi shall stand repealed:",
+                        "1": {
+                            "text": "Provided that the repeal shall not affect\u2014",
+                            "contains": {
+                                "0": "(a) the previous operation of the Act so repealed or anything duly done or suffered thereunder; or",
+                                "1": "(b) any right, privilege, obligation, or liability acquired, accrued or incurred under the Act so repealed; or",
+                                "2": "(c) any penalty, forfeiture or punishment incurred in respect of any offence committed against the Act so repealed; or",
+                                "3": "(d) any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture of punishment as aforesaid,"
+                            }
+                        },
+                        "2": "and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed as if that Act has not been repealed."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 5": {
+            "0": "1.  2nd  April,  1973,  vide  notification  No.  7(15)/65-73/coop/3613,  Delhi  Gazette,  Extraordinary,  Part  IV,  dated16th March 1973."
+        }
+    }
+}

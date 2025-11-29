@@ -1,0 +1,392 @@
+{
+    "Act Title": "THE RICHARDSON AND CRUDDAS LIMITED (ACQUISITION AND TRANSFER OF UNDERTAKING) ACT, 1972",
+    "Act ID": "ACT NO. 78 OF 1972",
+    "Enactment Date": "[30th December, 1972.]",
+    "Act Definition": {
+        "0": "An Act to provide for the acquisition and transfer of the undertaking of the Richardson and Cruddas Limited, for the reconstruction of the register of its members and for matters connected therewith or incidental thereto.",
+        "1": "WHEREAS the Richardson and Cruddas Limited, a company formed and registered under the Indian Companies Act, 1913 (7 of 1913), is engaged in the production of goods needed by the defence establishments, railways, steel plants and power projects;",
+        "2": "AND WHEREAS the mismanagement of the said company by its erstwhile managing agents and Board of Directors had seriously affected the production and supply of goods by the said company;",
+        "3": "AND WHEREAS it is not possible for the said company to provide for its proper management by a duly constituted Board of Directors in view of the existence of a large number of duplicate shares in the capital of the said company;",
+        "4": "AND WHEREAS for ensuring, in the interests of the community, the continuity of production and supply of goods by the said company, it is expedient in the public interest to acquire the undertaking of the said company;"
+    },
+    "Parts": {
+        "0": {
+            "ID": "PART I",
+            "Name": "ACQUISITION AND TRANSFER OF THE UNDERTAKING OF RICHARDSON AND CRUDDAS LIMITED",
+            "Subheadings": [
+                {
+                    "Name": "CHAPTER I.\u2014PRELIMINARY",
+                    "Sections": {
+                        "Section 1.": {
+                            "heading": "Short title.",
+                            "paragraphs": {
+                                "0": "This Act may be called the Richardson and Cruddas Limited (Acquisition and Transfer of Undertaking) Act, 1972."
+                            }
+                        },
+                        "Section 2.": {
+                            "heading": "Definitions.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) In this Act, unless the context otherwise requires,\u2014",
+                                    "contains": {
+                                        "0": "(a) \u201cappointed day\u201d means such date1 as the Central Government may, by notification, appoint;",
+                                        "1": "(b) \u201cCustodian\u201d means the person who is appointed, under section 10, as the Custodian of the old company;",
+                                        "2": "(c) \u201cNationalised Bank\u201d means a corresponding new bank as defined in the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970);",
+                                        "3": "(d) \u201cnew company\u201d means the Government company, formed and registered under the Companies Act, 1956 (1 of 1956), in pursuance of the provisions of section 9;",
+                                        "4": "(e) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                        "5": "(f) \u201cold company\u201d means the Richardson and Cruddas Limited, a company formed and registered under the Indian Companies Act, 1913 (7 of 1913) and having its registered office in the State of West Bengal;",
+                                        "6": "(g) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                        "7": "(h) \u201cscheduled bank\u201d has the meaning assigned to it in the Reserve Bank of India Act, 1934 (2 of 1934), and includes a Nationalised Bank;",
+                                        "8": "(i) \u201cshare\u201d means a share in the capital of the old company;",
+                                        "9": "(j) \u201cTribunal\u201d means the Tribunal constituted under section 13."
+                                    }
+                                },
+                                "1": "(2) Words and expressions used herein and not defined but defined in the Companies Act, 1956 (1 of 1956), have, save as otherwise expressly provided in this Act, the meanings respectively assigned to them in that Act."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "CHAPTER II.\u2014ACQUISITION OF THE UNDERTAKING OF THE RICHARDSON AND CRUDDAS LIMITED",
+                    "Sections": {
+                        "Section 3.": {
+                            "heading": "Undertaking of the old company to vest in the Central Government.",
+                            "paragraphs": {
+                                "0": "On the appointed day, the undertaking of the old company shall stand transferred to, and vest in, the Central Government, and that Government shall, immediately thereafter, provide, by notification, for the transfer to, and vesting in, of such undertaking in the new company."
+                            }
+                        },
+                        "Section 4.": {
+                            "heading": "General effect of meeting.",
+                            "paragraphs": {
+                                "0": "(1) The undertaking of the old company shall be deemed to include all assets, rights, powers, authorities and privileges and all property, movable and immovable, cash balances, reserve funds, investments and all other rights and interests in, or arising out of, such property as were immediately before the appointed day in the ownership, possession, power or control of the old company in relation to the undertaking, whether within or without India, and all books of account, registers (other than register of members and documents relating thereto), records and all other documents of whatever nature relating thereto and shall also be deemed to include all borrowings, liabilities and obligations of whatever kind then subsisting of the old company in relation to the undertaking.",
+                                "1": "(2) Unless otherwise expressly provided by this Act, all contracts, deeds, bonds, agreements, powers of attorney, grants of legal representation and other instruments of whatever nature subsisting or having effect immediately before the appointed day which relate to the undertaking of the old company, shall be of as full force and effect in favour of the Central Government, and on the transfer of such undertaking to the new company, of such new company and may be enforced or acted upon as fully and effectively as if they had related to the Central Government or the new company, as the case may be.",
+                                "2": "(3) (a) If, on the appointed day, a proceeding instituted by the old company in relation to the undertaking referred to in section 3 is pending, such proceeding may, as from that day, be continued by the Central Government or, on the transfer of the undertaking to the new company, by the new company.",
+                                "3": "(b) If, on the appointed day, any cause of action is existing against the old company in relation to the undertaking referred to in section 3, such cause of action may, as from that day, be enforced against the Central Government or, on the transfer of the undertaking to the new company, against the new company.",
+                                "4": "(c) Save as otherwise provided in clauses (a) and (b), no suit, proceeding or cause of action by or against the old company shall be continued or enforced by or against the Central Government or the new company."
+                            }
+                        },
+                        "Section 5.": {
+                            "heading": "Duty to deliver possession of property acquired and documents relating thereto.",
+                            "paragraphs": {
+                                "0": "(1) Where any property has vested in the Central Government under section 3, every person in whose possession or custody or under whose control the property may be, shall deliver the property to the Central Government forthwith.",
+                                "1": "(2) Any person who, on the appointed day, has in his possession or under his control any books, documents or other papers relating to the undertaking which has vested in the Central Government under this Act and which belong to the old company, or, would have so belonged if the undertaking of the old company had not vested in the Central Government, shall be liable to account for the said books, documents or other papers to the Central Government and, on the transfer of such undertaking to the new company, to that company, and shall deliver them up to the Central Government or the new company, as the case may be, or to such other person as the Central Government or the new company may specify in this behalf.",
+                                "2": "(3) The Central Government may take, or cause to be taken, all necessary steps for securing possession of all properties which have vested in that Government under section 3."
+                            }
+                        },
+                        "Section 6.": {
+                            "heading": "Duty to furnish particulars.",
+                            "paragraphs": {
+                                "0": "(1) The old company shall, within such period as the Central Government may allow in this behalf, furnish to that Government, and the new company, a complete inventory of all the properties and assets (including particulars of investments) of the old company on the appointed day, all liabilities and obligations of the old company subsisting on that day and also all agreements entered into by the old company and in force on that day including agreements, whether express or implied, relating to leave, pension, gratuity and other terms of service of any officer or other employee of the old company under which, by virtue of this Act, the Central Government has, or will have, or may have, the liabilities and, for this purpose, the Central Government and the new company shall afford the old company all reasonable facilities.",
+                                "1": "(2) The old company shall, if required by the Central Government or new company so to do, furnish such returns or information relating to the undertaking referred to in section 3, or, any person employed by the old company for the purpose of such undertaking, as may be specified in such requisition."
+                            }
+                        },
+                        "Section 7.": {
+                            "heading": "Transfer of employees of the old company.",
+                            "paragraphs": {
+                                "0": "(1) Every officer or other employee of the old company (except a director or any managerial personnel specified in section 197A of the Companies Act, 1956 (1 of 1956), or any other person entitled to manage the whole or a substantial part of the business of the old company under a special agreement with that company) in the employment of the old company immediately before the appointed day shall, in so far as such officer or other employee is employed in connection with the affairs of the undertaking of the old company, become, as from the appointed day, an officer or other employee, as the case may be, of the Central Government and, on the transfer of such undertaking to the new company, of that company, and shall hold his office on the same terms and conditions and with the same rights to pension, gratuity and other matters as would have been admissible to him if the undertaking of the old company had not been transferred to and vested in the Central Government or the new company, and continue to do so unless and until his employment in the Central Government or the new company is duly terminated for until the remuneration, terms or conditions of service are duly altered by the Central Government or the new company, as the case may be:",
+                                "1": "Provided that if the alteration so made is not acceptable to any officer or other employee, his employment shall be terminated on payment to him by the Central Government or the new company, as the case may be, of an amount equivalent to three months\u2019 remuneration in the case of permanent employees and one month\u2019s remuneration in the case of other employees:",
+                                "2": "Provided further that nothing contained in this sub-section shall apply to any officer or other employee who has, by notice in writing given to the Central Government or the new company, within thirty days next following the appointed day, intimated his intention of not becoming an officer or other employee of the Central Government or the new company, as the case may be.",
+                                "3": "(2) For the persons, who, immediately before the appointed day, were the trustees for any pension, provident fund, gratuity or other like fund constituted for the officers or other employees of the old company, there shall be substituted as trustees such persons as the Central Government or the new company may, by general or special order, specify.",
+                                "4": "(3) Notwithstanding anything contained in the Industrial Disputes Act, 1947 (14 of 1947), or in any other law for the time being in force, the transfer of the services of any officer or other employee from the old company to the Central Government or the new company shall not entitle such officer or other employee to any compensation under that Act or other law, and no such claim shall be entertained by any court, tribunal or other authority."
+                            }
+                        },
+                        "Section 8.": {
+                            "heading": "Payment of amount.",
+                            "paragraphs": {
+                                "0": "(1) For the transfer, under section 3, of the undertaking of the old company to the Central Government, there shall be paid by the Central Government to the Custodian an amount of rupees thirty lakhs.",
+                                "1": "(2) The Custodian shall open an account in the name of the old company in any scheduled bank and credit the said amount to the said account and hold the said amount in trust for and on behalf of the old company."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "CHAPTER III.\u2014MANAGEMENT AND ADMINISTRATION OF THE NEW COMPANY",
+                    "Sections": {
+                        "Section 9.": {
+                            "heading": "Formation and registration of a new company.",
+                            "paragraphs": {
+                                "0": "For the efficient management and administration of the undertaking which will vest in the Central Government under section 3, there shall be formed and registered, before the appointed day, a Government company, with the name \u201cRichardson and Cruddas (1972) Limited\u201d, in accordance with the provisions of the Companies Act, 1956 (1 of 1956)."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "CHAPTER IV.\u2014MANAGEMENT OF THE OLD COMPANY",
+                    "Sections": {
+                        "Section 10.": {
+                            "heading": "Management of the old company.",
+                            "paragraphs": {
+                                "0": "(1) The affairs of the old company shall be managed by a Custodian to be appointed by the Central Government in this behalf:",
+                                "1": "Provided that the Central Government may, if the Custodian declines to become, or to continue to function as, the Custodian or if it is of opinion that it is necessary in the interests of the old company so to do, appoint any other person as the Custodian of the old company.",
+                                "2": "(2) The Custodian appointed under sub-section (1) shall receive, from the funds of the old company, such emoluments as the Central Government may specify in this behalf.",
+                                "3": "(3) The Custodian shall hold office during the pleasure of the Central Government."
+                            }
+                        },
+                        "Section 11.": {
+                            "heading": "Custodian to be public servant.",
+                            "paragraphs": {
+                                "0": "The Custodian shall be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                            }
+                        },
+                        "Section 12.": {
+                            "heading": "Vacation of office by directors, etc., of the old company.",
+                            "paragraphs": {
+                                "0": "(1) On the appointment of a Custodian, every person holding office, immediately before such appointment, as director or manager of the old company shall, notwithstanding anything contained in any other law for the time being in force or in any decree or order of any court or tribunal, vacate such office.",
+                                "1": "(2) The Custodian shall receive the sum referred to in section 8 and shall deal with the said sum for meeting any liability which is incurred by the old company after the appointed day, and the balance, if any, left after meeting the said liability, in accordance with the wishes of the members of the old company, expressed in a general meeting convened by the Custodian, and the provisions of the Companies Act, 1956 (1 of 1956), shall, so far as may be, apply to such meeting.",
+                                "2": "(3) The Custodian may, if the members of the old company so desire, distribute the balance referred to in sub-section (2) amongst such members in accordance with their rights and interests and thereafter apply to the Court for the winding up of the old company by the Court."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "1": {
+            "ID": "PART II",
+            "Name": "RECTIFICATION OF THE REGISTER OF MEMBERS OF THE OLD COMPANY",
+            "Subheadings": [
+                {
+                    "Name": "CHAPTER I.\u2014CONSTITUTION OF A TRIBUNAL",
+                    "Sections": {
+                        "Section 13.": {
+                            "heading": "Constitution of a Tribunal.",
+                            "paragraphs": {
+                                "0": "(1) For the purpose of rectification of the register of members of the old company, the Central Government shall, by notification, constitute a Tribunal consisting of one person who is or has been a Judge of a High Court.",
+                                "1": "(2) If, for any reason, a vacancy (other than a temporary absence) occurs in the office of the presiding officer of the Tribunal, the Central Government shall appoint another person, in accordance with the provisions of this section, to fill the vacancy and the proceedings may be continued before the Tribunal from the stage at which the vacancy is filled.",
+                                "2": "(3) The Central Government shall make available to the Tribunal such staff as may be necessary for the discharge of its functions under this Act.",
+                                "3": "(4) All expenses incurred in connection with the Tribunal shall be defrayed out of the Consolidated Fund of India.",
+                                "4": "(5) The Tribunal shall have power to regulate its own procedure in all matters arising out of the discharge of its functions including the place or places at which it shall hold its sittings:",
+                                "5": "Provided that the Tribunal shall, as far as practicable, follow the procedure laid down in the Code of Civil Procedure, 1908 (5 of 1908), for the investigation of claims and the decision of the Tribunal shall be final.",
+                                "6": {
+                                    "text": "(6) The Tribunal shall, for the purpose of making an inquiry under this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely:\u2014",
+                                    "contains": {
+                                        "0": "(a) the summoning and enforcing the attendance of any witness and examining him on oath,",
+                                        "1": "(b) the discovery and production of any document or other material producible as evidence,",
+                                        "2": "(c) the reception of evidence on affidavits,",
+                                        "3": "(d) the requisitioning of any public record from any Court or office,",
+                                        "4": "(e) issue of any commission for the examination of witnesses."
+                                    }
+                                },
+                                "7": "(7) Any proceeding before the Tribunal shall be deemed to be a judicial proceeding within the meaning of section 193 of the Indian Penal Code (45 of 1860), and the Tribunal shall be deemed to be a civil court for the purpose of section 195 and Chapter XXXV of the Code of Criminal Procedure, 1898 (5 of 1898)."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "CHAPTER II.\u2014POWERS AND DUTIES OF THE TRIBUNAL",
+                    "Sections": {
+                        "Section 14.": {
+                            "heading": "Tribunal to call upon persons to make claims.",
+                            "paragraphs": {
+                                "0": "(1) The Tribunal shall, by notification and in such other manner as may be prescribed, call upon every person, who claims to have any interest in any share, to prefer his claim within thirty days from such date as may be specified in the notification.",
+                                "1": "(2) Every person claiming an interest in any share shall make his claim before the Tribunal in such form as may be prescribed, stating therein the rights claimed by him in the share and the manner in which, and the date on which, such right was acquired by him.",
+                                "2": "(3) The Tribunal may, if it is satisfied that any claimant had sufficient cause for not preferring the claim within thirty days from the date specified in the notification, admit such claim within a further period of thirty days."
+                            }
+                        },
+                        "Section 15.": {
+                            "heading": "Determination of genuine shares.",
+                            "paragraphs": {
+                                "0": "The Tribunal shall, after taking such evidence as may be adduced before it and after making such inquiry as it may think fit and after hearing such persons as may desire to be heard, determine which of the documents purporting to be shares represent, in reality, a contribution to the capital of the old company, and on such determination, all other documents purporting to be shares shall stand declared to be spurious and shall stand cancelled."
+                            }
+                        },
+                        "Section 16.": {
+                            "heading": "No compensation for cancellation of spurious shares.",
+                            "paragraphs": {
+                                "0": "(1) No holder of a document purporting to be a share shall be entitled to claim either from the Central Government or from the old or new company any damages for the cancellation of such document by virtue of the provisions of section 15.",
+                                "1": "(2) Subject to the provisions of sub-section (1), every person who had acquired a document, purporting to be a share, bona fide for value without notice of the fact that it did not represent any contribution to the capital of the old company, shall be entitled to claim reimbursement from the person from whom such document was acquired by him, and, the period of limitation for any action for such reimbursement shall be deemed to commence on the date on which the document held by him as a share stands cancelled under section 15."
+                            }
+                        },
+                        "Section 17.": {
+                            "heading": "Power of Tribunal to entertain and dispose of claims for reimbursement.",
+                            "paragraphs": {
+                                "0": "(1) The Tribunal shall have jurisdiction to entertain and dispose of any claim for reimbursement referred to in sub-section (2) of section 16.",
+                                "1": "(2) Every such claim shall be made before the Tribunal within thirty days from the date on which the document purporting to be a share stands cancelled under section 15."
+                            }
+                        },
+                        "Section 18.": {
+                            "heading": "Suits and legal proceedings, not to be commenced or proceeded with.",
+                            "paragraphs": {
+                                "0": "(1) On and from the date on which the Tribunal is constituted, no suit or other legal proceeding shall be commenced, or if pending at the date of such constitution, shall be proceeded with, against the old company except with the leave of the Tribunal and subject to such terms as the Tribunal may impose.",
+                                "1": {
+                                    "text": "(2) Save as otherwise provided in this Act, the Tribunal shall have, and no court or other tribunal shall have, jurisdiction to entertain or dispose of\u2014",
+                                    "contains": {
+                                        "0": "(a) any suit or proceeding by, or on behalf of, or against, the old company;",
+                                        "1": "(b) any claim made by, or on behalf of, or against, the old company;",
+                                        "2": "(c) any question of priorities and any other question whatsoever, whether of law or of fact, which may relate to, or arise in relation to, the genuineness or otherwise of, any share or in relation to any rights or obligations under such share,"
+                                    }
+                                },
+                                "2": {
+                                    "text": "whether such suit or proceeding has been instituted, or is instituted, or such claim or question has arisen or arises before or after the constitution of the Tribunal.",
+                                    "contains": {
+                                        "0": "(3) If, on the appointed day, any suit, appeal or other proceeding of whatever nature by or against the old company in relation to any business of that company is pending in any court, such suit, appeal or other proceeding shall, notwithstanding anything contained in any other law for the time being in force or in any contract, stand transferred to, and shall be disposed of by, the Tribunal and thereupon no other court or tribunal shall have jurisdiction to try such suit, appeal or proceeding.",
+                                        "1": "Explanation.\u2014A suit or other proceeding relating to the title to, or claim in or in relation to, any share or any document purporting to be a share shall be deemed to be a suit or other proceeding relating to the business of the old company.",
+                                        "2": "(4) Nothing in sub-section (1) or sub-section (3) shall apply to any petition or appeal arising out of any petition made under article 32, article 226 or article 227 of the Constitution."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 19.": {
+                            "heading": "Decision of the Tribunal to be final.",
+                            "paragraphs": {
+                                "0": "Every decision, under this Act, of the Tribunal shall be final and shall not be called in question in any court except by way of a petition under article 32 or article 226 of the Constitution."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "CHAPTER III.\u2014DUTY OF CUSTODIAN TO RECONSTRUCT REGISTER OF MEMBERS OF THE OLD COMPANY",
+                    "Sections": {
+                        "Section 20.": {
+                            "heading": "Custodian to reconstruct register of members of the old company.",
+                            "paragraphs": {
+                                "0": "(1) The Custodian shall reconstruct the register of members of the old company and shall include therein the names of the holders of the shares which have been declared by the Tribunal as representing, in reality, a contribution to the capital of the old company and strike off from the register of members of the old company the names of the holders of the documents purporting to be shares which stand, by reason of the determination made by the Tribunal under section 15, cancelled.",
+                                "1": {
+                                    "text": "(2) On and from the date of reconstruction of the register of members of the old Company,\u2014",
+                                    "contains": {
+                                        "0": "(a) the register, as so reconstructed, shall be deemed to be the register of members of the old company, and",
+                                        "1": "(b) all registers of members maintained by the old company, immediately before the said date, shall stand cancelled."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 21.": {
+                            "heading": "Custodian to issue fresh share certificates.",
+                            "paragraphs": {
+                                "0": "(1) The Custodian shall issue, in such form as may be prescribed, fresh share certificate in relation to the shares which have been declared by the Tribunal as representing, in reality, a contribution to the capital of the old company.",
+                                "1": "(2) All share certificates issued by the old company before the date of the determination made by the Tribunal shall, on and from such determination, stand cancelled."
+                            }
+                        },
+                        "Section 22.": {
+                            "heading": "No annual general meeting of the old company to be held before the reconstruction of the register of members.",
+                            "paragraphs": {
+                                "0": "(1) Nothwithstanding anything contained in the Companies Act, 1956 (1 of 1956), or any other law for the time being in force, no annual or other general meeting of the old company shall be held until the reconstruction of the register of members of the old company has been completed in accordance with the provisions of this Act.",
+                                "1": "(2) No resolution purported to have been passed at any meeting of the members of the old company shall, until the reconstruction of its register of members, have effect."
+                            }
+                        },
+                        "Section 23.": {
+                            "heading": "Custodian to file accounts until reconstruction of the register of members of the old company.",
+                            "paragraphs": {
+                                "0": "(1) Until the register of members of the old company is finally reconstructed, the Custodian shall file every year with the Registrar, the annual accounts of the old company.",
+                                "1": "(2) The provisions of the Companies Act, 1956 (1 of 1956), shall, as far as may be, apply to the annual accounts referred to in sub-section (1)."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "2": {
+            "ID": "PART III",
+            "Name": "OFFENCES AND THEIR TRIAL",
+            "Sections": {
+                "Section 24.": {
+                    "heading": "Penalties.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Any person who,\u2014",
+                            "contains": {
+                                "0": "(a) having in his possession, custody or control any property forming part of the undertaking which has vested in the Central Government under section 3, wrongfully withholds such property from the Central Government or new company, or",
+                                "1": "(b) wrongfully obtains possession of any property forming part of such undertaking, or",
+                                "2": "(c) being required by sub-section (2) of section 5 so to do, wilfully withholds or fails to furnish to the Central Government, new company or any other person specified by that Government or the new company, any document which may be in his possession, custody or control, or",
+                                "3": "(d) wilfully fails to furnish an inventory as required by section 6, or furnishes an inventory containing any particulars which are incorrect or false in material particulars and which he either knows or believes to be false or does not believe to be true, or",
+                                "4": "(e) being required by the Central Government or the new company in writing so to do, fails to furnish any return, statement or other information relating to the undertaking of the old company which has vested in the Central Government under section 3, or",
+                                "5": "(f) makes a false or frivolous claim before the Tribunal with regard to the ownership of, or any right in, any share, or",
+                                "6": "(g) fails to comply with any order of direction made under this Act,"
+                            }
+                        },
+                        "1": {
+                            "text": "shall be punishable with imprisonment for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both:",
+                            "contains": {
+                                "0": "Provided that the court trying any offence under clause (a), clause (b) or clause (c) of this sub-section may, at the time of convicting the accused person, order him to deliver up or refund, within a period to be fixed by the court, any property or money wrongfully withheld or wrongfully obtained or any document wilfully withheld or not furnished.",
+                                "1": "(2) No court shall take cognizance of an offence punishable under this section except with the previous sanction of the Central Government or an officer authorised by that Government in this behalf."
+                            }
+                        }
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to punishment if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed by a company and it is proved that the offence was committed with the consent or connivance of, or is attributable to, any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                                "1": "(b) \u201cdirector\u201d in relation to a firm, means a partner in the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Offences to be triable by a Magistrate of the first class and not to be compoundable.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (5 of 1898),\u2014",
+                            "contains": {
+                                "0": "(a) every offence against this Act shall be triable by a Magistrate of the first class, and",
+                                "1": "(b) no offence against this Act shall be compoundable."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "PART IV",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 27.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "(1) No suit, prosecution or other legal proceeding shall lie against the Custodian in respect of anything which is in good faith done or intended to be done under this Act.",
+                        "1": "(2) No suit or other legal proceeding shall lie against the Central Government or the Custodian or the new company for any damage caused or likely to be caused by anything which is in good faith done or intended to be done under this Act."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Contracts, etc., in bad faith may be cancelled or varied.",
+                    "paragraphs": {
+                        "0": "(1) If the Central Government is satisfied, after such inquiry as it thinks fit, that any contract or agreement entered into at any time within twelve months immediately preceding the appointed day, between the old company and any other person has been entered into in bad faith and is detrimental to the interests of the old company or of the new company, it may make an order cancelling or varying (either unconditionally or subject to such conditions as it may think fit to impose) the contract or agreement and thereafter the contract or agreement shall have effect accordingly:",
+                        "1": "Provided that no contract or agreement shall be cancelled or varied except after giving to the parties to the contract or agreement a reasonable opportunity of being heard.",
+                        "2": "(2) Any person aggrieved by an order made under sub-section (1) may make an application to the Tribunal for the variation or reversal of such order and thereupon the Tribunal may confirm, modify or reverse such order."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Power to terminate contract of employment.",
+                    "paragraphs": {
+                        "0": "If the Custodian is of opinion that any contract of employment entered into by or on behalf of the old company at any time before the appointed day is unduly onerous, he may, by giving to the employee one month\u2019s notice in writing or the salary or wages for one month in lieu thereof, terminate such contract of employment."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Power to remove difficulty.",
+                    "paragraphs": {
+                        "0": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, not inconsistent with the provisions of this Act, remove the difficulty:",
+                        "1": "Provided that no such order shall be made after the expiry of a period of two years from the commencement of this Act."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules to carry out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the form and manner in which every claim shall be preferred before the Tribunal;",
+                                "1": "(b) the form in which fresh shares shall be issued by the Custodian;",
+                                "2": "(c) any other matter which is required to be, or may be, prescribed."
+                            }
+                        },
+                        "2": "(3) Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 31st March, 1973, vide notification No. G.S.R. 165(E), dated 12th March, 1973, see Gazette of India, Extraordinary, Part II,sec. 3(i)."
+        }
+    }
+}

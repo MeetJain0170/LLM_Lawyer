@@ -1,0 +1,64 @@
+{
+    "Act Title": "THE MAJORITY ACT, 1875",
+    "Act ID": "ACT NO. 9 OF 1875",
+    "Enactment Date": "[2nd March, 1875].",
+    "Act Definition": {
+        "0": "An Act to amend the law respecting the age of majority.",
+        "1": "Preamble. \u2014 Whereas, in the case of persons domiciled in 2[India] it is expedient 3[to specify the age of majority];"
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title.",
+            "paragraphs": {
+                "0": "This Act may be called the 4*** Majority Act, 1875.",
+                "1": "Local extent. \u2014 5[It extends to the whole of India 6[except the State of Jammu and Kashmir]].",
+                "2": "Commencement and operation. \u2014and it shall come into force and have effect only on the expiration of three months from the passing thereof."
+            }
+        },
+        "Section 2.": {
+            "heading": "Saving.",
+            "paragraphs": {
+                "0": {
+                    "text": "Nothing herein contained shall affect: \u2014",
+                    "contains": {
+                        "0": "(a) the capacity of any persons to act in the following matters (namely), \u2014marriage, dower, divorce and adoption;",
+                        "1": "(b) the religion or religious rites and usages of any class of 7[citizens of India]; or",
+                        "2": "(c) the capacity of any person who before this Act comes into force has attained majority under the law applicable to him."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Age of majority of persons domiciled in India.",
+            "paragraphs": {
+                "0": "(1) Every person domiciled in India shall attain the age of majority on his completing the age of eighteen years and not before.",
+                "1": {
+                    "text": "(2) In computing the age of any person, the day on which he was born is to be included as a whole day and he shall be deemed to have attained majority at the beginning of the eighteenth anniversary of that day.]",
+                    "contains": {
+                        "0": "Illustrations"
+                    }
+                },
+                "2": "(a) Z is born in 2[India] on the first day of January, 1850, and has 9[an Indian domicile]. A guardian of his person is appointed by a Court of Justice. Z attains majority at the first moment of the first day of January, 1871.",
+                "3": "(b) Z is born in 2[lndia] on the twenty-ninth day of February 1852, and has 10[an Indian domicile]. A guardian of his property is appointed by a Court of Justice. Z attains majority at the first moment of the twenty- eighth day of February, 1873.",
+                "4": "(c) Z is born on the first day of January, 1850. He acquires a domicile in 2[India]. No guardian is appointed of his person or property of any Court of Justice, nor is he under the jurisdiction of any Court of Wards. Z attains majority at the first moment of the day of January, 1868."
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. This Act has been extended to Dadra and Nagar Haveli by Reg. 6 of 1963, s. 2 and  the First Schedule, and the whole ofthe Union territory of Lakshadweep by Reg. 8 of 1965, s. 3 and Schedule.This Act has been extended to Pondicherry by Act 26 of 1968, subject to the following modification:In section 1 at the end, insert:\u2014\u201cProvided that nothing contained in this Act shall apply to the Renoncants of the Union territory of Pondicherry.\u201d.",
+            "1": "2. Subs. by Act 3 of 1951, s. 3 and the Schedule, for \u201cPart A States and Part C States\u201d.",
+            "2": "3. Subs. by Act 33 of 1999, s. 2, for \u201cto prolong the period of nonage, and to attain more uniformity and certainty respectingthe age of majority that now exists\u201d (w.e.f. 16-12-1999).",
+            "3": "4. The word \u201cIndian\u201d omitted by s. 3, ibid (w.e.f. 16-12-1999).",
+            "4": "5. Subs. by the A.O. 1950, for the original para.",
+            "5": "6. Subs. by Act 3 of 1951, s. 3 and the Schedule for \u201cexcept Part B States\u201d.",
+            "6": "7. Subs. by A.O. 1950, for \u201cHis Majesty\u2019s subject in India.\u201d",
+            "7": "8. Subs. by Act 33 of 1999, s. 4, for sections 3 and 4 (w.e.f. 16-12-1999).",
+            "8": "9. Subs. by Act 3 of 1951 s. 3 and the Schedule ibid., for \u201ca Part A State or a Part C State\u201d.10. Subs. by s. 3 and the Schedule ibid., for \u201ca domicile in a Part A State or a Part C State\u201d."
+        }
+    }
+}

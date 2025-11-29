@@ -1,0 +1,990 @@
+{
+    "Act Title": "THE CONSUMER PROTECTION ACT, 1986",
+    "Act ID": "ACT NO. 68 OF 1986",
+    "Enactment Date": "[24th December, 1986.]",
+    "Act Definition": {
+        "0": "An Act to provide for the better protection of the interests of consumers and for that purpose to make provision for the establishment of consumer councils and other authorities for the settlement of consumers\u2019 disputes and for matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent, commencement and application.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Consumer Protection Act, 1986.",
+                        "1": "(2) It extends to the whole of India except 1***.",
+                        "2": "(3) It shall come into force on such date2 as the Central Government may, by notification, appoint and different dates may be appointed for different States and for different provisions of this Act.",
+                        "3": "(4) Save as otherwise expressly provided by the Central Government by notification, this Act shall apply to all goods and services."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "3[(a) \u201cappropriate laboratory\u201d means a laboratory or organisation\u2014",
+                                    "contains": {
+                                        "0": "(i) recognised by the Central Government;",
+                                        "1": "(ii) recognised by a State Government, subject to such guidelines as may be prescribed by the Central Government in this behalf; or",
+                                        "2": "(iii) any such laboratory or organisation established by or under any law for the time being in force, which is maintained, financed or aided by the Central Government or a State Government for carrying out analysis or test of any goods with a view to determining whether such goods suffer from any defect;]"
+                                    }
+                                },
+                                "1": {
+                                    "text": "4[(aa) \u201cbranch office\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(i) any establishment described as a branch by the opposite party; or",
+                                        "1": "(ii) any establishment carring on either the same or substantially the same activity as that carried on by the head office of the establishment;]"
+                                    }
+                                },
+                                "2": {
+                                    "text": "(b) \u201ccomplainant\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(i) a consumer; or",
+                                        "1": "(ii) any voluntary consumer association registered under the Companies Act, 1956 (1 of 1956) or under any other law for the time being in force; or",
+                                        "2": "(iii) the Central Government or any State Government, who or which makes a complaint;",
+                                        "3": "1[(iv) one or more consumers, where there are numerous consumers having the same interest;]",
+                                        "4": "2[(v) in case of dealth of a consumer, his legal heir or representative;]"
+                                    }
+                                },
+                                "3": {
+                                    "text": "(c) \u201ccomplaint\u201d means any allegation in writing made by a complainant that\u2014",
+                                    "contains": {
+                                        "0": "3[(i) an unfair trade practice or a restrictive trade practice has been adopted by 4[any trader or service provider];]",
+                                        "1": "(ii) 5[the goods bought by him or agreed to be bought by him] suffer from one or more defects;",
+                                        "2": "(iii) 6[the services hired or availed of or agreed to be hired or availed of by him] suffer from deficiency in any respect;",
+                                        "3": {
+                                            "text": "7[(iv) a trader or the service provider, as the case may be, has charged for the goods or for the services mentioned in the complaint, a price in excess of the price\u2014",
+                                            "contains": {
+                                                "0": "(a) fixed by or under any law for the time being in force;",
+                                                "1": "(b) displayed on the goods or any package containing such goods;",
+                                                "2": "(c) displayed on the price list exhibited by him by or under any law for the time being in force;",
+                                                "3": "(d) agreed between the parties;"
+                                            }
+                                        },
+                                        "4": {
+                                            "text": "(v) goods which will be hazardous to life and safety when used are being offered for sale to the public,\u2014",
+                                            "contains": {
+                                                "0": "(a) in contravention of any standards relating to safety of such goods as required to be complied with, by or under any law for the time being in force;",
+                                                "1": "(b) if the trader could have known with due diligence that the goods so offered are unsafe to the public;"
+                                            }
+                                        },
+                                        "5": "(vi) services which are hazardous or likely to be hazardous to life and safety of the public when used, are being offered by the service provider which such person could have known with due diligence to be injurious to life and safety;]"
+                                    }
+                                }
+                            }
+                        },
+                        "1": {
+                            "text": "with a view to obtaining any relief provided by or under this Act;",
+                            "contains": {
+                                "0": {
+                                    "text": "(d) \u201cconsumer\u201d means any person who,\u2014",
+                                    "contains": {
+                                        "0": "(i) buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any user of such goods other than the person who buys such goods for consideration paid or promised or partly paid or partly promised, or under any system of deferred payment when such use is made with the approval of such person, but does not include a person who obtains such goods for resale or for any commercial purpose; or",
+                                        "1": "(ii) 8[hires or avails of] any services for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any beneficiary of such services other than the person who 8[hires or avails of] the services for consideration paid or promised, or partly paid and partly promised, or under any system of deferred payment, when such services are availed of with the approval of the first mentioned person 2[but does not include a person who avails of such services for any commercial purpose].",
+                                        "2": "1[Explanation.\u2014For the purposes of this clause, \u201ccommecial purpose\u201d does not include use by a person of goods bought and used by him and services availed by him exclusively for the purposes of earning his livelihood by means of self-employment;]"
+                                    }
+                                },
+                                "1": "(e) \u201cconsumer dispute\u201d means a dispute where the person against whom a complaint has been made, denies or disputes the allegations contained in the complaint;",
+                                "2": "(f) \u201cdefect\u201d means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or 2[under any contract, express or implied, or] as is claimed by the trader in any manner whatsoever in relation to any goods;",
+                                "3": "(g) \u201cdeficiency\u201d means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service;",
+                                "4": "(h) \u201cDistrict Forum\u201d means a Consumer Disputes Redressal Forum estalished under clause (a) of section 9;",
+                                "5": "(i) \u201cgoods\u201d means goods as defined in the Sale of Goods Act, 1930 (3 of 1930);",
+                                "6": {
+                                    "text": "3[(j) \u201cmanufacturer\u201d means a person who\u2014",
+                                    "contains": {
+                                        "0": "(i) makes or manufactures any goods or parts thereof; or",
+                                        "1": "(ii) does not make or manufacture any goods but assembles parts thereof made or manufactured by others; or",
+                                        "2": "(iii) puts or causes to be put his own mark on any goods made or manufactured by any other manufacturer;]"
+                                    }
+                                },
+                                "7": "Explanation.\u2014Where a manufacturer despatches any goods or part thereof to any branch office maintained by him, such branch office shall not be deemed to be the manufacturer even though the parts so despatched to it are assembled at such branch office and are sold or distributed from such branch office;",
+                                "8": "2[(jj) \u201cmember\u201d includes the President and a member of the National Commission or a State Commission or a District Forum, as the case may be;]",
+                                "9": "(k) \u201cNational Commission\u201d means the National Consumer Disputes Redressal Commission established under clause (c) of section 9;",
+                                "10": "(l) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "11": {
+                                    "text": "(m) \u201cperson\u201d includes,\u2014",
+                                    "contains": {
+                                        "0": "(i) a firm whether registered or not;",
+                                        "1": "(ii) a Hindu undivided family;",
+                                        "2": "(iii) a co-operative society;",
+                                        "3": "(iv) every other association of persons whether registered under the Societies Registration Act, 1860 (21 of 1860) or not;"
+                                    }
+                                },
+                                "12": "(n) \u201cprescribed\u201d means prescribed by rules made by the State Government, or as the case may be, by the Central Government under this Act;",
+                                "13": "1[(nn) \u201cregulation\u201d means the regulations made by the National Commission under this Act;",
+                                "14": {
+                                    "text": "(nnn) \u201crestrictive trade practice\u201d means a trade practice which tends to bring about manipulation of price or its conditions of delivery or to affect flow of supplies in the market relating to goods or services in such a manner as to impose on the consumers unjustified costs or restrictions and shall include\u2014",
+                                    "contains": {
+                                        "0": "(a) delay beyond the period agreed to by a trader in supply of such goods or in providing the services which has led or is likely to lead to rise in the price;",
+                                        "1": "(b) any trade practice which requires a consumer to buy, hire or avail of any goods or, as the case may be, services as condition precedent to buying, hiring or availing of other goods or services;]"
+                                    }
+                                },
+                                "15": "(o) \u201cservice\u201d means service of any description which is made available to potential 2[users and includes, but not limited to, the provision of] facilities in connection with banking, financing, insurance, transport, processing, supply of electrical or other energy, board or lodging or both, 3[housing construction,] entertainment, amusement or the purveying of news or other information, but does not include the rendering of any service free of charge or under a contract of personal service;",
+                                "16": "4[(oo) \u201cspurious goods and services\u201d mean such goods and services which are claimed to be genuine but they are actually not so;]",
+                                "17": "(p) \u201cState Commission\u201d means a Consumer Disputes Redressal Commission established in a State under clause (b) of section 9;",
+                                "18": "(q) \u201ctrader\u201d, in relation to any goods means a person who sells or distributes any goods for sale and includes the manufacturer thereof, and where such goods are sold or distributed in package form, includes the packer thereof;",
+                                "19": {
+                                    "text": "5[(r) \u201cunfair trade practice\u201d means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices, namely:\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(1) the practice of making any statement, whether orally or in writing or by visible representation which,\u2014",
+                                            "contains": {
+                                                "0": "(i) falsely represents that the goods are of a particular standard, quality, quantity, grade, composition, style or model;",
+                                                "1": "(ii) falsely represents that the services are of a particular standard, quality or grade;",
+                                                "2": "(iii) falsely represents any re-built, second-hand, renovated, reconditioned or old goods as new goods;",
+                                                "3": "(iv) represents that the goods or services have sponsorship, approval, performance, characteristics, accessories, uses or benefits which such goods or services do not have;",
+                                                "4": "(v) represents that the seller or the supplier has a sponsorship or approval or affiliation which such seller or supplier does not have;",
+                                                "5": "(vi) makes a false or misleading representation concerning the need for, or the usefulness of, any goods or services;",
+                                                "6": "(vii) gives to the public any warranty or guarantee of the performance, efficacy or length of life of a product or of any goods that is not based on an adequate or proper test thereof:",
+                                                "7": "Provided that where a defence is raised to the effect that such warranty or guarantee is based on adequate or proper test, the burden of proof of such defence shall lie on the person raising such defence;",
+                                                "8": {
+                                                    "text": "(viii) makes to the public a representation in a form that purports to be\u2014",
+                                                    "contains": {
+                                                        "0": "(i) a warranty or guarantee of a product or of any goods or services; or",
+                                                        "1": "(ii) a promise to replace, maintain or repair an article or any part thereof or to repeat or continue a service until it has achieved a specified result,"
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "1": {
+                                            "text": "if such purported warranty or guarantee or promise is materially misleading or if there is no reasonable prospect that such warranty, guarantee or promise will be carried out;",
+                                            "contains": {
+                                                "0": "(ix) materially misleads the public concerning the price at which a product or like products or goods or services, have been or are, ordinarily sold or provided, and, for this purpose, a representation as to price shall be deemed to refer to the price at which the product or goods or services has or have been sold by sellers or provided by suppliers generally in the relevant market unless it is clearly specified to be the price at which the product has been sold or services have been provided by the person by whom or on whose behalf the representation is made;",
+                                                "1": "(x) gives false or misleading facts disparaging the goods, services or trade of another person.",
+                                                "2": {
+                                                    "text": "Explanation.\u2014For the purposes of clause (1), a statement that is\u2014",
+                                                    "contains": {
+                                                        "0": "(a) expressed on an article offered or displayed for sale, or on its wrapper or container; or",
+                                                        "1": "(b) expressed on anything attached to, inserted in, or accompanying, an article offered or displayed for sale, or on anything on which the article is mounted for display or sale; or",
+                                                        "2": "(c) contained in or on anything that is sold, sent, delivered, transmitted or in any other manner whatsoever made available to a member of the public,"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "text": "shall be deemed to be a statement made to the public by, and only by, the person who had caused the statement to be so expressed, made or contained;",
+                            "contains": {
+                                "0": "(2) permits the publication of any advertisement whether in any newspaper or otherwise, for the sale or supply at a bargain price, of goods or services that are not intended to be offered for sale or supply at the bargain price, or for a period that is, and in quantities that are, reasonable, having regard to the nature of the market in which the business is carried on, the nature and size of business, and the nature of the advertisement.",
+                                "1": {
+                                    "text": "Explanation.\u2014For the purpose of clause (2), \u201cbargaining price\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(a) a price that is stated in any advertisement to be a bargain price, by reference to an ordinary price or otherwise, or",
+                                        "1": "(b) a price that a person who reads, hears or sees the advertisement, would reasonably understand to be a bargain price having regard to the prices at which the product advertised or like products are ordinarily sold;"
+                                    }
+                                },
+                                "2": {
+                                    "text": "(3) permits\u2014",
+                                    "contains": {
+                                        "0": "(a) the offering of gifts, prizes or other items with the intention of not providing them as offered or creating impression that something is being given or offered free of charge when it is fully or partly covered by the amount charged in the transaction as a whole;",
+                                        "1": "(b) the conduct of any contest, lottery, game of chance or skill, for the purpose of promoting, directly or indirectly, the sale, use or supply of any product or any business interest;"
+                                    }
+                                },
+                                "3": "1[(3A) withholding from the participants of any scheme offering gifts, prizes or other items free of charge, on its closure the information about final results of the scheme.",
+                                "4": "Explanation.\u2014For the purposes of this sub-clause, the participants of a scheme shall be deemed to have been informed of the final results of the scheme where such results are within a reasonable time published, prominently in the same newspapers in which the scheme was originally advertised];",
+                                "5": "(4) permits the sale or supply of goods intended to be used, or are of a kind likely to be used, by consumers, knowing or having reason to believe that the goods do not comply with the standards prescribed by competent authority relating to performance, composition contents, design, constructions, finishing or packaging as are necessary to prevent or reduce the risk of injury to the person using the goods;",
+                                "6": "(5) permits the hoarding or destruction of goods, or refuses to sell the goods or to make them available for sale or to provide any service, if such hoarding or destruction or refusal raises or tends to raise or is intended to raise, the cost of those or other similar goods or services];",
+                                "7": "1[(6) manufacture of spurious goods or offering such goods for sale or adopting deceptive practices in the provision of services.]",
+                                "8": "(2) Any reference in this Act to any other Act or provision thereof which is not in force in any area to which this Act applies shall be construed to have a reference to the corresponding Act or provision thereof in force in such area."
+                            }
+                        }
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Act not in derogation of any other law.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall be in addition to and not in derogation of the provisions of any other law for the time being in force."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "CONSUMER PROTECTION COUNCILS",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "The Central Consumer Protection Council.",
+                    "paragraphs": {
+                        "0": "(1) 2[The Central Government shall], by notification, establish with effect from such date as it may specify in such notification, a Council to be known as the Central Consumer Protection Council (hereinafter referred to as the Central Council).",
+                        "1": {
+                            "text": "(2) The Central Council shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the Minister in charge of 3[consumer affairs] in the Central Government, who shall be its Chairman, and",
+                                "1": "(b) such number of other official or non-official members representing such interests as may be prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Procedure for meetings of the Central Council.",
+                    "paragraphs": {
+                        "0": "(1) The Central Council shall meet as and when necessary, but 4[at least one meeting] of the Council shall be held every year.",
+                        "1": "(2) The Central Council shall meet at such time and place as the Chairman may think fit and shall observe such procedure in regard to the transaction of its business as may be prescribed."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Objects of the Central Council.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The objects of the Central Council shall be to promote and protect the rights of the consumers such as,\u2014",
+                            "contains": {
+                                "0": "(a) the right to be protected against the marketing of goods 5[and services] which are hazardous to to life and property;",
+                                "1": "(b) the right to be informed about the quality, quantity, potency, purity, standard and price of goods 5[or services, as the case may be,] so as to protect the consumer against unfair trade practices;",
+                                "2": "(c) the right to be assured, wherever possible, access to a variety of goods 1[and services] at competitive prices;",
+                                "3": "(d) the right to be heard and to be assured that consumers\u2019 interests will receive due consideration at appropriate forums;",
+                                "4": "(e) the right to seek redressal against unfair trade practices 1[or restrictive trade practices] or unscrupulous exploitation of consumers; and",
+                                "5": "(f) the right to consumer education."
+                            }
+                        }
+                    }
+                },
+                "Section 7.": {
+                    "heading": "The State Consumer Protection Councils.",
+                    "paragraphs": {
+                        "0": "(1) 2[The State Government shall], by notification, establish with effect from such date as it may specify in such notification, a Council to be known as the Consumer Protection Council for .......................(hereinafter referred to as the State Council).",
+                        "1": {
+                            "text": "3[(2) The State Council shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the Minister incharge of consumer affairs in the State Government who shall be its Chairman;",
+                                "1": "(b) such number of other official or non-official members representing such interests as may be prescribed by the State Governments;",
+                                "2": "4[(c) such number of other official or non-official members, not exceeding ten, as may be nominated by the Central Government.]"
+                            }
+                        },
+                        "2": "(3) The State Council shall meet as and when necessary but not less than two meetings shall be held every year.",
+                        "3": "(4) The State Council shall meet at such time and place as the Chairman may think fit and shall observe such procedure in regard to the transaction of its business as may be prescribed by the State Government.]"
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Objects of the State Council.",
+                    "paragraphs": {
+                        "0": "The objects of every State Council shall be to promote and protect within the State the rights of the consumers laid down in clauses (a) to (f) of section 6."
+                    }
+                },
+                "Section 8A.": {
+                    "heading": "The District Consumer Protection Council.",
+                    "paragraphs": {
+                        "0": "(1) The State Government shall establish for every district, by notification, a council to be known as the District Consumer Protection Council with effect from such date as it may specify in such notification.",
+                        "1": {
+                            "text": "(2) The District Consumer Protection Council (hereinafter referred to as the District Council) shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the Collector of the district (by whatever name called), who shall be its Chairman; and",
+                                "1": "(b) such number of other official and non-official members representing such interests as may be prescribed by the State Government."
+                            }
+                        },
+                        "2": "(3) The District Council shall meet as and when necessary but not less than two meetings shall be held every year.",
+                        "3": "(4) The District Council shall meet as such time and place within the district as the Chairman may think fit and shall observe such procedure in regard to the transaction of its business as may be prescribed by the State Government."
+                    }
+                },
+                "Section 8B.": {
+                    "heading": "Objects of the District Council.",
+                    "paragraphs": {
+                        "0": "The objects of every District Council shall be to promote and protect within the district the rights of the consumers laid down in clauses (a) to (f) of section 6.]"
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "CONSUMER DISPUTES REDRESSAL AGENCIES",
+            "Sections": {
+                "Section 9.": {
+                    "heading": "Establishment of Consumer Disputes Redressal Agencies.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "There shall be established for the purposes of this Act, the following agencies, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a Consumer Disputes Redressal Forum to be known as the \u201cDistrict Forum\u201d established by the State Government 1*** in each district of the State by notification:",
+                                "1": "2[Provided that the State Government may, if it deems fit, establish more than one District Forum in a district.]",
+                                "2": "(b) a Consumer Disputes Redressal Commission to be known as the \u201cState Commission\u201d established by the State Government 1*** in the State by notification; and",
+                                "3": "(c) a National Consumer Disputes Redressal Commission established by the Central Government by notification."
+                            }
+                        }
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Composition of the District Forum.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "3[(1) Each District Forum shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) a person who is, or has been, or is qualified to be a District Judge, who shall be its President;",
+                                "1": {
+                                    "text": "4[(b) two other members, one of whom shall be a woman, who shall have the following qualifications, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) be not less than thirty-five years of age,",
+                                        "1": "(ii) possesss a bachelor\u2019s degree from a recognised university,",
+                                        "2": "(iii) be persons of ability, integrity and standing, and have adequate knowledge and experience of at least ten years in dealing with problems relating to economics, law, commerce, accountancy, industry, public affairs or administration:",
+                                        "3": {
+                                            "text": "Provided that a persons shall be disqualified for appointment as a member, if he\u2014",
+                                            "contains": {
+                                                "0": "(a) has been convicted and sentenced to imprisonment for an offence which, in the opinion of the State Government, involves moral turpitude; or",
+                                                "1": "(b) is an undischarged insolvent; or",
+                                                "2": "(c) is of unsound mind and stands so declared by a competent court; or",
+                                                "3": "(d) has been removed or dismissed from the service of the Government or a body corporate owned or controlled by the Government; or",
+                                                "4": "(e) has, in the opinion of the State Government, such financial or other interest as is likely to affect prejudicially the discharge by him of his functions as a member; or",
+                                                "5": "(f) has such other disqualifications as may be prescribed by the State Government;]]"
+                                            }
+                                        }
+                                    }
+                                },
+                                "2": {
+                                    "text": "5[(1A) Every appointment under sub-section (1) shall be made by the State Government on the recommendation of a selection committee consisting of the following, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) President of the State Commission \u2014Chairman,",
+                                        "1": "(ii) Secretary, Law Department of the State \u2014Member,",
+                                        "2": "(iii) Secretary, incharge of the Department dealing with cunsumer affairs in the State \u2014Member:]"
+                                    }
+                                }
+                            }
+                        },
+                        "1": "6[Provided that where the President of the State Commission is, by reason of absence or otherwise, unable to act as Chairman of the Selection Committee, the State Government may refer the matter to the Chief Justice of the High Court for nominating a sitting Judge of that High Court to act as Chairman.]",
+                        "2": "1[(2) Every member of the District Forum shall hold office for a term of five years or up to the age of sixty-five years, whichever is earlier:",
+                        "3": "Provided that a member shall be eligible for re-appointment for another term of five years or up to the age of sixty-five years, whichever is earlier, subject to the condition that he fulfils the qualifications and other conditions for appointment mentioned in clause (b) of sub-section (1) and such re-appointment is also made on the basis of the recommendation of the Selection Committee:",
+                        "4": "Provided further that a member may resign his office in writing under his hand addressed to the State Government and on such resignation being accepted, his office shall become vacant and may be filled by appointment of a person possessing any of the qualifications mentioned in sub-section (1) in relation to the category of the member who is required to be appointed under the provisions of sub-section (1A) in place of the person who has resigned:",
+                        "5": "Provided also that a person appointed as the President or as a member, before the commencement of the Consumer Protection (Amendment) Act, 2002 (62 of 2002), shall continue to hold such office as President or member, as the case may be, till the completion of his term.]",
+                        "6": "(3) The salary or honorarium and other allowances payable to, and the other terms and conditions of service of the members of the District Forum shall be such as may be prescribed by the State Government:",
+                        "7": "2[Provided that the appointment of a member on whole-time basis shall be made by the State Government on the recommendation of the President of the State Commission taking into consideration such factors as may be prescribed including the work load of the District Forum.]"
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Jurisdiction of the District Forum.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the other provisions of this Act, the District Forum shall have jurisdiction to entertain complaints where the value of the goods or services and the compensation, if any, claimed 3[does not exceed rupees twenty lakhs].",
+                        "1": {
+                            "text": "(2) A complaint shall be instituted in a District Forum within the local limits of whose jurisdiction,\u2014",
+                            "contains": {
+                                "0": "(a) the opposite party or each of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides or 4[carries on business or has a branch office or] personally works for gain; or",
+                                "1": "(b) any of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides, or 5[carries on business or has a branch office], or personally works for gain, provided that in such case either the permission of the District Forum is given, or the opposite parties who do not reside, or 6[carry on business or have a branch office], or personally work for gain, as the case may be, acquiesce in such institution; or",
+                                "2": "(c) the cause of action, wholly or in part, arises."
+                            }
+                        }
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Manner in which complaint shall be made.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) A complaint in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided may be filed with a District Forum by\u2014",
+                            "contains": {
+                                "0": "(a) the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service provided or agreed to be provided;",
+                                "1": "(b) any recognised consumer association whether the consumer to whom the goods sold or delivered or agreed to be sold or delivered or service provided or agreed to be provided is a member of such association or not;",
+                                "2": "(c) one or more consumers, where there are numerous consumers having the same interest, with the permission of the District Forum, on behalf of, or for the benefit of, all consumers so interested; or",
+                                "3": "(d) the Central Government or the State Government, as the case may be, either in its individual capacity or as a representative of interests of the consumers in general."
+                            }
+                        },
+                        "1": "(2) Every complaint filed under sub-section (1) shall be accompanied with such amount of fee and payable in such manner as may be prescribed.",
+                        "2": "(3) On receipt of a complaint made under sub-section (1), the District Forum may, by order, allow the complaint to be proceeded with or rejected:",
+                        "3": "Provided that a complaint shall not be rejected under this sub-section unless an opportunity of being heard has been given to the complainant:",
+                        "4": "Provided further that the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was received.",
+                        "5": "(4) Where a complaint is allowed to be proceeded with under sub-section (3), the District Forum may proceed with the complaint in the manner provided under this Act:",
+                        "6": "Provided that where a complaint has been admitted by the District Forum, it shall not be transferred to any other court or tribunal or any authority set up by or under any other law for the time being in force.",
+                        "7": "Explanation.\u2014For the purposes of this section, \u201crecognised consumer association\u201d means any voluntary consumer association registered under the Companies Act, 1956 (1 of 1956) or any other law for the time being in force.]"
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Procedure on admission of complaint.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The District Forum shall, 2[on admission of a complaint], if it relates to any goods,\u2014",
+                            "contains": {
+                                "0": "3[(a) refer a copy of the admitted complaint, within twenty-one days from the date of its admission to the opposite party mentioned in the complaint directing him to give his version of the case within a period of thirty days or such extended period not exceeding fifteen days as may be granted by the District Forum;]",
+                                "1": "(b) where the opposite party on receipt of a complaint referred to him under clause (a) denies or disputes the allegations contained in the complaint, or omits or fails to take any action to represent his case within the time given by the District Forum, the District Forum shall proceed to settle the consumer dispute in the manner specified in clauses (c) to (g);",
+                                "2": "(c) where the complaint alleges a defect in the goods which cannot be determined without proper analysis or test of the goods, the District Forum shall obtain a sample of the goods from the complainant, seal it and authenticate it in the manner prescribed and refer the sample so sealed to the appropriate laboratory along with a direction that such laboratory make an analysis or test, whichever may be necessary, with a view to finding out whether such goods suffer from any defect alleged in the complaint or from any other defect and to report its findings thereon to the District Forum within a period of forty-five days of the receipt of the reference or within such extended period as may be granted by the District Forum;",
+                                "3": "(d) before any sample of the goods is referred to any appropriate laboratory under clause (c), the District Forum may require the complainant to deposit to the credit of the Forum such fees as may be specified, for payment to the appropriate laboratory for carrying out the necessary analysis or test in relation to the goods in question;",
+                                "4": "(e) the District Forum shall remit the amount deposited to its credit under clause (d) to the appropriate laboratory to enable it to carry out the analysis or test mentioned in clause (c) and on receipt of the report from the appropriate laboratory, the District Forum shall forward a copy of the report along with such remarks as the District Forum may feel appropriate to the opposite party;",
+                                "5": "(f) if any of the parties disputes the correctness of the findings of the appropriate laboratory, or disputes the correctness of the methods of analysis or test adopted by the appropriate laboratory, the District Forum shall require the opposite party or the complainant to submit in writing his objections in regard to the report made by the appropriate laboratory;",
+                                "6": "(g) the District Forum shall thereafter give a reasonable opportunity to the complainant as well as the opposite party of being heard as to the correctness or otherwise of the report made by the appropriate laboratory and also as to the objection made in relation thereto under clause (f) and issue an appropriate order under section 14."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) The District Forum shall, if the 1[complaints admitted] by it under section 12 relates to goods in respect of which the procedure specified in sub-section (1) cannot be followed, or if the complaint relates to any services,\u2014",
+                            "contains": {
+                                "0": "(a) refer a copy of such complaint to the opposite party directing him to give his version of the case within a period of thirty days or such extended period not exceeding fifteen days as may be granted by the District Forum;",
+                                "1": {
+                                    "text": "(b) where the opposite party, on receipt of a copy of the complaint, referred to him under clause (a) denies or disputes the allegations contained in the complaint, or omits or fails to take any action to represent his case within the time given by the District Forum, the District Forum shall proceed to settle the consumer dispute,\u2014",
+                                    "contains": {
+                                        "0": "(i) on the basis of evidence brought to its notice by the complainant and the opposite party, where the opposite party denies or disputes the allegations contained in the complaint, or",
+                                        "1": "(ii) 2[ex parte on the basis of evidence] brought to its notice by the complainant where the opposite party omits or fails to take any action to represent his case within the time given by the Forum."
+                                    }
+                                },
+                                "2": "3[(c) where the complainant fails to appear on the date of hearing before the District Forum, the District Forum may either dismiss the complaint for default or decide it on merits.]"
+                            }
+                        },
+                        "2": "(3) No proceedings complying with the procedure laid down in sub-sections (1) and (2) shall be called in question in any court on the ground that the principles of natural justice have not been complied with.",
+                        "3": "3[(3A) Every complaint shall be heard as expeditiously as possible and endeavour shall be made to decide the complaint within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities and within five months, if it requires analysis or testing of commodities:",
+                        "4": "Provided that no adjournment shall be ordinarily granted by the District Forum unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by the Forum:",
+                        "5": "Provided further that the District Forum shall make such orders as to the costs occasioned by the adjournment as may be provided in the regulations made under this Act:",
+                        "6": "Provided also that in the event of a complaint being disposed of after the period so specified, the District Forum shall record in writing, the reasons for the same at the time of disposing of the said complaint.",
+                        "7": "(3B) Where during the pendency of any proceeding before the District Forum, it appears to it necessary, it may pass such interim order as is just and proper in the facts and circumstances of the case.]",
+                        "8": {
+                            "text": "(4) For the purposes of this section, the District Forum shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(i) the summoning and enforcing the attendance of any defendant or witness and examining the witness on oath;",
+                                "1": "(ii) the discovery and production of any document or other material object producible as evidence;",
+                                "2": "(iii) the reception of evidence on affidavits;",
+                                "3": "(iv) the requisitioning of the report of the concerned analysis or test from the appropriate laboratory or from any other relevant source;",
+                                "4": "(v) issuing of any commission for the examination of any witness; and",
+                                "5": "(vi) any other matter which may be prescribed."
+                            }
+                        },
+                        "9": "(5) Every proceeding before the District Forum shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860), and the District Forum shall be deemed to be a civil court for the purposes of section 195, and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).",
+                        "10": "1[(6) Where the complainant is a consumer referred to in sub-clause (iv) of clause (b) of sub-section (1) of section 2, the provisions of rule 8 of Order I of the First Schedule to the Code of Civil Procedure, 1908 (5 of 1908) shall apply subject to the modification that every reference therein to a suit or decree shall be construed as a reference to a complaint or the order of the District Forum thereon.]",
+                        "11": "2[(7) In the event of death of a complainant who is a consumer or of the opposite party against whom the complaint has been filed, the provisions of Order XXII of the First Scheduled to the Code of Civil Procedure, 1908 (5 of 1908) shall apply subject to the modification that every reference therein to the plaintiff and the defendant shall be construed as reference to a complainant or the opposite party, as the case may be.]"
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Finding of the District Forum.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) If, after the proceeding conducted under section 13, the District Forum is satisfied that the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about the services are proved, it shall issue an order to the opposite party directing him to 3[do] one or more of the following things, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to remove the defect pointed out by the appropriate laboratory from the goods in question;",
+                                "1": "(b) to replace the goods with new goods of similar description which shall be free from any defect;",
+                                "2": "(c) to return to the complainant the price, or, as the case may be, the charges paid by the complainant;",
+                                "3": "(d) to pay such amount as may be awarded by it as compensation to the consumer for any loss or injury suffered by the consumer due to the negligence of the opposite party:",
+                                "4": "4[Provided that the District Forum shall have the power to grant punitive damages in such circumstances as it deems fit;]",
+                                "5": "5[(e) to 6[remove the defects in goods] or deficiencies in the services in question;",
+                                "6": "(f) to discontinue the unfair trade practice or the restrictive trade practice or not to repeat them;",
+                                "7": "(g) not to offer the hazardous goods for sale;",
+                                "8": "(h) to withdraw the hazardous goods from being offered for sale;",
+                                "9": "1[(ha) to cease manufacture of hazardous goods and to desist from offering services which are hazardous in nature;",
+                                "10": "(hb) to pay such sum as may be determined by it, if it is of the opinion that loss or injury has been suffered by a large number of consumers who are not identifiable conveniently:",
+                                "11": "Provided that the minimum amount of sum so payable shall not be less than five per cent. of the value of such defective goods sold or services provided, as the case may be, to such consumers:",
+                                "12": "Provided further that the amount so obtained shall be credited in favour of such person and utilized in such manner as may be prescribed;",
+                                "13": "(hc) to issue corrective advertisement to neutralize the effect of misleading advertisement at the cost of the opposite party responsible for issuing such misleading advertisement;]",
+                                "14": "(i) to provide for adequate costs to parties.]"
+                            }
+                        },
+                        "1": "2[(2) Every proceeding referred to in sub-section (1) shall be conducted by the President of the District Forum and at least one member thereof sitting together:",
+                        "2": "3[Provided that where a member, for any reason, is unable to conduct a proceeding till it is completed, the President and the other member shall continue the proceeding from the stage at which it was last heard by the previous member.]",
+                        "3": "(2A) Every order made by the District Forum under sub-section (1) shall be signed by its President and the member or members who conducted the proceeding:",
+                        "4": "Provided that where the proceeding is conducted by the President and one member and they differ on any point or points, they shall state the point or points on which they differ and refer the same to the other member for hearing on such point or points and the opinion of the majority shall be the order of the District Forum.]",
+                        "5": "(3) Subject to the foregoing provisions, the procedure relating to the conduct of the meetings of the District Forum, its sittings and other matters shall be such as may be prescribed by the State Government."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Appeal.",
+                    "paragraphs": {
+                        "0": "Any person aggrieved by an order made by the District Forum may prefer an appeal against such order to the State Commission within a period of thirty days from the date of the order, in such form and manner as may be prescribed:",
+                        "1": "Provided that the State Commission may entertain an appeal after the expiry of the said period of thirty days if it is satisfied that there was sufficient cause for not filing it within that period:",
+                        "2": "4[Provided further that no appeal by a person, who is required to pay any amount in terms of an order of the District Forum, shall be entertained by the State Commission unless the appellant has deposited in the prescribed manner fifty per cent. of that amount or twenty-five thousand rupees, whichever is less.]"
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Composition of the State Commission.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Each State Commission shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) a person who is or has been a Judge of a High Court, appointed by the State Government, who shall be its President:"
+                            }
+                        },
+                        "1": {
+                            "text": "5[Provided that no appointment under this clause shall be made except after consultation with the Chief Justice of the High Court;]",
+                            "contains": {
+                                "0": {
+                                    "text": "1[(b) not less than two, and not more than such number of members, as may be prescribed, and one of whom shall be a woman, who shall have the following qualifications, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) be not less than thirty-five years of age;",
+                                        "1": "(ii) possess a bachelor\u2019s degree from a recognised university; and",
+                                        "2": "(iii) be persons of ability, integrity and standing, and have adequate knowledge and experience of at least ten years in dealing with problems relating to economics, law, commerce, accountancy, industry, public affairs or administration:"
+                                    }
+                                }
+                            }
+                        },
+                        "2": "Provided that not more than fifty per cent. of the members shall be from amongst persons having a judicial background.",
+                        "3": "Explanation.\u2014For the purposes of this clause, the expression \u201cpersons having a judicial background\u201d shall mean persons having knowledge and experience for at least a period of ten years as a presiding officer at the district level court or any tribunal at equivalent level:",
+                        "4": {
+                            "text": "Provided further that a person shall be disqualified for appointment as a member, if he\u2014",
+                            "contains": {
+                                "0": "(a) has been convicted and sentenced to imprisonment for an offence which, in the opinion of the State Government, involves moral turpitude; or",
+                                "1": "(b) is an undischarged insolvent; or",
+                                "2": "(c) is of unsound mind and stands so declared by a competent court; or",
+                                "3": "(d) has been removed or dismissed from the service of the Government or a body corporate owned or controlled by the Government; or",
+                                "4": "(e) has, in the opinion of the State Government, such financial or other interest, as is likely to affect prejudicially the discharge by him of his functions as a member; or",
+                                "5": "(f) has such other disqualifications as may be prescribed by the State Government.]"
+                            }
+                        },
+                        "5": {
+                            "text": "2[(1A) Every appointment under sub-section (1) shall be made by the State Government on the recommendation of a Selection Committee consisting of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(i) President of the State Commission \u2014 Chairman;",
+                                "1": "(ii) Secretary of the Law Department \u2014 Member; of the State",
+                                "2": "(iii) Secretary incharge of \u2014 Member: the Department dealing with Consumer Affairs in the State"
+                            }
+                        },
+                        "6": "Provided that where the President of the State Commission is, by reason of absence or otherwise, unable to act as Chairman of the Selection Committee, the State Government may refer the matter to the Chief Justice of the High Court for nominating a sitting Judge of that High Court to act as Chairman.",
+                        "7": "(1B) (i) The jurisdiction, powers and authority of the State Commission may be exercised by Benches thereof.",
+                        "8": "(ii) A Bench may be constituted by the President with one or more members as the President may deem fit.",
+                        "9": "(iii) If the members of a Bench differ in opinion on any point, the points shall be decided according to the opinion of the majority, if there is a majority, but if the members are equally divided, they shall state the point or points on which they differ, and make a reference to the President who shall either hear the point or points himself or refer the case for hearing on such point or points by one or more or the other members and such point or points shall be decided according to the opinion of the majority of the members who have heard the case, including those who first heard it.]",
+                        "10": "(2) The salary or honorarium and other allowances payable to, and the other terms and conditions of service 1*** of, the members of the State Commission shall be such as may be prescribed by the State Government:",
+                        "11": "2[Provided that the appointment of a member on whole-time basis shall be made by the State Government on the recommendation of the President of the State Commission taking into consideration such factors as may be prescribed including the work load of the State Commission.]",
+                        "12": "3[(3) Every member of the State Commission shall hold office for a term of five years or up to the age of sixty-seven years, whichever is earlier:",
+                        "13": "Provided that a member shall be eligible for re-appointment for another term of five years or up to the age of sixty-seven years, whichever is earlier, subject to the condition that he fulfils the qualifications and other conditions for appointment mentioned in clause (b) of sub-section (1) and such re-appointment is made on the basis of the recommendation of the Selection Committee:",
+                        "14": "Provided further that a person appointed as a President of the State Commission shall also be eligible for re-appointment in the manner provided in clause (a) of sub-section (1) of this section:",
+                        "15": "Provided also that a member may resign his office in writing under his hand addressed to the State Government and on such resignation being accepted, his office shall become vacant and may be filled by appointment of a person possessing any of the qualifications mentioned in sub-section (1) in relation to the category of the member who is required to be appointed under the provisions of sub-section (1A) in place of the person who has resigned.",
+                        "16": "(4) Notwithstanding anything contained in sub-section (3), a person appointed as the President or as a member, before the commencement of the Consumer Protection (Amendment) Act, 2002 (62 of 2002), shall continue to hold such office as President or member, as the case may be, till the completion of his term.]"
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Jurisdiction of the State Commission.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "4[(1)] Subject to the other provisions of this Act, the State Commission shall have jurisdiction\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) to entertain\u2014",
+                                    "contains": {
+                                        "0": "(i) complaints where the value of the goods or services and compensation, if any, claimed 5[exceeds rupees twenty lakhs but does not exceed rupees one crore]; and",
+                                        "1": "(ii) appeals against the orders of any District Forum within the State; and"
+                                    }
+                                },
+                                "1": "(b) to call for the records and pass appropriate orders in any consumer dispute which is pending before or has been decided by any District Forum within the State, where it appears to the State Commission that such District Forum has exercised a jurisdiction not vested in it by law, or has failed to exercise a jurisdiction so vested or has acted in exercise of its jurisdiction illegally or with material irregularity."
+                            }
+                        },
+                        "1": {
+                            "text": "6[(2) A complaint shall be instituted in a State Commission within the limits of whose jurisdiction,\u2014",
+                            "contains": {
+                                "0": "(a) the opposite party or each of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides or carries on business or has a branch office or personally works for gain; or",
+                                "1": "(b) any of the opposite parties, where there are more than one, at the time of the institution of the complaint, actually and voluntarily resides, or carries on business or has a branch office or personally works for gain, provided that in such case either the permission of the State Commission is given or the opposite parties who do not reside or carry on business or have a branch office or personally works for gain, as the case may be, acquiesce in such institution; or",
+                                "2": "(c) the cause of action, wholly or in part, arises.]"
+                            }
+                        }
+                    }
+                },
+                "Section 17A.": {
+                    "heading": "Transfer of cases.",
+                    "paragraphs": {
+                        "0": "On the application of the complainant or of its own motion, the State Commission may, at any stage of the proceeding, transfer any complaint pending before the District Forum to another District Forum within the State if the interest of justice so requires."
+                    }
+                },
+                "Section 17B.": {
+                    "heading": "Circuit Benches.",
+                    "paragraphs": {
+                        "0": "The State Commission shall ordinarily function in the State Capital but may perform its functions at such other place as the State Government may, in consultation with the State Commission, notify in the Official Gazette, from time to time.]"
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Procedure applicable to State Commissions.",
+                    "paragraphs": {
+                        "0": "2[The provisions of sections 12, 13 and 14 and the rules made thereunder] for the disposal of complaints by the District Forum shall, with such modifications as may be necessary, be applicable to the disposal of disputes by the State Commission."
+                    }
+                },
+                "Section 18A.": {
+                    "heading": "[Omitted.]",
+                    "paragraphs": {
+                        "0": "[Vacancy in the office of the President.]\u2014Omitted by the Consumer Protection (Amendment) Act, 2002 (62 of 2002), s. 15 (w.e.f. 15-3-2003)."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Appeals.",
+                    "paragraphs": {
+                        "0": "Any person aggrieved by an order made by the State Commission in exercise of its powers conferred by sub-clause (i) of clause (a) of section 17 may prefer an appeal against such order to the National Commission within a period of thirty days from the date of the order in such form and manner as may be prescribed:",
+                        "1": "Provided that the National Commission may entertain an appeal after the expiry of the said period of thirty days if it is satisfied that there was sufficient cause for not filing it within that period:",
+                        "2": "3[Provided further that no appeal by a person, who is required to pay any amount in terms of an order of the State Commission, shall be entertained by the National Commission unless the appellant has deposited in the prescribed manner fifty per cent. of the amount or rupees thirty-five thousand, whichever is less.]"
+                    }
+                },
+                "Section 19A.": {
+                    "heading": "Hearing of appeal.",
+                    "paragraphs": {
+                        "0": "An appeal filed before the State Commission or the National Commission shall be heard as expeditiously as possible and an endeavour shall be made to finally dispose of the appeal within a period of ninety days from the date of its admission:",
+                        "1": "Provided that no adjournment shall be ordinarily granted by the State Commission or the National Commission, as the case may be, unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by such Commission:",
+                        "2": "Provided further that the State Commission or the National Commission, as the case may be, shall make such orders as to the costs occasioned by the adjournment as may be provided in the regulations made under this Act:",
+                        "3": "Provided also that in the event of an appeal being disposed of after the period so specified, the State Commission or the National Commission, as the case may be, shall record in writing the reasons for the same at the time of disposing of the said appeal.]"
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Composition of the National Commission.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The National Commission shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) a person who is or has been a Judge of the Supreme Court, to be appointed by the Central Government, who shall be its President:",
+                                "1": "5[Provided that no appointment under this clause shall be made except after consultation with the Chief Justice of India;]",
+                                "2": {
+                                    "text": "1[(b) not less than four, and not more than such number of members, as may be prescribed, and one of whom shall be a woman, who shall have the following qualifications, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) be not less than thirty-five years of age;",
+                                        "1": "(ii) possess a bachelor\u2019s degree from a recognised university; and",
+                                        "2": "(iii) be persons of ability, integrity and standing and have adequate knowledge and experience of at least ten years in dealing with problems relating to economics, law, commerce, accountancy, industry, public affairs or administration:"
+                                    }
+                                },
+                                "3": "Provided that not more than fifty per cent. of the members shall be from amongst the persons having a judicial background."
+                            }
+                        },
+                        "1": "Explanation.\u2014For the purposes of this clause, the expression \u201cpersons having judicial background\u201d shall mean persons having knowledge and experience for at least a period of ten years as a presiding officer at the district level court or any tribunal at equivalent level:",
+                        "2": {
+                            "text": "Provided further that a person shall be disqualified for appointment, if he\u2014",
+                            "contains": {
+                                "0": "(a) has been convicted and sentenced to imprisonment for an offence which, in the opinion of the Central Government, involves moral turpitude; or",
+                                "1": "(b) is an undischarged insolvent; or",
+                                "2": "(c) is of unsound mind and stands so declared by a competent court; or",
+                                "3": "(d) has been removed or dismissed from the service of the Government or a body corporate owned or controlled by the Government; or",
+                                "4": "(e) has, in the opinion of the Central Government, such financial or other interest as is likely to affect prejudicially the discharge by him of his functions as a member; or",
+                                "5": "(f) has such other disqualifications as may be prescribed by the Central Government:"
+                            }
+                        },
+                        "3": {
+                            "text": "Provided also that every appointment under this clause shall be made by the Central Government on the recommendation of a Selection Committee consisting of the following, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a person who is a Judge of the \u2014Chairman; Supreme Court, to be nominated by the Chief Justice of India",
+                                "1": "(b) the Secretary in the Department \u2014Member; of Legal Affairs in the Government of India",
+                                "2": "(c) Secretary of the Department \u2014Member.] dealing with Consumer Affairs in the Government of India"
+                            }
+                        },
+                        "4": "2[(1A) (i) The jurisdiction, powers and authority of the National Commission may be exercised by Benches thereof.",
+                        "5": "(ii) A Bench may be constituted by the President with one or more members as the President may deem fit.",
+                        "6": "(iii) If the members of a Bench differ in opinion on any point, the points shall be decided according to the opinion of the majority, if there is a majority, but if the members are equally divided, they shall state the point or points on which they differ, and make a reference to the President who shall either hear the point or points himself or refer the case for hearing on such point or points by one or more or the other members and such point or points shall be decided according to the opinion of the majority of the members who have heard the case, including those who first heard it.]",
+                        "7": "(2) The salary or honorarium and other allowances payable to and the other terms and conditions of service 1*** of the members of the National Commission shall be such as may be prescribed by the Central Government.",
+                        "8": "2[(3) Every member of the National Commission shall hold office for a term of five years or up to the age of seventy years, whichever is earlier:",
+                        "9": "Provided that a member shall be eligible for re-appointment for another term of five years or up to the age of seventy years, whichever is earlier, subject to the condition that he fulfils the qualifications and other conditions for appointment mentioned in clause (b) of sub-section (1) and such re-appointment is made on the basis of the recommendation of the Selection Committee:",
+                        "10": "Provided further that a person appointed as a President of the National Commission shall also be eligible for re-appointment in the manner provided in clause (a) of sub-section (1):",
+                        "11": "Provided also that a member may resign his office in writing under his hand addressed to the Central Government and on such resignation being accepted, his office shall become vacant and may be filled by appointment of a person possessing any of the qualifications mentioned in sub-section (1) in relation to the category of the member who is required to be appointed under the provisions of sub-section (1A) in place of the person who has resigned.",
+                        "12": "(4) Notwithstanding anything contained in sub-section (3), a person appointed as a President or as a member before the commencement of the Consumer Protection (Amendment) Act, 2002 (62 of 2002) shall continue to hold such office as President or member, as the case may be, till the completion of his term.]"
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Jurisdiction of the National Commission.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the other provisions of this Act, the National Commission shall have jurisdiction\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) to entertain\u2014",
+                                    "contains": {
+                                        "0": "(i) complaints where the value of the goods or services and compensation, if any, claimed exceeds 3[rupees one crore]; and",
+                                        "1": "(ii) appeals against the orders of any State Commission; and"
+                                    }
+                                },
+                                "1": "(b) to call for the records and pass appropriate orders in any consumer dispute which is pending before or has been decided by any State Commission where it appears to the National Commission that such State Commission has exercised a jurisdiction not vested in it by law, or has failed to exercise a jurisdiction so vested, or has acted in the exercise of its jurisdiction illegally or with material irregularity."
+                            }
+                        }
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Power and procedure applicable to the National Commission.",
+                    "paragraphs": {
+                        "0": "(1) The provisions of sections 12, 13 and 14 and the rules made thereunder for the disposal of complaints by the District Forum shall, with such modifications as may be considered necessary by the Commission, be applicable to the disposal of disputes by the National Commission.",
+                        "1": "(2) Without prejudice to the provisions contained in sub-section (1), the National Commission shall have the power to review any order made by it, when there is an error apparent on the face of record."
+                    }
+                },
+                "Section 22A.": {
+                    "heading": "Power to set aside ex parte orders.",
+                    "paragraphs": {
+                        "0": "Where an order is passed by the National Commission ex parte against the opposite party or a complainant, as the case may be, the aggrieved party may apply to the Commission to set aside the said order in the interest of justice."
+                    }
+                },
+                "Section 22B.": {
+                    "heading": "Transfer of cases.",
+                    "paragraphs": {
+                        "0": "On the application of the complainant or of its own motion, the National Commission may, at any stage of the proceeding, in the interest of justice, transfer any complaint pending before the District Forum of one State to a District Forum of another State or before one State Commission to another State Commission."
+                    }
+                },
+                "Section 22C.": {
+                    "heading": "Circuit Benches.",
+                    "paragraphs": {
+                        "0": "The National Commission shall ordinarily function at New Delhi and perform its functions at such other place as the Central Government may, in consultation with the National Commission, notify in the Official Gazette, from time to time."
+                    }
+                },
+                "Section 22D.": {
+                    "heading": "Vacancy in the office of the President.",
+                    "paragraphs": {
+                        "0": "When the office of President of a District Forum, State Commission, or of the National Commission, as the case may be, is vacant or a person occupying such office is, by reason of absence or otherwise, unable to perform the duties of his office, these shall be performed by the senior-most member of the District Forum, the State Commission or of the National Commission, as the case may be:",
+                        "1": "Provided that where a retired Judge of a High Court is a member of the National Commission, such member or where the number of such members is more than one, the senior-most person amongst such members, shall preside over the National Commission in the absence of President of that Commission.]"
+                    }
+                },
+                "Section 22E.": {
+                    "heading": "Qualifications, terms and conditions of service of President and Member.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in this Act, the qualifications, appointment, term of office, salaries and allowances, resignation, removal and the other terms and conditions of service of the President and other members of the National Commission appointed after the commencement of Part XIV of Chapter VI of the Finance Act, 2017 (7 of 2017), shall be governed by the provisions of section 184 of that Act:",
+                        "1": "Provided that the President and member appointed before the commencement of Part XIV of Chapter VI of the Finance Act, 2017, shall continue to be governed by the provisions of this Act, and the rules made thereunder as if the provisions of section 184 of the Finance Act, 2017 had not come into force.]"
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Appeal.",
+                    "paragraphs": {
+                        "0": "Any person, aggrieved by an order made by the National Commission in exercise of its powers conferred by sub-clause (i) of clause (a) of section 21, may prefer an appeal against such order to the Supreme Court within a period of thirty days from the date of the order:",
+                        "1": "Provided that the Supreme Court may entertain an appeal after the expiry of the said period of thirty days if it is satisfied that there was sufficient cause for not filing it within that period:",
+                        "2": "2[Provided further that no appeal by a person who is required to pay any amount in terms of an order of the National Commission shall be entertained by the Supreme Court unless that person has deposited in the prescribed manner fifty per cent. of that amount or rupees fifty thousand, whichever is less.]"
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Finality of orders.",
+                    "paragraphs": {
+                        "0": "Every order of a District Forum, the State Commission or the National Commission shall, if no appeal has been preferred against such order under the provisions of this Act, be final."
+                    }
+                },
+                "Section 24A.": {
+                    "heading": "Limitation period.",
+                    "paragraphs": {
+                        "0": "(1) The District Forum, the State Commission or the National Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen.",
+                        "1": "(2) Notwithstanding anything contained in sub-section (1), a complaint may be entertained after the period specified in sub-section (1), if the complainant satisfies the District Forum, the State Commission or the National Commission, as the case may be, that he had sufficient cause for not filing the complaint as this such period:",
+                        "2": "Provided that no such complaint shall be entertained unless the National Commission, the State Commission or the District Forum, as the case may be, records its reasons for condoning such delay."
+                    }
+                },
+                "Section 24B.": {
+                    "heading": "Administrative control.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The National Commission shall have administrative control over all the State Commissions in the following matters, namely:\u2014 (i) calling for periodical returns regarding the institution, disposal, pendency of cases;",
+                            "contains": {
+                                "0": "(ii) issuance of instructions regarding adoption of uniform procedure in the hearing of matters, prior service of copies of documents produced by one party to the opposite parties, furnishing of English translation of judgments written in any language, speedy grant of copies of documents;",
+                                "1": "(iii) generally overseeing the functioning of the State Commissions or the District Fora to ensure that the objects and purposes of the Act are best served without in any way interfering with their quasi-judicial freedom."
+                            }
+                        },
+                        "1": "(2) The State Commission shall have administrative control over all the District Fora within its jurisdiction in all matters referred to in sub-section (1).]"
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Enforcement of orders of the District Forum, the State Commission or the National Commission.",
+                    "paragraphs": {
+                        "0": "(1) Where an interim order made under this Act is not complied with, the District Forum or the State Commission or the National Commission, as the case may be, may order the property of the person, not complying with such order to be attached.",
+                        "1": "(2) No attachment made under sub-section (1) shall remain in force for more than three months at the end of which, if the non-compliance continues, the property attached may be sold and out of the proceeds thereof, the District Forum or the State Commission or the National Commission may award such damages as it thinks fit to the complainant and shall pay the balance, if any, to the party entitled thereto.",
+                        "2": "(3) Where any amount is due from any person under an order made by a District Forum, State Commission or the National Commission, as the case may be, the person entitled to the amount may make an application to the District Forum, the State Commission or the National Commission, as the case may be, and such District Forum or the State Commission or the National Commission may issue a certificate for the said amount to the Collector of the district (by whatever name called) and the Collector shall proceed to recover the amount in the same manner as arrears of land revenue.]"
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Dismissal of frivolous or vexatious complaints.",
+                    "paragraphs": {
+                        "0": "Where a complaint instituted before the District Forum, the State Commission or, as the case may be, the National Commission is found to be frivolous or vexatious, it shall, for reasons to be recorded in writing, dismiss the complaint and make an order that the complainant shall pay to the opposite party such cost, not exceeding ten thousand rupees, as may be specified in the order.]"
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Penalties.",
+                    "paragraphs": {
+                        "0": "3[(1)] Where a trader or a person against whom a complaint is made 4[or the complainant] fails or omits to comply with any order made by the District Forum, the State Commission or the National Commission, as the case may be, such trader or person 4[or complainant] shall be punishable with imprisonment for a term which shall not be less than one month but which may extend to three years, or with fine which shall not be less than two thousand rupees but which may extend to ten thousand rupees, or with both:",
+                        "1": "5* * * * *.",
+                        "2": "6[(2) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), the District Forum or the State Commission or the National Commission, as the case may be, shall have the power of a Judicial Magistrate of the first class for the trial of offences under this Act, and on such conferment of powers, the District Forum or the State Commission or the National Commission, as the case may be, on whom the powers are so conferred, shall be deemed to be a Judicial Magistrate of the first class for the purpose of the Code of Criminal Procedure, 1973 (2 of 1974).",
+                        "3": "(3) All offences under this Act may be tried summarily by the District Forum or the State Commission or the National Commission, as the case may be.]"
+                    }
+                },
+                "Section 27A.": {
+                    "heading": "Appeal against order passed under section 27.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Notwithstanding anything contained in the Code of Criminal Procedure 1973 (2 of 1974), an appeal under section 27, both on facts and on law, shall lie from\u2014",
+                            "contains": {
+                                "0": "(a) the order made by the District Forum to the State Commission;",
+                                "1": "(b) the order made by the State Commission to the National Commission; and",
+                                "2": "(c) the order made by the National Commission to the Supreme Court."
+                            }
+                        },
+                        "1": "(2) Except as aforesaid, no appeal shall lie to any court from any order of a District Forum or a State Commission or the National Commission.",
+                        "2": "(3) Every appeal under this section shall be preferred within a period of thirty days from the date of an order of a District Forum or a State Commission or, as the case may be, the National Commission:",
+                        "3": "Provided that the State Commission or the National Commission or the Supreme Court, as the case may be, may entertain an appeal after the expiry of the said period of thirty days, if, it is satisfied that the appellant had sufficient cause for not preferring the appeal within the period of thirty days.]"
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 28.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceedings shall lie against the members of the District Forum, the State Commission or the National Commission or any officer or person acting under the direction of the District Forum, the State Commission or the National Commission for executing any order made by it or in respect of anything which is in good faith done or intended to be done by such member, officer or person under this Act or under any rule or order made thereunder."
+                    }
+                },
+                "Section 28A.": {
+                    "heading": "Service of notice, etc.",
+                    "paragraphs": {
+                        "0": "(1) All notices, required by this Act to be served, shall be served in the manner hereinafter mentioned in sub-section (2).",
+                        "1": "(2) The service of notices may be made by delivering or transmitting a copy thereof by registered post acknowledgment due addressed to opposite party against whom complaint is made or to the complainant by speed post or by such courier service as are approved by the District Forum, the State Commission or the National Commission, as the case may be, or by any other means of transmission of documents (including FAX message).",
+                        "2": "(3) When an acknowledgment or any other receipt purporting to be signed by the opposite party or his agent or by the complainant is received by the District Forum, the State Commission or the National Commission, as the case may be, or postal article containing the notice is received back by such District Forum, State Commission or the National Commission, with an endorsement purporting to have been made by a postal employee or by any person authorised by the courier service to the effect that the opposite party or his agent or complainant had refused to take delivery of the postal article containing the notice or had refused to accept the notice by any other means specified in sub-section (2) when tendered or transmitted to him, the District Forum or the State Commission or the National Commission, as the case may be, shall declare that the notice had been duly served on the opposite party or to the complainant:",
+                        "3": "Provided that where the notice was properly addressed, pre-paid and duly sent by registered post acknowledgment due, a declaration referred to in this sub-section shall be made notwithstanding the fact that the acknowledgment has been lost or mislaid, or for any other reason, has not been received by the District Forum, the State Commission or the National Commission, as the case may be, within thirty days from the date of issue of notice.",
+                        "4": "(4) All notices required to be served on an opposite party or to complainant shall be deemed to be sufficiently served, if addressed in the case of the opposite party to the place where business or profession is carried and in case of complainant, the place where such person actually and voluntarily resides.]"
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as appear to it to be necessary or expedient for removing the difficulty:",
+                        "1": "Provided that no such order shall be made after the expiry of a period of two years from the commencement of this Act.",
+                        "2": "(2) Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament.",
+                        "3": "1[(3) If any difficulty arises in giving effect to the provisions of the Consumer Protection (Amendment) Act, 2002 (62 of 2002), the Central Government may, by order, do anything not inconsistent with such provisions for the purpose of removing the difficulty:",
+                        "4": "Provided that no such order shall be made after the expiry of a period of two years from the commencement of the Consumer Protection (Amendment) Act, 2002 (62 of 2002).",
+                        "5": "(4) Every order made under sub-section (3) shall be laid before each House of Parliament.]"
+                    }
+                },
+                "Section 29A.": {
+                    "heading": "Vacancies or defects in appointment not to invalidate orders.",
+                    "paragraphs": {
+                        "0": "No act or proceeding of the District Forum, the State Commission or the National Commission shall be invalid by reason only of the existence of any vacancy amongst its members or any defect in the constitution thereof.]"
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules for carrying out the provisions contained in clause (a) of sub-section (1) of section 2, clause (b) of sub-section (2) of section 4, sub-section (2) of section 5, sub-section (2) of section 12, clause (vi) of sub-section (4) of section 13, clause (hb) of sub-section (1) of section 14, section 19, clause (b) of sub-section (1) and sub-section (2) of section 20, section 22 and section 23 of this Act.",
+                        "1": "(2) The State Government may, by notification, make rules for carrying out the provisions contained in clause (b) of sub-section (2) and sub-section (4) of section 7, clause (b) of sub-section (2) and sub-section (4) of section 8A, clause (b) of sub-section (1) and sub-section (3) of section 10, clause (c) of sub-section (1) of section 13, clause (hb) of sub-section (1) and subsection (3) of section 14, section 15 and clause (b) of sub-section (1) and sub-section (2) of section 16 of this Act.]"
+                    }
+                },
+                "Section 30A.": {
+                    "heading": "Power of the National Commission to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The National Commission may, with the previous approval of the Central Government, by notification, make regulations not inconsistent with this Act to provide for all matters for which provision is necessary or expedient for the purpose of giving effect to the provisions of this Act.",
+                        "1": "(2) In particular and without prejudice to the generality of the foregoing power, such regulations may make provisions for the cost of adjournment of any proceeding before the District Forum, the State Commission or the National Commission, as the case may be, which a party may be ordered to pay.]"
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Rules and regulations to be laid before each House of Parliament.",
+                    "paragraphs": {
+                        "0": "(1) Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.",
+                        "1": "(2) Every rule made by a State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature.]"
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1.  The  words  \u201cexcept  the  State  of  Jammu  and  Kashmir\u201d  omitted  by  Act  34  of  2019,  s.  95  and  the  Fifth  Schedule(w.e.f. 31-10- 2019).",
+            "1": "2. 15th April, 1987, vide notification No. S.O. 390(E), dated 15th April, 1987 in respect of Chapters I, II and IV, see Gazette ofIndia, Extraordinary, Part II, sec. 3(ii).1st  July,  1987,  vide  notification  No.  S.O.  568(E),  dated  10th  June,  1987  in  respect  of  Chapter  III,  see  Gazette  of    India,Extraordinary, Part II, sec. 3(ii).",
+            "2": "3. Subs. by Act 50 of 1993, s. 2, for clause (a) (w.e.f. 18-6-1993).",
+            "3": "4. Ins. by s. 2, ibid. (w.e.f. 18-6-1993)."
+        },
+        "Page 4": {
+            "0": "1. Ins. by Act 50 of 1993, s. 2 (w.e.f. 18-6-1993).",
+            "1": "2. Ins. by Act 62 of 2002, s. 2 (w.e.f. 15-3-2003).",
+            "2": "3. Subs. by Act 50 of 1993, s. 2, for clause (i) (w.e.f. 18-6-1993).",
+            "3": "4. Subs. by Act 62 of 2002, s. 2, for \u201cany trader\u201d (w.e.f. 15-3-2003).",
+            "4": "5. Subs. by Act 50 of 1993, s. 2, for \u201cthe goods mentioned in the complaint\u201d (w.e.f. 18-6-1993).",
+            "5": "6. Subs. by s. 2, ibid., for \u201cthe services mentioned in the complaint\u201d (w.e.f 18-6-1993).",
+            "6": "7. Subs. by Act 62 of 2002, s. 2, for sub-clauses (iv), (v) and (vi) (w.e.f. 15-3-2003).",
+            "7": "8. Subs. by 50 of 1993, s. 2, for \u201chires\u201d (w.e.f. 18-6-1993)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 62 of 2002, s. 2, for the Explanation (w.e.f. 15-3-2003).",
+            "1": "2. Ins. by Act 50 of 1993, s. 2 (w.e.f. 18-6-1993).",
+            "2": "3. Subs. by Act 62 of 2002, s. 2, for clause (j) (w.e.f. 15-3-2003)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 62 of 2002, s. 2, for clause (nn) (w.e.f. 15-3-2003).",
+            "1": "2. Subs. by s. 2, ibid., for \u201cusers and includes the provisions of\u201d (w.e.f. 15-3-2003).",
+            "2": "3. Ins. by Act 50 of 1993, s. 2 (w.e.f. 18-6-1993).",
+            "3": "4. Ins. by Act 62 of 2002, s. 2 (w.e.f. 15-3-2003).",
+            "4": "5. Subs. by Act 50 of 1993, s. 2, for clause (r) (w.e.f. 18-6-1993)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 62 of 2002, s. 2 (w.e.f. 15-3-2003).",
+            "1": "2. Subs. by s. 3, ibid., for \u201cThe Central Government may\u201d (w.e.f. 15-3-2003).",
+            "2": "3. Subs. by Act 50 of 1993, s. 3, for \u201cthe Department of Food and Civil Supplies\u201d (w.e.f. 18-6-1993).",
+            "3": "4. Subs. by s. 4, ibid., for \u201cnot less than three meetings\u201d (w.e.f. 18-6-1993).",
+            "4": "5. Ins. by s. 5, ibid. (w.e.f. 18-6-1993)."
+        },
+        "Page 9": {
+            "0": "1. Ins. by Act 50 of 1993, s. 5 (w.e.f. 18-6-1993).",
+            "1": "2. Subs. by Act 62 of 2002, s. 4, for \u201cThe State Government may\u201d (w.e.f. 15-3-2003).",
+            "2": "3. Subs. by Act 50 of 1993, s. 6, for sub-section (2) (w.e.f. 18-6-1993).",
+            "3": "4. Ins. by Act 62 of 2002, s. 4 (w.e.f. 15-3-2003).",
+            "4": "5. Ins. by s. 5, ibid. (w.e.f. 15-3-2003)."
+        },
+        "Page 10": {
+            "0": "1. The words \u201cwith the prior approval of the Central Government\u201d omitted by Act 50 of 1993, s. 7 (w.e.f. 18-6-1993).",
+            "1": "2. Ins. by s. 7, ibid. (w.e.f. 18-6-1993).",
+            "2": "3. Subs. by s. 8, ibid., for sub-section (1) (w.e.f. 18-6-1993).",
+            "3": "4. Subs. by Act 62 of 2002, s. 6, for clause (b) (w.e.f. 15-3-2003).",
+            "4": "5. Ins. by Act 50 of 1993, s. 8 (w.e.f. 18-6-1993).",
+            "5": "6. Ins. by Act 62 of 2002, s. 6 (w.e.f. 15-3-2003)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 62 of 2002,  s. 6, for sub-section (2) (w.e.f. 15-3-2003).",
+            "1": "2. Ins. by s. 6, ibid.  (w.e.f. 15-3-2003).",
+            "2": "3. Subs. by s. 7, ibid., for \u201cdoes not exceed rupees five lakhs\u201d (w.e.f. 15-3-2003)",
+            "3": "4. Subs. by Act 50 of 1993, s. 9, for \u201ccarries on business or\u201d (w.e.f. 18-6-1993).",
+            "4": "5. Subs. by s. 9, ibid., for \u201ccarries on business\u201d (w.e.f. 18-6-1993).",
+            "5": "6. Subs. by s. 9, ibid., for \u201ccarry on business\u201d (w.e.f 18-6-1993).",
+            "6": "7. Subs. by Act 62 of 2002, s. 8, for section 12 (w.e.f. 15-3-2003).."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 62 of 2002, s. 9, for \u201cProcedure on receipt of complaint.\u201d (w.e.f. 15-3-2003).",
+            "1": "2. Subs. by s. 9, ibid., for \u201con receipt of a complaint\u201d (w.e.f. 15-3-2003).",
+            "2": "3. Subs. by s. 9, ibid., for clause (a) (w.e.f. 15-3-2003)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by Act 62 of 2002, s. 9, for \u201ccomplaint received\u201d (w.e.f. 15-3-2003).",
+            "1": "2. Subs. by s. 9, ibid., for \u201con the basis of evidence\u201d (w.e.f. 15-3-2003).",
+            "2": "3. Ins. by s. 9, ibid. (w.e.f. 15-3-2003)."
+        },
+        "Page 14": {
+            "0": "1. Ins. by Act 50 of 1993, s. 11 (w.e.f. 18-6-1993).",
+            "1": "2. Ins. by Act 62 of 2002, s. 9 (w.e.f. 15-3-2003).",
+            "2": "3. Subs. by Act 50 of 1993, s. 12, for \u201ctake\u201d (w.e.f. 18-6-1993).",
+            "3": "4. Ins. by Act 62 of 2002, s. 10 (w.e.f. 15-3-2003).",
+            "4": "5. Ins. by Act 50 of 1993, s. 12 (w.e.f. 18-6-1993).",
+            "5": "6. Subs. by Act 62 of 2002, s. 10, for \u201cremove the defects\u201d (w.e.f. 15-3-2003)."
+        },
+        "Page 15": {
+            "0": "1. Ins. by Act 62 of 2002, s. 10 (w.e.f. 15-3-2003).",
+            "1": "2. Subs. by Act 34 of 1991, s. 2, for the sub-section (2) (w.e.f. 15-6-1991).",
+            "2": "3. Subs. by Act 62 of 2002, s. 10, for the proviso (w.e.f. 15-3-2003).",
+            "3": "4. Ins. by s. 11, ibid.  (w.e.f. 15-3-2003).",
+            "4": "5. Ins. by Act 50 of 1993, s. 13 (w.e.f. 18-6-1993)."
+        },
+        "Page 16": {
+            "0": "1. Subs. by Act 62 of 2002, s. 12, for clause (b) and the proviso (w.e.f. 15-3-2003).",
+            "1": "2. Ins. by s. 12, ibid. (w.e.f. 15-3-2003)."
+        },
+        "Page 17": {
+            "0": "1. The brackets and words \u201c(including tenure of office)\u201d omitted by Act 50 of 1993, s. 13 (w.e.f. 18-6-1993).",
+            "1": "2. Ins. by Act 62 of 2002, s. 12 (w.e.f. 15-3-2003).",
+            "2": "3. Subs. by s. 12, ibid., for sub-sections (3) and (4) (w.e.f. 15-3-2003).",
+            "3": "4. S. 17 renumbered as sub-section (1) thereof by s. 13, ibid (w.e.f. 15-3-2003).",
+            "4": "5. Subs. by s. 13, ibid., for \u201cexceeds rupees five lakhs but does not exceed rupees twenty lakhs\u201d (w.e.f. 15-3-2003).",
+            "5": "6. Ins. by s. 13, ibid. (w.e.f. 15-3-2003)."
+        },
+        "Page 18": {
+            "0": "1. Ins. by Act 62 of 2002, s. 14 (w.e.f. 15-3-2003).",
+            "1": "2. Subs. by Act 50 of 1993, s. 15, for \u201cThe procedure specified in sections 12, 13 and 14 and under the rules made thereunder\u201d(w.e.f. 18-6-1993).",
+            "2": "3. Ins. by Act 62 of 2002, s. 16, ibid. (w.e.f. 15-3-2003).",
+            "3": "4. Ins. by s. 17, ibid. (w.e.f. 15-3-2003).",
+            "4": "5. Ins. by Act 50 of 1993, s. 16 (w.e.f. 18-6-1993)."
+        },
+        "Page 19": {
+            "0": "1. Subs. by Act 62 of 2002, s. 18, for clause (b) and the proviso (w.e.f. 15-3-2003).",
+            "1": "2. Ins. by s. 18, ibid. (w.e.f. 15-3-2003)."
+        },
+        "Page 20": {
+            "0": "1. The brackets and words \u201c(including tenure of office)\u201d omitted by Act 50 of 1993, s. 16 (w.e.f. 18-6-1993).",
+            "1": "2. Subs. by Act 62 of 2002, s. 18, for sub-sections (3) and (4) (w.e.f. 15-3-2003).",
+            "2": "3. Subs. by s. 19, ibid., for \u201crupees twenty lakhs\u201d (w.e.f. 15-3-2003).",
+            "3": "4. Subs. by s. 20, ibid., for section 22 (w.e.f. 15-3-2003)."
+        },
+        "Page 21": {
+            "0": "1. Ins. by 7 of 2017, s. 177 (w.e.f. 26-5-2017).",
+            "1": "2. Ins. by 62 of 2002, s. 21 (w.e.f. 15-3-2003).",
+            "2": "3. Ins. by Act 50 of 1993, s. 19 (w.e.f. 18-6-1993)."
+        },
+        "Page 22": {
+            "0": "1. Subs. by Act 62 of 2002, s. 22, for section 25 (w.e.f. 15-3-2003).",
+            "1": "2. Subs. by Act 50 of 1993, s. 20, for section 26  (w.e.f. 18-6-1993).",
+            "2": "3. S. 27 renumbered as sub-section (1) thereof by Act 62 of 2002, s. 23 (w.e.f. 15-3-2003).",
+            "3": "4. Ins. by Act 50 of 1993, s. 21 (w.e.f. 18-6-1993).",
+            "4": "5. Proviso omitted by Act 62 of 2002, s. 23 (w.e.f. 15-3-2003).",
+            "5": "6. Ins. by s. 23, ibid. (w.e.f. 15-3-2003).",
+            "6": "7. Ins. by s. 24, ibid. (w.e.f. 15-3-2003)."
+        },
+        "Page 23": {
+            "0": "1. Ins. by Act 62 of 2002, s. 25 (w.e.f. 15-3-2003)."
+        },
+        "Page 24": {
+            "0": "1. Ins. by Act 62 of 2002, s. 26 (w.e.f. 15-3-2003).",
+            "1": "2. Ins. by Act 34 of 1991, s. 4 (w.e.f. 15-6-1991).",
+            "2": "3. Subs. by Act 62 of 2002, s. 27, for section 30 (w.e.f. 15-3-2003).",
+            "3": "4. Ins. by s. 28, ibid. ((w.e.f. 15-3-2003).",
+            "4": "5. Subs. by s. 29, ibid., for section 31 ((w.e.f. 15-3-2003)."
+        }
+    }
+}

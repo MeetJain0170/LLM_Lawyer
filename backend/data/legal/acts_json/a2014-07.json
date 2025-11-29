@@ -1,0 +1,557 @@
+{
+    "Act Title": "THE STREET VENDORS (PROTECTION OF LIVELIHOOD AND REGULATION OF STREET VENDING) ACT, 2014",
+    "Act ID": "ACT NO. 7 OF 2014",
+    "Enactment Date": "[4th March, 2014.]",
+    "Act Definition": {
+        "0": "An Act to protect the rights of urban street vendors and to regulate street vending activities and for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent, commencement and provisions.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014.",
+                        "1": "(2) It extends to the whole of India except the State of Jammu and Kashmir*.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint; and different dates may be appointed for different States and any reference in any provision to the commencement of this Act shall be construed in relation to any State as a reference to the coming into force of that provision in that State.",
+                        "3": "(4) The provisions of this Act shall not apply to any land, premises and trains owned and controlled by the Railways under the Railway Act, 1989 (24 of 1989)."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) \u201cappropriate Government\u201d means in respect of matters relating to,\u2014",
+                                    "contains": {
+                                        "0": "(i) a Union territory without Legislature, the Central Government;",
+                                        "1": "(ii) the Union territories with Legislature, the Government of the National Capital Territory of Delhi or, as the case may be, the Government of Union territory of Puducherry;",
+                                        "2": "(iii) a State, the State Government;"
+                                    }
+                                },
+                                "1": "(b) \u201cholding capacity\u201d means the maximum number of street vendors who can in any vending zone and has been determined as such by the local authority on the commendations of the Town Vending Committee;",
+                                "2": "(c) \u201clocal authority\u201d means a Municipal Corporation or a Municipal Council or a Nagar Panchayat, by whatever name called, or the Cantonment Board, or as the case may be, a civil area committee appointed under section 47 of the Cantonment Act, 2006 (41 of 2006) or such other body entitled to function as a local authority in any city or town to provide civic services and regulate street vending and includes the \u201cplanning authority\u201d which regulates the land use in that city or town;",
+                                "3": "(d) \u201cmobile vendors\u201d means street vendors who carry out vending activities in designated area by moving from one place to another place vending their goods and services;",
+                                "4": "(e) \u201cnatural market\u201d means a market where sellers and buyers have traditionally congregated for the sale and purchase of products or services and has been determine das such by the local authority on the recommendations of the Town Vending Committee;",
+                                "5": "(f) \u201cnotification\u201d means a notification published in the Official Gazette and the term \u201cnotify\u201d shall be construed accordingly;",
+                                "6": "(g) \u201cplanning authority\u201d means an Urban Development Authority or any other authority in any city or town designated by the appropriate Government as responsible for regulating the land use by defining the precise extent of areas for any particular activity in the master plan or development plan or zonal plan or layout plan or any other spatial plan which is legally enforceable under the applicable Town and Country Planning Act or the Urban Development Act or the Municipal Act, as the case may be;",
+                                "7": "(h) \u201cprescribed\u201d means prescribed by rules made under this Act by the appropriate Government;",
+                                "8": "(i) \u201cSchedule\u201d means the Schedule annexed to this Act;",
+                                "9": "(j) \u201cscheme\u201d means a scheme framed by the appropriate Government under section 38;",
+                                "10": "(k) \u201cstationary vendors\u201d means street vendors who carry out vending activities on regular basis at a specific location;",
+                                "11": "(l) \u201cstreet vendor\u201d means a person engaged in vending of articles, goods, wares, food items or merchandise of everyday use or offering services to the general public, in a street, lane, sidewalk, footpath, pavement, public park or any other public place or private area, from a temporary built up structure or by moving from place to place and includes hawker, peddler, squatter and all other synonymous terms which may be local or region specific; and the words \u201cstreet vending\u201d with their grammatical variations and cognate expressions, shall be construed accordingly;",
+                                "12": "(m) \u201cTown Vending Committee\u201d means the body constituted by the appropriate Government under section 22;",
+                                "13": "(n) \u201cvending zone\u201d means an area or a place or a location designated as such by the local authority, on the recommendations of the Town Vending Committee, for the specific use by street vendors for street vending and includes footpath, side walk, pavement, embankment, portions of a street, waiting area for public or any such place considered suitable for vending activities and providing services to the general public."
+                            }
+                        },
+                        "1": "(2) Any reference in this Act to any enactment or any provision thereof, shall, in relation to an area in which such enactment or such provision is not in force be construed as a reference to the corresponding law, if any, in force in that area."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "REGULATION OF STREET VENDING",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Survey of street vendors and protection from eviction or relocation.",
+                    "paragraphs": {
+                        "0": "(1) The Town Vending Committee shall, within such period and in such manner as may be specified in the scheme, conduct a survey of all existing street vendors, within the area under its jurisdiction, and subsequent survey shall be carried out at least once in every five years.",
+                        "1": "(2) The Town Vending Committee shall ensure that all existing street vendors, identified in the survey, are accommodated in the vending zones subject to a norm conforming to two and half per cent. of the population of the ward or zone or town or city, as the case may be, in accordance with the plan for street vending and the holding capacity of the vending zones.",
+                        "2": "(3) No street vendor shall be evicted or, as the case may be, relocated till the survey specified under sub-section (1) has been completed and the certificate of vending is issued to all street vendors."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Issue of certificate of vending.",
+                    "paragraphs": {
+                        "0": "(1) Every street vendor, identified under the survey carried out under sub-section (1) of section 3, who has completed the age of fourteen years or such age as may be prescribed by the appropriate Government, shall be issued a certificate of vending by the Town Vending Committee, subject to such terms and conditions and within the period specified in the scheme including the restrictions specified in the plan for street vending:",
+                        "1": "Provided that a person, whether or not included under the survey under sub-section (1) of section 3, who has been issued a certificate of vending before the commencement of this Act, whether known as licence or any other form of permission (whether as a stationary vendor or a mobile vendor or under any other category) shall be deemed to be a street vendor for that category for the period for which he has been issued such certificate of vending.",
+                        "2": "(2) Where, in the intervening period between two surveys, any person seeks to vend, the Town Vending Committee may grant a certificate of vending to such person, subject to the scheme, the plan for street vending and the holding capacity of the vending zones.",
+                        "3": "(3) Where the number of street vendors identified under sub-section (1) or the number of persons seeking to vend under sub-section (2) are more than the holding capacity of the vending zone and exceeds the number of persons to be accommodated in that vending zone, the Town Vending Committee shall carry out a draw of lots for issuing the certificate of vending for that vending zone and the remaining persons shall be accommodated in any adjoining vending zone to avoid relocation."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Conditions for issue of certificate of vending.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Every street vendor shall give an undertaking to the Town Vending Committee prior to the issue of a certificate of vending under section 4, that\u2014",
+                            "contains": {
+                                "0": "(a) he shall carry on the business of street vending himself or through any of his family member;",
+                                "1": "(b) he has no other means of livelihood:",
+                                "2": "(c) he shall not transfer in any manner whatsoever, including rent, the certificate of vending or the place specified therein to any other person."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) Where a street vendor to whom a certificate of vending is issued dies or suffers from any permanent disability or is ill, one of his family member in following order of priority, may vend in his place, till the validity of the certificate of vending\u2014",
+                            "contains": {
+                                "0": "(a) spouse of the street vendor;",
+                                "1": "(b) dependent child of the street vendor:"
+                            }
+                        },
+                        "2": "Provided that where a dispute arises as to who is entitled to vend in the place of the vendor, the matter shall be decided by the committee under section 20."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Categories of certificate of vending and issue of identity cards.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The certificate of vending shall be issued under any of the following categories, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a stationary vendor;",
+                                "1": "(b) a mobile vendor; or",
+                                "2": "(c) any other category as may be specified in the scheme."
+                            }
+                        },
+                        "1": "(2) The certificate of vending issued for the categories specified in sub-section (1) shall be in such form, and issued in such manner, as may be specified in the scheme and specify the vending zone where the street vendor shall carry on his vending activities, the days and timings for carrying on such vending activities and the conditions and restriction subject to which he shall carry on such vending activities.",
+                        "2": "(3) Every street vendor who has been issued certificate of vending under sub-section (1) shall be issued identity cards in such form and manner as may be specified in the scheme."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Criteria for issuing certificate of vending.",
+                    "paragraphs": {
+                        "0": "The criteria to be followed by the Town Vending Committee for issuing certificate of vending to a street vendor shall be as specified in the scheme, which may, apart from other things, provide for preference to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, women, persons with disabilities, minorities or such other categories as may be specified in the scheme."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Vending fees.",
+                    "paragraphs": {
+                        "0": "Every street vendor who has been issued certificate of vending shall pay such vending fees as may be specified in the scheme."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Validity and renewal of certificate of vending.",
+                    "paragraphs": {
+                        "0": "(1) Every certificate of vending shall be valid for such period as may be specified in the scheme.",
+                        "1": "(2) Every certificate of vending shall be renewable for such period, in such manner, and on payment of such fees, as may be specified in the scheme."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Cancellation or suspension of certificate of vending.",
+                    "paragraphs": {
+                        "0": "Where a street vendor who has been issued a certificate of vending under this Act commits breach of any of the conditions thereof or any other terms and conditions specified or the purpose of regulating street vending under this Act or any rules or schemes made thereunder, or where the Town Vending Committee is satisfied that such certificate of vending has been secured by the street vendor through misrepresentation or fraud, the Town Vending Committee may, without prejudice to any other fine which may have been incurred by the street vendor under this Act, cancel the certificate of vending or suspend the same in such as may be specified in the scheme and for such period as it deems fit:",
+                        "1": "Provided that no such cancellation or suspension shall be made by the Town Vending Committee unless an opportunity of hearing has been given to the street vendor."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Appeal from decision of Town Vending Committee.",
+                    "paragraphs": {
+                        "0": "(1) Any person who is aggrieved by any decision of the Town Vending Committee with respect to issue of certificate of vending under section 6 or cancellation or suspension of certificate of vending under section 10 may prefer an appeal to the local authority in such form, within such period, and in such manner, as may be prescribed.",
+                        "1": "(2) No appeal shall be disposed of by the local authority unless the appellant has been given an opportunity of hearing."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "RIGHTS AND OBLIGATIONS OF STREET VENDORS",
+            "Sections": {
+                "Section 12.": {
+                    "heading": "Rights of street vendor.",
+                    "paragraphs": {
+                        "0": "(1) Every street vendor shall have the right to carry on the business of street vending activities in accordance with the terms and conditions mentioned in the certificate of vending.",
+                        "1": "(2) Notwithstanding anything contained in sub-section (1), where any area or space, as the case may be, has been earmarked as no-vending zone, no street vendor shall carry out any vending activities in that zone."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Right of street vendor for a new site or area on relocation.",
+                    "paragraphs": {
+                        "0": "Every street vendor, who possesses a certificate of vending, shall, in case of his relocation under section 18, be entitled for new site or area, as the case may be, for carrying out his vending activities as may be determined by the local authority, in consultation with the Town Vending Committee."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Duty of street vendors.",
+                    "paragraphs": {
+                        "0": "Where a street vendor occupies space on a time sharing basis, he shall remove his goods and wares every day at the end of the time-sharing period allowed to him."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Maintenance of cleanliness and public hygiene.",
+                    "paragraphs": {
+                        "0": "Every street vendor shall maintain cleanliness and public hygiene in the vending zones and the adjoining areas."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Maintenance of civic amenities in vending zone in good condition.",
+                    "paragraphs": {
+                        "0": "Every street vendor shall maintain civic amenities and public property in the vending zone in good condition and not damage or destroy or cause any damage or destruction to the same."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Payment of maintenance charges.",
+                    "paragraphs": {
+                        "0": "Every street vendor shall pay such periodic maintenance charges for the civic amenities and facilities provided in the vending zones as may be determined by the local authority."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "RELOCATION AND EVICTION OF STREET VENDORS",
+            "Sections": {
+                "Section 18.": {
+                    "heading": "Relocation or eviction of street vendors.",
+                    "paragraphs": {
+                        "0": "(1) The local authority may, on the recommendations of the Town Vending Committee, declare a zone or part of it to be a no-vending zone for any public purpose and relocate the street vendors vending in that area, in such manner as may be specified in the scheme.",
+                        "1": "(2) The local authority shall evict such street vendor whose certificate of vending has been cancelled under section 10 or who does not have a certificate of vending and vends without such certificate, in such manner as may be specified in the scheme.",
+                        "2": "(3) No street vendor shall be relocated or evicted by the local authority from the place specified in the certificate of vending unless he has been given thirty days\u2019 notice for the same in such manner as may be specified in the scheme.",
+                        "3": "(4) A street vendor shall be relocated or evicted by the local authority physically in such manner as may be specified in the scheme only after he had failed to vacate the place specified in the certificate of vending, after the expiry of the period specified in the notice.",
+                        "4": "(5) Every street vendor who fails to relocate or vacate the place specified in the certificate of vending, after the expiry of the period specified in the notice, shall be liable to pay for every day of such default, a penalty which may extend up to two hundred and fifty rupees, as may be determined by the local authority, but shall not be more than the value of goods seized."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Seizure and reclaiming of goods.",
+                    "paragraphs": {
+                        "0": "(1) If the street vendor fails to vacate the place specified in the certificate of vending, after the lapse of the period specified in the notice given under sub-section (3) of section 18, the local authority, in addition to evicting the street vendor under section 18, may, if it deems necessary, seize the goods of such street vendor in such manner as may be specified in the scheme:",
+                        "1": "Provided that where any such seizure is carried out, a list of goods seized shall be prepared, as specified in the scheme, and a copy thereof, duly signed by the person authorised to seize the goods, shall be issued to the street vendor.",
+                        "2": "(2) The street vendor whose goods have been seized under sub-section (1) may, reclaim his goods in such manner, and after paying such fees, as may be specified in the scheme:",
+                        "3": "Provided that in case of non-perishable goods, the local authority shall release the goods within two working days of the claim being made by the street vendor and in case of perishable goods the local authority shall release the goods on the same day of the claim being made by the street vendor."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "DISPUTE REDRESSAL MECHANISM",
+            "Sections": {
+                "Section 20.": {
+                    "heading": "Redressal of grievances or resolution of disputes of street vendors.",
+                    "paragraphs": {
+                        "0": "(1) The appropriate Government may constitute one or more committees consisting of a Chairperson who has been a civil judge or a judicial magistrate and two other professional shaving such experience as may be prescribed for the purpose of deciding the applications received under sub-section (2):",
+                        "1": "Provided that no employee of the appropriate Government or the local authority shall be appointed as members of the committee.",
+                        "2": "(2) Every street vendor who has a grievance or dispute may make an application in writing to the committee constituted under sub-section (1) in such form and manner as maybe prescribed.",
+                        "3": "(3) On receipt of grievance or dispute under sub-section (2), the committee referred to in sub-section (1) shall, after verification and enquiry in such manner, as may be prescribed, take steps for redressal of such grievance or resolution of such dispute, within such time and in such manner as may be prescribed.",
+                        "4": "(4) Any person who is aggrieved by the decision of the committee may prefer an appeal to the local authority in such form, within such time and in such manner as may be prescribed.",
+                        "5": "(5) The local authority shall dispose of the appeal received under sub-section (4) within such time and in such manner as may be prescribed:",
+                        "6": "Provided that the local authority shall, before disposing of the appeal, give an opportunity of being heard to the aggrieved person."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "PLAN FOR STREET VENDING",
+            "Sections": {
+                "Section 21.": {
+                    "heading": "Plan for street vending.",
+                    "paragraphs": {
+                        "0": "(1) Every local authority shall, in consultation with the planning authority and on the recommendations of the Town Vending Committee, once in every five years, prepare a plan to promote the vocation of street vendors covering the matters contained in the First Schedule.",
+                        "1": "(2) The plan for street vending prepared by the local authority shall be submitted to the appropriate Government for approval and that Government shall, before notifying the plan, determine the norms applicable to the street vendors."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "TOWN VENDING COMMITTEE",
+            "Sections": {
+                "Section 22.": {
+                    "heading": "Town Vending Committee.",
+                    "paragraphs": {
+                        "0": "(1) The appropriate Government may, by rules made in this behalf, provide for the term and the manner of constituting a Town Vending Committee in each local authority:",
+                        "1": "Provided that the appropriate Government may, if considers necessary, provide for constitution of more than one Town Vending Committee, or a Town Vending Committee for each zone or ward, in each local authority.",
+                        "2": {
+                            "text": "(2) Each Town Vending Committee shall consist of:\u2014",
+                            "contains": {
+                                "0": "(a) Municipal Commissioner or Chief Executive Officer, as the case may be, who shall be the Chairperson; and",
+                                "1": "(b) such number of other members as may be prescribed, to be nominated by the appropriate Government, representing the local authority, medical officer of the local authority, the planning authority, traffic police, police, association of street vendors, market associations, traders associa- tions, non-governmental organisations, community based organisations, resident welfare associations, banks and such other interests as it deems proper;",
+                                "2": "(c) the number of members nominated to represent the non-governmental organisations and the community based organisations shall not be less than ten per cent.;",
+                                "3": "(d) the number of members representing the street vendors shall not be less than forty per cent. who shall be elected by the street vendors themselves in such manner as may be prescribed:"
+                            }
+                        },
+                        "3": "Provided that one-third of members representing the street vendors shall be from amongst women vendors:",
+                        "4": "Provided further that due representation shall be given to the Scheduled Castes, the Scheduled Tribes, Other Backward Classes, minorities and persons with disabilities from amongst the members representing street vendors.",
+                        "5": "(3) The Chairperson and the members nominated under sub-section (2) shall receive such allowances as may be prescribed by the appropriate Government."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Meetings of Town Vending Committee.",
+                    "paragraphs": {
+                        "0": "(1) The Town Vending Committee shall meet at such times and places within the jurisdiction of the local authority and shall observe such rules of procedure in regard to the transaction of business at its meetings, and discharge such functions, as may be prescribed.",
+                        "1": "(2) Every decision of the Town Vending Committee shall be notified along with the reasons for taking such decision."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Temporary association of persons with Town Vending Committee for particular purposes.",
+                    "paragraphs": {
+                        "0": "(1) The Town Vending Committee may associate with itself in such manner and for such purposes, as may be prescribed, any person whose assistance or advice it may desire, in carrying out any of the provisions of this Act.",
+                        "1": "(2) A person associated under sub-section (1) shall be paid such allowances as maybe prescribed."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Office space and other employees for Town Vending Committee.",
+                    "paragraphs": {
+                        "0": "The local authority shall provide the Town Vending Committee with appropriate office space and such employees as may be prescribed."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Publication of street vendor\u2019s charter and data-base and carrying out of social audit.",
+                    "paragraphs": {
+                        "0": "(1) Every Town Vending Committee shall publish the street vendor's charter specifying therein the time within which the certificate of vending shall be issued to a street vendor and the time within which such certificate of vending shall be renewed and other activities to be performed within the time limit specified therein.",
+                        "1": "(2) Every Town Vending Committee shall maintain up to date records of registered street vendors and street vendors to whom certificate of vending has been issued containing name of such street vendor, stall allotted to him, nature of business carried out by him, category of street vending and such other particulars which may be relevant to the street vendors, in such manner as may be prescribed.",
+                        "2": "(3) Every Town Vending Committee shall carry out social audit of its activities under the Act or the rules or the schemes made there under in such form and manner as may be specified in the scheme."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VIII",
+            "Name": "PREVENTION OF HARASSMENT OF STREET VENDORS",
+            "Sections": {
+                "Section 27.": {
+                    "heading": "Prevention of harassment by police and other authorities.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in any other law for the time being in force, no street vendor who carries on the street vending activities in accordance with the terms and conditions of his certificate of vending shall be prevented from exercising such rights by any person or police or any other authority exercising powers under any other law for the time being in force."
+                    }
+                }
+            }
+        },
+        "8": {
+            "ID": "CHAPTER IX",
+            "Name": "PENAL PROVISIONS",
+            "Sections": {
+                "Section 28.": {
+                    "heading": "Penalty for contraventions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "If any street vendor\u2014",
+                            "contains": {
+                                "0": "(a) indulges in vending activities without a certificate of vending;",
+                                "1": "(b) contravenes the terms of certificate of vending; or",
+                                "2": "(c) contravenes any other terms and conditions specified for the purpose of regulating street vending under this Act or any rules or schemes made thereunder,"
+                            }
+                        },
+                        "1": "he shall be liable to a penalty for each such offence which may extend up to rupees two thousand as may be determined by the local authority."
+                    }
+                }
+            }
+        },
+        "9": {
+            "ID": "CHAPTER X",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 29.": {
+                    "heading": "Provisions of this Act, not to be construed as conferring ownership rights, etc.",
+                    "paragraphs": {
+                        "0": "(1) Nothing contained in this Act shall be construed as conferring upon a street vendor any temporary, permanent or perpetual right of carrying out vending activities in the vending zones allotted to him or in respect of any place on which he carries on such vending activity.",
+                        "1": "(2) Nothing contained in sub-section (1) shall apply to any stationery vendor, if a temporary leasehold or ownership right has been conferred on him by a lease deed or otherwise, in respect of a place at specific location where he carries on such vending activity in accordance with the provisions of any law for the time being in force for carrying out such vending activity."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Returns.",
+                    "paragraphs": {
+                        "0": "Every Town Vending Committee shall furnish, from time to time, to the appropriate Government and the local authority such returns as may be prescribed."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Promotional measures.",
+                    "paragraphs": {
+                        "0": "The appropriate Government may, in consultation with the Town Vending Committee, local authority, planning authority and street vendors associations or unions, promotional measures of making available credit, insurance and other welfare schemes of social security for the street vendors."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Research, training and awareness.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The appropriate Government may, to the extent of availability of financial and other resources,\u2014",
+                            "contains": {
+                                "0": "(a) organise capacity building programmes to enable the street vendors to exercise the rights contemplated under this Act;",
+                                "1": "(b) undertake research, education and training programmes to advance knowledge and understanding of the role of the informal sector in the economy, in general and the street vendors, in particular and to raise awareness among the public through Town Vending Committee."
+                            }
+                        }
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Act to have overriding effect.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall have effect notwithstanding anything in consistent there in contained in any other law for the time being in force or in any instrument having effect by virtue of any law other than this Act."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Powers to delegate.",
+                    "paragraphs": {
+                        "0": "The appropriate Government may, by general or special order in writing, delegate such of its powers and functions under this Act (excluding the power to frame scheme under section 38 and power to make rules under section 36), as it may deem necessary, to the local authority or the Town Vending Committee or any other officer, subject to such conditions, if any, as may be specified in that order."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Power to amend Schedules.",
+                    "paragraphs": {
+                        "0": "(1) On the recommendations made by the appropriate Government or otherwise, if the Central Government is satisfied that it is necessary or expedient so to do, it may, by notification, amend the Schedules and thereupon the First Schedule or the Second Schedule, as the case may be, shall be deemed to have been amended accordingly.",
+                        "1": "(2) A copy of every notification issued under sub-section (1), shall be laid before each House of Parliament as soon as may be after it is issued."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The appropriate Government shall, within one year from the date of commencement of this Act, by notification, make rules for carrying out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the age for street vending under sub-section (1) of section 4;",
+                                "1": "(b) the form, period and manner of filing appeal with the local authority under sub-section (1) of section 11;",
+                                "2": "(c) the persons and the experience such person shall have under sub-section (1) of section 20;",
+                                "3": "(d) the form and the manner of making application under sub-section (2) of section 20;",
+                                "4": "(e) the manner of verification and enquiry on receipt of grievance or dispute, the time within which and the manner in which steps for redressal of grievances and resolution of disputes may be taken under sub-section (3) of section 20;",
+                                "5": "(f) the form, the time within which and the manner in which an appeal may be filed under sub-section (4) of section 20;",
+                                "6": "(g) the time within which and the manner in which an appeal shall be disposed of under sub-section (5) of section 20;",
+                                "7": "(h) the term of, and the manner of constituting, the Town Vending Committee under sub-section (1) of section 22;",
+                                "8": "(i) the number of other members of the Town Vending Committee under clause (b) of sub-section (2) of section 22;",
+                                "9": "(j) the manner of elections among street vendors under clause (d) of sub-section (2) of section 22;",
+                                "10": "(k) the allowances to Chairperson and members under sub-section (3) of section 22;",
+                                "11": "(l) the time and place for meeting, procedure for transaction of business at meetings and functions to be discharged by the Town Vending Committee under section 23;",
+                                "12": "(m) the manner and the purpose for which a person may be associated under sub-section (1) of section 24;",
+                                "13": "(n) the allowances to be paid to an associated person under sub-section (2) of section 24;",
+                                "14": "(o) the other employees of Town Vending Committee under section 25;",
+                                "15": "(p) the manner of maintaining up to date record of all street vendors under sub-section (2) of section 26;",
+                                "16": "(q) the returns to be furnished under section 30;",
+                                "17": "(r) the manner of publishing summary of scheme under sub-section (2) of section 38."
+                            }
+                        },
+                        "2": "(3) Every rule and scheme made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session ,for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or scheme or both Houses agree that the rule or scheme should not be made, the rule or scheme shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or scheme.",
+                        "3": "(4) Every rule or scheme made by the State Government under this Act shall, as soon as may be after it is made, be laid before each House of the State Legislature where there are two Houses, and where there is one House of the State Legislature, before that House."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Power to make bye-laws.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the provisions of this Act or any rule or scheme made thereunder, the local authority may make bye-laws to provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the regulation and manner of vending in restriction-free-vending zones, restricted-vending zones and designated vending zones;",
+                                "1": "(b) determination of monthly maintenance charges for the civic amenities and facilities in the vending zones under section 17;",
+                                "2": "(c) determination of penalty under sub-section (5) of section 18 and section 28;",
+                                "3": "(d) the regulation of the collection of taxes and fees in the vending zones;",
+                                "4": "(e) the regulation of traffic in the vending zones;",
+                                "5": "(f) the regulation of the quality of products and services provided to the public in vending zones and maintenance of public health, hygiene and safety standards;",
+                                "6": "(g) the regulation of civic services in the vending zones; and",
+                                "7": "(h) the regulation of such other matters in the vending zones as may be necessary."
+                            }
+                        }
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Scheme for street vendors.",
+                    "paragraphs": {
+                        "0": "(1) For the purposes of this Act, the appropriate Government shall frame a scheme, within six months from the date of commencement of this Act, after due consultations with the local authority and the Town Vending Committee, by notification, which may specify all or any of the matters provided in the Second Schedule.",
+                        "1": "(2) A summary of the scheme notified by the appropriate Government under sub-section (1) shall be published by the local authority in at least two local newspapers in such manner as may be prescribed."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not in consistent with the provisions of this Act, as appear to it to be necessary expedient for removing the difficulty:",
+                        "1": "Provided that no order shall be made under this section after expiry of three years from the commencement of this Act.",
+                        "2": "(2) Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": {
+                "text": "THE FIRST SCHEDULE",
+                "contains": {
+                    "0": "(See section 21)"
+                }
+            },
+            "1": "PLAN FOR STREET VENDING",
+            "2": {
+                "text": "(1) The plan for street vending shall,\u2014",
+                "contains": {
+                    "0": "(a) ensure that all existing street vendors identified in the survey, subject to a norm conforming to two and half per cent. of the population of the ward, zone, town or city, as the case may be, are accommodated in the plan for street vending;",
+                    "1": "(b) ensure the right of commuters to move freely and use the roads without any impediment;",
+                    "2": "(c) ensure that the provision of space or area for street vending is reasonable and consistent with existing natural markets;",
+                    "3": "(d) take into account the civic facilities for appropriate use of identified spaces or areas as vending zones;",
+                    "4": "(e) promote convenient, efficient and cost effective distribution of goods and provision of services;",
+                    "5": "(f) such other matters as may be specified in the scheme to give effect to the plan for street vending."
+                }
+            },
+            "3": {
+                "text": "(2) The plan for street vending shall contain all of the following matters, namely:\u2014",
+                "contains": {
+                    "0": "(a) determination of spatial planning norms for street vending;",
+                    "1": "(b) earmarking of space or area for vending zones;",
+                    "2": "(c) determination of vending zones as restriction-free-vending zones, restricted vending zones and no-vending zones;",
+                    "3": "(d) making of spatial plans conducive and adequate for the prevalent number of street vendors in that city or town and also for the future growth, by adopting such norms as may be necessary;",
+                    "4": "(e) consequential changes needed in the existing master plan, development plan, zonal plan, layout plan and any other plan for accommodating street vendors in the designated vending zones."
+                }
+            },
+            "4": {
+                "text": "(3) Declaration of no-vending zone shall be carried out by the plan for street vending, subject to the following principles, namely:\u2014",
+                "contains": {
+                    "0": "(a) any existing market, or a natural market as identified under the survey shall not be declared as a no-vending zone;",
+                    "1": "(b) declaration of no-vending zone shall be done in a manner which displace sthe minimum percentage of street vendors;",
+                    "2": "(c) overcrowding of any place shall not be a basis for declaring any area as a no-vending zone provided that restrictions may be placed on issuing certificate of vending in such areas to persons not identified as street vendors in the survey;",
+                    "3": "(d) sanitary concerns shall not be the basis for declaring any area as a no-vending zone unless such concerns can be solely attributed to street vendors and cannot be resolved through appropriate civic action by the local authority;",
+                    "4": "(e) till such time as the survey has not been carried out and the plan for street vending has not been formulated, no zone shall be declared as a no-vending zone."
+                }
+            }
+        },
+        "THE SECOND SCHEDULE": {
+            "0": {
+                "text": "THE SECOND SCHEDULE",
+                "contains": {
+                    "0": "(See section 38)"
+                }
+            },
+            "1": {
+                "text": "Matters to be provided in the Scheme for Street Vendors framed by the appropriate Government:\u2014",
+                "contains": {
+                    "0": "(a) the manner of conducting survey;",
+                    "1": "(b) the period within which certificate of vending shall be issued to the street vendors identified under the survey;",
+                    "2": "(c) the terms and conditions subject to which certificate of vending may be issued to a street vendor including to those persons who wish to carry on street vending during the intervening period of two surveys;",
+                    "3": "(d) the form and the manner in which the certificate of vending may be issued to a street vendor;",
+                    "4": "(e) the form and manner of issuing identity cards to street vendors;",
+                    "5": "(f) the criteria for issuing certificate of vending to street vendors;",
+                    "6": "(g) the vending fees to be paid on the basis of category of street vending, which may be different for different cities;",
+                    "7": "(h) the manner of collecting, through banks, counters of local authority and counters of Town Vending Committee, vending fees, maintenance charges and penalties for registration, use of parking space for mobile stalls and availing of civic services;",
+                    "8": "(i) the period of validity of certificate of vending;",
+                    "9": "(j) the period for which and the manner in which a certificate of vending may be renewed and the fees for such renewal;",
+                    "10": "(k) the manner in which the certificate of vending may be suspended or cancelled;",
+                    "11": "(l) the categories of street vendors other than stationery vendors and mobile vendors;",
+                    "12": "(m) the other categories of persons for preference for issue of certificate of vending;",
+                    "13": "(n) the public purpose for which a street vendor may be relocated and the manner of relocating street vendor;",
+                    "14": "(o) the manner of evicting a street vendor;",
+                    "15": "(p) the manner of giving notice for eviction of a street vendor;",
+                    "16": "(q) the manner of evicting a street vendor physically on failure to evict;",
+                    "17": "(r) the manner of seizure of goods by the local authority, including preparation and issue of list of goods seized;",
+                    "18": "(s) the manner of reclaiming seized goods by the street vendor and the fees for the same;",
+                    "19": "(t) the form and the manner for carrying out social audit of the activities of Town Vending Committee;",
+                    "20": "(u) the conditions under which private places may be designated as restriction free-vending zones, restricted-vending zones and no-vending zones;",
+                    "21": "(v) the terms and conditions for street vending including norms to be observed for up keeping public health and hygiene;",
+                    "22": "(w) the designation of State Nodal Officer for co-ordination of all matters relating to street vending at the state level;",
+                    "23": "(x) the manner of maintenance of proper records and other documents by the Town Vending Committee, local authority, planning authority and State Nodal Officer in respect of street vendors;",
+                    "24": "(y) the manner of carrying out vending activities on time-sharing basis;",
+                    "25": "(z) the principles for determination of vending zones as restriction-free-vending zones, restricted-vending zones and no-vending zones;",
+                    "26": "(za) the principles for determining holding capacity of vending zones and the manner of undertaking comprehensive census and survey;",
+                    "27": {
+                        "text": "(zb) principles of relocation subject to the following:",
+                        "contains": {
+                            "0": "(i) relocation should be avoided as far as possible, unless there is clear and urgent need for the land in question;",
+                            "1": "(ii) affected vendors or their representatives shall be involved in planning and implementation of the rehabilitation project;",
+                            "2": "(iii) affected vendors shall be relocated so as to improve their livelihood sand standards of living or at least to restore them, in real terms to pre-evicted levels;",
+                            "3": "(iv) livelihood opportunities created by new infrastructure development projects shall accommodate the displaced vendors so that they can make use of the livelihood opportunities created by the new infrastructure;",
+                            "4": "(v) loss of assets shall be avoided and in case of any loss, it shall be compensated;",
+                            "5": "(vi) any transfer of title or other interest in land shall not affect the rights of street vendors on such land, and any relocation consequent upon such a transfer shall be done in accordance with the provisions of this Act;",
+                            "6": "(vii) state machinery shall take comprehensive measures to check and control the practice of forced evictions;",
+                            "7": "(viii) natural markets where street vendors have conducted business for over fifty years shall be declared as heritage markets, and the street vendors in such markets shall not be relocated;"
+                        }
+                    },
+                    "28": "(zc) any other matter which may be included in the scheme for carrying out the purposes of this Act."
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 1st May, 2014, vide notification No. S.O. 1185 (E), dated 1st May, 2014, see Gazette of India, Extraordinary, Part II, Sec. 3(ii).*. Vide notification No. S.O. 3912(E), dated 30th October, 2019, this Act is made applicable to the Union territory of Jammu andKashmir and the Union territory of Ladakh."
+        }
+    }
+}

@@ -1,0 +1,1074 @@
+{
+    "Act Title": "THE SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA ACT, 1989",
+    "Act ID": "ACT NO. 39 OF 1989",
+    "Enactment Date": "[25th October, 1989.]",
+    "Act Definition": {
+        "0": "An Act to establish the Small Industries Development Bank of India as the principal financial institution for the promotion, financing and development of industry in the small-scale sector and to co-ordinate the functions of the institutions engaged in the promotion, financing or developing industry in the small-scale sector and for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Small Industries Development Bank of India Act, 1989.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification, appoint and different dates may be appointed for different provisions of this Act."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cBoard\u201d means the Board of directors of the Small Industries Development Bank of India referred to in section 5;",
+                                "1": "2[(b) \u201cchairman and managing director\u201d means the chairman and managing director referred to in clause (a) of sub-section (1) of section 6;]",
+                                "2": {
+                                    "text": "(c) \u201cCourt\u201d means the High Court within the local limits of whose jurisdiction,\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(i) the defendant or respondent or, where there is more than one defendant or respondent, any one of them\u2014",
+                                            "contains": {
+                                                "0": "(1) has his registered office, or",
+                                                "1": "(2) carries on the whole or part of his business,"
+                                            }
+                                        }
+                                    }
+                                },
+                                "3": {
+                                    "text": "at the time of commencement of any legal proceedings against him under this Act, or",
+                                    "contains": {
+                                        "0": "(ii) the cause of action for such legal proceedings, wholly or in part, arises;"
+                                    }
+                                },
+                                "4": "(d) \u201cDevelopment Bank\u201d means the Industrial Development Bank of India established under section 3 of the Industrial Development Bank of India Act,1964 (18 of 1964);",
+                                "5": "(e) \u201cDirector\u201d means a Director nominated under sub-section (1) of section 6 and includes the 3[chairman and managing director and whole-time director];",
+                                "6": "(f) \u201cexport\u201d means export from India of products or services of any industrial concern in small-scale sector;",
+                                "7": "4[(fa) \u201cGeneral Insurance Corporation\u201d means the General Insurance Corporation of India formed under section 9 of the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972);]",
+                                "8": "(g) \u201cimport\u201d means import into India of services or goods including all materials, commodities and articles in a solid, liquid or gaseous state and all forms of energy for the use of any industrial concern in the small-scale sector;",
+                                "9": {
+                                    "text": "1[(h) \u201cindustrial concern in the small scale sector\u201d means any concern engaged or to be engaged in,\u2014",
+                                    "contains": {
+                                        "0": "(i) the manufacture, preservation or processing of goods;",
+                                        "1": "(ii) shipping;",
+                                        "2": "(iii) mining including development of mines;",
+                                        "3": "(iv) the hotel industry;",
+                                        "4": "(v) the transport of passengers or goods by road or by water or by air or by ropeway or by lift;",
+                                        "5": "(vi) the generation, storage or distribution of electricity or any other form of energy;",
+                                        "6": "(vii) the maintenance, repair, testing or servicing of machinery or equipment of any description or vehicles or vessels or motor boats or trailers or tractors;",
+                                        "7": "(viii) assembling, repairing or packing any article with the aid of machinery or power;",
+                                        "8": "(ix) the setting up of, or development of, an industrial area or an industrial estate;",
+                                        "9": "(x) fishing or providing shore facilities for fishing or maintenance thereof;",
+                                        "10": "(xi) providing special or technical knowledge or other services for the promotion of industrial growth;",
+                                        "11": "(xii) providing engineering, technical, financial, management, marketing or other services or facilities for industry;",
+                                        "12": "(xiii) service industry such as altering, ornamenting, polishing, finishing, oiling, washing, cleaning or otherwise treating or adapting any article or substance with a view to its use, sale, transport, delivery or disposal;",
+                                        "13": "(xiv) providing medical, health or other allied services;",
+                                        "14": "(xv) providing services relating to information technology, telecommunication or electronics;",
+                                        "15": "(xvi) leasing, sub-leasing or giving on hire-purchase of industrial plants, equipments, machinery or other assets including vehicles, ships and aircraft;",
+                                        "16": "(xvii) such other activity as the Central Government may, having regard to the objects of this Act, by notification, specify in this behalf; or",
+                                        "17": "(xviii) the research and development of any concept, technology, design, process or product whether in relation to any of the matters aforesaid, including any activities specified under sub-clause (xvii), or any other matter and which is regarded as a small-scale undertaking under section 11B of the Industries (Development and Regulation) Act, 1951(65 of 1951);"
+                                    }
+                                }
+                            }
+                        },
+                        "1": "Explanation.\u2014The expression \u201cprocessing of goods\u201d includes any art or process for producing, preparing or making an article by subjecting any material to a manual, mechanical, chemical, electrical or any other like operation.]",
+                        "2": "2[(ha) \u201cLife Insurance Corporation\u201d means the Life Insurance Corporation of India established under section 3 of the Life Insurance Corporation Act, 1956 (31 of 1956);]",
+                        "3": "3* * * * *",
+                        "4": "(j) \u201cNational Small Industries Corporation\u201d means the National Small Industries Corporation Limited registered under the Companies Act, 1956 (1 of 1956);",
+                        "5": "(k) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                        "6": "(l) \u201cprescribed\u201d means prescribed by regulations made under this Act;",
+                        "7": "1[(la) \u201cpublic sector bank\u201d means the State Bank of India constituted under the State Bank of India Act, 1955 (23 of 1955), a subsidiary bank as defined in the State Bank of India (Subsidiary Banks) Act, 1959 (38 of 1959), a corresponding new bank constituted under section 3 of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970) or under section 3 of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980 (40 of 1980);]",
+                        "8": "2(lb) \u201cReserve Bank\u201d means the Reserve Bank of India constituted under the Reserve Bank of India Act, 1934 (2 of 1934);",
+                        "9": "(lc) \u201cscheduled bank\u201d means a bank for the time being included in the Second Schedule to the Reserve Bank of India Act, 1934 (2 of 1934);]",
+                        "10": "(m) \u201cSmall Industries Bank\u201d means the Small Industries Development Bank of India established under sub-section (1) of section 3;",
+                        "11": "(n) \u201cState Small Industries Corporation\u201d means a State Corporation, registered under the Companies Act, 1956 (1 of 1956), for small industries in a State;",
+                        "12": "(o) \u201cState Financial Corporation\u201d means a financial corporation established under section 3 or section 3A or an institution notified under section 46 of the State Financial Corporations Act, 1951 (63 of 1951);",
+                        "13": "(p) \u201cState Industrial Development Corporation\u201d means a State Corporation registered under the Companies Act, 1956 (1 of 1956) for the development of industries in a State;",
+                        "14": "3* * * * *"
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "ESTABLISHMENT OF THE SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA AND CAPITAL THEREOF",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Establishment and incorporation of Small Industries Development Bank of India.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification, appoint, there shall be established, for the purposes of this Act, a corporation to be known as the Small Industries Development Bank of India.",
+                        "1": "(2) The Small Industries Bank shall be a body corporate with the name aforesaid having perpetual succession and a common seal with power, subject to the provisions of this Act, to acquire, hold and dispose of property and to contract, and may, by that name, sue or be sued.",
+                        "2": "(3) The head office of the Small Industries Bank shall be at Lucknow or at such other place as the Central Government may, by notification, specify.",
+                        "3": "(4) The Small Industries Bank shall establish offices, branches or agencies at any place in or outside India."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Authorised capital.",
+                    "paragraphs": {
+                        "0": "The authorised capital of the Small Industries Bank shall be one thousand crores of rupees divided into seventy-five crores fully paid-up equity shares of rupees ten each and twenty-five crores of fully paid-up redeemable preference shares of rupees ten each:",
+                        "1": "Provided that the Central Government may, on the recommendation of the Board, by notification, increase the authorised capital to an amount not exceeding two thousand crores of rupees consisting of such number of equity shares and redeemable preference shares as it may deem fit."
+                    }
+                },
+                "Section 4A.": {
+                    "heading": "Conversion of equity shares into redeemable preference shares.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, at any time after the commencement of the Small Industries Development Bank of India (Amendment) Act, 2000, by notification, convert such number of equity shares held by the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government, not exceeding twenty- five crores, as it may decide, into redeemable preference shares:",
+                        "1": "Provided that such conversion shall in no case reduce the equity shares held in aggregate by the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government to less than fifty-one per cent.",
+                        "2": {
+                            "text": "(2) The redeemable preference shares referred to in sub-section (1) shall\u2014",
+                            "contains": {
+                                "0": "(a) carry such fixed rate of dividend as the Central Government may specify at the time of such conversion, and",
+                                "1": "(b) neither be transferable nor carry any voting rights."
+                            }
+                        },
+                        "3": "(3) The redeemable preference shares referred to in sub-section (1) shall be redeemed by the Small Industries Bank within three years from the date of such conversion in such instalments and in such manner as the Board may determine."
+                    }
+                },
+                "Section 4B.": {
+                    "heading": "Transfer of capital.",
+                    "paragraphs": {
+                        "0": "On such date as the Central Government may, in consultation with the Development Bank, by notification, specify (hereinafter referred to as \u201cthe specified date\u201d), not less than fifty-one per cent. of the issued capital of the Small Industries Bank which has been subscribed by the Development Bank as on the date immediately preceding the specified date shall, stand transferred to, and vested in, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government in such proportion, manner and on such terms and conditions as may be determined by that Government."
+                    }
+                },
+                "Section 4C.": {
+                    "heading": "Issued capital.",
+                    "paragraphs": {
+                        "0": "(1) The issued capital, of the Small Industries Bank, of four hundred and fifty crores of rupees, immediately before the commencement of the Small Industries Development Bank of India (Amendment) Act, 2000, shall, on such commencement, stand divided into forty-five crores equity shares of rupees ten each.",
+                        "1": "(2) The Board may, from time to time, increase the issued equity share capital or redeemable preference share capital of the Small Industries Bank by allotment of shares to such persons and on such terms and conditions as the Board may determine:",
+                        "2": "Provided that no increase in the issued equity capital shall be made in such a manner that the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government, hold in aggregate at any time, less than fifty-one per cent. of the issued equity share capital of the Small Industries Bank."
+                    }
+                },
+                "Section 4D.": {
+                    "heading": "Reduction of share capital.",
+                    "paragraphs": {
+                        "0": "(1) The Small Industries Bank may, with the prior approval of the Central Government, by a resolution passed in a general meeting of the shareholders, reduce its share capital in any way.",
+                        "1": {
+                            "text": "(2) Without prejudice to the generality of the foregoing power, the share capital may be reduced by\u2014",
+                            "contains": {
+                                "0": "(a) extinguishing or reducing the liability on any of its equity shares in respect of the share capital not paid-up;",
+                                "1": "(b) either with or without extinguishing or reducing liability on any of its equity shares, cancelling any paid-up share capital which is lost, or is unrepresented by available assets; or",
+                                "2": "(c) either with or without extinguishing or reducing liability on any of its equity shares, paying off any paid-up share capital which is in excess of the wants of the Small Industries Bank."
+                            }
+                        },
+                        "2": "(3) In any general meeting referred to in sub-section (1), the resolution for reduction of share capital shall be passed by shareholders entitled to vote, voting in person, or, where proxies are allowed, by proxy, and the votes cast in favour of the resolution are not less than three times the number of the votes, if any, cast against the resolution by shareholders so entitled and voting."
+                    }
+                },
+                "Section 4E.": {
+                    "heading": "Restriction on exercising of voting right.",
+                    "paragraphs": {
+                        "0": "Every shareholder of the Small Industries Bank holding equity shares shall have a right to vote in respect of such shares on every resolution and his voting right on a poll shall be in proportion to his share of the paid-up equity share capital of the Small Industries Bank:",
+                        "1": "Provided, however, that no shareholder, other than the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government, shall be entitled to exercise voting rights in respect of any equity shares held by him in excess of ten per cent. of the issued equity share capital."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Management.",
+                    "paragraphs": {
+                        "0": "(1) The general superintendence, direction and management of affairs and business of the Small Industries Bank shall vest in a Board of Directors which may exercise all powers and do all such acts and things as may be exercised or done by the Small Industries Bank and are not by this Act expressly directed or required to be done by the Small Industries Bank in general meeting.",
+                        "1": "(2) The Board may direct that any power exercisable by it under this Act shall also be exercisable in such cases and subject to such conditions, if any, as may be specified by it, by the chairman and managing director or the whole-time directors.",
+                        "2": "(3) Subject to the provisions of this Act, the Board in discharging its functions shall act on business principles with due regard to public interest."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Constitution of Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Board shall consist of the following, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a chairman and managing director appointed by the Central Government;",
+                                "1": "(b) two whole-time directors appointed by the Central Government;",
+                                "2": "(c) two directors who shall be officials of the Central Government nominated by the Central Government;",
+                                "3": "(d) three directors to be nominated in the prescribed manner by the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government;",
+                                "4": "(e) three directors, including one Director from the officials of the State Financial Corporations, nominated by the Central Government from amongst the persons having special knowledge of, or professional experience in, science, technology, economics, industry, banking, industrial co- operatives, law, industrial finance, investment, accountancy, marketing or any other matter, the special knowledge of, or professional experience in, which would, in the opinion of the Central Government, be useful to the Small Industries Bank;",
+                                "5": {
+                                    "text": "(f) such number of directors not exceeding four elected in the prescribed manner, by shareholders, other than the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government, whose names are entered in the register of shareholders of the Small Industries Bank ninety days before the date of the meeting in which such election takes place on the following basis, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) where the total amount of equity share capital issued to such shareholders is ten per cent. or less of the total issued equity share capital, two directors;",
+                                        "1": "(ii) where the total amount of equity share capital issued to such shareholders is more than ten per cent. but less than twenty-five per cent. of the total issued equity share capital, three directors; and",
+                                        "2": "(iii) where the total amount of equity share capital issued to such shareholders is twenty-five per cent. or more of the total issued equity share capital, four directors:"
+                                    }
+                                }
+                            }
+                        },
+                        "1": "Provided that if the percentage of holding of issued equity share capital with the shareholders, other than the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government, does not permit election of four directors or until the assumption of charge by the elected directors, the Board may at any time co-opt such number of directors, not exceeding four, from amongst the persons having special knowledge of, or professional experience in, science, technology, economics, industry, banking, industrial co-operatives, law, industrial finance, investment, accountancy, marketing or any other matter, the special knowledge of, or professional experience in, which would, in the opinion of the Board, be useful to the Small Industries Bank for carrying out its functions, who shall hold office until the assumption of charge by the elected directors and an equal number of such co-opted directors shall retire in the order of co-option.",
+                        "2": "(2) The chairman and managing director and the whole-time directors shall hold office for such term not exceeding five years as the Central Government may specify in this behalf and any person so appointed shall be eligible for re-appointment.",
+                        "3": "(3) Notwithstanding anything contained in sub-section (1), the Central Government shall have the right to terminate the term of office of the chairman and managing director or the whole-time director, as the case may be, at any time before the expiry of the term specified under sub-section (2) by giving him notice of not less than three months in writing or three months\u2019 salary and allowances in lieu of such notice and the chairman and managing director or the whole-time director, as the case may be, shall also have the right to relinquish his office at any time before the expiry of the term specified under sub-section (2) by giving, the Central Government, notice of not less than three months in writing.",
+                        "4": "(4) The chairman and managing director and the whole-time directors shall receive such salary and allowances, as may be determined by the Central Government.",
+                        "5": "(5) The Central Government may, at any time, remove the chairman and managing director or the whole-time director, as the case may be, from office:",
+                        "6": "Provided that no person shall be removed from his office, under this sub-section, unless he has been given an opportunity of showing cause against his removal.",
+                        "7": "(6) Every Director nominated under clauses (c), (d) and (e) of sub-section (1), shall hold office during the pleasure of the authority nominating him.",
+                        "8": {
+                            "text": "(7) Subject to the provisions of sub-section (6),\u2014",
+                            "contains": {
+                                "0": "(a) every Director nominated under clauses (d) and (e) of sub-section (1) shall hold office for such term not exceeding three years as the Central Government, or the authority nominating him, as the case may be, may specify in this behalf and thereafter until his successor assumes office, and shall be eligible for re-nomination:"
+                            }
+                        },
+                        "9": {
+                            "text": "Provided that no such Director shall hold office continuously for a period exceeding six years; and",
+                            "contains": {
+                                "0": "(b) every Director elected under clause (f) of sub-section (1) shall hold office for three years and thereafter until his successor assumes office and shall be eligible for re-election:"
+                            }
+                        },
+                        "10": "Provided that no such director shall hold office continuously for a period exceeding six years.",
+                        "11": "(8) The shareholders, other than the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government may, after giving the director a reasonable opportunity of being heard in the manner as may be prescribed, by resolution passed by majority of the votes of such shareholders holding in the aggregate not less than one-half of the equity share capital held by such shareholders, remove any director elected under clause (f) of sub-section (1) and elect another director in his place to fill the vacancy so caused.",
+                        "12": "(9) (i) A meeting of the Board shall be held at least once in every three months and at least four meetings shall be held every year and the meetings may be held at such places as may be prescribed.",
+                        "13": "(ii) Notice of every meeting of the Board shall be given in writing to every Director for the time being in India, and at his usual address in India to every other Director.",
+                        "14": "(10) Subject to the provisions contained in this Chapter, the Board may meet at such times and places and shall observe such rules of procedure in regard to transaction of its business including the manner of adoption of resolutions as may be prescribed.",
+                        "15": "(11) The chairman and managing director, if for any reason, is unable to attend a meeting of the Board, any other Director nominated by the chairman and managing director in this behalf and in the absence of such nomination, any director elected by the directors present from among themselves, shall preside at the meeting.",
+                        "16": "(12) All questions which come up before any meeting of the Board shall be decided by a majority of votes of the directors present and voting, and in the event of an equality of votes, the chairman and managing director, or in his absence, the person presiding, shall have a second or casting vote.",
+                        "17": "(13) Save as provided in sub-section (12), every Director of the Board shall have one vote.]"
+                    }
+                },
+                "Section 7.": {
+                    "heading": "[Omitted.]",
+                    "paragraphs": {
+                        "0": "[Managing Director.]\u2014Omitted by the Small Industries Development Bank of India (Amendment) Act, 2000 (7 of 2000) s. 4 (w.e.f. 27-3-2000)."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Disqualification of directors.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "A person shall not be eligible for being elected as a director under clause (f) of sub-section (1) of section 6, if he\u2014",
+                            "contains": {
+                                "0": "(a) has been found to be of unsound mind by a court of competent jurisdiction and the finding is in force;",
+                                "1": "(b) is an undischarged insolvent;",
+                                "2": "(c) has applied to be adjudicated as an insolvent and his application is pending;",
+                                "3": "(d) has been convicted by a court of competent jurisdiction, of any offence involving moral turpitude and sentenced in respect thereof to imprisonment for not less than six months and a period of five years has not elapsed from the date of expiry of the sentence; or",
+                                "4": "(e) has not paid any call in respect of shares of the Small Industries Bank held by him, whether alone or jointly with others, and six months have elapsed from the last day fixed for the payment of the call."
+                            }
+                        }
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Vacation and resignation of office by directors.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The office of a director shall become vacant if he\u2014",
+                            "contains": {
+                                "0": "(a) becomes subject to any of the disqualifications mentioned in section 8; or",
+                                "1": "(b) resigns his office by giving notice in writing under his hand and the resignation is accepted; or",
+                                "2": "(c) absents himself from three consecutive meetings of the Board without obtaining leave of absence from the Board."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) Notwithstanding anything contained in clause (a) of sub-section (1), the disqualifications referred to in that clause shall not take effect\u2014",
+                            "contains": {
+                                "0": "(a) for thirty days from the date of the adjudication, sentence or order;",
+                                "1": "(b) where any appeal or petition is preferred within thirty days aforesaid against the adjudication, sentence or conviction resulting in the sentence or order until the expiry of seven days from the date on which such appeal or petition is disposed of; or",
+                                "2": "(c) where within the seven days aforesaid, any further appeal or petition is preferred in respect of the adjudication, sentence, conviction or order and the appeal or petition, if allowed, would result in the removal of the disqualification, until such further appeal or petition is disposed of.]"
+                            }
+                        }
+                    }
+                },
+                "Section 10.": {
+                    "heading": "[Omitted.]",
+                    "paragraphs": {
+                        "0": "[Causal Vacancies in office of Managing Director.]\u2014Omitted by the Small Industries Development Bank of India (Amendment) Act, 2000 (7of 2000) s. 6 (w.e.f. 27-3-2000)."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "[Omitted.]",
+                    "paragraphs": {
+                        "0": "[Meetings of the Board.]\u2014Omitted by s. 6, ibid. (w.e.f. 27-3-2000)."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Executive Committee and other committees.",
+                    "paragraphs": {
+                        "0": "(1) The Board shall constitute an Executive Committee consisting of the chairman and managing director, the whole-time directors and such other directors as it may deem fit.",
+                        "1": "(2) The Executive Committee shall discharge such functions as may be prescribed or as may, without prejudice to the provisions contained in section 34, be delegated to it by the Board.",
+                        "2": "(3) The Board may constitute such other committees whether consisting wholly of directors or wholly of other persons or partly of directors and partly of other persons for such purpose or purposes as it may think fit.",
+                        "3": "(4) The Executive Committee or any other committee constituted under this section shall meet at such times and places and shall observe such rules of procedure in regard to the transaction of business at its meetings as may be prescribed."
+                    }
+                },
+                "Section 12A.": {
+                    "heading": "Fees and allowances of directors and members of committees.",
+                    "paragraphs": {
+                        "0": "The directors and the members of a committee shall be paid such fees and allowances as may be prescribed for attending the meetings of the Board or of any committee constituted in pursuance of this Act and for attending to any other work of the Small Industries Bank:",
+                        "1": "Provided that no fees shall be payable to the chairman and managing director or to the whole-time directors or to any other director who is an official of the Government.]"
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER IV",
+            "Name": "BUSINESS OF THE SMALL INDUSTRIES BANK",
+            "Sections": {
+                "Section 13.": {
+                    "heading": "Business of Small Industries Bank.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Small Industries Bank shall function as the principal financial institution for the promotion, financing and development of industrial concerns in the small-scale sector and shall also coordinate the functions of institutions engaged in promoting, financing and developing the industrial concerns in the small-scale sector and may carry on and transact any of the following business, namely:\u2014",
+                            "contains": {
+                                "0": "2[(i) granting loans and advances to any State Financial Corporation, State Industrial Development Corporation, State Small Industries Corporation, scheduled bank, State Cooperative Bank or such other financial institutions, approved by the Board in this behalf, by way of refinance on such terms and conditions as it may deem fit to impose, of any loans or advances granted to industrial concerns in the small-scale sector by such corporation, bank, or institution or, of any loans or advances granted by the State Financial Corporation or State Industrial Development Corporation to any other industrial concern, which are repayable within a period not exceeding twenty-five years;]",
+                                "1": "(ii) accepting, discounting or rediscounting bills of exchange and promissory notes made, drawn, accepted or endorsed by industrial concerns in the small-scale sector or by any person selling products manufactured by an industrial concern in the small-scale sector;",
+                                "2": "(iii) subscribing to, or purchasing stocks, shares bonds or debentures of, any State Financial Corporation, State Industrial Development Corporation, State Small Industries Corporation, National Small Industries Corporation or 3[such other financial institutions as may be approved by the Board in this behalf];",
+                                "3": "(iv) granting lines of credit or loans and advances to any State Financial Corporation, State Industrial Development Corporation, State Small Industries Corporation, National Small Industries Corporation or 3[such other financial institutions as may be approved by the Board in this behalf];",
+                                "4": "(v) granting loans and advances to any industrial concern in the small-scale sector or subscribing to, or purchasing, or under-writing the issue of stocks, shares, bonds or debentures of, any such concern:",
+                                "5": "Provided that nothing contained in this clause shall be deemed to preclude the Small Industries Bank from granting loans or advances to, or subscribing to the debentures of, an industrial concern in the small-scale sector, the amounts outstanding thereon may be convertible at the option of the Small Industries Bank into stocks or shares of that concern within the period of loan, advance or debenture is repayable.",
+                                "6": "Explanation.\u2014In this clause, the expression \u201cthe amounts outstanding thereon\u201d used in relation to any loan or advance, shall mean the principal, interest and other charges payable on such loan or advance as at the time when the amounts are sought to be converted into stocks or shares;",
+                                "7": {
+                                    "text": "(vi) granting loans and advances\u2014",
+                                    "contains": {
+                                        "0": "(a) to any person exporting; or",
+                                        "1": "(b) to any person outside India, in connection with the export; or",
+                                        "2": "(c) for the execution of turn-key projects outside India by any industrial concern in the small- scale sector;"
+                                    }
+                                },
+                                "8": "(vii) granting loans and advances to a scheduled bank or any other bank or such financial institutions 1[approved by the Board in this behalf], by way of refinance of loans and advances granted by it for purposes of export;",
+                                "9": "(viii) accepting, collecting, discounting, rediscounting, purchasing, selling or negotiating in or outside India, bills of exchange or promissory notes arising out of transactions, relating to export or import and granting of loans and advances in or outside India against such bills or promissory notes;",
+                                "10": "(ix) granting, opening, issuing, confirming or endorsing letters of credit and negotiating or collecting bills or other documents drawn thereunder;",
+                                "11": "(x) granting lines of credit to the Government of any foreign State or any financial institution or person outside India for the purpose of export or import;",
+                                "12": "(xi) financing export from or import into India of machinery, equipment or other assets including vehicles, ships and aircrafts on lease, sub-lease or hire purchase basis by or for any industrial concern in small-scale sector;",
+                                "13": "(xii) buying or selling of, or entering into such other dealings in, foreign exchange, as may be necessary for the discharge of the functions of the Small Industries Bank;",
+                                "14": "(xiii) opening of any account in any bank in or outside India or making of any agency arrangements with, or acting as an agent or correspondent of, any bank or other institution in or outside India;",
+                                "15": "(xiv) transferring for consideration any instrument relating to loans and advances granted by it to any industrial concern in the small-scale sector;",
+                                "16": "(xv) granting loans and advances to any person for purposes of investment in any industrial concern in the small-scale sector;",
+                                "17": "(xvi) guaranteeing loans raised from, or credit arrangements made with, any bank, financial institution or other lending agency in any country outside India in foreign currency, with the approval of the Central Government, by industrial concern in the small-scale sector;",
+                                "18": "(xvii) guaranteeing deferred payments due from any industrial concern in the small-scale sector;",
+                                "19": {
+                                    "text": "(xviii) guaranteeing\u2014",
+                                    "contains": {
+                                        "0": "(a) loans raised by industrial concerns in the small-scale sector which are floated in the public market, or",
+                                        "1": "(b) loans raised by any industrial concern in the small-scale sector from any scheduled bank or State Co-operative Bank or State Financial Corporation or State Industrial Corporation or such other financial institutions 1[as approved by the Board in this behalf];"
+                                    }
+                                },
+                                "20": "(xix) guaranteeing the obligations of any scheduled bank or State Co-operative Bank or State Financial Corporation or State Industrial Development Corporation or State Small Industries Corporation or such other financial institutions 1[as approved by the Board in this behalf], arising out of, or in connection with, underwriting the issue of stocks, shares, bonds or debentures of any industrial concern in the small-scale sector;",
+                                "21": "(xx) providing factoring services to any industrial concern in the small-scale sector;",
+                                "22": "(xxi) providing technical and financial consultancy, merchant banking and extension services;",
+                                "23": "(xxii) undertaking activities for promotion of industry in the small-scale sector including entrepreneural development programmes, raw material purchase, marketing support and promotion of, or financial support to, agencies engaged in such activities;",
+                                "24": "(xxiii) acquiring, with the approval of 2[the Central Government], the undertaking including the business, assets and liabilities of any institution the principal object of which is the promotion or development of industry in the small-scale sector in India, or the grant of financial assistance for such promotion or development;",
+                                "25": "(xxiv) leasing, sub-leasing or giving on hire or hire-purchase any movable or immovable assets to any industrial concern in the small-scale sector;",
+                                "26": "(xxv) undertaking research and surveys for evaluating or dealing with marketing or investments and undertaking and carrying on techno-economic studies in connection with the development of industry in the small-scale sector;",
+                                "27": "(xxvi) providing technical, legal, marketing and administrative assistance to any industrial concern in the small-scale sector or any person for promotion, management or expansion of any industrial concern in the small-scale sector;",
+                                "28": "(xxvii) planning, promoting and developing industries in the small-scale sector;",
+                                "29": "(xxviii) promoting, forming or conducting or associating in the promotion, formation or conduct of companies, subsidiaries, societies, trusts or such other association of persons as it may deem fit;",
+                                "30": {
+                                    "text": "(xxix) acting as agent of\u2014",
+                                    "contains": {
+                                        "0": "(a) the Central Government or of the Reserve Bank or of the Development Bank, or",
+                                        "1": "(b) such other Government or person as 3[the Board] may authorise;",
+                                        "2": "(xxx) doing any other kind of business which the Central Government may, on the recommendation of 3[the Board], authorise;",
+                                        "3": "(xxxi) generally doing such other acts and things as may be incidental to, or consequential upon, the exercise of its powers or the discharge of its duties under this Act or any other law for the time being in force including sale or transfer of any of its assets."
+                                    }
+                                }
+                            }
+                        },
+                        "1": "(2) The Small Industries Bank may receive in consideration of any of the services mentioned in sub-section (1) such commission, brokerage, interest, remuneration or fees as may be agreed upon.",
+                        "2": "(3) The Small Industries Bank shall not grant any loan or advance or other financial accommodation on the security of its own bonds or debentures."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Loans by Central Government.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Central Government may, after the due appropriation made by Parliament by law in this behalf, advance to the Small Industries Bank\u2014",
+                            "contains": {
+                                "0": "(a) an interest free loan of such amount and repayable in such instalments and in such other manner as may be determined by the Central Government; and",
+                                "1": "(b) such further sums of money by way of loan on such terms and conditions as may be agreed upon:"
+                            }
+                        },
+                        "1": "Provided that the Central Government may, on a request being made to it by the Small Industries Bank, increase the number of instalments or alter the amount of any instalment or vary the date on which any instalment is payable under clause (a)."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Borrowings and acceptance of deposits by the Small Industries Bank.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Small Industries Bank may, for the purpose of carrying out its functions under this Act,\u2014",
+                            "contains": {
+                                "0": "(a) issue and sell bonds and debentures with or without the guarantee of the Central Government;",
+                                "1": {
+                                    "text": "(b) borrow money from the Reserve Bank\u2014",
+                                    "contains": {
+                                        "0": "(i) repayable on demand or on the expiry of the fixed periods not exceeding ninety days from the date on which the money is so borrowed against the security of stocks, funds and securities (other than immovable property) in which a trustee is authorised to invest trust money by any law for the time being in force in India;",
+                                        "1": "(ii) against bills of exchange or promissory notes arising out of bona fide commercial or trade transactions, bearing two or more good signatures and maturing within five years from the date of the borrowing;",
+                                        "2": "(iii) out of the National Industrial Credit (Long Term Operations) Fund established under section 46C of the Reserve Bank of India Act, 1934 (2 of 1934), for any of the purposes specified in that section;"
+                                    }
+                                },
+                                "2": "(c) borrow money from the Development Bank or such other authority, organisation or institution as may be generally or specially 1[approved by the Board];",
+                                "3": "(d) accept deposits repayable after the expiry of such period and on such terms as may be generally or specially 1[approved by the Board]."
+                            }
+                        },
+                        "1": "(2) The Central Government may, on a request being made to it by the Small Industries Bank, guarantee the bonds and debentures issued by that Bank as to the repayment of principal and the payment of interest at such rate as may be fixed by that Government."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Investment.",
+                    "paragraphs": {
+                        "0": "The Small Industries Bank may invest (whether by way of deposits in banks or otherwise) the amounts available in the Small Industries Development Assistance Fund or the Small Industries General Fund or any other fund or account which are not for the time being required for the transaction of business in such manner as may be approved by the Board.]"
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Power to transfer rights.",
+                    "paragraphs": {
+                        "0": "The rights and interests of the Small Industries Bank (including any other rights incidental thereto) in relation to any loan or advance granted, or any amount recoverable, by it may be transferred by the Small Industries Bank, either in whole or in part, by the execution or issue of any instrument or by the transfer of any instrument by endorsement, or in any other manner in which the rights and interests in relation to such loan or advance may be lawfully transferred, and the Small Industries Bank may, notwithstanding such transfer, act as the trustee for the transferee."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Power to acquire rights.",
+                    "paragraphs": {
+                        "0": "The Small Industries Bank shall have the right to acquire, by transfer on assignment the rights and interests of any public financial institution as defined in section 4A of the Companies Act, 1956 (1 of 1956) (including any other rights incidental thereto) in relation to any loan or advance granted, or any amount recoverable by such institution, either in whole or in part, by the execution or issue of any instrument or by the transfer of any instrument or in any other manner."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Loan in foreign currency.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in the Foreign Exchange Regulation Act, 1973 (46 of 1973), or in any other enactment for the time being in force relating to foreign exchange, the Small Industries Bank may, for the purposes of granting loans and advances under this Act, borrow, with the previous consent of the Central Government 1***, foreign currency from any bank or financial institution in any foreign country or otherwise.",
+                        "1": "(2) The Central Government may, where necessary, guarantee any loan taken by the Small Industries Bank under sub-section (1) or any part thereof as to the repayment of principal and the payment of interest and other incidental charges.",
+                        "2": "(3) All loans and advances granted by the Small Industries Bank out of foreign currency borrowed under sub-section (1) shall be expressed in terms of foreign currency as equivalent of Indian currency calculated in accordance with the rate of exchange prevailing at the time of grant thereof, and the amount due thereunder shall be repayable in equivalent Indian currency, calculated in accordance with the rate of exchange prevailing at the time of repayment of such loan or advance.",
+                        "3": {
+                            "text": "(4) Unless otherwise provided by the Central Government, any loss or profit in connection with any borrowing of foreign currency under sub-section (1) for the purpose of granting loans and advances under this Act, or with its repayment to the concerned foreign lending agency, on account of any fluctuations in the exchange accruing\u2014",
+                            "contains": {
+                                "0": "(a) during the period within which the loan or advance is repayable by the industrial concern in the small-scale sector or the period of actual repayment thereof by the concern, whichever is longer, shall be reimbursed by, or paid to, as the case may be, the recipient of such loans and advances;",
+                                "1": {
+                                    "text": "(b) after the expiry of the period specified in clause (a),\u2014",
+                                    "contains": {
+                                        "0": "(i) shall be borne by the Small Industries Bank in respect of normal market fluctuations in the rate of foreign exchange;",
+                                        "1": "(ii) shall be reimbursed by, or paid to, as the case may be, the Central Government in respect of fluctuations other than the normal market fluctuations in foreign exchange."
+                                    }
+                                }
+                            }
+                        },
+                        "4": "Explanation.\u2014If any question arises as to whether any fluctuation as aforesaid is a normal market fluctuation or not, the same shall be decided by the Central Government whose decision thereon shall be final."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Grants, donations, etc., to the Small Industries Bank.",
+                    "paragraphs": {
+                        "0": "The Small Industries Bank may receive gifts, grants, donations, benefactions or other monies from Government or any other source."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IVA",
+            "Name": "SHARES",
+            "Sections": {
+                "Section 20A.": {
+                    "heading": "Free transferability of shares.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided in sub-section (2), the equity shares of the Small Industries Bank shall be freely transferable.",
+                        "1": "(2) Nothing contained in sub-section (1) shall entitle the Development Bank, the public sector banks, the General Insurance Corporation, the Life Insurance Corporation and other institutions owned or controlled by the Central Government to transfer any shares held by them in the Small Industries Bank if such transfer will result in reducing the equity shares held in aggregate by them to less than fifty-one per cent. of the issued equity share capital of the Small Industries Bank."
+                    }
+                },
+                "Section 20B.": {
+                    "heading": "Register of shareholders.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Small Industries Bank shall keep at its head office a register, in one or more books, of the shareholders and shall enter therein the following particulars so far as they may be available, namely:\u2014",
+                            "contains": {
+                                "0": "(i) the names, addresses and occupations, if any, of the shareholders and a statement of the shares held by each shareholder, distinguishing each share by its denoting number;",
+                                "1": "(ii) the date on which each person is so entered as a shareholder;",
+                                "2": "(iii) the date on which any person ceases to be a shareholder; and",
+                                "3": "(iv) such other particulars as may be prescribed:"
+                            }
+                        },
+                        "1": "Provided that nothing in this sub-section shall apply to the shares held with a depository under the Depositories Act, 1996 (22 of 1996).",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), it shall be lawful for the Small Industries Bank to keep the register of the shareholders in computer floppies, diskettes, compact disk or any other electronic form, subject to such safeguards, as may be prescribed.",
+                        "3": "(3) Notwithstanding anything contained in the Indian Evidence Act, 1872 (1 of 1872), a copy of, or extract from, the register of the shareholders, certified to be a true copy under the hand of an officer of the Small Industries Bank authorised in this behalf, shall, in all legal proceedings, be admissible in evidence.",
+                        "4": "(4) The Register of beneficial owners maintained by a depository under section 11 of the Depositories Act, 1996 (22 of 1996) shall be deemed to be a Register of the shareholders for the purposes of this Act."
+                    }
+                },
+                "Section 20C.": {
+                    "heading": "Trust not to be entered on the register of shareholders.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in section 20B, no notice of any trust, express, implied or constructive, shall be entered on the register of shareholders or be receivable by the Small Industries Bank:",
+                        "1": "Provided that nothing in this section shall apply to a depository in respect of the shares held by it as a registered owner on behalf of a beneficial owner.",
+                        "2": "Explanation.\u2014For the purposes of section 20B and this section, the expressions \u201cbeneficial owner\u201d, \u201cdepository\u201d and \u201cregistered owner\u201d shall have the meanings respectively assigned to them in clauses (a), (e) and (j) of sub-section (1) of section 2 of the Depositories Act, 1996 (22 of 1996)."
+                    }
+                },
+                "Section 20D.": {
+                    "heading": "Board\u2019s right to refuse registration of transfer of shares.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Board may refuse to register the transfer of any shares in the name of the transferee on any one or more of the following grounds, and on no other ground, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the transfer of the shares is in contravention of the provisions of this Act or regulations made thereunder or any other law;",
+                                "1": "(b) the transfer of the shares, in the opinion of the Board, is prejudicial to the interests of the Small Industries Bank or to the public interest;",
+                                "2": "(c) the transfer of shares is prohibited by an order of a court, tribunal or any other authority under any law for the time being in force."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) The Board shall, before the expiry of two months from the date on which the instrument of transfer of shares of the Small Industries Bank is lodged with it for the purpose of registration of such transfer, not only form, in good faith, its opinion as to whether such registration ought not or ought to be refused on any of the grounds referred to in sub-section (1) but also,\u2014",
+                            "contains": {
+                                "0": "(a) if it has formed the opinion that such registration ought not to be so refused, effect such registration; and",
+                                "1": "(b) if it has formed the opinion that such registration ought to be refused on any of the grounds mentioned in sub-section (1), intimate the transferor and the transferee by notice in writing."
+                            }
+                        },
+                        "2": "(3) An appeal against the order of refusal of the Board under sub-section (2) shall lie to the Central Government and the procedure for filing and hearing of such appeal shall be in accordance with the rules made by the Central Government in this behalf."
+                    }
+                },
+                "Section 20E.": {
+                    "heading": "Shares to be securities under the Indian Trusts Act, 1882.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in the Indian Trusts Act, 1882 (2 of 1882), the shares of the Small Industries Bank shall be deemed to be included among the securities enumerated in section 20 of the said Act."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER IVB",
+            "Name": "MEETINGS AND PROCEEDINGS",
+            "Sections": {
+                "Section 20F.": {
+                    "heading": "Annual general meeting.",
+                    "paragraphs": {
+                        "0": "(1) The Small Industries Bank shall in each year hold, in addition to any other meetings, a general meeting as its annual general meeting and shall specify the meeting as such in the notices calling it; and not more than fifteen months shall elapse between the date of one annual general meeting and that of the next:",
+                        "1": "Provided that the Small Industries Bank may hold the first annual general meeting within a period of six months from the date on which it allots shares for the first time to public for subscription:",
+                        "2": "Provided further that the Central Government may extend the time within which any annual general meeting shall be held by a period not exceeding three months.",
+                        "3": "(2) Every annual general meeting shall be called for a time during business hours, on a day that is not public holiday, and shall be held either at head office or at some other place within the city or town in which the head office is situated.",
+                        "4": "Explanation.\u2014For the purposes of this section, \u201cpublic holiday\u201d means a public holiday within the meaning of the Negotiable Instruments Act, 1881 (26 of 1881):",
+                        "5": "Provided that no Sunday shall be deemed to be such a holiday in relation to any meeting:",
+                        "6": "Provided further that no day declared by the Central Government to be a public holiday shall be deemed to be such a holiday, in relation to any meeting, unless the declaration was notified before the issue of the notice convening such meeting."
+                    }
+                },
+                "Section 20G.": {
+                    "heading": "Matters to be discussed and procedure in annual general meeting.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The shareholders present at an annual general meeting shall be entitled to discuss and adopt\u2014",
+                            "contains": {
+                                "0": "(a) the balance-sheet and profit and loss account of the Small Industries Bank made up to the date on which its accounts are closed and balanced;",
+                                "1": "(b) the report of working of the Small Industries Bank for the period covered by the accounts;",
+                                "2": "(c) the auditor\u2019s report on the balance-sheet and accounts;",
+                                "3": "(d) proposals for declaration of dividend and capitalisation of reserves;",
+                                "4": "(e) appointment of auditors referred to in sub-section (1) of section 30."
+                            }
+                        },
+                        "1": "(2) The shareholders present at an annual general meeting may also discuss any other matter to be transacted at such meetings in accordance with the provisions of this Act.",
+                        "2": {
+                            "text": "(3) The matters relating to\u2014",
+                            "contains": {
+                                "0": "(a) the manner in which annual general meeting or other meetings are held under this Act and the procedure to be followed thereat;",
+                                "1": "(b) the manner in which voting rights may be exercised and resolutions may be passed; and",
+                                "2": "(c) the procedure for transaction of business at such meetings and related matters."
+                            }
+                        },
+                        "3": "shall be such as may be prescribed.]"
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER V",
+            "Name": "SMALL INDUTRIES DEVELOPMENT ASSISTANCE FUND",
+            "Sections": {
+                "Section 21.": {
+                    "heading": "Small Industries Development Assistance Fund.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification, appoint, the Small Industries Bank shall establish and maintain, a special fund to be called the Small Industries Development Assistance Fund.",
+                        "1": "(2) The Small Industries Bank may, at any time, establish any fund as part of the Small Industries Development Assistance Fund for such purpose or purposes as may be approved by the Central Government on the recommendation of the 1[Board], or establish any other fund as may be required by or under any law for the time being in force."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Credits to Small Industries Development Assistance Fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "To the Small Industries Development Assistance Fund shall be credited\u2014",
+                            "contains": {
+                                "0": "(a) all amounts received for the purpose of that Fund by way of loans, gifts, grants, donations, benefactions or otherwise from Government or any other source;",
+                                "1": "(b) repayments or recoveries in respect of loans, advances or other facilities granted from the Fund;",
+                                "2": "(c) income or profits from investments made from the Fund; and",
+                                "3": "(d) income accruing or arising to the Fund, by way of interest or otherwise, on account of the application of the Fund in accordance with the provisions of section 23."
+                            }
+                        }
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Utilisation of Small Industries Development Assistance Fund.",
+                    "paragraphs": {
+                        "0": "The Small Industries Bank may disburse or spend from the Small Industries Development Assistance Fund, any amount for such purposes as the Central Government may, on the recommendation of the 2[Board], specify."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Debits to Small Industries Development Assistance Fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) To the Small Industries Development Assistance Fund shall be debited\u2014",
+                            "contains": {
+                                "0": "(a) such amounts as may from time to time be disbursed or spend under section 23;",
+                                "1": "(b) such amounts as may be required for discharging the liabilities in respect of loans received for the purpose of that Fund;",
+                                "2": "(c) any loss arising on account of investment made out of that Fund; and",
+                                "3": "(d) such expenditure arising out of, or in connection with, the administration and application of that Fund as may be determined by the Board."
+                            }
+                        },
+                        "1": "(2) No amount shall be debited to the Small Industries Development Assistance Fund except as provided for in sub-section (1)."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Accounts and audit of Small Industries Development Assistance Fund.",
+                    "paragraphs": {
+                        "0": "(1) The balance-sheet and accounts of Small Industries Development Assistance Fund shall be prepared in such form and manner as may be prescribed.",
+                        "1": "(2) The Board shall cause the books and accounts of the Small Industries Development Assistance Fund to be closed and balanced as on the 31st day of March, each year or such other date as the 3[Board] may specify.",
+                        "2": "4[(3) The Small Industries Development Assistance Fund shall be audited by the auditors, appointed under sub-section (1) of section 30, who shall make a separate report thereon.]",
+                        "3": "(4) The provisions of sub-sections (2), (3) and (4) of section 30 shall, so far as may be, apply in relation to the audit of the Small Industries Development Assistance Fund.",
+                        "4": "(5) The Small Industries Bank shall furnish to the Central Government 5*** within four months from the date on which the accounts of the Small Industries Development Assistance Fund are closed and balanced, a copy of balance-sheet and accounts together with a copy of its auditors\u2019 report and a report on the operation of that Fund during the relevant year and the Central Government shall, as soon as may be after they are received by it, cause the same to be laid before each House of Parliament."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Liquidation of Small Industries Development Assistance Fund.",
+                    "paragraphs": {
+                        "0": "The Small Industries Development Assistance Fund shall not be closed or wound up save by order of the Central Government and in such manner as that Government may, 1*** direct."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VI",
+            "Name": "SMALL INDUSTRIES GENERAL, FUND, ACCOUNTS AND AUDIT",
+            "Sections": {
+                "Section 27.": {
+                    "heading": "Small Industries General Fund.",
+                    "paragraphs": {
+                        "0": "All receipts of the Small Industries Bank other than those which are to be credited to the Small Industries Development Assistance Fund under this Act shall be credited to a fund to be called the Small Industries General Fund and all payments by the Small Industries Bank, other than those which are to be debited to the Small Industries Development Assistance Fund, shall be made out of the Small Industries General Fund."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Preparation of accounts and balance-sheet.",
+                    "paragraphs": {
+                        "0": "(1) The balance-sheet and accounts of the Small Industries Bank shall be prepared in such form and manner as may be prescribed.",
+                        "1": "(2) The Board shall cause the books and accounts of the Small Industries Bank to be closed and balanced as on the 31st day of March each year or such other date, as the 2[Board] may specify."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Disposal of profits accruing to Small Industries General Fund.",
+                    "paragraphs": {
+                        "0": "(1) The Small Industries Bank may establish a reserve fund to which may be transferred such sums as that Bank may deem fit out of the annual profits accruing to the Small Industries General Fund.",
+                        "1": "3[(2) After making provision for bad and doubtful debts, depreciation of assets and for all other matters for which provision is necessary or expedient or which is usually provided for by bankers and for the reserve fund referred to in sub-section (1), and after transferring a part of the profits to such other reserves or funds as may be considered appropriate, the Board may, out of its net profits, propose a dividend.]"
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Audit.",
+                    "paragraphs": {
+                        "0": "4[(1)The accounts of the Small Industries Banks shall be audited by auditors duly qualified to act as auditors under sub-section (1) of section 226 of the Companies Act, 1956 (1 of 1956), who shall be appointed by the Small Industries Bank in general meeting of the shareholders out of the panel of auditors approved by the Reserve Bank for such term and on such remuneration as the Reserve Bank may fix.]",
+                        "1": "(2) The auditors shall be supplied with a copy of the annual balance-sheet of the Small Industries Bank and it shall be their duty to examine it together with the accounts and vouchers relating thereto and they shall have a list delivered to them of all books kept by the Small Industries Bank and shall at all reasonable times have access to the books, accounts, vouchers and other documents of the Small Industries Bank.",
+                        "2": "(3) The auditors may, in relation to such accounts, examine any Director or any officer or other employee of the Small Industries Bank and shall be entitled to require from the Board or officers or other employees of the Small Industries Bank such information and explanation as they may think necessary for the performance of their duties.",
+                        "3": "(4) The auditors shall make a report to the Small Industries Bank upon the annual balance-sheet and accounts examined by them and in every such report they shall state whether in their opinion the balance-sheet is a full and fair balance-sheet containing all necessary particulars and properly drawn up so as to exhibit a true and fair view of the state of affairs of the Small Industries Bank and in case they had called for any explanation or information from the Board or any officer or other employee of the Small Industries Bank whether it has been given and whether it is satisfactory.",
+                        "4": "(5) The Small Industries Bank shall furnish to the Central Government 1*** within four months from the date on which its accounts are closed and balanced, a copy of its balance-sheet and accounts together with a copy of the auditors\u2019 report and a report of the working of the Small Industries Bank during the relevant year, and the Central Government shall, as soon as may be after they are received by it, cause the same to be laid before each House of Parliament."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Saving.",
+                    "paragraphs": {
+                        "0": "Save as otherwise provided in sub-section (4) of section 25, nothing contained in this Chapter shall apply to the Small Industries Development Assistance Fund."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VII",
+            "Name": "TRANSFER OF PART OF BUSINESS OF DEVELOPMENT BANK",
+            "Sections": {
+                "Section 32.": {
+                    "heading": "Transfer of part of business of Development Bank.",
+                    "paragraphs": {
+                        "0": "(1) On such date as the Central Government may, by notification, appoint, the business, assets and liabilities, rights, interests, privileges and obligations of the Development Bank relating to the Small Industries Development Fund and the National Equity Fund (hereinafter in this section referred to as Fund) shall stand transferred to, and vest in, the Small Industries Bank.",
+                        "1": "Explanation.\u2014\u201cSmall Industries Development Fund\u201d and \u201cNational Equity Fund\u201d mean the Small Industries Development Fund and National Equity Fund referred to as such in the books and accounts of the Development Bank on the day immediately preceding the date appointed in this sub-section.",
+                        "2": "(2) For the transfer to, and vesting in, the Small Industries Bank under sub-section (1) of the Funds, that Bank shall pay to the Development Bank such amount and on such terms and conditions as the Development Bank may determine.",
+                        "3": {
+                            "text": "(3) All contracts, deeds, bonds, agreements, powers of attorney, grants of legal representation and other instruments of whatever nature which relate to the Funds and which are subsisting or having effect immediately before the date referred to in sub-section (1) and to which the Development Bank is a party or which are in favour of the Development Bank shall,\u2014",
+                            "contains": {
+                                "0": "(a) if they relate exclusively to the Funds, be of full force and effect against or in favour of the Small Industries Bank and may be enforced and acted upon as fully and effectively as if, instead of the Development Bank, the Small Industries Bank had been a party thereto or as if they had been issued in favour of the Small Industries Bank; and",
+                                "1": "(b) if they relate not only to the Funds but also to any of the other business or functions of the Development Bank, be of full force and effect against or in favour of both the Development Bank and the Small Industries Bank and may be enforced or acted upon as fully and effectively as if, in addition to the Development Bank, the Small Industries Bank had also been a party thereto or as if they had been issued in favour of the Development Bank and also the Small Industries Bank."
+                            }
+                        },
+                        "4": {
+                            "text": "(4) If, on the date referred to in sub-section (1), any suit, appeal or other legal proceeding of whatever nature relating to the Funds is pending, the same shall not abate, be discontinued or be in any way prejudicially affected by reason of the transfer to the Small Industries Bank of the business of the Development Bank or of anything contained in this Act, but the suit, appeal or other proceeding may,\u2014",
+                            "contains": {
+                                "0": "(a) where it relates exclusively to the Funds, be continued prosecuted and enforced by or against the Small Industries Bank; and",
+                                "1": "(b) where it relates not only to the Funds but also to any of the other business or functions of the Development Bank be continued, prosecuted and enforced by or against the Development Bank and the Small Industries Bank or, if the Central Government by order in writing so directs, by or against such one of them, as may be specified in such order."
+                            }
+                        },
+                        "5": "(5) If any question arises as to whether any contract, deed, bond, agreement, power of attorney, grant of legal representation or other instrument referred to in sub-section (3) or any suit, appeal or other legal proceeding referred to in sub-section (4) relates or relate exclusively to the Funds it shall be referred to the Development Bank for decision and the decision of the Development Bank thereon shall be final.",
+                        "6": "(6) The provisions of this section shall have effect notwithstanding anything contained in the Industrial Development Bank of India Act, 1964 (18 of 1964), or any other law or any instrument having force by virtue of the said Act or other law."
+                    }
+                }
+            }
+        },
+        "8": {
+            "ID": "CHAPTER VIII",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 33.": {
+                    "heading": "Staff of Small Industries Bank.",
+                    "paragraphs": {
+                        "0": "(1) The Small Industries Bank may appoint such number of officers and other employees as it considers necessary or desirable for the efficient performance of its functions and determine the terms and conditions of their appointment and service.",
+                        "1": "(2) At any time before the expiry of six months from the appointed day, the Development Bank may, in public interest, transfer to the Small Industries Bank such members of its staff whom the Development Bank considers as relevant to, or suitable for, the functions of the Small Industries Bank, as on deputation with the Small Industries Bank, but such members shall hold office by the same tenure and upon the same terms and conditions of service as respects remuneration, leave, provident fund, retirement or other terminal benefits as they would have held such office if the Small Industries Bank had not been established and shall continue to do so until the Development Bank either on its own motion or at the request of the Small Industries Bank recalls such member of staff to its service:",
+                        "2": "Provided that every member of the staff so transferred may elect to go back to the Development Bank by exercising an option in writing to that effect before the expiry of a period of nine months from the appointed day and on the exercise of such option, the Development Bank shall, before the expiration of a period of eighteen months from the appointed day, take back such member of the staff and he shall be deemed to have been on deputation to the Small Industries Bank during the period he was a member of the staff of the Small Industries Bank.",
+                        "3": "(3) Notwithstanding anything contained in the Industrial Disputes Act, 1947 (14 of 1947) or in any other law for the time being in force, the absorption of any member of the staff by the Small Industries Bank in its regular service under this section shall not entitle such employee to any compensation under that Act or other law and no such claim shall be entertained by any court, tribunal or other authority.",
+                        "4": "Explanation.\u2014For the purposes of this section, \u201cappointed day\u201d means the date of establishment of the Small Industries Bank under section 3."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Delegation of powers.",
+                    "paragraphs": {
+                        "0": "The Board may, by general or special order, delegate to any Director or committee constituted under section 12 or to any officer or other employee of the Small Industries Bank, subject to such conditions and limitations, if any, as may be specified in the order, such of its powers and duties under this Act as it may deem necessary."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Returns.",
+                    "paragraphs": {
+                        "0": "The Small Industries Bank shall furnish from time to time to 1[the Central Government and the Reserve Bank] such returns as they may require."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Obligations as to fidelity and secrecy.",
+                    "paragraphs": {
+                        "0": "(1) The Small Industries Bank shall not, except as otherwise required by this Act or any other law, divulge any information relating to, or to the affairs of, its constituents except in circumstances in which it is, in accordance with the law or practice and usage customary among bankers necessary or appropriate for the Small Industries Bank to divulge such information.",
+                        "1": "(2) The Small Industries Bank may, for the purpose of the efficient discharge of the functions under this Act, collect from or furnish to the Central Government, Reserve Bank, Development Bank, State Bank, any subsidiary bank, nationalised bank or other scheduled bank, State Cooperative Bank, State Financial Corporation, State Industrial Development Corporation, State Small Industries Corporation or the National Small Industries Corporation or such other institutions 1[as may be specified by the Board], credit information or other information as it may consider useful for the purpose, in such manner and at such times, as it may think fit.",
+                        "2": "Explanation.\u2014For the purpose of this sub-section, the expression \u201ccredit information\u201d shall have the same meaning as in clause (c) of section 45A of the Reserve Bank of India Act, 1934 (2 of 1934), subject to the modification that \u201cbanking company\u201d referred to therein shall mean a bank, corporation or other institution referred to in this sub-section.",
+                        "3": "(3) Every Director, member of a committee, auditor, officer or other employee of the Small Industries Bank 2*** whose services are utilised by the Small Industries Bank under the provisions of this Act, shall, before entering upon his duties, make a declaration of fidelity and secrecy in the form set out in the First Schedule to this Act."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Defects in appointment not to invalidate acts, etc.",
+                    "paragraphs": {
+                        "0": "(1) No act or proceeding of the Board or of any committee of the Small Industries Bank shall be questioned on the ground merely of the existence of any vacancy in, or defect in the constitution of, the Board or the committee, as the case may be.",
+                        "1": "(2) No act done by any person acting in good faith as a Director shall be deemed to be invalid merely on the ground that he was disqualified to be a Director or that there was any other defect in his appointment."
+                    }
+                },
+                "Section 37A.": {
+                    "heading": "Amounts and securities to be held in trust.",
+                    "paragraphs": {
+                        "0": "(1) Any sums received by a borrowing institution in repayment or realisation of loans and advances refinanced either wholly or partly by the Small Industries Bank shall, to the extent of the accommodation granted by the Small Industries Bank and remaining outstanding, be deemed to have been received by the borrowing institution in trust for the Small Industries Bank, and shall accordingly be paid by such institution to the Small Industries Bank, as per the repayment schedule fixed by the Small Industries Bank.",
+                        "1": "(2) Where an accommodation has been granted to a borrowing institution, all securities held, or which may be held, by such borrowing institution, on account of any transaction in respect of which such accommodation has been granted by the Small Industries Bank, shall be held by such institution in trust for the Small Industries Bank.]"
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Rights of Small Industries Bank in case of default.",
+                    "paragraphs": {
+                        "0": "(1) Where any industrial concern in the small-scale sector, which is under a liability to the Small Industries Bank under an agreement, makes any default in repayment of any loan or advance or any instalment thereof or in meeting its obligations in relation to any guarantee given by the Small Industries Bank or otherwise fails to comply with the terms of its agreement, with the Small Industries Bank, the Small Industries Bank shall have the right to take over the management, or possession, or both of such industrial concern in the small-scale sector, as well as the right to transfer by way of lease or sale and realise the property pledged, mortgaged, hypothecated or assigned to the Small Industries Bank.",
+                        "1": "(2) Any transfer of property made by the Small Industries Bank, in exercise of its powers under sub-section (1), shall vest in the transferee all rights in or to the property transferred as if the transfer had been made by the owner of the property.",
+                        "2": "(3) The Small Industries Bank shall have the same rights and powers with respect to goods manufactured or produced wholly or partly from goods forming part of the security held by it as it had with respect to the original goods.",
+                        "3": "(4) Where any action has been taken against an industrial concern in the small-scale sector under the provisions of sub-section (1), all costs, charges and expenses which in the opinion of the Small Industries Bank have been properly incurred by it as incidental thereto shall be recoverable from the industrial concern in the small-scale sector and the money which is received by it shall, in the absence of any contract to the contrary, be held by it in trust to be applied firstly, in payment of such costs, charges and expenses and, secondly, in discharge of the debt due to the Small Industries Bank, and the residue of the money so received shall be paid to the person entitled thereto in accordance with his rights and interests.",
+                        "4": "(5) Where the Small Industries Bank takes over the management or possession of an industrial concern in the small-scale sector under the provisions of sub-section (1), the Small Industries Bank shall be deemed to be the owner of such concern, for the purposes of suits by or against the concern, and shall sue and be sued in the name of the concern."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Power to seek assistance of Chief Metropolitan Magistrate or District Magistrate.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Where any property, effects or actionable claims are sold or leased in pursuance of any power conferred by section 38, the Small Industries Bank or any other person authorised by it may, for the purpose of taking into custody or under control any such property, effects or actionable claims, request, in writing, the Chief Metropolitan Magistrate or the District Magistrate within whose jurisdiction any such property, effects, actionable claims, books of account or other documents relating thereto may be situated or found, to take possession thereof, and the Chief Metropolitan Magistrate or the District Magistrate shall, on such request being made to him,\u2014",
+                            "contains": {
+                                "0": "(a) take possession of such property, effects, actionable claims, or books of account or other documents relating thereto; and",
+                                "1": "(b) forward them to the Small Industries Bank or such other person, as the case may be."
+                            }
+                        },
+                        "1": "(2) For the purpose of securing compliance with the provisions of sub-section (1), the Chief Metropolitan Magistrate or the District Magistrate may take or cause to be taken such steps and use, or cause to be used, such force as may, in his opinion, be necessary.",
+                        "2": "(3) No act of the Chief Metropolitan Magistrate or the District Magistrate done in pursuance of this section shall be called in question in any court or before any authority."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Power to call for repayment before agreed period.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything in any agreement to the contrary, the Small Industries Bank may, by notice in writing, require any industrial concern in the small-scale sector to which it has granted any loan or advance to discharge forthwith in full its liabilities to the Small Industries Bank,\u2014",
+                            "contains": {
+                                "0": "(a) if it appears to the Board that false or misleading information in any material particular was given in the application for the loan or advance; or",
+                                "1": "(b) if the industrial concern in the small-scale sector has failed to comply with the terms of its contract with the Small Industries Bank in the matter of the loan or advance; or",
+                                "2": "(c) if there is a reasonable apprehension that the industrial concern in the small-scale sector is unable to pay its debt or that proceedings for liquidation may be commenced in respect thereof; or",
+                                "3": "(d) if the property pledged, mortgaged, hypothecated or assigned to the Small Industries Bank as security for the loan or advance is not insured and kept insured by the industrial concern in the small- scale sector to the satisfaction of the Small Industries Bank; or depreciates in value to such an extent that, in the opinion of the Board, further security to the satisfaction of the Board should be given and such security is not given; or",
+                                "4": "(e) if, without the permission of the Board, any machinery, plant or other equipment, whether forming part of the security or otherwise, is removed from the premises of the industrial concern in the small-scale sector without being replaced; or",
+                                "5": "(f) if for any reason it is necessary to protect the interests of the Small Industries Bank."
+                            }
+                        }
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Special provisions for enforcement of claims by Small Industries Bank.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Where an industrial concern in the small-scale sector, in breach of any agreement, makes any default in repayment of any loan or advance or any instalment thereof or in meeting its obligations in relation to any guarantee given by the Small Industries Bank or otherwise fails to comply with the terms of its agreement with that Bank, or where the Small Industries Bank requires any industrial concern in the small-scale sector to make repayment of any loan or advance under section 40 and such industrial concern fails to make such repayment, then, without prejudice to the provisions of section 38 of this Act and section 69 of the Transfer of Property Act, 1882 (4 of 1882), any officer of that Bank, generally or specially authorised by that Bank in this behalf, may apply, to the Court for one or more of the following reliefs, namely:\u2014",
+                            "contains": {
+                                "0": "(a) for an order for the sale of the property assigned, charged, hypothecated, mortgaged or pledged to that Bank as security for the loan or advance; or",
+                                "1": "(b) for enforcing the liability of any surety; or",
+                                "2": "(c) for an ad interim injunction restraining the industrial concern in the small-scale sector from transferring or removing its machinery, plant or equipment from the premises of such industrial concern without the permission of the Small Industries Bank, where such transfer or removal is apprehended."
+                            }
+                        },
+                        "1": "(2) An application under sub-section (1) shall state the nature and extent of the liability of the industrial concern in the small-scale sector to the Small Industries Bank, the ground on which it is made and such other particulars as may be necessary for obtaining the relief prayed for.",
+                        "2": "(3) Where the application is for the reliefs mentioned in clause (a) and clause (c) of sub-section (1), the Court shall pass an ad interim order attaching the security, or so much of the property of the industrial concern in the small-scale sector as would on being sold realise in its estimation an amount equivalent in value to the outstanding liability of such industrial concern to the Small Industries Bank together with costs of the proceedings taken under this section with or without an ad interim injunction restraining such industrial concern from transferring or removing its machinery, plant or equipment.",
+                        "3": "(4) Where the application is for the relief mentioned in clause (b) of sub-section (1), the Court shall issue a notice calling upon the surety to show cause on a date to be specified in the notice as to why the liability should not be enforced.",
+                        "4": "(5) Before passing any order under sub-section (3) or issuing a notice under sub-section (4), the Court may, if it thinks fit, examine the officer making the application.",
+                        "5": "(6) At the same time as it passes an order under sub-section (3), the Court shall issue to the industrial concern in the small-scale sector or to the owner of the security attached, a notice accompanied by copies of the order, the application and the evidence, if any, recorded by the Court calling upon such industrial concern or owner, to show cause on a date to be specified in the notice, as to why the ad interim order of attachment should not be made absolute or the injunction confirmed.",
+                        "6": "(7) If no cause is shown, on or before the date specified in the notice under sub-section (4), the Court shall forthwith order the enforcement of the liability of the surety.",
+                        "7": "(8) If no cause is shown on or before the date specified in the notice under sub-section (6), the Court shall forthwith make the ad interim order absolute and direct the sale of the attached property or confirm the injunction.",
+                        "8": "(9) If cause is shown, the Court shall proceed to investigate the claim of the Small Industries Bank in accordance with the provisions contained in the Code of Civil Procedure, 1908 (5 of 1908), in so far as such provisions may be applied thereto.",
+                        "9": {
+                            "text": "(10) After making an investigation under sub-section (9), the Court may\u2014",
+                            "contains": {
+                                "0": "(a) confirm the order of attachment and direct the sale of the attached property;",
+                                "1": "(b) vary the order of attachment so as to release a portion of the property from attachment and direct the sale of the remainder of the attached property;",
+                                "2": "(c) release the property from attachment;",
+                                "3": "(d) confirm or dissolve the injunction; or",
+                                "4": "(e) direct the enforcement of the liability of the surety or reject the claim made in this behalf:"
+                            }
+                        },
+                        "10": "Provided that when making an order under clause (c) or making an order rejecting the claim to enforce the liability of the surety under clause (e), the Court may make such further order as it thinks necessary to protect the interests of the Small Industries Bank and may apportion the cost of the proceedings in such manner as it thinks fit:",
+                        "11": "Provided further that unless the Small Industries Bank intimates to the Court that it will not appeal against any order releasing any property from attachment or rejecting the claim to enforce the liability of the surety, such order shall not be given effect to, until the expiry of the period fixed under sub-section (12) within which an appeal may be preferred or, if an appeal is preferred, unless the Court empowered to hear appeals from the decisions of the said Court otherwise directs, until the appeal is disposed of.",
+                        "12": "(11) An order of attachment or sale of property under this section shall be carried into effect as far as practicable in the manner provided in the Code of Civil Procedure, 1908 (5 of 1908), for the attachment or sale of property in execution of a decree as if the Small Industries Bank were the decree holder.",
+                        "13": "(12) Any party aggrieved by an order under sub-section (7), sub-section (8) or sub-section (10) may, within thirty days from the date of the order, appeal to the Court empowered to hear appeals from the decisions of the Court which passed the order and upon such appeal the appellate Court may, after hearing the parties, pass such orders as it thinks proper.",
+                        "14": "(13) Where proceedings for liquidation in respect of an industrial concern in the small-scale sector have commenced before an application is made under sub-section (1), nothing in this section shall be construed as giving to the Small Industries Bank any preference over the other creditors of such industrial concern not conferred on it by any other law.",
+                        "15": "(14) For the removal of doubts, it is hereby declared that any Court competent to grant an ad interim injunction under this section shall also have the power to appoint a receiver and to exercise all the other powers incidental thereto."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Small Industries Bank to have access to records.",
+                    "paragraphs": {
+                        "0": "(1) The Small Industries Bank shall have free access to all such records of any institution which seeks to avail of any credit facilities from the Small Industries Bank and to all such records of any such person who seeks to avail of any credit facilities from such institution, perusal whereof may appear to the Small Industries Bank to be necessary in connection with the providing of finance or other assistance to such institution or the refinancing of any loan or advance made to such person by the borrowing institution.",
+                        "1": "(2) The Small Industries Bank may require any institution or person referred to in sub-section (1) to furnish to it copies of any of the records referred to in that sub-section and the institution or the person, as the case may be, shall be bound to comply with such requisition."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Validity of loan or advance not to be questioned.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything to the contrary contained in any other law for the time being in force, the validity of any loan or advance granted by the Small Industries Bank in pursuance of the provisions of this Act shall not be called in question merely on the ground of non-compliance with the requirements of such other law as aforesaid or of any resolution, contract, memorandum, articles of association or other instrument:",
+                        "1": "Provided that nothing in this section shall render valid any loan or advance obtained by any company or co-operative society where such company or co-operative society is not empowered by its memorandum to obtain loans or advances."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Indemnity of Directors.",
+                    "paragraphs": {
+                        "0": "(1) Every Director shall be indemnified by the Small Industries Bank against all losses and expenses incurred by him in, or in relation to, the discharge of his duties, except such as are caused by his own wilful act or default.",
+                        "1": "(2) A Director shall not be responsible for any other Director or for any officer or other employee of the Small Industries Bank or for any loss or expenses resulting to the Small Industries Bank or from the insufficiency or deficiency of the value of, or title to, any property or security acquired or taken on behalf of the Small Industries Bank or the insolvency or wrongful act of any debtor or any person under obligation to the Small Industries Bank or anything done in good faith in the execution of the duties of his office or in relation thereto."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Protection of action taken under this Act.",
+                    "paragraphs": {
+                        "0": "No suit or other legal proceeding shall lie against the Small Industries Bank, 1[chairman and managing director, the whole-time director] or any Director or any officer or other employee of such Bank or any other person authorised by that Bank to discharge any functions under this Act for any loss or damage caused or likely to be caused by anything which is in good faith done or intended to be done in pursuance of this Act or any other law or provision having the force of law."
+                    }
+                },
+                "Section 46.": {
+                    "heading": "Nomination by depositors or holders of bonds or other securities.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in any other law, where a nomination in respect of any deposits, bonds or other securities kept with or issued by the Small Industries Bank is made in the prescribed manner, the amount due on such deposits, bonds or other securities shall, on the death of the depositor or holder thereof, vest in, and be payable to, the nominee subject to any right, title, interest or claim of any other person, in relation to such deposits, bonds or other securities.",
+                        "1": "(2) Any payment by the Small Industries Bank in accordance with the provisions of sub-section (1) shall be a full discharge of its liability in respect of such deposits, bonds or securities."
+                    }
+                },
+                "Section 47.": {
+                    "heading": "Arrangement with Small Industries Bank on appointment of directors to prevail.",
+                    "paragraphs": {
+                        "0": "(1) Where any arrangement entered into by the Small Industries Bank with an industrial concern in the small-scale sector provides for the appointment by the Small Industries Bank of one or more directors of such industrial concern, such provision and any appointment of directors made in pursuance, thereof shall be valid and effective notwithstanding anything to the contrary contained in the Companies Act, 1956 (1 of 1956), or in any other law for the time being in force or in the memorandum, articles of association or any other instrument relating to that industrial concern, and any provision regarding share qualification, age-limit, number of directorships, removal from office of directors and such like conditions contained in any such law or instrument aforesaid, shall not apply to any director appointed by the Small Industries Bank in pursuance of the arrangement as aforesaid.",
+                        "1": {
+                            "text": "(2) Any director appointed as aforesaid shall\u2014",
+                            "contains": {
+                                "0": "(a) hold office during the pleasure of the Small Industries Bank and may be removed or substituted by any person by order in writing of the Small Industries Bank;",
+                                "1": "(b) not incur any obligation or liability by reason only of his being a director or for anything done or omitted to be done in good faith in the discharge of his duties as a director or anything in relation thereto;",
+                                "2": "(c) not be liable to retirement by rotation and shall not be taken into account for computing the number of directors liable to such retirement."
+                            }
+                        }
+                    }
+                },
+                "Section 48.": {
+                    "heading": "Act 18 of 1891 to apply in relation to Small Industries Bank.",
+                    "paragraphs": {
+                        "0": "The Bankers\u2019 Books Evidence Act, 1891 shall apply in relation to Small Industries Bank as if it were a bank as defined in section 2 of that Act."
+                    }
+                },
+                "Section 49.": {
+                    "heading": "Act 10 of 1949 not to apply to Small Industries Bank.",
+                    "paragraphs": {
+                        "0": "Nothing contained in the Banking Regulation Act, 1949, except section 34A and section 36AD thereof, shall apply to the Small Industries Bank."
+                    }
+                },
+                "Section 50.": {
+                    "heading": "[Omitted.]",
+                    "paragraphs": {
+                        "0": "[Act 43 of 1961 not to apply to Small Industries Bank.]\u2014Omitted by the Finance Act, 2001 (14 of 2001), s. 142 (w.e.f 1-4-2002)."
+                    }
+                },
+                "Section 51.": {
+                    "heading": "Liquidation of Small Industries Bank.",
+                    "paragraphs": {
+                        "0": "No provision of law relating to the winding up of companies or corporations shall apply to the Small Industries Bank and that Bank shall not be placed in liquidation save by order of the Central Government and in such manner as it may direct.",
+                        "1": "2[51 A. Power to make rules by Central Government.\u2014(1) The Central Government may, by notification, make rules to carry out the provisions of this Act.",
+                        "2": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(i) the procedure for filing and hearing of appeal against the refusal to register the transfer of shares by the Board under sub-section (3) of section 20D; and",
+                                "1": "(ii) any other matter which has to be, or may be, prescribed by rules under this Act.]"
+                            }
+                        },
+                        "3": "52. Power to make regulations.\u2014(1) The Board may 1*** by notification, make regulations not inconsistent with the provisions of this Act to provide for all matters for which provision is necessary or expedient for the purpose of giving effect to the provisions of this Act.",
+                        "4": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for\u2014",
+                            "contains": {
+                                "0": "2[(a) the removal of Director under sub-section (8) of section 6;",
+                                "1": "(aa) the places of meetings of the Board under this Act and the procedure to be followed at such meetings including the quorum necessary for transaction of business and the manner of adoption of resolution under section 6;",
+                                "2": "(ab) the functions to be discharged by the Executive Committee under sub-section (2) of section 12;",
+                                "3": "(ac) the places of meetings of the Executive Committee and the procedure to be followed at such meetings under sub-section (4) of section 12;",
+                                "4": "(ad) such fees and allowances which may be paid to the directors and members of the Executive Committee under section 12A;",
+                                "5": "(ae) the particulars to be prescribed in the register of shareholders under clause (iv) of sub-section (1) of section 20B;",
+                                "6": "(af) the procedure relating to maintenance of register of shareholders in electronic form under sub-section (2) of section 20B;",
+                                "7": "(ag) the matters relating to the annual general meeting under sub-section (3) of section 20G;]",
+                                "8": "(b) the form and manner in which the balance-sheets and the accounts of the Small Industries Development Assistance Fund under sub-section (1) of section 25 and the Small Industries Bank under sub-section (1) of section 28 shall be prepared;",
+                                "9": "(c) the manner in which nominations may be made in terms of sub-section (1) of section 46;",
+                                "10": "(d) generally the efficient conduct of the affairs of the Small Industries Bank;",
+                                "11": "(e) any other matter which is to be, or may be, prescribed."
+                            }
+                        },
+                        "5": "3[(3) Every rule made by the Central Government, and every regulation made by the Board under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.]",
+                        "6": "[53. Amendment of certain enactments.]\u2014Rep. by the Repealing and Amending Act, 2001 (30 of 2001), s. 2 and The First Schedule (w.e.f. 3-9-2001).",
+                        "7": "54. Power to remove difficulties.\u2014If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, in consultation with the Development Bank, by order, do anything, not inconsistent with such provisions, for the purpose of removing the difficulty:",
+                        "8": {
+                            "text": "Provided that no such order shall be made after the expiration of three years from the date on which this Act receives the assent of the President.",
+                            "contains": {
+                                "0": {
+                                    "text": "THE FIRST SCHEDULE",
+                                    "contains": {
+                                        "0": "[See section 36(3)]"
+                                    }
+                                },
+                                "1": "Declaration of fidelity and secrecy"
+                            }
+                        },
+                        "9": "I,........................., do hereby declare that I will faithfully, truly and to the best of my skill and ability execute and perform the duties required of me as director, member of............. committee, auditor, officer, other employee (as the case may be) of the Small Industries Development Bank of India and which properly relate to the office or position held by me in or in relation to the said Bank.",
+                        "10": "I further declare that I will not communicate or allow to be communicated to any person not legally entitled thereto any information relating to the affairs of the Small Industries Development Bank of India or to the affairs of any person having any dealing with the said Bank, nor will I allow any such person to inspect or have access to any books or documents belonging to or in the possession of the said Bank relating to the business of the said Bank or the business of any person having any dealing with the said Bank.",
+                        "11": "Signed before me. (Signature)"
+                    }
+                },
+                "Section 51A.": {
+                    "heading": "Power to make rules by Central Government.",
+                    "paragraphs": {}
+                },
+                "Section 52.": {
+                    "heading": "Power to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The Board may 1*** by notification, make regulations not inconsistent with the provisions of this Act to provide for all matters for which provision is necessary or expedient for the purpose of giving effect to the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for\u2014",
+                            "contains": {
+                                "0": "2[(a) the removal of Director under sub-section (8) of section 6;",
+                                "1": "(aa) the places of meetings of the Board under this Act and the procedure to be followed at such meetings including the quorum necessary for transaction of business and the manner of adoption of resolution under section 6;",
+                                "2": "(ab) the functions to be discharged by the Executive Committee under sub-section (2) of section 12;",
+                                "3": "(ac) the places of meetings of the Executive Committee and the procedure to be followed at such meetings under sub-section (4) of section 12;",
+                                "4": "(ad) such fees and allowances which may be paid to the directors and members of the Executive Committee under section 12A;",
+                                "5": "(ae) the particulars to be prescribed in the register of shareholders under clause (iv) of sub-section (1) of section 20B;",
+                                "6": "(af) the procedure relating to maintenance of register of shareholders in electronic form under sub-section (2) of section 20B;",
+                                "7": "(ag) the matters relating to the annual general meeting under sub-section (3) of section 20G;]",
+                                "8": "(b) the form and manner in which the balance-sheets and the accounts of the Small Industries Development Assistance Fund under sub-section (1) of section 25 and the Small Industries Bank under sub-section (1) of section 28 shall be prepared;",
+                                "9": "(c) the manner in which nominations may be made in terms of sub-section (1) of section 46;",
+                                "10": "(d) generally the efficient conduct of the affairs of the Small Industries Bank;",
+                                "11": "(e) any other matter which is to be, or may be, prescribed."
+                            }
+                        },
+                        "2": "3[(3) Every rule made by the Central Government, and every regulation made by the Board under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.]"
+                    }
+                },
+                "Section 53.": {
+                    "heading": "[Repealed].",
+                    "paragraphs": {
+                        "0": "Amendment of certain enactments.]\u2014Rep. by the Repealing and Amending Act, 2001 (30 of 2001), s. 2 and The First Schedule (w.e.f. 3-9-2001)."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, in consultation with the Development Bank, by order, do anything, not inconsistent with such provisions, for the purpose of removing the difficulty:",
+                        "1": "Provided that no such order shall be made after the expiration of three years from the date on which this Act receives the assent of the President."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": {
+                "text": "THE FIRST SCHEDULE",
+                "contains": {
+                    "0": "[See section 36(3)]"
+                }
+            },
+            "1": "Declaration of fidelity and secrecy",
+            "2": "I,........................., do hereby declare that I will faithfully, truly and to the best of my skill and ability execute and perform the duties required of me as director, member of............. committee, auditor, officer, other employee (as the case may be) of the Small Industries Development Bank of India and which properly relate to the office or position held by me in or in relation to the said Bank.",
+            "3": "I further declare that I will not communicate or allow to be communicated to any person not legally entitled thereto any information relating to the affairs of the Small Industries Development Bank of India or to the affairs of any person having any dealing with the said Bank, nor will I allow any such person to inspect or have access to any books or documents belonging to or in the possession of the said Bank relating to the business of the said Bank or the business of any person having any dealing with the said Bank.",
+            "4": "Signed before me. (Signature)"
+        },
+        "THE SECOND SCHEDULE. [Repealed.]": {
+            "0": "[THE SECOND SCHEDULE].\u2014Rep. by the Repealing and Amending Act, 2001(30 of 2001), s. 2 and The First Schedule (w.e.f. 3-9-2001)."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 4": {
+            "0": "1.7th  March,  1990,  vide  notification  No.  S.O.  197(E),  dated  7th  March,  1990,  see  Gazette  of  India,  Extraordinary,Part II, sec. 3(ii).",
+            "1": "2. Subs by Act 7 of 2000, s. 2, for clause (b) (w.e.f. 27-3-2000).",
+            "2": "3. Subs, by s. 2, ibid., for \u201cManaging Director\u201d (w.e.f. 27-3-2000).",
+            "3": "4. Ins. by s. 2, ibid. (w.e.f. 27-3-2000)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 53 of 2003, s. 2, and The Schedule (w.e.f. 2-7-2004).",
+            "1": "2. Ins. by Act 7 of 2000, s. 2 (w.e.f. 27-3-2000).",
+            "2": "3. Clause (i) omitted by s. 2, ibid. (w.e.f. 27-3-2000)."
+        },
+        "Page 6": {
+            "0": "1. Ins. by Act 7 of 2000, s. 2 (w.e.f. 27-3-2000).",
+            "1": "2.  Ins. by Act 53 of 2003, s. 12 and The Schedule (w.e.f. 2-7-2004).",
+            "2": "3. Clause (q) omitted by s. 12 and The Schedule, ibid. (2-7-2004).",
+            "3": "4. Subs. by Act 7 of 2000, s. 3, for sections 4 to 6 (w.e.f. 27-3-2000)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 7 of 2000, s. 5, for sections 8 and 9 (w.e.f. 27-3-2000)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 7 of 2000, s. 7, for section 12 (w.e.f. 27-3-2000).",
+            "1": "2. Subs. by s. 8, ibid.,  for clause (i) (w.e.f. 27-3-2000).",
+            "2": "3.  Subs.  by  s.  8,  ibid.,  for  \u201csuch  other  financial  institutions,  as  the  Central  Government  may,  on  the  recommendation  of  theDevelopment Bank, specify\u201d (w.e.f. 27-3-2000)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 7 of 2000, s. 8, for \u201cas the Central Government may, on the recommendation of the Development Bank, specify\u201d(w.e.f. 27-3-2000)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by Act 7 of 2000, s. 8, for \u201cas the Central Government may, on the recommendation of the Development Bank, specify\u201d(w.e.f. 27-3-2000).",
+            "1": "2. Subs. by s. 8, ibid., for \u201cthe Central Government on the recommendation of the Development Bank\u201d (w.e.f. 27-3-2000).",
+            "2": "3. Subs. by s. 8, ibid., for \u201cthe Development Bank\u201d (w.e.f. 27-3-2000)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 7 of 2000, s. 9, for \u201capproved by the Development Bank\u201d (w.e.f. 27-3-2000).",
+            "1": "2. Subs. by s. 10, ibid., for section 16 (w.e.f. 27-3-2000)."
+        },
+        "Page 15": {
+            "0": "1. The words \u201cand the Development Bank\u201d omitted by Act 7 of 2000, s. 11 (w.e.f. 27-3-2000).",
+            "1": "2. Ins. by s. 12, ibid. (w.e.f. 27-3-2000)."
+        },
+        "Page 18": {
+            "0": "1. Subs. by Act 7 of 2000, s. 13, for \u201cDevelopment Bank\u201d (w.e.f. 27-3-2000).",
+            "1": "2. Subs. by s. 14, ibid., for \u201cDevelopment Bank\u201d (w.e.f. 27-3-2000).",
+            "2": "3. Subs. by  s. 15,  ibid., for \u201cDevelopment Bank\u201d (w.e.f. 27-3-2000).",
+            "3": "4. Subs. by s. 15, ibid., for sub-section (3) (w.e.f. 27-3-2000).",
+            "4": "5.  The words \u201cand the Development Bank\u201d omitted by s. 15, ibid. (w.e.f. 27-3-2000)."
+        },
+        "Page 19": {
+            "0": "1. The words \u201c, on the recommendation of the Development Bank\u201d omitted by Act 7 of 2000, s. 16 (w.e.f. 27-3-2000).",
+            "1": "2. Subs. by s. 17, ibid., for  \u201cDevelopment Bank\u201d (w.e.f. 27-3-2000).",
+            "2": "3. Subs. by  s. 18, ibid., for sub-section (2) (w.e.f. 27-3-2000).",
+            "3": "4. Subs. by s. 19, ibid., for sub-section (1) (w.e.f. 27-3-2000)."
+        },
+        "Page 20": {
+            "0": "1. The words \u201cand the Development Bank\u201d omitted by Act 7 of 2000, s. 19 (w.e.f. 27-3-2000)."
+        },
+        "Page 21": {
+            "0": "1. Subs. by Act 7 of 2000, s. 20, for \u201cthe Central Government, the Reserve Bank and the Development Bank\u201d (w.e.f. 27-3-2000)."
+        },
+        "Page 22": {
+            "0": "1. Subs. by Act 7 of 2000, s. 21, for \u201cas may be specified by the Development Bank\u201d (w.e.f. 27-3-2000).",
+            "1": "2. The words \u201cor the Development Bank\u201d omitted by s. 21, ibid., (w.e.f. 27-3-2000).",
+            "2": "3.  Ins. by s. 22, ibid. (w.e.f. 27-3-2000)."
+        },
+        "Page 26": {
+            "0": "1. Subs. by Act 7 of 2000, s. 23, for \u201cchairman\u201d (w.e.f. 27-3-2000).",
+            "1": "2. Ins. by Act 7 of 2000, s. 24 (w.e.f. 27-3-2000)."
+        },
+        "Page 27": {
+            "0": "1. The words \u201cwith the previous approval of the Development Bank\u201d omitted by Act 7 of 2000, s. 25 (w.e.f. 27-3-2000).",
+            "1": "2. Subs. by s. 25, ibid., for clause (a) (w.e.f. 27-3-2000).",
+            "2": "3. Subs. by s. 25, ibid., for sub-section (3) (w.e.f. 27-3-2000)."
+        }
+    }
+}

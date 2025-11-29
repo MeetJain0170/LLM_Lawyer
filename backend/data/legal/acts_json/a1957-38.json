@@ -1,0 +1,85 @@
+{
+    "Act Title": "THE INTER-STATE CORPORATIONS ACT, 1957",
+    "Act ID": "ACT NO. 38 OF 1957",
+    "Enactment Date": "[20th September, 1957.]",
+    "Act Definition": {
+        "0": "An Act to provide for the reorganisation of certain corporations functioning in two or more States by virtue of section 109 of the States Reorganisation Act, 1956, and for matters connected therewith."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title.",
+            "paragraphs": {
+                "0": "This Act may be called the Inter-State Corporations Act, 1957."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definition.",
+            "paragraphs": {
+                "0": "In this Act, \u201cinter-State corporation\u201d means any body corporate constituted under any of the Acts specified in the Schedule and functioning in two or more States by virtue of section 109 of the States Reorganisation Act, 1956 (37 of 1956), 1[or of any other enactment relating to reorganisation of States.]"
+            }
+        },
+        "Section 3.": {
+            "heading": "Power of State Governments to frame schemes.",
+            "paragraphs": {
+                "0": "If it appears to the Government of a State in any part of which an inter-State corporation is functioning that the inter-State corporation should be reconstituted and reorganised as one or more inter-State corporations or that it should be dissolved, the State Government may frame a scheme for such reconstitution and reorganisation or such dissolution, as the case may be, including proposals regarding the transfer of the assets, rights and liabilities of the inter-State corporation to any other corporations or State Governments and the transfer or re-employment of employees of the inter-State corporation and forward the scheme to the Central Government."
+            }
+        },
+        "Section 4.": {
+            "heading": "Reorganisation of certain inter-State corporations.",
+            "paragraphs": {
+                "0": "(1) On receipt of a scheme forwarded to it under section 3, the Central Government may, after consulting the State Governments concerned, approve the scheme with or without modifications and give effect to the scheme so approved by making such order as it thinks fit.",
+                "1": {
+                    "text": "(2) An order made under sub-section (1) may provide for all or any of the following matters, namely:\u2014",
+                    "contains": {
+                        "0": "(a) the dissolution of the inter-State corporation;",
+                        "1": "(b) the reconstitution and reorganisation in any manner whatsoever of the inter-State corporation including the constitution, where necessary, of new corporations;",
+                        "2": "(c) the area in respect of which the reconstituted corporation or new corporation shall function and operate;",
+                        "3": "(d) the transfer, in whole or in part, of the assets, rights and liabilities of the inter-State corporation (including the rights and liabilities under any contract made by it) to any other corporations or State Governments and the terms and conditions of such transfer;",
+                        "4": "(e) the substitution of any such transferee for the inter-State corporation, or the addition of any such transferee, as a party to any legal proceeding to which the inter-State corporation is a party; and the transfer of any proceedings pending before the inter-State corporation to any such transferee;",
+                        "5": "(f) the transfer or re-employment of any employees of the inter-State corporation to, or by, any such transferee and subject to the provisions of section 111 of the States Reorganisation Act, 1956 (37 of 1956), 1[or of any other enactment relating to reorganisation of States] the terms and conditions of service applicable to such employees after such transfer or re-employment;",
+                        "6": "(g) the adaptations or modifications of the Act under which the inter-State corporation was constituted, whether by way of repeal or amendment, as may be necessary or expedient to give effect to the approved scheme;",
+                        "7": "(h) such incidental, consequential and supplementary matters as may be necessary to give effect to the approved scheme."
+                    }
+                },
+                "2": "(3) Where an order is made under this section transferring the assets, rights and liabilities of any inter-State corporation, then, by virtue of that order, such assets, rights and liabilities of the inter-State corporation shall vest in, and be the assets, rights and liabilities of, the transferee.",
+                "3": "(4) Every order made under this section shall be published in the Official Gazette and the Act under which the inter-State corporation was constituted shall have effect subject to the provisions of the order and the adaptations and modifications made thereby until altered, repealed or amended by the competent Legislature of a State.",
+                "4": "1[(5) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the order or both Houses agree that the order should not be made, the order shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that order.]"
+            }
+        },
+        "Section 5.": {
+            "heading": "Power of Central Government to add to the Schedule.",
+            "paragraphs": {
+                "0": "The Central Government may, by notification in the Official Gazette, specify in the Schedule any Act under which a body corporate constituted for a State is functioning in two or more States by virtue of section 109 of the States Reorganisation Act, 1956 (37 of 1956), 2[or of any other enactment relating to reorganisation of States] and on the issue of such notification, the Schedule shall be deemed to be amended by the inclusion of the said Act therein."
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": "THE SCHEDULE",
+            "1": "(See sections 2 and 5)",
+            "2": "1. The Bombay Medical Practitioners Act, 1938 (Bom. XXVI of 1938).",
+            "3": "2. The Bombay Secondary School Certificate Examination Act, 1948 (Bom. XLIX of 1948).",
+            "4": "3. The Bombay Housing Board Act, 1948 (Bom. LXIX of 1948).",
+            "5": "4. The Bombay Khar Lands Act, 1948 (Bom. LXXII of 1948).",
+            "6": "5. The Bombay Public Trust Act, 1950 (Bom. XXIX of 1950).",
+            "7": "6. The Bombay Labour Welfare Fund Act, 1953 (Bom. XL of 1953).",
+            "8": "7. The Bombay Nurses, Midwives and Health Visitors Act, 1954 (Bom. XIV of 1954).",
+            "9": "8. The Bombay Village Industries Act, 1954 (Bom. XLI of 1954).",
+            "10": "9. The Hyderabad Nurses, Midwives and Health Visitors\u2019 Registration Act, 1951 (Hyd. XIX of 1951).",
+            "11": "10. The Hyderabad Khadi and Village Industries Board Act, 1955 (Hyd. XII of 1955)",
+            "12": "11. The Madhya Pradesh Bhudan Yagna Act, 1953 (M. P. XV of 1953)."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. Ins. by Act 11 of 1960, s. 75 (w.e.f. 1-5-1960)."
+        },
+        "Page 3": {
+            "0": "1. Subs. by Act 20 of 1983, s. 2 and the Schedule, for sub-section (5) (w.e.f. 15-3-1984).",
+            "1": "2. Ins. by Act 11 of 1960, s. 75 (w.e.f. 1-5-1960)."
+        }
+    }
+}

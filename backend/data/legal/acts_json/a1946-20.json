@@ -1,0 +1,460 @@
+{
+    "Act Title": "THE INDUSTRIAL EMPLOYMENT (STANDING ORDERS) ACT, 1946",
+    "Act ID": "ACT NO. 20 OF 1946",
+    "Enactment Date": "[23rd April, 1946.]",
+    "Act Definition": {
+        "0": "An Act to require employers in industrial establishments formally to define conditions of employment under them.",
+        "1": "WHEREAS it is expedient to require employers in industrial establishments to define with sufficient precision the conditions of employment under them and to make the said conditions known to workmen employed by them;"
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title, extent and application.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Industrial Employment (Standing Orders) Act, 1946.",
+                "1": "(2) It extends to2[the whole of India3***].",
+                "2": "4 [(3) It applies to every industrial establishment wherein one hundred or more workmen are employed, or were employed on any day of the preceding twelve months:",
+                "3": "Provided that the appropriate Government may, after giving not less than two months\u2019 notice of its intention so to do, by notification in the Official Gazette, apply the provisions of this Act to any industrial establishment employing such number of persons less than one hundred as may be specified in the notification.",
+                "4": "5* * * * *",
+                "5": {
+                    "text": "6[(4) Nothing in this Act shall apply to\u2014",
+                    "contains": {
+                        "0": "(i) any industry to which the provisions of Chapter VII of the Bombay Industrial Relations Act, 1946 (Bombay Act 11 of 1947) apply; or",
+                        "1": "(ii) any industrial establishment to which the provisions of the Madhya Pradesh Industrial Employment (Standing Orders) Act, 1961 (Madhya Pradesh Act 26 of 1961) apply:",
+                        "2": {
+                            "text": "Provided that notwithstanding anything contained in the Madhya Pradesh Industrial Employment (Standing Orders) Act, 1961 (Madhya Pradesh Act 26 of 1961), the provisions of this Act shall apply to all industrial establishments under the control of the Central Government.]",
+                            "contains": {
+                                "0": "STATE AMENDMENT"
+                            }
+                        }
+                    }
+                },
+                "6": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 1.-In section 1 of the Industrial Employment (Standing Orders) Act, 1946 (Central Act 20 of 1946) in its application to the State of Karnataka, for the words \u201cone hundred\u201d occurring in sub-section (3) and in the proviso to it, the word \u201cfifty\u201d, shall be substituted."
+                    }
+                },
+                "7": "[Vide Karnataka Act 37 of 1975, s. 2]"
+            }
+        },
+        "Section 2.": {
+            "heading": "Interpretation.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless there is anything repugnant in the subject or context,\u2014",
+                    "contains": {
+                        "0": "1[(a) \u201cappellate authority\u201d means an authority appointed by the appropriate Government by notification in the Official Gazette to exercise in such area as may be specified in the notification the functions of an appellate authority under this Act:",
+                        "1": "Provided that in relation to an appeal pending before an Industrial Court or other authority immediately before the commencement of the Industrial Employment (Standing Orders) Amendment Act, 1963 (39 of 1963), that court or authority shall be deemed to be the appellate authority;]",
+                        "2": "(b) \u201cappropriate Government\u201d means in respect of industrial establishments under the control of the Central Government or a 2[Railway administration] or in a major port, mine or oil-field, the Central Government, and in all other cases, the State Government:",
+                        "3": "3[Provided that where any question arises as to whether any industrial establishment is under the control of the Central Government, that Government may, either on a reference made to it by the employer or the workman or a trade union or other representative body of the workmen, or on its own motion and after giving the parties an opportunity of being heard, decide the question and such decision shall be final and binding on the parties;]",
+                        "4": "4[(c) \u201cCertifying Officer\u201d means a Labour Commissioner or a Regional Labour Commissioner, and includes any other officer appointed by the appropriate Government, by notification in the Official Gazette, to perform all or any of the functions of a Certifying Officer under this Act;]",
+                        "5": {
+                            "text": "(d) \u201cemployer\u201d means the owner of an industrial establishment to which this Act for the time being applies, and includes\u2014",
+                            "contains": {
+                                "0": "(i) in a factory, any person named under5[clause (f) of sub-section (1) of section 7, of the Factories Act, 1948 (63 of 1948)], as manager of the factory;",
+                                "1": "(ii) in any industrial establishment under the control of any department of any Government in India, the authority appointed by such Government in this behalf, or where no authority is so appointed, the head of the department;",
+                                "2": "(iii) in any other industrial establishment, any person responsible to the owner for the supervision and control of the industrial establishment;"
+                            }
+                        },
+                        "6": {
+                            "text": "(e) \u201cindustrial establishment\u201d means\u2014",
+                            "contains": {
+                                "0": "(i) an industrial establishment as defined in clause (ii) of section 2 of the Payment of Wages Act, 1936 (4 of 1936), or",
+                                "1": "6[(ii) a factory as defined in clause (m) of section 2 of the Factories Act, 1948 (63 of 1948), or]",
+                                "2": "(iii) a railway as defined in clause (4) of section 2 of the Indian Railways Act; 1890 (9 of 1890), or",
+                                "3": "(iv) the establishment of a person who, for the purpose of fulfilling a contract with the owner of any industrial establishment, employs workmen;"
+                            }
+                        },
+                        "7": "(f) \u201cprescribed\u201d means prescribed by rules made by the appropriate Government under this Act;",
+                        "8": "(g) \u201cstanding orders\u201d means rules relating to matters set out in the Schedule;",
+                        "9": "(h) \u201ctrade union\u201d means a trade union for the time being registered under the Indian Trade Unions Act, 1926 (16 of 1926);",
+                        "10": "1[(i) \u201cwages\u201d and \u201cworkman\u201d have the meanings respectively assigned to them in clauses (rr) and (s) of section 2 of the Industrial Disputes Act, 1947 (14 of 1947).]"
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Submission of draft standing orders.",
+            "paragraphs": {
+                "0": "(1) Within six months from the date on which this Act becomes applicable to an industrial establishment, the employer shall submit to the Certifying Officer five copies of the draft standing orders proposed by him for adoption in his industrial establishment.",
+                "1": "(2) Provision shall be made in such draft for every matter set out in the Schedule which may be applicable to the industrial establishment, and where model standing orders have been prescribed, shall be, so far as is practicable, in conformity with such model.",
+                "2": "(3) The draft standing orders submitted under this section shall be accompanied by a statement giving prescribed particulars of the workmen employed in the industrial establishment including the name of the trade union, if any, to which they belong.",
+                "3": {
+                    "text": "(4) Subject to such conditions as may be prescribed, a group of employers in similar industrial establishments may submit a joint draft of standing orders under this section.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "4": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": {
+                            "text": "Substitution of section 3.-For section 3 of the Industrial Employment (Standing Orders) Act, 1946 (hereinafter referred to as the principal Act), the following shall be substituted, namely:--",
+                            "contains": {
+                                "0": "\u201c3. Submission of Standing Orders.\u2014(1) Within six months from the date on which the Industrial Employment (Standing Orders) (Karnataka Amendment) Act, 2005 becomes applicable to an industrial establishment, the employer shall prepare the Standing Orders proposed by him for adoption in his industrial establishment.",
+                                "1": "(2) The Standing Order prepared as required under sub-section (1) shall refer to every matter set out in the schedule which may be applicable to the Industrial establishment and where Model Standing Orders have been prescribed shall be so far as is practicable in conformity with such Model Standing Order.",
+                                "2": "(3) The Standing Orders so prepared shall be discussed with the Trade unions existing in the Industrial establishment or representatives of the workmen, before adoption and the employee providing proof thereof:",
+                                "3": "Provided no Standing Order adopted under this sub-section shall be effective unless a copy thereof as adopted is sent to the Certifying Officer by Registered Post Acknowledgement due and the acknowledgement therefor is received and filed.",
+                                "4": "(4) If there is no dispute with regard to the clauses and matters set out in the Standing Orders drafted by the employer of the Industrial Establishment, then it shall be adopted in the Industrial Establishment as if it is certified under this Act and a copy thereof shall be sent immediately to the Certifying Authority by Registered Post Acknowledgement Due.",
+                                "5": "(5) If there is any dispute or disagreement with regard to the adoption of any clauses or matter set out in the schedule between the employer and the trade Union or workmen representatives, then such Standing Orders drafted by the employer shall be submitted to the Certifying Officer notified under the rules with thirty days from the date of dispute, for adoption in the Industrial establishment.\u201d"
+                            }
+                        }
+                    }
+                },
+                "5": "[Vide Karnataka Act 12 of 2014, s. 2]"
+            }
+        },
+        "Section 4.": {
+            "heading": "Conditions for certification of standing orders.",
+            "paragraphs": {
+                "0": {
+                    "text": "Standing orders shall be certifiable under this Act if\u2014",
+                    "contains": {
+                        "0": "(a) provision is made therein for every matter set out in the Schedule which is applicable to the industrial establishment, and",
+                        "1": "(b) the standing orders are otherwise in conformity with the provisions of this Act;"
+                    }
+                },
+                "1": {
+                    "text": "and it1[shall be the function] of the Certifying Officer or appellate authority to adjudicate upon the fairness or reasonableness of the provisions of any standing orders.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "2": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 4.-In section 4 of the principal Act, for the words \u201cStanding Orders shall be certifiable\u201d, the words, brackets and figures \u201cIn the event of submitting the draft Standing Order under sub-section (5) of the section 3, the Standing Orders shall be certifiable\u201d shall be substituted."
+                    }
+                },
+                "3": "[Vide Karnataka Act 12 of 2014, s. 3]"
+            }
+        },
+        "Section 5.": {
+            "heading": "Certification of standing orders.",
+            "paragraphs": {
+                "0": "(1) On receipt of the draft under section 3, the Certifying Officer shall forward a copy thereof to the trade union, if any, of the workmen, or where there is no such trade union, to the workmen in such manner as may be prescribed, together with a notice in the prescribed form requiring objections, if any, which the workmen may desire to make to the draft standing orders to be submitted to him within fifteen days from the receipt of the notice.",
+                "1": "(2) After giving the employer and the trade union or such other representatives of the workmen as may be prescribed an opportunity of being heard, the Certifying Officer shall decide whether or not any modification of or addition to the draft submitted by the employer is necessary to render the draft standing orders certifiable under this Act, and shall make an order in writing accordingly.",
+                "2": {
+                    "text": "(3) The Certifying Officer shall thereupon certify the draft standing orders, after making any modifications therein which his order under sub-section (2) may require, and shall within seven days thereafter send copies of the certified standing orders authenticated in the prescribed manner and of his order under sub-section (2) to the employer and to the trade union or other prescribed representatives of the workmen.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "3": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 5.-In section 5 of the principal Act, in sub-section (1), for the word and the figure \u201csection 3\u201d, the words, brackets and figure \u201csub-section (5) of section 3\u201d shall be substituted."
+                    }
+                },
+                "4": "[Vide Karnataka Act 12 of 2014, s. 4]"
+            }
+        },
+        "Section 6.": {
+            "heading": "Appeals.",
+            "paragraphs": {
+                "0": "(1)2[Any employer, workmen, trade union or other prescribed representatives of the workmen] aggrieved by the order of the Certifying Officer under sub-section (2) of section 5 may, within3[thirty days] from the date on which copies are sent under sub-section (3) of that section, appeal to the appellate authority, and the appellate authority, whose decision shall be final, shall by order in writing confirm the standing orders either in the form certified by the Certifying Officer or after amending the said standing orders by making such modifications thereof or additions thereto as it thinks necessary to render the standing orders certifiable under this Act.",
+                "1": "(2) The appellate authority shall, within seven days of its order under sub-section (1), send copies thereof tothe Certifying Officer, to the employer and to the trade union or other prescribed representatives of the workmen, accompanied, unless it has confirmed without amendment the standing orders as certified by the Certifying Officer, by copies of the standing orders as certified by it and authenticated in the prescribed manner."
+            }
+        },
+        "Section 7.": {
+            "heading": "Date of operation of standing orders.",
+            "paragraphs": {
+                "0": {
+                    "text": "Standing orders shall, unless an appeal is preferred under section 6, come into operation on the expiry of thirty days from the date on which authenticated copies thereof are sent under sub-section (3) of section 5, or where an appeal as aforesaid is preferred, on the expiry of seven days from the date on which copies of the order of the appellate authority are sent under sub-section (2) of section 6.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "1": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 7.-Section 7 shall be renumbered as sub-section (2), thereof and before sub- section (2) as so renumbered, the following shall be inserted, namely:-",
+                        "1": "\u201c(1) Standing Orders ass adopted under sub-section (4) of section 3 shall come into operation on the expiry of 30 days from the date on with the employer and the trade union or workmen representatives agree to adopt the standing orders.\u201d"
+                    }
+                },
+                "2": "[Vide Karnataka Act 12 of 2014, s. 5]"
+            }
+        },
+        "Section 8.": {
+            "heading": "Register of standing orders.",
+            "paragraphs": {
+                "0": {
+                    "text": "A copy of all standing orders as finally certified under this Act shall be filed by the Certifying Officer in a register in the prescribed form maintained for the purpose, and the Certifying Officer shall furnish a copy thereof to any person applying therefore on payment of the prescribed fee.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "1": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 8.-In section 8 of the principal Act, after the words \u201cfinally certified\u201d, the words \u201cor adopted\u201d shall be inserted."
+                    }
+                },
+                "2": "[Vide Karnataka Act 12 of 2014, s. 6]"
+            }
+        },
+        "Section 9.": {
+            "heading": "Posting of standing orders.",
+            "paragraphs": {
+                "0": {
+                    "text": "The text of the standing orders as finally certified under this Act shall be prominently posted by the employer in English and in the language understood by the majority of his workmen on special boards to be maintained for the purpose at or near the entrance through which the majority of the workmen enter the industrial establishment and in all departments thereof where the workmen are employed.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "1": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 9.-In section 9 of the principal Act, after the words \u201cfinally certified\u201d, the words \u201cor adopted\u201d shall be inserted."
+                    }
+                },
+                "2": "[Vide Karnataka Act 12 of 2014, s. 7]"
+            }
+        },
+        "Section 10.": {
+            "heading": "Duration and modification of standing orders.",
+            "paragraphs": {
+                "0": "(1) Standing orders finally certified under this Act shall not, except on agreement between the employer and the workmen1[or a trade union or other representative body of the workmen], be liable to modification until the expiry of six months from the date on which the standing orders or the last modifications thereof came into operation.",
+                "1": "1[(2) Subject to the provisions of sub-section (1), an employer or workman1[or a trade union or other representative body of the workmen] may apply to the Certifying Officer to have the standing orders modified, and such application shall be accompanied by five copies of2*** the modifications proposed to be made, and where such modifications are proposed to be made by agreement between the employer and the workmen1[or a trade union or other representative body of the workmen], a certified copy of that agreement shall be filed along with the application.]",
+                "2": "(3) The foregoing provisions of this Act shall apply in respect of an application under sub-section (2) as they apply to the certification of the first standing orders.",
+                "3": {
+                    "text": "3[(4) Nothing contained in sub-section (2) shall apply to an industrial establishment in respect of which the appropriate Government is the Government of the State of Gujarat or the Government of the State of Maharashtra.]",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "4": "Karnataka",
+                "5": {
+                    "text": "Amendment of section 10.-In section 10 of the principal Act,-",
+                    "contains": {
+                        "0": "(i) in sub-section (1), after the words finally certified\u201d, the words \u201cor adopted\u201d shall be inserted;",
+                        "1": {
+                            "text": "(ii) after sub-section (2) the following proviso shall be inserted, namely:-",
+                            "contains": {
+                                "0": "\u201cProvided that nothing in this sub-section shall be applicable in case of modifications mutually agreed by an employer, workmen or a trade union or other representative body of the workmen and such modifications shall be effected under sub-sections (3) and (4) of section 3.\u201d"
+                            }
+                        },
+                        "2": "[Vide Karnataka Act 12 of 2014, s. 8]"
+                    }
+                }
+            }
+        },
+        "Section 10A.": {
+            "heading": "Payment of subsistence allowance.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Where any workmen is suspended by the employer pending investigation or inquiry into complaints or charges of misconduct against him, the employer shall pay to such workman subsistence allowance\u2014",
+                    "contains": {
+                        "0": "(a) at the rate of fifty per cent.of the wages which the workman was entitled to immediately preceding the date of such suspension, for the first ninety days of suspension; and",
+                        "1": "(b) at the rate of seventy-five per cent.of such wages for the remaining period of suspension if the delay in the completion of disciplinary proceedings against such workman is not directly attributable to the conduct of such workman."
+                    }
+                },
+                "1": "(2) If any dispute arises regarding the subsistence allowance payable to a workman under sub-section (1) the workman or the employer concerned may refer the dispute to the Labour Court, constituted under the Industrial Disputes Act, 1947 (14 of 1947), within the local limits of whose jurisdiction the industrial establishment wherein such workman is employed is situate and the Labour Court to which the dispute is so referred shall, after giving the parties an opportunity of being heard, decide the dispute and such decision shall be final and binding on the parties.",
+                "2": "(3) Notwithstanding anything contained in the foregoing provisions of this section, where provisions relating to payment of subsistence allowance under any other law for the time being in force in any State are more beneficial than the provisions of this section, the provisions of such other law shall be applicable to the payment of subsistence allowance in that State.]"
+            }
+        },
+        "Section 11.": {
+            "heading": "Certifying Officers and appellate authorities to have powers of civil court.",
+            "paragraphs": {
+                "0": "1[(1)] Every Certifying Officer and appellate authority shall have all the powers of a Civil Court for the purposes of receiving evidence, administering oaths, enforcing the attendance of witnesses, and compelling the discovery and production of documents, and shall be deemed to be a civil court within the meaning of2[sections 345 and 346 of the Code of Criminal Procedure, 1973 (2 of 1974).]",
+                "1": "3[(2) Clerical or arithmetical mistakes in any order passed by a Certifying Officer or appellate authority, or errors arising therein from any accidental slip or omission may, at any time, be corrected by that Officer or authority or the successor in office of such Officer or authority, as the case may be.]"
+            }
+        },
+        "Section 12.": {
+            "heading": "Oral evidence in contradiction of standing orders not admissible.",
+            "paragraphs": {
+                "0": {
+                    "text": "No oral evidence having the effect of adding to or otherwise varying or contradicting standing orders as finally certified under this Act shall be admitted in any Court.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "1": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 12.-In section 12 of the principal Act, after the words \u201cfinally certified\u201d, the words \u201cor adopted\u201d shall be inserted."
+                    }
+                },
+                "2": "[Vide Karnataka Act 12 of 2014, s. 9]"
+            }
+        },
+        "Section 12A.": {
+            "heading": "Temporary application of model standing orders.",
+            "paragraphs": {
+                "0": "(1) Notwithstanding anything contained in sections 3 to 12, for the period commencing on the date on which this Act becomes applicable to an industrial establishment and ending with the date on which the standing orders as finally certified under this Act come into operation under section 7 in that establishment, the prescribed model standing orders shall be deemed to be adopted in that establishment, and the provisions of section 9, sub-section (2) of section 13 and section 13A shall apply to such model standing orders as they apply to the standing orders so certified.",
+                "1": {
+                    "text": "(2) Nothing contained in sub-section (1) shall apply to an industrial establishment in respect of which the appropriate Government is the Government of the State of Gujarat or the Government of the State of Maharashtra.]",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "2": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 12A.- In section 12A of the principal Act, after the words \u201cfinally certified\u201d, the words \u201cor adopted\u201d shall be inserted."
+                    }
+                },
+                "3": "[Vide Karnataka Act 12 of 2014, s. 10]"
+            }
+        },
+        "Section 13.": {
+            "heading": "Penalties and procedure.",
+            "paragraphs": {
+                "0": "(1) An employer who fails to submit draft standing orders as required by section 3, or who modifies his standing orders otherwise than in accordance with section 10, shall be punishable with fine which may extend to five thousand rupees, and in the case of a continuing offence with a further fine which may extend to two hundred rupees for every day after the first during which the offence continues.",
+                "1": "(2) An employer who does any act in contravention of the standing orders finally certified under this Act or his industrial establishment shall be punishable with fine which may extend to one hundred rupees, and in the case of a continuing offence with a further fine which may extend to twenty-five rupees for every day after the first during which the offence continues.",
+                "2": "(3) No prosecution for an offence punishable under this section shall be instituted except with the previous sanction of the appropriate Government.",
+                "3": {
+                    "text": "(4) No Court inferior to that of1[a Metropolitan Magistrate or Judicial Magistrate of the second class] shall try any offence under this section.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "4": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": {
+                            "text": "Amendment of section 13.-In section 13 of the principal Act,-",
+                            "contains": {
+                                "0": "(i) in sub-section (1), after the words and figure \u201cStanding Orders as required by section 3\u201d, the words and figures \u201cor who fails to adopt Standing Orders as required by sub-section (4) of section 3\u201d shall be inserted;",
+                                "1": "(ii) in sub-section (2), after the words \u201cfinally certified\u201d, the words \u201cor adopted\u201d shall be inserted."
+                            }
+                        }
+                    }
+                },
+                "5": "[Vide Karnataka Act 12 of 2014, s. 11]"
+            }
+        },
+        "Section 13A.": {
+            "heading": "Interpretation, etc., of standing orders.",
+            "paragraphs": {
+                "0": {
+                    "text": "If any question arises as to the application or interpretation of a standing order certified under this Act, any employer or workman3[or a trade union or other representative body of the workmen] may refer the question to any one of the Labour Courts constituted under the Industrial Disputes Act, 1947 (14 of 1947), and specified for the disposal of such proceeding by the appropriate Government by notification in the Official Gazette, and the Labour Court to which the question is so referred shall, after giving the parties an opportunity of being heard, decide the question and such decision shall be final and binding on the parties.",
+                    "contains": {
+                        "0": "STATE AMENDMENT"
+                    }
+                },
+                "1": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of section 13-A.-In section 13-A of the principal Act, after the words \u201cStanding Orders Certified the words \u201cor adopted\u201d shall be inserted."
+                    }
+                },
+                "2": "[Vide Karnataka Act 12 of 2014, s. 12]"
+            }
+        },
+        "Section 13B.": {
+            "heading": "Act not to apply to certain industrial establishments.",
+            "paragraphs": {
+                "0": "Nothing in this Act shall apply to an industrial establishment in so far as the workmen employed therein are persons to whom the Fundamental and Supplementary Rules, Civil Services (Classification, Control and Appeal) Rules, Civil Services (Temporary Services) Rules, Revised Leave Rules, Civil Service Regulations, Civilians in Defence Service (Classification, Control and Appeal) Rules or the Indian Railway Establishment Code or any other rules or regulations that may be notified in this behalf by the appropriate Government in the Official Gazette, apply.]"
+            }
+        },
+        "Section 14.": {
+            "heading": "Power to exempt.",
+            "paragraphs": {
+                "0": "The appropriate Government may by notification in the Official Gazette exempt, conditionally or unconditionally, any industrial establishment or class of industrial establishments from all or any of the provisions of this Act."
+            }
+        },
+        "Section 14A.": {
+            "heading": "Delegation of powers.",
+            "paragraphs": {
+                "0": {
+                    "text": "The appropriate Government may, by notification in the Official Gazette, direct that any power exercisable by it under this Act or any rules made thereunder shall, in relation to such matters and subject to such conditions, if any, as may be specified in the direction, be exercisable also\u2014",
+                    "contains": {
+                        "0": "(a) where the appropriate Government is the Central Government, by such officer or authority subordinate to the Central Government or by the State Government or by such officer or authority subordinate to the State Government, as may be specified in the notification;",
+                        "1": "(b) where the appropriate Government is a State Government, by such officer or authority subordinate to the State Government as may be specified in the notification.]"
+                    }
+                }
+            }
+        },
+        "Section 15.": {
+            "heading": "Power to make rules.",
+            "paragraphs": {
+                "0": "(1) The appropriate Government may, after previous publication, by notification in the Official Gazette, make rules to carry out the purposes of this Act.",
+                "1": {
+                    "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may\u2014",
+                    "contains": {
+                        "0": "(a) prescribe additional matters to be included in the Schedule, and the procedure to be followed in modifying standing orders certified under this Act in accordance with any such addition;",
+                        "1": "(b) set out model standing orders for the purposes of this Act;",
+                        "2": "(c) prescribe the procedure of Certifying Officers and appellate authorities;",
+                        "3": "(d) prescribe the fee which may be charged for copies of standing orders entered in the register of standing orders;",
+                        "4": "(e) provide for any other matter which is to be or may be prescribed:"
+                    }
+                },
+                "2": "Provided that before any rules are made under clause (a) representatives of both employers and workmen shall be consulted by the appropriate Government.",
+                "3": "1[(3) Every rule made by the Central Government under this section shall be laid as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or2[in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid], both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]"
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": "THE SCHEDULE",
+            "1": "[See sections 2(g) and 3(2)]",
+            "2": "MATTERSTO BE PROVIDED IN STANDING ORDERUNDERTHIS ACT",
+            "3": "1.Classification of workmen, e.g., whether permanent, temporary, apprentices, probationers, or badlis.",
+            "4": "2. Manner of intimating to workmen periods and hours of work, holidays, pay-days and wage rates.",
+            "5": "3. Shift working.",
+            "6": "4. Attendance and late coming.",
+            "7": "5. Conditions of, procedure in applying for, and the authority which may grant, leave and holidays.",
+            "8": "6. Requirement to enter premises by certain gates, and liability to search.",
+            "9": "7. Closing and re-opening of sections of the industrial establishment, and temporary stoppages of work and the rights and liabilities of the employer and workmen arisingtherefrom.",
+            "10": "8. Termination of employment, and the notice thereof to be given by employer and workmen.",
+            "11": "9. Suspension or dismissal for misconduct, and acts or omissions which constitute misconduct.",
+            "12": "10. Means of redress for workmen against unfair treatment or wrongful exactions by the employer or his agents or servants.",
+            "13": "11. Any other matter which may be prescribed."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. This Act has been extended to\u2014(i) Goa, Daman and Diu by Reg. 12 of 1962, s. 3 and the Sch.(ii) Pondicherry by Regulation 7 of 1963, s. 3 and the Sch. I (w.e.f. 1-10-1963), and(iii) the whole of the Union territory of Lakshadweep, vide Reg. 8 of 1965, s. 3 and the Sch.The Act has been amended in its application to\u2014(i) Maharashtra by Maharashtra Act 54 of 1974.(ii) Mysore by Mysore Act 37 of 1975.(iii) Madras by Madras Act 24 of 1960, and(iv) Andhra Pradesh by A. P. Act 9 of 1969.",
+            "1": "2. Subs. by the A.O. 1950, for \u201call the Provinces of India\u201d.",
+            "2": "3. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 51 of 1970, s. 2 (w.e.f. 1-9-1971).",
+            "3": "4. Subs. by Act 16 of 1961, s. 2, for sub-section (3).",
+            "4": "5. Second proviso omitted by Act 39 of 1963, s. 2 (w.e.f. 23-12-1963).",
+            "5": "6. Ins. by s. 2, ibid. (w.e.f. 23-12-1963)."
+        },
+        "Page 3": {
+            "0": "1. Subs. by Act 39 of 1963, s. 3, for cl. (a) (w.e.f. 23-12-1963).",
+            "1": "2. Subs. by the A.O. 1950, for \u201cFederal railway\u201d.",
+            "2": "3. Added by Act 18 of 1982, s. 2 (w.e.f. 17-5-1982).",
+            "3": "4.Subs. by Act 16 of 1961, s.3, for cl. (c).",
+            "4": "5.Subs. by s. 3, ibid.,\u201cfor clause (e) of  sub-clause (1) of section 9 of Factories Act, 1934 (25 of 1934)\u201d.",
+            "5": "6. Subs. by s. 3, ibid., for sub-clause (ii)"
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 18 of 1982, s. 2 for cl. (i) (w.e.f. 17-5-1982)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 36 of 1956, s. 32 for \u201cshall not be the function\u201d (w.e.f.17-9-1956).",
+            "1": "2. Subs. by Act 18 of 1982, s. 3, for \u201cAny person\u201d (w.e.f. 17-5-1982).",
+            "2": "3. Subs. by Act 16 of 1961, s. 4, for \u201ctwenty-one days\u201d."
+        },
+        "Page 6": {
+            "0": "1.  Ins. by Act 18 of 1982, s. 4 (w.e.f. 17-5-1982)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 36 of 1956, s. 32, for sub-section (2) (w.e.f. 17-9-1956).",
+            "1": "2. Certain words omitted by Act 39 of 1963, s. 4 (w.e.f. 23-12-1963).",
+            "2": "3. Ins. by s. 4, ibid. (w.e.f. 23-12-1963).",
+            "3": "4. Ins. by Act 18 of 1982, s. 5 (w.e.f. 17-5-1982)."
+        },
+        "Page 8": {
+            "0": "1. S. 11 renumbered as sub-section (1) thereof by Act 39 of 1963, s. 5 (w.e.f. 23-12-1963).",
+            "1": "2.  Subs.  by  Act  18  of  1982,  s.  6,  for  \u201csections  480  and  482  of  the  Code  of  Criminal  Procedure,  1898  (5  of  1898)\u201d(w.e.f. 17-5-1982).",
+            "2": "3. Ins. by Act 39 of 1963, s. 5 (w.e.f. 23-12-1963).",
+            "3": "4. Ins. by s. 6, ibid. (w.e.f. 23-12-1963)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 18 of 1982, s. 7, for \u201ca Metropolitation Magistrate or Judicial Magistrate of the second class\u201d (w.e.f. 17-5-1982).",
+            "1": "2. Ins. by Act 36 of 1956, s. 32 (w.e.f. 10-3-1957).",
+            "2": "3. Ins. by Act 18 of 1982, s. 8 (w.e.f. 17-5-1982).",
+            "3": "4. Subs. by Act 39 of 1963, s. 7, for s. 14A (w.e.f. 23-12-1963)."
+        },
+        "Page 10": {
+            "0": "1. Ins. by Act 16 of 1961, s. 6.",
+            "1": "2. Subs. by Act 18 of 1982, s. 9, for certain words (w.e.f. 17-5-1982)."
+        }
+    }
+}

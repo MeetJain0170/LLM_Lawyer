@@ -1,0 +1,274 @@
+{
+    "Act Title": "THE BRITISH INDIA CORPORATION LIMITED (ACQUISITION OF SHARES) ACT, 1981",
+    "Act ID": "ACT NO. 29 OF 1981",
+    "Enactment Date": "[11th September, 1981.]",
+    "Act Definition": {
+        "0": {
+            "text": "An Act to provide for the acquisition of certain shares of the British India Corporation Limited with a view to securing the proper management of the affairs of the Company and the continuity and development of the production of goods which are vital to the needs of the country and for matters connected therewith or incidental thereto.",
+            "contains": {
+                "0": "WHERE AS Messrs. British India Corporation Limited, Kanpur, are engaged in the manufacture and production of pure and blended woollen fabrics which are vital to the needs of the general public;",
+                "1": "AND WHEREAS as a result of an investigation made under section 15 of the Industries (Development and Regulation) Act, 1951 (65 of 1951), certain directions were issued to the Company under section 16 of that Act which, inter alia, included the modernisation of the plant and machinery of the undertakings of the Company;",
+                "2": "AND WHEREAS for the purpose of carrying out the said directions, public financial institutions had advanced large sums of money to the Company;",
+                "3": "AND WHEREAS the Central Government and certain public financial institutions have also invested considerable funds in the share capital of the Company;",
+                "4": "AND WHERE AS the State Bank of India has advanced considerable sums to the Company and a part thereof has been guaranteed by the Central Government;",
+                "5": "AND WHEREAS further investment of large sums of money is necessary for the maintenance and development of the production of the undertakings of the Company and for securing the proper management of the affairs of the Company;",
+                "6": "AND WHEREAS acquisition by the Central Government of an effective control over the affairs of the Company is necessary to enable it to make the investments aforesaid;"
+            }
+        }
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the British India Corporation Limited (Acquisition of Shares) Act, 1981.",
+                        "1": "(2) It shall be deemed to have come into force on the 11th day of June, 1981."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cappointed day\u201d means the 11th day of June, 1981;",
+                                "1": "(b) \u201cbank\u201d means a banking company within the meaning of the Banking Regulation Act, 1949 (10 of 1949);",
+                                "2": "(c) \u201cCommissioner\u201d means the Commissioner of Payments appointed under section 6;",
+                                "3": "(d) \u201cCompany\u201d means British India Corporation Limited,being a company within the meaning of the Companies Act, 1956 (1 of 1956), and having its registered office at Sutherland House, Kanpur, in the State of Uttar Pradesh;",
+                                "4": "(e) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "5": {
+                                    "text": "(f) \u201cshare\u201d means a share, whether ordinary or preference, in the capital of the Company, and includes a share pledged by any shareholder with any bank or other creditor, but does not include any share in the capital of the Company held by\u2014",
+                                    "contains": {
+                                        "0": "(i) the Central Government;",
+                                        "1": "(ii) any State Government;",
+                                        "2": "(iii) the State Bank of India, established under section 3 of the State Bank of India Act,1955 (23 of 1955), and its subsidiary banks;",
+                                        "3": "(iv) the Life Insurance Corporation of India, established under section 3 of the Life Insurance Corporation Act, 1956 (31 of 1956);",
+                                        "4": "(v) the Unit Trust of India, established under section 3 of the Unit Trust of India Act, 1963 (52 of 1963);",
+                                        "5": "(vi) any corresponding new bank, within the meaning of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970);",
+                                        "6": "(vii) any corresponding new bank, within the meaning of the Banking Companies (Acquisition and Transfer of Undertakings) Act,1980 (40 of 1980);",
+                                        "7": "(viii) any general insurance company nationalised by the General Insurance Business (Nationalisation) Act, 1972 (57 of 1972);"
+                                    }
+                                },
+                                "6": {
+                                    "text": "(g) \u201cshareholder\u201d means,\u2014",
+                                    "contains": {
+                                        "0": "(i) a person who, immediately before the appointed day, was registered by the Company as the holder of any share and includes his legal representative; or",
+                                        "1": "(ii) a person who, before the appointed day, had lodged with the Company a proper instrument of transfer of any share in the form prescribed under section 108 of the Companies Act, 1956 (1 of 1956), and executed in accordance with the provisions of that section; or",
+                                        "2": "(iii) a person who claims under a proper instrument of transfer of any share in the form prescribed under section 108 of the Companies Act, 1956 (1 of 1956), and delivers such instrument to the Commissioner, duly executed, on or before such date as the Central Government may, by notification, specify in this behalf;"
+                                    }
+                                },
+                                "7": "(h) \u201cspecified date\u201d means such date as the Central Government may, for the purpose of any provision of this Act, by notification, specify and different dates may be specified for different provisions of this Act;",
+                                "8": "(i) words and expressions used herein and not defined but defined in the Companies Act,1956 (1 of 1956), have the meanings respectively assigned to them in that Act."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "ACQUISITION OF THE SHARES OF THE COMPANY",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Transfer and vesting of shares of the Company in the Central Government.",
+                    "paragraphs": {
+                        "0": "(1) On the appointed day, all the shares of the Company shall, by virtue of this Act, stand transferred to, and vest in, the Central Government.",
+                        "1": "(2) The Central Government shall be deemed, on and from the appointed day, to have been registered in the Register of members of the Company as the holder of each share which stands transferred to, and vested in, it by virtue of the provisions of sub-section(1).",
+                        "2": "(3) All the shares which have vested in the Central Government under sub-section (1), shall, by force of such vesting, be freed and discharged of all trusts, liabilities, obligations, mortgages, charges, liens and other encumbrances affecting them, and any attachment, injunction or any decree or order of the court, tribunal or other authority restricting the use of such shares in any manner, shall be deemed to have been withdrawn.",
+                        "3": {
+                            "text": "(4) For the removal of doubts, it is hereby declared that the provisions of sub-sections (1) and (2) shall not be deemed to affect\u2014",
+                            "contains": {
+                                "0": "(a) any right of the Company subsisting, immediately before the appointed day, against any shareholder to recover from such shareholder any sum of money on the ground that the shareholder has not paid or credited to the Company the whole or any part of the value of the shares held by him, or on any other ground whatsoever; or",
+                                "1": "(b) any right of the shareholder subsisting, immediately before the appointed day, against the Company to receive any dividend or other payment due from the Company."
+                            }
+                        }
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Management of the Company.",
+                    "paragraphs": {
+                        "0": "For the purpose of enabling the Company to function as a Government company, the Central Government may, by notification, make such provisions (including changes in the Board of Directors, and amendments in the memorandum and articles of association, of the Company) as it may consider necessary and the provisions so made shall have effect notwithstanding anything contained in the Companies Act, 1956 (1 of 1956)."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Payment of amounts.",
+                    "paragraphs": {
+                        "0": "(1) For the transfer to, and vesting in, the Central Government, under section 3, of the shares of the Company, there shall be given by the Central Government to the shareholders of the Company, in cash and in the manner specified in section 7, an amount of rupees twenty-two lakhs and sixty thousand.",
+                        "1": "(2) The amount, referred to in sub-section (1), shall carry simple interest at the rate of four percent. per annum for the period commencing on the appointed day and ending on the date on which payment of such amount is made by the Central Government to the Commissioner."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Appointment of Commissioner of Payments.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, for the purpose of disbursing the amounts payable to shareholders of the Company under section 5, by notification, appoint a Commissioner of Payments.",
+                        "1": "(2) The Central Government may appoint such other persons as it may think fit to assist the Commissioner and thereupon the Commissioner may authorise one or more of such persons also to exercise all or any of the powers exercisable by him under this Act, and different persons may be authorised to exercise different powers.",
+                        "2": "(3) Any person authorised by the Commissioner to exercise any of the powers exercisable by the Commissioner may exercise those powers in the same manner and with the same effect as if they have been conferred on that person directly by this Act, and not by way of authorisation.",
+                        "3": "(4) The salaries and allowances of the Commissioner and other persons appointed under this section shall be defrayed out of the Consolidated Fund of India."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Payment by the Central Government to the Commissioner.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government shall, within thirty days from the specified date,pay, in cash, to the Commissioner, for payment to the shareholders of the Company,\u2014",
+                            "contains": {
+                                "0": "(a) an amount equal to the amount specified in sub-section (1) of section 5; and",
+                                "1": "(b) an amount equal to the amount determined under sub-section (2) of section 5."
+                            }
+                        },
+                        "1": "(2) A deposit account shall be opened by the Central Government in favour of the Commissioner, in the Public Account of India, and every amount paid under this Act to the Commissioner shall be deposited by him to the credit of the said deposit account and the said deposit account shall be operated by the Commissioner.",
+                        "2": "(3) The interest accruing on the amount standing to the credit of the deposit account referred to in sub-section (2), shall enure to the benefit of the shareholders of the Company."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Claims to be made to the Commissioner.",
+                    "paragraphs": {
+                        "0": "(1) Every shareholder, having a claim in relation to any share acquired by this Act, shall prefer such claim before the Commissioner within thirty days from the specified date:",
+                        "1": "Provided that if the Commissioner is satisfied that the claimant was prevented by sufficient cause from preferring theclaim within the period of thirty days, he may entertain the claim within a further period of thirty days and not thereafter.",
+                        "2": "(2) Every shareholder of a preference share shall have a preferential claim with regard to the amount paid by the Central Government to the Commissioner."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Examination of claims.",
+                    "paragraphs": {
+                        "0": "On receipt of the claims made under section 8, the Commissioner shall separately arrange the claims in relation to preference shares and in relation to the ordinary shares and examine the claims in relation to each such share."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Admission or rejection of claims.",
+                    "paragraphs": {
+                        "0": "(1) After examining the claims, the Commissioner shall fix a certain date on or before which every claimant shall file the proof of his claim or be excluded from the benefit of the disbursements made by the Commissioner.",
+                        "1": "(2) Not less than fourteen days\u2019 notice of the date so fixed shall be given by advertisement in one issue of daily newspaper in the English language and in one issue of such daily newspaper in the regional language as the Commissioner may consider suitable, and every such notice shall call upon the claimant to file the proof of his claim with the Commissioner within the time specified in the advertisement.",
+                        "2": "(3) Every claimant, who fails to file the proof of his claim within the time specified by the Commissioner, shall be excluded from the disbursements made by the Commissioner.",
+                        "3": "(4) The Commissioner shall, after such investigation as may, in his opinion, be necessary, and after giving the Company an opportunity of refuting the claim and after giving the claimant a reasonable opportunity of being heard, in writing, admit or reject the claim in whole or in part.",
+                        "4": {
+                            "text": "(5) The Commissioner shall have the power to regulate his own procedure in all matters arising out of the discharge of his functions, including the place or places at which he will hold his sittings and shall, for the purpose of making an investigation under this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the summoning and enforcing the attendance of any witness and examining him on oath;",
+                                "1": "(b) the discovery and production of any document or other material object producible as evidence;",
+                                "2": "(c) the reception of evidence on affidavits;",
+                                "3": "(d) the issuing of any commission for the examination of witnesses."
+                            }
+                        },
+                        "5": "(6) Any investigation before the Commissioner shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Commissioner shall be deemed to be a civil court for the purposes of section 345 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).",
+                        "6": "(7) A claimant, who is dissatisfied with the decision of the Commissioner, may prefer an appeal against the decision to the principal civil court of original jurisdiction within the local limits of whose jurisdiction the registered office of the Company is situated."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Disbursement of money by the Commissioner to claimants.",
+                    "paragraphs": {
+                        "0": "(1) After admitting a claim under this Act, the amount due in respect of each share acquired by virtue of this Act shall be paid by the Commissioner at the rate of rupees ten per preference share, and at the rate of fifty paise per ordinary share to the person or persons to whom such sums are due, and on such payment, the liability of the Central Government in respect of the share so acquired shall stand discharged.",
+                        "1": "(2) The Commissioner shall also apportion amongst the share-holders, the amount paid to him by way of interest under sub-section (3) of section 7, and such apportionment shall be made on the basis of the amount due to each shareholder."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Undisbursed or unclaimed amount to be deposited to the general revenue account.",
+                    "paragraphs": {
+                        "0": "Any money paid to the Commissioner which remains undisbursed or unclaimed on the date immediately preceding the date on which the office of the Commissioner is finally wound up, shall be transferred by the Commissioner before his office is finally would up to the general revenue account of the Central Government; but a claim to any money so transferred may be preferred to the Central Government by the person entitled to such payment and shall be dealt with as if such transfer had not been made, the order, if any, for payment of the claim being treated as an order for the refund of revenue."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Power of inspection.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "For the purposes of ascertaining whether any person claiming payment under this Act is a shareholder, the Commissioner shall have the right to\u2014",
+                            "contains": {
+                                "0": "(a) require any person, having the possession, custody or control, of any register or record of the Company, to produce such register or record before the Commissioner,",
+                                "1": "(b) require any person to make any statement or furnish any information which may be required by the Commissioner."
+                            }
+                        }
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Power of Commissioner to inquire into disputes as to amount.",
+                    "paragraphs": {
+                        "0": "Where there is any dispute as to the person or persons who are entitled to any amount payable under this Act (including any dispute as to who are the legal representatives of any deceased claimant to the amount), the Commissioner may, after making such inquiry as he may deem fit, make the payment to such person as appears to him to be best entitled to receive the amount:",
+                        "1": "Provided that if the Commissioner is unable to determine as to who is the person entitled to the amount and considers that the matter could more appropriately be dealt with by the principal civil of original jurisdiction within the local limits of whose jurisdiction the registered office of the Company is situated, he may refer such dispute to the said court, whose decision thereon shall be final:",
+                        "2": "Provided further that nothing contained herein shall affect the liability of any person, who may receive the whole or any part of the amount allowed under this Act, to pay the same to the person lawfully entitled thereto."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Deposit of amount in court.",
+                    "paragraphs": {
+                        "0": "Where any dispute has been referred under section 14 by the Commissioner to the civil court referred to therein, he shall deposit the amount in that court."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 16.": {
+                    "heading": "Act to have overriding effect.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any law, other than this Act, or in any instrument having effect by virtue of any law, other than this Act."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Penalties.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "If any person,\u2014",
+                            "contains": {
+                                "0": "(a) makes any claim for any payment under this Act, knowing or having reason to believe that such claim is false or without any basis; or",
+                                "1": {
+                                    "text": "(b) when required under this Act so to do,\u2014",
+                                    "contains": {
+                                        "0": "(i) omits or fails to produce any register or record of the Company; or",
+                                        "1": "(ii) makes any statement of furnishes any information which is false in any material particular and which he knows or believes to be false or does not believe to be true; or"
+                                    }
+                                },
+                                "2": "(c) makes any such statement as aforesaid in any book, account, record, register, return or other document,"
+                            }
+                        },
+                        "1": "he shall be punishable with imprisonment for a term which may extend to two years, or with fine which may extend to two thousand rupees, or with both."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where any offence under this Act has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer, such director, manager, secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against the punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                                "1": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Limitation of cognizance of offences.",
+                    "paragraphs": {
+                        "0": "No court shall take cognizance of an offence punishable under this Act, except with the previous sanction of the Central Government or of an officer authorised by that Government in this behalf."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules to carry out the provisions of this Act.",
+                        "1": "(2) Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have affect only in such modified form or be no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Repeal and saving.",
+                    "paragraphs": {
+                        "0": "(1) The British India Corporation (Acquisition of Shares) Ordinance, 1981 (5 of 1981), is hereby repealed.",
+                        "1": "(2) Notwithstanding such repeal, anything done or any action taken under the Ordinance so repealed shall be deemed to have been done or taken under the corresponding provisions of this Act."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {}
+}

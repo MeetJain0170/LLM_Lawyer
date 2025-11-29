@@ -1,0 +1,674 @@
+{
+    "Act Title": "THE PARSI MARRIAGE AND DIVORCE ACT, 1936",
+    "Act ID": "ACT NO. 3 OF 1936",
+    "Enactment Date": "[23rd April, 1936.]",
+    "Act Definition": {
+        "0": "An Act to amend the law relating to marriage and divorce among Parsis.",
+        "1": "WHEREAS it is expedient to amend the law relating to marriage and divorce among Parsis"
+    },
+    "Chapters": {
+        "0": {
+            "Name": "I.\u2014PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Parsi Marriage and Divorce Act, 1936.",
+                        "1": "(2) 2[It extends to the whole of India except the State of Jammu and Kashmir*]:",
+                        "2": "Provided that the Central Government may, in respect of 3[territories which, immediately before the 1st November, 1956, were comprised in Part B States] by notification in the Official Gazette, direct that the provisions of this Act relating to the constitution and powers of Parsi Matrimonial Courts and to appeals from the decisions and orders of such Courts shall apply with such modifications as may be specified in the notification:",
+                        "3": "4[Provided further that nothing contained in this Act shall apply to the Renoncants of the Union territory of Pondicherry.]",
+                        "4": "(3) It shall come into force on such date5 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless there is anything repugnant in the subject or context,\u2014",
+                            "contains": {
+                                "0": "(1) \u201cChief Justice\u201d includes senior Judge;",
+                                "1": "(2) \u201cCourt\u201d means a Court constituted under this Act;",
+                                "2": "(3) to \u201cdesert\u201d together with its grammatical variations and cognate expressions, means to desert the other party to a marriage without reasonable cause and without the consent, or against the will, of such party;",
+                                "3": {
+                                    "text": "(4) \u201cgrievous hurt\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(a) emasculation;",
+                                        "1": "(b) permanent privation of the sight of either eye;",
+                                        "2": "(c) permanent privation of the hearing of either ear;",
+                                        "3": "(d) privation of any member or joint;",
+                                        "4": "(e) destruction or permanent impairing of the powers of any member or joint;",
+                                        "5": "(f) permanent disfiguration of the head or face; or",
+                                        "6": "(g) any hurt which endangers life;"
+                                    }
+                                },
+                                "4": "(5) \u201chusband\u201d means a Parsi husband;",
+                                "5": "(6) \u201cmarriage\u201d means a marriage between Parsis whether contracted before or after the commencement of this Act;",
+                                "6": "(7) a \u201cParsi\u201d means a Parsi Zoroastrian;",
+                                "7": "(8) \u201cpriest\u201d means a Parsi priest and includes Dastur and Mobed; and",
+                                "8": "(9) \u201cwife\u201d means a Parsi wife."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "Name": "II.\u2014MARRIAGES BETWEEN PARSIS",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Requisites to validity of Parsi marriages.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "1[(1)] No marriage shall be valid if\u2014",
+                            "contains": {
+                                "0": "(a) the contracting parties are related to each other in any of the degrees of consanguinity or affinity set forth in Schedule I; or",
+                                "1": "(b) such marriage is not solemnized according to the Parsi form of ceremony called \u201cAshirvad\u201d by a priest in the presence of two Parsi witnesses other than such priest; or",
+                                "2": "2[(c) in the case of any Parsi (whether such Parsi has changed his or her religion or domicile or not) who, if a male, has not completed twenty-one years of age, and if a female, has not completed eighteen years of age.]"
+                            }
+                        },
+                        "1": "3[(2) Notwithstanding that a marriage is invalid under any of the provisions of sub-section (1), any child of such marriage who would have been legitimate if the marriage had been valid, shall be legitimate.]"
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Remarriage when unlawful.",
+                    "paragraphs": {
+                        "0": "(1) No Parsi (whether such Parsi has changed his or her religion or domicile or not) shall contract any marriage under this Act or any other law in the lifetime of his or her wife or husband, whether a Parsi or not, except after his or her lawful divorce from such wife or husband or after his or her marriage with such wife or husband has lawfully been declared null and void or dissolved, and, if the marriage was contracted with such wife or husband under the Parsi Marriage and Divorce Act 18654 (15 of 1865), or under this Act, except after a divorce, declaration or dissolution as aforesaid under either of the said Acts.",
+                        "1": "(2) Every marriage contracted contrary to the provisions of sub-section (1) shall be void."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Punishment of bigamy.",
+                    "paragraphs": {
+                        "0": "Every Parsi who during the lifetime of his or her wife or husband, whether a Parsi or not, contracts a marriage without having been lawfully divorced from such wife or husband, or without his or her marriage with such wife or husband having legally been declared null and void or dissolved, shall be subject to the penalties provided in sections 494 and 495 of the Indian Penal Code (45 of 1860) for the offence of marrying again during the lifetime of a husband or wife."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Certificate and registry of marriage.",
+                    "paragraphs": {
+                        "0": "Every marriage contracted under this Act shall, immediately on the solemnization thereof, be certified by the officiating priest in the form contained in Schedule II. The certificate shall be signed by the said priest, the contracting parties 1*** and two witnesses present at the marriage and the said priest shall thereupon send such certificate together with a fee of two rupees to be paid by the husband to the Registrar of the place at which such marriage is solemnized. The Registrar on receipt of the certificate and fee shall enter the certificate in a register to be kept by him for that purpose and shall be entitled to retain the fee."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Appointment of Registrar.",
+                    "paragraphs": {
+                        "0": "For the purposes of this Act a Registrar shall be appointed. Within the local limits of the ordinary original civil jurisdiction of a High Court, the Registrar shall be appointed by the Chief Justice of such Court, and without such limits, by the State Government. Every Registrar so appointed may be removed by the Chief Justice or State Government appointing him."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Marriage register to be open for public inspection.",
+                    "paragraphs": {
+                        "0": "The register of marriages mentioned in section 6 shall, at all reasonable times, be open for inspection, and certified extracts therefrom shall, on application, be given by the Registrar on payment to him by the applicant of two rupees for each such extract. Every such register shall be evidence of the truth of the statements therein contained."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Copy of certificate to sent to Registrar-General of Births, Deaths and Marriages.",
+                    "paragraphs": {
+                        "0": "Every Registrar, except the Registrar appointed by the Chief Justice of the High Court of Judicature at Bombay, shall, at such intervals as the State Government by which he was appointed from time to time directs, send to the Registrar-General of Births, Deaths and Marriages for the territories administered by such State Government a true copy certified by him in such form as such State Government from time to time prescribes of all certificates entered by him in the said register of marriages since the last of such intervals."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Registration of divorces.",
+                    "paragraphs": {
+                        "0": "When a Court passes a decree for divorce, nullity or dissolution, the Court shall send a copy of the decree for registration to the Registrar of Marriages within its jurisdiction appointed under section 7; the Registrar shall enter the same in a register to be kept by him for the purpose, and the provisions of Part II applicable to the Registrars and registers of marriages shall be applicable, so far as may be, to the Registrars and registers of divorces and decrees of nullity and dissolution."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Penalty for solemnizing marriage contrary to section 4.",
+                    "paragraphs": {
+                        "0": "Any priest knowingly and wilfully solemnizing any marriage contrary to and in violation of section 4 shall, on conviction thereof, be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to two hundred rupees, or with both."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Penalty for priest\u2019s neglect of requirements of section 6.",
+                    "paragraphs": {
+                        "0": "Any priest neglecting to comply with any of the requisitions affecting him contained in section 6 shall, on conviction thereof, be punished for every such offence with simple imprisonment for a term which may extend to three months, or with fine which may extend to one hundred rupees, or with both."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Penalty for omitting to subscribe and attest certificate.",
+                    "paragraphs": {
+                        "0": "Every other person required by section 6 to subscribe or attest the said certificate who shall wilfully omit or neglect so to do, shall, on conviction thereof, be punished for every such offence with a fine not exceeding one hundred rupees."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Penalty for making, etc., false certificate.",
+                    "paragraphs": {
+                        "0": "Every person making or signing or attesting any such certificate containing a statement which is false, and which he either knows or believes to be false, shall be punished with simple imprisonment for a term which may extend to three months, or with fine which may extend to one hundred rupees, or with both; and if the act amounts to forgery as defined in the Indian Penal Code (45 of 1860), then such person shall also be liable, on conviction thereof, to the penalties provided in section 466 of the said Code."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Penalty for failing to register certificate.",
+                    "paragraphs": {
+                        "0": "Any Registrar failing to enter the said certificate pursuant to section 6 shall be punished with simple imprisonment for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Penalty for secreting, destroying or altering register.",
+                    "paragraphs": {
+                        "0": "Any person secreting, destroying, or dishonestly or fraudulently altering the said register in any part thereof, shall be punished with imprisonment of either description as defined in the Indian Penal Code (45 of 1860) for a term which may extend to two years or if he be a Register, for a term which may extend to five years and shall also be liable to fine which may extend to five hundred rupees."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Formal irregularity not to invalidate marriage.",
+                    "paragraphs": {
+                        "0": "No marriage contracted under this Act shall be deemed to be invalid solely by reason of the fact that it was not certified under section 6, or that the certificate was not sent to the Registrar, or that the certificate was defective, irregular or incorrect."
+                    }
+                }
+            }
+        },
+        "2": {
+            "Name": "III.\u2014PARSI MATRIMONIAL COURTS",
+            "Sections": {
+                "Section 18.": {
+                    "heading": "Constitution of Special Courts under the Act.",
+                    "paragraphs": {
+                        "0": "For the purpose of hearing suits under this Act, a Special Court shall be constituted in each of the Presidency-towns of Calcutta, Madras and Bombay, and in such other places in the territories of the several State Governments as such Governments respectively shall think fit."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Parsi Chief Matrimonial Courts.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Court so constituted in each of the Presidency-towns shall be entitled the Parsi Chief Matrimonial Court of Calcutta, Madras or Bombay, as the case may be. The local limits of the jurisdiction of a Parsi Chief Matrimonial Court shall be coterminous with the local limits of the ordinary original civil jurisdiction of the High Court. The Chief Justice of the High Court, or such other Judge of the same Court as the Chief Justice shall from time to time appoint shall be the Judge of such Matrimonial Court, and, in the trial of cases under this Act, he shall be aided 1[by five delegates, except in regard to\u2014",
+                            "contains": {
+                                "0": "(a) interlocutory applications and proceedings;",
+                                "1": "(b) alimony and maintenance, both permanent as well as pendente lite;",
+                                "2": "(c) custody, maintenance and education of children; and",
+                                "3": "(d) all matters and proceedings other than the regular hearing of cases.]"
+                            }
+                        }
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Parsi District Matrimonial Courts.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Every Court so constituted at a place other than a Presidency-town shall be entitled the Parsi District Matrimonial Court of such place. Subject to the provisions contained in section 21, the local limits of the jurisdiction of such Court shall be coterminous with the limits of the district in which it is held. The Judge of the principal Court of original civil jurisdiction at such place shall be the Judge of such Matrimonial Court, and in the trial of cases under this Act he shall be aided 1[by five delegates, except in regard to\u2014",
+                            "contains": {
+                                "0": "(a) interlocutory applications and proceedings;",
+                                "1": "(b) alimony and maintenance, both permanent as well as pendente lite;",
+                                "2": "(c) custody, maintenance and education of children; and",
+                                "3": "(d) all matters and proceedings other than the regular hearing of cases.]"
+                            }
+                        }
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Power to alter territorial jurisdiction of District Courts.",
+                    "paragraphs": {
+                        "0": "The State Government may from time to time alter the local limits of the jurisdiction of any Parsi District Matrimonial Court, and may include within such limits any number of districts under its government."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Certain districts to be within jurisdiction of the Chief Matrimonial Court.",
+                    "paragraphs": {
+                        "0": "Any district which the State Government, on account of the fewness of its Parsi inhabitants, shall deem it inexpedient to include within the jurisdiction of any District Matrimonial Court, shall be included within the jurisdiction of the Parsi Chief Matrimonial Court for the territories under such State Government where there is such a Court."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Court seal.",
+                    "paragraphs": {
+                        "0": "A seal shall be made for every Court constituted under this Act, and all decrees and orders and copies of decrees and orders of such Court shall be sealed with such seal, which shall be kept in the custody of the presiding Judge."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Appointment of delegates.",
+                    "paragraphs": {
+                        "0": "(1) The State Governments, shall, in the Presidency-towns and districts subject to their respective governments, respectively appoint persons to be delegates to aid in the adjudication of cases arising under this Act, after giving the local parsis an opportunity of expressing their opinion in such manner as the respective Governments may think fit.",
+                        "1": "(2) The persons so appointed shall be Parsis, their names shall be published in the Official Gazette and their number shall, within the local limits of the ordinary original civil jurisdiction of a High Court, be not more than thirty, and in districts beyond such limits, not more than twenty."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Power to appoint new delegates.",
+                    "paragraphs": {
+                        "0": "The appointment of a delegate shall be for ten years; but he shall be eligible for reappointment for the like term or terms. Whenever a delegate shall die, or have completed his term of office, or be desirous of relinquishing his office, or refuse or become incapable or unfit to act, or cease to be a Parsi, or be convicted of an offence under the Indian Penal Code (45 of 1860) or other law for the time being in force 1[involving moral turpitude], or be adjudged insolvent, then and so often the State Government may appoint any person being a Parsi, to be a delegate in his stead, and the name of the person so appointed shall be published in the Official Gazette."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Delegates to be deemed public servants.",
+                    "paragraphs": {
+                        "0": "All delegates appointed under this Act shall be considered to be public servants within the meaning of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Selection of delegates under sections 19 and 20 to be from those appointed under section 24.",
+                    "paragraphs": {
+                        "0": "The delegates selected under sections 19 and 20 to aid in the adjudication of suits under this Act, shall be taken under the orders of the presiding Judge of the Court in due rotation from the delegates appointed by the State Government under section 24:",
+                        "1": "Provided that each party to the suit may, without cause assigned, challenge any 2 [two] of the delegates attending the Court before such delegates are selected and no delegate so challenged shall be selected."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Practitioners in Matrimonial Courts.",
+                    "paragraphs": {
+                        "0": "All legal practitioners entitled to practise in a High Court shall be entitled to practise in any Court constituted under this Act, and all legal practitioners entitled to practise in a District Court shall be entitled to practise in any Parsi District Matrimonial Court constituted under this Act."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Court in which suits to be brought.",
+                    "paragraphs": {
+                        "0": "(1) All suits instituted under this Act shall be brought in the Court within the limits of whose jurisdiction the defendant resides at the time of the institution of the suit 3[or where the marriage under this Act was solemnized].",
+                        "1": "(2) When the defendant shall at such time have left 4[the territories to which this Act extends] such suit shall be brought in the Court at the place where the plaintiff and defendant last resided together.",
+                        "2": "(3) In any case, whether the defendant resides in 1[the territories to which this Act extends] or not, such suit may be brought in the Court at the place where the plaintiff resides or at the place where the plaintiff and the defendant last resided together, if such Court, after recording its reasons in writing, grants leave so to do."
+                    }
+                }
+            }
+        },
+        "3": {
+            "Name": "IV.\u2014MATRIMONIAL SUITS",
+            "Sections": {
+                "Section 30.": {
+                    "heading": "Suits for nullity.",
+                    "paragraphs": {
+                        "0": "In any case in which consummation of the marriage is from natural causes impossible, such marriage may, at the instance of either party thereto, be declared to be null and void."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Suits for dissolution.",
+                    "paragraphs": {
+                        "0": "If a husband or wife shall have been continually absent from his or her wife or husband for the space of seven years, and shall not have been heard of as being alive within that time by those persons who would have naturally heard of him or her, had he or she been alive, the marriage of such husband or wife may, at the instance of either party thereto, be dissolved."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Grounds for divorce.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any married person may sue for divorce on any one or more of the following grounds, namely:\u2014",
+                            "contains": {
+                                "0": "(a) that the marriage has not been consummated within one year after its solemnization owing to the wilful refusal of the defendant to consummate it;",
+                                "1": "(b) that the defendant at the time of the marriage was of unsound mind and has been habitually so up to the date of the suit:",
+                                "2": "Provided that divorce shall not be granted on this ground, unless the plaintiff (1) was ignorant of the fact at the time of the marriage, and (2) has filed the suit within three years from the date of the marriage;",
+                                "3": "2[(bb) that the defendant has been incurably of unsound mind for a period of two years or upwards immediately preceding the filing of the suit or has been suffering continuously or intermittently from mental disorder of such kind and to such an extent that the plaintiff cannot reasonably be expected to live with the defendant.",
+                                "4": {
+                                    "text": "Explanation.\u2014 In this clause,\u2014",
+                                    "contains": {
+                                        "0": "(a) the expression \u201cmental disorder\u201d means mental illness, arrested or incomplete development of mind, psychopathic disorder or any other disorder or disability of mind and includes schizophrenia;",
+                                        "1": "(b) the expression \u201cpsychopathic disorder\u201d means a persistent disorder or disability of mind (whether or not including subnormality of intelligence) which results in abnormally aggressive or seriously irresponsible conduct on the part of the defendant, and whether or not it requires or is susceptible to medical treatment;]",
+                                        "2": "(c) that the defendant was at the time of marriage pregnant by some person other than the plaintiff:",
+                                        "3": "Provided that divorce shall not be granted on this ground, unless (1) the plaintiff was at the time of the marriage ignorant of the fact alleged, (2) the suit has been filed within two years of the date of marriage, and (3) marital intercourse has not taken place after the plaintiff came to know of the fact;",
+                                        "4": "(d) that the defendant has since the marriage committed adultery or fornication or bigamy or rape or an unnatural offence:",
+                                        "5": "Provided that divorce shall not be granted on this ground if the suit has been filed more than two years after the plaintiff came to know of the fact;",
+                                        "6": "1[(dd) that the different has since the solemnization of the marriage treated the plaintiff with cruelty or has behaved in such a way as to render it in the judgment of the Court improper to compel the plaintiff to live with the defendant:",
+                                        "7": "Provided that in every suit for divorce on this ground it shall be in the discretion of the Court whether it should grant a decree for divorce or for judicial separation only;]",
+                                        "8": "(e) that the defendant has since the marriage voluntarily caused grievous hurt to the plaintiff or has infected the plaintiff with venereal disease or, where the defendant is the husband, has compelled the wife to submit herself to prostitution:",
+                                        "9": "Provided that divorce shall not be granted on this ground, if the suit has been filed more than two years (i) after the infliction of the grievous hurt, or (ii) after the plaintiff came to know of the infection, or (iii) after the last act of compulsory prostitution;",
+                                        "10": "(f) that the defendant is undergoing a sentence of imprisonment for seven years or more for an offence as defined in the Indian Penal Code (45 of 1860):",
+                                        "11": "Provided that divorce shall not be granted on this ground, unless the defendant has prior to the filing of the suit undergone at least one year\u2019s imprisonment out of the said period;",
+                                        "12": "(g) that the defendant has deserted the plaintiff for at least 2[two years];",
+                                        "13": "(h) that 3*** an order has been passed against the defendant by a Magistrate awarding separate maintenance to the plaintiff, and the parties have not had marital intercourse for 4[one year] or more since such decree or order;",
+                                        "14": "5* * * * *",
+                                        "15": "(j) that the defendant has ceased to be a Parsi 6[by conversion to another religion]:",
+                                        "16": "Provided that divorce shall not be granted on this ground if the suit has been filed more than two years after the plaintiff came to know of the fact."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 32A.": {
+                    "heading": "Non-resumption of cohabitation or restitution of conjugal rights within one year in pursuance of a decree to be ground for divorce.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Either party to a marriage, whether solemnized before or after the commencement of the Parsi Marriage and Divorce (Amendment) Act, 1988 (5 of 1988), may sue for divorce also on the ground,\u2014",
+                            "contains": {
+                                "0": "(i) that there has been no resumption of cohabitation as between the parties to the marriage for a period of one year or upwards after the passing of a decree for judicial separation in a proceeding to which they were parties; or",
+                                "1": "(ii) that there has been no restitution of conjugal rights as between the parties to the marriage for a period of one year or upwards after the passing of a decree for restitution of conjugal rights in a proceeding to which they were parties."
+                            }
+                        },
+                        "1": "(2) No decree for divorce shall be granted under sub-section (1) if the plaintiff has failed or neglected to comply with an order for maintenance passed against him under section 40 of this Act or section 488 of the Code of Criminal Procedure, 1898 (5of 1898) or section 125 of the Code of Criminal Procedure, 1973 (2 of 1974)."
+                    }
+                },
+                "Section 32B.": {
+                    "heading": "Divorce by mutual consent.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, a suit for divorce may be filed by both the parties to a marriage together, whether such marriage was solemnized before or after the commencement of the Parsi Marriage and Divorce (Amendment) Act, 1988 (5 of 1988), on the ground that they have been living separately for a period of one year or more, that they have not been able to live together and that they have mutually agreed that the marriage should be dissolved:",
+                        "1": "Provided that no suit under this sub-section shall be filed unless at the date of the filing of the suit one year has lapsed since the date of the marriage.",
+                        "2": "(2) The Court shall, on being satisfied, after hearing the parties and after making such inquiry as it thinks fit, that a marriage has been solemnized under this Act and the averments in the plaint are true and that the consent of either party to the suit was not obtained by force or fraud, pass a decree declaring the marriage to be dissolved with effect from the date of the decree.]"
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Joining of co-defendant.",
+                    "paragraphs": {
+                        "0": "In every such suit for divorce on the ground of adultery, the plaintiff shall, unless the Court shall otherwise order, make the person with whom the adultery is alleged to have been committed a co-defendant, and in any such suit by the husband the Court may order the adulterer to pay the whole or any part of the costs of the proceedings."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Suits for judicial separation.",
+                    "paragraphs": {
+                        "0": "Any married person may sue for judicial separation on any of the grounds for which such person could have filed a suit for divorce 1***."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Decrees in certain suits.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In any suit under section 30, 31, 32, 2[32A] or 34, whether defended or not, if the Court be satisfied that any of the grounds set forth in those sections for granting relief exist, that none of the grounds therein set forth for withholding relief exist and that\u2014",
+                            "contains": {
+                                "0": "(a) the act or omission set forth in the plaint has not been condoned;",
+                                "1": "(b) the husband and wife are not colluding together;",
+                                "2": "(c) the plaintiff has not connived at or been accessory to the said act or omission;",
+                                "3": "(d) (save where a definite period of limitation is provided by this Act) there has been no unnecessary or improper delay in instituting the suit; and",
+                                "4": "(e) there is no other legal ground why relief should not be granted;"
+                            }
+                        },
+                        "1": "then and in such case, but not otherwise, the Court shall decree such relief accordingly."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Suit for restitution of conjugal rights.",
+                    "paragraphs": {
+                        "0": "Where a husband shall have deserted or without lawful cause ceased to cohabit with his wife, or where a wife shall have deserted or without lawful cause ceased to cohabit with her husband, the party so deserted or with whom cohabitation shall have so ceased may sue for the restitution of his or her conjugal rights and the Court, if satisfied of the truth of the allegations contained in the plaint, and that there is no just ground why relief should not be granted, may proceed to decree such restitution of conjugal rights accordingly."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Counter-claim by defendant for any relief.",
+                    "paragraphs": {
+                        "0": "In any suit under this Act, the defendant may make a counter claim for any relief he or she may be entitled to under this Act."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Documentary evidence.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in any other law for the time being in force, no document shall be inadmissible in evidence in any proceeding at the trial of a suit under this Act on the ground that it is not duly stamped or registered.]"
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Alimony pendente lite.",
+                    "paragraphs": {
+                        "0": "Where in any suit under this Act, it appears to the Court that either the wife or the husband, as the case may be, has no independent income sufficient for her or his support and the necessary expenses of the suit, it may, on the application of the wife or the husband, order the defendant to pay to the plaintiff, the expenses of the suit, and such weekly or monthly sum, during the suit, as, having regard to the plaintiff's own income and the income of the defendant, it may seem to the Court to be reasonable:",
+                        "1": "2[Provided that the application for the payment of the expenses of the suit and such weekly or monthly sum during the suit, shall, as far as possible, be disposed of within sixty days from the date of service of notice on the wife or the husband, as the case may be.]"
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Permanent alimony and maintenance.",
+                    "paragraphs": {
+                        "0": "(1) Any Court exercising jurisdiction under this Act may, at the time of passing any decree or at any time subsequent thereto, on an application made to it for the purpose by either the wife or the husband, order that the defendant shall pay to the plaintiff for her or his maintenance and support, such gross sum or such monthly or periodical sum, for a term not exceeding the life of the plaintiff as having regard to the defendant's own income and other property, if any, the income and other property of the plaintiff, the conduct of the parties and other circumstances of the case, it may seem to the Court to be just, and any such payment may be secured, if necessary, by a charge on the movable or immovable property of the defendant.",
+                        "1": "(2) The Court if it is satisfied that there is change in the circumstances of either party at any time after it has made an order under sub-section (1), it may, at the instance of either party, vary, modify or rescind any such order in such manner as the Court may deem just.",
+                        "2": "(3) The Court if it is satisfied that the party in whose favour an order has been made under this section has remarried or, if such party is the wife, that she has not remained chaste, or, if such party is the husband, that he had sexual intercourse with any woman outside wedlock, it may, at the instance of the other party, vary, modify or rescind any such order in such manner as the Court may deem just.]"
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Payment of alimony to wife or to her trustee.",
+                    "paragraphs": {
+                        "0": "In all cases in which the Court shall make any decree or order for alimony it may direct the same to be paid either to the wife herself, or to any trustee on her behalf to be approved by the Court 3[or to a guardian appointed by the Court], and may impose any terms or restrictions which to the Court may seem expedient, and may from time to time appoint a new trustee, 3[or guardian,] if for any reason it shall appear to the Court expedient so to do."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Disposal of joint property.",
+                    "paragraphs": {
+                        "0": "In any suit under this Act the Court may make such provisions in the final decree as it may deem just and proper with respect to property presented at or about the time of marriage which may belong jointly to both the husband and wife."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Suits to be heard in camera and may not be printed or published.",
+                    "paragraphs": {
+                        "0": "(1) Every suit filed under this Act shall be tried in camera and it shall not be lawful for any person to print or publish any matter in relation to any such case except a judgment of the Court printed or published with the previous permission of the Court.",
+                        "1": "(2) If any person prints or publishes any matter in contravention of the provisions contained in sub- section (1), he shall be punishable with fine which may extend to one thousand rupees.]"
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Validity of trial.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in section 19 or section 20 where in the case of a trial in a Parsi Matrimonial Court not less than 5[three] delegates have attended throughout the proceedings, the trial shall not be invalid by reason of the absence during any part thereof of the other delegates."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Provisions of Civil Procedure Code to apply to suits under the Act.",
+                    "paragraphs": {
+                        "0": "The provisions of the Code of Civil Procedure, 1908 (5 of 1908), shall, so far as the same may be applicable, apply to proceedings in suits instituted under this Act including proceedings in execution and orders subsequent to decree:",
+                        "1": "1[Provided that the presiding Judge shall read out to the delegates the relevant sections of this Act, and may, if he considers it necessary so to do, explain the same:",
+                        "2": "Provided further that a verbatim record shall be made of what the presiding Judge read out or explains to the delegates.]"
+                    }
+                },
+                "Section 46.": {
+                    "heading": "Determination of questions of law and procedure and of fact.",
+                    "paragraphs": {
+                        "0": "In suits under this Act all questions of law and procedure shall be determined by the presiding Judge; but the decision on the facts shall be the decision of the majority of the delegates before whom the case is tried:",
+                        "1": "Provided that, where such delegates are equally divided in opinion, the decision on the facts shall be the decision of the presiding Judge."
+                    }
+                },
+                "Section 47.": {
+                    "heading": "Appeal to High Court.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "2[(1)] An appeal shall lie to the High Court from\u2014",
+                            "contains": {
+                                "0": "(a) the decision of any Court established under this Act, whether a Chief Matrimonial Court or District Matrimonial Court, on the ground of the decision being contrary to some law or usage having the force of law, or of a substantial error or defect in the procedure or investigation of the case which may have produced error or defect in the decision of the case upon the merits, and on no other ground; and",
+                                "1": "(b) the granting of leave by any such Court under sub-section (3) of section 29:",
+                                "2": "Provided that such appeal shall be instituted within three calendar months after the decision appealed from shall have been pronounced."
+                            }
+                        },
+                        "1": "3[(2) Every appeal under sub-section (1) shall be heard by a Bench of two Judges of the High Court.]"
+                    }
+                },
+                "Section 48.": {
+                    "heading": "Liberty to parties to marry again.",
+                    "paragraphs": {
+                        "0": "When the time 4*** limited for appealing against any decree granting a divorce or annulling or dissolving a marriage shall have expired, and no appeal shall have been presented against such decree, or when any such appeal shall have been dismissed, or when in the result of any appeal a divorce has been granted or a marriage has been declared to be annulled or dissolved, but not sooner, it shall be lawful for the respective parties thereto to marry again 5***."
+                    }
+                }
+            }
+        },
+        "4": {
+            "Name": "V.\u2014CHILDREN OF THE PARTIES",
+            "Sections": {
+                "Section 49.": {
+                    "heading": "Custody of children.",
+                    "paragraphs": {
+                        "0": "In any suit under this Act, the Court may from time to time pass such interim orders and make such provisions in the final decree as it may deem just and proper with respect to the custody, maintenance and education of the children under the age of 6[eighteen years], the marriage of of whose parents is the subject of such suit, and may, after the final decree upon application, by petition for this purpose, make, revoke, suspend or vary from time to time all such orders and provisions with respect to the custody, maintenance and education of such children as might have been made by such final decree or by interim orders in case the suit for obtaining such decree were still pending:",
+                        "1": "1[Provided that the application with respect to the maintenance and education of such children during the suit, shall, as far as possible, be disposed of within sixty days from the date of service of notice on the respondent.]"
+                    }
+                },
+                "Section 50.": {
+                    "heading": "Settlement of wife\u2019s property for benefit of children.",
+                    "paragraphs": {
+                        "0": "In any case in which the Court shall pronounce a decree of divorce or judicial separation for adultery of the wife, if it shall be made to appear to the Court that the wife is entitled to any property either in possession or reversion, the Court may order such settlement as it shall think reasonable to be made of any part of such property, not exceeding one half thereof, for the benefit of the children of the marriage or any of them."
+                    }
+                }
+            }
+        },
+        "5": {
+            "Name": "VI.\u2014MISCELLANEOUS",
+            "Sections": {
+                "Section 51.": {
+                    "heading": "Superintendence of High court.",
+                    "paragraphs": {
+                        "0": "The High Court shall have superintendence over all Courts constituted under this Act subject to its appellate jurisdiction in the same manner as it has over other Courts under 2[article 227 of the Constitution] and all the provisions of 3[that article] shall apply to such Courts."
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Applicability of provisions of the Act.",
+                    "paragraphs": {
+                        "0": "(1) The provisions of this Act shall apply to all suits to which the same are applicable whether the circumstances relied on occurred before or after the passing of this Act, and whether any decree or order referred to was passed under this Act or under the law in force before the passing of this Act, and where any proceedings are pending in any Court at the time of the commencement of this Act, the Court shall allow such amendment of the pleadings as may be necessary as the result of the coming into operation of this Act.",
+                        "1": "(2) A Parsi who has contracted a marriage under the Parsi Marriage and Divorce Act, 1865 (15 of 1865), or under this Act, even though such Parsi may change his or her religion or domicile, so long as his or her wife or husband is alive and so long as such Parsi has not been lawfully divorced from such wife or husband or such marriage has not lawfully been declared null and void or dissolved under the decree of a competent Court under either of the said Acts, shall remain bound by the provisions of this Act."
+                    }
+                },
+                "Section 53.": {
+                    "heading": "[Repealed.]",
+                    "paragraphs": {
+                        "0": "[Repealed].\u2014Rep. by the Repealing and Amending Act, 1937 (20 of 1937), s. 3 and the Second"
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "SCHEDULE I": {
+            "0": "Schedule."
+        },
+        "SCHEDULE II": {
+            "0": "SCHEDULE I",
+            "1": "(See section 3)",
+            "2": "Table of prohibited degrees of consanguinity and affinity",
+            "3": {
+                "text": "A man shall not marry his\u2014",
+                "contains": {
+                    "0": "1. Paternal grand-father\u2019s mother.",
+                    "1": "2. Paternal grand-mother\u2019s mother.",
+                    "2": "3. Maternal grand-father\u2019s mother.",
+                    "3": "4. Maternal grand-mother\u2019s mother.",
+                    "4": "5. Paternal grand-mother.",
+                    "5": "6. Paternal grand-father\u2019s wife.",
+                    "6": "7. Maternal grand-mother.",
+                    "7": "8. Maternal grand-father\u2019s wife.",
+                    "8": "9. Mother or step-mother.",
+                    "9": "10. Father's sister or step-sister.",
+                    "10": "11. Mother\u2019s sister or step-sister.",
+                    "11": "12. Sister or step-sister.",
+                    "12": "13. Brother\u2019s daughter or step-brother\u2019s daughter, or any direct lineal descendant of a brother or step-brother.",
+                    "13": "14. Sister\u2019s daughter or step-sister\u2019s daughter, or any direct lineal descendant of a sister or step-sister.",
+                    "14": "15. Daughter or step-daughter, or any direct lineal descendant of either.",
+                    "15": "16. Son's daughter or step-son\u2019s daughter, or any direct lineal descendant of a son or step-son.",
+                    "16": "17. Wife of son or step-son, or of any direct lineal descendant of a son or step-son.",
+                    "17": "18. Wife of daughter\u2019s son or of step-daughter\u2019s son, or of any direct lineal descendant of a daughter or step-daughter.",
+                    "18": "19. Mother of daughter\u2019s husband.",
+                    "19": "20. Mother of son\u2019s wife.",
+                    "20": "21. Mother of wife\u2019s paternal grand-father.",
+                    "21": "22. Mother of wife\u2019s paternal grand-mother.",
+                    "22": "23. Mother of wife\u2019s maternal grand-father.",
+                    "23": "24. Mother of wife\u2019s maternal grand-mother.",
+                    "24": "25. Wife\u2019s paternal grand-mother.",
+                    "25": "26. Wife\u2019s maternal grand-mother.",
+                    "26": "27. Wife\u2019s mother or step-mother.",
+                    "27": "28. Wife\u2019s father\u2019s sister.",
+                    "28": "29. Wife\u2019s mother\u2019s sister.",
+                    "29": "30. Father\u2019s brother\u2019s wife.",
+                    "30": "31. Mother\u2019s brothers wife",
+                    "31": "32. Brother\u2019s son\u2019s wife.",
+                    "32": "33. Sister\u2019s son\u2019s wife."
+                }
+            },
+            "4": {
+                "text": "A woman shall not marry her\u2014",
+                "contains": {
+                    "0": "1. Paternal grand-father's father.",
+                    "1": "2. Paternal grand-mother\u2019s father.",
+                    "2": "3. Maternal grand-father\u2019s father.",
+                    "3": "4. Maternal grand-mother\u2019s father.",
+                    "4": "5. Paternal grand-father.",
+                    "5": "6. Paternal grand-mother\u2019s husband.",
+                    "6": "7. Maternal grand-father.",
+                    "7": "8. Maternal grand-mother\u2019s husband.",
+                    "8": "9. Father or step-father.",
+                    "9": "10. Father\u2019s brother or step-brother.",
+                    "10": "11. Mother\u2019s brother or step-brother.",
+                    "11": "12. Brother or step-brother.",
+                    "12": "13. Brother\u2019s son or step-brother\u2019s son, or any direct lineal descendant of a brother or step-brother.",
+                    "13": "14. Sister\u2019s son or step-sister\u2019s son, or any direct lineal descendant of a sister or step-sister.",
+                    "14": "15. Son or step-son, or any direct lineal descendant of either.",
+                    "15": "16. Daughter\u2019s son or step-daughter\u2019s son, or any direct lineal descendant of a daughter or step-daughter.",
+                    "16": "17. Husband of daughter or of step-daughter, or of any direct lineal descendant of a daughter or step-daughter.",
+                    "17": "18. Husband of son\u2019s daughter or of step-son\u2019s daughter, or of any direct lineal descendant of a son or step-son.",
+                    "18": "19. Father of daughter\u2019s husband.",
+                    "19": "20. Father of son\u2019s wife.",
+                    "20": "21. Father of husband\u2019s paternal grand-father.",
+                    "21": "22. Father of husband\u2019s paternal grand-mother.",
+                    "22": "23. Father of husband\u2019s maternal grand-father.",
+                    "23": "24. Father of husband\u2019s maternal grand-mother.",
+                    "24": "25. Husband\u2019s paternal grand-father.",
+                    "25": "26. Husband\u2019s maternal grand-father.",
+                    "26": "27. Husband\u2019s father or step-father",
+                    "27": "20. Brother of husband\u2019s father.",
+                    "28": "29. Brother of husband\u2019s mother.",
+                    "29": "30. Husband\u2019s brothers\u2019 son, or his direct lineal descendant.",
+                    "30": "31. Husband\u2019s sister\u2019s son, or his direct lineal descendant.",
+                    "31": "32. Brother\u2019s daughter\u2019s husband.",
+                    "32": "33. Sister\u2019s daughter\u2019s husband."
+                }
+            },
+            "5": {
+                "text": "NOTE.\u2014In the above table the words \u201cbrother\u201d and \u201csister\u201d denote and sister of the whole as well as half blood. Relationship by step means relationship by marriages.",
+                "contains": {
+                    "0": {
+                        "text": "SCHEDULE II",
+                        "contains": {
+                            "0": "(See section 6)"
+                        }
+                    },
+                    "1": {
+                        "text": "Certificate of Marriage",
+                        "contains": {
+                            "0": "Date and place of marriage.",
+                            "1": "Names of the husband and wife.",
+                            "2": "Condition at the time of marriage.",
+                            "3": "Rank or profession. Age.",
+                            "4": "Residence.",
+                            "5": "Names of the fathers or guardians.",
+                            "6": "Rank or profession.",
+                            "7": "Signature of the officiating priest.",
+                            "8": "Signatures of the contracting parties. Signatures of the fathers or guardians of the contracting parties under 21 years of age.",
+                            "9": "Signatures of Witnesses."
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 4": {
+            "0": "1. This Act has been extended to\u2014(i) Berar by the Berar Laws Act, 1941 (4 of 1941), and(ii) Dadra or Nagar Haveli by Reg. 6 of 1963, s. 2 and Sch. I (1-7-1965).",
+            "1": "2. Subs. by Act 3 of 1951, s. 3 and the Schedule for \u201cIt extends to the whole of India except Part B States and, in respect of Parsicitizens of India, to the whole of India\u201d (w.e.f. 1-4-1951).",
+            "2": "3. Subs. by the Adaptation of Laws (No. 3) Order, 1956, for \u201cPart B States\u201d.",
+            "3": "4. Ins. by Act 26 of 1968, s. 3 and the Schedule (w.e.f. 24-5-1968).",
+            "4": "5. 22nd June, 1936; see Gazette of India, 1936, Part I, p.621.*. Vide Notification No. S.O. 3912 (E), dated 30th October, 2019, this Act is made applicable to the Union territory of  Jammuand Kashmir and the Union territory of Ladakh."
+        },
+        "Page 5": {
+            "0": "1. Section 3 renumbered as sub-section (1) thereof by Act 5 of 1988, s. 2 (w.e.f. 15-4-1988).",
+            "1": "2. Subs. by s. 2, ibid., for clause (c) (w.e.f. 15-4-1988).",
+            "2": "3. Ins. by s. 2, ibid. (w.e.f. 15-4-1988).",
+            "3": "4. Rep. by Act 3 of 1936, s. 53 (w.e.f. 23-4-1936)."
+        },
+        "Page 6": {
+            "0": "1. The words \u201c, or their fathers or guardians when they shall not have completed the age of twenty-one years,\u201d omitted by Act 5of 1988, s. 3 (w.e.f. 15-4-1988)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 5 of 1988, s. 4, for \u201cby seven delegates\u201d (w.e.f. 15-4-1988)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 5 of 1988, s. 5 (w.e.f. 15-4-1988).",
+            "1": "2. Subs. by s. 6, ibid., for \u201cthree\u201d (w.e.f. 15-4-1988).",
+            "2": "3. Added by s. 7, ibid. (w.e.f. 15-4-1988).",
+            "3": "4. Subs. by Act 3 of 1951, s. 3 and the Schedule for \u201cPart A States and Part C States\u201d (w.e.f. 1-4-1951)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 3 of 1951, s. 3 and the Schedule for \u201cPart A States and Part C States\u201d (w.e.f. 1-4-1951).",
+            "1": "2. Ins. by Act 5 of 1988, s. 8 (w.e.f. 15-4-1988)."
+        },
+        "Page 10": {
+            "0": "1. Ins. by Act 5 of 1988, s. 8 (w.e.f. 15-4-1988).",
+            "1": "2. Subs. by s. 8, ibid., for \u201cthree years\u201d (w.e.f. 15-4-1988).",
+            "2": "3.  The  words  \u201ca  decree  or  order  for  judicial  separation  has  been  passed  against  the  defendant,  or\u201d  omitted  by  s.  8,  ibid.(w.e.f. 15-4-1988).",
+            "3": "4. Subs. by s. 8, ibid., for \u201cthree years\u201d (w.e.f. 15-4-1988).",
+            "4": "5. Clause (i) omitted by s. 8, ibid. (w.e.f. 15-4-1988).",
+            "5": "6. Ins. by s. 8, ibid. (w.e.f. 15-4-1988).",
+            "6": "7. Ins. by s. 9, ibid. (w.e.f. 15-4-1988)."
+        },
+        "Page 11": {
+            "0": "1. Certain words omitted by Act 5 of 1988, s. 10 (w.e.f. 15-4-1988).",
+            "1": "2. Ins. by s. 11, ibid. (w.e.f. 15-4-1988).",
+            "2": "3. Subs. by s. 12, ibid., for section 38 (w.e.f. 15-4-1988)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 5 of 1988, s. 13, for sections 39 and 40 (w.e.f. 15-4-1988).",
+            "1": "2. Ins. by Act 49 of 2001, s. 4 (w.e.f. 24-9-2001).",
+            "2": "3. Ins. by Act 5 of 1988, s. 14 (w.e.f. 15-4-1988).",
+            "3": "4. Subs. by s. 15, ibid., for section 43 (w.e.f. 15-4-1988).",
+            "4": "5. Subs. by s. 16, ibid., for \u201cfive\u201d (w.e.f. 15-4-1988)."
+        },
+        "Page 13": {
+            "0": "1. Added by Act 5 of 1988, s. 17 (w.e.f. 15-4-1988).",
+            "1": "2. Section 47 renumbered as sub-section (1) thereof by s. 18, ibid. (w.e.f. 15-4-1988).",
+            "2": "3. Ins. by s. 18, ibid. (w.e.f. 15-4-1988).",
+            "3": "4. The word \u201chereby\u201d omitted by s. 19, ibid. (w.e.f. 15-4-1988).",
+            "4": "5. The words \u201c, as if the prior marriage had been terminated by death\u201d omitted by s. 19, ibid. (w.e.f. 15-4-1988).",
+            "5": "6. Subs. by s. 20, ibid., for \u201csixteen years\u201d (w.e.f. 15-4-1988)."
+        },
+        "Page 14": {
+            "0": "1. Ins. by Act 49 of 2001, s. 4 (w.e.f. 24-9-2001).",
+            "1": "2. Subs. by the A.O. 1950, for \u201csection 107 of the Government of India Act\u201d",
+            "2": "3. Subs. by Act 3 of 1957, s. 3 and the Second Schedule for \u201cthat section\u201d (w.e.f. 17-9-1957)."
+        }
+    }
+}

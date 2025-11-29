@@ -1,0 +1,869 @@
+{
+    "Act Title": "THE AIR (PREVENTION AND CONTROL OF POLLUTION) ACT, 1981",
+    "Act ID": "ACT NO. 14 OF 1981",
+    "Enactment Date": "[29th March, 1981.]",
+    "Act Definition": {
+        "0": "An Act to provide for the prevention, control and abatement of air pollution, for the establishment, with a view to carrying out the aforesaid purposes, of Boards, for conferring on and assigning to such Boards powers and functions relating thereto and for matters connected therewith.",
+        "1": "WHEREAS decisions were taken at the United Nations Conference on the Human Environment held in Stockholm in June, 1972, in which India participated, to take appropriate steps for the preservation of the natural resources of the earth which, among other things, include the preservation of the quality of air and control of air pollution;",
+        "2": "AND WHEREAS it is considered necessary to implement the decisions aforesaid in so far as they relate to the preservation of the quality of air and control of air pollution;"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Air (Prevention and Control of Pollution) Act, 1981.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cair pollutant\u201d means any solid, liquid or gaseous substance 2[(including noise)] present in the atmosphere in such concentration as may be or tend to be injurious to human beings or other living creatures or plants or property or environment;",
+                                "1": "(b) \u201cair pollution\u201d means the presence in the atmosphere of any air pollutant;",
+                                "2": "(c) \u201capproved appliance\u201d means any equipment or gadget used for the bringing of any combustible material or for generating or consuming any fume, gas of particulate matter and approved by the State Board for the purposes of this Act;",
+                                "3": "(d) \u201capproved fuel\u201d means any fuel approved by the State Board for the purposes of this Act;",
+                                "4": "(e) \u201cautomobile\u201d means any vehicle powered either by internal combustion engine or by any method of generating power to drive such vehicle by burning fuel;",
+                                "5": "(f) \u201cBoard\u201d means the Central Board or a State Board;",
+                                "6": "(g) \u201cCentral Board\u201d means the 3[Central Pollution Control Board] constituted under section 3 of the Water (Prevention and Control of Pollution) Act, 1974 (6 of 1974);",
+                                "7": "(h) \u201cchimney\u201d includes any structure with an opening or outlet from or through which any air pollutant may be emitted;",
+                                "8": "(i) \u201ccontrol equipment\u201d means any apparatus, device, equipment or system to control the quality and manner of emission of any air pollutant and includes any device used for securing the efficient operation of any industrial plant;",
+                                "9": "(j) \u201cemission\u201d means any solid or liquid or gaseous substance coming out of any chimney, duct or flue or any other outlet;",
+                                "10": "(k) \u201cindustrial plant\u201d means any plant used for any industrial or trade purposes and emitting any air pollutant into the atmosphere;",
+                                "11": "(l) \u201cmember\u201d means a member of the Central Board or a State Board, as the case may be, and includes the Chairman thereof;",
+                                "12": "1[(m) \u201coccupier\u201d, in relation to any factory or premises, means the person who has control over the affairs of the factory or the premises, and includes, in relation to any substance, the person in possession of the substance;]",
+                                "13": "(n) \u201cprescribed\u201d means prescribed by rules made under this Act by the Central Government or, as the case may be, the State Government;",
+                                "14": {
+                                    "text": "(o) \u201cState Board\u201d means,\u2014",
+                                    "contains": {
+                                        "0": "(i) in relation to a State in which the Water (Prevention and Control of Pollution) Act, 1974 (6 of 1974), is in force and the State Government has constituted for that State a 2[State Pollution Control Board] under section 4 of that Act, the said State Board; and",
+                                        "1": "(ii) in relation to any other State, the State Board for the Prevention and Control of Air Pollution constituted by the State Government under section 5 of this Act."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "CENTRAL AND STATE BOARDSFOR THE PREVENTION AND CONTROLOF AIR POLLUTION",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Central Pollution Control Board.",
+                    "paragraphs": {
+                        "0": "The Central Pollution Control Board constituted under section 3 of the Water (Prevention and Control of Pollution) Act, 1974 (6 of 1974), shall, without prejudice to the exercise and performance of its powers and functions under that Act, exercise the powers and perform the functions of the Central Pollution Control Board for the prevention and control of air pollution under this Act."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "State Pollution Control Boards constituted under section 4 of Act 6 of 1974 to be State Boards under this Act.",
+                    "paragraphs": {
+                        "0": "In any State in which the Water (Prevention and Control of Pollution) Act, 1974 (6 of 1974), is in force and the State Government has constituted for that State a State Pollution Control Board under section 4 of that Act, such State Board shall be deemed to be the State Board for the Prevention and Control of air Pollution constituted under section 5 of this Act, and accordingly that State Pollution Control Board shall, without prejudice to the exercise and performance of its powers and functions under that Act, exercise the powers and perform the functions of the State Board for the prevention and control of air pollution under this Act.]"
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Constitution of State Boards.",
+                    "paragraphs": {
+                        "0": "(1) In any State in which the Water (Prevention and Control of Pollution) Act, 1974 (6 of 1974), is not in force, or that Act is in force but the State Government has not constituted a 4[State Pollution Control Board] under that Act, the State Government shall, with effect from such date as it may, by notification in the Official Gazette, appoint, constitute a State Board for the Prevention and Control of Air Pollution under such name as may be specified in the notification, to exercise the powers conferred on, and perform the functions assigned to, that Board under this Act.",
+                        "1": {
+                            "text": "(2) A State Board constituted under this Act shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a Chairman, being a person, having special knowledge or practical experience in respect of matters relating to environmental protection, to be nominated by the State Government:",
+                                "1": "Provided that the Chairman may be either whole-time or part-time as the State Government may think fit;",
+                                "2": "(b) such number of officials, not exceeding five, as the State Government may think fit, to be nominated by the State Government to represent that Government;",
+                                "3": "(c) such number of persons, not exceeding five, as the State Government may think fit, to be nominated by the State Government from amongst the members of the local authorities functioning within the State;",
+                                "4": "(d) such number of non-officials, not exceeding three, as the State Government may think fit, to be nominated by the State Government to represent the interest of agriculture, fishery or industry or trade or labour or any other interest, which, in the opinion of that Government, ought to be represented;",
+                                "5": "(e) two persons to represent the companies or corporations owned, controlled or managed by the State Government, to be nominated by that Government;",
+                                "6": "1[(f) a full-time member-secretary having such qualifications knowledge and experience of scientific, engineering or management aspects of pollution control as may be prescribed, to be appointed by the State Government:]",
+                                "7": "Provided that the State Government shall ensure that not less than two of the members are persons having special knowledge or practical experience in respect of matters relating to the improvement of the quality of air or the prevention, control or abatement of air pollution."
+                            }
+                        },
+                        "2": "(3) Every State Board constituted under this Act shall be a body corporate with the name specified by the State Government in the notification issued under sub-section (1), having perpetual succession and a common seal with power, subject to the provisions of this Act, to acquire and dispose of property and to contract, and may by the said name sue or be sued."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Central Board to exercise the powers and perform the functions of a State Board in the Union territories.",
+                    "paragraphs": {
+                        "0": "No State Board shall be constituted for a Union territory and in relation to a Union territory, the Central Board shall exercise the powers and perform the functions of a State Board under this Act for that Union territory:",
+                        "1": "Provided that in relation to any Union territory the Central Board may delegate all or any of its powers and functions under this section to such person or body of persons as the Central Government may specify."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Terms and conditions of service of members.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided by or under this Act, a member of a State Board constituted under this Act, other than the member-secretary, shall hold office for a term of three years from the date on which his nomination is notified in the Official Gazette:",
+                        "1": "Provided that a member shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.",
+                        "2": "(2) The terms of office of a member of a State Board constituted under this Act and nominated under clause (b) or clause (e) of sub-section (2) of section 5 shall come to an end as soon as he ceases to hold the office under the State Government or, as the case may be, the company or corporation owned, controlled or managed by the State Government, by virtue of which he was nominated.",
+                        "3": {
+                            "text": "(3) A member of a State Board constituted under this Act, other than the member-secretary, may at any time resign his office by writing under his hand addressed,\u2014",
+                            "contains": {
+                                "0": "(a) in the case of the Chairman, to the State Government; and",
+                                "1": "(b) in any other case, to the Chairman of the State Board,"
+                            }
+                        },
+                        "4": {
+                            "text": "and the seat of the Chairman or such other member shall thereupon become vacant.",
+                            "contains": {
+                                "0": "(4) A member of a State Board constituted under this Act, other than the member-secretary, shall be deemed to have vacated his seat, if he is absent without reason, sufficient in the opinion of the State Board, from three consecutive meetings of the State Board or where he is nominated under clause (c) of sub-section (2) of section 5, he ceases to be a member of the local authority and such vacation of seat shall, in either case, take effect from such date as the State Government may, by notification in the Official Gazette, specify.",
+                                "1": "(5) A casual vacancy in a State Board constituted under this Act shall be filled by a fresh nomination and the person nominated to fill the vacancy shall hold office only for the remainder of the term for which the member whose place he takes was nominated.",
+                                "2": "(6) A member of a State Board constituted under this Act shall be eligible for re-nomination 1***",
+                                "3": "(7) The other terms and conditions of service of the Chairman and other members (except the member-secretary) of a State Board constituted under this Act shall be such as may be prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Disqualifications.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) No person shall be a member of a State Board constituted under this Act, who\u2014",
+                            "contains": {
+                                "0": "(a) is, or at any time has been, adjudged insolvent, or",
+                                "1": "(b) is of unsound mind and has been so declared by a competent court, or",
+                                "2": "(c) is, or has been, convicted of an offence which, in the opinion of the State Government, involves moral turpitude, or",
+                                "3": "(d) is, or at any time has been, convicted of an offence under this Act, or",
+                                "4": "(e) has directly or indirectly by himself on by any partner, any share or interest in any Firm or company carrying on the business of manufacture, sale, or hire of machinery, industrial plant, control equipment or any other apparatus for the improvement of the quality of air or for the prevention, control or abatement of air pollution, or",
+                                "5": "(f) is a director or a secretary, manager or other salaried officer or employee of any company or firm having any contract with the Board, or with the Government constituting the Board or with a local authority in the State, or with a company or corporation owned, controlled or managed by the Government, for the carrying out of programmes for the improvement of the quality of air or for the prevention, control or abatement of air pollution, or",
+                                "6": "(g) has so abused, in the opinion of the State Government, his position as a member, as to render his continuance on the State Board detrimental to the interest of the general public."
+                            }
+                        },
+                        "1": "(2) The State Government shall, by order in writing, remove any member who is, or has become, subject to any disqualification mentioned in sub-section (1).",
+                        "2": "Provided that no order of removal shall be made by the State Government under this section unless the member concerned has been given a reasonable opportunity of showing cause against the same.",
+                        "3": "(3) Notwithstanding anything contained in sub-section (1) or sub-section (6) of section 7, a member who has been removed under this section shall not be eligible to continue to hold office until his successor enters upon his office, or, as the case may be, for re-nomination as a member."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Vacation of seatsby members.",
+                    "paragraphs": {
+                        "0": "If a member of a State Board constituted under this Act becomes subject to any of the disqualifications specified in section 8, his seat shall become vacant."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Meetings of Board.",
+                    "paragraphs": {
+                        "0": "(1) For the purposes of this Act, a Board shall meet at least once in every three months and shall observe such rules of procedure in regard to the transaction of business at its meetings as may be prescribed:",
+                        "1": "Provided that if, in the opinion of the Chairman, any business of an urgent nature is to be transacted, he may convene a meeting of the Board at such time as he thinks fit for the aforesaid purpose.",
+                        "2": "(2) Copies of minutes of the meetings under sub-section (1) shall be forwarded to the Central Board and to the State Government concerned."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Constitution of committees.",
+                    "paragraphs": {
+                        "0": "(1) A Board may constitute as many committees consisting wholly of members or partly of members and partly of other persons and for such purpose or purposes as it may think fit.",
+                        "1": "(2) A committee constituted under this section shall meet at such time and at such place, and shall observe such rules of procedure in regard to the transaction of business at its meetings, as may be prescribed.",
+                        "2": "(3) The members of a committee other than the members of the Board shall be paid such fees and allowances, for attending its meetings and for attending to any other work of the Board as may be prescribed."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Temporary association of persons with Board for particular purpose.",
+                    "paragraphs": {
+                        "0": "(1) A Board may associate with itself in such manner, and for such purposes, as may be prescribed, any person whose assistance or advice it may desire to obtain in performing any of its functions under this Act.",
+                        "1": "(2) A person associated with the Board under sub-section (1) for any purpose shall have a right to take part in the discussions of the Board relevant to that purpose, but shall not have a right to vote at a meeting of the Board and shall not be a member of the Board for any other purpose.",
+                        "2": "(3) A person associated with a Board under sub-section (1) shall be entitled to receive such fees and allowances as may be prescribed."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Vacancy in Board not to invalidate acts or proceedings.",
+                    "paragraphs": {
+                        "0": "No act or proceeding of a Board or any committee thereof shall be called in question on the ground merely of the existence of any vacancy in, or any defect in the constitution of, the Board or such committee, as the case may be."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Member-secretary and officers and other employees of State Boards.",
+                    "paragraphs": {
+                        "0": "(1) The terms and conditions of service of the member-secretary of a State Board constituted under this Act shall be such as may be prescribed.",
+                        "1": "1[(2) The member-secretary of a State Board, whether constituted under this Act or not, shall exercise such powers and perform such duties as may be prescribed, or as may, from time to time, be delegated to him by the State Board or its Chairman.]",
+                        "2": "(3) subject to such rules as may be made by the State Government in this behalf, a State Board, whether constituted under this Act or not, may appoint such officers and other employees as it considers necessary for the efficient performance of its functions under this Act.",
+                        "3": "(4) The method of appointment, the conditions of service and the scales of pay of the officers (other than the member-secretary) and other employees of a State Board appointed under sub-section (3) shall be such as may be determined by regulations made by the State Board under this Act.",
+                        "4": "(5) Subject to such conditions as may be prescribed, a State Board constituted under this Act may from time to time appoint any qualified person to be a consultant to the Board and pay him such salary and allowances or fees, as it thinks fit."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Delegation of powers.",
+                    "paragraphs": {
+                        "0": "A State Board may, by general or special order, delegate to the Chairman or the member-secretary or any other officer of the Board subject to such conditions and limitations, if any,as may be specified in the order, such of its powers and functions under this Act as it may deem necessary."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "POWERS AND FUNCTIONS OF BOARDS",
+            "Sections": {
+                "Section 16.": {
+                    "heading": "Functions of Central Board.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, and without prejudice to the performance, of its functions under the Water (Prevention and Control of Pollution) Act, 1974 (6 of 1974), the main functions of the Central Board shall be to improve the quality of air and to prevent, control or abate air pollution in the country.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing functions, the Central Board may\u2014",
+                            "contains": {
+                                "0": "(a) advise the Central Government on any matter concerning the improvement of the quality of air and the prevention, control or abatement of air pollution;",
+                                "1": "(b) plan and cause to be executed a nation-wide programme for the prevention, control or abatement of air pollution;",
+                                "2": "(c) co-ordinate the activities of the State and resolve disputes among them;",
+                                "3": "(d) provide technical assistance and guidance to the State Boards, carry out and sponsor investigations and research relating to problems of air pollution and prevention, control or abatement of air pollution;",
+                                "4": "1[(dd) perform such of the functions of any State Board as may be specified in and order made under sub-section (2) of section 18;]",
+                                "5": "(e) plan and organise the training of persons engaged or to be engaged in programmes for the prevention, control or abatement of air pollution on such terms and conditions as the Central Board may specify;",
+                                "6": "(f) organise through mass media a comprehensive programme regarding the prevention, control or abatement of air pollution;",
+                                "7": "(g) collect, compile and publish technical and statistical data relating to air pollution and the measures devised for its effective prevention, control or abatement and prepare manuals, codes or guides relating to prevention, control or abatement of air pollution;",
+                                "8": "(h) lay down standards for the quality of air;",
+                                "9": "(i) collect and disseminate information in respect of matters relating to air pollution;",
+                                "10": "(j) perform such other functions as may be prescribed."
+                            }
+                        },
+                        "2": "(3) The Central Board may establish or recognise a laboratory or laboratories to enable the Central Board to perform its functions under this section efficiently.",
+                        "3": {
+                            "text": "(4) The Central Board may\u2014",
+                            "contains": {
+                                "0": "(a) delegate any of its functions under this Act generally or specially to any of the committees appointed by it;",
+                                "1": "(b) do such other things and perform such other acts as it may think necessary for the proper discharge of its functions and generally for the purpose of carrying into effect the purposes of this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Functions of State Boards.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Subject to the provisions of this Act, and without prejudice to the performance of its functions, if any, under the Water (Prevention and Control of Pollution) Act, 1974 (Act 6 of 1974), the functions of a State Board shall be\u2014",
+                            "contains": {
+                                "0": "(a) to plan a comprehensive programme for the prevention, control or abatement of air pollution and to secure the execution thereof;",
+                                "1": "(b) to advise the State Government on any matter concerning the prevention, control or abatement of air pollution;",
+                                "2": "(c) to collect and disseminate information relating to air pollution;",
+                                "3": "(d) to collaborate with the Central Board in organising the training of persons engaged or to be engaged in programmes relating to prevention, control or abatement of air pollution and to organise mass-education programme relating thereto;",
+                                "4": "(e) to inspect, at all reasonable times, any control equipment, industrial plant or manufacturing process and to give, by order, such directions to such persons as it may consider necessary to take steps for the prevention, control or abatement of air pollution;",
+                                "5": "(f) to inspect air pollution control areas at such intervals as it may think necessary, assess the quality of air therein and take steps for the prevention, control or abatement of air pollution in such areas;",
+                                "6": "(g) to lay down, in consultation with the Central Board and having regard to the standards for the quality of air laid down by the Central Board, standards for emission of air pollutants into the atmosphere from industrial plants and automobiles or for the discharge of any air pollutant into the atmosphere from any other source whatsoever not being a ship or an aircraft:",
+                                "7": "Provided that different standards for emission may be laid down under this clause for different industrial plants having regard to the quantity and composition of emission of air pollutants into the atmosphere from such industrial plants;",
+                                "8": "(h) to advise the State Government with respect to the suitability of any premises or location for carrying on any industry which is likely to cause air pollution;",
+                                "9": "(i) to Perform such other functions as may be prescribed or as may, from time to time, be entrusted to it by the Central Board or the State Government;",
+                                "10": "(j) to do such other things and to perform such other acts as it may think necessary for the proper discharge of its functions and generally for the purpose of carrying into effect the purposes of this Act."
+                            }
+                        },
+                        "1": "(2) A State Board may establish or recognise a laboratory or laboratories to enable the State Board to perform its functions under this section efficiently."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Power to give directions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "1[(1)]In the performance of its functions under this Act\u2014",
+                            "contains": {
+                                "0": "(a) the Central Board shall be bound by such directions in writing as the Central Government may give to it; and",
+                                "1": "(b) every State Board shall be bound by such directions in writing as the Central Board or the State Government may give to it:",
+                                "2": "Provided that where a direction given by the State Government is inconsistent with the direction given by the Central Board, the matter shall be referred to the Central Government for its decision."
+                            }
+                        },
+                        "1": "2[(2) Where the Central Government is of the opinion that any State Board has defaulted in complying with any directions given by the Central Board under sub-section (1) and as a result of such default a grave emergency has arisen and it is necessary or expedient so to do in the public interest, it may, by order, direct the Central Board to perform any of the functions of the State Board in relation to such area, for such period and for such purposes, as may be specified in the order.",
+                        "2": "(3) Where the Central Board performs any of the functions of the State Board in pursuance of a direction under sub-section (2), the expenses, if any, incurred by the Central Board with respect to the performance of such functions may, if the State Board is empowered to recover such expenses, be recovered by the Central Board with interest (at such reasonable rate as the Central Government may, by order, fix) from the date when a demand for such expenses is made until it is paid from the person or persons concerned as arrears of land revenue or of public demand.",
+                        "3": "(4) For the removal of doubts, it is hereby declared that any directions to perform the functions of any State Board given under sub-section (2) in respect of any area would not preclude the State Board from performing such functions in any other area in the State or any of its other functions\u2019in that area.]"
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "PREVENTION AND CONTROL OF AIR POLLUTION",
+            "Sections": {
+                "Section 19.": {
+                    "heading": "Power to declare air pollution control areas.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may, after consultation with the State Board, by notification in the Official Gazette declare in such manner as may be prescribed, any area or areas within the State as air pollution control area or areas for the purposes of this Act.",
+                        "1": {
+                            "text": "(2) The State Government may, after consultation with the State Board, by notification in the Official Gazette,\u2014",
+                            "contains": {
+                                "0": "(a) alter any air pollution control area whether by way of extension or reduction;",
+                                "1": "(b) declare a new air pollution control area in which may be merged one or more existing air pollution control areas or any part or parts thereof."
+                            }
+                        },
+                        "2": "(3) If the State Government, after consultation with the State Board, is of opinion that the use of any fuel, other than an approved fuel, in any air pollution control area or part thereof, may cause or is likely to cause air pollution, it may, by notification in the Official Gazette, prohibit the use of such fuel in such area or part thereof with effect from such date (being not less than three months from the date of publication of the notification) as may be specified in the notification.",
+                        "3": "(4) The State Government may, after consultation with the State Board, by notification in the Official Gazette, direct that with effect from such date as may be specified therein, no appliance, other than an approved appliance, shall be used in the premises situated in an air pollution control area:",
+                        "4": "Provided that different dates may be specified for different parts of an air pollution control area or for the use of different appliances.",
+                        "5": "(5) If the State Government, after consultation with the State Board, is of opinion that the burning of any material (not being fuel) in any air pollution control area or part thereof may cause or is likely to cause air pollution, it may, by notification in the Official Gazette, prohibit the burning of such material in such area or part thereof."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Power to give instructions for ensuring standards for emission from automobiles.",
+                    "paragraphs": {
+                        "0": "With a view to ensuring that the standards for emission of air pollutants from automobiles laid down by the State Board under clause (g) of sub-section (1) of section 17 are complied with, the State Government shall, in consultation with the State Board, give such instructions as may be deemed necessary to the concerned authority in charge of registration of motor vehicles under the Motor Vehicles Act, 1939 (4 of 1939), and such authority shall, notwithstanding anything contained in that Act or the rules made thereunder be bound to comply with such instructions."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Restrictions on use of certain industrial plants.",
+                    "paragraphs": {
+                        "0": "1[(1) Subject to the provisions of this section, no person shall, without the previous consent of the State Board, establish or operate any industrial plant in an air pollution control area:",
+                        "1": "Provided that a person operating any industrial plant in any air pollution control area immediately before the commencement of section 9 of the Air (Prevention and Control of Pollution) Amendment Act, 1987, for which no consent was necessary prior to such commencement, may continue to do so for a period of three months from such commencement or, if he has made an application for such consent within the said period of three months, till the disposal of such application.]",
+                        "2": "(2) An application for consent of the State Board under sub-section (1) shall be accompanied by such fees as may be prescribed and shall be made in the prescribed form and shall contain the particulars of the industrial plant and such other particulars as may be prescribed:",
+                        "3": "Provided that where any person, immediately before the declaration of any area as an air pollution control area, operates in such area any industrial plant, 2***such person shall make the application under this sub-section within such period (being not less than three months from the date of such declaration) as may be prescribed and where such person makes such application, he shall be deemed to be operating such industrial plant with the consent of the State Board until the consent applied for has been refused.",
+                        "4": "(3) The State Board may make such inquiry as it may deem fit in respect of the application for consent referred to in sub-section (1) and in making any such inquiry, shall follow such procedure as may be prescribed.",
+                        "5": "(4) Within a period of four months after the receipt of the application for consent referred to in sub-section (1), the State Board shall, by order in writing, 1[and for reasons to be recorded in the order, grant the consent applied for subject to such conditions and for such period as may be specified in the order, or refuse such consent]:",
+                        "6": "2[Provided that it shall be open to the State Board to cancel such consent before the expiry of the period for which it is granted or refuse further consent after such expiry if the conditions subject to which such consent has been granted are not fulfilled:",
+                        "7": "Provided further that before cancelling a consent or refusing a further consent under the first provision, a reasonable opportunity of being heard shall be given to the person concerned.]",
+                        "8": {
+                            "text": "(5) Every person to whom consent has been granted by the State Board under sub-section (4), shall comply with the following conditions, namely:\u2014",
+                            "contains": {
+                                "0": "(i) the control equipment of such specifications as the State Board may approve in this behalf shall be installed and operated in the premises where the industry is carried on or proposed to be carried on;",
+                                "1": "(ii) the existing control equipment, if any, shall be altered or replaced in accordance with the directions of the State Board;",
+                                "2": "(iii) the control equipment referred to in clause (i) or clause (ii) shall be kept at all times in good running condition;",
+                                "3": "(iv) chimney, wherever necessary, of such specifications as the State Board may approve in this behalf shall be erected or re-erected in such premises; and",
+                                "4": "(v) such other conditions as the State Board, may specify in this behalf; and",
+                                "5": "(vi) the conditions referred to in clauses (i), (ii) and (iv) shall be complied with within such period as the State Board may specify in this behalf:"
+                            }
+                        },
+                        "9": "Provided that in the case of a person operating any industrial plant 3*** in an air pollution control area immediately before the date of declaration of such area as an air pollution control area, the period so specified shall not be less than six months:",
+                        "10": {
+                            "text": "Provided further that\u2014",
+                            "contains": {
+                                "0": "(a) after the installation of any control equipment in accordance with the specifications under clause (i), or",
+                                "1": "(b) after the alteration or replacement of any control equipment in accordance with the directions of the State Board under clause (ii), or",
+                                "2": "(c) after the erection or re-erection of any chimney under clause (iv),"
+                            }
+                        },
+                        "11": {
+                            "text": "no control equipment or chimney shall be altered or replaced or, as the case may be, erected or re-erected except with the previous approval of the State Board.",
+                            "contains": {
+                                "0": "(6) If due to any technological improvement or otherwise the State Board is of opinion that all or any of the conditions referred to in sub-section (5) require or requires variation (including the change of any control equipment, either in whole or in part), the State Board shall, after giving the person to whom consent has been granted an opportunity of being heard, vary all or any of such conditions and thereupon such person shall be bound to comply with the conditions as so varied.",
+                                "1": "(7) Where a person to whom consent has been granted by the State Board under sub-section (4) transfers his interest in the industry to any other person, such consent shall be deemed to have been granted to such other person and he shall be bound to comply with all the conditions subject to which it was granted as if the consent was granted to him originally."
+                            }
+                        }
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Persons carrying on industry, etc., not to allow emission of air pollutants in excess of the standard laid down by State Board.",
+                    "paragraphs": {
+                        "0": "No person 1**** operating any industrial plant, in any air pollution control area shall discharge or cause or permit to be discharged the emission of any air pollutant in excess of the standards laid down by the State Board under clause (g) of sub-section (1) of section 17."
+                    }
+                },
+                "Section 22A.": {
+                    "heading": "Power of Board to make application to court for restraining persons from causing air pollution.",
+                    "paragraphs": {
+                        "0": "(1) Where it is apprehended by a Board that emission of any air pollutant, in excess of the standards laid down by the State Board under clause (g) of sub-section (1) of section 17, is likely to occur by reason of any person operating an industrial plant or otherwise in any air pollution control area, the Board may make an application to a court, not inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class for restraining such person from emitting such air pollutant.",
+                        "1": "(2) On receipt of the application under sub-section (1), the court may make such order as it deems fit.",
+                        "2": {
+                            "text": "(3) Where under sub-section (2), the court makes an order restraining any person from discharging or causing or permitting to be discharged the emission of any air pollutant, it may, in that order,\u2014",
+                            "contains": {
+                                "0": "(a) direct such person to desist from taking such action as is likely to cause emission;",
+                                "1": "(b) authorise the Board, if the direction under clause (a) is not complied with by the person to whom such direction is issued, to implement the direction in such manner as may be specified by the court."
+                            }
+                        },
+                        "3": "(4) All expenses incurred by the Board in implementing the directions of the court under clause (b) of sub-section (3) shall be recoverable from the person concerned as arrears of land revenue or of public demand.]"
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Furnishing of information to State Board and other agencies in certain cases.",
+                    "paragraphs": {
+                        "0": "(1) Where in any 3*** area the emission of any air pollutant into the atmosphere in excess of the standards laid down by the State Board occurs or is apprehended to occur due to accident or other unforeseen act or event, the person in charge of the premises from where such emission occurs or is apprehended to occur shall forthwith intimate the fact of such occurrence or the apprehension of such occurrence to the State Board and to such authorities or agencies as may be prescribed.",
+                        "1": "(2) On receipt of information with respect to the fact or the apprehension of any occurrence of the nature referred to in sub-section (1), whether through intimation under that sub-section or otherwise, the State Board and the authorities or agencies shall, as early as practicable, cause such remedial measure to be taken as are necessary to mitigate the emission of such air pollutants.",
+                        "2": "(3) Expenses, if any, incurred by the State Board, authority or agency with respect to the remedial measures referred to in sub-section (2) together with interest (at such reasonable rate, as the State Government may, by order, fix) from the date when a demand for the expenses is made until it is paid, may be recovered by that Board, authority or agency from the person concerned, as arrears of land revenue, or of public demand."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Power of entry and inspection.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Subject to the provisions of this section, any person empowered by a State Board in this behalf shall have a right to enter, at all reasonable times with such assistance as he considers necessary, any place\u2014",
+                            "contains": {
+                                "0": "(a) for the purpose of performing any of the functions of the State Board entrusted to him;",
+                                "1": "(b) for the purpose of determining whether and if so in what manner, any such functions are to be performed or whether any provisions of this Act or the rules made thereunder or any notice, order, direction or authorisation served, made, given or granted under this Act is being or has been complied with;",
+                                "2": "(c) for the purpose of examining and testing any control equipment, industrial plant, record, register, document or any other material object or for conducting a search of any place in which he has reason to believe that an offence under this Act or the rules made thereunder has been or is being or is about to be committed and for seizing any such control equipment, industrial plant, record, register, document or other material object if he has reasons to believe that it may furnish evidence of the commission of an offence punishable under this Act or the rules made thereunder."
+                            }
+                        },
+                        "1": "(2) Every person 1*** operating any control equipment or any industrial plant, in an air pollution control area shall be bound to render all assistance to the person empowered by the State Board under sub-section (1) for carrying out the functions under that sub-section and if he fails to do so without any reasonable cause or excuse, he shall be guilty of an offence under this Act.",
+                        "2": "(3) If any person willfully delays or obstructs any person empowered by the State Board under sub-section (1) in the discharge of his duties, he shall be guilty of an offence under this Act.",
+                        "3": "(4) The provisions of the Code of Criminal Procedure, 1973 (2 of 1974), or, in relation to the State of Jammu and Kashmir*, or any area, in which that Code is not in force, the provisions of any corresponding law in force in that State or area, shall, so far as may be, apply to any search or seizure under this section as they apply to any search or seizure made under the authority of a warrant issued under section 94 of the said Code or, as the case may be, under the corresponding provisions of the said law."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Power to obtain information.",
+                    "paragraphs": {
+                        "0": "For the purposes of carrying out the functions entrusted to it, the State Board or any officer empowered by it in that behalf may call for any information (including information regarding the types of air pollutants emitted into the atmosphere and the level of the emission of such air pollutants) from the occupier or any other person carrying on any industry or operating any control equipment or industrial plant and for the purpose of verifying the correctness of such information, the State Board or such officer shall have the right to inspect the premises where such industry, control equipment or industrial plant is being carried on or operated."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Power to take samples of air or emission and procedure to be followed in connection therewith.",
+                    "paragraphs": {
+                        "0": "(1) A State Board or any officer empowered by it in this behalf shall have power to take, for the purpose of analysis, samples of air or emission from any chimney, flue or duct or any other outlet in such manner as may be prescribed.",
+                        "1": "(2) The result of any analysis of a sample of emission taken under sub-section (1) shall not be admissible in evidence in any legal proceeding unless the provisions of sub-sections (3) and (4) are complied with.",
+                        "2": {
+                            "text": "(3) Subject to the provisions of sub-section (4), when a sample of emission is taken for analysis under sub-section (1), the person taking the sample shall\u2014",
+                            "contains": {
+                                "0": "(a) serve on the occupier or his agent, a notice, then and there, in such form as may be prescribed, of his intention to have it so analysed;",
+                                "1": "(b) in the presence of the occupier or his agent, collect a sample of emission for analysis;",
+                                "2": "(c) cause the sample to be placed in a container or containers which shall be marked and sealed and shall also be signed both by the person taking the sample and the occupier or his agent;",
+                                "3": "(d) send, without delay, the container or containers to the laboratory established or recognised by the State Board under section 17 or, if a request in that behalf is made by the occupier or his agent when the notice is served on him under clause (a), to the laboratory established or specified under sub-section (1) of section 28."
+                            }
+                        },
+                        "3": {
+                            "text": "(4) When a sample of emission is taken for analysis under sub-section (1) and the person taking the sample serves on the occupier or his agent, a notice under clause (a) of sub-section (3), then,\u2014",
+                            "contains": {
+                                "0": "(a) in a case where the occupier or his agent wilfully absents himself, the person taking the sample shall collect the sample of emission for analysis to be placed in a container or containers which shall be marked and sealed and shall also be signed by the person taking the sample, and",
+                                "1": "(b) in a case where the occupier or his agent is present at the time of taking the sample but refuses to sign the marked and sealed container or containers of the sample of emission as required under clause (c) of sub-section (3), the marked and sealed container or containers shall be signed by the person taking the sample,"
+                            }
+                        },
+                        "4": "and the container or containers shall be sent without delay by the person taking the sample for analysis to the laboratory established or specified under sub-section (1) of section 28 and such person shall inform the Government analyst appointed under sub-section (1) of section 29, in writing, about the wilful absence of the occupier or his agent, or, as the case may be, his refusal to sign the container or containers."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Reports of the result of analysis on samples taken under section 26.",
+                    "paragraphs": {
+                        "0": "(1) Where a sample of emission has been sent for analysis to the laboratory established or recognised by the State Board, the Board analyst appointed under sub-section (2) of section 29 shall analyse the sample and submit a report in the prescribed form of such analysis in triplicate to the State Board.",
+                        "1": "(2) On receipt of the report under sub-section (1), one copy of the report shall be sent by the State Board to the occupier or his agent referred to in section 26, another copy shall be preserved for production before the court in case any legal proceedings are taken against him and the other copy shall be kept by the State Board.",
+                        "2": "(3) Where a sample has been sent for analysis under clause of sub-section (3) or sub-section (4) of section 26 to any laboratory mentioned therein, the Government analyst referred to in the said sub-section (4) shall analyse the sample and submit a report in the prescribed form of the result of the analysis in triplicate to the State Board which shall comply with the provisions of sub-section (2).",
+                        "3": "(4) Any cost incurred in getting any sample analysed at the request of the occupier or his agent as provided in clause (d) of sub-section (3) of section 26 or when he wilfully absents himself or refuses to sign the marked and sealed container or containers of sample of emission under sub-section (4) of that section, shall be payable by such occupier or his agent and in case of default the same shall be recoverable from him as arrears of land revenue or of public demand."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "State Air Laboratory.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The State Government may, by notification in the Official Gazette,\u2014",
+                            "contains": {
+                                "0": "(a) establish one or more State Air Laboratories; or",
+                                "1": "(b) specify one or more laboratories or institutes as State Air Laboratories to carry out the functions entrusted to the State Air Laboratory under this Act."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) The State Government may, after consultation with the State Board, make rules prescribing\u2014",
+                            "contains": {
+                                "0": "(a) the functions of the State Air Laboratory;",
+                                "1": "(b) the procedure for the submission to the said Laboratory of samples of air or emission for analysis or tests, the form of the Laboratory\u2019s report thereon and the fees payable in respect of such report;",
+                                "2": "(c) such other matters as may be necessary or expedient to enable that Laboratory to carry out its functions."
+                            }
+                        }
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Analysis.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may, by notification in the Official Gazette, appoint such persons as it thinks fit and having the prescribed qualifications to be Government analysts for the purpose of analysis of samples of air or emission sent for analysis to any laboratory established or specified under sub-section (1) of section 28.",
+                        "1": "(2) Without prejudice to the provisions of section 14, the State Board may, by notification in the Official Gazette, and with the approval of the State Government, appoint such persons as it thinks fit and having the prescribed qualifications to be Board analysts for the purpose of analysis of samples of air or emission sent for analysis to any laboratory established or recognised under section 17."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Reports of analysis.",
+                    "paragraphs": {
+                        "0": "Any document purporting to be a report signed by a Government analyst or, as the case may be, a State Board analyst may be used as evidence of the facts stated therein in any proceeding under this Act."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Appeals.",
+                    "paragraphs": {
+                        "0": "(1) Any person aggrieved by an order made by the State Board under this Act may, within thirty day from the date on which the order is communicated to him, prefer an appeal to such authority (hereinafter referred to as the Appellate Authority) as the State Government may think fit to constitute:",
+                        "1": "Provided that the Appellate Authority may entertain the appeal after the expiry of the said period of thirty days if such authority is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.",
+                        "2": "(2) The Appellate Authority shall consist of a single person or three persons as the State Government may think fit to be appointed by the State Government.",
+                        "3": "(3) The form and the manner in which an appeal may be preferred under sub-section (1), the fees payable for such appeal and the procedure to be followed by the Appellate Authority shall be such as may be prescribed.",
+                        "4": "(4) On receipt of an appeal preferred under sub-section (1), the Appellate Authority shall, after giving the appellant and the State Board an opportunity of being heard, dispose of the appeal as expeditiously as possible."
+                    }
+                },
+                "Section 31A.": {
+                    "heading": "Power to give directions.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in any other law, but subject to the provisions of this Act, and to any directions that the Central Government may give in this behalf, a Board may, in the exercise of its powers and performance of its functions under this Act, issue any directions in writing to any person, officer or authority, and such person, officer or authority shall be bound to comply with such directions.",
+                        "1": {
+                            "text": "Explanation.\u2014For the avoidance of doubts, it is hereby declared that the power to issue directions under this section includes the power to direct\u2014",
+                            "contains": {
+                                "0": "(a) the closure, prohibition or regulation of any industry, operation or process; or",
+                                "1": "(b) the stoppage or regulation of supply of electricity, water or any other service.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "FUND, ACCOUNTS AND AUDIT",
+            "Sections": {
+                "Section 32.": {
+                    "heading": "Contribution by Central Government.",
+                    "paragraphs": {
+                        "0": "The Central Government may, after due appropriation made by Parliament by law in this behalf make in each financial year such contributions to the State Boards as it may think necessary to enable the State Boards to perform their functions under this Act:",
+                        "1": "Provided that nothing in this section shall apply to any2[State Pollution Control Board] constituted under section 4 of the Water (Prevention and Control of Pollution) Act, 1974 (6 of 1974), which is empowered by that Act to expend money from its fund thereunder also for performing its functions, under any law for the time being in force relating to the prevention, control or abatement of air pollution."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Fund of Board.",
+                    "paragraphs": {
+                        "0": "(1) Every State Board shall have its own fund for the purposes of this Act and all sums which may, from time to time, be paid to it by theCentral Government and all other receipts (by way of contributions, if any, from the State Government, fees, gifts, grants, donations benefactions or otherwise) of that Board shall be carried to the fund of the Board and all payments by the Board shall be made therefrom.",
+                        "1": "(2) Every State Board may expend such sums as it thinks fit for performing its functions under this Act and such sums shall be treated as expenditure payable out of the fund of that Board.",
+                        "2": "(3) Nothing in this section shall apply to any 1[State Pollution Control Board] constituted under section 4 of the Water(Prevention and Control of Pollution) Act, 1974 (6 of 1974), which is empowered by that Act to expend money from its fund thereunder also for performing its functions, under any law for the time being in force relating to the prevention, control or abatement of air pollution."
+                    }
+                },
+                "Section 33A.": {
+                    "heading": "Borrowing powers of Board.",
+                    "paragraphs": {
+                        "0": "A Board may, with the consent of, or in accordance with the terms of any general or special authority given to it by, the Central Government or, as the case may be, the State Government, borrow money from any source by way of loans or issue of bonds, debentures or such other instruments, as it may deem fit, for discharging all or any of its functions under this Act.]"
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Budget.",
+                    "paragraphs": {
+                        "0": "The Central Board or, as the case may be, the State Board shall, during each financial year, prepare, in such form and at such time as may be prescribed, a budget in respect of the financial year next ensuing showing the estimated receipt and expenditure under this Act, and copies thereof shall be forwarded to the Central Government or, as the case may be, the State Government."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Annual report.",
+                    "paragraphs": {
+                        "0": "(1) The Central Board shall, during each financial year, prepare, in such form as may be prescribed, an annual report giving full account of its activities under this Act during the previous financial year and copies thereof shall be forwarded to the Central Government within four months from the last date of the previous financial year and that Government shall cause every such report to be laid before both Houses of Parliament within nine months of the last date of the previous financial year.",
+                        "1": "(2) Every State Board shall, during each financial year, prepare, in such form as may be prescribed, an annual report giving full account of its activities under this Act during the previous financial year and copies thereof shall be forwarded to the State Government within four months from the last date of the previous financial year and that Government shall cause every such report to be laid before the State Legislature within a period of nine months from the last date of the previous financial year.]"
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "(1) Every Board shall, in relation to its functions under this Act, maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government or, as the case may be, the State Government.",
+                        "1": "(2) The accounts of the Board shall be audited by an auditor duly qualified to act as an auditor of companies under section 226 of the Companies Act, 1956 (1 of 1956).",
+                        "2": "(3) The said auditor shall be appointed by the Central Government or, as the case may be, the State Government on the advice of the Comptroller and Auditor General of India.",
+                        "3": "(4) Every auditor appointed to audit the accounts of the Board under this Act shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Board.",
+                        "4": "(5) Every such auditor shall send a copy of his report together with an audited copy of the accounts to the Central Government or, as the case may be, the State Government.",
+                        "5": "(6) The Central Government shall, as soon as may be after the receipt of the audit report under sub-section (5), cause the same to be laid before both Houses of Parliament.",
+                        "6": "(7) The State Government shall, as soon as may be after the receipt of the audit report under sub-section (5), cause the same to be laid before the State Legislature."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "PENALTIES AND PROCEDURE",
+            "Sections": {
+                "Section 37.": {
+                    "heading": "Failure to comply with the provisions of section 21 or section 22 or with the directions issued under section 31A.",
+                    "paragraphs": {
+                        "0": "(1) whoever fails to comply with the provisions of section 21 or section 22 or directions issued under section 31A, shall, in respect of each such failure, be punishable with imprisonment for a term which shall not be less than one year and six months but which may extend to six years and with fine, and in case the failure continues, with an additional fine which may extend to five thousand rupees for every day during which such failure continues after the conviction for the first such failure.",
+                        "1": "(2) If the failure referred to in sub-section (1) continues beyond a period of one year after the date of conviction, the offender shall be punishable with imprisonment for a term which shall not be less than two years but which may extend to seven years and with fine.]"
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Penalties for certain acts.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Whoever\u2014",
+                            "contains": {
+                                "0": "(a) destroys, pulls down, removes, injures or defaces any pillar, post or stake fixed in the ground or any notice or other matter put up, inscribed or placed, by or under the authority of the Board, or",
+                                "1": "(b) obstructs any person acting under the orders or directions of the Board from exercising his powers and performing his functions under this Act, or",
+                                "2": "(c) damages any works or property belonging to the Board, or",
+                                "3": "(d) fails to furnish to the Board or any officer or other employee of the Board any information required by the Board or such officer or other employee for the purpose of this Act, or",
+                                "4": "(e) fails to intimate the occurrence of the emission of air pollutants into the atmosphere in excess of the standards laid down by the State Board or the apprehension of such occurrence, to the State Board and other prescribed authorities or agencies as required under sub-section (1) of section 23, or",
+                                "5": "(f) in giving any information which he is required to give under this Act, makes a statement which is false in any material particular, or",
+                                "6": "(g) for the purpose of obtaining any consent under section 21, makes a statement which is false in any material particular,"
+                            }
+                        },
+                        "1": "shall be punishable with imprisonment for a term which may extend to three months or with fine which may extend to 2[ten thousand rupees] or with both."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Penalty for contravention of certain provisions of the Act.",
+                    "paragraphs": {
+                        "0": "Whoever contravenes any of the provisions of this Act or any order or direction issued thereunder, for which no penalty has been elsewhere provided in this Act, shall be punishable with imprisonment for a term which may extend to three months or with fine which may extend to ten thousand rupees or with both, and in the case of continuing contravention, with an additional fine which may extend to five thousandrupees for every day during which such contravention continues after conviction for the first such contravention.]"
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where an offence under this Act has been committed by a company, every person who, at the time the offence was committed, was directly in charge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purpose of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate, and includes a firm or other association of individuals; and",
+                                "1": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Offences by Government Departments.",
+                    "paragraphs": {
+                        "0": "(1) Where an offence under this Act has been committed by any Department of Government, the Head of the Department shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this section shall render such Head of the Department liable to any punishment if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a Department of Government and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any officer, other than the Head of the Department, such officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against the Government or any officer of the Government or any member or any officer or other employee of the Board in respect of anything which is done or intended to be done in good faith in pursuance of this Act or the rules made thereunder."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Cognizance of offences.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) No court shall take cognizance of any offence under this Act except on a complaint made by\u2014",
+                            "contains": {
+                                "0": "(a) a Board or any officer authorised in this behalf by it; or",
+                                "1": "(b) any person who has given notice of not less than sixty days, in the manner prescribed, of the alleged offence and of his intention to make a complaint to the Board or officer authorised as aforesaid,"
+                            }
+                        },
+                        "1": {
+                            "text": "and no court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under this Act.",
+                            "contains": {
+                                "0": "(2) Where a complaint has been made under clause (b) of sub-section (1), the Board shall, on demand by such person, make available the relevant reports in its possession to that person:",
+                                "1": "Provided that the Board may refuse to make any such report available to such person if the same is, in its opinion, against the public interest.]"
+                            }
+                        }
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Members, officers and employees of Board to be public servants.",
+                    "paragraphs": {
+                        "0": "All the members and all officers and other employees of a Board when acting or purporting to act in pursuance of any of the provisions of this Act or the rules made thereunder shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Reports and returns.",
+                    "paragraphs": {
+                        "0": "The Central Board shall, in relation to its functions under this Act, furnish to the Central Government, and a State Board shall, in relation to its functions under this Act, furnish to the State Government and to the Central Board such reports, returns, statistics, accounts and other information as that Government, or, as the case may be, the Central Board may, from time to time, require."
+                    }
+                },
+                "Section 46.": {
+                    "heading": "Bar of jurisdiction.",
+                    "paragraphs": {
+                        "0": "No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which an Appellate Authority constituted under this Act is empowered by or under this Act to determine, and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 47.": {
+                    "heading": "Power of State Government to supersede State Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) If at any time the State Government is of opinion\u2014",
+                            "contains": {
+                                "0": "(a) that a State Board constituted under this Act has persistently made default in the performance of the functions imposed on it by or under this Act, or",
+                                "1": "(b) that circumstances exist which render it necessary in the public interest so to do,"
+                            }
+                        },
+                        "1": {
+                            "text": "the State Government may, by notification in the Official Gazette, supersede the State Board for such period, not exceeding six months, as may be specified in the notification:",
+                            "contains": {
+                                "0": "Provided that before issuing a notification under this sub-section for the reasons mentioned in clause (a), the State Government shall give a reasonable opportunity to the State Board to show cause why it should not be superseded and shall consider the explanations and objections, if any, of the State Board.",
+                                "1": {
+                                    "text": "(2) Upon the publication of a notification under sub-section (1) superseding the State Board,\u2014",
+                                    "contains": {
+                                        "0": "(a) all the members shall, as from the date of supersession, vacate their offices as such;",
+                                        "1": "(b) all the powers, functions and duties which may, by or under this Act, be exercised, performed or discharged by the State Board shall, until the State Board is reconstituted under sub-section (3), be exercised, performed or discharged by such person or persons as the State Government may direct;",
+                                        "2": "(c) all property owned or controlled by the State Board shall, until the Board is reconstituted under sub-section (3), vest in the State Government."
+                                    }
+                                },
+                                "2": {
+                                    "text": "(3) On the expiration of the period of supersession specified in the notification issued under sub-section (1), the State Government may\u2014",
+                                    "contains": {
+                                        "0": "(a) extend the period of supersession for such further term, not exceeding six months, as it may consider necessary; or",
+                                        "1": "(b) reconstitute the State Board by a fresh nomination or appointment, as the case may be, and in such case any person who vacated his office under clause (a) of sub-section (2) shall also be eligible for nomination or appointment:",
+                                        "2": "Provided that the State Government may at any time before the expiration of the period of supersession, whether originally specified under sub-section (1) or as extended under this sub-section, take action under clause (b) of this sub-section."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 48.": {
+                    "heading": "Special provision in the case of supersession of the Central Board or the State Boards constituted under the Water (Prevention and Control of Pollution) Act, 1974.",
+                    "paragraphs": {
+                        "0": "Where the Central Board or any State Board constituted under the Water (Prevention and Control of Pollution) Act, 1974 (Act 6 of 1974), is superseded by the Central Government or the State Government, as the case may be, under that Act, all the powers, functions and duties of the Central Board or such State Board under this Act shall be exercised, performed or discharged during the period of such supersession by the person or persons, exercising, preforming or discharging the powers, functions and duties of the Central Board or such State Board under the Water (Prevention and Control of Pollution) Act, 1974, during such period."
+                    }
+                },
+                "Section 49.": {
+                    "heading": "Dissolution of State Boards constituted under the Act.",
+                    "paragraphs": {
+                        "0": "(1) As and when the Water (Prevention and Control of Pollution) Act, 1974 (Act 6 of 1974), comes into force in any State and the State Government constitutes 1[State Pollution Control Board] under that Act, the State Board constituted by the State Government under this Act shall stand dissolved and the Board first-mentioned shall exercise the powers and perform the functions of the Board second-mentioned in that State.",
+                        "1": {
+                            "text": "(2) On the dissolution of the State Board constituted under this Act,\u2014",
+                            "contains": {
+                                "0": "(a) all the members shall vacate their offices as such;",
+                                "1": "(b) all moneys and other property of whatever kind (including the fund of the State Board) owned by, or vested in, the State Board, immediately before such dissolution, shall stand transferred to and vest in the1[State Pollution Control Board];",
+                                "2": "(c) every officer and other employee serving under the State Board immediately before such dissolution shall be transferred to and become an officer or other employee of the 1[State Pollution Control Board] and hold office by the same tenure and at the same remuneration and on the same terms and conditions of service as he would have held the same if the State Board constituted under this Act had not been dissolved and shall continue to do so unless and until such tenure, remuneration and terms and conditions of service are duly altered by the 1[State Pollution Control Board]:",
+                                "3": "Provided that the tenure, remuneration and terms and conditions of service of any such officer or other employee shall not be altered to his disadvantage without the previous sanction of the State Government;",
+                                "4": {
+                                    "text": "(d) all liabilities and obligations of the State Board of whatever kind, immediately before such dissolution, shall be deemed to be the liabilities or obligations, as the case may be, of the 1[State Pollution Control Board] and any proceeding or cause of action, pending or existing immediately before such dissolution by or against the State Board constituted under this Act in relation to such liability or obligation may be continued and enforced by or against the 1[State Pollution Control Board.]",
+                                    "contains": {
+                                        "0": "to amend the Schedule.].\u2014Omitted by the Air (Prevention and Control of"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 50.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Power Pollution)Amendment Act, 1987 (47 of 1987), s. 22 (w.e.f. 1-4-1988)."
+                    }
+                },
+                "Section 51.": {
+                    "heading": "Maintenance of register.",
+                    "paragraphs": {
+                        "0": "(1) Every State Board shall maintain a register containing particulars of the persons to whom consent has been granted under section 21, the standards for emission laid down by it in relation to each such consent and such other particulars as may be prescribed.",
+                        "1": "(2) The register maintained under sub-section (1) shall be open to inspection at all reasonable hours by any person interested in or affected by such standards for emission or by any other person authorised by such person in this behalf."
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Effect of other laws.",
+                    "paragraphs": {
+                        "0": "Save as otherwise provided by or under the Atomic Energy Act, 1962 (33 of 1962), in relation to radioactive air pollution the provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act."
+                    }
+                },
+                "Section 53.": {
+                    "heading": "Power of Central Government to make rules.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government may, in consultation with the Central Board, by notification in the Official Gazette, make rules in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the intervals and the time and place at which meetings of the Central Board or any committee thereof shall be held and the procedure to be followed at such meetings, including the quorum necessary for the transaction of business thereat, under sub-section (1) of section 10 and under sub-section (2) of section 11;",
+                                "1": "(b) the fees and allowances to be paid to the members of a committee of the Central Board, not being members of the Board, under sub-section (3) of section 11;",
+                                "2": "(c) the manner in which and the purposes for which persons may be associated with the Central Board under sub-section (1) of section 12;",
+                                "3": "(d) the fees and allowance to be paid under sub-section (3) of section 12 to persons associated with the Central Board under sub-section (1) of section 12;",
+                                "4": "(e) the functions to be performed by the Central Board under clause (j) of sub-section (2) of section 16;",
+                                "5": "1[(f) the form in which and the time within which the budget of the Central Board may be prepared and forwarded to the Central Government under section 34;",
+                                "6": "(ff) the form in which the annual report of die Central Board may be prepared under section 35;]",
+                                "7": "(g) the form in which the accounts of the Central Board may be maintained under sub-section (1) of section 36."
+                            }
+                        },
+                        "1": "(2) Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Power of State Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of sub-section (3), the State Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act in respect of matter not falling within the purview of section 53.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely\u2014",
+                            "contains": {
+                                "0": "2[(a) the qualifications, knowledge and experience of scientific, engineering or management aspects of pollution control required for appointment as member-secretary of a State Board constituted under the Act;]",
+                                "1": "3[(aa)] the terms and conditions of service of the Chairman and other members (other than the member-secretary) of the State Board constituted under this Act under sub-section (7) of section 7;",
+                                "2": "(b) the intervals and the time and place at which meetings of the State Board or any committee thereof shall be held and the procedure to be followed at such meetings, including the quorum necessary for the transaction of business thereat, under sub-section (1) of section 10 and under sub-section (2) of section 11;",
+                                "3": "(c) the fees and allowances to be paid to the members of a committee of the State Board, not being members of the Board under sub-section (3) of section 11;",
+                                "4": "(d) the manner in which and the purpose for which persons may be associated with the State Board under sub-section (1) of section 12;",
+                                "5": "(e) the fees and allowances to be paid under sub-section (3) of section 12 to persons associated with the State Board under sub-section (1) of section 12;",
+                                "6": "(f) the terms and conditions of service of the member-secretary of a State Board constituted under this Act under sub-section (1) of section 14;",
+                                "7": "(g) the powers and duties to be exercised and discharged by the member-secretary of a State Board under sub-section (2) of section 14;",
+                                "8": "(h) the conditions subject to which a State Board may appoint such officers and other employees as it considers necessary for the efficient performance of its functions under sub-section (3) of section 14;",
+                                "9": "(i) the conditions subject to which a State Board may appoint a consultant under sub-section (5) of section 14;",
+                                "10": "(j) the functions to be performed by the State Board under clause (i) of sub-section (1) of section 17;",
+                                "11": "(k) the manner in which any area or areas may be declared as air pollution control area or areas under sub-section (1) of section 19;",
+                                "12": "(l) the form of application for the consent of the State Board, the fees payable therefore the period within which such application shall be made and the particulars it may contain, under sub-section (2) of section 21;",
+                                "13": "(m) the procedure to be followed in respect of an inquiry under sub-section (3) of section 21;",
+                                "14": "(n) the authorities or agencies to whom information under sub-section (1) of section 23 shall be furnished;",
+                                "15": "(o) the manner in which samples of air or emission may be taken under sub-section (1) of section 26;",
+                                "16": "(p) the form of the notice referred to in sub-section (3) of section 26;",
+                                "17": "(q) the form of the report of the State Board analyst under sub-section (1) of section 27;",
+                                "18": "(r) the form of the report of the Government analyst under sub-section (3) of section 27;",
+                                "19": "(s) the functions of the State Air Laboratory, the procedure for the submission to the said Laboratory of samples of air or emission for analysis or tests, the form of Laboratory\u2019s report thereon, the fees payable in respect of such report and other matters as may be necessary or expedient to enable that Laboratory to carry out its functions, under sub-section (2) of section 28;",
+                                "20": "(t) the qualifications required for Government analysts under sub-section (1) of section 29;",
+                                "21": "(u) the qualification required for State Board analysts under sub-section (2) of section 29;",
+                                "22": "(v) the form and the manner in which appeals may be preferred, the fees payable in respect of such appeals and the procedure to be followed by the Appellate Authority in disposing of the appeals under sub-section (3) of section 31;",
+                                "23": "1[(w) the form in which and the time within which the budget of the State Board may be prepared and forwarded to the State Government under section 34;",
+                                "24": "(ww) the form in which the annual report of the State Board may be prepared under section 35;]",
+                                "25": "(x) the form in which the accounts of the State Board may be maintained under the sub-section (1) of section 36;",
+                                "26": "2[(xx) the manner in which notice of intention to make a complaint shall be given under section 43;]",
+                                "27": "(y) the particulars which the register maintained under section 51 may contain;",
+                                "28": "(z) any other matter which has to be, or may be, prescribed."
+                            }
+                        },
+                        "2": "(3) After the first constitution of the State Board, no rule with respect to any of the matters referred to in sub-section (2) [other than those referred to 3[[in clause (aa)]] thereof], shall be made, varied, amended or repealed without consulting that Board."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE [Omitted.].": {
+            "0": "[The Schedule.].\u2014Omitted by the Air (Prevention and Control of Pollution)Amendment Act, 1987 (47 of 1987), s. 25(w.e.f. 1-4-1988)."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 4": {
+            "0": "1.16th May, 1981, vide notification No. G.S.R. 351(E), dated 15th  May, 1981, see Gazette of India, Extraordinary, Part II,sec. 3 (i).",
+            "1": "2. Ins. by Act 47 of 1987, s. 2 (w.e.f. 1-4-1988).",
+            "2": "3. Subs. by s. 2, ibid., for \u201cCentral Board for the Prevention and Control of Water Pollution\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 47 of 1987, s. 2, for clause (m) (w.e.f. 1-4-1988).",
+            "1": "2. Subs. by s. 2, ibid., for \u201cState Board for the Prevention and Control of Water Pollution\u201d (w.e.f. 1-4-1988).",
+            "2": "3. Subs. by s. 3, ibid., for sections 3 and 4 (w.e.f. 1-4-1988).",
+            "3": "4. Subs. by s. 4, ibid., for \u201cState Board for the Prevention and Control of Water Pollution\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 47 of 1987, s. 4, for clause (f) (w.e.f. 1-4-1988)."
+        },
+        "Page 7": {
+            "0": "1. The words \u201cbut not for more than two terms\u201d omitted by Act 47 of 1987, s. 5 (w.e.f. 1-4-1988)."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 47 of 1987, s. 6, for sub-section (2) (w.e.f. 1-4-1988)."
+        },
+        "Page 9": {
+            "0": "1. Ins. by Act 47 of 1987, s. 7 (w.e.f. 1-4-1988)."
+        },
+        "Page 10": {
+            "0": "1. Section 18 renumbered as sub-section (1) thereof by Act 47 of 1987, s. 8 (w.e.f. 1-4-1988).",
+            "1": "2. Ins. by s. 8, ibid. (w.e.f. 1-4-1988)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 47 of 1987, s. 9, for sub-section (1) (w.e.f. 1-4-1988).",
+            "1": "2. The words \u201cfor the purpose of any industry specified in the Schedule\u201d omitted by s. 9, ibid. (w.e.f. 1-4-1988)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 47 of 1987, s. 9, for certain words (w.e.f. 1-4-1988).",
+            "1": "2. Ins. by s. 9, ibid. (w.e.f. 1-4-1988).",
+            "2": "3. The words \u201cfor the purpose of any industry specified in the Schedule\u201d omitted by s. 9, ibid. (w.e.f. 1-4-1988)."
+        },
+        "Page 13": {
+            "0": "1. The words \u201ccarrying on any industry specified in the Schedule or\u201d omitted by Act 47 of 1987, s. 10 (w.e.f. 1-4-1988).",
+            "1": "2. Ins. by s. 11, ibid. (w.e.f. 1-4-1988).",
+            "2": "3. The words \u201cair pollution control\u201d omitted by s. 12, ibid. (w.e.f. 1-4-1988)."
+        },
+        "Page 14": {
+            "0": "1.  The  words  \u201ccarrying  on  any  industry  specified  in  the  Schedule  and  every  person\u201d  omitted  by  Act  47  of  1987,  s.  13(w.e.f. 1-4-1988).*. Vide notification  No. S.O. 3912(E), dated 30th October, 2019, this Act is made applicable to the Union territory of Jammu andKashmir and the Union territory of Ladakh."
+        },
+        "Page 16": {
+            "0": "1. Ins. by Act 47 of 1987, s. 14 (w.e.f. 1-4-1988).",
+            "1": "2. Subs. by s. 15, ibid., for \u201cState Board for the Prevention and Control of water Pollution\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 17": {
+            "0": "1. Subs. by Act 47 of 1987, s. 15, for \u201cState Board for the Prevention and Control of Water Pollution\u201d (w.e.f. 1-4-1988).",
+            "1": "2. Ins. by s. 16, ibid. (w.e.f. 1-4-1988).",
+            "2": "3. Subs. bys. 17, ibid., for section 35 (w.e.f. 1-4-1988)."
+        },
+        "Page 18": {
+            "0": "1. Subs. by Act 47 of 1987, s. 18, for section 37 (w.e.f. 1-4-1988).",
+            "1": "2. Subs. by s. 19, ibid., for \u201cfive hundred rupees\u201d (w.e.f. 1-4-1988).",
+            "2": "3. Subs. by s. 20, ibid., for section 39 (w.e.f. 1-4-1988)."
+        },
+        "Page 19": {
+            "0": "1. Subs. by Act 47 of 1987, s. 21, for section 43 (w.e.f. 1-4-1988)."
+        },
+        "Page 20": {
+            "0": "1. Subs. by Act 47 of 1987, s. 15, for \u201cState Board for the Prevention and Control of Water Pollution\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 21": {
+            "0": "1.  Subs. by Act 47 of 1987, s. 15 for \u201cState Board for the Prevention and Control of Water Pollution\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 22": {
+            "0": "1. Subs. by Act 47 of 1987, s. 23, for clause (f) (w.e.f. 1-4-1988).",
+            "1": "2. Ins. by s. 24, ibid. (w.e.f. 1-4-1988).",
+            "2": "3. Clause (a) renumbered as clause (aa) thereof by s. 24, ibid. (w.e.f. 1-4-1988)."
+        },
+        "Page 23": {
+            "0": "1. Subs. by Act 47 of 1987, s. 24, for clause (w) (w.e.f. 1-4-1988).",
+            "1": "2. Ins. by s. 24, ibid. (w.e.f. 1-4-1988).",
+            "2": "3. Subs. by s. 24,ibid.,for \u201cin clause (a)\u201d (w.e.f. 1-4-1988)."
+        }
+    }
+}

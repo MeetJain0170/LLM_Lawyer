@@ -1,0 +1,583 @@
+{
+    "Act Title": "THE KHADI AND VILLAGE INDUSTRIES COMMISSION ACT, 1956",
+    "Act ID": "ACT NO. 61 OF 1956",
+    "Enactment Date": "[25th September, 1956.]",
+    "Act Definition": {
+        "0": "An Act to provide for the establishment of a Commission for the development of Khadi and Village Industries and for matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title and extent.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called The Khadi and Village Industries Commission Act, 1956.",
+                        "1": "(2) It extends to the whole of India except the State of Jammu and Kashmir*."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cthe Board\u201d means the Board constituted under 1[section 10];",
+                                "1": "(b) \u201cchairman\u201d means the chairman of the Commission;",
+                                "2": "(c) \u201cCommission\u201d means the Khadi and Village Industries Commission established under section 4;",
+                                "3": "2[(cc) \u201cfixed capital investment\u201d includes investment in plant and machinery and land and building of an industry;]",
+                                "4": "(d) \u201ckhadi\u201d means any cloth woven on handlooms in India from cotton, silk or woolen yarn handspun in India or from a mixture of any two or all of such yarns;",
+                                "5": "(e) \u201cmember\u201d means a member of the Commission 3[and includes the chairman 4***];",
+                                "6": "(f) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "7": "5[(ff) \u201crural area\u201d means the area comprised in any village, and includes the area comprised in any town, the population of which does not exceed 6[twenty thousand] or such other figure as the Central Government may specify from time to time;]",
+                                "8": "7* * * * *",
+                                "9": "8* * * * *",
+                                "10": {
+                                    "text": "9[(h) \u201cvillage industry\u201d means,\u2014",
+                                    "contains": {
+                                        "0": "(i) any industry located in a rural area which produces any goods or renders any service with or without the use of power and in which the fixed capital investment per head of an artisan or a worker does not exceed 10[one lakh rupees] or such other sum as may, by notification in the Official Gazette, be specified from time to time by the Central Government:",
+                                        "1": "Provided that any industry specified in the schedule and located in an area other than a rural area and recognised as a village industry at any time before the commencement of the Khadi and Village Industries Commission (Amendment) Act, 1987 (12 of 1987), shall, notwithstanding anything contained in this sub-clause, continue to be a village industry under this Act:",
+                                        "2": "1[Provided further that in the case of any industry located in a hilly area, the provisions of this sub-clause shall have effect as if for the words \u201cone lakh rupees\u201d, the words \u201cone lakh and fifty thousand rupees\u201d steal.]",
+                                        "3": "(ii) any other non-manufacturing unit established for the sole purpose of promoting, maintaining, assisting, servicing (including mother units) or managing any village industry;]"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Power to add to the Schedule.",
+                    "paragraphs": {
+                        "0": "[Power to add to the Schedule.] Omitted by Khadi and Village Industries Commission (Amendment) Act 1987 (12 of 1987), s. 3 (w.e.f. 24-7-1987)."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "THE KHADI AND VILLAGE INDUSTRIES COMMISSION",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Establishment and constitution of the Commission.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification in the Official Gazette, fix in this behalf, there shall be established a Commission to be called the Khadi and Village Industries Commission which shall be a body corporate having perpetual succession and a common seal, with power to acquire, hold and dispose of property and to contract, and may by the said name sue and be sued.",
+                        "1": "2[(1A) Save as otherwise provided under this Act and the rules made thereunder, the exercise of all powers and discharge of all functions under this Act, including general superintendence, direction and management of day-to-day affairs of the Commission, shall vest in the Commission.]",
+                        "2": {
+                            "text": "3[(2) The Commission shall consist of the following members appointed by the Central Government, namely:\u2014",
+                            "contains": {
+                                "0": "(a) six non-official members 4[having specialised knowledge and not less than ten years of experience of khadi or village industries] and representing such six geographical zones of the country, as may be prescribed;",
+                                "1": {
+                                    "text": "5[(b) four non-official members of whom each member shall be from the following disciplines, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) one member having expert knowledge and experience in Science and Technology;",
+                                        "1": "(ii) one member having expert knowledge and experience in Marketing;",
+                                        "2": "(iii) one member having expert knowledge and experience in Rural Development; and",
+                                        "3": "(iv) one member having expert knowledge and experience in Technical Education and Training.]"
+                                    }
+                                },
+                                "2": "6[(ba) the Chairman of the State Bank of India constituted under sub-section (1) of section 3 of the State Bank of India Act, 1955 (23 of 1955) or an officer not below the rank of the Deputy Managing Director as may be nominated by the Chairman of the State Bank of India\u2014ex officio;];",
+                                "3": "7[(c) a Chief Executive Officer, ex officio; and"
+                            }
+                        },
+                        "3": {
+                            "text": "1. The proviso ins. by Act 10 of 2006, s. 2 (w.e.f. 15-5-2006). 2. Ins. by s. 3, ibid. (w.e.f. 15-5-2006). 3. Subs. by Act 12 of 1987, s. 4, for sub-sections (2) and (3) (w.e.f. 24-7-1987). 4. Subs. by Act 10 of 2006, s. 3, for \u201chaving specialised knowledge and experience of khadi and village industries\u201d (w.e.f. 15-5-2006). 5. Subs. by s. 3, ibid., for clause (b) (w.e.f. 15-5-2006). 6. Ins. by s. 3, ibid. (w.e.f. 15-5-2006). 7. Subs. by s. 3, ibid., for clauses (c) and (d) (w.e.f. 15-5-2006).",
+                            "contains": {
+                                "0": "(d) a Financial Adviser, who shall also be the Chief Accounts Officer of the Commission, ex officio.]",
+                                "1": "1* * * * *",
+                                "2": "(3) The Central Government may appoint one of the members appointed under clause (a) of sub-section (2) to be the chairman who shall be a full-time member.]"
+                            }
+                        }
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Powers and functions of the Chief Executive Officer.",
+                    "paragraphs": {
+                        "0": "3[(1) Subject to the provisions contained in sub-section (1A) of section 4, the Chief Executive Officer, appointed under clause (c) of sub-section (2) of section 4, shall exercise such powers and discharge such functions in respect of general superintendence over the affairs of the Commission and its day-to-day management, as may be prescribed.",
+                        "1": "(1A) Without prejudice to the powers and functions referred to in sub-section (1), the Chief Executive Officer shall exercise such powers and discharge such functions under the general superintendence, direction and management of the Commission.]",
+                        "2": "(2) The Chief Executive Officer 4[shall, in addition to exercise of the powers and discharge of the functions referred to in sub-section (1), be responsible] for the furnishing of all returns, reports and statements required to be furnished to the Central Government under section 24.",
+                        "3": "(3) It shall be the duty of the Chief Executive Officer to place before the Commission for its consideration and decision any matter of financial import if the Financial Adviser suggests to him in writing that such matter be placed before the Commission."
+                    }
+                },
+                "Section 5A.": {
+                    "heading": "Powers and functions of the Financial Adviser.",
+                    "paragraphs": {
+                        "0": "The Financial Adviser 6[appointed under clause (d) of sub-section (2) of section 4 shall be in charge of such financial matters of the Commission including its budget, accounts and audit, as may be prescribed] and it shall be the duty of the Financial Adviser to bring to the notice of the Commission through the Chief Executive Officer any matter of financial import, which, in his opinion, requires consideration and decision by the Commission."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Disqualifications for membership of the Commission.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "A person shall be disqualified for being appointed as, and for being, a member of the Commission\u2014",
+                            "contains": {
+                                "0": "(a) if he is, or is found to be a lunatic or a person of unsound mind; or",
+                                "1": "(b) if he has been adjudged insolvent; or",
+                                "2": "(c) if he has been convicted of an offence involving moral turpitude; or",
+                                "3": "(d) if he has any financial interest in any subsisting contract made with or in any work being done by the Commission, except as a shareholder (other than a Director), in a company as defined in section 3 of the Companies Act, 1956 (1 of 1956):",
+                                "4": "Provided that where he is a shareholder, he shall disclose to the Central Government, the nature and extent of shares held by him in such a company; or",
+                                "5": "(e) if he has any financial interest in any business undertaking dealing with or any other village industry specified or deemed to be specified in the Schedule to the Act."
+                            }
+                        }
+                    }
+                },
+                "Section 6A.": {
+                    "heading": "Removal of Chairman, Member, etc., from the Commission.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Central Government may, by notification in the Official Gazette, remove from office any member of the Commission who\u2014",
+                            "contains": {
+                                "0": "(a) is or becomes subject to any of the disqualifications mentioned in section 6; or",
+                                "1": "(b) in the opinion of the Central Government has failed or is unable to carry out his duties; or",
+                                "2": "(c) absents himself from three consecutive meetings of the Commission without the leave of the Commission:"
+                            }
+                        },
+                        "1": "Provided that before issuing any such notification, the Central Government shall give an opportunity to the member concerned to show cause against such removal.]"
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Resignation of office by member.",
+                    "paragraphs": {
+                        "0": "Any member may resign his office by giving notice in writing to the Central Government and, on such resignation being notified in the Official Gazette by that Government, shall be deemed to have vacated his office."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Vacancies, etc., not to invalidate acts and proceedings of the Commission.",
+                    "paragraphs": {
+                        "0": "No act or proceeding of the Commission shall be invalid by reason only of the existence of any vacancy amongst its members or any defect in the constitution thereof."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Temporary association of persons with the Commission for particular purposes.",
+                    "paragraphs": {
+                        "0": "(1) The Commission may associate with itself in such manner and for such purposes as may be determined by regulations made under this Act any persons whose assistance or advice it may desire in complying with any of the provisions of this Act.",
+                        "1": "(2) A person associated with it by the Commission under sub-section (1) for any purpose shall have the right to take part in the discussions of the Commission relevant to that purpose, but shall not have the right to vote, and shall not be a member for any other purpose.",
+                        "2": "(3) The Central Government may, by notification in the Official Gazette, depute one or more officers of the Government to attend any meetings of the Commission and to take part in the discussions of the Commission, but such officer or officers shall not have the right to vote."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Constitution of the Board.",
+                    "paragraphs": {
+                        "0": "1[(1)] For the purpose of assisting the Commission in the discharge of its functions under this Act, the Central Government may, by notification in the Official Gazette, constitute a Board to be called the Khadi and Village Industries Board and such number of other members as the Central Government may think fit, chosen from among persons who, in the opinion of the Central Government, are qualified as having had experience, and shown capacity, in matters relating to the development of 2[National Khadi and Village Industries Board.]",
+                        "1": "3[(2) The Board shall, subject to the provisions of sub-section (3), meet at such times and places and observe such rules of procedure in regard to the transaction of business at its meetings including the quorum at meetings as may be prescribed;",
+                        "2": "(3) The Board shall meet at least twice in a year.]."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Commission to consult the Board.",
+                    "paragraphs": {
+                        "0": "The Commission shall ordinarily consult the Board with respect to the discharge of its functions under this Act."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Meetings of the Commission.",
+                    "paragraphs": {
+                        "0": "(1) The Commission shall meet at such times and places and shall, subject to the provisions of sub-sections (2) and (3), observe such rules of procedure in regard to transaction of business at its meetings (including the quorum at meetings) as may be provided by regulations made by the Commission under this Act:",
+                        "1": "Provided that the Commission shall meet at least once in every month.",
+                        "2": "4[(2) The chairman or, in his absence, any member (other than an ex officio member) chosen by the members present from among themselves, shall preside at a meeting of the Commission.]",
+                        "3": "(3) All questions at a meeting of the Commission shall be decided by a majority of the 5[votes of the members (including ex officio members) present] and voting and in the case of an equality of votes, the chairman or, in his absence the person presiding shall have a second or casting vote."
+                    }
+                },
+                "Section 12A.": {
+                    "heading": "Zonal Committee.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Commission shall constitute for each of the six geographical zones, referred to in clause (a) of sub-section (2) of section 4, a Zonal Committee, which shall consist of the following, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the non-official member representing the zone, referred to in clause (a) of sub-section (2) of section 4, who shall be the Chairman of the Zonal Committee constituted for respective zones;",
+                                "1": "(b) one representative of each of the State Khadi and Village Industries Boards of the States or, as the case may be, the Government of each State in the zone, to be notified by the Central Government in consultation with the State Government concerned\u2014member;",
+                                "2": "(c) the Zonal Deputy Chief Executive Officer of the Commission, who shall be the convener of the Zonal Committee\u2014member;",
+                                "3": "(d) the State Directors in charge of the Commission\u2019s Directorates for the States in the zone\u2014member;",
+                                "4": "(e) a Zonal or Regional manager of one of the lead banks operating in the zone-member; and",
+                                "5": "(f) one representative of an institution of repute, working for at least ten years in the khadi or village industries sector and having a good record of performance, from each State in the zone, to be notified by the Central Government\u2014member."
+                            }
+                        },
+                        "1": "(2) The Zonal Committee shall meet at such times and places and shall, subject to the provisions of sub-section (3), observe such rules of procedure in regard to the transaction of business at its meetings (including the quorum at the meetings) as may be provided by regulations made by the Commission under this Act:",
+                        "2": "Provided that the Committee shall meet at least once in every three months.",
+                        "3": "(3) The Chairman of the Zonal Committee or, in his absence, any member chosen by the members present from among themselves, shall preside at a meeting of the Committee.",
+                        "4": {
+                            "text": "(4) The Zonal Committee shall generally function as a forum for consultation and, accordingly, inter alia,\u2014",
+                            "contains": {
+                                "0": "(a) act as a conduit for the dissemination of information relating to the programmes and schemes of the Commission for the development of khadi and village industries in the zone;",
+                                "1": "(b) monitor, from time to time, the implementation of the programmes and schemes referred to in clause (a);",
+                                "2": "(c) provide feedback to the Commission on the problems and difficulties envisaged and suggestions made by banks, voluntary agencies, artisans and others engaged in the operation of programmes and schemes referred to in clause (a).]"
+                            }
+                        }
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Term of office and conditions of service of the chairman and other members.",
+                    "paragraphs": {
+                        "0": "(1) Every member of the Commission, other than an ex officio member, shall hold office 2[at the pleasure of the Central Government which shall not exceed continuous period of five years]:",
+                        "1": "Provided that the chairman shall, notwithstanding the expiration of his term, continue to hold office until his successor enters upon his office.",
+                        "2": "(2) The terms and conditions of service of the chairman, Chief Executive Officer, Financial Adviser and other members shall be such as may be prescribed.]"
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Officers and servants of the Commission.",
+                    "paragraphs": {
+                        "0": "3* * * * *",
+                        "1": "4*** Subject to such rules as may be made by the Central Government in this behalf, the Commission may appoint such other officers and servants as it considers necessary for the efficient performance of its functions:",
+                        "2": "4* * * * *"
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "FUNCTIONS OF THE COMMISSION",
+            "Sections": {
+                "Section 15.": {
+                    "heading": "Functions of the Commission.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, the functions of the Commission shall generally be to 2[plan, promote, facilitate, organise] and assist in the establishment and development of khadi and village industries in the rural area in coordination with other agencies engaged in rural development wherever necessary.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, the Commission may take such steps as it may think fit,\u2014",
+                            "contains": {
+                                "0": "(a) to 3[plan and organise, directly or through specified agencies] training of persons employed or desirous of seeking employment in khadi and village industries;",
+                                "1": "(b) to 4[build up, directly or through specified agencies] reserves of raw materials and implements and 5[supply them or arrange supply of the raw materials and implements] to persons engaged or likely to be engaged in production of handspun yarn or khadi or village industries at such rates as the Commission may decide;",
+                                "2": "(c) to encourage and assist in the creation of common service facilities for the processing of raw materials or semi-finished goods and for otherwise facilitating production and marketing of khadi or products of village industries;",
+                                "3": "(d) to promote the sale and marketing of khadi or products of village industries or handicrafts and for this purpose forge links with established marketing agencies wherever necessary and feasible;",
+                                "4": "(e) to encourage and promote research in the technology used in khadi and village industries, including the use of non-conventional energy and electric power with a view to increasing productivity, eliminating drudgery and otherwise enhancing their competitive capacity and to arrange for dissemination of salient results obtained from such research;",
+                                "5": "(f) to undertake directly or through other agencies studies of the problems of khadi or village industries;",
+                                "6": "(g) to 6[provide financial assistance, directly or through specified agencies,] to institutions or persons engaged in the development and operation of khadi or village industries and guide them through supply of designs, prototypes and other technical information for the purpose of producing goods and services for which there is effective demand in the opinion of the Commission;",
+                                "7": "(h) to 7[undertake, directly or through specified agencies, experiments,] or pilot projects which in the opinion of the Commission are necessary for the development of khadi and village industries;",
+                                "8": "(i) to establish and maintain separate organisations for the purpose of carrying out any or all of the above matters;",
+                                "9": "(j) to promote and encourage co-operative efforts among the manufacturers of khadi or persons engaged in village industries;",
+                                "10": "(k) to ensure genuineness and to set up standards of quality and ensure that products of khadi and village industries do conform to the said standards, including issue of certificates or letters of recognition to the concerned persons; and",
+                                "11": "(l) to carry out any other matters incidental to the above.]",
+                                "12": "1[Explanation.\u2014For the purposes of clauses (a), (b), (g) and (h) of sub-section (2), the expression \u201cspecified agencies\u201d means the agencies which the Central Government may, by notification in the Official Gazette, specify in this behalf.]"
+                            }
+                        }
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Power of Central Government to give directions.",
+                    "paragraphs": {
+                        "0": "In the discharge of its functions under this Act, the Commission shall be bound by such directions as the Central Government may give to it."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "FINANCE, ACCOUNTS, AUDIT AND REPORTS",
+            "Sections": {
+                "Section 17.": {
+                    "heading": "Payment to the Commission.",
+                    "paragraphs": {
+                        "0": "The Central Government may, after due appropriation made by Parliament by law in this behalf, pay to the Commission in each financial year such sums as may be considered necessary for the performance of the functions of the Commission under this Act."
+                    }
+                },
+                "Section 17A.": {
+                    "heading": "Commission to receive gifts, grants, etc.",
+                    "paragraphs": {
+                        "0": "The Commission may, for the purpose of development of Khadi, 3[the development of village industries or the development of Khadi and village industries], receive gifts, grants, donations or benefactions from the Government or any other person.]"
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Funds of the Commission.",
+                    "paragraphs": {
+                        "0": "4[(1) The Commission shall have stet separate funds to be called the khadi fund, the village industries fund and the general and miscellaneous fund.",
+                        "1": {
+                            "text": "(1A) There shall be credited,\u2014",
+                            "contains": {
+                                "0": "(a) to the khadi fund, all sums received by the Commission for the purposes relating to khadi.",
+                                "1": "(b) to the village industries fund, all sums received by the Commission for the purposes relating to village industries and products of handicrafts;",
+                                "2": "(c) to the general and miscellaneous fund, all other sums received by the Commission:"
+                            }
+                        },
+                        "2": "Provided that if the amount available in any of the said funds is in excess 6f the requirements of that fund and the amount available in any other of the said funds is insufficient to meet the requirements of that fund, the Commission may, with the previous approval of the Central Government, transfer from the first mentioned fund the excess amount or such part thereof as may be necessary to the other fund.",
+                        "3": "Explanation.\u2014For the purpose of computing the amount in any of the said funds, the amount received under section 17A shall not be taken into account.",
+                        "4": {
+                            "text": "(1B) The sums credited under sub-section (1),\u2014",
+                            "contains": {
+                                "0": "(a) to the khadi fund, shall be applied for the purposes relating to khadi;",
+                                "1": "(b) to the village industries fund, shall be stet for the purposes relating to village industries and products of handicrafts;",
+                                "2": "(c) to the general and miscellaneous fund, shall be stet for the purposes relating to khadi and village industries and for meeting the salary, allowances and other remuneration of the members, officers and other employees of the Commission and other administrative expenses of the Commission.]"
+                            }
+                        },
+                        "5": "(2) Except as otherwise directed by the Central Government, all moneys belonging to such funds shall be deposited in the Reserve Bank of India or with the agents of the Reserve Bank of India, or, where there is neither an office of the Reserve Bank of India nor an agent of the Reserve Bank of India, in a Government Treasury, or be invested in such securities as may be approved by the Central Government."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Power of the Commission to spend.",
+                    "paragraphs": {
+                        "0": "Subject to the provisions of section 20 the Commission shall have power to spend such sums as it thinks fit on purposes authorised by this Act:",
+                        "1": "Provided that nothing in this section shall be deemed to prevent the Commission from spending, with the previous approval of the Central Government, such moneys, as it thinks fit on any such purpose outside the territories to which this Act extends."
+                    }
+                },
+                "Section 19A.": {
+                    "heading": "Standing Finance Committees.",
+                    "paragraphs": {
+                        "0": "(1) There shall be constituted from among the members of the Commission in the prescribed manner, a Standing Finance Committee in respect of each of the 2[three funds] referred to in section 18.",
+                        "1": "3[Provided that the Chief Executive Officer and Financial Adviser shall be ex officio members of the Standing Finance Committee in respect of each of the three separate funds referred to in sub-section (1) of section 18,].",
+                        "2": "(2) The Standing Finance Committee shall exercise such of the powers of the Commission under section 19 as are delegated to it by the Commission."
+                    }
+                },
+                "Section 19B.": {
+                    "heading": "Recovery of monies due to the Commission as arrears of land-revenue.",
+                    "paragraphs": {
+                        "0": "(1) Any sum payable to the Commission under any agreement, express or implied, or otherwise howsoever, may be recovered in the same manner as an arrear of land revenue.",
+                        "1": "(2) If any question arises whether a sum is payable to the Commission within the meaning of sub-section (1), it shall be referred to a Tribunal constituted by the Central Government for the purpose which shall, after making such inquiry as it may deem fit and after giving to the person by whom the sum is alleged to be payable an opportunity of being heard, decide the question; and the decision of the Tribunal shall be final and shall not be called in question by any court or other authority.",
+                        "2": "(3) The Tribunal shall consist of one person who is not connected with the Commission or with the person by whom the sum is alleged to be payable.",
+                        "3": "(4) The expenses of the Tribunal shall be borne by the Commission.]"
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Budget.",
+                    "paragraphs": {
+                        "0": "(1) The Commission shall, by such date in each year as may be prescribed, prepare and submit to the Central Government for approval 4[three separate budgets] in the prescribed form for the next financial year, to be called the khadi budget 5[, the village industries budget and the general and miscellaneous budget], showing the estimated receipts and expenditure in respect to khadi 6[, village industries and products of handicrafts and khadi and village industries respectively] during that financial year.",
+                        "1": "(2) Subject to the provisions of sub-sections (3) and (4), no sum shall be expended by or on behalf of the Commission unless the expenditure is covered by a specific provision in the budget approved by the Central Government.",
+                        "2": "7[(3) The Commission may within the respective limits of the khadi budget, the village industries budget and the general and miscellaneous budget, sanction any reappropriation from one head of expenditure to another or from a provision made for one scheme to that in respect of another, but subject to the proviso to sub-section (1) of section 18, in no case shall a reappropriation of fund be made from one budget to any of the other two budgets:",
+                        "3": "Provided that no reappropriation from the head \u201cLoan\u201d to any other head of expenditure and vice versa in any of the budgets shall be sanctioned by the Commission, except with the previous approval of the Central Government.].",
+                        "4": "(4) The Commission may, within such limits and subject to such conditions as may be prescribed, incur expenditure in excess of the limit provided in the budget approved by the Central Government under any head of expenditure or in connection with any particular scheme, so long as the aggregate amount in 8[the budget] approved by the Central Government is not exceeded."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Borrowing of money.",
+                    "paragraphs": {
+                        "0": "Subject to such rules as may be made in this behalf, the Commission shall have power to borrow on the security of the khadi fund or the village industries fund or any other asset for any purposes for which such funds may be applied."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Transfer of liabilities and obligations to the Commission.",
+                    "paragraphs": {
+                        "0": "All liabilities incurred, by all contracts entered into with, and all matters and things engaged to be done by, or for, the Central Government in connection with the development of khadi or village industries at any time after the 14th day of January, 1953, and before the commencement of this Act, shall, after such commencement, be deemed to have been incurred by, entered into with, or engaged to be done by, or for, the Commission."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "(1) The Commission shall maintain proper accounts and other relevant records and prepare an annual statement of accounts including the profit and loss account and the balance sheet in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.",
+                        "1": "(2) The accounts of the Commission shall be audited by the Comptroller and Auditor-General of India at such intervals as may be prescribed by him.",
+                        "2": "(3) The Comptroller and Auditor-General of India and any person appointed by him in connection with the audit of the accounts of the Commission shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General has in connection with the audit of Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Commission.",
+                        "3": "(4) The accounts of the Commission as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Returns and reports.",
+                    "paragraphs": {
+                        "0": "(1) The Commission shall furnish to the Central Government, at such time and in such form and manner as may be prescribed or as the Central Government may direct, such returns and statements and such particulars in regard to any proposed or existing programme for the promotion and development of khadi and village industries, as the Central Government may, from time to time, require.",
+                        "1": "(2) Without prejudice to the provisions of sub-section (1), the Commission shall, as soon as possible after the end of each financial year submit to the Central Government a report, in such form and before such date as may be prescribed, giving a true and full account of its activities, policy and programme during the previous financial year.",
+                        "2": "(3) A copy of the report received under sub-section (2) shall be laid before each House of Parliament."
+                    }
+                },
+                "Section 24A.": {
+                    "heading": "Exemption from liability to pay income-tax.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in the Income-tax Act, 1961 (43 of 1961), the Commission shall not be liable to pay any income-tax on its income, profits or gains.]"
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 25.": {
+                    "heading": "Dissolution of the Commission.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette, direct that the Commission shall be dissolved from such date as may be specified in the notification and thereupon the Commission shall be deemed to be dissolved accordingly.",
+                        "1": {
+                            "text": "(2) On and from the said date\u2014",
+                            "contains": {
+                                "0": "(a) all properties and funds which, immediately before the said date, were in the possession of the Commission for the purposes of this Act shall vest in the Central Government; and",
+                                "1": "(b) all members shall vacate their office as members of the Commission."
+                            }
+                        },
+                        "2": "1[(3) Any time after the issue of the notification under sub-section (1), the Central Government may re-establish the Commission in accordance with the provisions of section 4 and on and from the date of the re-establishment of the Commission, the properties and funds which had previously vested in the Central Government under clause (a) of sub-section (2) shall stand vested in the Commission so re-established.]."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette, make rules to give effect to the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "2[(a) the manner of filling casual vacancies among the members of the Commission and the terms and conditions of service of the Chairman, the Chief Executive Officer, the Financial Adviser and other members of the Commission including the salary and allowances to be paid to them and the travelling and daily allowances to be drawn by them when they are on tour;]",
+                                "1": "3[(aa) the powers to be exercised and functions to be discharged by the Chief Executive Officer under sub-section (1) of section 5;",
+                                "2": "(ab) the financial matters in respect of which the Financial Adviser shall be in charge under section 5A;",
+                                "3": "(ac) the transaction of business at the meetings of the Board under sub-section (2) of section 10;];",
+                                "4": "(b) 4***the procedure to be followed in removing a member who is or becomes subject to any disqualification;",
+                                "5": "(c) the term of office and other conditions of service of, the procedure to be followed in the discharge of functions by, and the manner of filling casual vacancies among members of the Board;",
+                                "6": "5* * * * *",
+                                "7": "6[(dd) the constitution of the Standing Finance Committees under sub-section (1) of section 19 A;",
+                                "8": "(ddd) the procedure to be followed by the Tribunal in deciding questions referred to it under sub-section (2) of section 19B;]",
+                                "9": "(e) the date by which, and the form in which, the budget shall be prepared and submitted in each year under sub-section (1) of section 20;",
+                                "10": "(f) the procedure to be followed for placing the Commission in possession of funds;",
+                                "11": "(g) the procedure to be followed and the conditions to be observed in borrowing moneys or in granting loans;",
+                                "12": "(h) the conditions subject to which, and the mode in which, contracts may be entered into by or on behalf of the Commission;",
+                                "13": "(i) the form and manner in which the accounts of the Commission shall be maintained under sub-section (1) of section 23;",
+                                "14": "(j) the form and manner in which the returns, reports or statements shall be submitted under section 23; and",
+                                "15": "(k) any other matter which has to be, or may be, prescribed."
+                            }
+                        },
+                        "2": "7* * * * *"
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Power to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The Commission may, with the previous sanction of the Central Government, by notification in the Official Gazette, make regulations not inconsistent with this Act and the rules made thereunder, for enabling it to discharge its functions under this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the terms and conditions of appointment and service and the scales of pay of officers and servants of the Commission, other than 1[the Chief Executive Officer] and the Financial Adviser to the Commission, including payment of travelling and daily allowances in respect of journeys undertaken by such officers and servants for the purpose of this Act;",
+                                "1": "(b) the time and place of meetings of the Commission, the procedure to be followed in regard to transaction of business at such meetings and the quorum necessary for the transaction of such business at a meeting;",
+                                "2": "2[(ba) the transaction of business at the meetings of the Zonal Committee under sub-section (2) of section 12A;];",
+                                "3": "3[(bb) the summoning and holding of meetings, and the conduct of business of a Standing Finance Committee];",
+                                "4": "(c) the delegation of powers and duties to 4*** or any employee of the Commission;",
+                                "5": "(d) the maintenance of minutes of meetings of the Commission and of the Board and the transmission of copies thereof to the Central Government;",
+                                "6": "(e) the persons by whom, and the manner in which, payments deposits and investments may be made on behalf of the Commission;",
+                                "7": "(f) the custody of moneys required for the current expenditure of the Commission and investment of moneys not so required;",
+                                "8": "(g) the maintenance of accounts; and",
+                                "9": "(h) the form in which certificates of genuineness of khadi and products of village industries may be granted by the Commission 5[and the fees chargeable in respect thereof.]"
+                            }
+                        },
+                        "2": "6[(2A) The power to make regulations under this section with respect to the terms and conditions of service and the scales of pay and pension to be paid to the employees of the Commission shall include the power to give retrospective effect from a date not earlier than the commencement of this Act, to such regulations or any of them but no retrospective effect shall be given to any such regulation so as to prejudicially affect the interest of any person to whom such regulation may be applicable.]",
+                        "3": "(3) The Central Government may, by notification in the Official Gazette, rescind any regulation which it has sanctioned and thereupon the regulation shall cease to have effect."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Rules and Regulations to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.]"
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": "THE SCHEDULE",
+            "1": "1[See section 2 (h)]",
+            "2": "1. Bee-keeping.",
+            "3": "2. Cottage match industry, manufacture of Fireworks and Aggravates.",
+            "4": "3. Cottage pottery industry.",
+            "5": "4. Cottage soap industry.",
+            "6": "5. Flaying, curing and tanning of hides and skins and ancillary industries connected with the same and cottage leather industry.",
+            "7": "6. Ghani oil industry.",
+            "8": "7. Hand-made paper.",
+            "9": "8. Manufacture of cane-gur and khandsari.",
+            "10": "9. Palm-gur making and other palm-products industry.",
+            "11": {
+                "text": "2[10. Processing, packaging and marketing of cereals, pulses, spices, condiments, masalas etc.]",
+                "contains": {
+                    "0": "3[(i) Manufacture of shellac;",
+                    "1": "(ii) Collection of forest plants and fruits for medicinal purposes;",
+                    "2": "(iii) Fruit-processing and fruit preservation;",
+                    "3": "(iv) Bamboo and cane-work;",
+                    "4": "(v) Blacksmithy;",
+                    "5": "(vi) Carpentry; and",
+                    "6": "(vii) Fibre other than coir.]"
+                }
+            },
+            "12": "4[Manufacture and use of manure and methane gas from cowdung arid other waste products (such as flesh and dead animals, night soil, etc.)]",
+            "13": "5[Cottage industry of limestone and its products.]",
+            "14": "6[Manufacture of household utensils in aluminium.]",
+            "15": "7[Manufacture of gum resins; manufacture of katha.]",
+            "16": "8[Lime Stone, Lime Shell and other Lime Products industry.]",
+            "17": "9[Manufacture of Lokvastra cloth.]",
+            "18": "10[Processing of maize and Ragi.]",
+            "19": "11[Manufacture of Rubber Goods (Dipped Latex Products).]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. Subs. by Act 36 of 1957, s. 3 and the Second Schedule, for \u201csection 9\u201d (w.e.f. 17-9-1957).",
+            "1": "2. Ins. by Act 12 of 1987, s. 2 (w.e.f. 24-7-1987).",
+            "2": "3. Subs. by Act 32 of 1961, s. 2, for \u201cand includes the chairman\u201d (w.e.f. 28-8-1961).",
+            "3": "4. The words \u201cand the vice-chairman\u201d omitted by Act 12 of 1987, s. 2 (w.e.f. 24-7-1987).",
+            "4": "5. Ins. by s. 2, ibid. (w.e.f. 24-7-1987).",
+            "5": "6. Subs. by Act 10 of 2006, s. 2, for \u201cten thousand\u201d (w.e.f. 15-5-2006).",
+            "6": "7. Omitted by Act 12 of 1987, s. 2 (w.e.f. 24-7-1987).",
+            "7": "8. Omitted by s. 2, ibid. (w.e.f. 24-7-1987).",
+            "8": "9. Subs. by s. 2, ibid., for clause (h) (w.e.f. 24-7-1987).10. Subs. by Act 10 of 2006, s. 2, for \u201cfifteen thousand rupees\u201d (w.e.f. 15-5-2006).*. Vide notification No. S.O. 3912(E), dated 30th October, 2019, this Act is made applicable to the Union territory of Jammu andKashmir and the Union territory of Ladakh."
+        },
+        "Page 5": {
+            "0": "1.  The proviso omitted by Act 10 of 2006, s. 3 (w.e.f. 15-5-2006).",
+            "1": "2. Subs. by Act 12 of 1987, s. 5, for sections 5 and 6 (w.e.f. 24-7-1987).",
+            "2": "3. Subs. by Act 10 of 2006, s. 4, for sub-section (1) (w.e.f. 15-5-2006).",
+            "3": "4. Subs. by s. 4, ibid., for \u201cshall be responsible\u201d (w.e.f. 15-5-2006).",
+            "4": "5. Ins. by s. 5, ibid. (w.e.f. 15-5-2006).",
+            "5": "6. Subs. by s. 5, ibid., for certain words (w.e.f. 15-5-2006).",
+            "6": "7. Ins. by Act 12 of 1987, s. 6 (w.e.f. 24-7-1987)."
+        },
+        "Page 6": {
+            "0": "1. Section 10 renumbered as sub-section (1) thereof, by Act 10 of 2006, s. 6 (w.e.f. 1-10-1984).",
+            "1": "2. Subs. by s. 6, ibid., for \u201cKhadi and Village Industries Board\u201d (w.e.f. 15-5-2006).",
+            "2": "3. Ins. by s. 6, ibid. (w.e.f. 15-5-2006).",
+            "3": "4. Subs. by Act 12 of 1987, s. 6, for sub-section 2 (w.e.f. 24-7-1987).",
+            "4": "5. Subs. by Act 10 of 2006, s. 7, for \u201cvotes of the members present\u201d (w.e.f. 15-5-2006).",
+            "5": "6. Ins. by s. 8, ibid. (w.e.f. 15-5-2006)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 12 of 1987, s. 7, for section 13 (w.e.f. 24-7-1987).",
+            "1": "2. Subs. by Act 10 of 2006, s. 9, for \u201cfor a term of five years\u201d (w.e.f. 15-5-2006).",
+            "2": "3. Sub-section (1), omitted by Act 12 of 1987, s. 8 (w.e.f. 24-7-1987).",
+            "3": "4. The proviso and brackets and figure \u201c(2)\u201d omitted by s. 8, ibid. (w.e.f. 24-7-1987)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 12 of 1987, s. 9, for section 15 (w.e.f. 24-7-1987).",
+            "1": "2. Subs. by Act 10 of 2006, s. 10, for \u201cplan, promote, organise\u201d (w.e.f. 15-5-2006).",
+            "2": "3. Subs. by s. 10, ibid., for \u201cplan and organise\u201d (w.e.f. 15-5-2006).",
+            "3": "4. Subs. by s. 10, ibid., for \u201cbuild up\u201d (w.e.f. 15-5-2006).",
+            "4": "5. Subs. by s. 10, ibid., for \u201csupply them\u201d (w.e.f. 15-5-2006).",
+            "5": "6. Subs. by s. 10, ibid., for \u201cprovide financial assistance\u201d (w.e.f. 15-5-2006).",
+            "6": "7. Subs. by s. 10, ibid., for \u201cundertake experiments\u201d (w.e.f. 15-5-2006)."
+        },
+        "Page 10": {
+            "0": "1. The Explanation ins. by Act 10 of 2006, s. 10 (w.e.f. 15-5-2006).",
+            "1": "2. Ins. by Act 32 of 1961, s. 9 (w.e.f. 28-8-1961).",
+            "2": "3. Subs. by Act 12 of 1987, s. 10, for \u201cor the development of village industries\u201d (w.e.f. 24-7-1987).",
+            "3": "4. Subs. by s. 11, ibid., for sub-sections (1), (1A) and (1B) (w.e.f. 1-4-1988)."
+        },
+        "Page 11": {
+            "0": "1. Ins. by Act 32 of 1961, s. 11 (w.e.f. 28-8-1961).",
+            "1": "2. Subs. by Act 12 of 1987, s. 12, for \u201ctwo funds\u201d (w.e.f. 1-4-1988).",
+            "2": "3. The proviso ins. by Act 10 of 2006, s. 11 (w.e.f. 15-5-2006).",
+            "3": "4. Subs. by Act 12 of 1987, s. 13, for \u201ctwo separate budgets\u201d (w.e.f. 1-4-1988).",
+            "4": "5. Subs. by s. 13, ibid., for \u201cand the village industries budget\u201d (w.e.f. 1-4-1988).",
+            "5": "6. Subs. by s. 13, ibid., for \u201cand village industries respectively\u201d (w.e.f. 1-4-1988).",
+            "6": "7. Subs. by s. 13, ibid., for sub-section (3) (w.e.f. 1-4-1988).",
+            "7": "8. Subs. by s. 13, ibid., for \u201ceither budget\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 12": {
+            "0": "1. Ins. by Act 29 of 1977, s. 34 (w.e.f. 1-4-1962)."
+        },
+        "Page 13": {
+            "0": "1. Ins. by Act 10 of 2006, s. 12 (w.e.f. 15-5-2006).",
+            "1": "2. Subs. by Act 12 of 1987, s. 14, for clause (a) (w.e.f. 24-7-1987).",
+            "2": "3. Ins. by Act 10 of 2006, s. 13 (w.e.f. 15-5-2006).",
+            "3": "4. The words \u201cthe disqualifications for membership of the Commission and\u201d omitted by Act 12 of 1987, s. 14 (w.e.f. 24-7-1987).",
+            "4": "5. Omitted by s. 14, ibid. (w.e.f. 24-7-1987).",
+            "5": "6. Ins. by Act 32 of 1961, s. 13 (w.e.f. 28-8-1961).",
+            "6": "7. Omitted by Act 12 of 1987, s. 14 (w.e.f. 24-7-1987)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 12 of 1987, s. 15, for clause (a) for \u201cthe secretary\u201d (w.e.f. 24-7-1987).",
+            "1": "2. Ins. by Act 10 of 2006, s. 14 (w.e.f. 15-5-2006).",
+            "2": "3. Ins. by Act 32 of 1961, s. 14 (w.e.f. 28-8-1961).",
+            "3": "4. The words \u201cthe Chief Executive Officer or\u201d omitted by Act 10 of 2006, s. 14 (w.e.f. 15-5-2006).",
+            "4": "5. Added by Act 32 of 1961, s. 14 (w.e.f. 28-8-1961).",
+            "5": "6. Ins. by Act 12 of 1987, s. 15 (w.e.f. 24-7-1987).",
+            "6": "7. Ins. by s. 16, ibid. (w.e.f. 24-7-1987)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 12 of 1987, s. 17, for \u201c[See sections 2 (h) and 3 (1)]\u201d (w.e.f. 24-7-1987).",
+            "1": "2. Substituted by G.S.R. 1101, dated 16-8-1979.",
+            "2": "3. Added by S. O. 3232.",
+            "3": "4. Added by S.O.1031.",
+            "4": "5. Added by S.O.1342.",
+            "5": "6. Added by S.O. 3647.",
+            "6": "7. Added by S.O.92.",
+            "7": "8. Added by G. S. R. 685(E) of 1977.",
+            "8": "9. Added by G. S. R. 6 (E).10. Added by G. S. R. 366.11. Added by G.S.R. 591 (E)/84."
+        }
+    }
+}

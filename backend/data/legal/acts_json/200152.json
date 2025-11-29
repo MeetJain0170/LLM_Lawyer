@@ -1,0 +1,834 @@
+{
+    "Act Title": "THE ENERGY CONSERVATION ACT, 2001",
+    "Act ID": "ACT NO. 52 OF 2001",
+    "Enactment Date": "[29th September, 2001.]",
+    "Act Definition": {
+        "0": "An Act to provide for efficient use of energy and its conservation and for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Energy Conservation Act, 2001.",
+                        "1": "(2) It extends to the whole of India 1***.",
+                        "2": "(3) It shall come into force on such date2 as the Central Government may, by notification in the Official Gazette, appoint; and different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201caccredited energy auditor\u201d means 3[an energy auditor accredited in accordance with the provisions of] clause (p) of sub-section (2) of section 13;",
+                                "1": "(b) \u201cAppellate Tribunal\u201d means the Appellate Tribunal for Energy Conservation 4[referred to in section 30];",
+                                "2": "5[(c) \u201cbuilding\u201d means any structure or erection or part of structure or erection after the rules relating to energy conservation building codes have been notified under clause (p) of section 14 and clause (a) of section 15 and includes any existing structure or erection or part of structure or erection, which is having a connected load of 100 Kilowatt (kW) or contract demand of 120 Kilo-volt Ampere (kVA) and above and is used or intended to be used for commercial purposes;]",
+                                "3": "(d) \u201cBureau\u201d means the Bureau of Energy Efficiency established under sub-section (1) of section 3;",
+                                "4": "(e) \u201cChairperson\u201d means the Chairperson of the Governing Council;",
+                                "5": "(f) \u201cdesignated agency\u201d means any agency designated under clause (d) of section 15;",
+                                "6": "(g) \u201cdesignated consumer\u201d means any consumer specified under clause (e) of section 14;",
+                                "7": "(h) \u201cenergy\u201d means any form of energy derived from fossil fuels, nuclear substances or materials, hydro-electricity and includes electrical energy or electricity generated from renewable sources of energy or bio-mass connected to the grid;",
+                                "8": "(i) \u201cenergy audit\u201d means the verification, monitoring and analysis of use of energy including submission of technical report containing recommendations for improving energy efficiency with cost benefit analysis and an action plan to reduce energy consumption;",
+                                "9": "(j) \u201cenergy conservation building codes\u201d means the norms and standards of energy consumption expressed in terms of per square metre of the area wherein energy is used and includes the location of the building;",
+                                "10": "(k) \u201cenergy consumption standards\u201d means the norms for process and energy consumption standards specified under clause (a) of section 14;",
+                                "11": "(l) \u201cEnergy Management Centre\u201d means the Energy Management Centre set up under the Resolution of the Government of India in the erstwhile Ministry of Energy, Department of Power No. 7(2)/87- EP(Vol. IV), dated the 5th July, 1989 and registered under the Societies Registration Act, 1860 (21 of 1860);",
+                                "12": "(m) \u201cenergy manager\u201d means any individual possessing the qualifications prescribed under clause (m) of section 14;",
+                                "13": "1[(ma) \u201cenergy savings certificate\u201d means any energy savings certificate issued to the designated consumers under sub-section (1) of section 14A;",
+                                "14": "(maa) \u201cequipment or appliance\u201d means any equipment or appliance which consumes, generates, transmits or supplies energy and includes any device that consumes any form of energy and produces a desired work;]",
+                                "15": "(n) \u201cGoverning Council\u201d means the Governing Council referred to in section 4;",
+                                "16": "(o) \u201cmember\u201d means the member of the Governing Council and includes the Chairperson;",
+                                "17": "(p) \u201cnotification\u201d means a notification in the Gazette of India or, as the case may be, the Official Gazette of a State;",
+                                "18": "(q) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "19": "(r) \u201cregulations\u201d means regulations made by the Bureau under this Act;",
+                                "20": "(s) \u201cSchedule\u201d means the Schedule to this Act;",
+                                "21": "(t) \u201cState Commission\u201d means the State Electricity Regulatory Commission established under sub-section (1) of section 17 of the Electricity Regulatory Commissions Act, 1998 (14 of 1998);",
+                                "22": "(u) words and expressions used and not defined in this Act but defined in the Indian Electricity Act, 1910 (9 of 1910) or the Electricity (Supply) Act, 1948 (54 of 1948) or the Electricity Regulatory Commissions Act, 1998 (14 of 1998) shall have the meanings respectively assigned to them in those Acts."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "BUREAU OF ENERGY EFFICIENCY",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Establishment and incorporation of Bureau of Energy Efficiency.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification, appoint, there shall be established, for the purposes of this Act, a Bureau to be called the Bureau of Energy Efficiency.",
+                        "1": "(2) The Bureau shall be a body corporate by the name aforesaid having perpetual succession and a common seal, with power subject to the provisions of this Act, to acquire, hold and dispose of property, both movable and immovable, and to contract, and shall, by the said name, sue or be sued.",
+                        "2": "(3) The head office of the Bureau shall be at Delhi.",
+                        "3": "(4) The Bureau may establish offices at other places in India."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Management of Bureau.",
+                    "paragraphs": {
+                        "0": "(1) The general superintendence, direction and management of the affairs of the Bureau shall vest in the Governing Council which shall consist of not less than twenty, but not exceeding twenty-six, members to be appointed by the Central Government.",
+                        "1": {
+                            "text": "(2) The Governing Council shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the Minister in charge of the Ministry or Department ex officio Chairperson; of the Central Government dealing with the Power",
+                                "1": "(b) the Secretary to the Government of India, in charge of ex officio member; the Ministry or Department of the Central Government dealing with the Power",
+                                "2": "(c) the Secretary to the Government of India, in charge of ex officio member; the Ministry or Department of the Central Government dealing with the Petroleum and Natural Gas",
+                                "3": "(d) the Secretary to the Government of India, in charge of ex officio member; the Ministry or Department of the Central Government dealing with the Coal",
+                                "4": "(e) the Secretary to the Government of India, in charge of ex officio member; the Ministry or Department of the Central Government dealing with the Non-conventional Energy Sources",
+                                "5": "(f) the Secretary to the Government of India, in charge of ex officio member; the Ministry or Department of the Central Government dealing with the Atomic Energy",
+                                "6": "(g) the Secretary to the Government of India, in charge of ex officio member; the Ministry or Department of the Central Government dealing with the Consumer Affairs",
+                                "7": "(h) Chairman of the Central Electricity Authority ex officio member; established under the Electricity (Supply) Act, 1948 (54 of 1948)",
+                                "8": "(i) Director-General of the Central Power Research ex officio member; Institute registered under the Karnataka Societies Act, 1960 (Karnataka Act 17 of 1960)",
+                                "9": "(j) Executive Director of the Petroleum Conservation ex officio member; Research Association, a society registered under the Societies Registration Act, 1860 (XXI of 1860)",
+                                "10": "(k) Chairman-cum-Managing Director of the Central Mine ex officio member; Planning and Design Institute Limited, a company incorporated under the Companies Act, 1956 (1 of 1956)",
+                                "11": "(l) Director-General of the Bureau of Indian Standards ex officio member; established under the Bureau of Indian Standards Act, 1986 (63 of 1986)",
+                                "12": "(m) Director-General of the National Test House, ex officio member; Department of Supply, Ministry of Commerce and Industry, Kolkata",
+                                "13": "(n) Managing Director of the Indian Renewable Energy ex officio member; Development Agency Limited, a company incorporated under the Companies Act, 1956 (1 of 1956)",
+                                "14": "(o) one member each from the five power regions member; representing the States of the region to be appointed by the Central Government",
+                                "15": "(p) such number of persons, not exceeding four as may be member; prescribed, to be appointed by the Central Government as members from amongst persons who are in the opinion of the Central Government capable of representing industry, equipment and appliance manufacturers, architects and consumers",
+                                "16": "(q) such number of persons, not exceeding two as may be member; nominated by the Governing Council as members",
+                                "17": "(r) Director-General of Bureau ex officio member- secretary."
+                            }
+                        },
+                        "2": "(3) The Governing Council may exercise all powers and do all acts and things which may be exercised or done by the Bureau.",
+                        "3": "(4) Every member referred to in clauses (o), (p) and (q) of sub-section (2) shall hold office for a term of three years from the date on which he enters upon his office.",
+                        "4": "(5) The fee and allowances to be paid to the members referred to in clauses (o), (p) and (q) of sub-section (2) and the manner of filling up of vacancies and the procedure to be followed in the discharge of their functions shall be such as may be prescribed."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Meetings of Governing Council.",
+                    "paragraphs": {
+                        "0": "(1) The Governing Council shall meet at such times and places, and shall observe such rules of procedure in regard to the transaction of business at its meetings (including quorum at such meetings) as may be provided by regulations.",
+                        "1": "(2) The Chairperson or, if for any reason, he is unable to attend a meeting of the Governing Council, any other member chosen by the members present from amongst themselves at the meeting shall preside at the meeting.",
+                        "2": "(3) All questions which come up before any meeting of the Governing Council shall be decided by a majority vote of the members present and voting, and in the event of an equality of votes, the Chairperson or in his absence, the person presiding, shall have a second or casting vote."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Vacancies, etc., not to invalidate proceedings of Bureau, Governing Council or Committee.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No act or proceeding of the Bureau or the Governing Council or any Committee shall be invalid merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or any defect in the constitution of, the Bureau or the Governing Council or the Committee; or",
+                                "1": "(b) any defect in the appointment of a person acting as a Director-General or Secretary of the Bureau or a member of the Governing Council or the Committee; or",
+                                "2": "(c) any irregularity in the procedure of the Bureau or the Governing Council or the Committee not affecting the merits of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Removal of member from office.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Central Government shall remove a member referred to in clauses (o), (p) and (q) of sub-section (2) of section 4 from office if he\u2014",
+                            "contains": {
+                                "0": "(a) is, or at any time has been, adjudicated as insolvent;",
+                                "1": "(b) is of unsound mind and stands so declared by a competent court;",
+                                "2": "(c) has been convicted of an offence which, in the opinion of the Central Government, involves a moral turpitude;",
+                                "3": "(d) has, in the opinion of the Central Government, so abused his position as to render his continuation in office detrimental to the public interest:",
+                                "4": "Provided that no member shall be removed under this clause unless he has been given a reasonable opportunity of being heard in the matter."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Constitution of Advisory Committees and other committees.",
+                    "paragraphs": {
+                        "0": "(1) Subject to any regulations made in this behalf, the Bureau shall, within six months from the date of commencement of this Act, constitute Advisory Committees for the efficient discharge of its functions.",
+                        "1": "(2) Each Advisory Committee shall consist of a Chairperson and such other members as may be determined by regulations.",
+                        "2": "(3) Without prejudice to the powers contained in sub-section (1), the Bureau may constitute, such number of technical committees of experts for the formulation of energy consumption standards or norms in respect of equipment or processes, as it considers necessary."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Director General of Bureau.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, by notification, appoint a Director-General from amongst persons of ability and standing, having adequate knowledge and experience in dealing with the matters relating to energy production, supply and energy management, standardisation and efficient use of energy and its conservation.",
+                        "1": "(2) The Central Government shall, by notification, appoint any person not below the rank of Deputy Secretary to the Government of India as Secretary of the Bureau.",
+                        "2": "(3) The Director-General shall hold office for a term of 1[five years] from the date on which he enters upon his office or until he attains the age of sixty years, whichever is earlier.",
+                        "3": "(4) The salary and allowances payable to the Director-General and other terms and conditions of his service and other terms and conditions of service of the Secretary of the Bureau shall be such as may be prescribed.",
+                        "4": "(5) Subject to general superintendence, direction and management of the affairs by the Governing Council, the Director-General of the Bureau shall be the Chief Executive Authority of the Bureau.",
+                        "5": "(6) The Director-General of the Bureau shall exercise and discharge such powers and duties of the Bureau as may be determined by regulations."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Officers and employees of Bureau.",
+                    "paragraphs": {
+                        "0": "(1) 2[The Bureau] may appoint such other officers and employees in the Bureau as it considers necessary for the efficient discharge of its functions under this Act.",
+                        "1": "(2) The terms and conditions of service of officers and other employees of the Bureau appointed under sub-section (1) shall be such as may be prescribed."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Authentication of orders and decisions of Bureau.",
+                    "paragraphs": {
+                        "0": "All orders and decisions of the Bureau shall be authenticated by the signature of the Director-General or any other officer of the Bureau authorised by the Director-General in this behalf."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "TRANSFER OF ASSETS, LIABILITIES, ETC., OF ENERGY MANAGEMENT CENTRE TO BUREAU",
+            "Sections": {
+                "Section 12.": {
+                    "heading": "Transfer of assets, liabilities and employees of Energy Management Centre.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) On and from the date of establishment of the Bureau\u2014",
+                            "contains": {
+                                "0": "(a) any reference to the Energy Management Centre in any law other than this Act or in any contract or other instrument shall be deemed as a reference to the Bureau;",
+                                "1": "(b) all properties and assets, movable and immovable of, or belonging to, the Energy Management Centre shall vest in the Bureau;",
+                                "2": "(c) all the rights and liabilities of the Energy Management Centre shall be transferred to, and be the rights and liabilities of, the Bureau;",
+                                "3": "(d) without prejudice to the provisions of clause (c), all debts, obligations and liabilities incurred, all contracts entered into and all matters and things engaged to be done by, with or for the Energy Management Centre immediately before that date, for or in connection with the purposes of the said Centre shall be deemed to have been incurred, entered into, or engaged to be done by, with or for, the Bureau;",
+                                "4": "(e) all sums of money due to the Energy Management Centre immediately before that date shall be deemed to be due to the Bureau;",
+                                "5": "(f) all suits and other legal proceedings instituted or which could have been instituted by or against the Energy Management Centre immediately before that date may be continued or may be instituted by or against the Bureau; and",
+                                "6": "(g) every employee holding any office under the Energy Management Centre immediately before that date shall hold his office in the Bureau by the same tenure and upon the same terms and conditions of service as respects remuneration, leave, provident fund, retirement or other terminal benefits as he would have held such office if the Bureau had not been established and shall continue to do so as an employee of the Bureau or until the expiry of six months from that date if such employee opts not to be the employee of the Bureau within such period."
+                            }
+                        },
+                        "1": "(2) Notwithstanding anything contained in the Industrial Disputes Act, 1947 (14 of 1947) or in any other law for the time being in force, the absorption of any employee by the Bureau in its regular service under this section shall not entitle such employee to any compensation under that Act or other law and no such claim shall be entertained by any court, tribunal or other authority."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "POWERS AND FUNCTIONS OF BUREAU",
+            "Sections": {
+                "Section 13.": {
+                    "heading": "Powers and functions of Bureau.",
+                    "paragraphs": {
+                        "0": "(1) The Bureau shall, effectively co-ordinate with designated consumers, designated agencies and other agencies, recognise and utilise the existing resources and infrastructure, in performing the functions assigned to it by or under this Act.",
+                        "1": {
+                            "text": "(2) The Bureau may perform such functions and exercise such powers as may be assigned to it by or under this Act and in particular, such functions and powers include the function and power to\u2014",
+                            "contains": {
+                                "0": "(a) recommend to the Central Government the norms for processes and energy consumption standards required to be notified under clause (a) of section 14;",
+                                "1": "1[(aa) recommend to the Central Government for issuing of the energy savings certificate under section 14A;]",
+                                "2": "(b) recommend to the Central Government the particulars required to be displayed on label on equipment or on appliances and manner of their display under clause (d) of section 14;",
+                                "3": "(c) recommend to the Central Government for notifying any user or class of users of energy as a designated consumer under clause (e) of section 14;",
+                                "4": "(d) take suitable steps to prescribe guidelines for energy conservation building codes under clause (p) of section 14;",
+                                "5": "(e) take all measures necessary to create awareness and disseminate information for efficient use of energy and its conservation;",
+                                "6": "(f) arrange and organise training of personnel and specialists in the techniques for efficient use of energy and its conservation;",
+                                "7": "(g) strengthen consultancy services in the field of energy conservation;",
+                                "8": "(h) promote research and development in the field of energy conservation;",
+                                "9": "(i) develop testing and certification procedure and promote testing facilities for certification and testing for energy consumption of equipment and appliances;",
+                                "10": "(j) formulate and facilitate implementation of pilot projects and demonstration projects for promotion of efficient use of energy and its conservation;",
+                                "11": "(k) promote use of energy efficient processes, equipment, devices and systems;",
+                                "12": "(l) promote innovative financing of energy efficiency projects;",
+                                "13": "(m) give financial assistance to institutions for promoting efficient use of energy and its conservation;",
+                                "14": "(n) levy fee, as may be determined by regulations, for services provided for promoting efficient use of energy and its conservation;",
+                                "15": "(o) maintain a list of accredited energy auditors as may be specified by regulations;",
+                                "16": "2[(p) specify, by regulations, the qualifications, criteria and conditions subject to which a person may be accredited as an energy auditor and the procedure for such accreditation;]",
+                                "17": "(q) specify, by regulations, the manner and intervals of time in which the energy audit shall be conducted;",
+                                "18": "(r) specify, by regulations, certification procedures for 3[energy auditors and energy managers] to be designated or appointed by designated consumers;",
+                                "19": "(s) prepare educational curriculum on efficient use of energy and its conservation for educational institutions, boards, universities or autonomous bodies and coordinate with them for inclusion of such curriculum in their syllabus;",
+                                "20": "1[(sa) conduct examination for capacity building and strengthening of services in the field of energy conservation including certification of energy managers and energy auditors;]",
+                                "21": "(t) implement international co-operation programmes relating to efficient use of energy and its conservation as may be assigned to it by the Central Government;",
+                                "22": "(u) perform such other functions as may be prescribed."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "POWER OF CENTRAL GOVERNMENT TO FACILITATE AND ENFORCE EFFICIENT USE OF ENERGY AND ITS CONSERVATION",
+            "Sections": {
+                "Section 14.": {
+                    "heading": "Power of Central Government to enforce efficient use of energy and its conservation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Central Government may, by notification, in consultation with the Bureau,\u2014",
+                            "contains": {
+                                "0": "(a) specify the norms for processes and energy consumption standards for any equipment, appliance which consumes, generates, transmits or supplies energy;",
+                                "1": "(b) specify equipment or appliance or class of equipments or appliances, as the case may be, for the purposes of this Act;",
+                                "2": "(c) prohibit manufacture or sale or purchase or import of equipment or appliance specified under clause (b), unless such equipment or appliance conforms to energy consumption standards:",
+                                "3": "1[Provided that no notification prohibiting manufacture or sale or purchase or import of equipment or appliance shall be issued within a period of six months from the date of notification issued under clause (a) of this section:",
+                                "4": "Provided further that the Central Government may, having regard to the market share and the technological development having impact on equipment or appliance, and for reasons to be recorded in writing, extend the said period of six months referred to in the first proviso by a further period not exceeding six months;]",
+                                "5": "(d) direct display of such particulars on label on equipment or on appliance specified under clause (b) and in such manner as may be specified by regulations;",
+                                "6": "(e) specify, having regard to the intensity or quantity of energy consumed and the amount of investment required for switching over to energy efficient equipments and capacity of industry to invest in it and availability of the energy efficient machinery and equipment required by the industry, 2[any user or class of users of energy in the energy intensive industries and other establishments as specified in the Schedule as a designated consumer] for the purposes of this Act;",
+                                "7": "(f) alter the list of Energy Intensive Industries specified in the Schedule;",
+                                "8": "(g) establish and prescribe such energy consumption norms and standards for designated consumers as it may consider necessary:",
+                                "9": "Provided that the Central Government may prescribe different norms and standards for different designated consumers having regard to such factors as may be prescribed;",
+                                "10": "(h) direct, having regard to quantity of energy consumed or the norms and standards of energy consumption specified under clause (a), the Energy Intensive Industries specified in the Schedule to get energy audit conducted by an accredited energy auditor in such manner and intervals of time as may be specified by regulations;",
+                                "11": "(i) direct, if considered necessary for efficient use of energy and its conservation, any designated consumer to get energy audit conducted by an accredited energy auditor;",
+                                "12": "(j) specify the matters to be included for the purposes of inspection under sub-section (2) of section 17;",
+                                "13": "(k) direct any designated consumer to furnish to the designated agency, in such form and manner and within such period, as may be prescribed, the information with regard to the energy consumed and action taken on the recommendation of the accredited energy auditor;",
+                                "14": "(l) direct any designated consumer to designate or appoint energy manager in charge of activities for efficient use of energy and its conservation and submit a report, in the form and manner as may be prescribed, on the status of energy consumption at the end of every financial year to the designated agency;",
+                                "15": "(m) prescribe minimum qualification for 1[energy auditors and energy managers] to be designated or appointed under clause (l);",
+                                "16": "(n) direct every designated consumer to comply with energy consumption norms and standards;",
+                                "17": "(o) direct any designated consumer, who does not fulfil the energy consumption norms and standards prescribed under clause (g), to prepare a scheme for efficient use of energy and its conservation and implement such scheme keeping in view the economic viability of the investment in 2[such form, the time within which and the manner] as may be prescribed;",
+                                "18": "(p) prescribe energy conservation building codes for efficient use of energy and its conservation in the building or building complex;",
+                                "19": "(q) amend the energy conservation building codes to suit the regional and local climatic conditions;",
+                                "20": "(r) direct every owner or occupier of the building or building complex, being a designated consumer to comply with the provisions of energy conservation building codes for efficient use of energy and its conservation;",
+                                "21": "(s) direct, any designated consumer referred to in clause (r), if considered necessary, for efficient use of energy and its conservation in his building to get energy audit conducted in respect of such building by an accredited energy auditor in such manner and intervals of time as may be specified by regulations;",
+                                "22": "(t) take all measures necessary to create awareness and disseminate information for efficient use of energy and its conservation;",
+                                "23": "(u) arrange and organise training of personnel and specialists in the techniques for efficient use of energy and its conservation;",
+                                "24": "(v) take steps to encourage preferential treatment for use of energy efficient equipment or appliances:"
+                            }
+                        },
+                        "1": "Provided that the powers under clauses (p) to (s) shall be exercised in consultation with the concerned State."
+                    }
+                },
+                "Section 14A.": {
+                    "heading": "Power of Central Government to issue energy savings certificate.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may issue the energy savings certificate to the designated consumer whose energy consumption is less than the prescribed norms and standards in accordance with the procedure as may be prescribed.",
+                        "1": "(2) The designated consumer whose energy consumption is more than the prescribed norms and standards shall be entitled to purchase the energy savings certificate to comply with the prescribed norms and standards."
+                    }
+                },
+                "Section 14B.": {
+                    "heading": "Power of Central Government to specify value of energy.",
+                    "paragraphs": {
+                        "0": "The Central Government may, in consultation with the Bureau, prescribe the value of per metric ton of oil equivalent of energy consumed for the purposes of this Act.]"
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "POWER OF STATE GOVERNMENT TO FACILITATE AND ENFORCE EFFICIENT USE OF ENERGY AND ITS CONSERVATION",
+            "Sections": {
+                "Section 15.": {
+                    "heading": "Power of State Government to enforce certain provisions for efficient use of energy and its conservation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The State Government may, by notification, in consultation with the Bureau\u2014",
+                            "contains": {
+                                "0": "(a) amend the energy conservation building codes to suit the regional and local climatic conditions and may, by rules made by it, specify and notify energy conservation building codes with respect to use of energy in the buildings;",
+                                "1": "(b) direct every owner or occupier of a building or building complex being a designated consumer to comply with the provisions of the energy conservation building codes;",
+                                "2": "(c) direct, if considered necessary for efficient use of energy and its conservation, any designated consumer referred to in clause (b) to get energy audit conducted by an accredited energy auditor in such manner and at such intervals of time as may be specified by regulations;",
+                                "3": "(d) designate any agency as designated agency to coordinate, regulate and enforce provisions of this Act within the State;",
+                                "4": "(e) take all measures necessary to create awareness and disseminate information for efficient use of energy and its conservation;",
+                                "5": "(f) arrange and organise training of personnel and specialists in the techniques for efficient use of energy and its conservation;",
+                                "6": "(g) take steps to encourage preferential treatment for use of energy efficient equipment or appliances;",
+                                "7": "(h) direct, any designated consumer to furnish to the designated agency, in such form and manner and within such period as may be specified by rules made by it, information with regard to the energy consumed by such consumer;",
+                                "8": "(i) specify the matters to be included for the purposes of inspection under sub-section (2) of section 17."
+                            }
+                        }
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Establishment of Fund by State Government.",
+                    "paragraphs": {
+                        "0": "(1) The State Government shall constitute a Fund to be called the State Energy Conservation Fund for the purposes of promotion of efficient use of energy and its conservation within the State.",
+                        "1": "(2) To the Fund shall be credited all grants and loans that may be made by the State Government or, Central Government or any other organisation or individual for the purposes of this Act.",
+                        "2": "(3) The Fund shall be applied for meeting the expenses incurred for implementing the provisions of this Act.",
+                        "3": "(4) The Fund created under sub-section (1) shall be administered by such persons or any authority and in such manner as may be specified in the rules made by the State Government."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Power of inspection.",
+                    "paragraphs": {
+                        "0": "(1) The designated agency may appoint, after the expiry of five years from the date of commencement of this Act, as many inspecting officers as may be necessary for the purpose of ensuring compliance with energy consumption standards specified under clause (a) of section 14 or ensure display of particulars on label on equipment or appliance specified under clause (b) of section 14 or for the purpose of performing such other functions as may be assigned to them.",
+                        "1": {
+                            "text": "(2) Subject to any rules made under this Act, an inspecting officer shall have power to\u2014",
+                            "contains": {
+                                "0": "(a) inspect any operation carried on or in connection with the equipment or appliance specified under clause (b) of section 14 or in respect of which energy standards under clause (a) of section 14 have been specified;",
+                                "1": {
+                                    "text": "(b) enter any place of designated consumer at which the energy is used for any activity and may require any proprietor, employee, director, manager or secretary or any other person who may be attending in any manner to or helping in, carrying on any activity with the help of energy\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(i) to afford him necessary facility to inspect\u2014",
+                                            "contains": {
+                                                "0": "(A) any equipment or appliance as he may require and which may be available at such place;",
+                                                "1": "(B) any production process to ascertain the energy consumption norms and standards;"
+                                            }
+                                        },
+                                        "1": "(ii) to make an inventory of stock of any equipment or appliance checked or verified by him;",
+                                        "2": "(iii) to record the statement of any person which may be useful for, or relevant to, for efficient use of energy and its conservation under this Act."
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "text": "(3) An inspecting officer may enter any place of designated consumer\u2014",
+                            "contains": {
+                                "0": "(a) where any activity with the help of energy is carried on; and",
+                                "1": "(b) where any equipment or appliance notified under clause (b) of section 14 has been kept,"
+                            }
+                        },
+                        "3": {
+                            "text": "during the hours at which such place is open for production or conduct of business connected therewith.",
+                            "contains": {
+                                "0": "(4) An inspecting officer acting under this section shall, on no account, remove or cause to be removed from the place wherein he has entered, any equipment or appliance or books of account or other documents."
+                            }
+                        }
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Power of Central Government or State Government to issue directions.",
+                    "paragraphs": {
+                        "0": "The Central Government or the State Government may, in the exercise of its powers and performance of its functions under this Act and for efficient use of energy and its conservation, issue such directions in writing as it deems fit for the purposes of this Act to any person, officer, authority or any designated consumer and such person, officer or authority or any designated consumer shall be bound to comply with such directions.",
+                        "1": {
+                            "text": "Explanation.\u2014For the avoidance of doubts, it is hereby declared that the power to issue directions under this section includes the power to direct\u2014",
+                            "contains": {
+                                "0": "(a) regulation of norms for process and energy consumption standards in any industry or building or building complex; or",
+                                "1": "(b) regulation of the energy consumption standards for equipment and appliances."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "FINANCE, ACCOUNTS AND AUDIT OF BUREAU",
+            "Sections": {
+                "Section 19.": {
+                    "heading": "Grants and loans by Central Government.",
+                    "paragraphs": {
+                        "0": "The Central Government may, after due appropriation made by Parliament by law in this behalf, make to the Bureau or to the State Governments grants and loans of such sums of money as the Central Government may consider necessary."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Establishment of Fund by Central Government.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) There shall be constituted a Fund to be called as the Central Energy Conservation Fund and there shall be credited thereto\u2014",
+                            "contains": {
+                                "0": "(a) any grants and loans made to the Bureau by the Central Government under section 19;",
+                                "1": "(b) all fees received by the Bureau under this Act;",
+                                "2": "(c) all sums received by the Bureau from such other sources as may be decided upon by the Central Government."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) The Fund shall be applied for meeting\u2014",
+                            "contains": {
+                                "0": "(a) the salary, allowances and other remuneration of Director-General, Secretary, officers and other employees of the Bureau;",
+                                "1": "(b) expenses of the Bureau in the discharge of its functions under section 13;",
+                                "2": "(c) fee and allowances to be paid to the members of the Governing Council under sub-section (5) of section 4;",
+                                "3": "(d) expenses on objects and for purposes authorised by this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Borrowing powers of Bureau.",
+                    "paragraphs": {
+                        "0": "(1) The Bureau may, with the consent of the Central Government or in accordance with the terms of any general or special authority given to it by the Central Government, borrow money from any source as it may deem fit for discharging all or any of its functions under this Act.",
+                        "1": "(2) The Central Government may guarantee, in such manner as it thinks fit, the repayment of the principal and the payment of interest thereon with respect to the loans borrowed by the Bureau under sub-section (1)."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Budget.",
+                    "paragraphs": {
+                        "0": "The Bureau shall prepare, in such form and at such time in each financial year as may be prescribed, its budget for the next financial year, showing the estimated receipts and expenditure of the Bureau and forward the same to the Central Government."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Annual report.",
+                    "paragraphs": {
+                        "0": "The Bureau shall prepare, in such form and at such time in each financial year as may be prescribed, its annual report, giving a full account of its activities during the previous financial year, and submit a copy thereof to the Central Government."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Annual report to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "The Central Government shall cause the annual report referred to in section 23 to be laid, as soon as may be after it is received, before each House of Parliament."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "(1) The Bureau shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.",
+                        "1": "(2) The accounts of the Bureau shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Bureau to the Comptroller and Auditor-General.",
+                        "2": "(3) The Comptroller and Auditor-General of India and any other person appointed by him in connection with the audit of the accounts of the Bureau shall have the same rights and privileges and authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of the Government accounts, and in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Bureau.",
+                        "3": "(4) The accounts of the Bureau as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VIII",
+            "Name": "PENALTIES AND ADJUDICATION",
+            "Sections": {
+                "Section 26.": {
+                    "heading": "Penalty.",
+                    "paragraphs": {
+                        "0": "(1) If any person fails to comply with the provisions of clause (c) or clause (d) or clause (h) or clause (i) or clause (k) or clause (l) 1*** or clause (r) or clause (s) of section 14 or clause (b) or clause (c) or clause (h) of section 15, he shall be liable to a penalty which shall not exceed 2[ten lakh rupees] for each such failure and, in the case of continuing failure, with an additional penalty which may extend to 3[ten thousand rupees] for every day during which such failure continues:",
+                        "1": "Provided that no person shall be liable to pay penalty within five years from the date of commencement of this Act.",
+                        "2": "4[(1A) If any person fails to comply with the provisions of clause (n) of section 14, he shall be liable to a penalty which shall not exceed ten lakh rupees and, in the case of continuing failure, with an additional penalty which shall not be less than the price of every metric ton of oil equivalent of energy, prescribed under this Act, that is in excess of the prescribed norms.]",
+                        "3": "(2) Any amount payable under this section, if not paid, may be recovered as if it were an arrear of land revenue."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Power to adjudicate.",
+                    "paragraphs": {
+                        "0": "(1) For the purpose of adjudging under section 26, the State Commission shall appoint any of its members to be an adjudicating officer for holding an inquiry in such manner as may be prescribed by the Central Government, after giving any person concerned a reasonable opportunity of being heard for the purpose of imposing any penalty.",
+                        "1": "(2) While holding an inquiry, the adjudicating officer shall have power to summon and enforce the attendance of any person acquainted with the facts and circumstances of the case to give evidence or produce any document which in the opinion of the adjudicating officer, may be useful for or relevant to the subject-matter of the inquiry, and if, on such inquiry, he is satisfied that the person has failed to comply with the provisions of any of the clauses of the sections specified in section 26, he may impose such penalty as he thinks fit in accordance with the provisions of any of those clauses of that section:",
+                        "2": "Provided that where a State Commission has not been established in a State, the Government of that State shall appoint any of its officer not below the rank equivalent to a Secretary dealing with legal affairs in that State to be an adjudicating officer for the purposes of this section and such officer shall cease to be an adjudicating officer immediately on the appointment of an adjudicating officer by the State Commission on its establishment in that State:",
+                        "3": "Provided further that where an adjudicating officer appointed by a State Government ceased to be an adjudicating officer, he shall transfer to the adjudicating officer appointed by the State Commission all matters being adjudicated by him and thereafter the adjudicating officer appointed by the State Commission shall adjudicate the penalties on such matters."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Factors to be taken into account by adjudicating officer.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "While adjudicating the quantum of penalty under section 26, the adjudicating officer shall have due regard to the following factors, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default;",
+                                "1": "(b) the repetitive nature of the default."
+                            }
+                        }
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Civil court not to have jurisdiction.",
+                    "paragraphs": {
+                        "0": "No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which an adjudicating officer appointed under this Act or the Appellate Tribunal is empowered by or under this Act to determine and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act."
+                    }
+                }
+            }
+        },
+        "8": {
+            "ID": "CHAPTER IX",
+            "Name": "APPELLATE TRIBUNAL FOR ENERGY CONSERVATION",
+            "Sections": {
+                "Section 30.": {
+                    "heading": "Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "The Appellate Tribunal established under section 110 of the Electricity Act, 2003 (36 of 2003) shall, without prejudice to the provisions of the Electricity Act, 2003, be the Appellate Tribunal for the purposes of this Act and hear appeals against the orders of the adjudicating officer or the Central Government or the State Government or any other authority under this Act.]"
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Appeal to Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) Any person aggrieved, by an order made by an adjudicating officer or the Central Government or the State Government or any other authority under this Act, may prefer an appeal to the Appellate Tribunal for Energy Conservation:",
+                        "1": "Provided that any person, appealing against the order of the adjudicating officer levying any penalty, shall, while filing the appeal, deposit the amount of such penalty:",
+                        "2": "Provided further that where in any particular case, the Appellate Tribunal is of the opinion that the deposit of such penalty would cause undue hardship to such person, the Appellate Tribunal may dispense with such deposit subject to such conditions as it may deem fit to impose so as to safeguard the realisation of penalty.",
+                        "3": "(2) Every appeal under sub-section (1) shall be filed within a period of forty-five days from the date on which a copy of the order made by the adjudicating officer or the Central Government or the State Government or any other authority is received by the aggrieved person and it shall be in such form, verified in such manner and be accompanied by such fee as may be prescribed:",
+                        "4": "Provided that the Appellate Tribunal may entertain an appeal after the expiry of the said period of forty-five days if it is satisfied that there was sufficient cause for not filing it within that period.",
+                        "5": "(3) On receipt of an appeal under sub-section (1), the Appellate Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or setting aside the order appealed against.",
+                        "6": "(4) The Appellate Tribunal shall send a copy of every order made by it to the parties to the appeal and to the concerned adjudicating officer or the Central Government or the State Government or any other authority.",
+                        "7": "(5) The appeal filed before the Appellate Tribunal under sub-section (1) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within one hundred and eighty days from the date of receipt of the appeal:",
+                        "8": "Provided that where an appeal could not be disposed of within the said period of one hundred and eighty days, the Appellate Tribunal shall record its reasons in writing for not disposing of the appeal within the said period.",
+                        "9": "(6) The Appellate Tribunal may, for the purpose of examining the legality, propriety or correctness of any order made by the adjudicating officer or the Central Government or the State Government or any other authority under this Act, as the case may be, in relation to any proceeding, on its own motion or otherwise, call for the records of such proceedings and make such order in the case as it thinks fit."
+                    }
+                },
+                "Section 31A.": {
+                    "heading": "Procedure and powers of Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "The provisions of sections 120 to 123 (both inclusive) of the Electricity Act, 2003 (36 of 2003) shall, mutatis mutandis, apply to the Appellate Tribunal in the discharge of its functions under this Act as they apply to it in the discharge of its function under the Electricity Act, 2003.]"
+                    }
+                },
+                "Section 32.": {
+                    "heading": "to 43. [Omitted.].",
+                    "paragraphs": {
+                        "0": "Composition of Appellate Tribunal. [Omitted by the Energy Conservation (Amendment) Act, 2010 (28 of 2010), s.11 (w.e.f. 24-8-2010)].",
+                        "1": "33. Qualifications for appointment of Chairperson and Members of Appellate Tribunal. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "2": "34. Term of office. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "3": "35. Terms and conditions of service. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "4": "36. Vacancies. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "5": "37. Resignation and removal. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "6": "38. Member to act as Chairperson in certain circumstances. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "7": "39. Staff of Appellate Tribunal. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "8": "40. Procedure and powers of Appellate Tribunal. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "9": "41. Distribution of business amongst Benches. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "10": "42. Power of Chairperson to transfer cases. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)].",
+                        "11": "43. Decision to be by majority. [Omitted by s.11, ibid. (w.e.f. 24-8-2010)]."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Right of appellant to take assistance of legal practitioner or accredited auditor and of Government to appoint presenting officers.",
+                    "paragraphs": {
+                        "0": "(1) A person preferring an appeal to the Appellate Tribunal under this Act may either appear in person or take the assistance of a legal practitioner or an accredited energy auditor of his choice to present his case before the Appellate Tribunal, as the case may be.",
+                        "1": "(2) The Central Government or the State Government may authorise one or more legal practitioners or any of its officers to act as presenting officers and every person so authorised may present the case with respect to any appeal before the Appellate Tribunal, as the case may be."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Appeal to Supreme Court.",
+                    "paragraphs": {
+                        "0": "Any person aggrieved by any decision or order of the Appellate Tribunal, may, file an appeal to the Supreme Court within sixty days from the date of communication of the decision or order of the Appellate Tribunal to him, on any one or more of the grounds specified in section 100 of the Code of Civil Procedure, 1908 (5 of 1908):",
+                        "1": "Provided that the Supreme Court may, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the said period, allow it to be filed within a further period not exceeding sixty days."
+                    }
+                }
+            }
+        },
+        "9": {
+            "ID": "CHAPTER X",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 46.": {
+                    "heading": "Power of Central Government to issue directions to Bureau.",
+                    "paragraphs": {
+                        "0": "(1) Without prejudice to the foregoing provisions of this Act, the Bureau shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directions on questions of policy as the Central Government may give in writing to it from time to time:",
+                        "1": "Provided that the Bureau shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.",
+                        "2": "(2) The decision of the Central Government, whether a question is one of policy or not, shall be final."
+                    }
+                },
+                "Section 47.": {
+                    "heading": "Power of Central Government to supersede Bureau.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) If at any time the Central Government is of opinion\u2014",
+                            "contains": {
+                                "0": "(a) that on account of grave emergency, the Bureau is unable to discharge the functions and duties imposed on it by or under the provisions of this Act; or",
+                                "1": "(b) that the Bureau has persistently made default in complying with any direction issued by the Central Government under this Act or in discharge of the functions and duties imposed on it by or under the provisions of this Act and as a result of such default, the financial position of the Bureau had deteriorated or the administration of the Bureau had deteriorated; or",
+                                "2": "(c) that circumstances exist which render it necessary in the public interest so to do, the Central Government may, by notification, supersede the Bureau for such period, not exceeding six months, as may be specified in the notification."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) Upon the publication of a notification under sub-section (1) superseding the Bureau,\u2014",
+                            "contains": {
+                                "0": "(a) all the members referred to in clauses (o), (p) and (q) of sub-section (2) of section 4 shall, as from the date of supersession, vacate their offices as such;",
+                                "1": "(b) all the powers, functions and duties which may, by or under the provisions of this Act, be exercised or discharged by or on behalf of the Bureau, shall until the Bureau is reconstituted under sub-section (3), be exercised and discharged by such person or persons as the Central Government may direct; and",
+                                "2": "(c) all property owned or controlled by the Bureau shall, until the Bureau is reconstituted under sub-section (3), vest in the Central Government."
+                            }
+                        },
+                        "2": "(3) On the expiration of the period of supersession specified in the notification issued under sub-section (1), the Central Government may reconstitute the Bureau by a fresh appointment and in such case any person or persons who vacated their offices under clause (a) of sub-section (2), shall not be deemed disqualified for appointment:",
+                        "3": "Provided that the Central Government may, at any time, before the expiration of the period of supersession, take action under this sub-section.",
+                        "4": "(4) The Central Government shall cause a notification issued under sub-section (1) and a full report of any action taken under this section and the circumstances leading to such action to be laid before each House of Parliament at the earliest."
+                    }
+                },
+                "Section 48.": {
+                    "heading": "Default by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where a company makes a default in complying with the provisions of clause (c) or clause (d) or clause (h) or clause (i) or clause (k) or clause (l) or clause (n) or clause (r) or clause (s) of section 14 or clause (b) or clause (c) or clause (h) of section 15, every person who at the time of such contravention was in charge of, and was responsible to the company for the conduct of the business of the company, as well as the company, shall be deemed to have acted in contravention of the said provisions and shall be liable to be proceeded against and imposed penalty under section 26 accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable for penalty provided in this Act if he proves that the contravention of the aforesaid provisions was committed without his knowledge or that he exercised all due diligence to prevent the contravention of the aforesaid provision.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where any contravention of the provisions of clause (c) or clause (d) or clause (h) or clause (i) or clause (k) or clause (l) or clause (n) or clause (r) or clause (s) of section 14 or clause (b) or clause (c) or clause (h) of section 15 has been committed with the consent or connivance of, or is attributable to, any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to have contravened the said provisions and shall be liable to be proceeded for imposition of penalty accordingly.",
+                        "3": "Explanation.\u2014For the purposes of this section, \u201ccompany\u201d means a body corporate and includes a firm or other association of individuals."
+                    }
+                },
+                "Section 49.": {
+                    "heading": "Exemption from tax on income.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in the Income-tax Act, 1961 (43 of 1961) or any other enactment for the time being in force relating to tax on income, profits or gains\u2014",
+                            "contains": {
+                                "0": "(a) the Bureau;",
+                                "1": "(b) the existing Energy Management Centre from the date of its constitution to the date of establishment of the Bureau,"
+                            }
+                        },
+                        "1": "shall not be liable to pay any income-tax or any tax in respect of their income, profits or gains derived."
+                    }
+                },
+                "Section 50.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against the Central Government or Director-General or Secretary or State Government or any officer of those Governments or State Commission or its members or any member or officer or other employee of the Bureau for anything which is in good faith done or intended to be done under this Act or the rules or regulations made thereunder."
+                    }
+                },
+                "Section 51.": {
+                    "heading": "Delegation.",
+                    "paragraphs": {
+                        "0": "The Bureau may, by general or special order in writing, delegate to any member, member of the committee, officer of the Bureau or any other person subject to such conditions, if any, as may be specified in the order, such of its powers and functions under this Act (except the powers under section 58) as it may deem necessary."
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Power to obtain information.",
+                    "paragraphs": {
+                        "0": "Every designated consumer or manufacturer of equipment or appliance specified under clause (b) of section 14 shall supply the Bureau with such information, and with such samples of any material or substance used in relation to any equipment or appliance, as the Bureau may require."
+                    }
+                },
+                "Section 53.": {
+                    "heading": "Power to exempt.",
+                    "paragraphs": {
+                        "0": "If the Central Government or the State Government is of the opinion that it is necessary or expedient so to do in the public interest, it may, by notification and subject to such conditions as may be specified in the notification, exempt any designated consumer or class of designated consumers from application of all or any of the provisions of this Act:",
+                        "1": "Provided that the Central Government or the State Government, as the case may be, shall not grant exemption to any designated consumer or class of designated consumers for a period exceeding five years:",
+                        "2": "Provided further that the Central Government or the State Government, as the case may be, shall consult the Bureau of Energy Efficiency before granting such exemption."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Chairperson, Members, officers and employees of the Appellate Tribunal, Members of State Commission, Director-General, Secretary, members, officers and employees of the Bureau to be public servants.",
+                    "paragraphs": {
+                        "0": "The 1*** members, Director-General, Secretary, officers and other employees of the Bureau shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 55.": {
+                    "heading": "Power of Central Government to issue directions.",
+                    "paragraphs": {
+                        "0": "The Central Government may give directions to a State Government or the Bureau as to carrying out into execution of this Act in the State."
+                    }
+                },
+                "Section 56.": {
+                    "heading": "Power of Central Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules for carrying out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) such number of persons to be appointed as members by the Central Government under clauses (o), (p) and (q) of sub-section (2) of section 4;",
+                                "1": "(b) the fee and allowances to be paid to the members under sub-section (5) of section 4;",
+                                "2": "(c) the salary and allowances payable to the Director-General and other terms and conditions of his service and other terms and conditions of service of the Secretary of the Bureau under sub-section (4) of section 9;",
+                                "3": "(d) the terms and conditions of service of officers and other employees of the Bureau under sub-section (2) of section 10;",
+                                "4": "(e) performing such other functions by the Bureau, as may be prescribed, under clause (u) of sub-section (2) of section 13;",
+                                "5": "(f) the energy consumption norms and standards for designated consumers under clause (g) of section 14;",
+                                "6": "(g) prescribing the different norms and standards for different designated consumers under the proviso to clause (g) of section 14;",
+                                "7": "(h) the form and manner and the time within which information with regard to energy consumed and the action taken on the recommendations of the accredited energy auditor be furnished under clause (k) of section 14;",
+                                "8": "(i) the form and manner in which the status of energy consumption be submitted under clause (i) of section 14;",
+                                "9": "(j) the minimum qualifications for 1[energy auditors and energy managers] under clause (m) of section 14;",
+                                "10": "(k) the form and manner for preparation of scheme and its implementation under clause (o) of section 14;",
+                                "11": "(l) the energy conservation building codes under clause (p) of section 14;",
+                                "12": "2[(la) prescribing the procedure for issuing the energy savings certificate under sub-section (1) of section 14A;",
+                                "13": "(laa) the value of per metric ton of oil equivalent of energy consumed under section 14B;]",
+                                "14": "(m) the matters relating to inspection under sub-section (2) of section 17;",
+                                "15": "(n) the form in which, and the time at which, the Bureau shall prepare its budget under section 22;",
+                                "16": "(o) the form in which, and the time at which, the Bureau shall prepare its annual report under section 23;",
+                                "17": "(p) the form in which the accounts of the Bureau shall be maintained under section 25;",
+                                "18": "(q) the manner of holding inquiry under sub-section (1) of section 27;",
+                                "19": "(r) the form and fee for filing appeal under sub-section (2) of section 31;",
+                                "20": "3* * * * *",
+                                "21": "(v) any other matter which is to be, or may be, prescribed, or in respect of which provision is to be made, or may be made, by rules."
+                            }
+                        }
+                    }
+                },
+                "Section 57.": {
+                    "heading": "Power of State Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may, by notification, make rules for carrying out the provisions of this Act and not inconsistent with the rules, if any, made by the Central Government.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) energy conservation building codes under clause (a) of section 15;",
+                                "1": "(b) the form, the manner and the period within which information with regard to energy consumption shall be furnished under clause (h) of section 15;",
+                                "2": "(c) the person or any authority who shall administer the Fund and the manner in which the Fund shall be administered under sub-section (4) of section 16;",
+                                "3": "(d) the matters to be included for the purposes of inspection under sub-section (2) of section 17;",
+                                "4": "(e) any other matter which is to be, or may be, prescribed, or in respect of which provision is to be made, or may be made, by rules."
+                            }
+                        }
+                    }
+                },
+                "Section 58.": {
+                    "heading": "Power of Bureau to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The Bureau may, with the previous approval of the Central Government and subject to the condition of previous publication, by notification, make regulations not inconsistent with the provisions of this Act and the rules made thereunder to carry out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the times and places of the meetings of the Governing Council and the procedure to be followed at such meetings under sub-section (1) of section 5;",
+                                "1": "(b) the members of advisory committees constituted under sub-section (2) of section 8;",
+                                "2": "(c) the powers and duties that may be exercised and discharged by the Director-General of the Bureau under sub-section (6) of section 9;",
+                                "3": "(d) the levy of fee for services provided for promoting efficient use of energy and its conservation under clause (n) of sub-section (2) of section 13;",
+                                "4": "(e) the list of accredited energy auditors under clause (o) of sub-section (2) of section 13;",
+                                "5": "1[(f) the qualifications, criteria and conditions subject to which a person may be accredited as an energy auditor and the procedure for such accreditation under clause (p) of sub-section (2) of section 13;]",
+                                "6": "(g) the manner and the intervals of time in which the energy audit shall be conducted under clause (q) of sub-section (2) of section 13;",
+                                "7": "(h) certification procedure for 2[energy auditors and energy managers] under clause (r) of sub-section (2) of section 13;",
+                                "8": "(i) particulars required to be displayed on label and the manner of their display under clause (d) of section 14;",
+                                "9": "(j) the manner and the intervals of time for conduct of energy audit under clause (h) or clause (s) of section 14;",
+                                "10": "(k) the manner and the intervals of time for conducting energy audit by an accredited energy auditor under clause (c) of section 15;",
+                                "11": "(l) any other matter which is required to be, or may be, specified."
+                            }
+                        }
+                    }
+                },
+                "Section 59.": {
+                    "heading": "Rules and regulations to be laid before Parliament and State Legislature.",
+                    "paragraphs": {
+                        "0": "(1) Every rule made by the Central Government and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation.",
+                        "1": "(2) Every rule made by the State Government shall be laid, as soon as may be after it is made, before each House of the State Legislature where it consists of two Houses, or where such Legislature consists of one House, before that House."
+                    }
+                },
+                "Section 60.": {
+                    "heading": "Application of other laws not barred.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall be in addition to, and not in derogation of, the provisions of any other law for the time being in force."
+                    }
+                },
+                "Section 61.": {
+                    "heading": "Provisions of Act not to apply in certain cases.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall not apply to the Ministry or Department of the Central Government dealing with Defence, Atomic Energy or such other similar Ministries or Departments or undertakings or Boards or institutions under the control of such Ministries or Departments as may be notified by the Central Government."
+                    }
+                },
+                "Section 62.": {
+                    "heading": "Power to remove difficulty.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty:",
+                        "1": "Provided that no such order shall be made under this section after the expiry of two years from the date of the commencement of this Act.",
+                        "2": "(2) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "[See section 2(s)]"
+                }
+            },
+            "1": "LIST OF ENERGY INTENSIVE INDUSTRIES AND OTHER ESTABLISHMENTS 1***",
+            "2": "1. Aluminium;",
+            "3": "2. Fertilizers;",
+            "4": "3. Iron and Steel;",
+            "5": "4. Cement;",
+            "6": "5. Pulp and paper;",
+            "7": "6. Chlor Alkali;",
+            "8": "7. Sugar;",
+            "9": "8. Textile;",
+            "10": "9. Chemicals;",
+            "11": "10. Railways;",
+            "12": "11. Port Trust;",
+            "13": "12. Transport Sector (industries and services);",
+            "14": "13. Petrochemical, Gas Crackers, Naphtha Crackers and Petroleum Refineries;",
+            "15": "14. Thermal power stations, hydel power stations, electricity transmission companies and distribution companies;",
+            "16": "15. Commercial buildings or establishments."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 34 of 2019, s. 95 and the Fifth Schedule(w.e.f. 31-10- 2019).",
+            "1": "2. 28th June, 2012 (sections 31, 33, 44, 45), vide notification No. S. O. 1433(E), dated 28th June, 2012, see Gazette of India,Extraordinary, Part II, sec. 3(ii).",
+            "2": "3. Subs. by Act 28 of 2010 s. 2, for \u201can auditor possessing qualifications specified under\u201d (w.e.f. 24-8-2010).",
+            "3": "4. Subs. by s. 2, ibid., for \u201cestablished under section 30\u201d (w.e.f. 24-8-2010).",
+            "4": "5. Subs. by s. 2, ibid., for clause (c) (w.e.f. 24-8-2010)."
+        },
+        "Page 4": {
+            "0": "1. Ins. by Act of 28 of 2010, s. 2 (w.e.f. 24-8-2010)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 28 of 2010 s. 3, for \u201cthree years\u201d (w.e.f. 24-8-2010).",
+            "1": "2. Subs. by s. 4, ibid., for \u201cThe Central Government\u201d (w.e.f. 24-8-2010)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act of 28 of 2010, s. 5 (w.e.f. 24-8-2010).",
+            "1": "2. Subs. by s. 5, ibid., for clause (p) (w.e.f. 24-8-2010).",
+            "2": "3. Subs. by s. 5, ibid., for \u201cenergy managers\u201d (w.e.f. 24-8-2010)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 28 of 2010, s. 6, for the proviso (w.e.f. 24-8-2010).",
+            "1": "2. Subs. by s. 6, ibid., for \u201cany user or class of users of energy as a designated consumer\u201d (w.e.f. 24-8-2010)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 28 of 2010, s. 6, for \u201cenergy managers\u201d (w.e.f. 24-8-2010).",
+            "1": "2. Subs. by s. 6, ibid., for \u201csuch form and manner\u201d (w.e.f. 24-8-2010).",
+            "2": "3. Ins. by s. 7, ibid. (w.e.f. 24-8-2010)."
+        },
+        "Page 13": {
+            "0": "1. The words, brackets and letter \u201cor clause (n)\u201d omitted by Act of 28 of 2010, s. 8 (w.e.f. 24-8-2010).",
+            "1": "2. Subs. by s. 8, ibid., for \u201cten thousand rupees\u201d (w.e.f. 24-8-2010).",
+            "2": "3. Subs. by s. 8, ibid., for \u201cone thousand rupees\u201d (w.e.f. 24-8-2010).",
+            "3": "4. Ins. by s. 8, ibid. (w.e.f. 24-8-2010)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 28 of 2010, s. 9, for section 30 (w.e.f. 24-8-2010)."
+        },
+        "Page 15": {
+            "0": "1. Ins. by Act 28 of 2010, s. 10 (w.e.f. 24-8-2010)."
+        },
+        "Page 17": {
+            "0": "1. Certain words omitted by Act of 28 of 2010, s. 12 (w.e.f. 24-8-2010)."
+        },
+        "Page 18": {
+            "0": "1. Subs. by Act 28 of 2010, s. 13, for \u201cenergy managers\u201d (w.e.f. 24-8-2010).",
+            "1": "2. Ins. by s. 13, ibid. (w.e.f. 24-8-2010).",
+            "2": "3. Cls. (s), (t) and (u) omitted by s. 13, ibid. (w.e.f. 24-8-2010)."
+        },
+        "Page 19": {
+            "0": "1. Subs. by Act 28 of 2010, s. 14, for clause (f) (w.e.f. 24-8-2010).",
+            "1": "2. Subs. by s. 14, ibid., for \u201cenergy managers\u201d (w.e.f. 24-8-2010)."
+        },
+        "Page 21": {
+            "0": "1. The words \u201cspecified as designated consumers\u201d omitted by Act of 28 of 2010, s. 15 (w.e.f. 24-8-2010)."
+        }
+    }
+}

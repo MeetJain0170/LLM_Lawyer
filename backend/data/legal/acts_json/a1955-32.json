@@ -1,0 +1,180 @@
+{
+    "Act Title": "THE PRISONERS (ATTENDANCE IN COURTS) ACT, 1955",
+    "Act ID": "ACT NO. 32 OF 1955",
+    "Enactment Date": "[20th September, 1955.]",
+    "Act Definition": {
+        "0": "An Act to provide for the attendance in courts of persons confined in prisons for obtaining their evidence or for answering a criminal charge."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title, extent and commencement.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Prisoners (Attendance in Courts) Act, 1955.",
+                "1": "(2) It extends to the whole of India except the State of Jammu and Kashmir*.",
+                "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act,\u2014",
+                    "contains": {
+                        "0": "(a) \u201cconfinement in a prison\u201d\u2014references to confinement in a prison, by whatever form of words, include references to confinement or detention in a prison under any law providing for preventive detention;",
+                        "1": {
+                            "text": "(b) \u201cprison\u201d includes\u2014",
+                            "contains": {
+                                "0": "(i) any place which has been declared by the State Government, by general or special order, to be a subsidiary jail; and",
+                                "1": "(ii) any reformatory, Borstal institution or other institution of a like nature;"
+                            }
+                        },
+                        "2": "2[(c) \u201cState Government\u201d, in relation to a Union territory, means the Administrator thereof.]"
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Power of courts to require appearance of prisoners to give evidence or answer a charge.",
+            "paragraphs": {
+                "0": "(1) Any civil or criminal court may, if it thinks that the evidence of any person confined in any prison is material in any matter pending before it, make an order in the form set forth in the First Schedule, directed to the officer in charge of the prison:",
+                "1": "Provided that no civil court shall make an order under this sub-section in respect of a person confined in a prison situated outside the State in which the court is held.",
+                "2": "(2) Any criminal court may, if a charge of an offence against a person confined in any prison is made or pending before it, make an order in the form set forth in the Second Schedule, directed to the officer in charge of the prison.",
+                "3": "(3) No order made under this section by a civil court which is subordinate to a district judge shall have effect unless it is countersigned by the district judge; and no order made under this section by a criminal court which is inferior to the court of a magistrate of the first class shall have effect unless it is countersigned by the district magistrate to whom that court is subordinate or within the local limits of whose jurisdiction that court is situate.",
+                "4": "(4) For the purposes of sub-section (3), a court of small causes outside a presidency town or the city of Hyderabad shall be deemed to be subordinate to the district judge within the local limits of whose jurisdiction such court is situate."
+            }
+        },
+        "Section 4.": {
+            "heading": "Power of State Government to exempt certain persons from operation of section 3.",
+            "paragraphs": {
+                "0": "(1) The State Government may, having regard to the matters specified in sub-section (2), by general or special order, direct that any person or class of persons shall not be removed from the prison in which he or they may be confined, and thereupon so long as any such order remains in force, the provisions of section 3 shall not apply to such person or class of persons.",
+                "1": {
+                    "text": "(2) Before making an order under sub-section (1), the State Government shall have regard to the following matters, namely:\u2014",
+                    "contains": {
+                        "0": "(a) the nature of the offence for which or the grounds on which the confinement has been ordered in respect of the person or class of persons;",
+                        "1": "(b) the likelihood of the disturbance of public order if the person or class of persons is allowed to be removed from the prison;",
+                        "2": "(c) the public interest, generally."
+                    }
+                }
+            }
+        },
+        "Section 5.": {
+            "heading": "Prisoners to be brought up.",
+            "paragraphs": {
+                "0": "Upon delivery of any order made under section 3 to the officer in charge of the prison in which the person named therein is confined, that officer shall cause him to be taken to the court in which his attendance is required, so as to be present in the court at the time of such order mentioned, and shall cause him to be detained in custody in or near the court until he has been examined or until the judge or presiding officer of the court authorises him to be taken back to the prison in which he was confined."
+            }
+        },
+        "Section 6.": {
+            "heading": "Officer in charge of prison when to abstain from carrying out order.",
+            "paragraphs": {
+                "0": {
+                    "text": "Where the person in respect of whom an order is made under section 3\u2014",
+                    "contains": {
+                        "0": "(a) is, in accordance with the rules made in this behalf, declared to be unfit to be removed from the prison where he is confined by reason of sickness or other infirmity; or",
+                        "1": "(b) is under committal for trial; or",
+                        "2": "(c) is under remand pending trial or pending a preliminary investigation; or",
+                        "3": "(d) is in custody for a period which would expire before the expiration of the time required for removing him under this Act and for taking him back to the prison in which he is confined,"
+                    }
+                },
+                "1": {
+                    "text": "the officer in charge of the prison shall abstain from carrying out the order and shall send to the court from which the order had been issued a statement of reasons for so abstaining:",
+                    "contains": {
+                        "0": {
+                            "text": "Provided that such officer as aforesaid shall not so obstain where\u2014",
+                            "contains": {
+                                "0": "(i) the order has been made by a criminal court; and",
+                                "1": "(ii) the person named in the order is confined under committal for trial or under remand pending trial or pending a preliminary investigation and is not declared in accordance with the rules made in this behalf to be unfit to be removed from the prison where he is confined by reason of sickness or other infirmity; and",
+                                "2": "(iii) the place, where the evidence of the person named in the order is required, is not more than five miles distant from the prison in which he is confined."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Section 7.": {
+            "heading": "Commissions for examination of prisoners.",
+            "paragraphs": {
+                "0": {
+                    "text": "In any of the following cases, that is to say,\u2014",
+                    "contains": {
+                        "0": "(a) where it appears to any civil court that the evidence of a person confined in a prison is material in any matter pending before it and that the attendance of such person in court cannot be secured by reason of the provisions of section 6 or of an order under section 4 or of the district judge declining under sub-section (3) of section 3 to counter sign an order for removal; or",
+                        "1": "(b) where it appears to any civil court as aforesaid that the evidence of a person confined in a prison which is situated outside the State in which, or is more than fifty miles distant from the place at which, such court is held is material in any such matter,"
+                    }
+                },
+                "1": "the court may, if it thinks fit, issue a commission under the provisions of the Code of Civil Procedure, 1908 (5 of 1908), for the examination of the person in the prison in which he is confined."
+            }
+        },
+        "Section 8.": {
+            "heading": "Certain provisions of the Code of Criminal Procedure and the Code of Civil Procedure to apply.",
+            "paragraphs": {
+                "0": "Save as otherwise provided in this Act and any rules made thereunder, the provisions of the Code of Civil Procedure, 1908 (5 of 1908), and the Code of Criminal Procedure, 1898 (5 of 1898), as the case may be, shall, so far as may be, apply in relation to the examination on commission or otherwise of any person confined in a prison as they apply in relation to the examination on commission of any other person."
+            }
+        },
+        "Section 9.": {
+            "heading": "Power to make rules.",
+            "paragraphs": {
+                "0": "(1) The State Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.",
+                "1": {
+                    "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for\u2014",
+                    "contains": {
+                        "0": "(a) the procedure for obtaining the countersignature of an order made under section 3;",
+                        "1": "(b) the authority by whom and the manner in which a declaration that a person confined in prison is unfit to be removed therefrom, may be made;",
+                        "2": "(c) the conditions, including payment of costs and charges, subject to which an order made under section 3 by a civil court may be executed;",
+                        "3": "(d) the manner in which a process directed against any person confined in a prison issued from any court may be served upon him;",
+                        "4": "(e) the escort of persons confined in a prison to and from courts in which their attendance is required and for their custody during the period of such attendance;",
+                        "5": "(f) the amount to be allowed for the costs and charges of such escort; and",
+                        "6": "(g) the guidance of officers in all other matters connected with the enforcement of this Act."
+                    }
+                }
+            }
+        },
+        "Section 10.": {
+            "heading": "Repeal.",
+            "paragraphs": {
+                "0": "(1) Part IX of the Prisoners Act, 1900 (3 of 1900) and the First and Second Schedules to the said Act are hereby repealed.",
+                "1": "(2) If immediately before the commencement of this Act, there is in force in any Part B State to which this Act extends any law corresponding to the provisions of this Act, that law shall, in so far as it relates to matters dealt within this Act, stand repealed on such commencement:",
+                "2": "Provided that anything done or any action taken under any such law, shall be deemed to have been done or taken under the corresponding provisions of this Act and shall continue to have effect accordingly, unless and until superseded by anything done or any action taken under this Act."
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": "THE FIRST SCHEDULE",
+            "1": "[See sub-section (1) of section 3]",
+            "2": "Court of",
+            "3": "To the officer in charge of the \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. (State name of prison).",
+            "4": "You are hereby required to produce , now confined in , under safe and sure conduct before the Court of at",
+            "5": "on the day of next by of the clock in the forenoon of the same day, there to give evidence in a matter now pending before the said Court, and after the said has then and there given his evidence before the said Court or the said Court has dispensed with his further attendance, cause him to be conveyed under safe and sure conduct back to the prison.",
+            "6": {
+                "text": "The day of",
+                "contains": {
+                    "0": "A. B.",
+                    "1": "(Countersigned) C.D."
+                }
+            }
+        },
+        "THE SECOND SCHEDULE": {
+            "0": "THE SECOND SCHEDULE",
+            "1": "[See sub-section (2) of section 3]",
+            "2": "Court of",
+            "3": "To the officer in charge of the \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. (State name of prison).",
+            "4": "You are hereby required to produce , now confined in , under safe and sure conduct before the Court of at on the",
+            "5": "day of next by of the clock in the forenoon of the same day, there to answer a charge now pending before the said Court, and after such charge has been disposed of or the said Court has dispensed with his further attendance, cause him to be conveyed under safe and sure conduct back to the said prison.",
+            "6": {
+                "text": "The day of",
+                "contains": {
+                    "0": "A. B.",
+                    "1": "(Countersigned) C.D."
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. 1st January, 1956, vide notification No. S.R.O. 3447, dated 8th November, 1955, see Gazette of India, Extraordinary,Part II, sec. 3.",
+            "1": "2. Subs. by Adaptation of Laws (No. 3) Order, 1956, for clause (c) (w.e.f. 1-11-56).*. Vide notification No. S.O. 3912(E), dated 30th October, 2019, this Act is made applicable to the Union territory of Jammu andKashmir and the Union territory of Ladakh."
+        }
+    }
+}

@@ -1,0 +1,325 @@
+{
+    "Act Title": "THE SEAMEN\u2019S PROVIDENT FUND ACT, 1966",
+    "Act ID": "ACT NO. 4 OF 1966",
+    "Enactment Date": "[26th March, 1966.]",
+    "Act Definition": {
+        "0": "An Act to provide for the institution of a provident fund for seamen."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and application.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Seamen\u2019s Provident Fund Act, 1966.",
+                "1": "(2) Unless otherwise expressly provided, the provisions of this Act shall apply to every seaman and to the employer of such seaman."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless the context otherwise requires,\u2014",
+                    "contains": {
+                        "0": "(a) \u201cagreement with the crew\u201d means the agreement referred to in section 100 or, as the case may be, section 114 of the Merchant Shipping Act;",
+                        "1": "(b) \u201cBoard\u201d means the Board of Trustees of the Seamen\u2019s Provident Fund constituted under section 5;",
+                        "2": "(c) \u201ccontinuous discharge certificate\u201d means the certificate referred to in section 99 of the Merchant Shipping Act;",
+                        "3": "(d) \u201ccontribution\u201d means a contribution payable in respect of a member under the Scheme;",
+                        "4": "(e) \u201cemployer\u201d, in relation to a seaman, means the owner of the ship on which the seaman is employed or engaged, or the agent of such owner or the master of the ship;",
+                        "5": "(f) \u201cFund\u201d means the Seamen\u2019s Provident Fund established under the Scheme;",
+                        "6": "(g) \u201cGovernment\u201d means the Central Government;",
+                        "7": "(h) \u201cmaster\u201d and \u201cship\u201d have the meanings respectively assigned to them in the Merchant Shipping Act;",
+                        "8": "(i) \u201cmember\u201d means a seaman who is in possession of a continuous discharge certificate and who is admitted as a member of the Fund;",
+                        "9": "(j) \u201cMerchant Shipping Act\u201d means the Merchant Shipping Act, 1958 (44 of 1958);",
+                        "10": "(k) \u201cScheme\u201d means the Seamen\u2019s Provident Fund Scheme framed under sub-section (1) of section 3;",
+                        "11": "(l) \u201cseaman\u201d means a person employed or engaged as a member of the crew of a ship under the Merchant Shipping Act but does not include 1[a welfare officer, nurse, musician, pilot or deck barber];",
+                        "12": "(m) \u201cservice\u201d means the period of employment of a seaman under the agreement with the crew and includes any period in respect of which wages are paid or are payable to him;",
+                        "13": {
+                            "text": "(n) \u201cwages\u201d means the basic wages for the time being payable to a seaman under the agreement with the crew and includes\u2014",
+                            "contains": {
+                                "0": "(i) any remuneration to which he is entitled in respect of holidays or any leave period;",
+                                "1": "(ii) any increase of such wages in accordance with such agreement or any other agreement between the parties;"
+                            }
+                        }
+                    }
+                },
+                "1": "but does not include the overtime allowance."
+            }
+        },
+        "Section 3.": {
+            "heading": "Seamen\u2019s Provident Fund Scheme.",
+            "paragraphs": {
+                "0": "(1) The Government may, by notification in the Official Gazette, frame a scheme to be called the Seamen\u2019s Provident Fund Scheme for the establishment of a provident fund for seamen and there shall be established, as soon as may be after the framing of the Scheme, a Fund in accordance with the provisions of this Act and the Scheme.",
+                "1": "(2) Subject to the provisions of this Act, the Scheme may provide for all or any of the matters specified in the Schedule to this Act.",
+                "2": "(3) The Scheme may provide that any of its provisions shall take effect either prospectively or retrospectively on such date as may be specified in this behalf in the Scheme.",
+                "3": "(4) The Scheme shall have effect notwithstanding anything contained in any law for the time being in force other than this Act or in any instrument having effect by virtue of any law other than this Act.",
+                "4": "(5) The Government may, by notification in the Official Gazette, add to, amend, vary or rescind the Scheme."
+            }
+        },
+        "Section 4.": {
+            "heading": "Vesting of Fund, etc.",
+            "paragraphs": {
+                "0": "(1) The Fund referred to in sub-section (1) of section 3 shall vest in, and be administered by, the Board constituted under section 5.",
+                "1": {
+                    "text": "(2) The moneys in the Fund shall be applied for\u2014",
+                    "contains": {
+                        "0": "(a) meeting the pay and allowances of the employees of the Board and other administrative expenses of the Board;",
+                        "1": "(b) carrying out the purposes of this Act."
+                    }
+                },
+                "2": "(3) All moneys in the Fund shall be deposited in 1[an approved bank] or be invested in such securities as may be approved by the Government.",
+                "3": "2[Explanation.\u2014In this section, \u201capproved bank\u201d means the State Bank of India constituted under section 3 of the State Bank of India Act, 1955 (23 of 1955), or a subsidiary bank as defined in clause (k) of section 2 of the State Bank of India (Subsidiary Banks) Act,1959 (38 of 1959), or a corresponding new bank constituted under section 3 of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970), or a corresponding new bank constituted under section 3 of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1980 (40 of 1980).]"
+            }
+        },
+        "Section 5.": {
+            "heading": "Constitution of Board of Trustees.",
+            "paragraphs": {
+                "0": "(1) The Government shall, by notification in the Official Gazette, constitute, with effect from such date as may be specified therein, a Board to be known as the Board of Trustees of the Seamen\u2019s Provident Fund which shall be a body corporate having perpetual succession and a common seal and may, by that name, sue and be sued.",
+                "1": "(2) The head office of the Board shall be in Bombay or at such other place as the Government may, by notification in the Official Gazette, specify.",
+                "2": {
+                    "text": "(3) The Board shall consist of\u2014",
+                    "contains": {
+                        "0": "(a) a Chairman to be appointed by the Government;",
+                        "1": "(b) not more than three persons appointed by the Government from amongst its officials;",
+                        "2": "(c) three persons representing employers, to be appointed by the Government after consultation with such organisation or organisations of employers as may be recognised by the Government in this behalf;",
+                        "3": "(d) three persons representing seamen, to be appointed by the Government after consultation with such organisation or organisations of seamen as may be recognised by the Government in this behalf."
+                    }
+                },
+                "3": "(4) The terms and conditions subject to which a member of the Board may be appointed and the time, place and procedure of the meetings of the Board, including the quorum, shall be such as may be provided for in the Scheme.",
+                "4": "(5) The Board shall administer the Fund vested in it in such manner as may be specified in the Scheme.",
+                "5": "(6) The Board shall perform such other functions as it may be required to perform by or under any provision of the Scheme."
+            }
+        },
+        "Section 6.": {
+            "heading": "Committees.",
+            "paragraphs": {
+                "0": "(1) The Board may, from time to time, constitute one or more committee or committees for exercising any power or discharging any duty of the Board or for inquiring into, or reporting and advising on, any matter which the Board may refer to such committee or committees.",
+                "1": "(2) A committee may include persons who are not members of the Board but their number shall not exceed one-half of its strength."
+            }
+        },
+        "Section 7.": {
+            "heading": "Appointment of employees of Board.",
+            "paragraphs": {
+                "0": "(1) The Government shall appoint a Seamen\u2019s Provident Fund Commissioner who shall be the chief executive officer of the Board and shall be subject to the general control and superintendence of the Board.",
+                "1": "(2) The Government may also appoint as many Deputy Seamen\u2019s Provident Fund Commissioners 1***, as it may consider necessary, to assist the Seamen\u2019s Provident Fund Commissioner in the discharge of his duties.",
+                "2": "(3) The Board may appoint such other officers and employees as it may consider necessary for the efficient administration of the Scheme.",
+                "3": "(4) No appointment to the post of the Seamen\u2019s Provident Fund Commissioner or Deputy Seamen\u2019s Provident Fund Commissioner 2*** shall be made except after consultation with the Union Public Service Commission:",
+                "4": {
+                    "text": "Provided that no such consultation shall be necessary in regard to any such appointment\u2014",
+                    "contains": {
+                        "0": "(a) for a period not exceeding one year; or",
+                        "1": {
+                            "text": "(b) if the person to be appointed is at the time of his appointment\u2014",
+                            "contains": {
+                                "0": "(i) a member of the Indian Administrative Service; or",
+                                "1": "(ii) in the service of the Government in a Class I or Class II post or in the service of the Board."
+                            }
+                        }
+                    }
+                },
+                "5": "(5) The method of recruitment, salary and allowances, discipline and other conditions of service of the Seamen's Provident Fund Commissioner and of the officers referred to in sub-section (2) shall be such as may be specified by the Government.",
+                "6": "(6) The method of recruitment, salary and allowances, discipline and other conditions of service of other officers and employees of the Board shall be such as may be specified by the Board with the approval of the Government.",
+                "7": "(7) All persons appointed under this section shall be the employees of the Board."
+            }
+        },
+        "Section 8.": {
+            "heading": "Contributions.",
+            "paragraphs": {
+                "0": "(1) Every employer to whom this Act applies shall, in respect of each seaman (being a member) employed by him, contribute to the Fund for the period beginning with the 1st day of July, 1964 and ending with the 31st day of March, 1968, at the rate of six per cent., 3[for the period beginning with the 1st day of April, 1968 and ending with the 31st day of December, 1977, at the rate of eight per cent. and thereafter at the rate of ten per cent. or such higher rate as may be specified in the Scheme] of the wages paid or payable to each such seaman and every such seaman shall also contribute to the Fund an amount equal to the contribution payable by the employer in respect of him:",
+                "1": "Provided that the amount of contribution aforesaid shall, in so far as it relates to the period prior to the commencement of the Scheme, be payable by the employer or, as the case may be, by the seaman only on such date (being a date not earlier than sixty days after the commencement of the Scheme) as the Government may, by notification in the Official Gazette, specify in this behalf.",
+                "2": "(2) The employer shall pay, in respect of each seaman (being a member) employed by him, both the employer\u2019s contribution and the employee\u2019s contribution and shall be entitled to recover from the seaman the employee\u2019s contribution by deduction from his wages and not otherwise.",
+                "3": "(3) Every employer shall also pay such sums of money as may be specified in the Scheme towards the cost of administering the Fund.",
+                "4": "(4) Where the amount of any contribution under sub-section (1) or any sum payable under sub-section (3) contains a part of a rupee, then, if such part if fifty paise or more, it shall be increased to one complete rupee and if such part is less than fifty paise it shall be ignored."
+            }
+        },
+        "Section 9.": {
+            "heading": "Determination of moneys due from employers.",
+            "paragraphs": {
+                "0": "(1) The Seamen\u2019s Provident Fund Commissioner or any Deputy Seamen\u2019s Provident Fund Commissioner may, by order, determine the amount due from any employer under any provision of this Act or of the Scheme and for this purpose may conduct such inquiry as he may deem necessary.",
+                "1": {
+                    "text": "(2) The officer conducting the inquiry under sub-section (1) shall, for the purposes of such inquiry, have the same powers as are vested in a court under the Code of Civil Procedure, 1908 (5 of 1908), for trying a suit in respect of the following matters, namely:\u2014",
+                    "contains": {
+                        "0": "(a) enforcing the attendance of any person or examining him on oath;",
+                        "1": "(b) requiring the discovery and production of documents;",
+                        "2": "(c) receiving evidence on affidavit;",
+                        "3": "(d) issuing commission for the examination of witnesses;"
+                    }
+                },
+                "2": {
+                    "text": "and any such inquiry shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purpose of section 196, of the Indian Penal Code (45 of 1860).",
+                    "contains": {
+                        "0": "(3) No order shall be made under this section unless the employer has been given a reasonable opportunity of representing his case.",
+                        "1": "(4) An order made under this section shall be final and shall not be questioned in any court of law."
+                    }
+                }
+            }
+        },
+        "Section 10.": {
+            "heading": "Mode of recovery of moneys due from employers.",
+            "paragraphs": {
+                "0": "Any amount due from an employer in respect of any contribution payable to the Fund, or damages recoverable under section 18 or any charges payable by him under any other provision of this Act or under any provision of the Scheme, may, if the amount is in arrear, be recovered by the Government in the same manner as an arrear of land revenue."
+            }
+        },
+        "Section 11.": {
+            "heading": "Fund deemed to be recognised Provident Fund under Act 43 of 1961.",
+            "paragraphs": {
+                "0": "For the purposes of the Income-tax Act, 1961, the Fund shall be deemed to be a recognised provident fund within the meaning of that Act."
+            }
+        },
+        "Section 12.": {
+            "heading": "Protection against attachment.",
+            "paragraphs": {
+                "0": "(1) The amount standing to the credit of any member in the Fund shall not in any way be capable of being assigned or charged and shall not be liable to attachment under any decree or order of any court in respect of any debt or liability incurred by the member, and neither the official assignee appointed under the Presidency Towns Insolvency Act, 1909 (3 of 1909), nor any receiver appointed under the Provincial Insolvency Act, 1920 (5 of 1920), shall be entitled to, or have any claim on, any such amount.",
+                "1": "(2) Any amount standing to the credit of any member in the Fund at the time of his death and payable under the Scheme to his nominee shall, subject to any deduction authorised by the Scheme, vest in the nominee and shall be free from any debt or other liability incurred by the deceased or the nominee before the death of the member."
+            }
+        },
+        "Section 13.": {
+            "heading": "Priority of payment of contributions over other debts.",
+            "paragraphs": {
+                "0": "Where any employer is adjudicated insolvent, or, being a company, an order for winding up is made, the amount due from the employer in respect of any contribution payable to the Fund, damages recoverable under section 18 or any charges payable by him under any other provision of this Act or under any provision of the Scheme shall, where the liability therefor has accrued before the order of adjudication or winding up is made, be deemed to be included among the debts which under section 49 of the Presidency Towns Insolvency Act, 1909 (3 of 1909), or under section 61 of the Provincial Insolvency Act, 1920 (5 of 1920), or under section 530 of the Companies Act, 1956 (1 of 1956), are to be paid in priority to all other debts in the distribution of the property of the insolvent or the assets of the company being wound up, as the case may be."
+            }
+        },
+        "Section 14.": {
+            "heading": "Employer not to reduce wages.",
+            "paragraphs": {
+                "0": "No employer shall, by reason only of his liability for the payment of any contribution to the Fund or any charges under this Act or the Scheme, reduce, whether directly or indirectly, the wages of any seaman to whom the Scheme applies or the total quantum of benefits in the nature of old age pension, gratuity or provident fund to which the seaman is entitled under the agreement with the crew or any other agreement between the parties."
+            }
+        },
+        "Section 15.": {
+            "heading": "Inspectors.",
+            "paragraphs": {
+                "0": "(1) The Government may, by notification in the Official Gazette, appoint such employees of the Board, as the Government thinks fit, to be Inspectors for the purposes of this Act and the Scheme, and may define their jurisdiction.",
+                "1": {
+                    "text": "(2) Every Inspector appointed under sub-section (1) may, for the purpose of inquiring into the correctness of any information furnished in connection with this Act or the Scheme or for the purpose of ascertaining whether any of the provisions of this Act or of the Scheme have been complied with\u2014",
+                    "contains": {
+                        "0": "(a) require an employer to furnish such information as he may consider necessary in relation to the Scheme;",
+                        "1": "(b) at any reasonable time and with such assistance, if any, as he may think fit, enter any office or board any ship, search the same and require any one found in charge thereof to produce before him for examination any accounts, books, registers and other documents in relation to the employment of seamen or the payment of wages to seamen;",
+                        "2": "(c) examine, with respect to any matter relevant to any of the purposes aforesaid, the employer, his agent or servant or any other person found in charge of the office or the ship or whom the Inspector has reasonable cause to believe to be, or to have been, an employee in the office or on the ship;",
+                        "3": "(d) make copies of, or take extracts from, any book, register or other document maintained in connection with the Fund and, where he has reason to believe that any offence under this Act has been committed by an employer, seize with such assistance as he may think fit such book, register or other document or portions thereof as he may consider relevant in respect of that offence;",
+                        "4": "(e) exercise such other powers as the Scheme may provide."
+                    }
+                },
+                "2": "1[(3) The provisions of the Code of Criminal Procedure, 1973 (2 of 1974) shall, as far as may be, apply to any search or seizure under sub-section (2) as they apply to any search or seizure made under the authority of a warrant issued under section 94 of the said Code.]",
+                "3": "(4) Every Inspector shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+            }
+        },
+        "Section 16.": {
+            "heading": "Penalties.",
+            "paragraphs": {
+                "0": "(1) Whoever, for the purpose of avoiding any payment to be made by himself under this Act or under the Scheme or of enabling any other person to avoid such payment, knowingly makes or causes to be made any false statement or false representation shall be punishable with imprisonment for a term which may extend to 2[one year, or with fine which may extend to fifty thousand rupees], or with both.",
+                "1": "(2) The Scheme may provide that any person who contravenes, or makes default in complying with any of the provisions thereof shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+                "2": "(3) Whoever contravenes or makes default in complying with any provision of this Act shall, if no other penalty is elsewhere provided by or under this Act for such contravention or non-compliance, be punishable with imprisonment which may extend to three months, or with fine which may extend to one thousand rupees, or with both.",
+                "3": "(4) No court shall take cognizance of any offence punishable under this Act or under the Scheme except on a report in writing of the facts constituting such offence made by the Seamen\u2019s Provident Fund Commissioner or by an Inspector appointed under sub-section (1) of section 15, with the previous sanction of such authority as may be specified in this behalf by the Government."
+            }
+        },
+        "Section 17.": {
+            "heading": "Offences by companies.",
+            "paragraphs": {
+                "0": "(1) If the person committing an offence under this Act or the Scheme is a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he exercised due diligence to prevent the commission of such offence.",
+                "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act or the Scheme has been committed by a company, and it is proved that the offence was committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                "3": "(3) Where any offence under this Act or the Scheme is committed by a company not registered in India and such a company has an agent in India which agent is also a company, then the provisions of this section shall apply to such agent as if the offence was committed by that agent.",
+                "4": {
+                    "text": "Explanation.\u2014For the purposes of this section\u2014",
+                    "contains": {
+                        "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm and other association of individuals; and",
+                        "1": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                    }
+                }
+            }
+        },
+        "Section 18.": {
+            "heading": "Power to recover damages.",
+            "paragraphs": {
+                "0": "Where any employer makes default in the payment of any contribution to the Fund or in the payment of any charges payable under any other provision of this Act or under the Scheme, the Government may recover from the employer such damages, not exceeding twenty-five per cent. of the amount of arrears, as it may think fit."
+            }
+        },
+        "Section 19.": {
+            "heading": "Transfer of account.",
+            "paragraphs": {
+                "0": "Where a seaman leaves the seafaring profession with no present intention of resuming that profession and obtains employment in any establishment to which the Employees\u2019 Provident Funds Act, 1952 (19 of 1952), applies, the amount standing to the credit of such seaman in the Fund shall be transferred, within such time as may be specified by the Board in this behalf, to the credit of his account in the provident fund of that establishment, if the seaman so desires and the rules in relation to that provident fund permit such transfer."
+            }
+        },
+        "Section 20.": {
+            "heading": "Power to exempt.",
+            "paragraphs": {
+                "0": "(1) The Board may, by order in writing, exempt any seaman to whom this Act applies and his employer from the operation of all or any of the provisions of this Act if, in the opinion of the Board, the seaman is in enjoyment of benefits in the nature of provident fund or pension and such benefits, separately or jointly are on the whole not less favourable to the seaman than the benefits provided by or under this Act.",
+                "1": "(2) Where an exemption has been granted under sub-section (1), the employer shall not at any time after the grant of the exemption, without the leave of the Board, reduce the total quantum of benefits in the nature of provident fund, pension or gratuity to which the seaman was entitled at the time of grant of such exemption.",
+                "2": "(3) Any exemption granted under this section may be cancelled by the Board, by order in writing, if the employer fails to comply with the requirements of sub-section (2):",
+                "3": "Provided that no such order shall be made unless the employer has been given a reasonable opportunity of showing cause against the proposed cancellation."
+            }
+        },
+        "Section 21.": {
+            "heading": "Protection for acts done in good faith.",
+            "paragraphs": {
+                "0": "No suit or other legal proceeding shall lie against the Government or the Board or any officer or employee thereof in respect of anything which is in good faith done or intended to be done under this Act or under the Scheme."
+            }
+        },
+        "Section 22.": {
+            "heading": "Delegation.",
+            "paragraphs": {
+                "0": "(1) The Government may, by order, direct that any power or duty which by this Act or by the Scheme is conferred or imposed upon the Government (other than the power to frame a scheme under section 3) shall, in such circumstances and under such conditions, if any, as may be specified in the direction, be exercised or discharged also by such officer or authority as may be so specified.",
+                "1": "(2) The Board may, with the prior approval of the Government, delegate to its Chairman or to any of its employees, subject to such conditions and limitations, if any, as it may specify, such of its functions under this Act as it may deem necessary for the efficient administration of the Scheme."
+            }
+        },
+        "Section 23.": {
+            "heading": "Power to remove difficulties.",
+            "paragraphs": {
+                "0": "If any difficulty arises in giving effect to the provisions of this Act, the Government may make such order or give such direction, not inconsistent with the provisions of this Act, as appears to it to be necessary or expedient for the removal of the difficulty, and any such order shall be final."
+            }
+        },
+        "Section 24.": {
+            "heading": "Scheme to be laid before Houses of Parliament.",
+            "paragraphs": {
+                "0": "Any Scheme framed under this Act shall be laid, as soon as may be after it is framed, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and, if before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in any provision of the Scheme or both Houses agree that any provision in the Scheme should not be made, that provision of the Scheme shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that provision."
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "[See section 3(2)]"
+                }
+            },
+            "1": "Matters for which provision may be made in the Scheme",
+            "2": "1. Seamen who shall join the Fund.",
+            "3": "2. The time and manner in which contributions shall be made to the Fund by employers and by, or on behalf of, seamen.",
+            "4": "3. The payment by the employer of such sums of money as may be necessary to meet the cost of administering the Fund and the rate at which and the manner in which the payment shall be made.",
+            "5": "4. Other functions of the Board.",
+            "6": "5. The constitution of any committee for assisting the Board.",
+            "7": "6. The opening of regional and other offices of the Board.",
+            "8": "7. The manner in which accounts shall be kept, the investments of moneys belonging to the Fund in accordance with the directions issued or conditions specified by the Government, the preparation of the budget, the audit of accounts and the submission of reports to the Government.",
+            "9": "8. The conditions under which withdrawals from the Fund may be permitted and any deductions or forfeiture may be made and the maximum amount of such deduction or forfeiture.",
+            "10": "9. The fixation by the Government in consultation with the Board of the rate of interest payable to members.",
+            "11": "10. The form in which a seaman shall furnish particulars about himself and his family whenever required.",
+            "12": "11. The nomination of a person by a member to receive the amount standing to his credit after his death and the cancellation or variation of such nomination.",
+            "13": "12. The registers and records to be maintained with respect to seamen and the returns to be furnished by employers.",
+            "14": "13. The fees to be levied for any of the purposes specified in this Schedule.",
+            "15": "14. The contraventions or defaults which shall be punishable under section 16.",
+            "16": "15. Further powers, if any, which may be exercised by Inspectors.",
+            "17": "16. The conditions under which a member may be permitted to pay premia on life insurance from the Fund.",
+            "18": "17. Any other matter which is to be provided for in the Scheme or which may be necessary or proper for the purpose of implementing the Scheme."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. Subs. by Act 29 of 1997, s. 2, for certain words (w.e.f. 12-11-1998)."
+        },
+        "Page 3": {
+            "0": "1. Subs. by Act 29 of 1997, s. 3, for \u201cthe State Bank of India\u201d (w.e.f. 12-11-1998).",
+            "1": "2. Explanation added by s. 3, ibid. (w.e.f. 12-11-1998)."
+        },
+        "Page 4": {
+            "0": "1.  The  words  \u201cand  other  officers  whose  maximum  monthly  salary  is  not  less  than  six  hundred  rupees\u201d  omittedby Act 29 of 1997, s. 4 (w.e.f. 12-11-1998).",
+            "1": "2.    The  words  \u201cor  to  any  other  post  carrying  a  maximum  monthly  salary  of  not  less  than  six  hundred  rupees\u201d  omittedby s. 4, ibid. (w.e.f. 12-11-1998).",
+            "2": "3.  Subs. by s. 5, ibid., for \u201cand thereafter at the rate of eight per cent.\u201d (w.e.f. 12-11-1998)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 29 of 1997, s. 6, for sub-section (3) (w.e.f. 12-11-1998).",
+            "1": "2. Subs. by s. 7, ibid., for \u201csix months, or with fine which may extend to one thousand rupees\u201d (w.e.f. 12-11-1998)."
+        }
+    }
+}

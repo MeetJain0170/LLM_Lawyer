@@ -1,0 +1,467 @@
+{
+    "Act Title": "THE PETROLEUM ACT, 1934",
+    "Act ID": "ACT NO. 30 OF 1934",
+    "Enactment Date": "[6th September, 1934.]",
+    "Act Definition": {
+        "0": "An Act to consolidate and amend the law relating to the import, transport, storage, production, refining and blending of petroleum 2***.",
+        "1": "WHEREAS it is expedient to consolidate and amend the law relating to import, transport, storage, production, refining and blending of petroleum 2***;"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Petroleum Act, 1934.",
+                        "1": "3[(2) It extends to the whole of India 4***].",
+                        "2": "(3) It shall come into force on such date5 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless there is anything repugnant in the subject or context,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cpetroleum\u201d means any liquid hydrocarbon or mixture of hydrocarbons, and any inflammable mixture (liquid, viscous or solid) containing any liquid hydrocarbon;",
+                                "1": "6[(b) \u201cpetroleum Class A\u201d means petroleum having a flash-point below twenty-three degrees Centigrade;",
+                                "2": "(bb) \u201cpetroleum Class B\u201d means petroleum having a flash-point of twenty-three degrees Centigrade and above but below sixty-five degrees Centigrade;",
+                                "3": "(bbb) \u201cpetroleum Class C\u201d means petroleum having a flash-point of sixty-five degrees Centigrade and above but below ninety-three degree Centigrade;]",
+                                "4": "(c) 7[\u201cflash-point\u201d] of any petroleum means the lowest temperature at which it yields a vapour which will give a momentary flash when ignited, determined in accordance with the provisions of Chapter II and the rules made thereunder;",
+                                "5": "8[(d) \u201cto transport petroleum\u201d means to move petroleum from one place to another in India and includes moving from one place to another in India across a territory which is not part of India;]",
+                                "6": "(e) \u201cto import\u201d petroleum means to bring it into 1[India] by land, sea or air, otherwise than during the course of transport;",
+                                "7": "(f) \u201cto store\u201d petroleum means to keep it in any one place, but does not include any detention happening during the ordinary course of transport;",
+                                "8": "(g) \u201cmotor conveyance\u201d means any vehicle, vessel or aircraft for the conveyance of human beings, animals or goods, by land, water or air, in which petroleum is used to generate the motive power;",
+                                "9": "(h) \u201cprescribed\u201d means prescribed by rules made under this Act.",
+                                "10": "2* * * * *"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER I",
+            "Name": "CONTROL OVER PETROLEUM",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Import, transport and storage of petroleum.",
+                    "paragraphs": {
+                        "0": "(1) No one shall import, transport or store any petroleum save in accordance with the rules made under section 4.",
+                        "1": "(2) Save in accordance with the conditions of any licence for the purpose which he may be required to obtain by rules made under section 4, no one shall import 3[petroleum Class A], and no one shall transport transport or store any petroleum."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Rules for the import, transport and storage of petroleum.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The 4[Central Government] may makes rules\u2014",
+                            "contains": {
+                                "0": "(a) prescribing places where petroleum may be imported and prohibiting its import elsewhere;",
+                                "1": "(b) regulating the import of petroleum;",
+                                "2": "(c) prescribing the periods within which licences for the import of 5[petroleum Class A] shall be applied for, and providing for the disposal, by confiscation or otherwise, of any 5[petroleum Class A] in respect of which a licence has not been applied for within the prescribed period or has been refused and which has not been exported;",
+                                "3": "(d) regulating the transport of petroleum;",
+                                "4": "(e) specifying the nature and condition of all receptacles and pipe-lines in which petroleum may be transported;",
+                                "5": "(f) regulating the places at which and prescribing the conditions subject to which petroleum may be stored;",
+                                "6": "(g) specifying the nature, situation and condition of all receptacles in which petroleum may be stored;",
+                                "7": "(h) prescribing the form and conditions of licences for the import of 5[petroleum Class A], and for the transport or storages of any petroleum, the manner in which applications for such licences shall be made, the authorities which may grant such licences and the fees which may be charged for such licences;",
+                                "8": "(i) determining in any class of cases whether a licence for the transport of petroleum shall be obtained by the consignor, consignee or carrier;",
+                                "9": "(j) providing for the granting of combined licences for the import, transport and storage of petroleum, or for any two of such purposes;",
+                                "10": "(k) prescribing the proportion in which any specified poisonous substance may be added to petroleum, and prohibiting the import, transport or storage of petroleum in which the proportion of any specified poisonous substance exceeds the prescribed proportion; and",
+                                "11": "(l) generally, providing for any matter which in 1[its] opinion is expedient for proper control over the import, transport and storage of petroleum 2[including the charging of fees for any services rendered in connection with the import, transport and storage of petroleum]."
+                            }
+                        }
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Production, refining and blending of petroleum.",
+                    "paragraphs": {
+                        "0": "(1) No one shall produce, refine or blend petroleum save in accordance with the rules made under sub-section (2).",
+                        "1": {
+                            "text": "(2) The 3[Central Government] may makes rules\u2014",
+                            "contains": {
+                                "0": "(a) prescribing the conditions subject to which petroleum may be produced, refined or blended; and",
+                                "1": "(b) regulating the removal of petroleum from places where it is produced, refined or blended and preventing the storage therein and removal therefrom, except as 4 [petroleum Class A], of any petroleum, which has not satisfied the prescribed tests.",
+                                "2": "5* * * * *"
+                            }
+                        }
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Receptacles of petroleum Class A to show a warning.",
+                    "paragraphs": {
+                        "0": "All receptacles containing 6[petroleum Class A] shall have a stamped, embossed, painted or printed warning, either on the receptacle itself or, where that is impracticable, displayed near the receptacle, exhibiting in conspicuous characters the words \u201cPetrol\u201d or \u201cMotor Spirit\u201d, or an equivalent warning of the dangerous nature of the petroleum:",
+                        "1": {
+                            "text": "Provided that this section shall not apply to\u2014",
+                            "contains": {
+                                "0": "(a) any securely stoppered glass, stoneware or metal receptacle of less than 7[ten litres] capacity containing 6[petroleum Class A] which is not for sale, or",
+                                "1": "(b) a tank incorporated in a motor conveyance, or attached to an internal combustion engine, and containing petroleum intended to be used to generate motive power for the motor conveyance or engine, or",
+                                "2": "(c) a pipe-line for the transport of petroleum, or",
+                                "3": "(d) any tank which is wholly underground, or",
+                                "4": "(e) any class of receptacles which the Central Government may, by notification in the Official Gazette, exempt from the operation of this section."
+                            }
+                        }
+                    }
+                },
+                "Section 7.": {
+                    "heading": "No licence needed for transport or storage of limited quantities of petroleum Class B or petroleum Class C.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in this Chapter, a person need not obtain a licence for the transport or storage of\u2014",
+                            "contains": {
+                                "0": "(i) petroleum Class B if the total quantity in his possession at any one place does not exceed two thousand and five hundred litres and none of it is contained in a receptacle exceeding one thousand litres in capacity; or",
+                                "1": "(ii) petroleum Class C if the total quantity in his possession at any one place does not exceed forty-five thousand litres and such petroleum is transported or stored in accordance with the rules made under section 4."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "No licence needed for import, transport or storage of small quantities of petroleum Class A.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in this Chapter, a person need not obtain a licence for the import, transport or storage of petroleum Class A not intended for sale if the total quantity in his possession does not exceed thirty litres,",
+                        "1": "(2) Petroleum Class A possessed without a licence under this section shall be kept in securely stoppered receptacles of glass, stoneware or metal which shall not, in the case of receptacles of glass or stoneware, exceed one liter in capacity or, in the case of receptacles of metal exceed twenty-five litres in capacity.]"
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Exemptions for motor conveyances and stationary engines.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The owner of a motor conveyance, who complies with the requirements of the law for the time being in force relating to the registration and licensing of such conveyance and its driver or pilot and the owner of any stationary internal combustion engine, shall not be required to obtain a licence\u2014",
+                            "contains": {
+                                "0": "(a) for the import, transport or storage of any petroleum contained in any fuel tank incorporated in the conveyance or attached to the internal combustion engine, or",
+                                "1": "(b) for the transport or storage of 2[petroleum Class A], not exceeding 3[one hundred litres] in quantity in addition to any quantity possessed under clause (a),"
+                            }
+                        },
+                        "1": {
+                            "text": "provided the petroleum is intended to be used to generate motive power for motor conveyance or engine:",
+                            "contains": {
+                                "0": "4[Provided further that the total quantity of 2[petroleum Class A] which may be stored without a licence under clause (b) shall not exceed 3[one hundred litres], notwithstanding that such owner may possess other motor conveyances or engines.]",
+                                "1": "(2) 2[Petroleum Class A] transported or stored without a licence under clause (b) 4[of sub-section (1)] shall be kept as provided in sub-section (2) of section 8, and, if it exceeds 5[thirty litres] in quantity, shall be stored in an isolated place which does not communicate with any room where any person resides or works or in any room where persons assemble."
+                            }
+                        }
+                    }
+                },
+                "Section 10.": {
+                    "heading": "No licence needed by railway administration acting as carrier.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in this Chapter, a railway administration as defined in section 3 of the Indian Railways Act, 1890 (9 of 1890) need not obtain any licence for the import or transport of any petroleum in its possession in its capacity as carrier."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Exemption of heavy oils.",
+                    "paragraphs": {
+                        "0": "Nothing in this Chapter shall apply to any petroleum which has its flash-point not below ninety-three degrees Centigrade.]"
+                    }
+                },
+                "Section 12.": {
+                    "heading": "General power of exemption.",
+                    "paragraphs": {
+                        "0": "The 2[Central Government] may, by notification in the Official Gazette, exempt any petroleum specified in the notification from all or any of the provisions of this Chapter."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Inspection of places.",
+                    "paragraphs": {
+                        "0": "(1) The 2[Central Government] may authorise any officer by name or by virtue of office to enter any place where petroleum is being imported, stored, produced, refined or blended, or is under transport, and inspect all receptacles, plant and appliances used in connection with petroleum in order to ascertain if they are in accordance with the provisions of this Chapter and the rules made thereunder.",
+                        "1": "(2) The 2[Central Government] may make rules regulating the procedure of officers authorised under this section."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER II",
+            "Name": "THE TESTING OF PETROLEUM",
+            "Sections": {
+                "Section 14.": {
+                    "heading": "Inspection and sampling of petroleum.",
+                    "paragraphs": {
+                        "0": "(1) The 2[Central Government] may, by notification in the Official Gazette, authorise, any officer by name or by virtue of office to enter any place where petroleum is being imported, transported, stored, produced, refined or blended and to inspect and take samples for testing of any petroleum found therein.",
+                        "1": {
+                            "text": "(2) The 2[Central Government] may make rules\u2014",
+                            "contains": {
+                                "0": "(a) regulating the taking of samples of petroleum for testing;",
+                                "1": "(b) determining the cases in which payment shall be made for the value of samples taken, and the mode of payment, and",
+                                "2": "(c) generally, regulating the procedure of officers exercising powers under this section."
+                            }
+                        }
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Standard Test Apparatus.",
+                    "paragraphs": {
+                        "0": "(1) A standard apparatus for determining the 3[flash-point] of petroleum shall be deposited with an officer to be appointed in this behalf by the 2[Central Government] by notification in the Official Gazette.",
+                        "1": "(2) Such apparatus shall be engraved with the words \u201cStandard Test Apparatus\u201d, and shall be verified and corrected from time to time and replaced when necessary, in accordance with rules under section 21.",
+                        "2": "(3) The Standard Test Apparatus shall, on payment of the prescribed fee, be open to inspection at all reasonable times by any person wishing to inspect it."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Certification of other test apparatus.",
+                    "paragraphs": {
+                        "0": "(1) The officer appointed under section 15 shall, on payment of the prescribed fee, if any, compare with the Standard Test Apparatus and apparatus for determining the 1[flash-point] of petroleum which may be submitted to him for this purpose.",
+                        "1": "(2) If any apparatus is found by him to agree with the Standard Test Apparatus within prescribed limits, the officer shall engrave such apparatus with a special number and with the date of the comparison and shall give a certificate in respect of it in the prescribed form, certifying that on the said date the apparatus was compared with the Standard Test Apparatus and was found to agree with it within the prescribed limits, and specifying any corrections to be made in the results of tests carried out with the apparatus.",
+                        "2": "(3) A certificate granted under this section shall be valid for such period as may be prescribed.",
+                        "3": "(4) A certificate granted under this section shall, during the period for which it is valid, be proof, until the contrary is proved, of any matter stated therein.",
+                        "4": "(5) The officer shall keep a register in the prescribed form of all certificates granted by him under this section."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Testing officers.",
+                    "paragraphs": {
+                        "0": "The 2[Central Government] may authorise any officer by name or by virtue of office to test petroleum of which samples have been taken under this Act, or which may have been submitted to him for test by any person, and to grant certificates of the results of such tests."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Manner of test.",
+                    "paragraphs": {
+                        "0": "All tests of petroleum made under this Act shall be made with a test apparatus in respect of which there is valid certificate under section 16, shall have due regard to any correction specified in that certificate, and shall be carried out in accordance with rules made under section 21."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Certificate of testing.",
+                    "paragraphs": {
+                        "0": "3[(1) The testing officer after testing samples of petroleum shall make out a certificate in the prescribed form, stating whether the petroleum is petroleum Class A or petroleum Class B or petroleum Class C and if the petroleum is petroleum Class B or petroleum Class C, the flash-point of the petroleum.]",
+                        "1": "(2) The testing officer shall furnish the person concerned, at his request, with a certified copy of the certificate, on payment of the prescribed fee, and such certified copy may be produced in any court in proof of the contents of the original certificate.",
+                        "2": "4[(3) A certificate given under this section shall be admitted as evidence in any proceedings which may be taken under this Act in respect of the petroleum from which the samples were taken, and shall, until the contrary is proved, be conclusive proof, that the petroleum is petroleum Class A or petroleum Class B or petroleum Class C, and, if the petroleum is petroleum Class B or petroleum Class C, of its flash-point.]"
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Right to require re-test.",
+                    "paragraphs": {
+                        "0": "(1) The owner of any petroleum, or his agent, who is dissatisfied with the result of the test of the petroleum may, within seven days from the date on which he received intimation of the result of the test, apply to the officer empowered under section 14 to have fresh samples of the petroleum taken and tested.",
+                        "1": "(2) On such application and on payment of the prescribed fee, fresh samples of the petroleum shall be taken in the presence of such owner or agent or person deputed by him, and shall be tested in the presence of such owner or agent or person deputed by him.",
+                        "2": "(3) If, on such re-test, it appears that the original test was erroneous the testing officer shall cancel the original certificate granted under section 19, shall make out a fresh certificate, and shall furnish the owner of the petroleum, or his agent, with a certified copy thereof, free of charge."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Power to make rules regarding tests.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The 1[Central Government] may make rules\u2014",
+                            "contains": {
+                                "0": "(a) for the specification, verification, correction and replacement of the Standard Test Apparatus;",
+                                "1": "(b) prescribing fees for the inspection of the Standard Test Apparatus;",
+                                "2": "(c) regulating the procedure in comprising a test apparatus with the Standard Test Apparatus;",
+                                "3": "(d) prescribing the form of certificate to be given in respect of a test apparatus so compared, and the period for which such certificate shall be valid;",
+                                "4": "(e) prescribing the form of the register of such certificates;",
+                                "5": "(f) prescribing fees for comparing a test apparatus with Standard Test Apparatus;",
+                                "6": "(g) regulating the procedure of testing officers in carrying out tests of petroleum, providing for the averaging of results where several samples of the same petroleum are tested, and prescribing the variations from standard temperatures which may be allowed;",
+                                "7": "(h) prescribing the form of certificate of tests of petroleum and the fees which may be charged therefore;",
+                                "8": "(i) providing, where the results of the testing of samples raise a doubt as to the uniformity of the quality of the petroleum in any lot under test, for the division of the lot into sub-lots, and for the selection and testing of samples of each sub-lot and for the averaging of results in accordance with the results of tests of those samples;",
+                                "9": "(j) prescribing fees for re-tests under section 20 and providing for their refund where the original test was erroneous; and",
+                                "10": "(k) generally, regulating the procedure of all officers performing duties connected with the testing of petroleum, and providing for any matter incidental to such testing."
+                            }
+                        }
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Special rules for testing viscous or solid forms of petroleum.",
+                    "paragraphs": {
+                        "0": "The 1[Central Government] may also make rules providing specially for the testing of any form of petroleum which is viscous or solid or contains sediment or thickening ingredients, and such rules may modify or supplement any of the provisions of this Chapter or of the rules made under section 21 in order to adapt them to the special needs of such tests."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER III",
+            "Name": "PANALTIES AND PROCEDURE",
+            "Sections": {
+                "Section 23.": {
+                    "heading": "General penalty for offences under this Act.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Whoever\u2014",
+                            "contains": {
+                                "0": "(a) in contravention of any of the provisions of Chapter I or of any of the rules made thereunder, imports, transports, stores, produces, refines or blends any petroleum, or",
+                                "1": "(b) contravenes any rule made under section 4 or section 5, or",
+                                "2": "1[(c) being the holder or a licence issued under section 4 or a person for the time being placed by the holder of such licence in control or in charge of any place where petroleum is being imported or stored, or is under transport, contravenes any condition of such licence or suffers any condition of such licence to be contravened, or]",
+                                "3": "(d) being for the time being in control or in charge of any place where petroleum is being imported, stored, produced, refined or blended or is under transport, refuses or neglects to show to any officer authorised under section 13 any receptacle, plant or appliance used in such place in connection with petroleum, or in any way obstructs or fails to render reasonable assistance to such officer during an inspection, or",
+                                "4": "(e) being for the time being in control or in charge of any place where petroleum is being imported, transported, stored, produced, refined or blended, refuses or neglects to show to any officer authorised under section 14 any petroleum in such place, or to give him such assistance as he may require for the inspection of such petroleum, or refuses to allow him to take samples of the petroleum, or",
+                                "5": "(f) being required, under section 27, to give information of an accident, fails to give such information as so required by that section,"
+                            }
+                        },
+                        "1": {
+                            "text": "shall be punishable 2[with simple imprisonment which may extend to one month, or with fine which may extend to one thousand rupees, or with both].",
+                            "contains": {
+                                "0": "(2) If any person, having been convicted of an offence punishable under sub-section (1), is again guilty of any offence punishable under that sub-section, he shall be punishable for every such subsequent offence 2[with simple imprisonment which may extend to three months, or with fine which may extend to five thousand rupees, or with both]."
+                            }
+                        }
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Confiscation of petroleum and receptacles.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In any case in which an offence under clause (a) or clause (b) or clause (c) of sub-section (1) of section 23 has been committed, the convicting Magistrate may direct that\u2014",
+                            "contains": {
+                                "0": "(a) the petroleum in respect of which the offence has been committed, or",
+                                "1": "(b) where the offender is convicted of importing, transporting or storing petroleum exceeding the quantity he is permitted to import, transport or store, as the case may be, the whole of the petroleum in respect of which the offence was committed,"
+                            }
+                        },
+                        "1": {
+                            "text": "shall, together with the receptacles in which it is contained, be confiscated.",
+                            "contains": {
+                                "0": "(2) This power may also be exercised by the High Court in the exercise of its appellate or revisional powers."
+                            }
+                        }
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Jurisdiction.",
+                    "paragraphs": {
+                        "0": "(1) Offences punishable under this Act shall be triable in the Presidency-towns, by a Presidency Magistrate, and elsewhere by a Magistrate of the first class, or by a Magistrate of the second class who has been specially empowered by the 3[Central Government] in this behalf."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Power of entry and search.",
+                    "paragraphs": {
+                        "0": "(1) The 1[Central Government] may, by notification in the Official Gazette, authorise any officer by name or by virtue of office to enter and search any place where he has reason to believe that any petroleum is being imported, transported, stored, produced, refined or blended otherwise than in accordance with the provisions of this Act and the rules made thereunder, and to seize, detain or remove any or all of the petroleum in respect of which in his opinion an offence under this Act has been committed.",
+                        "1": "(2) The provisions of the 2[Code of Criminal Procedure, 1973 (2 of 1974)], relating to searches shall, so far as they are applicable, apply to searches by officers authorised under this section.",
+                        "2": "(3) The 1[Central Government] may make rules regulating the procedure of authorised officers in the exercise of their powers under this section subject, however, to the provisions of sub-section (2)."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Notice of accidents with petroleum.",
+                    "paragraphs": {
+                        "0": "Whenever there occurs in or about, or in connection with, any place in which petroleum is refined, blended or kept, or any carriage or vessel either conveying petroleum or on or from which petroleum is being loaded or unloaded, any accident by explosion or by fire as a result of the ignition of petroleum or petroleum vapour attended with loss of human life or serious injury to person or property, or of a description usually attended with such loss or injury, the occupier of the place or the person for the time being in charge of the petroleum or the person in charge of the carriage or the master of the vessel, as the case may be, shall, within such time and in such manner as may be prescribed, give notice thereof and of the attendant loss of human life, or injury to person or property, if any, to the nearest Magistrate or to the officer in charge of the nearest police station and to the 4[Chief Controller of Explosives].]"
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Inquiries into serious accidents with petroleum.",
+                    "paragraphs": {
+                        "0": "(1) The inquiry mentioned in section 176 of the 5[Code of Criminal Procedure, 1973 (2 of 1974)], shall, 6[unless section 8 of the Coroners Act, 1871 (4 of 1871), is applicable to the circumstances,] be held in all cases where any person has been killed by an accident which the Magistrate has reason to believe was the result of the ignition of petroleum or petroleum vapour.",
+                        "1": "(2) Any Magistrate empowered to hold an inquest may also hold an inquiry under the said section into the cause of any accident which he has reason to believe was the result of the ignition of petroleum or petroleum vapour, if such accident was attended by serious injury to person or property, notwithstanding that no person was killed thereby.",
+                        "2": "(3) For the purposes of 7[sub-section (2)] a Commissioner of Police 8*** 9*** shall be deemed to be a be a Magistrate empowered to hold an inquest.",
+                        "3": "(4) The result of all inquiries held in pursuance of this section 6[and of any inquiry held by a coroner in a case to which sub-section (1) refers] shall be submitted as soon as may be to the 10 [Central Government, 6[the 11[Chief Controller of Explosives]] and the State Government.]"
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER IV",
+            "Name": "SUPPLEMENTAL",
+            "Sections": {
+                "Section 29.": {
+                    "heading": "Provisions relating to rules.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In making any rules under this Act, the 1[Central Government] Government] may\u2014",
+                            "contains": {
+                                "0": "(a) provide for any matter ancillary to such rules for which in 2[its] opinion provision is necessary necessary to protect the public from danger arising from the import, transport, storage, production, refining or blending of petroleum, and",
+                                "1": "(b) make special provision for the special circumstances of any State or place."
+                            }
+                        },
+                        "1": "(2) Every power to make rules conferred by this Act is subject to the condition of previous publication.",
+                        "2": "(3) All rules made under this Act shall be published in the Official Gazette 3***.",
+                        "3": "4[(4) Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule, or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]"
+                    }
+                },
+                "Section 30.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Power to apply Act to other substances.]\u2014Rep. by the Inflammable Substances Act, 1952 (20 of 1952), s. 7."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Power to limit powers of local authorities over petroleum.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Where any enactment confers powers upon any local authority in respect of the transport or storage of petroleum, the 1[Central Government] may, by notification in the Official Gazette,\u2014",
+                            "contains": {
+                                "0": "(a) limit the operation of such enactment, or",
+                                "1": "(b) restrict the exercise of such powers, in any manner 5[it] deems fit."
+                            }
+                        }
+                    }
+                },
+                "Section 32.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Repeals.]\u2014 Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and the Schedule."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE. \u2014[Repealed.].": {
+            "0": "THE SCHEDULE.\u2014[Enactments repealed.] Rep. by s. 2 and the Schedule, ibid.]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1.  This  Act  has  been  extended  to  Berar  by  the  Petroleum  (Berar  Extension)  Act,  1937  (23  of  1937).  All  rules  made  andnotifications issued under this Act and in force in British India at the commencement of Act 23 of 1937 (i.e., the 7 October,1937) have also been extended to Berar by s. 3 of the latter Act.This Act has been extended to Goa, Daman and Diu (with modification) by Reg. 12 of 1962, s. 3 and the Schedule.; extendedto Pondicherry on 1-10-1963 vide Reg. 7 of 1963, s. 3 and the First Schedule; to Dadra and Nagar Haveli (w.e.f. 1-7-1965)vide Reg. 6 of 1963, s. 2 and the First Schedule and to Lakshadweep (w.e.f. 1-10-1967); vide Reg. 8 of 1965, s. 3 andSchedule.",
+            "1": "2. The words \u201cand other inflammable substances\u201d omitted by Act 24 of 1970, s. 2 (w.e.f. 1-8-1976).",
+            "2": "3. Subs. by the A.O. 1950, for sub-section (2).",
+            "3": "4. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 62 of 1956, s. 2 and the Schedule (w.e.f. 1-11-1956).",
+            "4": "5. 30th March, 1937, Gazette of India, 1937, pt. I, p. 632.",
+            "5": "6. Subs. by Act 24 of 1970, s. 3, for clause (b) (w.e.f. 1-8-1976).",
+            "6": "7. Subs. by s. 3, ibid., for \u201cflashing-point\u201d (w.e.f. 1-8-1976).",
+            "7": "8. Subs. by s. 3, ibid., for clause (d) (w.e.f. 1-8-1976)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 62 of 1956, s. 2 and the Schedule for \u201cthe territories to which this Act extends\u201d (w.e.f. 1-11-1956).",
+            "1": "2. Clause (i) omitted by Act 3 of 1951, s. 3 and the Schedule.  Earlier inserted by the A.O. 1950.",
+            "2": "3. Subs. by Act 24 of 1970, s. 4, for \u201cany dangerous petroleum\u201d (w.e.f. 1-8-1976).",
+            "3": "4. Subs. by the A.O. 1937, for \u201cGovernor-General-in-Council\u201d.",
+            "4": "5. Subs. by Act 24 of 1970, s. 5, for \u201cdangerous petroleum\u201d (w.e.f. 1-8-1976)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by the A.O. 1937, for \u201chis\u201d.",
+            "1": "2. Ins. by Act 24 of 1970, s. 5 (w.e.f. 1-8-1976).",
+            "2": "3. Subs. by the A.O. 1937, for \u201cGovernor-General-in-Council\u201d.",
+            "3": "4. Subs. by Act 24 of 1970, s. 6, for \u201cdangerous petroleum\u201d (w.e.f. 1-8-1976).",
+            "4": "5. Sub-section (3) omitted by the A.O. 1937.",
+            "5": "6. Subs. by Act 24 of 1970, s. 7, for \u201cdangerous petroleum\u201d (w.e.f. 1-8-1976).",
+            "6": "7. Subs. by s. 7, ibid., for \u201ctwo gallons\u201d (w.e.f. 1-8-1976)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 24 of 1970, s. 8, for sections 7 and 8 (w.e.f. 1-8-1976).",
+            "1": "2. Subs. by s. 9, ibid., for \u201cdangerous petroleum\u201d (w.e.f. 1-8-1976).",
+            "2": "3. Subs. by s. 9, ibid., for \u201ctwenty gallons\u201d (w.e.f. 1-8-1976).",
+            "3": "4. Ins. by Act 25 of 1940, s. 2",
+            "4": "5. Subs. by Act 24 of 1970, s. 9, for \u201csix gallons\u201d (w.e.f. 1-8-1976)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 24 of 1970, s. 10, for section 11 (w.e.f. 1-8-1976).",
+            "1": "2. Subs. by the A.O. 1937, for \u201cGovernor-General-in-Council\u201d.",
+            "2": "3. Subs. by Act 24 of 1970, s. 10, for \u201cflashing-point\u201d (w.e.f. 1-8-1976)."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 24 of 1970, s. 12, for \u201cflashing-point\u201d (w.e.f. 1-8-1976).",
+            "1": "2. Subs. by the A.O. 1937, for \u201cGovernor-General-in-Council\u201d.",
+            "2": "3. Subs. by Act 24 of 1970, s. 13, for sub-section (1) (w.e.f. 1-8-1976).",
+            "3": "4. Subs. by s. 13, ibid., for sub-section (3) (w.e.f. 1-8-1976)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by the A.O. 1937, for \u201cGovernor-General-in-Council\u201d."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 3 of 1941, s. 2, for clause (c)",
+            "1": "2. Subs. by Act 24 of 1970, s. 14, for certain words (w.e.f. 1-8-1976).",
+            "2": "3. Subs. by the A.O. 1937, for \u201cLocal Government\u201d."
+        },
+        "Page 11": {
+            "0": "1. Subs. by the A.O. 1937, for \u201cGovernor-General-in-Council\u201d.",
+            "1": "2. Subs. by Act 31 of 1977, s. 2, for \u201cCode of Criminal Procedure, 1898\u201d (w.e.f. 12-8-1977).",
+            "2": "3. Subs. by Act 24 of 1970, s. 15, for s. 27 (w.e.f. 1-8-1976).",
+            "3": "4. Subs. by Act 31 of 1977, s. 2, for \u201cChief Inspector of Explosives in India\u201d (w.e.f. 12-8-1977).",
+            "4": "5. Subs. by s. 4, ibid., for \u201cCode of Criminal Procedure, 1898 (5 of 1898)\u201d (w.e.f. 12-8-1977).",
+            "5": "6. Ins. by Act 25 of 1940, s. 3.",
+            "6": "7. Subs. by s. 3, ibid., for \u201cthis section\u201d.",
+            "7": "8. The words \u201cin a Presidency-town\u201d omitted by Act 24 of 1970, s. 16 (w.e.f. 1-8-1976).",
+            "8": "9. The words \u201cor in Rangoon\u201d omitted by the A.O. 1937.10. Subs. by the A.O. 1937, for \u201cLocal Government\u201d.11. Subs by Act 31 of 1977, s. 4, for \u201cChief Inspector of Explosives in India\u201d (w.e.f. 12-8-1977)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by the A.O. 1937, for \u201cLocal Government\u201d.",
+            "1": "2. Subs. ibid., for \u201chis\u201d.",
+            "2": "3. The words \u201cand in the local Official Gazette\u201d omitted, ibid.",
+            "3": "4. Ins. by Act 31 of 1977, s. 5 (w.e.f. 12-8-1977).",
+            "4": "5. Subs. by the A.O. 1937, for \u201che\u201d."
+        }
+    }
+}

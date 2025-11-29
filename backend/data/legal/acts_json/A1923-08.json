@@ -1,0 +1,1392 @@
+{
+    "Act Title": "THE EMPLOYEE\u2019S COMPENSATION ACT, 1923",
+    "Act ID": "ACT No. 8 OF 1923",
+    "Enactment Date": "[5th March, 1923]",
+    "Act Definition": {
+        "0": "An Act to provide for the payment by certain classes of employers to their 2[employees] of compensation for injury by accident.",
+        "1": "WHEREAS it is expedient to provide for the payment by certain classes of employers to their 3[employees] of compensation for injury by accident"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the 4[Employee\u2019s] Compensation Act, 1923.",
+                        "1": "5[(2) It extends to the whole of India 6***.]",
+                        "2": "(3) It shall come into force on the first day of July, 1924."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In this Act, unless there is anything repugnant in the subject or context,\u2014",
+                            "contains": {
+                                "0": "7* * * * *",
+                                "1": "(b) \u201cCommissioner\u201d means a Commissioner for Workmen\u2019s Compensation appointed under section 20;",
+                                "2": "(c) \u201ccompensation\u201d means compensation as provided for by this Act;",
+                                "3": {
+                                    "text": "8[(d) \u201cdependant\u201d means any of the following relatives of a deceased 9[employee], namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) a widow, a minor 10[legitimate or adopted] son, and unmarried 10[legitimate or adopted] daughter, or a widowed mother; and",
+                                        "1": "(ii) if wholly dependent on the earnings of the 9[employee] at the time of his death, a son or a daughter who has attained the age of 18 years and who is infirm;",
+                                        "2": {
+                                            "text": "(iii) if wholly or in part dependent on the earnings of the 9[employee] at the time of his death,",
+                                            "contains": {
+                                                "0": "(a) a widower,",
+                                                "1": "(b) a parent other than a widowed mother,",
+                                                "2": "(c) a minor illegitimate son, an unmarried illegitimate daughter or a daughter 1[legitimate or illegitimate or adopted] if married and a minor or if widowed and a minor,",
+                                                "3": "(d) a minor brother or a unmarried sister or a widowed sister if a minor,",
+                                                "4": "(e) a widowed daughter-in-law,",
+                                                "5": "(f) a minor child of a pre-deceased son,",
+                                                "6": "(g) a minor child of a pre-deceased daughter where no parent of the child is alive, or",
+                                                "7": "(h) a paternal grandparent if no parent of the 2[employee] is alive.]",
+                                                "8": "3[Explanation.\u2014For the purpose of sub-clause (ii) and items (f) and (g) of sub-clause (iii), references to a son, daughter or child include an adopted son, daughter or child respectively;"
+                                            }
+                                        }
+                                    }
+                                },
+                                "4": {
+                                    "text": "4[(dd) \u201cemployee\u201d means a person, who is\u2014",
+                                    "contains": {
+                                        "0": "(i) a railway servant as defined in clause (34) of section 2 of the Railways Act, 1989 (24 of 1989), not permanently employed in any administrative district or sub-divisional office of a railway and not employed in any such capacity as is specified in Schedule II; or",
+                                        "1": "(ii) (a) a master, seaman or other member of the crew of a ship,",
+                                        "2": "(b) a captain or other member of the crew of an aircraft,",
+                                        "3": "(c) a person recruited as driver, helper, mechanic, cleaner or in any other capacity in connection with a motor vehicle,",
+                                        "4": "(d) a person recruited for work abroad by a company,"
+                                    }
+                                },
+                                "5": {
+                                    "text": "and who is employed outside India in any such capacity as is specified in Schedule II and the ship, aircraft or motor vehicle, or company, as the case may be, is registered in India; or",
+                                    "contains": {
+                                        "0": "(iii) employed in any such capacity as is specified in Schedule II, whether the contract of employment was made before or after the passing of this Act and whether such contract is expressed or implied, oral or in writing; but does not include any person working in the capacity of a member of the Armed Forces of the Union; and any reference to any employee who has been injured shall, where the employee is dead, include a reference to his dependants or any of them;]"
+                                    }
+                                },
+                                "6": "(e) \u201cemployer\u201d includes anybody of persons whether incorporated or not and any managing agent of an employer and the legal representative of a deceased employer, and, when the services of a 2[employee] are temporarily lent or let on hire to another person by the person with whom the 2[employee] has entered into a contract of service or apprenticeship, means-such other person while the 2[employee] is working for him;",
+                                "7": "(f) \u201cmanaging agent\u201d means any person appointed or acting as the representative of another person for the purpose of carrying on such other person\u2019s trade or business, but does not include an individual manager subordinate to an employer;",
+                                "8": "1[(ff) \u201cminor\u201d means a person who has not attained the age of 18 years;]",
+                                "9": "(g) \u201cpartial disablement\u201d means, where the disablement is of a temporary nature, such disablement as reduces the earning capacity of a 2[employee] in any employment in which he was engaged at the time of the accident resulting in the disablement, and, where the disablement is of a permanent nature, such disablement as reduces his earning capacity in every employment which he was capable of undertaking at that time:",
+                                "10": "provided that every injury specified 3[in Part II of Schedule I] shall be deemed to result in permanent partial disablement;",
+                                "11": "(h) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "12": "(i) \u201cqualified medical practitioner\u201d means any person registered 4* * * under any 5[Central Act, Provincial Act or an Act of the Legislature of a 6[State]] providing for the maintenance of a register of medical practitioners, or, in any area where no such last-mentioned Act is in force, any person declared by the State Government, by notification in the Official Gazette, to be a qualified medical practitioner for the purposes of this Act;",
+                                "13": "7* * * * *",
+                                "14": "(k) \u201cseaman\u201d means any person forming part of the crew of any 8* * * ship, but does not include the master of 9[the] ship;",
+                                "15": "(l) \u201ctotal disablement\u201d means such disablement, whether of a temporary or permanent nature, as incapacitates a 2[employee] for all work which he was capable of performing at the time of the accident resulting in such disablement:",
+                                "16": "10[Provided that permanent total disablement shall be deemed to result from every injury specified in Part I of Schedule I or from any combination of injuries specified in Part II thereof where the aggregate percentage of the loss of earning capacity, as specified in the said Part H against those injuries, amounts to one hundred per cent.\u2019 or more;]",
+                                "17": "(m) \u201cwages\u201d includes any privilege or benefit which is capable of being estimated in money, other than a travelling allowance or the value of any travelling concession or a contribution paid by the employer of a 2[employee] towards any pension or provident fund or a sum paid to a 2[employee] to cover any special expenses entailed on him by the nature of his employment;",
+                                "18": "11* * * * *"
+                            }
+                        },
+                        "1": "(2) The exercise and performance of the powers and duties of a local authority or of any department 12[acting on behalf of the Government] shall, for the purposes of this Act, unless a contrary intention appears, be deemed to be the Trade or business of such authority or department.",
+                        "2": "1[(3) The Central Government or the State Government, by notification in the Official Gazette, after giving not less than three months\u2019 notice of its intention so to do, may, by a like notification, add to Schedule H any class of persons employed in any occupation which it is satisfied is a hazardous occupation, and the provisions of this Act shall thereupon apply, in case of a notification by the Central Government, within the territories to which the Act extends, or, in the case of a notification by the State Government, within the State, to such classes of person:",
+                        "3": "Provided that in making addition, the Central Government or the State Government, as the case may be, may direct that the provisions of this Act shall apply to such classes of persons in respect of specified injuries only.]"
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "EMPLOYEE\u2019S COMPENSATION",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Employer\u2019s liability for compensation.",
+                    "paragraphs": {
+                        "0": "(1) If personal injury is caused to a 3[employee] by accident arising out of and in the course of his employment, his employer shall be liable to pay compensation in accordance with the provisions of this Chapter:",
+                        "1": {
+                            "text": "Provided that the employer shall not be so liable\u2014",
+                            "contains": {
+                                "0": "(a) in respect of any injury which does not result in the total or partial disablement of the 3[employee] for a period exceeding 4[three] days;",
+                                "1": {
+                                    "text": "(b) in respect of any 5[injury, not resulting in death 6[or permanent total disablement], caused by] an accident which is directly attributable to\u2014",
+                                    "contains": {
+                                        "0": "(i) the 3[employee] having been at the time thereof under the influence of drink or drugs, or",
+                                        "1": "(ii) the wilful disobedience of the 3[employee] to an order expressly given, or to a rule expressly framed, for the purpose of securing the safety of employee\u2019s, or",
+                                        "2": "(iii) the wilful removal or disregard by the 3[employee] of any safety guard or other device which he knew to have been provided for the purpose of securing the safety of 7[employees] 8***"
+                                    }
+                                },
+                                "2": "9* * * * *"
+                            }
+                        },
+                        "2": "10[(2) If a 3[employee] employed in any employment specified in Pat A of Schedule III contracts any disease specified therein as an occupational disease peculiar to that employment, or if a 3[employee], whilst in the service of an employer in whose service he has been employed for a continuous period of not less than six months (which period shall not include a period of service under any other employer in the same kind of employment) in any employment specified in Part B of Schedule III, contracts any disease specified therein as an occupational disease peculiar to that employment, or if a 3[employee] whilst in the service of one or more employers in any employment specified in Part C of Schedule III for such continuous period as the Central Government may specify in respect of each such employment, contracts any disease specified therein as an occupational disease peculiar to that employment, the contracting of the disease shall be deemed to be an injury by accident within the meaning of this section and, unless the contrary is proved, the accident shall be deemed to have arisen out of, and in the course of, the employment:",
+                        "3": {
+                            "text": "1[Provided that if it is proved,\u2014",
+                            "contains": {
+                                "0": "(a) that a 2[employee] whilst in the service of one or more employers in any employment specified in Part C of Schedule III has contracted a disease specified therein as an occupational disease peculiar to that employment during a continuous period which is less than the period specified under this sub-section for that employment, and",
+                                "1": "(b) that the disease has arisen out of and in the course of the employment;"
+                            }
+                        },
+                        "4": {
+                            "text": "the contracting of such disease shall be deemed to be an injury by accident within the meaning of this section:",
+                            "contains": {
+                                "0": "Provided further that if it is proved that a 2[employee] who having served under any employer in any employment specified in Part B of Schedule III or who having served under one or more employers in any employment specified in Part C of that Schedule, for a continuous period specified under this sub-section for that employment and he has after the cessation of such service contracted any disease specified in the said Part B or the said Part C, as the case may be, as an occupational disease peculiar to the employment and that such disease arose out of the employment, the contracting of the disease shall be deemed to be an injury by accident within the meaning of this section.]",
+                                "1": "3[(2A) If a 2[employee] employed in any employment specified in Part C of Schedule III contracts any occupational disease peculiar to that employment, the contracting whereof is deemed to be an injury by accident within the meaning of this section, and such employment was under more than one employer, all such employers shall be liable for the payment of the compensation in such proportion as the Commissioner may, in the circumstances, deem just.]",
+                                "2": "(3) 4[The Central Government or the State Government] after giving, by notification in the Official Gazette, not less than three months\u2019 notice of its intention so to do, may, by a like notification, add any description of employment to the employments specified in Schedule III, and shall specify in the case of employments so added the diseases which shall be deemed for the purposes of this section to be occupational diseases peculiar to those employments respectively, and thereupon the provisions of sub- section (2) shall apply 5[in the case of a notification by the Central Government, within the territories to which this Act extends or, in case of a notification by the State Government, within the State] 6*** as if such diseases had been declared by this Act to be occupational diseases peculiar to those employments.]",
+                                "3": "(4) Save as provided by 7[sub-sections (2), (2A)] and (3) no compensation shall be payable to a2 [employee] in respect of any disease unless the disease is 8*** directly attributable to a specific injury by accident arising out of and in the course of his employment.",
+                                "4": {
+                                    "text": "(5) Nothing herein contained shall be deemed to confer any right to compensation on a 2[employee] in respect of any injury if he has instituted in a Civil Court a suit for damages in respect of the injury against the employer or any other person; and no suit for damages shall be maintainable by a 2[employee] in any Court of law in respect of any injury\u2014",
+                                    "contains": {
+                                        "0": "(a) if he has instituted a claim to compensation in respect of the injury before a Commissioner; or",
+                                        "1": "(b) if an agreement has been come to between the 1[employee] and his employer providing for the payment of compensation in respect of the injury in accordance with the provisions of this Act."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Amount of compensation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Subject to the provisions of this Act, the amount of compensation shall be as follows, namely:\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) where death results from the injury an amount equal to 3[fifty per cent.] of the monthly wages of the deceased 1[employee] multiplied by the relevant factor;",
+                                    "contains": {
+                                        "0": "or",
+                                        "1": "an amount of 4[one lakh and twenty thousand rupees], whichever is more;"
+                                    }
+                                },
+                                "1": {
+                                    "text": "(b) where permanent total disablement an amount equal to 5[sixty per cent.] of the 1[employee] results from the injury monthly wages of the injured multiplied by the relevant factor;",
+                                    "contains": {
+                                        "0": "or",
+                                        "1": "an amount of 6[one lakh and forty thousand rupees],whichever is more:"
+                                    }
+                                },
+                                "2": "7[Provided that the Central Government may, by notification in the Official Gazette, from time to time, enhance the amount of compensation mentioned in clauses (a) and (b);]",
+                                "3": "Explanation I.\u2014For the purposes of clause (a) and clause (b), \u201crelevant factor\u201d, in relation to a 1[employee] means the factor specified in the second column of Schedule IV against the entry in the first column of that Schedule specifying the number of years which are the same as the completed years of the age of the 1[employee] on his last birthday immediately preceding the date on which the compensation fell due.",
+                                "4": "8* * * * *",
+                                "5": {
+                                    "text": "(c) where permanent partial disablement (i) in the case of an injury specified in Part II of results from the injury. Schedule I, such percentage of the compensation which would have been payable in the case of permanent total disablement as is specified therein as being the percentage of the loss of earning capacity caused by that injury, and",
+                                    "contains": {
+                                        "0": "(ii) in the case of an injury not specified in Schedule I, such percentage of the compensation payable in the case of permanent total disablement as is proportionate to the loss of earning capacity (as assessed by the qualified medical practitioner) permanently caused by the injury."
+                                    }
+                                },
+                                "6": "Explanation I.\u2014Where more injuries than one are caused by the same accident, the amount of compensation payable under this head shall be aggregated but not so in any case as to exceed the amount which would have been payable if permanent total disablement had resulted from the injuries.",
+                                "7": "Explanation II.\u2014In assessing the loss of earning capacity for the purposes of sub-clause (ii), the qualified medical practitioner shall have due regard to the percentages of loss of earning capacity in relation to different injuries specified in Schedule I;",
+                                "8": "(d) where temporary disablement, whether total a half-monthly payment of the sum equivalent or partial results from the injury to twenty-five per cent. of monthly wages of the 1[employee], to be paid in accordance with the provisions of sub-section (2)."
+                            }
+                        },
+                        "1": "2[(1A) Notwithstanding anything contained in sub-section (1), while fixing the amount of compensation payable to a 1[employee] in respect of an accident occurred outside India, the Commissioner shall take into account the amount of compensation, if any, awarded to such 1[employee] in accordance with the law of the country in which the accident occurred and shall reduce the amount fixed by him by the amount of compensation awarded to the 1[employee] in accordance with the law of that country.]",
+                        "2": "3[(1B) The Central Government may, by notification in the Official Gazette, specify, for the purposes of sub-section (I), such monthly wages in relation to an employee as it may consider necessary;]",
+                        "3": {
+                            "text": "(2) The half-monthly payment referred to in clause (d) of sub-section (1) shall be payable on the sixteenth day\u2014",
+                            "contains": {
+                                "0": "(i) from the date of disablement where such disablement lasts for a period of twenty-eight days or more, or",
+                                "1": "(ii) after the expiry of a waiting period of three days from the date of disablement where such disablement lasts for a period of less than twenty-eight days; and thereafter half-monthly during the disablement or during a period of five years, whichever period is shorter:"
+                            }
+                        },
+                        "4": {
+                            "text": "Provided that\u2014",
+                            "contains": {
+                                "0": "(a) there shall deducted from any lump sum or half-monthly payments to which the 1[employee] is entitled the amount of any payment or allowance which the 1[employee] has received from the employer by way of compensation during the period of disablement prior to the receipt of such lump sum or of the first half-monthly payment, as the case may be; and",
+                                "1": "(b) no half-monthly payment shall in any case exceed the amount, if any, by which half the amount of the monthly wages of the 1[employee] before the accident exceeds half the amount of such wages which he is earning after the accident."
+                            }
+                        },
+                        "5": "Explanation.\u2014Any payment or allowance which the 1[employee] has received from the employer towards his medical treatment shall not be deemed to be a payment or allowance received by him by way of compensation within the meaning of clause (a) of the proviso.",
+                        "6": "3[(2A) The employee shall be reimbursed the actual medical expenditure incurred by him for treatment of injuries caused during the course of employment.]",
+                        "7": "(3) On the ceasing of the disablement before the date on which any half-monthly payment falls due there shall be payable in respect of that half-month a sum proportionate to the duration of the disablement in that half-month.]",
+                        "8": "1[(4) If the injury of the 2[employee] results his death, the employer shall, in addition to the compensation under sub-section (1), deposit with the Commissioner a sum of 3[two thousand and five hundred rupees] for payment of the same to the eldest surviving dependant of the 2[employee] towards the expenditure of the funeral of such 2[employee] or where the 2[employee] did not have a dependant or was not living with his dependant at the time of his death to the person who actually incurred such expenditure.]",
+                        "9": "4[Provided that the Central Government may, by notification in the Official Gazette, from time to time, enhance the amount specified in this sub-section.]"
+                    }
+                },
+                "Section 4A.": {
+                    "heading": "Compensation to be paid when due and penalty for default.",
+                    "paragraphs": {
+                        "0": "(1) Compensation under section 4 shall be paid as soon as it falls due.",
+                        "1": "(2) In cases where the employer does not accept the liability for compensation to the extent claimed, he shall be bound to make provisional payment based on the extent of liability which he accepts, and, such payment shall be deposited with the Commissioner or made to the 2[employee], as the case may be, without prejudice to the right of the 2[employee] to make any further claim.",
+                        "2": {
+                            "text": "6[(3) Where any employer is in default in paying the compensation due under this Act within one month from the date it fell due, the Commissioner shall\u2014",
+                            "contains": {
+                                "0": "(a) direct that the employer shall, in addition to the amount of the arrears, pay simple interest thereon at the rate of twelve per cent. per annum or at such higher, rate not exceeding the maximum of the lending rates of any scheduled bank as may be specified by the Central Government by notification in the Official Gazette, on the amount due; and",
+                                "1": "(b) if, in his opinion, there is no justification for the delay, direct that the employer shall, in addition to the amount of the arrears and interest thereon, pay a further sum not exceeding fifty per cent. of such amount by way of penalty:"
+                            }
+                        },
+                        "3": "Provided that an order for the payment of penalty shall not be passed under clause (b) without giving a reasonable opportunity to the employer to show cause why it should not be passed.",
+                        "4": "Explanation.\u2014For the purposes of this sub-section, \u201cscheduled bank\u201d means a bank for the time being included in the Second Schedule to the Reserve Bank of India Act, 1934.",
+                        "5": "7[(3A) The interest and the penalty payable under sub-section (3) shall be paid to the 2[employee] or his dependant, as the case may be.]"
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Method of calculating wages.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "8[Method of calculating wages.\u20148*** 9[In this Act and for the purposes thereof the expression \u201cmonthly wages\u201d means me amount of wages deemed to be payable for a month\u2019s service (whether the wages are payable by the month or by whatever other period or at piece rates), and calculated] as follows, namely:\u2014",
+                            "contains": {
+                                "0": "(a) where the 1[employee] has, during a continuous period of not less than twelve months immediately preceding the accident, been in the service of the employer who is liable to pay compensation, the monthly wages of the 1[employee] shall be one-twelfth of the total wages which have fallen due for payment to him by the employer in the last twelve months of that period;",
+                                "1": "2[(b) where the whole of the continuous period of service immediately preceding the accident during which the 1[employee] was in the service of the employer who is liable to pay the compensation was less than one month, the monthly wages of the 1[employee] shall be 3*** the average monthly amount which, during the twelve months immediately preceding the accident, was being earned by a 1[employee] employed on the same work by the same employer, or, if there was no 1[employee] so employed, by a 1[employee] employed on similar work in the same locality;]",
+                                "2": "4[(c)] 5[in other cases [including cases in which it is not possible for want of necessary information to calculate the monthly wages under clause (b)]], the monthly wages shall be thirty times the total wages earned in respect of the last continuous period of service immediately preceding the accident from the employer who is liable to pay compensation, divided by the number of days comprising such period.",
+                                "3": "6* * * * *",
+                                "4": "Explanation.\u2014A period of service shall, for the purposes of 7[this 8[section]] be deemed to be continuous which has not been interrupted by a period of absence from work exceeding fourteen days."
+                            }
+                        },
+                        "1": "9* * * * *"
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Review.",
+                    "paragraphs": {
+                        "0": "(1) Any half-monthly payment payable under this Act, either under an agreement between the parties or under the order of a Commissioner, may be reviewed by the Commissioner, on the application either of the employer or of the 1[employee] accompanied by the certificate of a qualified medical practitioner that there has been a change in the condition of the 1[employee] or, subject to rules made under this Act, on application made without such certificate.",
+                        "1": "(2) Any half-monthly payment may, on review under this section, subject to the provisions of this Act, be continued, increased, decreased or ended, or if the accident is found to have resulted in permanent disablement, be converted to the lump sum to which the 1[employee] is entitled less any amount which he has already received by way of half-monthly payments."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Commutation of half-monthly payments.",
+                    "paragraphs": {
+                        "0": "Any right to receive half-monthly payments may, by agreement between the parties or, if the parties cannot agree and the payments have been continued for not less than six months, on the application of either party to the Commissioner be redeemed by the payment of a lump sum of such amount as may be agreed to by the parties or determined by the Commissioner, as the case may be."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Distribution of compensation.",
+                    "paragraphs": {
+                        "0": "1[(1) No payment of compensation in respect of a 2[employee] whose injury has resulted in death, and no payment of a lump sum as compensation to a woman or a person under a legal disability, shall be made otherwise than by deposit with the Commissioner, and no such payment made directly by an employer shall be deemed to be a payment of compensation:",
+                        "1": "3[Provided that, in the case of a deceased 2[employee], an employer may make to any dependant advances on account of compensation 4[of an amount equal to three months\u2019 wages of such 2[employee] and so much of such amount] as does not exceed the compensation payable to that dependant shall be deducted by the Commissioner from such compensation and repaid to the employer.]",
+                        "2": "(2) Any other sum amounting to not less than ten rupees which is payable as compensation may be deposited with the Commissioner on behalf of the person entitled thereto.",
+                        "3": "(3) The receipt of the Commissioner shall be a sufficient discharge in respect of any compensation deposited with him.]",
+                        "4": "(4) On the deposit of any money under sub-section (1) 5[as compensation in respect of a deceased 2[employee] the Commissioner 6*** shall, if he thinks necessary, cause notice to be published or to be; served on each dependant in such manner as he thinks fit, calling upon the dependants to appear before him on such date as he may fix for determining the distribution of the compensation. If the Commissioner is satisfied after any inquiry which he may deem necessary, that no dependant exists, he shall repay the balance of the money to the employer by whom it was paid. The Commissioner shall, on application by the employer, furnish a statement showing in detail all disbursements made.",
+                        "5": "7[(5) Compensation deposited in respect of a deceased 2[employee] shall, subject to any deduction made under sub-section (4), be apportioned among the dependants of the deceased 2[employee] or any of them in such proportion as the Commissioner thinks fit, or may, in the discretion of the Commissioner, be allotted to any one dependant.",
+                        "6": "(6) Where any compensation deposited with the Commissioner is payable to any person, the Commissioner shall, if the person to whom the compensation is payable is not a woman or a person under a legal disability, and may, in other cases, pay the money to the person entitled thereto.",
+                        "7": "(7) Where any lump sum deposited with the Commissioner is payable to a woman or a person under a legal disability, such sum may be invested, applied or otherwise dealt with for the benefit of the woman, or of such person during his disability, in such manner as the Commissioner may direct; and where a half-monthly payment is payable to any person under a legal disability, the Commissioner may, of his own motion or on an application made to him in this behalf, order that the payment be made during the disability to any dependant of the employee or to any other person, whom the Commissioner thinks best fitted to provide for the welfare of the 2[employee].]",
+                        "8": "8[(8)] Where, on application made to him in this behalf or otherwise, the Commissioner is satisfied that, on account of neglect of children on the part of parent or on account of the variation of the circumstances of any dependant or for any other sufficient cause, an order of the Commissioner as to the distribution of any sum paid as compensation or as to the manner in which any sum payable to any such dependant is to be invested, applied or otherwise dealt with, ought to be varied, the Commissioner may make such orders for the variation of the former order as he thinks just in the circumstances of the case:",
+                        "9": "Provided that no such order prejudicial to any person shall be made unless such person has been given an opportunity of showing cause why the order should not be made, or shall be made in any case in which it would involve the repayment by a dependant of any sum already paid to him.",
+                        "10": "1[(9) Where the Commissioner varies any order under sub-section (8) by reason of the fact that payment of compensation to any person has been obtained by fraud, impersonation or other improper means, any amount so paid to or on behalf of such person may be recovered in the manner hereinafter provided in section 31]."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Compensation not to be assigned, attached or charged.",
+                    "paragraphs": {
+                        "0": "Save as provided by this Act, no lump sum or half-monthly payment payable under this Act shall in any way be capable of being assigned or charged or be liable to attachment or pass to any person other than the 2[employee] by operation of law, nor shall any- claim be set off against the same."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Notice and claim.",
+                    "paragraphs": {
+                        "0": "(1) 3[No claim for compensation shall be entertained by a Commissioner unless notice of the accident has been given in the manner hereinafter provided as soon as practicable after the happening thereof and unless the claim is preferred before him within 4[two years] of the occurrence of the accident or, in case of death, within 4[two years] from the date of death:]",
+                        "1": "Provided that, where the accident is the contracting of a disease in respect of which the provisions of sub-section (2) of section 3 are applicable, the accident shall be deemed to have occurred on the first of the days during which the 2[employee] was continuously absent from work in consequence of the disablement caused by the disease:",
+                        "2": "5[Provided further that in case of partial disablement due to the contracting of any such disease and which does not force the 2[employee] to absent himself from work, the period of two years shall be counted from the day the 2[employee] gives notice of the disablement to his employer:",
+                        "3": "Provided further that if a 2[employee] who, having been employed in an employment for a continuous period, specified under sub-section (2) of section 3 in respect of that employment, ceases to be so employed and develops symptoms of an occupational disease peculiar to that employment within two years of the cessation of employment, the accident shall be deemed to have occurred on the day on which the symptoms were first detected:]",
+                        "4": {
+                            "text": "6[Provided further that the want of or any defect or irregularity in a notice shall not be a bar to the 7[entertainment of a claim]\u2014",
+                            "contains": {
+                                "0": "(a) if the claim is 8[preferred] in respect of the death of a 2[employee] resulting from an accident which occurred on the premises of the employer, or at any place where the 2[employee] at the time of the accident was working under the control of- the employer or of any person employed by him, and the 2[employee] died on such premises or at such place, or on any premises belonging to the employer, or died without having left the vicinity of the premises or place where the accident occurred, or",
+                                "1": "(b) if the employer 9[or any one of several employers or any person responsible to the employer for the management of any branch of the trade or business in which the injured 2[employee] was employed] had knowledge of the accident from any other source at or about the time when it occurred:"
+                            }
+                        },
+                        "5": "Provided further, that the Commissioner may 1[entertain] and decide any claim to compensation in any case notwithstanding that the notice has not been given, or the claim has not been 2[preferred], in due time as provided in this sub-section, if he is satisfied that the failure so to give the notice of 3[prefer] the claim, as the case may be, was due to sufficient cause.",
+                        "6": "(2) Every such notice shall give the name and address of the persons injured and shall state in ordinary language the cause for the injury and the date on which the accident happened, and shall be served on the employer or upon 4[any one of] several employers, or upon any person 5*** responsible to the employer for the management of any branch of the trade or business in which the injured 6[employee] was employed.",
+                        "7": "7[(3) The State Government may require that any prescribed class of employers shall maintain at their premises at which 8[employees] are employed a notice-book, in the prescribed form, which shall be readily accessible at all reasonable times to any injured 6[employee] employed on the premises and to any person acting bona fide on his behalf.",
+                        "8": "(4) A notice under this section may be served by delivering it at, or sending it by registered post addressed to, the residence or any office or place of business of the person on whom it is to be served, or, where a notice-book is maintained, by entry in the notice-book.]"
+                    }
+                },
+                "Section 10A.": {
+                    "heading": "Power to require from employers statements regarding fatal accidents.",
+                    "paragraphs": {
+                        "0": "(1) Where a Commissioner receives information from any source that a 6[employee] has died as a result of an accident arising out of and in the course of his employment, he may send by registered post a notice to the workman\u2019s employer requiring him to submit, within thirty days of the service of the notice, a statement, in the prescribed form, giving the circumstances attending the death of the 6[employee], and indicating whether, in the opinion of the employer, he is or is not liable to deposit compensation on account of the death.",
+                        "1": "(2) If the employer is of opinion that he is liable to deposit compensation, he shall make the deposit within thirty days of the service of the notice.",
+                        "2": "(3) If the employer is of opinion that he is not liable to deposit compensation, he shall in his statement indicate the grounds on which he disclaims liability.",
+                        "3": "(4) Where the employer has so disclaimed liability, the Commissioner, after such enquiry as he may think fit, may inform any of the dependants of the deceased 6[employee], that it is open to the dependants to prefer a claim for compensation, and may give them such other further information as he may think fit."
+                    }
+                },
+                "Section 10B.": {
+                    "heading": "Reports of fatal accidents and serious bodily injuries.",
+                    "paragraphs": {
+                        "0": "(1) Where, by any law for the time being in force, notice is required to be given to any authority, by or on behalf of an employer, of any accident occurring on his premises which results in death 1[or serious bodily injury], the person required to give the notice shall, within seven days of the death 1[or serious bodily injury], send a report to the Commissioner giving the circumstances attending the death 1[or serious. bodily injury]:",
+                        "1": "Provided that where the State Government has so prescribed the person required to give the notice may instead of sending such report to the Commissioner send it to the authority to whom he is required to give the notice.",
+                        "2": "1[Explanation.\u2014\u201cSerious bodily injury\u201d means an injury which involves, or in all probability will involve the permanent loss of the use of, or permanent injury to, any limb, or the permanent loss of or injury to the sight or hearing, or the fracture of any limb, or the enforced absence of the injured person from work for a period exceeding twenty days.]",
+                        "3": "(2) The State Government may, by notification in the Official Gazette, extend the provisions of sub-section (1) to any class of premises other than those coming within the scope of that sub-section, and may, by such notification, specify the persons who shall send the report to the Commissioner:",
+                        "4": "1[(3) Nothing in this section shall apply to factories to which the Employees\u2019 State Insurance Act, 1948 (34 of 1948), applies.]"
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Medical examination.",
+                    "paragraphs": {
+                        "0": "(1) Where a 2[employee] has given notice of an accident, he shall, if the employer, before the expiry of three days from the time at which service of the notice has been effected, offers to have him examined free of charge by a qualified medical practitioner, submit himself for such examination, and any 2[employee] who is in receipt of a half monthly payment under this Act shall, if so required, submit himself for such examination from time to time:",
+                        "1": "Provided that a 2[employee] shall not be required to submit himself for examination by a medical practitioner otherwise than in accordance with rules made under this Act, or at more frequent intervals than may be prescribed.",
+                        "2": "(2) If a 2[employee], on being required to do so by the employer under sub-section (1) or by the Commissioner at any time, refuses to submit himself for examination by a qualified medical practitioner or in any way obstructs the same, his right to compensation shall be suspended during the continuance of such refusal or obstruction unless, in the\u2019 case of refusal, he was prevented by any sufficient cause from so submitting himself.",
+                        "3": "(3) If a 2[employee], before the expiry of period within which he is liable under sub-section (1) to be required to submit himself for medical examination, voluntarily leaves without having been so examined the vicinity of the place in which he was employed, his right to compensation shall be suspended until he returns and offers himself for such examination.",
+                        "4": "(4) Where a 2[employee], whose right to compensation has been suspended under sub-section (2) or sub-section (3), dies without having submitted himself for medical examination as required by either of those sub-sections, the Commissioner may, if he thinks fit, direct the payment of compensation to the dependants of the deceased 2[employee].",
+                        "5": "(5) Where under sub-section (2) or sub-section (3) a right to compensation is suspended, no compensation shall be payable in respect of the period of suspension, and, if the period of suspension commences before the expiry of the waiting period referred to in clause (d) of sub-section (1) of section 4, the waiting period shall be increased by the period during which the suspension continues.",
+                        "6": "(6) Where an injured 1[employee] has refused to be attended by a qualified medical practitioner whose services have been offered to him by the employer free of charge or having accepted such offer has deliberately disregarded the instructions of such medical practitioner, then, 2[if it is proved that the 1[employee] has not thereafter been regularly attended by a qualified medical practitioner or having been so attended has deliberately failed to follow his instructions and that such refusal, disregard or failure was unreasonable] in the circumstances of the case and that the injury has been aggravated thereby, the injury and resulting disablement shall be deemed to be of the same nature and duration as they might reasonably have been expected to be if the 1[employee] had been regularly attended by a qualified medical practitioner 3[whose instructions he had followed]., and compensation, it any, shall be payable accordingly."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Contracting.",
+                    "paragraphs": {
+                        "0": "(1) Where any person (hereinafter in this section referred to as the principal) in the course of or for the purposes of his trade or business contracts with any other person (hereinafter in this section referred to as the contractor) for the execution by or under the contractor of the whole or any part of any work which is ordinarily part of the trade or business of the principal, the principal shall be liable to pay to any 1[employee] employed in the execution of the work any compensation which he would have been liable to pay if that 1[employee] had been immediately employed by him; and where compensation is claimed from the principal, this Act shall apply as if references to the principal were substituted for references to the employer except that the amount of compensation shall be calculated with reference to the wages of the 1[employee] under the employer by whom he is immediately employed.",
+                        "1": "(2) Where the principal is liable to pay compensation under this section, he shall be entitled to be indemnified by the contractor 4[, or any other person, from whom the 1[employee] could have recovered compensation and where a contractor who is himself a principal is liable to pay compensation or to indemnify a principal under this section he shall be entitled to be indemnified by any person standing to him in the relation of a contractor from whom the 1[employee] could have recovered compensation] and all questions as to the right to and the amount of any such indemnity shall, in default of agreement, be settled by the Commissioner.",
+                        "2": "(3) Nothing in this section shall be construed as preventing a 1[employee] from recovering compensation from the contractor instead of the principal.",
+                        "3": "(4) This section shall not apply in any case where the accident occurred elsewhere than on, in or about the premises on which the principal has undertaken or usually undertakes, as the case may be, to execute the work or which are otherwise under his control or management."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Remedies of employer against stranger.",
+                    "paragraphs": {
+                        "0": "Where a 1[employee] has recovered compensation in respect of any injury caused under circumstances creating a legal liability of some person other than the person by whom the compensation was paid to pay damages in respect thereof, the person by whom the compensation was paid and any person who has been called on to pay an indemnity under section 12 shall be entitled to be indemnified by the person so liable to pay damages as aforesaid."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Insolvency of employer.",
+                    "paragraphs": {
+                        "0": "(1) Where any employer has entered into a contract with any insurers in respect of any liability under this Act to any 1[employee], then in the event of the employer becoming insolvent or making a composition or scheme of arrangement with his creditors or, if the employer is a company, in the event of the company having commenced to be wound up, the rights of the employer against the insurers as respects that liability shall, notwithstanding anything in any law for the time being in force relating to insolvency or the winding up of companies, be transferred to and vest in the 1[employee], and upon any such transfer the insurers shall have the same rights and remedies and be subject to the same liabilities as if they were the employer, so, however, that the insurers-shall not be under any greater liability to the 1[employee] than they would have been under to the employer.",
+                        "1": "(2) If the liability of the insurers to the 1[employee] is less than the liability of the employer to the 1[employee], the 1[employee] may prove for the balance in the insolvency proceedings or liquidation.",
+                        "2": "(3) Where in any case such as is referred to in sub-section (1) the contract of the employer with the insurers is void or voidable by reason of non-compliance on the part of the employer with any terms or conditions of the contract (other than a stipulation for the payment of premia), the provisions of that sub-section shall apply as if the contract were not void or voidable, and the insurers shall be entitled to prove in the insolvency proceedings or liquidation for the amount paid to the 1[employee]:",
+                        "3": "Provided that the provisions of this sub-section shall not apply in any case in which the 1[employee] fails to give notice to the insurers of the happening of the accident and of any resulting disablement as soon as practicable after he becomes aware of the institution of the insolvency or liquidation proceedings.",
+                        "4": "(4) There shall be deemed to be included among the debts which under section 49 of the Presidency- towns Insolvency Act, 1909 (3 of 1909), or under section 61 of the Provincial Insolvency Act, 1920 (5 of 1920), or under 2[section 530 of the Companies Act, 1956 (1 of 1956)] arc in the distribution of the property of an insolvent or in the distribution of the assets of a company being wound up to be paid in priority to all other debts, the amount due in respect of any compensation the liability where for accrued before the date of the order of adjudication of the insolvent or the date of the commencement of the winding up, as the ease may be, and those Acts shall have effect accordingly.",
+                        "5": "(5) Where the compensation is a half-monthly payment, the amount due in respect thereof shall, for the purposes of this section, be taken to be the amount of the lump sum for which the half-monthly payment could, if redeemable, be redeemed if application were made for that purpose under section 7, and a certificate of the Commissioner as to the amount of such sum shall be conclusive proof thereof.",
+                        "6": "(6) The provisions of sub-section (4) shall apply in the ease of any amount for which an insurer is entitled to prove under sub-section (3), but otherwise those provisions shall not apply where the insolvent or the company being wound up has entered into such a contract with insurers as is referred to in sub-section (1).",
+                        "7": "(7) This section shall not apply where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company."
+                    }
+                },
+                "Section 14A.": {
+                    "heading": "Compensation to be first charge on assets transferred by employer.",
+                    "paragraphs": {
+                        "0": "Where an employer transfers his assets before any amount due in respect of any compensation, the liability where for accrued before the date of the transfer, has been paid, such amount shall, notwithstanding anything contained in any other law for the time being in force, be a first charge on that part of the assets so transferred as consists of immovable property.]"
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Special provisions relating to masters and seamen.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "This Act shall apply in the case of 4[employees] who are masters of 5*** ships or seamen subject to the following modifications namely:\u2014",
+                            "contains": {
+                                "0": "(1) The notice of the accident and the claim for compensation may, except where the person injured is the master of the ship, be served on the master of the ship as if he were the employer, but where the accident happened and the disablement commenced on board the ship it shall not be necessary for any seaman to give any notice of the accident.",
+                                "1": "(2) In the case of the death of a master or seaman, the claim for compensation shall be made within 1[one year] after the news of the death has been received by the claimant or, where the ship has been or is deemed to have been lost with all hands, within eighteen months of the date on which the ship was, or is deemed to have been, so lost:",
+                                "2": "2[Provided that the Commissioner may entertain any claim to compensation in any case notwithstanding that the claim has not been preferred in due time as provided in this sub-section, if he is satisfied that the failure so to prefer the claim was due to sufficient cause.]",
+                                "3": {
+                                    "text": "(3) Where an injured master or seaman is discharged or left behind in any part of 3[India or] 4[in any foreign country] any depositions taken by any Judge or Magistrate in that part or by any Consular Officer in the foreign country and transmitted by the person by whom they are taken to the Central Government or any State Government shall, in any proceedings for enforcing the claim, be admissible in evidence\u2014",
+                                    "contains": {
+                                        "0": "(a) if the deposition is authenticated by the signature of the Judge, Magistrate or Consular Officer before whom it is made;",
+                                        "1": "(b) if the defendant or the person accused, as the case may be, had an opportunity by himself or his agent to cross-examine the witness; and",
+                                        "2": "(c) if the deposition was made in the course of a criminal proceeding, on proof that the deposition was made in the presence of the person accused;"
+                                    }
+                                }
+                            }
+                        },
+                        "1": {
+                            "text": "and it shall not be necessary in any case to prove the signature or official character of the person appearing to have signed any such deposition and a certificate by such person that the defendant or the person accused had an opportunity of cross-examining the witness and that the deposition if made in a criminal proceeding was made in the presence of the person accused shall, unless the contrary is proved, be sufficient evidence that he., had that opportunity and that it was so made.",
+                            "contains": {
+                                "0": "5* * * * *",
+                                "1": "6[(4)] No 7[half-monthly payment] shall be payable in respect of the period during which the owner of the ship is, under any law in force for the time being 8*** relating to merchant shipping, liable to defray the expenses of maintenance of the injured master or seaman.",
+                                "2": "9[(5) No compensation shall be payable under this Act in respect of any injury in respect of which provision is made for payment of a gratuity, allowance or pension under the War Pensions and Detention Allowances (Mercantile Marine, etc.) Scheme, 1939, or the War Pensions and Detention Allowances (Indian Seamen, etc.) Scheme, 1941, made under the Pensions (Navy, Army, Air Force and Mercantile Marine) Act, 1939 (2 & 3 Geo.), or under the War Pensions and Detention Allowances (Indian Seamen) Scheme, 1942 (6, c. 83), made by the Central Government.",
+                                "3": {
+                                    "text": "(6) Failure to give a notice or make a claim or commence proceedings within the time required by this Act shall not be a bar to the maintenance of proceedings under this Act in respect of any personal injury, if\u2014",
+                                    "contains": {
+                                        "0": "(a) an application has been made for payment in respect of that injury under any of the schemes referred to in the preceding clause, and",
+                                        "1": "(b) the State Government certifies that the said application was made in the reasonable belief that the injury was one in respect of which the scheme under which the application was made makes provision for payments, and that the application was rejected or that payments made in pursuance of the application were discontinued on the ground that the injury was not such an injury, and",
+                                        "2": "(c) the proceedings under this Act are commenced within one month from the date on which the said certificate of the State Government was furnished to the person commencing the proceedings.]"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 15A.": {
+                    "heading": "Special provisions relating to captains and other members of crew of aircrafts.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "This Act shall apply in the case of 2[employees] who are captains or other members of the crew of aircrafts subject to the following modifications, namely:\u2014",
+                            "contains": {
+                                "0": "(1) The notice of the accident and the claim for compensation may, except where the person injured is the captain of the aircraft, be served on the captain of the aircraft as if he were the employer, but where the accident happened and the disablement commenced on board the aircraft it shall not be necessary for any member of the crew to give notice of the accident.",
+                                "1": "(2) In the case of the death of the captain or other member of the crew, the claim for compensation shall be made within one year after the news of the death has been received by the claimant or, where the aircraft has been or is deemed to have been lost with all hands, within eighteen months of the date on which the aircraft was, or is deemed to have been, so lost:",
+                                "2": "Provided that the Commissioner may entertain any claim for compensation in any case notwithstanding that the claim has not been preferred in due time as provided in this sub-section, if he is satisfied that the failure so to prefer the claim was due to sufficient cause.",
+                                "3": {
+                                    "text": "(3) Where an injured captain or other member of the crew of the aircraft is discharged or left behind in any part of India or in any other country, any depositions taken by any Judge or Magistrate in that part or by any Consular Officer in the foreign country and transmitted by the person by whom they are taken to the Central Government or any State Government shall, in any proceedings for enforcing the claims, be admissible in evidence\u2014",
+                                    "contains": {
+                                        "0": "(a) if the deposition is authenticated by the signature of the Judge, Magistrate or Consular Officer before whom it is made;",
+                                        "1": "(b) if the defendant or the person accused, as the case may be, had an opportunity by himself or his agent to cross-examine the witness;",
+                                        "2": "(c) if the deposition was made in the course of a criminal proceeding, on proof that the deposition was made in the presence of the person accused,"
+                                    }
+                                }
+                            }
+                        },
+                        "1": "and it shall not be necessary in any case to prove the signature or official character of the person appearing to have signed any such deposition and a certificate by such person that the defendant or the person accused had an opportunity of cross-examining the witness and that the deposition if made in a criminal proceedings was made in the presence of the person accused shall, unless the contrary is proved, be sufficient evidence that he had that opportunity and that it was so made."
+                    }
+                },
+                "Section 15B.": {
+                    "heading": "Special provisions relating to employees abroad of companies and motor vehicles.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "This Act shall apply\u2014",
+                            "contains": {
+                                "0": "(i) in the case of 2[employees] who are persons recruited by companies registered in India and working as such abroad, and",
+                                "1": {
+                                    "text": "(ii) persons sent for work abroad along with motor vehicles registered under the Motor Vehicles, Act, 1988 (59 of 1988) as drivers, helpers, mechanics, cleaners or other 1[employees], subject to the following modifications, namely:\u2014",
+                                    "contains": {
+                                        "0": "(1) The notice of the accident and the claim for compensation may be served on the local agent of the company, or the local agent of the owner of the motor vehicle, in the country of accident, as the case may be.",
+                                        "1": "(2) In the case of death of the 2[employee] in respect of whom the provisions of this section shall apply, the claim for compensation shall be made within one year after the news of the death has been received by the claimant:",
+                                        "2": "Provided that the Commissioner may entertain any claim for compensation in any case notwithstanding that the claim has not been preferred in due time as provided in this subsection, if he is satisfied that the failure so to prefer the claim was due to sufficient cause.",
+                                        "3": {
+                                            "text": "(3) Where an injured 2[employee] is discharged or left behind in any part of India or in any other country any depositions taken by any Judge or Magistrate in that part or by any Consular Officer, in the foreign country and transmitted by the person by whom they are taken to the Central Government or any State Government shall, in any proceedings for enforcing the claims, be admissible in evidence\u2014",
+                                            "contains": {
+                                                "0": "(a) if the deposition is authenticated by the signature of the Judge, Magistrate or Consular Officer before whom it is made;",
+                                                "1": "(b) if the defendant or the person accused, as the case may be, had an opportunity by himself or his agent to cross-examine the witness;",
+                                                "2": "(c) if the deposition was made in the course of a criminal proceeding, on proof that the deposition was made in the presence of \u2018the person accused,"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "1": "and it shall not be necessary in any case to prove the signature 017 official character of the person appearing to have signed any such deposition and a certificate by such person that the defendant or the person accused had an opportunity of cross-examining the witness and that the deposition if made in a criminal proceeding vas made in the presence of the person accused shall, unless the contrary is proved, be sufficient evidence that he had that opportunity and that it was so made.]"
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Returns as to compensation.",
+                    "paragraphs": {
+                        "0": "The 3[State Government] may by notification in the Official Gazette, direct that every person employing 1[employees], or that any specified class of such persons, shall send at such time and in such form and to such authority, as may be specified in the notification, a correct return specifying the number of injuries in respect of which compensation has been paid by the employer during the previous year and the amount of such compensation together with such other particulars as to the compensation as the 3[State Government] may direct."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Contracting out.",
+                    "paragraphs": {
+                        "0": "Any contract or agreement whether made before or after the commencement of this Act, whereby a 2[employee] relinquishes any right of compensation from the employer for personal injury arising out of or in the course of the employment, shall be null and void in so far as it purports to remove or reduce the liability of any person to pay compensation under this Act."
+                    }
+                },
+                "Section 17A.": {
+                    "heading": "Duty of employer to inform employee of his rights.",
+                    "paragraphs": {
+                        "0": "Every employer shall immediately at the time of employment of an employee, inform the employee of his rights to compensation under this Act, in writing as well as through electronic means, in English or Hindi or in the official language of the area of employment, as may be understood by the employee.]"
+                    }
+                },
+                "Section 18.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Proof of age.] Rep. by the Workmen\u2019s Compensation (Amendment) Act, 1959 (8 of 1959), s. 12 (w.e.f. 1-6-1959)."
+                    }
+                },
+                "Section 18A.": {
+                    "heading": "Penalties.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Whoever\u2014",
+                            "contains": {
+                                "0": "(a) fails to maintain a notice-book which he is required to maintain under sub-section (3) of section 10, or",
+                                "1": "(b) fails to send to the Commissioner a statement which he is required to sent under sub-section (1) of section 10A, or",
+                                "2": "(c) fails to send a report which he is required to sent under section 10B, or",
+                                "3": "(d) fails to make a return which he is required to make under 2[section 16, or]",
+                                "4": "3[(e) fails to inform the employee of his rights to compensation as required under section 17A;]"
+                            }
+                        },
+                        "1": {
+                            "text": "shall be punishable with fine 4[which shall not be less than fifty thousand rupees but which may extend to one lakh rupees].",
+                            "contains": {
+                                "0": "(2) No prosecution under this section shall be instituted except by or with the previous sanction of a Commissioner, and no Court shall take cognizance of any offence under this section, unless complaint thereof is made 5[within six months of the date on which the alleged commission of the offence came to the knowledge of the Commissioner].]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "COMMISSIONERS",
+            "Sections": {
+                "Section 19.": {
+                    "heading": "Reference to Commissioners.",
+                    "paragraphs": {
+                        "0": "(1) If any question arises in any proceedings under this Act as to the liability of any person to pay compensation (including any question as to whether a person injured is or is not a 6[employee]) or as to the amount or duration of compensation (including any question as to the nature or extent of disablement), the question shall, in default of agreement, be settled by 7[a Commissioner].",
+                        "1": "(2) No Civil Court shall have jurisdiction to settle, decide or deal with any question which is by or under this Act required to be \u2018settled, decided or dealt with by a Commissioner or to enforce any liability incurred under this Act."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Appointment of Commissioners.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may, by notification in the Official Gazette, 8[who is or has been a member of a State Judicial Service for a period of not less than five years or is or has been for not less than five years an advocate or a pleader or is or has been a Gazetted Officer for not less than five years having education qualifications and experience in personnel management, human resource development and industrial relations] appoint any person to be a Commissioner for Workmen\u2019s Compensation for such 9*** area as may be specified in the notification.",
+                        "1": "1[(2) Where more than one Commissioner had been appointed for any 2*** area, the State Government may, by general or special order, regulate the distribution of business between them.]",
+                        "2": "3[(3)] Any Commissioner may, for the purpose of deciding any matter referred to him for decision under this Act, choose one or more persons possessing special knowledge of any matter relevant to the matter under inquiry to assist him in holding the inquiry.",
+                        "3": "3[(4)] Every Commissioner shall be deemed to be a public servant within the meaning of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Venue of proceedings and transfer.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "4[(1) Where any matter is under this Act to be done by or before a Commissioner, the same shall, subject to the provisions of this Act and to any rules made hereunder, be done by or before the Commissioner for the area in which\u2014",
+                            "contains": {
+                                "0": "(a) the accident took place which resulted in the injury; or",
+                                "1": "(b) the 5[employee] or in case of his death, the dependant claiming the compensation ordinarily resides; or",
+                                "2": "(c) the employer has his registered office:"
+                            }
+                        },
+                        "1": "Provided that no matter shall be processed before or by a Commissioner, other than the Commissioner having jurisdiction over the area in which the accident took place, without his giving notice in the manner prescribed by the Central Government to the Commissioner having jurisdiction over the area and the State Government concerned:",
+                        "2": "Provided further that, where the 5[employee], being the master of a ship or a seaman or the captain or a member of the crew of an aircraft or a 5[employee] in a motor vehicle or a company, meets with the accident outside India any such matter may be done by or before a Commissioner for the area in which the owner or agent of the ship, aircraft or motor vehicle resides or carries on business or the registered office of the company is situate, as the case may be.",
+                        "3": "(1A) If a Commissioner, other than the Commissioner with whom any money has been deposited under section 8, proceeds with a matter under this Act, the former may for the proper disposal of the matter call for transfer of any records or money remaining with the latter and on receipt of such a request, he shall comply with the same.]",
+                        "4": "(2) If a Commissioner is satisfied 6[that any matter arising out of any proceedings pending before him] can be more conveniently depth with by any other Commissioner, whether in the same State or not, he may, subject to rules made under this Act, order such matter to be transferred to such other Commissioner either for report or for disposal, and, if he does so, shall forthwith transmit to such other Commissioner all documents relevant for the decision of such matter and, where the matter is transferred for disposal, shall also transmit in the prescribed manner any money remaining in his hands or invested by his for the benefit of any party to the proceedings:",
+                        "5": "1[Provided that the Commissioner shall not, where any party to the proceedings has appeared before him, make any order of transfer relating to the distribution among dependants of a lump sum without giving such party an opportunity of being heard:]",
+                        "6": "2* * * * *",
+                        "7": "(3) The Commissioner to whom any matter is so transferred shall, subject to rules made under this Act, inquire there into and, if the matter was transferred for report, return his report thereon or, if the matter was transferred for disposal, continue the proceedings as if they had originally commenced before him.",
+                        "8": "(4) On receipt of a report from a Commissioner to whom any matter has been transferred for report under sub-section (2), the Commissioner by whom it, was referred shall decide the matter referred in conformity with such report.",
+                        "9": "3[(5) The State Government may transfer any matter from any Commissioner appointed by it to any other Commissioner appointed by it.]"
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Form of application.",
+                    "paragraphs": {
+                        "0": "4[(1) Where an accident occurs in respect of which liability to pay compensation under this Act arises, a claim for such compensation may, subject to the provisions of this Act, be made before the Commissioner.",
+                        "1": "(1A) Subject to the provisions of sub-section (1), no application for the settlement] of any matter by a Commissioner, 5[other than an application by a dependant or dependants for compensation] shall be made unless and until some question has arisen between the parties in connection therewith which they have been unable to settle by agreement.",
+                        "2": {
+                            "text": "(2) 6[An application to a Commissioner] may be made in such form and shall be accompanied by such fee, if any, as may be prescribed, and shall contain, in addition to any particulars which may be prescribed, the following particulars, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a concise statement of the circumstances in which the application is made and the relief or order which the applicant claims;",
+                                "1": "(b) in the case of a claim for compensation against an employer, the date of service of notice of the accident on the employer and, if such notice has not been served or has not been served in due time, the reason for such omission;",
+                                "2": "(c) the names and addresses of the parties; and",
+                                "3": "(d) 5[except in the case of an application by dependants for compensation] a concise statement of the matters on which agreement has and 7[of] those on which agreement has not been come to."
+                            }
+                        },
+                        "3": "(3) If the applicant is illiterate or for any other reason is unable to furnish the required information in writing, the application shall, if the applicant so desires, be prepared under the direction of the Commissioner."
+                    }
+                },
+                "Section 22A.": {
+                    "heading": "Power of Commissioner to require further deposit in cases of fatal accident.",
+                    "paragraphs": {
+                        "0": "(1) Where any sum has been deposited by an employer as compensation payable in respect of a 9[employee] whose injury has resulted in death, and in the opinion of the Commissioner such sum is insufficient, the Commissioner may, by notice in writing stating his reasons, call upon the employer to show cause why he should not make a further deposit within such time as may be stated in the notice.",
+                        "1": "(2) If the employer fails to show cause to the satisfaction of the Commissioner, the Commissioner may make an award determining the total amount payable, and requiring the employer to deposit the deficiency.]"
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Powers and procedure of Commissioners.",
+                    "paragraphs": {
+                        "0": "The Commissioner shall have all the powers of a Civil Court under the Code of Civil Procedure, 1908 (5 of 1908), for the purpose of taking evidence on oath (which such Commissioner is hereby empowered to impose) and of enforcing the attendance of witnesses and compelling the production of documents and material objects, 1[and the Commissioner shall be deemed to be a Civil Court for all the purposes of 2[section 195 and of Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974)]."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Appearance of parties.",
+                    "paragraphs": {
+                        "0": "Any appearance, application or act required to be made or done by any person before or to a Commissioner (other than an appearance of a party which is required for the purpose of his examination as a witness) may be made or done on behalf of such person by a legal practitioner or by an official of an Insurance Company or a registered Trade Union or by an Inspector appointed under sub-section (1) of section 8 of the Factories Act, 1948 (63 of 1948), or under sub-section (1) of section 5 of the Mines Act, 1952 (35 of 1952), or by any other officer specified by the State Government in this behalf, authorised in writing by such person, or, with the permission of the Commissioner, by any other person so authorised.]4"
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Method of recording evidence.",
+                    "paragraphs": {
+                        "0": "The Commissioner shall make a brief memorandum of the substance of the evidence of every witness as the examination of the witness proceeds, and such memorandum shall be written and signed by the Commissioner with his own hand and shall form part of the record:",
+                        "1": "Provided that, if the Commissioner is prevented from making such memorandum, he shall record the reason of his inability to do so and shall cause such memorandum to be made in writing from his dictation and shall sign the same, and such memorandum shall form part of the record:",
+                        "2": "Provided further that the evidence of any medical witness shall be taken down as nearly as may be word for word."
+                    }
+                },
+                "Section 25A.": {
+                    "heading": "Time limit of disposal of cases relating to compensation.",
+                    "paragraphs": {
+                        "0": "The Commissioner shall dispose of the matter relating to compensation under this Act within a period of three months from the date of reference and intimate the decision in respect thereof within the said period to the employee.]"
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Costs.",
+                    "paragraphs": {
+                        "0": "All costs, incidental to any proceedings before a Commissioner, shall, subject to rules made under this Act, be in the discretion of the Commissioner."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Power to submit eases.",
+                    "paragraphs": {
+                        "0": "A Commissioner may, if he thinks fit, submit any question of law for the decision of the High Court and, if he does so, shall decide the question in conformity with such decision."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Registration of Agreements.",
+                    "paragraphs": {
+                        "0": "(1) Where the amount of any lump sum payable as compensation has been settled by agreement, whether by way or redemption of a half-monthly payment or otherwise, or where any compensation has been so settled as being payable 6[to a woman or a person under a legal disability] 1*** a memorandum thereof shall be sent by the employer to the Commissioner, who shall, on being satisfied as to its genuineness, record the memorandum in a register in the prescribed manner:",
+                        "1": {
+                            "text": "Provided that\u2014",
+                            "contains": {
+                                "0": "(a) no such memorandum shall be recorded before seven days after communication by the Commissioner of notice to the parties concerned;",
+                                "1": "2* * * * *",
+                                "2": "(c) the Commissioner may at any time rectify the register;",
+                                "3": "(d) where it appears to the Commissioner that an agreement as to the payment of a lump sum whether by way of redemption of a half-monthly payment or otherwise, or an agreement as to the amount of compensation payable 3[to a woman or a person under a legal disability] 4*** ought not to be registered by reason of the inadequacy of the sum or amount, or by reason of the agreement having been obtained by fraud or undue influence or other improper means, he may refuse to record the memorandum of the agreement 5[and may make such order] including an order as to any sum already paid under the agreement, as he thinks just in the circumstances."
+                            }
+                        },
+                        "2": "(2) An agreement for the payment of compensation which has been registered under sub-section (1) shall be enforceable under this Act notwithstanding anything contained in the Indian Contract Act, 1872 (9 of 1872), or in any other law for the time being in force."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Effect of failure to register agreement.",
+                    "paragraphs": {
+                        "0": "Where a memorandum of any agreement the registration of which is required by section 28, is not sent to the Commissioner as required by that section, the employer shall be liable to pay the full amount of compensation which he is liable to pay under the provisions of this Act, and notwithstanding an thing contained in the proviso to sub-section (1) of section 4, shall not, unless the Commissioner otherwise directs, be entitled to deduct more than half of any amount paid to the 6[employee] by way of compensation whether under the agreement or otherwise."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Appeals.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) An appeal shall lie to the High Court from the following orders of a Commissioner, namely:\u2014",
+                            "contains": {
+                                "0": "(a) an order awarding as compensation a lump sum whether by way of redemption of a half- monthly payment or otherwise or disallowing a claim in full or in part for a lump sum;",
+                                "1": "7[(aa) an order awarding interest or penalty under section 4A;]",
+                                "2": "(b) an order refusing to allow redemption of a half-monthly payment;",
+                                "3": "(c) an order providing for the distribution of compensation among the dependants of a deceased 6[employee], or disallowing any claim of a person alleging himself to be such dependant;",
+                                "4": "(d) an order allowing or disallowing any claim for the amount of an indemnity under the provisions of sub-section (2) of section 12; or",
+                                "5": "(e) an order refusing to register a memorandum of agreement or registering the same or providing for the registration of the same subject to conditions:"
+                            }
+                        },
+                        "1": "Provided that no appeal shall lie against any order unless a substantial question of law is involved in the appeal and, in the case of an order other than an order such as is referred to in clause (b), unless the amount in dispute in the appeal is not less than 1[ten thousand rupees or such higher amount as the Central Government may, by notification in the Official Gazette, specify]:",
+                        "2": "Provided, further, that no appeal shall lie in any case in which the parties have agreed to abide by the decision of the Commissioner, or in which the order of the Commissioner gives effect to an agreement come to by the parties:",
+                        "3": "2[Provided further that no appeal by an employer under clause (a) shall lie unless the memorandum of appeal is accompanied by a certificate by the Commissioner to the effect that the appellant has deposited with him the amount payable under the order appealed against.]",
+                        "4": "(2) The period of limitation for an appeal under this section shall be sixty days.",
+                        "5": "(3) The provisions of section 5 of 3[the Indian Limitation Act, 1963 (36 of 1963)] shall be applicable to appeals under this section."
+                    }
+                },
+                "Section 30A.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Withholding of certain payments pending decision of appeal].\u2014Omitted by the Employee\u2019s Compensation (Amendment) Act 2017, s. 5 (w.e.f. 15-5-2017)."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Recovery.",
+                    "paragraphs": {
+                        "0": "The Commissioner may recover is an arrear of land-revenue any amount payable by any person under this Act, whether under an agreement for the payment of compensation or otherwise, and the Commissioner shall be deemed to be a public officer within the meaning of section 5 of the Revenue Recovery Act, 1890 (1 of 1890)4."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "RULES",
+            "Sections": {
+                "Section 32.": {
+                    "heading": "Power of the State Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The 5[State Government] may make rules6 to carry out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) for prescribing the intervals at which and the conditions subject to which an application for review may be made under section 6 when not accompanied by a medical certificate;",
+                                "1": "(b) for prescribing the intervals at which and the conditions subject to, which a 7[employee] may be required to submit himself for medical examination under sub-section (1) of section 11;",
+                                "2": "(c) for prescribing the procedure to be followed by Commissioners in the disposal of cases under this Act and by the parties in such cases;",
+                                "3": "(d) for regulating the transfer of matters and cases from one Commissioner to another and the transfer of money in such cases;",
+                                "4": "(e) for prescribing the manner in which money in the hands of a Commissioner may be invested for the benefit of dependants of a deceased 7[employee] and for the transfer of money so invested from one Commissioner to another;",
+                                "5": "(f) for the representation in proceedings before Commissioners of parties who are minors or are unable to make an appearance;1",
+                                "6": "(g) for prescribing the form and manner in which memoranda of agreements shall be presented and registered;",
+                                "7": "(h) for the withholding by Commissioners, whether in whole or in part of half-monthly payments pending decision on applications for review of the same; 2***",
+                                "8": "2* * * * *",
+                                "9": "2[(i) for regulating the scales of costs which may be allowed in proceedings under this Act;",
+                                "10": "(j) for prescribing and determining the amount of the fees payable in respect of any proceedings before a Commissioner under this Act;",
+                                "11": "(k) for the maintenance by Commissioners of registers and records of proceedings before them;",
+                                "12": "(l) for prescribing the classes of employers who shall maintain notice-books under sub-section (3) of section 10, and the form of such notice-books;",
+                                "13": "(m) for prescribing the form of statement to be submitted by employers under section 10A; 3***",
+                                "14": "(n) for prescribing the cases in which the report referred to in section 10B may be sent to an authority other than the Commissioner;]",
+                                "15": "4[(o) for prescribing abstracts of this Act and requiring the employers to display notices containing such abstracts;",
+                                "16": "(p) for prescribing the manner in which diseases specified as occupational diseases may be diagnosed;",
+                                "17": "(q) for prescribing the manner in which diseases may be certified for any of the purposes of this Act;",
+                                "18": "(r) for prescribing the manner in which, and the standards by which, incapacity ,may be assessed.]"
+                            }
+                        },
+                        "2": "5[(3) Every rule made under this section shall be laid, as soon as may be after it is made, before the State Legislature]."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Power of Local Government to make rules.] Rep. by the A.O. 1937."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Publication of rules.",
+                    "paragraphs": {
+                        "0": "(1) The power to make rules conferred by 6[section 32] shall be subject to the condition of the rules being made after previous publication.",
+                        "1": "(2) The date to be specified in accordance with clause (3) of section 23 of the General Clauses Act, 1897 GO of 1897); as that after which a draft of rules proposed to be made under section 32 7*** will be taken into consideration, shall not be less than three months from the date on which the draft of the proposed rules was published for general information.",
+                        "2": "(3) Rules so made shall be published in 1*** the Official Gazette 2*** and, on suchpublication, shall have effect as if enacted in this Act."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Rules to give effect to arrangements with other countries for the transfer of money paid as compensation.",
+                    "paragraphs": {
+                        "0": "4[(1)] The Central Government may by notification in the Official Gazette, make rules for the transfer 5*** 6[to any foreign country] of money 7[deposited with] a Commissioner under this Act 8[which has been awarded to or may be due to], any person residing or about to reside in 9[such foreign country] and for the receipt 10[distribution] and administration in 11[any State] of any money 12[deposited] under the law relating to Workmen\u2019s compensation 13*** 14[in any foreign country], 15[which has been awarded to, or may be due to] any person residing or about to reside in 11[any State]:]",
+                        "1": "10[Provided that no sum deposited under this Act in respect of fatal accidents shall be so transferred without the consent of the employer concerned until the Commissioner receiving the sum has passed orders determining its distribution and apportionment under the provisions of sub-section (4) and (5) of section 8.]",
+                        "2": "(2) Where money deposited with a Commissioner has been so transferred in accordance with the rules made under this section, the provisions elsewhere contained in this Act regarding distribution by the Commissioner of compensation\u2019 deposited with him shall cease to apply in respect of any such money."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Rules made by Central Government to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule made under this Act by the Central Government shall be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in 17[two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid], both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]"
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "SCHEDULE I": {
+            "0": "1[SCHEDULE I [See sections 2(1) and (4)] 2[PART I LIST OF INJURIES DEEMED TO RESULT IN PERMANENT TOTAL DISABLEMENT]",
+            "1": "Serial Description of injury Percentage of loss No. of earning capacity",
+            "2": "1. Loss of both hands or amputation at higher sites\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. 100",
+            "3": "2. Loss of a hand and a foot\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. 100",
+            "4": "3. Double amputation through leg or thigh, or amputation through leg or thigh 100 on one side and loss of other foot\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..",
+            "5": "4. Loss of sight to such an extent as to render the claimant unable to perform 100 any work for which eye sight is essential\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026...",
+            "6": "5. Very severe facial disfigurement\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 100",
+            "7": {
+                "text": "6. Absolute deafness\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 100",
+                "contains": {
+                    "0": "3[PART II",
+                    "1": "LIST OF INJURIES DEEMED TO- RESULT IN PERMANENT PARTIAL DISABLEMENT] Amputation cases\u2014upper limbs (either arm)"
+                }
+            },
+            "8": "4[1] Amputation through shoulder joint\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 90",
+            "9": "4[2] Amputation below shoulder with stump less than 5[20.32 cms.] from tip of acromion \u2026. 80",
+            "10": "6[3] Amputation from 7[20.32 cms] from tip of acromion to less than 7[11.43cms.] 70 below tip of olecranon\u2026\u2026.",
+            "11": "6[4] Loss of a hand or of the thumb and four fingers of one hand or amputation from 60 6[11.43] below tip of olecranon\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.",
+            "12": "6[5] Loss of thumb\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 30",
+            "13": "6[6] Loss of thumb and its metacarpal bone\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 40",
+            "14": "6[7] Loss of four fingers of one hand\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 50",
+            "15": "6[8] Loss of three fingers of one hand\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 30",
+            "16": "6[9] Loss of two fingers of one hand\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 20",
+            "17": "6[10] Loss of terminal phalanx of thumb\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 20",
+            "18": "6[10A Guillotine Amputation of tip of thumb without loss of bone\u2026\u2026\u2026 10]",
+            "19": {
+                "text": "Serial Description of injury Percentage of loss No. of earning capacity",
+                "contains": {
+                    "0": "Amputation cases\u2014lower limbs"
+                }
+            },
+            "20": "1[11] Amputation of both feet resulting in end-bearing tumps\u2026\u2026\u2026\u2026\u2026\u2026\u2026 90",
+            "21": "1[12] Amputation through both feet proximal to the metatarso-phalangeal 80 joint\u2026",
+            "22": "1[13] Loss of all toes of both feet through the metatarso-phalangeal joint\u2026\u2026\u2026 40",
+            "23": "1[14] Loss of all toes of both feet proximal to the proximal interphalangeal 30 joint\u2026\u2026\u2026",
+            "24": "1[15] Loss of all toes of both feet distal to the proximal interphalangeal 20 joint\u2026\u2026\u2026\u2026",
+            "25": "1[16] Amputation at hip\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 90",
+            "26": "1[17] Amputation below hip with stump not exceeding 2[12.70 cms.] in length 80 measured from tip of great trenchanter\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+            "27": "1[18] Amputation below hip with stump exceeding 2[12.70 cms.] in length 70 measured from tip of great trenchanter but not beyond middle thigh\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+            "28": "1[19] Amputation below hip middle thigh to 2[8.89cms.] blownee\u2026\u2026\u2026\u2026\u2026 60",
+            "29": "1[20] Amputation below knee with stump exceeding [8.89] but not exceeding [50]1 5\u201d\u2026\u2026\u2026..",
+            "30": "1[21] Amputation below knee with stump exceeding 2[12.70 cms.]\u2026\u2026\u2026\u2026\u2026 [50]1",
+            "31": "1[22] Amputation of one foot resulting in end-bearing\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 [50]1",
+            "32": "1[23] Amputation through one foot proximal to the metatarso-phalangeal 50 joint\u2026\u2026\u2026\u2026\u2026..",
+            "33": {
+                "text": "1[24] Loss of all toes of one foot through the metatarso-phalangeal 20 joint\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+                "contains": {
+                    "0": "Other injuries"
+                }
+            },
+            "34": "1[25] Loss of one eye, without complication, the other being 40 normal\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+            "35": "1[26] Loss of vision of one eye, without complications or disfigurement of eye- 30 ball, the other being normal\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+            "36": "3[26A] Loss of partial vision of one eye\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 10",
+            "37": "Serial Description of injury Percentage of No. loss of earning capacity",
+            "38": {
+                "text": "Loss of\u2014",
+                "contains": {
+                    "0": {
+                        "text": "A.\u2014Fingers of right or left",
+                        "contains": {
+                            "0": "hand Index finger"
+                        }
+                    }
+                }
+            },
+            "39": "1[27] Whole 14",
+            "40": "1[28] Two phalanges 11",
+            "41": "1[29] One phalanx 9",
+            "42": {
+                "text": "1[30] Guillotine amputation of tip without loss of bone 5",
+                "contains": {
+                    "0": "Middle Finger"
+                }
+            },
+            "43": "1[31] Whole 12",
+            "44": "1[32] Two phalanges 9",
+            "45": "1[33] One phalanx 7",
+            "46": {
+                "text": "1[34] Guillotine amputation of tip without loss of bone 4",
+                "contains": {
+                    "0": "Ring or little finger"
+                }
+            },
+            "47": "1[35] Whole 7",
+            "48": "1[36] Two phalanges 6",
+            "49": "1[37] One phalanx 5",
+            "50": {
+                "text": "1[38] Guillotine amputation of tip without loss of bone 2",
+                "contains": {
+                    "0": {
+                        "text": "B.\u2014Toes of right or left foot",
+                        "contains": {
+                            "0": "Great toe"
+                        }
+                    }
+                }
+            },
+            "51": "1[39] Through metatarso-phalangcal joint 14",
+            "52": {
+                "text": "1[40] Part, with some loss of bone 3",
+                "contains": {
+                    "0": "Any other toe"
+                }
+            },
+            "53": "1[41] Through metatarso-phalangcal joint 3",
+            "54": {
+                "text": "1[42] Part, with some loss of bone 1",
+                "contains": {
+                    "0": "Two toes of one foot, excluding great toe"
+                }
+            },
+            "55": "1[43] Through metatarso-phalangcal joint 5",
+            "56": {
+                "text": "1[44] Part, with some loss of bone 2",
+                "contains": {
+                    "0": "Three toes of one foot, excluding great toe"
+                }
+            },
+            "57": "1[45] Through metatarso-phalangcal joint 6",
+            "58": "1[46] Part, with some loss of bone 3",
+            "59": {
+                "text": "Serial Description of injury Percentage of No. loss of earning capacity",
+                "contains": {
+                    "0": "Four toes of one foot, excluding great toe"
+                }
+            },
+            "60": "1[47] Through metatarso-phalangcal joint 9",
+            "61": "1[48] Part, with some loss of bone 3.]",
+            "62": "2[NOTE.\u2014Complete and permament loss of the use of any limb or member referred to in this Schedule shall be deemed to be the equivalent of the loss of that limb or member.]"
+        },
+        "SCHEDULE II": {
+            "0": "SCHEDULE II",
+            "1": "[See 1[section 2 (1) (dd)]]",
+            "2": {
+                "text": "LIST OF PERSONS WHO, SUBJECT TO THE PROVISIONS OF 1[SECTION 2 (1) (dd)], \u2018ARE INCLUDED IN THE DEFINITION OF 2[EMPLOYEES]",
+                "contains": {
+                    "0": {
+                        "text": "The following persons are employee\u2019s within the meaning of 1[section 2 (1) (dd)] and subject to the provisions of that section, that is to say, any person who is\u2014",
+                        "contains": {
+                            "0": "3[4[(i) 5[employed in railways], in connection with the operation 6[repair or maintenance of a lift or a vehicle propelled by steam or other mechanical power or by electricity or in connection with the loading or unloading of any such vehicle; or",
+                            "1": "(ii) employed, 7***, in any premises wherein or within the precincts whereof a manufacturing process as defined in clause (k) of section 2 of the Factories Act, 1948 (63 of 1948) is being carried on, or in any kind of work whatsoever incidental to or connected with any such manufacturing process or with the article made 8[whether or not employment in any such work is within such premises or precincts], and steam, water or other mechanical power or electrical power is used; or",
+                            "2": "(iii) employed for the purpose of making, altering, repairing, ornamenting, finishing or otherwise adapting for use, transport or sale any \u2018article or part of an article in any premises 9***; 10***",
+                            "3": "7[Explanation.\u2014for the purposes of this clause, persons employed outside such premises or precincts but in any work incidental to, or connected with, the work relating to making, altering, repairing, ornamenting, finishing or otherwise adapting for use, transport or sale any article or part of an \u2018article shall be deemed to be employed within such premises or precincts; or]",
+                            "4": "(iv) employed in the manufacture or handling of explosives in connection with the employer\u2019s trade or business; or",
+                            "5": "(v) employed, in any mine as defined in clause (j) of section 2 of the Mines Act, 1952 (35 of 1952), in any mining operation or in any kind of work, 11***, incidental to or connected with any mining operation or with the mineral obtained, or in any kind of work whatsoever below ground; or",
+                            "6": {
+                                "text": "(vi) employed as the master or as a seaman of\u2014",
+                                "contains": {
+                                    "0": "(a) any ship which is propelled wholly or in part by steam or other mechanical power or by electricity or which is towed or intended to be towed by a ship so propelled; or",
+                                    "1": "12* * * * *",
+                                    "2": "(c) any sea-going ship not included in sub-clause (a) 13*** provided with sufficient area for navigation under sails alone; or"
+                                }
+                            },
+                            "7": {
+                                "text": "(vii) employed for the purpose of\u2014",
+                                "contains": {
+                                    "0": "(a) loading, unloading, fuelling, constructing, repairing, demolishing, cleaning or painting any ship of which he is not the master or a member of the crew, or handling or transport within the limits of any port subject to 1[(the Ports Act, 1908 (5 of 1908) or the Major Port Trusts Act, 1963 (38 of 1963)], of goods which have been discharged from or are to be loaded into any vessel; or",
+                                    "1": "(b) warping a ship through the lock; or",
+                                    "2": "(c) mooring and unmooring ships at harbour wall berths or in pier; or",
+                                    "3": "(d) removing or replacing dry dock caisoons when vessels are entering or leaving dry docks; or",
+                                    "4": "(e) the docking or undocking of any vessel during an emergency; or",
+                                    "5": "(f) preparing splicing coir springs and check wires, painting depth marks on lock-sides, removing or replacing fenders whenever necessary, landing of gangways, maintaining life-buoys up to standard or any other maintenance work of a like nature; or",
+                                    "6": "(g) any work on jolly-boats for bringing a ship\u2019s line to the wharf; or"
+                                }
+                            },
+                            "8": {
+                                "text": "(viii) employed in the construction, maintenance, repair or demolition of\u2014",
+                                "contains": {
+                                    "0": "(a) any building which is designed to be or is or has been more than one storey in height above the ground or twelve feet or more from the ground level to the apex of the roof; or",
+                                    "1": "(b) any dam or embankment which is twelve feet or more in height from its lowest to its highest point; or",
+                                    "2": "(c) any road, bridge, tunnel or canal; or",
+                                    "3": "(d) any wharf, quay, sea-wall or other marine work including any moorings of ships, or"
+                                }
+                            },
+                            "9": "(ix) employed in setting up, maintaining, repairing or taking down any telegraph or telephone line or post or any overhead electric line or cable or post or standard or fittings and fixtures for the same; or",
+                            "10": "(x) employed, 2***, in the construction, working, repair or demolition of any aerial ropeway, canal, pipe-line, or sewer; or",
+                            "11": "(xi) employed in the service of any fire brigade; or",
+                            "12": "(xii) employed upon a railway as defined in 3[clause (31) of section 2 and sub-section (1) of section 197 of the Railways Act, 1890 (9 of 1890)], either directly or through a sub-contractor, by a person fulfilling a contract with the railway administration; or",
+                            "13": "(xiii) employed as an inspector, mail guard, sorter or van peon in the Railway Mail Service 4[or as a telegraphist or as a postal or railway Signaller], or employed in any occupation ordinarily involving- outdoor work in the Indian Posts and Telegraphs Department; or",
+                            "14": "(xiv) employed, 5***, in connection with operations for winning natural petroleum or natural gas; or",
+                            "15": "(xv) employed in any occupation involving blasting operation; or",
+                            "16": "(xvi) employed in the making of any excavation 1*** or explosives have been used, or whose depth from its highest to its lowest point exceeds 2[twelve] feet; or",
+                            "17": "(xvii) employed in the operation of any ferry boat capable of carrying more than ten persons; or",
+                            "18": "3[(xviii) employed on any estate which is maintained for the purpose of growing cardamom, cinchona, coffee, rubber or tea; or]",
+                            "19": "4[(xix) employed, 5***, in the generating, transforming, transmitting or distribution of electrical energy or in generation or supply of gas; or]",
+                            "20": "(xx) employed in a lighthouse as defined in clause (d) of section 2 of the Indian Lighthouse Act, 1927 (17 of 1927); or",
+                            "21": "(xxi) employed in producing cinematograph pictures intended for public exhibition or in exhibiting such pictures; or",
+                            "22": "(xxii) employed in the training, keeping or working of elephants or wild animals; or",
+                            "23": "6[(xxiii) employed in the tapping of palm-trees or the felling or logging of trees, or the transport of timber by inland waters, or the control or extinguishing of forest fires; or",
+                            "24": "(xxiv) employed in operations for the catching or hunting of elephants or other wild animals; or]",
+                            "25": "7[(xxv) employed as a diver; 1[or",
+                            "26": {
+                                "text": "(xxvi) employed in the handling or transport of goods in, or within the precincts of,\u2014",
+                                "contains": {
+                                    "0": "(a) any warehouse or other place in which goods are stored, 8***; or",
+                                    "1": "(b) any market 9***; or"
+                                }
+                            },
+                            "27": "(xxvii) employed in any occupation involving the handling and manipulation of radium or X-rays apparatus, or contact with radio-active substances;] 10[or]",
+                            "28": "10(xxviii) employed in or in connection with the construction, erection, dismantling, operation or maintenance of an aircraft as defined in section 2 of the Indian Aircraft Act, 1934 (22 of 1934); or",
+                            "29": "(xxix) 4[employed in horticultural operations, forestry, bee-keeping or farming\u201d by tractors or other contrivances driven by steam or other mechanical power or by electricity; or",
+                            "30": "(xxx) employed, 11***, in the construction, working, repair or maintenance of a tubewell; or",
+                            "31": "(xxxi) employed in the maintenance, repair or renewal of electric fittings in any building; or",
+                            "32": "(xxxii) employed in a circus.]",
+                            "33": "1[(xxxiii) employed as watchman in any factory or establishment; or",
+                            "34": "(xxxiv) employed in any operation in the sea for catching fish; or",
+                            "35": "(xxxv) employed in any employment which requires handling of snakes for the purpose of extraction of venom or for the purpose of looking after snakes or handling any other poisionous animal or insect; or",
+                            "36": "(xxxvi) employed in handling animals like horses, mules and bulls; or",
+                            "37": "(xxxvii) employed for the purpose of loading or unloading an mechanically propelled vehicle or in the handling or transport of goods which have been loaded in such vehicles; or",
+                            "38": "(xxxviii) employed in cleaning of sewer lines or septic tanks within the limits of a local authority; or",
+                            "39": "(xxxix) employed on surveys and investigation, exploration or gauge or dischange observation of rivers including drilling operations, hydrological observations and flood forecasting activities ground water surveys and exploration; or",
+                            "40": "(xl) employed in cleaning of jungles or reclaiming land or ponds 2***; or",
+                            "41": "(xli) employed in cultivation of land or rearing and maintenance of live-stock or forest operations of fishing 2***; or",
+                            "42": "(xlii) employed in installation, maintenance or repair of pumping equipment used for lifting of water from wells, tubewells, ponds, lakes, streams and the like; or",
+                            "43": "(xliii) employed in the construction, boring or deepening of an open well or dug well, bore well, bore-cum-dug well, filterpoint and the like; or",
+                            "44": "(xliv) employed in spraying and dusting of insecticides or pesticides inagricultural operations or plantations; or",
+                            "45": "(xlv) employed in mechanised harvesting and threshing operations; or",
+                            "46": "(xlvi) employed in working or repair or maintenance of bulldozers, tractors, power tillers and the like; or",
+                            "47": "(xlvii) employed as artist for drawing pictures on advertisement boards at a height of 3.66 metres or more from the ground level; or",
+                            "48": "(xlviii) employed in any newspaper establishment as defined in the Working Journalists and Other Newspaper Employees (Conditions of Service) and Miscellaneous Provisions Act, 1955 and engaged in outdoor work].",
+                            "49": "Explanation.\u2014In this Schedule, \u201cthe preceding twelve months\u201d relates in any particular case to the twelve months ending with the day on which the accident in such case occurred.]"
+                        }
+                    }
+                }
+            }
+        },
+        "SCHEDULE III": {
+            "0": {
+                "text": "1[SCHEDULE III",
+                "contains": {
+                    "0": "(See section 3)"
+                }
+            },
+            "1": "LIST OF OCCUPATIONAL DISEASES",
+            "2": "Serial Occupational disease Employment No",
+            "3": {
+                "text": "(1) (2) (3)",
+                "contains": {
+                    "0": "PART A",
+                    "1": {
+                        "text": "1. Infectious and parasitic diseases contracted (a) All work involving exposure to health or in an occupation where there is a particular laboratory work; risk of contamination. (b) All work involving exposure to veterinary work;",
+                        "contains": {
+                            "0": "(c) Work relating to handling animals, animal carcasses, part of such carcasses, or merchandise which may have been contaminated by animals or animal carcasses;",
+                            "1": "(d) other work carrying a particular risk of contamination."
+                        }
+                    },
+                    "2": "2. Diseases caused by work in compressed All work involving exposure to the risk concerned. air.",
+                    "3": "3. Diseases caused by lead or its toxic All work involving exposure to the risk concerned. compounds.",
+                    "4": "4. Poisoning by nitrous fumes. All work involving exposure to the risk concerned.",
+                    "5": {
+                        "text": "5. Poisoning by organophosphorus All work involving exposure to the risk concerned. compounds.",
+                        "contains": {
+                            "0": "PART B"
+                        }
+                    },
+                    "6": "1. Diseases caused by phosphorus or its toxic All work involving exposure to the risk concerned. compounds.",
+                    "7": "2. Diseases caused by mercury or its toxic All work involving exposure to the risk concerned. compounds.",
+                    "8": {
+                        "text": "3. Diseases caused by benzene or its toxic All work involving exposure to the risk concerned. homologues.",
+                        "contains": {
+                            "0": "All work involving exposure to the risk concerned. 4. Diseases caused by nitro and amido toxic derivatives of benzene or its homologues.",
+                            "1": "All work involving exposure to the risk concerned. 5. Diseases caused by chromium or its toxic compounds."
+                        }
+                    },
+                    "9": "6. Diseases caused by arsenic or its toxic All work involving exposure to the risk concerned. compounds.",
+                    "10": "7. Diseases caused by radioactive substances All work involving exposure to the action of and ionising radiations; radioactive substances or ionising radiations."
+                }
+            },
+            "4": "Serial Occupational disease Employment No",
+            "5": {
+                "text": "(1) (2) (3) 8. Primary epitheliomatous cancer of the skin All work involving exposure to the risk concerned. caused by tar, pitch, bitumen, mineral oil, anthracene, or the compounds, products or residues of these substances. 9. Diseases caused by the toxic halogen All work involving exposure to the risk concerned. derivatives of hydrocarbons (of the aliphatic and aromatic series). 10. Diseases caused by carbon disulphide. All work involving exposure to the risk concerned.",
+                "contains": {
+                    "0": "11. Occupational cataract due to infra-red All work involving exposure to the risk concerned. radiations.",
+                    "1": "12. Diseases caused by manganese or its toxic All work involving exposure to the risk concerned. compounds. 13. Skin diseases caused by physical, chemical All work involving exposure to the risk concerned. or biological agents not included in other items. 14. Hearing impairment caused by noise. All work involving exposure to the risk concerned. 15. Poisoning by dinitrophenol or a All work involving exposure to the risk concerned. homologue or by substituted dinitrophenol or by the salts of such substances. 16. Diseases caused by beryllium or its toxic All work involving exposure to the risk concerned. compounds. 17. Diseases caused by cadmium or its toxic All work involving exposure to the risk concerned. compounds. 18. Occupational asthma caused by All work involving exposure to the risk concerned. recognisedsensitising agents inherent to the work process. 19. Diseases caused by fluorine or its toxic All work involving exposure to the risk concerned. compounds. 20. Diseases caused by nitroglycerine or other All work involving exposure to the risk concerned. nitroacid esters. 21. Diseases caused by alcohols and All work involving exposure to the risk concerned. ketones. 22. Diseases caused by asphyxiants: carbon All work involving exposure to the risk concerned. monoxide, and its toxic derivatives, hydrogen sulfide. 23. Lung cancer and mesotheliomas caused by All work involving exposure to the risk concerned. asbestos."
+                }
+            },
+            "6": "Serial Occupational disease Employment No",
+            "7": {
+                "text": "(1) (2) (3)",
+                "contains": {
+                    "0": "24. Primary neoplasm of the epithelial lining of All work involving exposure to the risk concerned. the urinary bladder or the kidney or the ureter.",
+                    "1": {
+                        "text": "1[25. Snow blindness in snow bound areas. All work involving exposure to the risk concerned.",
+                        "contains": {
+                            "0": "26. Disease due to effect of heat in extreme hot All work involving exposure to the risk concerned. climate.",
+                            "1": {
+                                "text": "27. Disease due to effect of cold in extreme All work involving exposure to the risk cold climate. concerned.]",
+                                "contains": {
+                                    "0": "PART C",
+                                    "1": "1. Pneumoconioses caused by sclerogenic All work involving exposure to the risk concerned. mineral dust (silicoses, anthraoo-silicosis, asbestosis) and silico-tuberculosis provided that silicosis is an essential factor in causing the resultant incapacity or death.",
+                                    "2": "2. Bagassosis All work involving exposure to the risk concerned.",
+                                    "3": "3. Bronchopulmonary diseases caused by All work involving exposure to the risk concerned. cotton, flax hemp and sisal dust (Byssionsis),",
+                                    "4": "4. Extrinsic allergic alveelitis caused by the All work involving exposure to the risk concerned. inhalation of organic dusts.",
+                                    "5": "5. Bronchopulmonary diseases caused by All work involving exposure to the risk concerned. hard metals."
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "SCHEDULE IV": {
+            "0": "1[SCHEDULE IV (See section 4)",
+            "1": "FACTORS FOR WORKING OUT LUMP SUM EQUIVALENT OF COMPENSATION AMOUNT IN CASE OF PERMANENT DISABLEMENT AND DEATH.",
+            "2": {
+                "text": "Completed years of age on the last birthday of the Factors employee immediately preceding the date on which the compensation fell due",
+                "contains": {
+                    "0": "1 2"
+                }
+            },
+            "3": {
+                "text": "Not more than 16\u2026. 228.54",
+                "contains": {
+                    "0": "17\u2026. 227.49",
+                    "1": "18\u2026. 226.38",
+                    "2": "19\u2026. 225.22",
+                    "3": "20\u2026. 224.00",
+                    "4": "21\u2026. 222.71",
+                    "5": "22\u2026. 221.37",
+                    "6": "23\u2026. 219.95",
+                    "7": "24\u2026. 218.47",
+                    "8": "25\u2026. 216.91",
+                    "9": "26\u2026. 215.28",
+                    "10": "27\u2026. 213.57"
+                }
+            },
+            "4": {
+                "text": "not more than 28\u2026. 211.79",
+                "contains": {
+                    "0": "29\u2026. 209.92",
+                    "1": "30\u2026. 207.98",
+                    "2": "31\u2026. 205.95",
+                    "3": "32\u2026. 203.85",
+                    "4": "33\u2026. 201.66",
+                    "5": "34\u2026. 199.40",
+                    "6": "35\u2026. 197.06",
+                    "7": "36\u2026. 194.64",
+                    "8": "37\u2026. 192.14",
+                    "9": "38\u2026. 189.56",
+                    "10": "39\u2026. 186.90",
+                    "11": "40\u2026. 184.17"
+                }
+            },
+            "5": {
+                "text": "Completed years of age on the last birthday of the Factors employee immediately preceding the date on which the compensation fell due",
+                "contains": {
+                    "0": "1 2",
+                    "1": "41\u2026. 181.37",
+                    "2": "42\u2026. 178.49",
+                    "3": "43\u2026. 175.54",
+                    "4": "44\u2026. 172.52",
+                    "5": "45\u2026. 169.44",
+                    "6": "46\u2026. 166.29",
+                    "7": "47\u2026. 163.07",
+                    "8": {
+                        "text": "48\u2026. 159.80",
+                        "contains": {
+                            "0": "49\u2026 156.47",
+                            "1": "50\u2026 153.09",
+                            "2": "51\u2026 149.67",
+                            "3": "52\u2026 146.20",
+                            "4": "53\u2026 142.68",
+                            "5": "54\u2026 139.13",
+                            "6": "55\u2026 135.56",
+                            "7": "56\u2026 131.95",
+                            "8": "57\u2026 128.33",
+                            "9": "58\u2026 124.70",
+                            "10": "59\u2026 121.05"
+                        }
+                    },
+                    "9": "60\u2026.. 117.41",
+                    "10": "61\u2026.. 113.77",
+                    "11": "62\u2026.. 110.14",
+                    "12": "63\u2026.. 106.52",
+                    "13": "64\u2026.. 102.93",
+                    "14": "65 or more\u2026. 99.37.]"
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. This Act has been extended to\u2014(1) Goa, Doman and Diu by Reg. 12 of 1962, s. 3 and the Schedule;(2) Dadra cud Nagar Haveli by Reg. 6 of 1963, s. 2 and the First Schedule;(3) Pondicherry by Reg. 7 of 1963, s. 3 and the First Schedule; and(4) Laccadive, Minicoy and Amindivi Islands by Reg. 8 of 1965, s. 3 and Sch.This Act has been modified in its application to apprentices under the Apprentices Act, 1961 (52 of 1961) by s. 16 and to thatAct.",
+            "1": "2. Subs. by Act 45 of 2009, s. 2, for \u201cworkmen\u201d (w.e.f. 18-1-2010 )",
+            "2": "3. Subs. by s. 3, ibid., for \u201cworkmen\u201d (w.e.f. 18-1-2010).",
+            "3": "4. Subs. by s. 4, ibid., for \u201cWorkmen\u2019s\u201d (w.e.f. 18-1-2010 )",
+            "4": "5. Subs. by the A. O. 1950, for sub-section (2).",
+            "5": "6. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 51 of 1970, s. 2 and Schedule (w.e.f. 1-9-1971).",
+            "6": "7. Clause (a) omitted by Act 8 of 1959, s. 2 (w.e.f. 1-6-1959).",
+            "7": "8. Subs. by s. 2, ibid., for the clause (d) (w.e.f. 1-6-1959).",
+            "8": "9. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010)10. Subs. by Act 30 of 1995, s. 2 for \u201clegitimate\u201d (w.e.f. 15-9-1995)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 30 of 1995, s. 2, for \u201clegitimate or illegitimate\u201d (w.e.f. 15-9-1995).",
+            "1": "2. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "2": "3. Ins. by Act 30 of 1995, 2 (w.e.f. 15-9-1995).",
+            "3": "4. Ins. by Act 45 of 2009, s. 6 (w.e.f. 18-1-2010)."
+        },
+        "Page 5": {
+            "0": "1. In the application of the Act to Bengal, a new clause (ff) has been ins, here by the Workmen\u2019s Compensation (BengalAmendment) Act, 1942 (Ben. 6 of 1942), s. 3.",
+            "1": "2. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f.18-1-2010 )",
+            "2": "3. Subs. by Act 64 of 1962, s. 2, for \u201cin the First Schedule\u201d (w.e.f. 1-2-1963).",
+            "3": "4. The words and figures \u201cunder the Medical Act, 1858, or any Act amending the same, or\u201d omitted by Act 8 of 1959, s. 2(w.e.f. 1-61959).",
+            "4": "5. Subs. by the A.O. 1950, for \u201cAct of the Central Legislature or of any Legislature in a Province of India\u201d",
+            "5": "6. Subs. by the Adaptation of Laws (No. 3) Order, 1956, for \u201cPart A State or Part B State\u201d.",
+            "6": "7. Clause (j) rep. by Act 15 of 1933, s. 2.",
+            "7": "8. The word \u201cregistered\u201d omitted by s. 2, ibid.",
+            "8": "9. Subs. by s. 2, ibid., for \u201cany such\u201d.10. Subs. by Act 64 of 1962, s. 2, for the proviso (w.e.f. 1-2-1963).11. Clause (n) omitted by Act 45 of 2009, s. 6 (w.e.f. 18-1-2010).12. Subs. by A. O. 1937, for \u201cof the Govt.\u201d."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 30 of 1995, s.2, for sub-section (3) (w.e.f. 15-9-1995).",
+            "1": "2. Subs. by s. 4, ibid., for \u201cWorkmen\u2019s\u201d (w.e.f. 18-1-2010 )",
+            "2": "3. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "3": "4. Subs. by Act 8 of 1959, s. 3, for \u201cseven\u201d (w.e.f.1-6-1959).",
+            "4": "5. Subs. by Act 15 of 1933, s. 3, for \u201cinjury to a workman resulting from\u201d.",
+            "5": "6. Ins. by Act 30 of 1995, s. 3 (w.e.f. 15-9-1995).",
+            "6": "7. Subs. by Act 45 of 2009, s. 5, for \u201cworkmen\u201d (w.e.f. 18-1-2010).",
+            "7": "8. The word \u201cor\u201d omitted by Act 5 of 1929, s. 2.",
+            "8": "9. Clause (c) omitted by s. 2, ibid.10. Subs. by Act 8 of 1959, s. 3, for sub-sections (2) and (3) (w.e.f. 1-6-1959)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 64 of 1962, s. 3 (w.e.f. 1-2-1963).",
+            "1": "2. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "2": "3. Subs. by Act 64 of 1962, s. 3, for sub-section (2A) (w.e.f. 1-2-1963).",
+            "3": "4. Subs. by Act 30 of 1995, s. 3, for certain words (w.e.f. 15-9-1995).",
+            "4": "5. Ins. by s. 3, ibid. (w.e.f. 15-9-1995).",
+            "5": "6. Certain words omitted by Act 51 of 1970, s. 2 and the Schedule (w.e.f. 1-9-1971).",
+            "6": "7. Subs. by Act 8 of 1959, s. 3, for \u201csub-section (2)\u201d (w.e.f. 1-6-1959).",
+            "7": "8. The words \u201csolely and\u201d omitted by Act 15 of 1933, s. 3."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010)",
+            "1": "2. Subs. by Act 22 of 1984, s. 3, for s. 4 (w.e.f. 1-7-1984).",
+            "2": "3. Subs. by Act 30 of 1995, s. 4, for \u201cforty per cent.\u201d (w.e.f. 15-9-1995).",
+            "3": "4. Subs. by Act 45 of 2009, s. 7, for \u201ceighty thousand rupees\u201d (w.e.f. 18-1-2010). Earlier it was amended by Act 46 of 2000, s. 3(w.e.f. 8-12-2000).",
+            "4": "5. Subs. by Act 45 of 1995, s.4, for \u201cfifty per cent.\u201d (w.e.f. 15-9-1995).",
+            "5": "6. Subs. by Act 45 of 2009, s. 7, for \u201cninety thousand rupees\u201d (w.e.f. 18-1-2010). Earlier it was amended by Act 46 of 2000, s. 3(w.e.f. 8-12-2000).",
+            "6": "7. Ins. by s. 7, ibid. (w.e.f. 18-1-2010).",
+            "7": "8. Explanation II omitted by s. 7, ibid. (w.e.f.18-1-2010)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f . 18-1-2010).",
+            "1": "2. Ins. by Act 30 of 1995, s. 4 (w.e.f. 15-9-1995).",
+            "2": "3. Ins. by Act 45 of 2009, s. 7 (w.e.f. 18-1-2010)."
+        },
+        "Page 10": {
+            "0": "1. Ins. by Act 30 of 1995, s. 4 (w.e.f.15-9-1995).",
+            "1": "2. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f.18-1-2010).",
+            "2": "3. Subs. by Act 46 of 2000, s. 3, for \u201cone thousand rupees\u201d (w.e.f.8-12-2000).",
+            "3": "4. Ins. by Act 45 of 2009, s. 7 (w. e. f. 18-1-2010).",
+            "4": "5. Ins. by Act 8 of 1959, s. 5 (w.e.f.1-6-1959).",
+            "5": "6. Subs. by Act 30 of 1995, s. 5 for sub-section (3) (w.e.f.15-9-1995),",
+            "6": "7. Subs. by Act 46 of 2000, s. 4, for sub-section (3A) (w.e.f.8-12-2000).",
+            "7": "8.  The  brackets  and  figure  \u201c(1)\u201d  omitted  by  Act  9  of  1938,  s.  4.  Earlier  section  5  was  re-numbered  as  sub-section  (1)  of  thatsection by Act 5 of 1929, s. 3.",
+            "8": "9. Subs. by Act 13 of 1939, s. 2 (w.e.f. 30-6-1934), for \u201cFor the purposes of this Act the monthly wages of a workman shall becalculated\u201d. The words in italics subs. by Act 15 of 1933, s. 5, for \u201csection 4\u201d."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "1": "2. Ins. by Act 15 of 1933, s. 5.",
+            "2": "3. The words \u201cdeemed to be\u201d omitted by Act 13 of 1939, s. 2 (w.e.f. 30-6-1934).",
+            "3": "4. Clause (b) relettered as clause (c) by Act 15 of 1933, s. 5.",
+            "4": "5. Subs. by Act 8 of 1959, s. 6, for \u201cin other cases\u201d (w.e.f. 1-6-1959).",
+            "5": "6. The proviso omitted by Act 15 of 1933, s. 5.",
+            "6": "7. Subs. by Act 5 of 1929, s. 3, for \u201cthis section\u201d.",
+            "7": "8. Subs. by Act 9 of 1938, s. 4, for \u201csub-section\u201d.",
+            "8": "9.  Sub-section (2) omitted by Act 15 of 1933, s. 5. Earlier it was added by Act 5 of 1929, s. 3."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 5 of 1929, s. 4, for sub-sections (1) to (3).",
+            "1": "2. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f.18-1-2010).",
+            "2": "3. Subs. by Act 15 of 1933, s. 6, for the proviso.",
+            "3": "4. Ins. by Act 5 of 1929, s. 4.",
+            "4": "5. Subs. by Act 30 of 1995, s. 6, for certain words (w.e.f.15-9-1995).",
+            "5": "6. Certain words omitted by Act 30 of 1995, s. 6 (w.e.f.15-9-1995).",
+            "6": "7. Subs. by Act 5 of 1929, s. 4, for sub-section (5).",
+            "7": "8. Sub-section (6) renumbered as sub-section (8) by Act 5 of 1929, s. 4."
+        },
+        "Page 13": {
+            "0": "1. Ins. by Act 5 of 1929, s. 4.",
+            "1": "2. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "2": "3. Subs. by Act 9 of 1938, s. 5, for the original words.",
+            "3": "4. Subs. by Act 8 of 1959, s. 8, for \u201cone year\u201d (w.e.f. 1-6-1959).",
+            "4": "5. Ins. by Act 64 of 1962, s. 5 (w.e.f. 1-2-1963).",
+            "5": "6. Ins. by Act 15 of 1933, s. 7.",
+            "6": "7. Subs. by Act 9 of 1938, s. 5, for \u201cmaintenance of proceedings\u201d.",
+            "7": "8. Subs. by s. 5, ibid.",
+            "8": "9. Ins. by s. 5, ibid."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 9 of 1938, s. 5, for \u201cadmit\u201d.",
+            "1": "2. Subs. by s. 5, ibid., for \u201cinstituted\u201d.",
+            "2": "3. Subs. by s. 5, ibid., for \u201cinstitute\u201d.",
+            "3": "4. Subs. by Act 7 of 1924, s. 2 and the First Schedule, for \u201cany one or\u201d.",
+            "4": "5. The word \u201cdirectly\u201d omitted by Act 9 of 1938, s. 5.",
+            "5": "6. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "6": "7. Subs. by Act 15 of 1933, s. 7, for sub-section (3).",
+            "7": "8. Subs. by Act 45 of 2009, s. 5, for \u201cworkmen\u201d (w.e.f. 18-1-2010).",
+            "8": "9. Ins. by Act 15 of 1933, s. 8."
+        },
+        "Page 15": {
+            "0": "1. Ins. by Act 8 of 1959, s. 9 (w.e.f.1-6-1959).",
+            "1": "2. Subs. by Act 45 of 2009, s. 5, for \u201cWorkman\u201d (w.e.f.18-1-2010)."
+        },
+        "Page 16": {
+            "0": "1. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f.18-1-2010).",
+            "1": "2. Subs. by Act 9 of 1938, s. 6, for certain words.",
+            "2": "3. Ins. by s. 6, ibid.",
+            "3": "4. Ins. by Act 15 of 1933, s. 9."
+        },
+        "Page 17": {
+            "0": "1. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f.18-1-2010).",
+            "1": "2. Subs. by Act 30 of 1995, s. 7, for certain words (w.e.f.15-9-1995).",
+            "2": "3. Ins. by Act 8 of 1959, s. 10 (w.e.f.1-6-1959).",
+            "3": "4. Subs. by Act 45 of 2009, s. 5, for \u201cworkmen\u201d (w.e.f.18-1-2010).",
+            "4": "5. The word \u201cregistered\u201d omitted by Act 15 of 1933, s. 10."
+        },
+        "Page 18": {
+            "0": "1. Subs. by Act 8 of 1959, s. 11, for \u201csix months\u201d (w.e.f. 1-6-1959).",
+            "1": "2. Added by s. 11, ibid. (w.e.f. 1-6-1959).",
+            "2": "3. Ins. by the A.O. 1950.",
+            "3": "4. Subs. by Act 22 of 1984, s. 4, for certain words (w.e.f. 1-7-1984).",
+            "4": "5. Clause (4) omitted by Act 9 of 1938, s. 7.",
+            "5": "6. Clause (5) renumbered as clause (4) of that section by s. 7, ibid.",
+            "6": "7. Subs. by Act 7 of 1924, s. 2 and the First Schedule, for \u201cmonthly payment\u201d.",
+            "7": "8. The words \u201cin Part A States and Part C States\u201d omitted by Act 3 of 1951, s. 3, and the Schedule.",
+            "8": "9. Subs. by Act 1 of 1942, s. 2 (w.e.f. 3-9-1939)."
+        },
+        "Page 19": {
+            "0": "1. Ins. by Act 30 of 1995, s. 8 (w.e.f. 15-9-1995).",
+            "1": "2. Subs. by Act 45 of 2009, s. 5, for \u201cworkmen\u201d (w.e.f. 18-1-2010)."
+        },
+        "Page 20": {
+            "0": "1. Subs. by Act 45 of 2009, s. 5, for \u201cworkmen\u201d (w.e.f. 18-1-2010).",
+            "1": "2. Subs. by s. 5, ibid., for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "2": "3. Subs. by the A.O. 1937, for \u201cG.G. in C\u201d.",
+            "3": "4. Ins. by Act 11 of 2017, s. 2 (w.e.f. 15-5-2017)."
+        },
+        "Page 21": {
+            "0": "1. Ins. by Act 15 of 1933, s. 11.",
+            "1": "2. Subs. by Act 11 of 2017, s. 3, for \u201csection 16\u201d (w.e.f. 15-5-2017).",
+            "2": "3. Ins. by s. 3, ibid. (w.e.f.15-5-2017).",
+            "3": "4. Subs. by s. 3, ibid., for \u201cwhich may extend to five thousand rupees\u201d (w.e.f. 15-5-2017).",
+            "4": "5. Subs. by Act 64 of 1962, s. 6, for certain words (w.e.f. 1-2-1963).",
+            "5": "6. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "6": "7. Subs. by Act 15 of 1933, s. 12, for \u201cthe Commissioner\u201d.",
+            "7": "8. Ins. by Act 45 of 2009, s. 8 (w.e.f. 18-1-2010).",
+            "8": "9. The word \u201clocal\u201d omitted by Act 64 of 1962, s. 7 (w.e.f. 1-2-1963)."
+        },
+        "Page 22": {
+            "0": "1. Ins. by Act 15 of 1933, s. 13.",
+            "1": "2. The word \u201clocal\u201d omitted by Act 64 of 1962, s. 7 (w.e.f. 1-2-1963).",
+            "2": "3. Sub-section (2) and (3) renumbered as sub-sections (3) and (4) to that section respectively by Act 15 of 1933, s. 13.",
+            "3": "4. Subs. by Act 30 of 1995, s. 10, for sub-section (1), (w.e.f. 15-5-1995).",
+            "4": "5. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "5": "6. Subs. by Act 9 of 1938, s. 9, for certain words."
+        },
+        "Page 23": {
+            "0": "1. Ins. by Act 9 of 1938, s. 9.",
+            "1": "2. Second proviso omitted by s. 10, ibid. (w.e.f. 15-9-1995).",
+            "2": "3. Ins. by Act 15 of 1933, s. 14.",
+            "3": "4. Subs. by Act 30 of 1995, s. 11, for certain words (w.e.f. 15-9-1995).",
+            "4": "5. Ins. by Act 15 of 1933, s. 15.",
+            "5": "6. Subs. by s. 15, ibid., for \u201cwhere any such question has arisen, the application\u201d.",
+            "6": "7. Subs. by Act 37 of 1925, s. 2 and the First Schedule, for \u201con\u201d.",
+            "7": "8. Ins. by Act 15 of 1933, s. 16.",
+            "8": "9. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010)."
+        },
+        "Page 24": {
+            "0": "1. Ins. by Act 5 of 1929, s. 5.",
+            "1": "2. Subs. by Act 30 of 1995, s. 12, for certain words (w.e.f. 15-9-1995).",
+            "2": "3. Subs. by Act 8 of 1959, s. 14, for s. 24 (w.e.f. 1-6-1959).",
+            "3": "4. In the application of the Act to Bengal, new sections 24A and 24B have been ins. here by Ben. Act 6 of 1942, s. 4.",
+            "4": "5. Ins. by Act 45 of 2009, s. 9 (w.e.f. 18-1-2010).",
+            "5": "6. Subs. by Act 5 of 1929, s. 6, for certain words."
+        },
+        "Page 25": {
+            "0": "1. The words \u201cor to a dependant\u201d omitted by Act 7 of 1924, s. 3 and the Second Schedule.",
+            "1": "2. Clause (b) omitted by Act 5 of 1929, s. 6.",
+            "2": "3. Subs. by Act 5 of 1929, s. 6, for certain words.",
+            "3": "4. The words \u201cor to any dependant\u201d omitted by Act 7 of 1924, s. 3 and the Second Schedule.",
+            "4": "5. Subs. by Act 7 of 1924, s. 2 and the Schedule, for \u201cor may make such order\u201d.",
+            "5": "6. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f. 18-1-2010).",
+            "6": "7. Ins. by Act 8 of 1959, s. 15 (w.e.f. 1-6-1959)."
+        },
+        "Page 26": {
+            "0": "1. Subs. by Act 11 of 2017, s. 4, for \u201cthree hundred rupees\u201d (w.e.f.15-5-2017).",
+            "1": "2. Ins. by Act 15 of 1933, s. 17.",
+            "2": "3. Subs. by Act 30 of 1995, s. 13, for certain words (w.e.f.15-9-1995).",
+            "3": "4. In the application of the Act to Bengal, a new s. 31A has been ins. here by the Bengal Touts Act, 1942 (Ben. 5 of 1942), s. 12.",
+            "4": "5. Subs. by the A. O. 1937, for \u201cG. G. in C\u201d,",
+            "5": "6. For the Workmen\u2019s Compensation Rules, 1924, see Gazette of India, 1924, Pt. I, p 586.",
+            "6": "7. Subs. by Act 45 of 2009, s. 5, for \u201cworkman\u201d (w.e.f.18-1-2010)."
+        },
+        "Page 27": {
+            "0": "1. In the application of the Act of Bengal, new clauses (ff), (ff1) and (ff2) have been inserted here by Ben, Act 6 of 1942, s. 5.",
+            "1": "2. The word \u201cand\u201d at the end of clause (h) and the original clause (i) omitted, and the new clauses, (i) to (n), which were the sameas clauses, (a) to (f) of s. 33, ins. by the A. O. 1937.",
+            "2": "3. The word \u201cand\u201d omitted by Act 58 of 1960, s. 3 and the Second Schedule.",
+            "3": "4. Ins. by Act 8 of 1959, s. 16 (w.e.f.1-6-1959).",
+            "4": "5. Ins. by Act 4 of 1986, s. 2 and Schedule (w.e.f.15-5-1986).",
+            "5": "6. Subs. by the A.O. 1937, for \u201csections 32 and 33\u201d.",
+            "6": "7. The words and figures \u201cor section 33\u201d rep.; ibid."
+        },
+        "Page 28": {
+            "0": "1. The words \u201cThe Gazette of India or\u201d rep., by the A. O. 1937.",
+            "1": "2. The words \u201cas the case may be\u201d rep., ibid.",
+            "2": "3. Ins. by Act 15 of 1933, s. 20.",
+            "3": "4. The original s. 35 renumbered as sub-section (1) of that section by Act 7 of 1937, s. 2.",
+            "4": "5. The words \u201cto any Part B State or\u201d ins. by the A.O. 1948, omitted by Act 3 of 1951, s. 3 and the Schedule.",
+            "5": "6. Subs. by Act 22 of 1984, s. 5, for certain words (w.e.f.1-7-1984).",
+            "6": "7. Subs. by Act 7 of 1937, s. 2, for \u201cpaid to\u201d.",
+            "7": "8. Subs. by s. 2, ibid., for \u201cfor the benefit of\u201d.",
+            "8": "9. Subs. by Act 22 of 1984, -s. 5, for \u201csuch part of country\u201d (w.e.f.1-7-1984).10. Ins. by Act 7 of 1937, s. 2.11. Subs. by Act 3 of 1951, s. 3 and Schedule, for \u201ca Part A State or Part C State\u201d.12. Subs. by Act 7 of 1937, s. 2, for \u201cawarded\u201d.13.  The  words  \u201cin  any  Part  B  State  or\u201d  ins.  by  the  A.O.  1950,  first  five  words  were  omitted  by  Act  3  of  1951,  s.  3  and  theSchedule, and the word \u201cor\u201d was omitted by Act 36 of 1957, s. 3 and the Second Schedule.14. Subs. by Act 22 of 1984, s. 5, for certain words (w.e.f.1-7-1984).15. Subs. by Act 7 of 1937, s. 2, for \u201cand applicable for the benefit of\u201d.16. Ins. by Act 64 of 1962, s. 8 (w.e.f.1-2-1963).17. Subs. by Act 65 of 1976, s. 3, for certain words (w.e.f.21-5-1976)."
+        },
+        "Page 29": {
+            "0": "1. Subs. by Act 8 of 1959, s. 17, for the First Schedule  (w.e.f. 1-6-1959).",
+            "1": "2. Subs. by Act 64 of 1962, s. 9, for heading (w.e.f. 1-2-1963).",
+            "2": "3. Ins. by s. 9, ibid. (w.e.f. 1-2-1963).",
+            "3": "4. Serial Nos. 7 to 54 renumbered as serial Nos. 1 to 48 respectively by s. 9, ibid. (w.e.f. 1-2-1963).",
+            "4": "5. Subs. by Act 30 of 1995, s. 14, for \u201c8\u201d (w.e.f.15-9-1995).",
+            "5": "6. Serial Nos. 7 to 54 renumbered as serial Nos. 1 to 48 respectively by Act 64 of 1962, s. 9 (w.e.f. 1-2-1963).",
+            "6": "7. Subs. by Act 30 of 1995, s. 14 for certain numbers (w.e.f.15-9-1995)."
+        },
+        "Page 30": {
+            "0": "1. Subs. by Act 30 of 1995, s. 14 for certain numbers (w.e.f. 15-9-1995).",
+            "1": "2. Serial No. 7 to 54 as serial Nos. 1 to 48 respectively by Act 64 of 1962 s. 9 (w.e.f. 1-2-1963).",
+            "2": "3. Ins. by s. 14, ibid. (w.e.f. 15-9-1995)."
+        },
+        "Page 31": {
+            "0": "1. Serial Nos. 7 to 54 renumbered as serial Nos. 1 to 48 respectively by Act 64 of 1962, s. 9 (w.e.f. 1-2-1963)."
+        },
+        "Page 32": {
+            "0": "1. Serial Nos. 7 to 54 renumbered as serial Nos. 1 to 48 respectively by Act 64 of 1962, s. 9 (w.e.f.1-2-1963).",
+            "1": "2. Ins. by Act 58 of 1960, s. 3 and Sch. II."
+        },
+        "Page 33": {
+            "0": "1. Subs. by Act 45 of 2009, s. 10, for \u201csection 2 (1) (n)\u201d (w.e.f. 18-1-2010).",
+            "1": "2. Subs. by s. 5, ibid., for \u201cworkmen\u201d (w.e.f. 18-1-2010).",
+            "2": "3. Subs. by Act 15 of 1933, s. 21, for clauses (i) to (xiii).",
+            "3": "4. Subs. by Act 8 of 1959, s. 18, for clauses (i) to (ix) (w.e.f. 1-6-1959).",
+            "4": "5. Subs. by Act 45 of 2009, s. 10, for \u201cemployed, otherwise than in a clerical capacity or on a railway\u201d (w.e.f. 18-1-2010).",
+            "5": "6. Ins. by Act 30 of 1995, s. 15 (w.e.f. 15-9-1995).",
+            "6": "7. The words \u201cotherwise than in a clerical capacity\u201d omitted by Act 45 of 2010, s. 10 (w.e.f. 18-1-2010).",
+            "7": "8. Ins. by Act 64 of 1962, s. 10 (w.e.f. 1-2-1963).",
+            "8": "9. The  words \u201cwherein  or within the precincts whereof twenty  or  more  persons are  so  employed\u201d  omitted by Act  45 of  2009,s. 10 (w.e.f. 18-1-2010).10. The word \u201cor\u201d omitted by Act 64 of 1962, s. 10 (w.e.f. 1-2-1963).11. The word \u201cother than clerical work\u201d omitted by Act 45 of 2009, s. 10 (w.e.f. 18-1-2010).12. Clause (b) omitted by s. 10, ibid. (w.e.f.18-1-2010).13. The words, brackets and letter \u201cor sub-clause (b)\u201d omitted by s. 10, ibid. (w.e.f. 18-1-2010)."
+        },
+        "Page 34": {
+            "0": "1. Subs. by Act 30 of 1995, s. 15 for certain words (w.e.f.15-9-95).",
+            "1": "2. The words \u201cotherwise than in a clerical capacity\u201d omitted by Act 45 of 2009, s. 10 (w.e.f.18-1-2010).",
+            "2": "3. Subs. by Act 30 of 1995, s. 15, for certain words (w.e.f.15-9-1995).",
+            "3": "4. Ins. by Act 8 of 1959, s. 18 (w.e.f.1-6-1959).",
+            "4": "5. The words \u201cotherwise than in a clerical capacity\u201d omitted by Act 45 of 2009, s. 10 (w.e.f.18-1-2010)."
+        },
+        "Page 35": {
+            "0": "1. The words  \u201cin which  on any  one day  of the  preceding twelve  months  more  than  twenty-five  persons have been  employed\u201domitted by Act 45 of 2009, s. 10 (w.e.f. 18-1-2010).",
+            "1": "2. Subs. by Act 8 of 1959, s. 18, for \u201ctwenty\u201d (w.e.f. 1-6-1959).",
+            "2": "3. Subs. by Act 45 of 2009, s. 10 for item (xviii) (w.e.f. 18-1-2010).",
+            "3": "4. Subs. by Act 30 of 1995, s. 15, for item (xix) and \u201cemployed in farming\u201d (w.e.f. 15-9-1995).",
+            "4": "5. The words \u201cotherwise than in a clerical capacity\u201d omitted by Act 45 of 2009, s. 10 (w.e.f. 18-1-2010).",
+            "5": "6. Ins. by Act 9 of 1938, s. 11.",
+            "6": "7. Original cl. (xxiii) renumbered (xxv) by s. 11, ibid.",
+            "7": "8. The words \u201cand in which on any one day of the preceding twelve months ten or more persons have been so employed\u201d omittedby Act 45 of 2009, s. 10 (w.e.f. 18-1-2010).",
+            "8": "9. The words \u201cin which on any one day of the preceding twelve months fifty or more persons have been so employed\u201d omitted bys. 10, ibid. (w.e.f. 18-1-2010).10. Ins. by Act 8 of 1959, s. 18 (w.e.f. 1-6-1959).11. The words \u201cotherwise than in a clerical capacity\u201d omitted by Act 45 of 2009, s. 10 (w.e.f. 18-1-2010)."
+        },
+        "Page 36": {
+            "0": "1. Ins. by Act 30 of 1995, s. 15 (w.e.f.15-9-1995).",
+            "1": "2. The words  \u201cin which  on any  one day  of the  preceding twelve  months  more  than  twenty-five  persons have been  employed\u201domitted by Act 45 of 2009, s. 10 (w.e.f.18-1-2010)."
+        },
+        "Page 37": {
+            "0": "1. Subs. by Act 22 of 1984, s. 6 for Sch. (w.e.f.1-7-1984)."
+        },
+        "Page 39": {
+            "0": "1. Ins. 64 Act 30 of 1995, of 16 (w.e.f. 15-9-95)."
+        },
+        "Page 40": {
+            "0": "2. Subs. by Act 22 of 1984, s. 7, for Sch. IV (w.e.f. 1-7-1984)."
+        }
+    }
+}

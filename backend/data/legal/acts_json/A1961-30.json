@@ -1,0 +1,136 @@
+{
+    "Act Title": "THE DELHI (URBAN AREAS) TENANTS\u2019 RELIEF ACT, 1961",
+    "Act ID": "ACT NO. 30 OF 1961",
+    "Enactment Date": "[28th August, 1961.]",
+    "Act Definition": {
+        "0": "An Act to provide relief to the tenants of land in the urban areas of the Union territory of Delhi."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title, extent and commencement.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Delhi (Urban Areas) Tenant\u2019s Relief Act, 1961.",
+                "1": "(2) It extends to the areas in the Union territory of Delhi which, immediately before the 1st day of November, 1956, were included in a municipality or in a notified area under the provisions of the Punjab Municipal Act, 1911 (Punjab Act 3 of 1911), or in a cantonment under the provisions of the Cantonments Act, 1924 (2 of 1924), but shall not apply to the areas owned by the Central Government or the Delhi Development Authority constituted under the Delhi Development Act, 1957 (61 of 1957), or any local authority.",
+                "2": "(3) It shall come into force on such date as the Chief Commissioner may, by notification in the Official Gazette, appoint."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless the context otherwise requires,\u2014",
+                    "contains": {
+                        "0": "(a) \u201cChief Commissioner\u201d means the Chief Commissioner of Delhi;",
+                        "1": {
+                            "text": "(b) \u201cfamily\u201d means\u2014",
+                            "contains": {
+                                "0": "(i) in relation to a person belonging to a joint Hindu family, every member of such family; and",
+                                "1": "(ii) in relation to any other person, the person, the wife or husband, as the case may be, and the dependent children and grand-children, of such person;"
+                            }
+                        },
+                        "2": "(c) \u201cland-holder\u201d means a person under whom a tenant holds land and to whom the tenant is, or but for a special contract would be, liable to pay rent for the land;",
+                        "3": {
+                            "text": "(d) \u201cperson under disability\u201d means,\u2014",
+                            "contains": {
+                                "0": "(i) a widow;",
+                                "1": "(ii) a minor whose father has died;",
+                                "2": "(iii) a woman who is unmarried or who, if married, is divorced or judicially separated from her husband or whose husband is a person falling under item (iv) or (v);",
+                                "3": "(iv) a member of the Armed Forces of the Union;",
+                                "4": "(v) a person incapable of cultivating land by reason of some physical or mental disability;",
+                                "5": "(vi) a person prosecuting studies in a recognised institution and not exceeding 25 years of age; or",
+                                "6": "(vii) a person who is under detention or undergoing imprisonment;"
+                            }
+                        },
+                        "4": "(e) \u201ctenant\u201d and \u201ctenancy\u201d include a sub-tenant and a sub-tenancy respectively;",
+                        "5": {
+                            "text": "(f) the words \u201cland\u201d and \u201ctenant\u201d and all other words and expressions used but not defined in this Act and defined in the Punjab Tenancy Act, 1887 (16 of 1887), or the Agra Tenancy Act, 1901 (U.P. Act II of 1901), shall have the meanings respectively assigned to them,\u2014",
+                            "contains": {
+                                "0": "(i) in relation to areas to which the Punjab Tenancy Act, 1887 (16 of 1887), applies, in that Act; or",
+                                "1": "(ii) in relation to areas to which the Agra Tenancy Act, 1901 (U.P. Act II of 1901), applies, in that Act."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Grounds of ejectment of tenant.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) After the commencement of this Act, no person shall be liable to be ejected from any land held by him as tenant except on one or more of the following grounds, namely:\u2014",
+                    "contains": {
+                        "0": "(a) that a decree for arrear of rent due in respect of the land remains unsatisfied after the expiry of the period allowed therefor;",
+                        "1": "(b) where rent is payable in kind, that he has without sufficient cause failed to cultivate the land;",
+                        "2": "(c) that he has sub-let or otherwise transferred the whole or any part of the tenancy in contravention of any law for the time being in force or of any contract;",
+                        "3": "(d) that he has used the land in a manner which renders it unfit for the purpose for which it was let."
+                    }
+                },
+                "1": {
+                    "text": "(2) Without prejudice to the provisions of sub-section (1) but subject to the provisions of any law for the time being in force or of any contract between the parties, a tenant may be ejected from the land held by him by a land-holder,\u2014",
+                    "contains": {
+                        "0": "(a) in any case where the land-holder is a religious or charitable institution, on the ground that the institution requires the land bona fide for use for a non-agricultural purpose in furtherance of its objects; and",
+                        "1": "(b) in any case where the land-holder was a person under disability at the commencement of the tenancy, on the ground that he requires the land bona fide for cultivation by himself or for building a dwelling house, a cattle shed or business premises for use by himself or any member of his family and the proceeding for ejectment is instituted during the period when he is under disability or within two years from the date when he cases or has ceased to be under disability:"
+                    }
+                },
+                "2": "Provided that no proceeding shall lie under this sub-section in respect of any share of land unless the share has first been partitioned by metes and bounds.",
+                "3": {
+                    "text": "Explanation.\u2014 For the purposes of this section, the disability of a person shall cease,\u2014",
+                    "contains": {
+                        "0": "(a) in the case of a widow, if she re-marries, on the date of her re-marriage or if any person succeeds to the widow on her death, on the date of her death;",
+                        "1": "(b) in the case of a minor, on the date of his attaining majority;",
+                        "2": "(c) in the case of a woman who is unmarried or who is divorced or judicially separated from her husband, on the date of her marriage or re-marriage, as the case may be, or in the case of a woman whose husband is a person falling under clause (d) or (e), on the date on which the disability of the husband ceases;",
+                        "3": "(d) in the case of a person who is a member of the Armed Forces of the Union, on the date of his discharge from service or of his posting to the reserve;",
+                        "4": "(e) in the case of a person suffering from a physical or mental disability, on the date on which the disability ceases to exist;",
+                        "5": "(f) in the case of a person who is prosecuting studies in a recognised institution, on the date when he ceases to prosecute studies in that or any other recognised institution;",
+                        "6": "(g) in the case of a person under detention or undergoing imprisonment, on the date when he is released from detention or imprisonment."
+                    }
+                }
+            }
+        },
+        "Section 4.": {
+            "heading": "Abatement of proceedings.",
+            "paragraphs": {
+                "0": "Save as provided in section 3, no tenant of land shall, whether in execution of a decree or order of a court or otherwise, be ejected from the land, and if there is any proceeding for ejectment of such tenant pending immediately before the commencement of this Act and the proceeding could not have been instituted had this Act been in force at the time of the institution of such proceeding, then, notwithstanding anything contained in any law, such proceeding shall, on such commencement, abate."
+            }
+        },
+        "Section 5.": {
+            "heading": "Restoration of land to tenant in certain cases.",
+            "paragraphs": {
+                "0": "(1) Where, after the commencement of this Act, a person under disability or a religious or charitable institution has taken possession of land by ejecting the tenant therefrom under sub-section (2) of section 3 on the ground that the land is required for a purpose specified in that sub-section and such person or institution fails to use the land for that purpose within one year from the date on which such person or institution took possession thereof, the tenant shall be entitled to be restored to possession of the land from which he was ejected, on the same terms on which he held it at the time of ejectment.",
+                "1": "(2) Where, on or after the 1st July, 1958 and before the commencement of this Act, any tenant of land has been ejected from the land and the ejectment could not have taken place if this Act had been in force on the date of such ejectment, the officer specified in this behalf by the Chief Commissioner may, either on his own motion or on application made by the tenant, restore him to possession of the land from which he has been ejected, on the same terms on which he held it at the time of ejectment.",
+                "2": "(3) Nothing in this section shall be construed as entitling a tenant to be restored to possession of any land if it is under cultivation by the owner who is a person under disability or has, on or before the 28th day of March, 1961, ceased to be used for agricultural purposes."
+            }
+        },
+        "Section 6.": {
+            "heading": "Rent.",
+            "paragraphs": {
+                "0": "The rent payable by a tenant in respect of land held by him as such shall not exceed one-fifth of the produce of the land or the money equivalent thereof, or where a lower rent is agreed upon between him and the land-holder, the agreed rent."
+            }
+        },
+        "Section 7.": {
+            "heading": "Act to override contracts, etc.",
+            "paragraphs": {
+                "0": "The provisions of this Act shall, save as otherwise expressly provided, have effect notwithstanding anything to the contrary contained in any other law, custom or usage or agreement or decree or order of court."
+            }
+        },
+        "Section 8.": {
+            "heading": "Power to make rules.",
+            "paragraphs": {
+                "0": "(1) The Chief Commissioner may, by notification in the official Gazette, make rules for carrying out the purposes of this Act.",
+                "1": "(2) Every rule made under this section be laid as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and if, before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be, so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+            }
+        },
+        "Section 9.": {
+            "heading": "Repeal.",
+            "paragraphs": {
+                "0": "(1) The provisions of the Punjab Tenancy Act, 1887 (16 of 1887), and the Agra Tenancy U.P. Act, 1901 (U.P. Act II of 1901), and the Punjab Tenants (Security of Tenure) Act, 1950, (Punjab Act XXII of 1950) as applicable to the areas to which this Act extends, which are inconsistent with the provisions of this Act are hereby repealed.",
+                "1": "(2) Notwithstanding such repeal, anything done or any action taken in exercise of any power conferred by or under any of the provisions so repealed, to the extent to which it is not inconsistent with the provisions of this Act, shall be deemed to have been done or taken in exercise of the powers conferred by this Act as if this Act was in force on the date on which such thing was done or such action was taken."
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {}
+}

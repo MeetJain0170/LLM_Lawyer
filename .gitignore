@@ -1,0 +1,104 @@
+##############################
+# PYTHON BASICS
+##############################
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.pstats
+
+##############################
+# ENVIRONMENTS
+##############################
+venv/
+.env
+.env.*
+*.env
+*.venv
+
+##############################
+# EDITOR / OS JUNK
+##############################
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.log
+
+##############################
+# DATA (DO NOT PUSH RAW/CORPUS)
+##############################
+backend/data/raw/
+backend/data/pretrain/
+backend/data/processed/
+backend/data/tokenizer/
+backend/data/*.jsonl
+backend/data/**/*.jsonl
+backend/data/**/*.bin
+backend/data/**/*.txt
+backend/data/**/*.pkl
+
+##############################
+# SCRAPER OUTPUTS
+##############################
+backend/src/Scrapers/*.json
+backend/src/Scrapers/*.jsonl
+backend/src/Scrapers/_cache/
+backend/src/Scrapers/output/
+backend/src/Scrapers/seen_ids.txt
+
+##############################
+# TRAINING RUN OUTPUTS
+##############################
+runs/
+logs/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+##############################
+# MODEL WEIGHTS (HF, GPTQ, GGUF)
+##############################
+*.safetensors
+*.bin
+*.gguf
+*.pt
+*.pth
+*.h5
+
+##############################
+# TEMP FILES
+##############################
+tmp/
+temp/
+*.tmp
+*.bak
+
+##############################
+# FRONTEND NOISE
+##############################
+frontend/node_modules/
+frontend/.next/
+frontend/dist/
+frontend/build/
+
+##############################
+# LOCAL CONFIGS
+##############################
+config.yaml
+config.json
+*.secret.json
+
+##############################
+# MISC
+##############################
+*.zip
+*.tar.gz
+*.7z
+*.pdf

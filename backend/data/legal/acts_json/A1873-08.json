@@ -1,0 +1,831 @@
+{
+    "Act Title": "THE NORTHERN INDIA CANAL AND DRAINAGE ACT, 1873",
+    "Act ID": "ACT NO. 8 OF 1873",
+    "Enactment Date": "[11th February, 1873.]",
+    "Act Definition": {
+        "0": "An Act to regulate irrigation, navigation and drainage in Northern India.",
+        "1": "Preamble.\u2014WHEREAS, throughout the territories to which this Act extends, the State Government is entitled to use and control for public purposes the water of all rivers and streams flowing in natural channels, and of all lakes and other natural collections of still water; and whereas it is expedient to amend the law relating to irrigation, navigation and drainage in the said territo ries"
+    },
+    "Parts": {
+        "0": {
+            "ID": "PART I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title.",
+                    "paragraphs": {
+                        "0": "This Act may be called the Northern India Canal and Drainage Act, 1873.",
+                        "1": {
+                            "text": "Local extent.\u2014It extends to 1[Uttar Pradesh and the 2[territories which, immediately before the 1st November, 1956, were comprised in the States of Punjab and Delhi]] and applies to all lands whether permanently settled, temporarily settled, or free from revenue.",
+                            "contains": {
+                                "0": "3* * * * *"
+                            }
+                        }
+                    }
+                },
+                "Section 2.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Repeal of Acts.] Rep. by the Repealing Act, 1873 (12 of 1873), s. 1 and Schedule."
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Interpretation clause.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless there be something repugnant in the subject or context:\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(1) \u201cCanal\u201d.\u2014\u201ccanal\u201d includes\u2014",
+                                    "contains": {
+                                        "0": "(a) all canals, channels and reservoirs constructed, maintained or controlled by the State Government for the supply or storage of water;",
+                                        "1": "(b) all works, embankments, structures, supply and escape channels connected with such canals, channels or reservoirs;",
+                                        "2": "(c) all water-courses as defined in the second clause of this section;",
+                                        "3": "(d) any part of a river, stream, lake or natural collection of water or natural drainage-channel, to which the State Government has applied the provisions of Part II of this Act;"
+                                    }
+                                },
+                                "1": "(2) \u201cWater course\u201d.\u2014\u201cwater course\u201d means any channel which is supplied with water from a canal, but which is not maintained at the cost of the State Government, and all subsidiary works belonging to any such channel;",
+                                "2": "(3) \u201cDrainage-work\u201d.\u2014\u201cdrainage-work\u201d includes escape-channels from a canal, dams, weirs, embankments, sluices, groins and other works for the protection of lands from flood or from erosion, formed or maintained by the State Government under the provisions of Part VII of this Act, but does not include works for the removal of sewage from towns;",
+                                "3": "4(4) \u201cVessel\u201d.\u2014\u201cvessel\u201d includes boats, rafts, timber and other floating bodies;",
+                                "4": "(5) \u201cCommissioner\u201d.\u2014\u201cCommissioner\u201d means a Commissioner of a division, and includes any officer appointed under this Act to exercise all or any of the powers of a Commissioner;",
+                                "5": "1(6) \u201cCollector\u201d.\u2014\u201cCollector\u201d means the head revenue-officer of a district, and includes a Deputy Commissioner or other officer appointed under this Act to exercise all or any of the powers of a Collector;",
+                                "6": "(7) \u201cCanal-officer\u201d.\u2014\u201cCanal-officer\u201d means an officer appointed under this Act to exercise control or jurisdiction over a canal or any part thereof;",
+                                "7": "\u201cSuperintending Canal-officer\u201d.\u2014\u201cSuperintending Canal-officer\u201d means an officer exercising general control over a canal or portion of a canal;",
+                                "8": "\u201cDivisional Canal-officer\u201d.\u2014\u201cDivisional Canal-officer\u201d means an officer exercising control over a division of a canal;",
+                                "9": "\u201cSub-divisional Canal-officer\u201d.\u2014\u201cSub-Divisional Canal-officer\u201d means an officer exercising control over a sub-division of a canal;",
+                                "10": "(8) \u201cDistrict\u201d.\u2014\u201cDistrict\u201d means a district as fixed for revenue purposes."
+                            }
+                        }
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Power to appoint officers.",
+                    "paragraphs": {
+                        "0": "The State Government may from time to time declare, by notification in the Official Gazette, the officers by whom, and the local limits within which, or any of the powers or duties hereinafter conferred or imposed shall be exercised or performed.",
+                        "1": "All officers mentioned in section 3, clause (7), shall be respectively subject to the orders of such officers as the State Government from time to time directs."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "PART II",
+            "Name": "OF THE APPLICATION OF WATER FOR PUBLIC PURPOSES",
+            "Sections": {
+                "Section 5.": {
+                    "heading": "Notification to issue when water-supply is to be applied for public purposes.",
+                    "paragraphs": {
+                        "0": "Whenever it appears expedient to the State Government that the water of any river or stream flowing in a natural channel, or of any lake or other natural collection of still water, should be applied or used by the State Government for the purpose of any existing or projected canal or drainage-work, the State Government may, by notification in the Official Gazette, declare that the said water will be so applied or used after a day to be named in the said notification, not being earlier than three months from the date thereof."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Powers of Canal-officer.",
+                    "paragraphs": {
+                        "0": "At any time after the day so named, any Canal-officer, acting under the orders of the State Government in this behalf, may enter on any land and remove any obstructions, and may close any channels, and do any other thing necessary for such application or use of the said water."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Notice as to claims for compensation.",
+                    "paragraphs": {
+                        "0": "As soon as is practicable after the issue of such notification, the Collector shall cause public notice to be given at convenient places, stating that the State Government intends to apply or use the said water as aforesaid, and that claims for compensation in respect of the matters mentioned in section 8 may be made before him."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Damage for which compensation shall not be awarded.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No compensation shall be awarded for any damage caused by\u2014",
+                            "contains": {
+                                "0": "(a) stoppage or diminution of percolation or floods;",
+                                "1": "(b) deterioration of climate or soil;",
+                                "2": "(c) stoppage of navigation, or of the means of drifting timber or watering cattle;",
+                                "3": "(d) displacement of labour."
+                            }
+                        },
+                        "1": {
+                            "text": "Matters in respect of which compensation may be awarded.\u2014But compensation may be awarded in respect of any of the following matters:\u2014",
+                            "contains": {
+                                "0": "(e) stoppage or diminution of supply of water through any natural channel to any defined artificial channel, whether above or underground, in use at the date of the said notification;",
+                                "1": "(f) stoppage or diminution of supply of water to any work erected for purposes of profit on any channel, whether natural or artificial, in use at the date of the said notification;",
+                                "2": "(g) stoppage or diminution of supply of water through any natural channel which has been used for purposes of irrigation within the five years next before the date of the said notification;",
+                                "3": "(h) damage done in respect of any right to a water-course or the use of any water to which any person is entitled under the 1Indian Limitation Act, 1877 (15 of 1877), Part IV;",
+                                "4": "(i) any other substantial damage, not falling under any of the above clauses (a), (b), (c) or (d), and caused by the exercise of the powers conferred by this Act, which is capable of being ascertained and estimated at the time of awarding such compensation."
+                            }
+                        },
+                        "2": "In determining the amount of such compensation, regard shall be had to the diminution in the market-value, at the time of awarding compensation of the property in respect of which compensation is claimed; and, where such market -value is not ascertainable, the amount shall be reckoned at twelve times th e amount of the diminution of the annual net profits of such property caused by the exercise of the powers conferred by this Act.",
+                        "3": "No right to any such supply of water as is referred to in clauses (e), (f) or (g) of this section, in respect of a work or channel not in use at the date of the notification, shall be acquired as against the State Government, except by grant or under the 1Indian Limitation Act, 1877 (15 of 1877), Part IV;",
+                        "4": "and no right to any of the advantages referred to in clauses (a), (b) and (c) of this section shall be acquired, as against the State Government, under the same Part."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Limitation of claims.",
+                    "paragraphs": {
+                        "0": "No claim for compensation for any such stoppage, diminution or damage shall be made after the expiration of one year from such stoppage, diminution or damage, unless the Collector is satisfied that the claimant had sufficient cause for not making the claim within such period."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Enquiry into claims and amount of compensation.",
+                    "paragraphs": {
+                        "0": "The Collector shall proceed to enquire into any such claim, and to determine the amount of compensation, if any, which should be given to the claimant; and sections 9 to 12 (inclusive), 14 and 15, 18 to 23 (inclusive), 26 to 40 (inclusive), 51, 57, 58 and 59 of the 2Land Acquisition Act, 1870 (10 of 1870), shall apply to such enquiries:",
+                        "1": "Provided that, instead of the last clause of the said section 26, the following shall be read:\u2014 \u201cThe provisions of this section and of section 8 of the Northern India Canal and Drainage Act, 1873 (8 of 1873) , shall be read to every assessor in a language which he understands, before he gives his opinion as to the amount of compensation to be awarded.\u201d"
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Abatement of rent on interruption of water-supply.",
+                    "paragraphs": {
+                        "0": "Every tenant holding under an unexpired lease, or having a right of occupancy, who is in occupation of any land at the time when any stoppage or diminution of water -supply, in respect of which compen sation is allowed under section 8, takes place, may claim an abatement of the r ent previously payable by him for the said land, on the ground that the interruption reduces the value of the holding."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Enhancement of rent on restoration of water-supply.",
+                    "paragraphs": {
+                        "0": "If a water-supply increasing the value of such holding is afterwards restored to the said land, the rent of the tenant may be enhanced in respect of the increased value of such land due to the restored water-supply, to an amount not exceeding that at which it stood immediately before the abatement.",
+                        "1": "Such enhancement shall be on account only of the restored water-supply, and shall not affect the liability of the tenant to enhancement of rent on any other grounds."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Compensation when due.",
+                    "paragraphs": {
+                        "0": "All sums of money payable for compensation under this Part shall become due three months after the c laim for such compensation is made in respect of the stoppage, diminution or damage complained of,",
+                        "1": "Interest.\u2014and simple interest at the rate of six per cent. per annum shall be allowed on any such sum remaining unpaid after the said three months, except wh ere the non-payment of such sum is caused by the wilful neglect or refusal of the claimant to receive the same."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "PART III",
+            "Name": "OF THE CONSTRUCTION AND MAINTENANCE OF WORKS",
+            "Sections": {
+                "Section 14.": {
+                    "heading": "Power to enter and survey, etc.",
+                    "paragraphs": {
+                        "0": "Any Canal-officer, or other person acting under the general or special order of a Canal-officer,",
+                        "1": "may enter upon any lan ds adjacent to any canal, or through which any canal is proposed to be made, and undertake surveys or levels thereon;",
+                        "2": "and dig and bore into the sub-soil;",
+                        "3": "and make and set up -suitable land-marks, level-marks and water-gauges;",
+                        "4": "and do all other acts necessary for the proper prosecution of any enquiry relating to any existing or projected canal under the charge of the said Canal -officer;",
+                        "5": "Power to clear land.\u2014and, where otherwise such enquiry cannot be completed, such officer or other person may cut down and clear away any part of any standing crop, fence or jungle;",
+                        "6": "Power to inspect and regulate water -supply.\u2014And may also enter upon any land, building or water-course on account of which any wat er-rate is chargeable, for the purpose of inspecting or regulating the use of the water supplied, or of measuring the lands irrigated thereby or chargeable with a water -rate, and of doing all things necessary for the proper regulation and management of such canal:",
+                        "7": "Notice of intended entry into houses. \u2014Provided that, if such Canal -officer or person proposes to enter into any building or enclosed court or garden attached to a dwelling-house not supplied with water flowing from any canal, he shall previously give the occupier of such building, court or garden at least seven days \u201f notice in writing of his intention to do so.",
+                        "8": "Compensation for damage caused by entry.\u2014In every case of entry under this section, the Canal- officer shall, at the time of such entry, tender compensation for any damage which may be occasioned by any proceeding under this section; and, in case of dispute as to the sufficiency of the amount so tendered, he shall forthwith refer the same for decision by the Collector, and such decision shall be final."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Power to enter for repairs and to prevent accidents.",
+                    "paragraphs": {
+                        "0": "In case of any accident happening or being apprehended to a canal any Divisional Canal-officer or any person acting under his general or special orders in this behalf may enter upon any lands adjacent to such canal, and may execute all works which may be necessary for the purpose of repairing or preventing such accident.",
+                        "1": "Compensation for damage to land.\u2014In every such case such Canal-officer or person shall tender compensation to the proprietors or occupiers of the said lands for all damage done to the same. If such tender is not accepted, the Canal -officer shall refer the matter to the Collector, who shall proceed to award compensation for the damage as though the State Government had directed the occupation of the lands under section 43 of the 1Land Acquisi- tion Act, 1870 (10 of 1870)."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Application by persons desiring to use canal-water.",
+                    "paragraphs": {
+                        "0": "Any persons desiring to use the water of any canal may apply in writing to the Divisional or Sub-Divisional Canal-officer of the division or sub-division of the canal from which the water-course is to be supplied, requesting such officer to construct or improve a water-course at the cost of the applicants.",
+                        "1": "Contents of application.\u2014The application shall state the works to be undertaken, their approximate estimated cost, or the amount which the applicants are willing to pay for the same, or whether they engage to pay the actual cost as settled by the Divisional Canal-officer, and how the payment is to be made.",
+                        "2": "Liability of applicants for cost of works.\u2014When the assent of the Superintending Canal-officer is given to such application, all the applicants shall, after the application has been duly attested before the Collector, be jointly and severally liable for the cost of such works to the extent mentioned therein.",
+                        "3": "Recovery of amount due.\u2014Any amount becoming due under the terms of such application, and not paid to the Divisional Canal-officer, or the person authorised by him to receive the same, on or before the date on which it becomes due, shall, on the demand of such officer, be recoverable by the Collector as if it were an arrear of land-revenue."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Government to provide means of crossing canals.",
+                    "paragraphs": {
+                        "0": "There shall be provided, at the cost of the State Government, suitable means of crossing canals constructed or maintained at the cost of the State Government, at such places as the State Government thinks necessary for the reasonable convenience of the inhabitants of the adjacent lands.",
+                        "1": "On receiving a statement in writing, signed by not less than five of the owners of such lands, to the effect that suitable crossings have not been provided on any canal, the Collector shall cause enquiry to be made into the circumstances of the case and if he thinks that the statement is established, he shall report his opinion thereon for the consideration of the State Government, and the State Government shall cause such measures in reference thereto to be taken as it thinks proper."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Persons using water-course to construct works for passing water across roads, etc.",
+                    "paragraphs": {
+                        "0": "The Divisional Canal-officer may issue an order to the persons using any water-course to construct suitable bridges, culverts or other works for the passage of the water of such water-course across any public road, canal or drainage-channel in use before the said water-course was made, or to repair any such works.",
+                        "1": "Such order shall specify a reasonable period within which such construction or repairs shall be completed;",
+                        "2": "If they fail, Canal-officer may construct.\u2014 and if, after the receipt of such order, the persons to whom it is addressed do not, within the said period, construct or repair such works to the satisfaction of the said Canal-officer, he may, with the previous approval of the Superintending Canal-officer, himself construct or repair the same;",
+                        "3": "and recover cost.\u2014 and if the said persons do not, when so required, pay the cost of such construction or repairs as declared by the Divisional Canal-officer, the amount shall, on the demand of the Divisional Canal-officer, be recoverable from them by the Collector as if it were an arrear of land-revenue."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Adjustment of claims between persons jointly using water-course.",
+                    "paragraphs": {
+                        "0": "If any person, jointly responsible with others for the construction or maintenance of a water-course, or jointly making use of a water-course with others, neglects or refuses to pay his share of the cost of such construction or maintenance, or to execute his share of any work necessary for such construction or maintenance, the Divisional or Sub-divisional Canal-officer, on receiving an application in writing from any person injured by such neglect or refusal, shall serve notice on all the parties concerned that, on the expiration of a fortnight from the service, he will investigate the case; and shall, on the expiration of that period, investigate the case accordingly, and make such order thereon as to him seems fit.",
+                        "1": "Such order shall be appealable to the Commissioner, whose order thereon shall be final.",
+                        "2": "Recovery of amount found due.\u2014Any sum directed by such order to be paid within a specified period may, if not paid within such period, and if the order remains in force, be recovered by the Collector, from the person directed to pay the same, as if it were an arrear of land-revenue."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Supply of water through intervening wafer-course.",
+                    "paragraphs": {
+                        "0": "Whenever application is made to a Divisional Canal-officer for a supply of water from a canal, and it appears to him expedient that such supply should be given and that it should be conveyed through some existing water-course, he shall give notice to the persons responsible for the maintenance of such water-course to show cause, on a day not less than fourteen days from the date of such notice, why the said supply should not be so conveyed; and, after making enquiry on such day, the Divisional Canal -officer shall determine whether and on what conditions the said supply shall be conveyed through such water -course.",
+                        "1": "When such officer determines that a supply of canal -water may be conveyed through any water-course as aforesaid, his decision shall, when confirme d or modified by the Superintending Canal-officer, be binding on the applicant and also on the persons responsible for the maintenance of the said water -course.",
+                        "2": "Such applicant shall not be entitled to use such water -course until he has paid the expense of any alteration of such water -course necessary in order to his being supplied through it, and also such share of the first cost of such water -course as the Divisional or Superintending Canal-officer may determine.",
+                        "3": "Such applicant shall also be liable for hi s share of the cost of maintenance of such water-course so long as he uses it."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Application for construction of new water-course.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any person desiring the construction of a new water-course may apply in writing to the Divisional Canal-officer, stating\u2014",
+                            "contains": {
+                                "0": "(1) that he has endeavoured unsuccessfully to acquire, from the owners of the land through which he desires such water -course to pass, a right to occupy so much of the land as will be needed for such water-course;",
+                                "1": "(2) that he desires the said Canal-officer, in his behalf and at his cost, to do all things necessary for acquiring such right;",
+                                "2": "(3) that he is able to defray all costs involved in acquiring such right and constructing such water-course."
+                            }
+                        }
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Procedure of Canal-officer thereupon.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "If the Divisional Canal-officer considers\u2014",
+                            "contains": {
+                                "0": "(1) that the construction of such water-course is expedient, and",
+                                "1": "(2) that the statements in the application are true,"
+                            }
+                        },
+                        "1": {
+                            "text": "he shall call upon the applicant to make such deposit as the Divisional Canal-officer considers necessary to defray the cost of the preliminary proceedings, and the amount of any compensation which he considers likely to become due under section 28;",
+                            "contains": {
+                                "0": "and, upon such deposit being made, he shall cause enquiry to be made into the most suitable alignment for the said water-course, and shall mark out the land which, in his opinion, it will be,necessary to occupy for the construction thereof, and shall forthwith publish a notice in every village through which the water-course is proposed to be taken, that so much of such land as belongs to such village has been so marked out, and shall send a copy of such notice to the Collector of every district in which any part of such land is situate."
+                            }
+                        }
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Application for transfer of existing water-course.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any person desiring that an existing water- course should be transferred from its present owner to himself may apply in writing to the Divisional Canal-officer, stating\u2014",
+                            "contains": {
+                                "0": "(1) that he has endeavoured unsuccessfully to procure such transfer from the owner of such water-course;",
+                                "1": "(2) that he desires the said Canal-officer, in his behalf and at his cost, to do all things necessary for procuring such transfer;",
+                                "2": "(3) that he is able to defray the cost of such transfer. Procedure thereupon.\u2014If the Divisional Canal-officer considers\u2014",
+                                "3": "(a) that the said transfer is necessary for the better Management of the irrigation from such water-course, and",
+                                "4": "(b) that the statements in the application are true,"
+                            }
+                        },
+                        "1": "he shall call upon the applicant to make such deposit as the Divisional Canal-officer considers necessary to defray the cost of the preliminary proceedings, and the amount of any compensation that may become due under the provisions of section 28 in respect of such transfer;",
+                        "2": "and upon such deposit being made, he shall publish a notice of the application in every village, and shall send a copy of the notice to the Collector of every district, through which such water-course passes."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Objections to construction or transfer applied for.",
+                    "paragraphs": {
+                        "0": "Within thirty days from the publication of a notice under section 22 or section 23, as the case may be, any person interested in the land or water- course to which the notice refers may apply to the Collector by petition, stating his objection to the construction or transfer for which application has been made.",
+                        "1": "The Collector may either reject the petition or may proceed to inquire into the validity of the objection, giving previous notice to the Divisional Canal-officer of the place and time at which such inquiry will be held.",
+                        "2": "The Collector shall record in writing all orders passed by him under this section and the grounds thereof."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "When applicant may be placed in occupation.",
+                    "paragraphs": {
+                        "0": "If no such objection is made, or (where such objection is made) if the Collector over-rules it, he shall give notice to the Divisional Canal-officer to that effect, and shall proceed forthwith to place the said applicant in occupation of the land marked out or of the water-course to be transferred, as the case may be."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Procedure when objection is held valid.",
+                    "paragraphs": {
+                        "0": "If the Collector considers any objection made as aforesaid to be valid he shall inform the Divisional Canal-officer accordingly; and, if such officer sees fit, he may, in the case of an application under section 21, alter the boundaries of the land so marked out, and may give fresh notice under section 22; and the procedure herein before provided shall be applicable to such notice, and the Collector shall thereupon proceed as before provided."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Procedure when Canal-officer disagrees with Collector.",
+                    "paragraphs": {
+                        "0": "If the Canal-officer disagrees with the Collector, the matter shall be referred for decision to the Commissioner.",
+                        "1": "Such decision shall be final, and the Collector, if he is so directed by such decision, shall, subject to the provisions of section 28, cause the said applicant to be placed in occupation of the land so marked out or of the water-course to be transferred, as the case may be."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Expenses to be paid by applicant before receiving occupation.",
+                    "paragraphs": {
+                        "0": "No such applicant shall be placed in occupation of such land or water-course until he has paid to the person named by the Collector such amount as the Collector determines to be due as compensation for the land or water-course so occupied or transferred, and for any damage caused by the marking out or occupation of such land, together with all expenses incidental to such occupation or transfer.",
+                        "1": "Procedure in fixing compensation.\u2014In determining the compensation to be made under this section the Collector shall proceed under the provisions of the Land Acquisition Act, 18701 (10 of 1870); but he may, if the person to be compensated so desires, award such compensation in the form of a rent-charge payable in respect of the land or water-course occupied or transferred.",
+                        "2": "Recovery of compensation and expenses.\u2014If such compensation and expenses are not paid when demanded by the person entitled to receive the same, the amount may be recovered by the Collector as if it were any arrear of land-revenue, and shall, when recovered, be paid by him to the person entitled to receive the same."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Conditions binding on applicant placed in occupation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "When any such applicant is placed in occupation of land or of a water-course as aforesaid, the following rules and conditions shall be binding on him and his representative in interest :\u2014",
+                            "contains": {
+                                "0": "First.\u2014All works necessary for the passage across such water-course, of water-courses existing previous to its construction and of the drainage intercepted by it, and for affording proper communications across it for the convenience of the neighbouring lands, shall be constructed by the applicant, and be maintained by him or his representative in interest to the satisfaction of the Divisional Canal-officer.",
+                                "1": "Second.\u2014Land occupied for a water-course under the provisions of section 22 stall be used only for the purpose of such water-course.",
+                                "2": "Third.\u2014The proposed water-course shall be completed to the satisfaction of the Divisional Canal- officer within one year after the applicant is placed in occupation of the land.",
+                                "3": "In cases in which land is occupied or a water-course is transferred on the terms of a rent-charge.",
+                                "4": "Fourth.\u2014The applicant or his representative in interest shall, so long as he occupies such land or water-course, pay rent for the same at such rate and on such days as are determined by the Collector when the applicant is placed in occupation.",
+                                "5": "Fifth.\u2014If the right to occupy the land cease owing to a breach of any of these rules, the liability to pay the said rent shall continue until the applicant or his representative in interest has restored the land to its original condition, or until he has paid, by way of compensation for any injury done to the said land, such amount and to such persons as the Collector determines.",
+                                "6": "Sixth.\u2014The Collector may, on the application of the person entitled to receive such rent or compensation, determine the amount of rent due or assess the amount of such compensation; and, if any such rent or compensation be not paid by the applicant or his representative in interest, the Collector may recover the amount, with interest thereon at the rate of six per cent. per annum from the date on which it became due, as if it were an arrear of land-revenue, and shall pay the same, when recovered, to the person to whom it is due.",
+                                "7": "If any of the rules and conditions prescribed by this section are not complied with,",
+                                "8": "or if any water-course constructed or transferred under this Act is disused for three years continuously,",
+                                "9": "the right of the applicant, or of his representative in interest, to occupy such land or water-course shall cease absolutely."
+                            }
+                        }
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Procedure applicable to occupation for extensions and alterations.",
+                    "paragraphs": {
+                        "0": "The procedure hereinbefore provided for the occupation of land for the construction of a water-course shall be applicable to the occupation of land for any extension or alt eration of a water-course, and for the deposit of soil from water-course clearances."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "PART IV",
+            "Name": "OF THE SUPPLY OF WATER",
+            "Sections": {
+                "Section 31.": {
+                    "heading": "In absence of written contract, water-supply to be subject to rules.",
+                    "paragraphs": {
+                        "0": "In the absence of a written contract, or so far as any such contract does not extend, every supply of canal - water shall be deemed to be given at the rates and subject to the conditions prescribed by the rules to be made by the State Government in respect thereof."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Conditions as to\u2014 power to stop water-supply; claims to compensation in case of failure or stoppage of supply; claims on account of interruption from other causes; duration of supply; sale or sub-letting of right to use canal-water; transfer, with land, of contracts for water; no right acquired by user.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Such contracts and rules must be consistent with the following conditions:\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) power to stop water-supply.\u2014The Divisional Canal-officer may not stop the supply of water to any water-course, or to any person, except in the following cases:\u2014",
+                                    "contains": {
+                                        "0": "(1) whenever and so long as it is necessary to stop such supply for the purpose of executing any work ordered by competent authorit y and with the previous sanction of the State Government;",
+                                        "1": "(2) whenever and so long as any water-course is not maintained in such proper customary repair as to prevent the wasteful escape of water therefrom;",
+                                        "2": "(3) within periods fixed from time to time by the Divisional Canal -officer;"
+                                    }
+                                },
+                                "1": "(b) claims to compensation in case of failure or stoppage of supply.\u2014 No claim shall be made against the State Government for compensation in respect of loss caused by the failure or stoppage of the water in a canal, by reason of any cause beyond the control of the State Government or of any repairs, alterations or additions to the canal, or of any measures taken for regulating the proper flow of water therein, or for maintaining the established course of irrigation which the Divisional Canal -officer considers necessary; but the person suffering such loss may claim such remission of the ordinary charges payable for the use of the water as is authorised by the State Government:",
+                                "2": "(c) claims on account of interruption from other causes. \u2014If the supply of water to any land irrigated from a canal be interrupted otherwise than in the manner described in the last preceding clause, the occupier or owner of such land may present a petition for compensation to the Collector for any loss arising from such interruption, and the Collector may award to the petitioner reasonable compensation for such loss:",
+                                "3": "(d) duration of supply.\u2014When the water of a canal is supplied for the irrigation of a, single crop, the permission to use such water shall be held to continue only until that crop comes to maturity, and to apply only to that crop; but if it be supplied for irrigating two or more crops to be raised on the same land within the year, such permission shall be held to continue for one year from the commencement of the irrigation, and to apply to such crops only as are matured within that year:",
+                                "4": "(e) sale or subletting of right to use canal-water.\u2014Unless with the permission of the Superintending Canal-officer, no person entitled to use the water of any canal, or any work, building or land appertaining to any canal, shall sell or sublet or otherwise transfer his right to such use:",
+                                "5": "Provided that the former part of this clause shall not apply to the use by a cultivating tenant of water supplied by the owner of a water -course for the irrigation of the land held by such tenant:",
+                                "6": "transfer, with land, of contracts for water.\u2014But all contracts made between the State Government and the owner or occupier of any immovable property, as to the supply of canal-water to such property, shall be transferable therewith, and shall be presumed to have been so transferred whenever a transfer of such property takes place:",
+                                "7": "(f) No right acquired by user.\u2014No right to the use of the water of a canal shall be, or be deemed to have been, acquired under the 1Indian Limitation Act, 1877 (15 of 1877), Part IV, nor shall the State Government be bound to supply any person with water except in accordance with the terms of a contract in writing."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "PART V",
+            "Name": "OF WATER-RATES",
+            "Sections": {
+                "Section 33.": {
+                    "heading": "Liability when person using unauthorisedly cannot be identified.",
+                    "paragraphs": {
+                        "0": "If water supplied through a water-course be used in an unauthorised manner, and if the person by whose act or neglect such use has occurred cannot be identified,",
+                        "1": "the person on whose land such water has flowed if such land has derived benefit therefrom,",
+                        "2": "or if such person cannot be identified or if such land has not derived benefit therefrom, all the persons chargeable in respect of the water supplied through such water -course, shall be liable, or jointly liable, as the case may be, to the charges made for such use."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Liability when water runs to waste.",
+                    "paragraphs": {
+                        "0": "If water supplied through a water-course be suffered to run to waste, and if, after enquiry by the Divisional Canal-officer, the person through whose act or neglect such water was suffered to run to waste cannot be discovered, all the persons chargeable in respect of the wat er supplied through such water-course shall be jointly liable for the charges made in respect of the water so wasted."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Charges recoverable in addition to penalties.",
+                    "paragraphs": {
+                        "0": "All charges for the unauthorised use or for waste of water may be recovered in addition to any penalties incurred on account of such use or waste.",
+                        "1": "Decision of questions under sections 33 and 34.\u2014All questions under section 33 or section 34 shall be decided by the Divisional Canal-officer, subject to an appeal to the head Revenue- officer of the district, or such other appeal as may be provided under section 75."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Charge on occupier for water, how determined.",
+                    "paragraphs": {
+                        "0": "The rates to be charged for canal- water supplied for purposes of irrigation to the occupiers of land shall be determined by the rules to be made by the State Government, and such occupiers as accept the water shall pay for accordingly.",
+                        "1": "\u201eOccupier\u201fs rate\u201f.\u2014A rate so charged shall be called the \u201coccupier\u201fs rate\u201d.",
+                        "2": "2[The rules hereinbefore referred to may prescribe and determine what persons or classes of persons are to be deemed to be occupiers for the purposes of this section, and may also determine the several liabilities, in respect of the payment of the occupier \u201fs rate, of tenants and of persons to whom tenants may have sublet their lands or of proprietors and of persons to whom proprietors may have let the lands held by them in cultivating occupancy.]"
+                    }
+                },
+                "Section 37.": {
+                    "heading": "\u201cOwner\u201fs rate\u201d.",
+                    "paragraphs": {
+                        "0": "In addition to the occupier\u201fs rate, a rate to be called the \u201cowner\u201fs rate\u201d may be imposed according to rules to be made by the State Government, on the owners of canal - irrigated lands, in respect of the benefit which they derive from such irrigation."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Amount of owner\u201fs rate.",
+                    "paragraphs": {
+                        "0": "The owner\u201fs rate shall not exceed the sum which, under the rules for the time being in force for the assessment of land -revenue, might be assessed on such land on account of the increase in the annual value of prod uce thereof caused by the canal-irrigation. And, for the purpose of this section only, land which is permanently settled or held free of revenue shall be considered as though it were temporarily settled and liable to payment of revenue."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Owner\u201fs rate, when not chargeable.",
+                    "paragraphs": {
+                        "0": "No owner\u201fs rate shall be chargeable either on the owner or occupier of land temporarily assessed to pay land -revenue at irrigation-rates, during the currency of such assessment."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "When occupier is to pay both owner\u201fs rate and occupier\u201fs rate.",
+                    "paragraphs": {
+                        "0": "If such land is occupied by the owner,",
+                        "1": "or if it is occupied by a tenant whose rent is not liable to enhancement on the ground that the value of the produce of the land or the productive po wers of the land has or have teen increased by irrigation,",
+                        "2": "such owner or tenant shall pay the owner \u201fs rate as well as the occupier\u201fs rate."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Power to make rules for apportioning owner\u201fs rate.",
+                    "paragraphs": {
+                        "0": "In the case of a tenant with a right of occupancy, the State Government shall have power to make rules for dividing the owner\u201fs rate between such tenant and his landlord, proportionately to the extent of the beneficial interest of each in the land."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "When owner is to pay \u201eowner\u201fs rate.",
+                    "paragraphs": {
+                        "0": "If the owner of the land is not the occupier, but has power to enhance the rent of the occupier on the ground that the value of the produce or the productive powers of the land has or have been increased by irrigation,",
+                        "1": "or if, when the amount of a rent was fixed, the land was irrigated from the canal,",
+                        "2": "the owner shall pay the owner\u201fs rate."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Effect of introduction of canal-irrigation on landlord\u201fs right to enhance.",
+                    "paragraphs": {
+                        "0": "If a revision of settlement is a ground for entertaining a suit, for the enhancement of rent, the introduction of canal-irrigation into any land shall have the same effect on the landlord \u201fs right to re-enhance the rent of a tenant with a right of occupancy o f such land, as if a revision of settlement had taken place, under which the revenue payable in respect of such land had been increased."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Water-rate by whom payable, when charged on land held by several owners.",
+                    "paragraphs": {
+                        "0": "Where a water-rate is charged on land held by several joint owners, it shall be payable by the manager or other person who receives the rents or profits of such land, and may be deducted by him from such rents or profits before division, or may be recovered by him from the persons liable to such rate in the manner customary in the recovery of other charges on such rents or profits."
+                    }
+                }
+            },
+            "Subheadings": [
+                {
+                    "Name": "Recovery of charges",
+                    "Sections": {
+                        "Section 45.": {
+                            "heading": "Certified dues recoverable as land-revenue.",
+                            "paragraphs": {
+                                "0": "Any sum lawfully due under this Part, and certified by the Divisional Canal-officer to be so due, which remains unpaid after the day on which it becomes due, shall be recoverable by the Collector from the person liable for the same as if it were an arrear of land-revenue."
+                            }
+                        },
+                        "Section 46.": {
+                            "heading": "Power to contract for collection of canal-dues.",
+                            "paragraphs": {
+                                "0": "The Divisional Canal-officer or the Collector may enter into an agreement with any person for the collection and payment to the State Government by such person of any sum payable under this Act by a third party.",
+                                "1": "When such agreement has been made, such person may recover such sum by suit as though it were a debt due to him, or an arrear of rent due to him on account of the land, work or building in respect of which such sum is payable, or for or in which the canal -water shall have been supplied or used.",
+                                "2": "If such person makes default in the payment of any sum collected by him under this section, such sum may be recovered from him by the Collector under section 45; and, if such sum or any part of it be still due by the said third party, the sum or part so due may be recovered in like manner by the Collector from such third party."
+                            }
+                        },
+                        "Section 47.": {
+                            "heading": "Lambardars may be required to collect canal-dues.",
+                            "paragraphs": {
+                                "0": "The Collector may require the lambardar, or person under engagement to pay the land -revenue of any estate, to collect and pay any sums payable under this Act by a t hird party, in respect of any land or water in such estate.",
+                                "1": "Such sums shall be recoverable by the Collector as if they were arrears of land -revenue due in respect of the defaulter\u201fs share in such estate;",
+                                "2": "and for the purpose of collecting such sums from the subordinate zamindars, raiyats, 1[tenants or sub- tenants], such lambardar or person may exercise the powers, and shall be subject to the rules, laid down in the law for the time being in force in respect to the collection by him of the rents of land or of shares of land-revenue.",
+                                "3": {
+                                    "text": "The State Government shall provide\u2014",
+                                    "contains": {
+                                        "0": "(a) for remunerating persons collecting sums under this section; or",
+                                        "1": "(b) for indemnifying them against expenses properly incurred by them in such collection; or",
+                                        "2": "(c) for both such purposes."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 48.": {
+                            "heading": "Fines excluded from sections 45, 46, 47.",
+                            "paragraphs": {
+                                "0": "Nothing in section 45, 46 or 47 applies to fines."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "5": {
+            "ID": "PART V I",
+            "Name": "OF CANAL NAVIGATION",
+            "Sections": {
+                "Section 49.": {
+                    "heading": "Detainer of vessels violating rules.",
+                    "paragraphs": {
+                        "0": "Any vessel entering or navigating any canal contrary to the rules made in that behalf by the Sta te Government, or so as to cause danger to the canal or the other vessels therein, may be removed or detained, or both removed and detained, by the Divisional Canal -officer, or by any other person duly authorised in this behalf.",
+                        "1": "Liability of owners of vessels causing damage.\u2014The owner of any vessel causing damage to a canal, or removed or detained under this section, shall be liable to pay to the State Government such sum as the Divisional Canal -officer, with the approval of the Superintending Canal-officer, determines to be necessary to defray the expenses of repairing such damage or of such removal or detention, as the case may be."
+                    }
+                },
+                "Section 50.": {
+                    "heading": "Recovery of fines for offences in navigating canals.",
+                    "paragraphs": {
+                        "0": "Any fine imposed under this Act upon the owner of any vessel, or the servant or agent of such owner or other person in charge of any vessel, for any offence in respect of the navigation of such vessel, may be recovered either in the manner prescribed by the Code of Criminal Procedure 2 or, if the Magistrate imposing the fine so directs, as though it were a charge due in respect of such vessel."
+                    }
+                },
+                "Section 51.": {
+                    "heading": "Power to seize and detain vessel on failure to pay charges.",
+                    "paragraphs": {
+                        "0": "If any charge due under the provisions of this Part in respect of any vessel is not paid on demand to the person authorised to collect the same, the Divisional Canal-officer may seize and detain such vessels and the furniture thereof, until the charge so due, together with all expenses and additional charges arising from such seizure and detention, is paid in full."
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Power to seize cargo or goods, if charges due thereon are not paid.",
+                    "paragraphs": {
+                        "0": "If any charge due under the provisions of this Part in respect of any cargo or goods carried in a Government vessel on a canal, or stored on or in lands or warehouses occupied for the purposes of a canal, is not paid on demand to the person authorised to collect the same, the Divisional Canal - officer may seize such cargo or goods and detain them until the charge so due, together with all expenses and additional charges arising from such seizure and detention, is paid in full."
+                    }
+                },
+                "Section 53.": {
+                    "heading": "Procedure for recovery of such charges after seizure.",
+                    "paragraphs": {
+                        "0": "Within a reasonable time after any seizure under section 51 or section 52, the said Canal-officer shall give notice to the owner or person in charge of the property seized that it, or such portion of it as may be necessary, will, on a day to be named in the notice, but not sooner than fifteen days from the date of the notice, be sold in satisfaction of the claim on account of which such property was seized, unless the claim be discharged before the day so named.",
+                        "1": "And, if such claim be not so discharged, the said Canal-officer may, on such day, sell the property seized or such part thereof as may be necessary to yield the amount due, together with the expenses of such seizure and sale:",
+                        "2": "Provided that no greater part of the furniture of any vessel or of any cargo or goods shall be so sold than shall, as nearly as may be, suffice to cover the amount due in respect of such vessel, cargo or goods.",
+                        "3": "The residue of such furniture, cargo or goods, and of the proceeds of the sale, shall be made over to the owner or person in charge of the property seized."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Procedure in respect of vessels abandoned and goods unclaimed.",
+                    "paragraphs": {
+                        "0": "If any vessel be found abandoned in a canal, or any cargo or goods carried in a Government vessel on a canal, or stored on or in lands or warehouses occupied for the purposes of a canal, be left unclaimed for a period of two months, the Divisional Canal-officer may take possession of the same.",
+                        "1": "The officer so taking possession may publish a notice that, if such vessel and its contents, or such cargo or goods, are not claimed previously to a day to be named in the notice, not sooner than thirty days from the date of such notice, he will sell the same; and, if such vessel, contents, cargo or goods be not so claimed, he may, at any time after the day named in the notice, proceed to sell the same.",
+                        "2": "Disposal of proceeds of sale.\u2014The said vessel and its contents, and the said cargo or goods if unsold, or, if a sale has taken place, the proceeds of the sale, after paying all tolls, charges and expenses incurred by the Divisional Canal-officer on account of the taking possession and sale, shall be made over to the owner of the same, when his ownership is established to the satisfaction of the Divisional Canal- officer.",
+                        "3": "If the Divisional Canal-officer is doubtful to whom such property or proceeds should be made over, he may direct the property to be sold as aforesaid, and the proceeds to be paid into the district treasury, there to be held until the right thereto be decided by a Court of competent jurisdiction."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "PART VII",
+            "Name": "OF DRAINAGE",
+            "Sections": {
+                "Section 55.": {
+                    "heading": "Power to prohibit obstructions or order their removal.",
+                    "paragraphs": {
+                        "0": "Whenever it appears to the State Government that injury to any land or the public health or public convenience has arisen or may arise from the obstruction of any river, stream or drainage-channel, such Government may, by notification published in the Official Gazette, prohibit, within limits to be defined in such notification, the formation of any obstruction, or may, within such limits, order the removal or other modification of such obstruction.",
+                        "1": "Thereupon so much of the said river, stream or drainage-channel as is comprised within such limits shall be held to be a drainage -work as defined in section 3."
+                    }
+                },
+                "Section 56.": {
+                    "heading": "Power to remove obstructions after prohibition.",
+                    "paragraphs": {
+                        "0": "The Divisional Canal-officer, or other person authorised by the State Government in that behalf, may, after such publication issue an order to the person causing or having control over any such obstruction to remove or modify the same within a time to be fixed in the order.",
+                        "1": "If, within the time so fixed, such person does not comply with the order, the said Canal-officer may himself remove or modify the obstruction; and if the person to whom the order was issued does not, when called upon, pay the expenses involved in such removal or modification, such expenses shall be recoverable by the Collector from him or his representative in interest as an arrear of land-revenue."
+                    }
+                },
+                "Section 57.": {
+                    "heading": "Preparation of schemes for works of improvement.",
+                    "paragraphs": {
+                        "0": "Whenever it appears to the State Government that any drainage-works are necessary for the improvement of any lands, or for the proper cultivation or irrigation thereof,",
+                        "1": "or that protection from floods or other accumulations of water, or from erosion by a river, is required for any lands, the State Government may cause a scheme for such drainage -works to be drawn up and published, together with an estimate of its co st and a statement of the proportion of such cost which the State Government proposes to defray, and a schedule of the lands which it is proposed to make chargeable in respect of the scheme ."
+                    }
+                },
+                "Section 58.": {
+                    "heading": "Powers of persons employed on such schemes.",
+                    "paragraphs": {
+                        "0": "The persons authorised by the State Government to draw up such scheme may exercise all or any of the powers conferred on the Canal- officers by section 14."
+                    }
+                },
+                "Section 59.": {
+                    "heading": "Rate on lands benefited by works.",
+                    "paragraphs": {
+                        "0": "An annual rate, in respect of such scheme, may be charged, according to rules to be made by the State Government, on the owners of all lands which shall, in the manner prescribed by such rules, be determined to be so chargeable.",
+                        "1": {
+                            "text": "Such rate shall be fixed, as nearly as possible, so as not to exceed either of the following limits :\u2014",
+                            "contains": {
+                                "0": "(1) six per cent. per annum on the first cost of the said works, adding thereto the estimated yearly cost of the maintenance and supervision of the same, and deducting therefrom the estimated income, if any, derived from the works, excluding the said rate:",
+                                "1": "(2) in the case of agricultural land, the sum which under the rules then in force fo r the assessment of land-revenue, might be assessed on such land on account of the increase of the annual value or produce thereof caused by the drainage -work."
+                            }
+                        },
+                        "2": "Such rate may be varied from time to time, within such maximum, by the State Government.",
+                        "3": "So far as any defect to be remedied is due to any canal, water -course, road or other work or obstruction, constructed or caused by the State Government or by any person, a proportionate share of the cost of the drainage-works required for the remedy of the said defect shall be borne by such Government or such person, as th e case may be."
+                    }
+                },
+                "Section 60.": {
+                    "heading": "Recovery of rate.",
+                    "paragraphs": {
+                        "0": "Any such drainage-rate may be collected and recovered in manner provided by sections 45, 46 and 47 for the collection and recovery of water-rates."
+                    }
+                },
+                "Section 61.": {
+                    "heading": "Disposal of claims to compensation.",
+                    "paragraphs": {
+                        "0": "Whenever, in pursuance of a notification made under section 55, any obstruction is removed or modified,",
+                        "1": "or whenever any drainage-work is carried under section 57,",
+                        "2": "all claims for compensation on account of any loss consequent on the removal or modification of the said obstruction or the construction of such work may be made before the Collector, and he shall deal with the same in the manner provided in section 10."
+                    }
+                },
+                "Section 62.": {
+                    "heading": "Limitation of such claims.",
+                    "paragraphs": {
+                        "0": "No such claim shall be entertained after the expiration of one year from the occurrence of the loss complained of, unless the Collector is satisfied that the claimant had sufficient cause for not making the claim within such period."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "PART VIII",
+            "Name": "OF OBTAINING LABOUR FOR CANALS AND DRAINAGE-WORKS",
+            "Sections": {
+                "Section 63.": {
+                    "heading": "Definition of \u201clabourer\u201d.",
+                    "paragraphs": {
+                        "0": "For the purposes referred to in this Part, the word \u201clabourer\u201d includes persons who exercise any handicraft specified in rules to be made in that behalf by the State Government."
+                    }
+                },
+                "Section 64.": {
+                    "heading": "Power to prescribe number of labourers to be supplied by persons benefited by canal.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In any district in which a canal or drainage-work is constructed, maintained or projected by the State Government, the State Government, may, if it thinks fit, direct the Collector \u2014",
+                            "contains": {
+                                "0": "(a) to ascertain the proprietors, sub-proprietors or farmers whose villages or estates are or will be in the judgment of the Collector, benefited by such canal or drainage-work, and",
+                                "1": "(b) to set down in a list, having due regard to the circumstances of the districts and of the several proprietors, sub-proprietors or farmers, the number of labourers which shall be furnished by any of the said persons, jointly or severally, from any such village or estate, for employment on any such canal or drainage -work when required as hereinafter provided."
+                            }
+                        },
+                        "1": "The Collector may, from time to time, add to or alter such list or any part thereof."
+                    }
+                },
+                "Section 65.": {
+                    "heading": "Procedure for obtaining labour for works urgently required.",
+                    "paragraphs": {
+                        "0": "Whenever it appears to a Divisional Canal-officer duly authorised by the State Government that, unless some work is immediately executed, such serious damage will happen to any canal or drainage-work as to cause sudden and extensive public injury,",
+                        "1": "and that the labourers necessary for the proper execution thereof cannot be obtained in the ordinary manner within the time that can be allowed for the execution of such work so as to prevent such injury, the said officer may require any person named in such list to furnish as many labourers (not exceeding the number which, according to the said list he is liable to supply) as to the said officer seems necessary for the immediate execution of such work.",
+                        "2": {
+                            "text": "Every requisition so made shall be in writing, and shall state\u2014",
+                            "contains": {
+                                "0": "(a) the nature and locality of the work to be done;",
+                                "1": "(b) the number of labourers to be supplied by the person upon whom the requisition is made ; and",
+                                "2": "(c) the approximate time for which and the day on which the labourers will be required;"
+                            }
+                        },
+                        "3": {
+                            "text": "and a copy thereof shall be immediately sent to the Superintending Canal -officer for the information of the State Government.",
+                            "contains": {
+                                "0": {
+                                    "text": "The State Government shall fix, and may from time to time alter the rates to be paid to any such labourers: Provided that such rates shall exceed the highest rates for the time being paid in the neigh- bourhood for similar work. In the case of every such labourer, the payment shall continue for the whole period during which he is, in consequence of the provisions of this Part, prevented from following his ordinary occupation.",
+                                    "contains": {
+                                        "0": "The State Government may 1 *** direct that the provisions of this Part shall apply, either permanently or temporarily (as the case may be), to any district or part of a district for the purpose of effecting necessary annual silt -clearances, or to prevent the proper operation of a canal or drainage-work being stopped or so much interfered with as to stop the established course of irrigation or drainage."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 66.": {
+                    "heading": "Liability of labourers under requisition.",
+                    "paragraphs": {
+                        "0": "When any requisition has been made on any person named in the said list, every labourer ordinarily resident within the village or estate of such person shall be liable to supply, and to continue to supply, his labour, for the purposes aforesaid."
+                    }
+                }
+            }
+        },
+        "8": {
+            "ID": "PART IX",
+            "Name": "OF JURISDICTION",
+            "Sections": {
+                "Section 67.": {
+                    "heading": "Jurisdiction under this Act of Civil Courts.",
+                    "paragraphs": {
+                        "0": "Except where herein otherwise provided, all claims against the State Government in respect of anything done under this Act may be tried by the Civil Courts; but no such Court shall in any case pass an order as to the supply of canal-water to any crop sown or growing at the time of such order."
+                    }
+                },
+                "Section 68.": {
+                    "heading": "Settlement of differences as to mutual rights and liabilities of persons interested in water-course.",
+                    "paragraphs": {
+                        "0": "Whenever a difference arises between two or more persons in regard to their mutual rights or liabilities in respect of the use, construction or maintenance of a water- course, any such person may apply in writing to the Divisional Canal -officer stating the matter in dispute. Such officer shall thereupon give notice to the other persons interested that, on a day to be named in such notice, he will proceed to inquire into the said matter. And , after such inquiry, he shall pass his order thereon, unless he transfers (as he is hereby empowered to do) the matter to the Collector, who shall thereupon inquire into and pass his order on the said matter.",
+                        "1": "Such order shall be final as to the use or distribution of water for any crop sown or growing at the time when such order is made, and shall thereafter remain in force until set aside by the decree of a Civil Court."
+                    }
+                },
+                "Section 69.": {
+                    "heading": "Power to summon and examine witnesses.",
+                    "paragraphs": {
+                        "0": "Any officer empowered under this Act to conduct any inquiry may exercise all such powers connected with the summoning and examining of witnesses as are conferred on Civil Courts by the 1Code of Civil Procedure, and every such inquiry shall be deemed a judicial proceeding."
+                    }
+                }
+            }
+        },
+        "9": {
+            "ID": "PART X",
+            "Name": "OF OFFENCES AND PENALTIES",
+            "Sections": {
+                "Section 70.": {
+                    "heading": "Offences under Act.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Whoever, without proper authority and voluntarily, does any of the acts following, that is to say:\u2014",
+                            "contains": {
+                                "0": "(1) damages, alters, enlarges or obstructs any canal or drainage -work;",
+                                "1": "(2) interferes with, increases or diminishes the supply of water in, or the flow of water from, through, over or under, any canal or drainage-work;",
+                                "2": "(3) interferes with or alters the flow of water in any river or stream, so as to endanger, damage or render less useful any canal or drainage-work;",
+                                "3": "(4) being responsible for the maintenance of a water -course, or using a water-course, neglects to take proper precautions for the prevention of waste of the water thereof, or interferes with the authorised distribution of the water therefrom, or uses such water in an unauthorised manner;",
+                                "4": "(5) corrupts or fouls the water of any canal so as to render it less fit for the purposes for which it is ordinarily used;",
+                                "5": "(6) causes any vessel to enter or navigate any canal contrary to the rules for the time being prescribed by the State Government for entering or navigating such canal;",
+                                "6": "(7) while navigating on any canal, neglects to take proper precautions for the safety of the canal and of vessels thereon;",
+                                "7": "(8) being liable to furnish labourers under Part VIII of this Act, fails without reaso - nable cause, to supply or to assist in supplying the labourers required of him;",
+                                "8": "(9) being a labourer liable to supply his labour under Part VIII of this Act, neglects, without reasonable cause, so to supply, and to continue to supply, his labour;",
+                                "9": "(10) destroys or moves any level-mark or water-gauge fixed by the authority of a public servant;",
+                                "10": "(11) passes, or causes animals or vehicles to pass, on or across any of the works, banks or channels of a canal or drainage-work contrary to rules made under this Act, after he has been desired to desist therefrom;",
+                                "11": "(12) violates any rule made under this Act, for breach whereof a penalty may be incurred."
+                            }
+                        },
+                        "1": "Penalty.\u2014Shall be liable, on conviction before a Magistrate of such class as the State Government directs in this behalf, to a fine not exceeding fifty rupees, or to imprisonment not exceeding one month, or to both."
+                    }
+                },
+                "Section 71.": {
+                    "heading": "Saving of prosecution under other laws.",
+                    "paragraphs": {
+                        "0": "Nothing hereinafter contained shall prevent any person from being prosecuted under any other law for any offence punishable under this Act:",
+                        "1": "Provided that no person shall be punished twice for the same offence."
+                    }
+                },
+                "Section 72.": {
+                    "heading": "Compensation to person injured.",
+                    "paragraphs": {
+                        "0": "Whenever any person is fined for an offence under this Act, the Magistrate may direct that the whole or any part of such fine may be paid by way of compensation to the person injured by such offence."
+                    }
+                },
+                "Section 73.": {
+                    "heading": "Power to arrest without warrant.",
+                    "paragraphs": {
+                        "0": "Any person in charge of or employed upon any canal or drainage-work, may remove from the lands or buildings belonging thereto, or may take into custody without a warrant and take forthwith before a Magistrate or to the nearest police - station, to be dealt with according to law, any person who, within his view, commits any of the following offences:\u2014",
+                        "1": "(1) wilfully damages or obstructs any canal or drainage-work;",
+                        "2": "(2) without proper authority interferes with the supply or flow of water in or from any canal or drainage-work, or in any river or stream, so as to endanger, damage or render less useful any canal or drainage-work."
+                    }
+                },
+                "Section 74.": {
+                    "heading": "Definition of \u201ccanal\u201d.",
+                    "paragraphs": {
+                        "0": "In this Part the word \u201eCanal\u201f shall (unless there be something repugnant in the subject or context) be deemed to include also all lands occupied by the State Government for the purposes of canals, and all buildings, machinery, fences, gates and other erections, trees, crops, plantations or other produce, occupied by or belonging to the State Government upon such lands."
+                    }
+                }
+            }
+        },
+        "10": {
+            "ID": "PART XI",
+            "Name": "OF SUBSIDIARY RULES",
+            "Sections": {
+                "Section 75.": {
+                    "heading": "Power to make, alter and cancel rules.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The State Government may, from time to time 1*** make rules to regulate the following matters:\u2014",
+                            "contains": {
+                                "0": "(1) the proceedings of any officer who, under any provision of this Act, is required or empowered to take action in any matter;",
+                                "1": "(2) the cases in which, and the officers to whom, and the conditions subject to which, orders and decisions given under any provision of this Act, and not expressly provided for as regards appeal, shall be appealable;",
+                                "2": "(3) the persons by whom, 2[and] the time, place or manner at or in which, anything for the doing, of which provision is made under this Act, shall be done;",
+                                "3": "(4) the amount of any charge made under this Act;",
+                                "4": "(5) and generally to carry out the provisions of this Act."
+                            }
+                        },
+                        "1": "The State Government may from time to time, 1*** alter or cancel any rules so made.",
+                        "2": "Publication of rules.\u2014Such rules, alterations and cancelments shall be published in the Official Gazette, and shall thereupon have the force of law."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "SCHEDULE.\u2014[Repealed.].": {
+            "0": "SCHEDULE.\u2014[Rep. by the Repealing Act, 1873 (12 of 1873), s. 1 and Schedule.]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 5": {
+            "0": "1. Subs.  by  the  A.O.1948,  for  the  original  words  as  amended  by  the  A.O.1937.  The  Act  originally  extended  to  theterritories which are now the U.P., the Punjab, and the C.P. It has been rep. in the C.P. by the C.P. Irrigation Act,1931  (C.P.  3  of  1931).  It  has  been  declared  not  to  apply  to  any  canal  which  is  included  for  the  time  being  underSch. I or Sch. II to the Punjab Minor Canals Act, 1905 (Pun. 3 of 1905),  see s. 2 (3) of that Act. The Act has beenamended and in Punjab by Pun. Acts 19 of 1953, 22 of 1960 and 18 of 1974\u201f \u201f in U.P. by U.P.  Acts 30 of 1956 and16 of 1974; and in Haryana by Haryana Acts 4 of 1971 and 29 of 1974.",
+            "1": "2. Subs. by the Adaptation of Laws (No. 2) Order, 1956, for \u201cStates of Punjab and Delhi\u201d.",
+            "2": "3. The commencement paragraph rep. by Act 16 of 1874, s. 1 and Sch edule.",
+            "3": "4. Cf. definition in the General Clauses Act, 1897 (10 of 1897), s. 3."
+        },
+        "Page 6": {
+            "0": "1. Cf. definition in the General Clauses Act, 1897 (10 of 1897), s. 3 (11)."
+        },
+        "Page 7": {
+            "0": "1. See now the Indian Limitation Act, 1963 (36 of 1963).",
+            "1": "2. See now the Land Acquisition Act, 1894 (1 of 1894)."
+        },
+        "Page 9": {
+            "0": "1. See now the Land Acquisition Act, 1894 (1 of 1894)."
+        },
+        "Page 12": {
+            "0": "1. See now the Land Acquisition Act, 1894  (1 of 1894)."
+        },
+        "Page 14": {
+            "0": "1. See now the Indian Limitation Act, 1963 (36 of 1963).",
+            "1": "2. Ins. by Act 16 of 1899, s. 2."
+        },
+        "Page 15": {
+            "0": "1. Sections 40 to 43 rep. in the Punjab by the Punjab Tenancy Act, 1887 (16 of 1887), s. 3 and the Schedule."
+        },
+        "Page 16": {
+            "0": "1. Subs. by Act 16 of 1899, s. 3, for \u201cor tenants\u201d.",
+            "1": "2. See now the Code of Criminal Procedure, 1973 (2 of 1974)."
+        },
+        "Page 19": {
+            "0": "1. The words \u201cwith the previous sanction of the G. G. in C.\u201d omitted by Act 4 of 1914, s. 2 and the Schedule."
+        },
+        "Page 20": {
+            "0": "1. See now the Code of Civil Procedure, 1908 (Act 5 of 1908)."
+        },
+        "Page 21": {
+            "0": "1. The words \u201csubject to the control of the G. G. in C.\u201d omitted by Act 38 of 1920.",
+            "1": "2. Ins. by Act 12 of 1891."
+        },
+        "Page 22": {
+            "0": "1. The words \u201csubject to the like control\u201d omitted by Act 38 of 1920."
+        }
+    }
+}

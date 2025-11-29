@@ -1,0 +1,132 @@
+{
+    "Act Title": "THE REPEALING AND AMENDING ACT, 2019",
+    "Act ID": "ACT NO. 31 OF 2019",
+    "Enactment Date": "[8th August, 2019.]",
+    "Act Definition": {
+        "0": "An Act to repeal certain enactments and to amend certain other enactments."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title.",
+            "paragraphs": {
+                "0": "This Act may be called the Repealing and Amending Act, 2019."
+            }
+        },
+        "Section 2.": {
+            "heading": "Repeal of certain enactments.",
+            "paragraphs": {
+                "0": "The enactments specified in the First Schedule are hereby repealed."
+            }
+        },
+        "Section 3.": {
+            "heading": "Amendment of certain enactments.",
+            "paragraphs": {
+                "0": "The enactments specified in the Second Schedule are hereby amended to the extent and in the manner specified in the fourth column thereof."
+            }
+        },
+        "Section 4.": {
+            "heading": "Savings.",
+            "paragraphs": {
+                "0": "The repeal by this Act of any enactment shall not affect any other enactment in which the repealed enactment has been applied, incorporated or referred to;",
+                "1": "and this Act shall not affect the validity, invalidity, effect or consequences of anything already done or suffered, or any right, title, obligation or liability already acquired, accrued or incurred, or any remedy or proceeding in respect thereof, or any release or discharge of or from any debt, penalty, obligation, liability, claim or demand, or any indemnity already granted, or the proof of any past act or thing;",
+                "2": "nor shall this Act affect any principle or rule of law, or established jurisdiction, form or course of pleading, practice or procedure, or existing usage, custom, privilege, restriction, exemption, office or appointment, notwithstanding that the same respectively may have been in any manner affirmed or recognised or derived by, in or from any enactment hereby repealed;",
+                "3": "nor shall the repeal by this Act of any enactment revive or restore any jurisdiction, office, custom, liability, right, title, privilege, restriction, exemption, usage, practice, procedure or other matter or thing not now existing or in force."
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": "THE FIRST SCHEDULE (See section 2) REPEALS",
+            "1": "Year Act No. Short Title",
+            "2": {
+                "text": "11 1 2 3",
+                "contains": {
+                    "0": "1850 XII The Public Accountants\u2019 Defaults Act, 1850.",
+                    "1": "1881 XI The Municipal Taxation Act, 1881.",
+                    "2": "1892 X The Government Management of Private Estates Act, 1892.",
+                    "3": "1956 69 The Terminal Tax on Railway Passengers Act, 1956.",
+                    "4": "1958 56 The Himachal Pradesh Legislative Assembly (Constitution and Proceedings) Validation Act, 1958.",
+                    "5": "1960 22 The Cotton Transport (Amendment) Act, 1960.",
+                    "6": "1963 1 The Hindi Sahitya Sammelan (Amendment) Act, 1963.",
+                    "7": "1963 35 The Dramatic Performances (Delhi Repeal) Act, 1963.",
+                    "8": "1964 10 The Public Employment (Requirement as to Residence) Amendment Act, 1964.",
+                    "9": "1968 49 The Delhi and Ajmer Rent Control (Nasirabad Cantonment Repeal) Act, 1968.",
+                    "10": "1973 56 The Alcock Ashdown Company Limited (Acquisition of Undertakings) Act, 1973. 1976 55 The Iron Ore Mines, Manganese Ore Mines and Chrome Ore Mines Labour Welfare Cess Act, 1976.",
+                    "11": "1976 61 The Iron Ore Mines, Manganese Ore Mines and Chrome Ore Mines Labour Welfare Fund Act, 1976. 1976 62 The Beedi Workers Welfare Fund Act, 1976.",
+                    "12": "1980 68 The Tea (Amendment) Act, 1980.",
+                    "13": "1981 62 The Aligarh Muslim University (Amendment) Act, 1981.",
+                    "14": "1982 63 The Road Transport Corporations (Amendment) Act, 1982.",
+                    "15": "1983 41 The Transformers and Switchgear Limited (Acquisition and Transfer of Undertakings) Act, 1983.",
+                    "16": "1988 22 The Tamil Nadu Agricultural Service Co-operative Societies (Appointment of Special Officers) Amendment Act, 1988. 1999 3 The High Denomination Bank Notes (Demonetisation) Amendment Act, 1998.",
+                    "17": "2001 39 The Motor Vehicles (Amendment) Act, 2001.",
+                    "18": "2001 48 The Registration and Other Related Laws (Amendment) Act, 2001.",
+                    "19": "2002 16 The Institutes of Technology (Amendment) Act, 2002.",
+                    "20": "2002 43 The Delhi University (Amendment) Act, 2002.",
+                    "21": {
+                        "text": "2007 3 The Dalmia Dadri Cement Limited (Acquisition and Transfer of",
+                        "contains": {
+                            "0": "Undertakings) Amendment Act, 2006."
+                        }
+                    },
+                    "22": "2007 28 The Central Road Fund (Amendment) Act, 2007.",
+                    "23": "2009 21 The Prevention of Money-laundering (Amendment) Act, 2009.",
+                    "24": "1 2 3",
+                    "25": "2009 22 The Central Industrial Security Force (Amendment) Act, 2009.",
+                    "26": "2009 38 The Central Universities (Amendment) Act, 2009.",
+                    "27": "2010 3 The Civil Defence (Amendment) Act, 2009.",
+                    "28": "2011 6 The Repatriation of Prisoners (Amendment) Act, 2011.",
+                    "29": "2011 14 The Customs (Amendment and Validation) Act, 2011.",
+                    "30": "2012 28 The National Institutes of Technology (Amendment) Act, 2012.",
+                    "31": "2012 34 The Institutes of Technology (Amendment) Act, 2012.",
+                    "32": "2014 8 The Governors (Emoluments, Allowances and Privileges) Amendment Act, 2014. 2014 9 The National Institute of Technology, Science Education and Research (Amendment) Act, 2014.",
+                    "33": "2014 19 The Andhra Pradesh Reorganisation (Amendment) Act, 2014.",
+                    "34": "2014 20 The Telecom Regulatory Authority of India (Amendment) Act, 2014.",
+                    "35": "2014 31 The Merchant Shipping (Amendment) Act, 2014.",
+                    "36": "2014 32 The Merchant Shipping (Second Amendment) Act, 2014.",
+                    "37": "2014 39 The National Capital Territory of Delhi Laws (Special Provisions) Second (Amendment) Act, 2014.",
+                    "38": "2015 2 The Public Premises (Eviction of Unauthorised Occupants) Amendment Act, 2015. 2015 3 The Motor Vehicles (Amendment) Act, 2015.",
+                    "39": "2015 5 The Insurance Laws (Amendment) Act, 2015.",
+                    "40": "2015 10 The Mines and Minerals (Development and Regulation) Amendment Act, 2015. 2015 12 The Andhra Pradesh Reorganisation (Amendment) Act, 2015.",
+                    "41": "2015 14 The Regional Rural Banks (Amendment) Act, 2015.",
+                    "42": "2015 16 The Warehousing Corporations (Amendment) Act, 2015.",
+                    "43": "2015 21 The Companies (Amendment) Act, 2015.",
+                    "44": "2016 10 The Election Laws (Amendment) Act, 2016.",
+                    "45": "2016 13 The High Court and the Supreme Court Judges (Salaries and Conditions of Service) Amendment Act, 2016.",
+                    "46": "2016 25 The Mines and Minerals (Development and Regulation) Amendment Act, 2016.",
+                    "47": "2016 42 The National Institute of Technology, Science Education and Research (Amendment) Act, 2016.",
+                    "48": "2016 45 The Central Agricultural University (Amendment) Act, 2016.",
+                    "49": "2016 48 The Taxation Laws (Second Amendment) Act, 2016.",
+                    "50": "2017 19 The National Institute of Technology, Science Education and Research (Amendment) Act, 2017.",
+                    "51": "2017 21 The Collection of Statistics (Amendment) Act, 2017.",
+                    "52": "2017 25 The Indian Institutes of Information Technology (Amendment) Act, 2017."
+                }
+            }
+        },
+        "THE SECOND SCHEDULE": {
+            "0": {
+                "text": "THE SECOND SCHEDULE (See section 3)",
+                "contains": {
+                    "0": "AMENDMENTS"
+                }
+            },
+            "1": "Year Act No. Short title Amendments",
+            "2": "1 2 3 4",
+            "3": {
+                "text": "1961 43 The Income-tax Act, 1961 In section 54GA, in the Explanation to sub-section (1),",
+                "contains": {
+                    "0": "in clause (a), after the word, brackets, letters \u201cclause (za)\u201d, the words and figure \u201cof section 2\u201d shall be inserted."
+                }
+            },
+            "4": {
+                "text": "2017 33 The Indian Institutes of (i) in section 3, in clause (f), for the words \u201cDirector\u201d, Management Act, 2017 means\u2019, the words \u201cDirector\u201d means\u2019 shall be substituted;",
+                "contains": {
+                    "0": "(ii) in section 36, in sub-section (1), for the word \u201cOrdinance\u201d, the word \u201cOrdinances\u201d shall be substituted."
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {}
+}

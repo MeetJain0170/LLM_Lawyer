@@ -1,0 +1,1354 @@
+{
+    "Act Title": "THE INSECTICIDES ACT, 1968",
+    "Act ID": "ACT NO. 46 OF 1968",
+    "Enactment Date": "[2nd September, 1968.]",
+    "Act Definition": {
+        "0": "An Act to regulate the import, manufacture, sale, transport, distribution and use of insecticides with a view to prevent risk to human beings or animals, and for matters connected therewith."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title, extent and commencement.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Insecticides Act, 1968.",
+                "1": "(2) It extends to the whole of India.",
+                "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different States and for different provisions of this Act."
+            }
+        },
+        "Section 2.": {
+            "heading": "Application of other laws not barred.",
+            "paragraphs": {
+                "0": "The provisions of this Act shall be in addition to, and not in derogation of, any other law for the time being in force."
+            }
+        },
+        "Section 3.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless the context otherwise requires,\u2014",
+                    "contains": {
+                        "0": "(a) \u201canimals\u201d means animals useful to human beings and includes fish and fowl, and such kinds of wild life as the Central Government may, by notification in the Official Gazette, specify, being kinds which, in its opinions, it is desirable to protect or preserve;",
+                        "1": "(b) \u201cBoard\u201d means the Central Insecticides Board constituted under section 4;",
+                        "2": "(c) \u201cCentral Insecticides Laboratory\u201d means the Central Insecticides Laboratory established or as the case may be, the Institution specified, under section 16;",
+                        "3": "(d) \u201cimport\u201d means bringing into any place within the territories to which this Act extends from a place outside those territories;",
+                        "4": {
+                            "text": "(e) \u201cinsecticide\u201d means\u2014",
+                            "contains": {
+                                "0": "(i) any substance specified in the Schedule; or",
+                                "1": "(ii) such other substances (including fungicides and weedicides) as the Central Government may, after consultation with the Board, by notification in the Official Gazette, include in the Schedule from time to time; or",
+                                "2": "(iii) any preparation containing any one or more of such substances;"
+                            }
+                        },
+                        "5": "(f) \u201cInsecticide Analyst\u201d means an Insecticide Analyst appointed under section 19;",
+                        "6": "(g) \u201cInsecticide Inspector\u201d means an Insecticide Inspector appointed under section 20;",
+                        "7": "(h) \u201clabel\u201d means any written, printed or graphic matter on the immediate package and on every other covering in which the package is placed or packed and includes any written, printed or graphic matter accompanying the insecticide;",
+                        "8": "(i) \u201clicensing officer\u201d means a licensing officer appointed under section 12;",
+                        "9": {
+                            "text": "(j) \u201cmanufacture\u201d, in relation to any insecticide, includes\u2014",
+                            "contains": {
+                                "0": "(i) any process or part of a process for making, altering, finishing, packing, labelling, breaking up or otherwise treating or adopting any insecticide with a view to its sale, distribution or use but does not include the packing or breaking up of any insecticide in the ordinary course of retail business; and",
+                                "1": "(ii) any process by which a preparation containing an insecticide is formulated;"
+                            }
+                        },
+                        "10": {
+                            "text": "(k) \u201cmisbranded\u201d\u2014an insecticide shall be deemed to be misbranded\u2014",
+                            "contains": {
+                                "0": "(i) if its label contains any statement, design or graphic representation relating thereto which is false or misleading in any material particular, or if its package is otherwise deceptive in respect of its contents; or",
+                                "1": "(ii) if it is an imitation of, or is sold under the name of, another insecticide; or",
+                                "2": "(iii) if its label does not contain a warning or caution which may be necessary and sufficient, if complied with, to prevent risk to human beings or animals; or",
+                                "3": "(iv) if any word, statement or other information required by or under this Act to appear on the label is not displayed thereon in such conspicuous manner as the other words, statements, designs or graphic matter have been displayed on the label and in such terms as to render it likely to be read and understood by any ordinary individual under customary conditions of purchase and use; or",
+                                "4": "(v) if it is not packed or labelled as required by or under this Act; or",
+                                "5": "(vi) if it is not registered in the manner required by or under this Act; or",
+                                "6": "(vii) if the label contains any reference to registration other than the registration number; or",
+                                "7": "(viii) if the insecticide has a toxicity which is higher than the level prescribed or is mixed or packed with any substance so as to alter its nature or quality or contains any substance which is not included in the registration;"
+                            }
+                        },
+                        "11": "(l) \u201cpackage\u201d means a box, bottle casket, tin, barrel, case, receptacle, sack, bag, wrapper, or other thing in which an insecticide is placed or packed;",
+                        "12": "(m) \u201cpremises\u201d means any land, shop, stall or place where any insecticide is sold or manufactured or stored or used, and includes any vehicle carrying insecticide;",
+                        "13": "(n) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                        "14": "(o) \u201cregistered\u201d, with its grammatical variations and cognate expressions, means registered under this Act;",
+                        "15": "(p) \u201csale\u201d, with its grammatical variations and cognate expressions, means the sale of any insecticide, whether for cash or on credit and whether by wholesale or retail, and includes an agreement for sale, an offer for sale, the exposing for sale or having in possession for sale of any insecticide and includes also an attempt to sell any such insecticide;",
+                        "16": "(q) \u201cState Government\u201d, in relation to a Union territory, means the administrator thereof;",
+                        "17": "(r) \u201cworker\u201d means a person employed under a contract of service or apprenticeship."
+                    }
+                }
+            }
+        },
+        "Section 4.": {
+            "heading": "The Central Insecticides Board.",
+            "paragraphs": {
+                "0": "(1) The Central Government shall, as soon as may be, constitute a Board to be called the, Central Insecticides Board to advise the Central Government and State Governments on technical matters arising out of the administration of this Act and to carry out the other functions assigned to the Board by or under this Act.",
+                "1": {
+                    "text": "(2) The matters on which the Board may advise under sub-section (1) shall include matters relating to\u2014",
+                    "contains": {
+                        "0": "(a) the risk to human beings or animals involved in the use of insecticides and the safety measures necessary to prevent such risk;",
+                        "1": "(b) the manufacture, sale, storage, transport and distribution of insecticides with a view to ensure safety to human beings or animals."
+                    }
+                },
+                "2": {
+                    "text": "(3) The Board shall consist of the following members, namely:\u2014",
+                    "contains": {
+                        "0": "(i) the Director General of Heath Services, ex officio, who shall be the Chairman;",
+                        "1": "(ii) the Drugs Controller, India, ex officio;",
+                        "2": "(iii) the Plant Protection Adviser to the Government of India, ex officio;",
+                        "3": "(iv) the Director of Storage and Inspection, Ministry of Food, Agriculture, Community Development and Co-operation (Department of Food), ex officio;",
+                        "4": "(v) the Chief Adviser of Factories, ex officio;",
+                        "5": "(vi) the Director, National Institute of Communicable Diseases, ex officio;",
+                        "6": "(vii) the Director General, Indian Council of Agricultural Research, ex officio;",
+                        "7": "(viii) the Director General, Indian Council of Medical Research, ex officio;",
+                        "8": "(ix) the Director, Zoological Survey of India, ex officio;",
+                        "9": "(x) the Director General, Indian Standards Institution, ex officio;",
+                        "10": "(xi) the Director-General of Shipping or, in his absence, the Deputy Director General of Shipping, Ministry of Transport and Shipping, ex officio;",
+                        "11": "(xii) the Joint Director, Traffic (General), Ministry of Railways (Railway Board), ex officio;",
+                        "12": "(xiii) the Secretary, Central Committee for Food Standards, ex officio;",
+                        "13": "1[(xiiia) the Animal Husbandry Commissioner, Department of Agriculture, ex officio;",
+                        "14": "(xiiib) the Joint Commissioner (Fisheries), Department of Agriculture, ex officio;",
+                        "15": "(xiiic) the Deputy Inspector General of Forests (Wild Life), Department of Agriculture, ex officio;",
+                        "16": "(xiiid) the Industrial Adviser (Chemicals), Directorate General of Technical Development, ex officio;]",
+                        "17": "(xiv) one person to represent the Ministry of Petroleum and Chemicals, to be nominated by the Central Government;",
+                        "18": "(xv) one pharmacologist to be nominated by the Central Government;",
+                        "19": "(xvi) one medical texicologist to be nominated by the Central Government;",
+                        "20": "(xvii) one person who shall be in charge of the department dealing with public health in a State, to be nominated by the Central Government;",
+                        "21": "(xviii) two persons who shall be Directors of Agriculture in States, to be nominated by the Central Government;",
+                        "22": "(xix) four persons, one of whom shall be an expert in industrial health and occupational hazards, to be nominated by the Central Government;",
+                        "23": "(xx) one person to represent the Council of Scientific and Industrial Research to be nominated by the Central Government;",
+                        "24": "1[(xxi) one ecologist to be nominated by the Central Government.]"
+                    }
+                },
+                "3": "(4) The persons nominated under clauses (xiv) to 2[(xxi)] inclusive, of sub-section (3) shall, unless their seats become vacant earlier by resignation, death or otherwise, hold office for three years from the date of their nomination, but shall be eligible for re-nomination:",
+                "4": "Provided that the persons nominated under clauses (xvii) and (xviii) shall hold office only for so long as they hold the appointments by virtue of which their nominations were made.",
+                "5": "1[(5) No act or proceeding of the Board, the Registration Committee or any Committee appointed under section 6, shall be called in question on the ground merely of the existence of any vacancy in, or any defect in the constitution of, the Board, the Registration Committee or such Committee, as the case may be.]"
+            }
+        },
+        "Section 5.": {
+            "heading": "Registration Committee.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) The Central Government shall constitute a Registration Committee consisting of a Chairman, and not more than five persons who shall be members of the Board (including the Drugs Controller, India and the Plant Protection Adviser to the Government of India)\u2014",
+                    "contains": {
+                        "0": "(i) to register insecticides after scrutinising their formulae and verifying claims made by the importer or the manufacturer, as the case may be, as regards their efficacy and safety to human beings and animals; and",
+                        "1": "(ii) to perform such other functions as are assigned to it by or under this Act."
+                    }
+                },
+                "1": "(2) Where the Chairman is not a member of the Board, his term of office and other conditions of service shall be such as may be determined by the Central Government.",
+                "2": "(3) Subject to the provisions of sub-section (2), a member of the Registration Committee shall hold office for so long as he is a member of the Board.",
+                "3": "(4) The Committee may also co-opt such number of experts and for such purpose or period as it may deem fit, but any expert so co-opted shall have no right to vote.",
+                "4": "(5) The Registration Committee shall regulate its own procedure and the conduct of business to be transacted by it."
+            }
+        },
+        "Section 6.": {
+            "heading": "Other committees.",
+            "paragraphs": {
+                "0": "The Board may appoint such committees as it deems fit and may appoint to them persons who are not members of the Board, to exercise such powers and perform such duties as may, subject to such conditions, if any, as the Board may impose, be delegated to them by the Board."
+            }
+        },
+        "Section 7.": {
+            "heading": "Procedure for Board.",
+            "paragraphs": {
+                "0": "The Board may, subject to the previous approval of the Central Government, make bye-laws for the purpose of regulating its own procedure and the procedure of any committee thereof and the conduct of all business to be transacted by it or such committee."
+            }
+        },
+        "Section 8.": {
+            "heading": "Secretary and other officers.",
+            "paragraphs": {
+                "0": {
+                    "text": "The Central Government shall\u2014",
+                    "contains": {
+                        "0": "(i) appoint a person to be the Secretary of the Board who shall also function as Secretary to the Registration Committee; and",
+                        "1": "(ii) provide the Board and the Registration Committee with such technical and other staff as the Central Government considers necessary."
+                    }
+                }
+            }
+        },
+        "Section 9.": {
+            "heading": "Registration of insecticides.",
+            "paragraphs": {
+                "0": "(1) Any person desiring to import or manufacture any insecticide may apply to the Registration Committee for the registration of such insecticide and there shall be a separate application for each such insecticide:",
+                "1": "Provided that any person engaged in the business of import or manufacture of any insecticide immediately before the commencement of this section shall make an application to the Registration Committee within a period of 2[seventeen months] from the date of such commencement for the registration of any insecticide which he has been importing or manufacturing before that date:",
+                "2": "3[Provided further that where any person referred to in the preceding proviso fails to make an application under that proviso within the period specified therein, he may make such application at any time thereafter on payment of a penalty of one hundred rupees for every month or part thereof after the expiry of such period for the registration of each such insecticide.]",
+                "3": "(2) Every application under sub-section (1) shall be made in such form and contain such particulars as may be prescribed.",
+                "4": "(3) On receipt of any such application for the registration of an insecticide, the Committee may, after such enquiry as it deems fit and after satisfying itself that the insecticide to which the application relates conforms to the claims made by the importer or by the manufacturer, as the case may be, as regards the efficacy of the insecticide and its safety to human beings and animals, register 1[on such conditions as may be specified by it] and on payment of such fee as may be prescribed, the insecticide, allot a registration number thereto and issue a certificate of registration in token thereof within a period of twelve months from the date of receipt of the application:",
+                "5": "Provided that the Committee may, if it is unable within the said period to arrive at a decision on the basis of the materials placed before it, extend the period by a further period not exceeding six months:",
+                "6": "Provided further that if the Committee is of opinion that the precautions claimed by the applicant as being sufficient to ensure safety to human beings or animals are not such as can be easily observed or that notwithstanding the observance of such precautions the use of the insecticide involves serious risk to human beings or animals, it may refuse to register the insecticide.",
+                "7": "2[(3A) In the case of applications received by it prior to the 31st day of March, 1975, notwithstanding the expiry of the period specified in sub-section (3) for the disposal of such applications, it shall be lawful and shall be deemed always to have been lawful for the Registration Committee to dispose of such applications at any time after such expiry but within a period of one year from the commencement of the Insecticides (Amendment) Act, 1977 (24 of 1977):",
+                "8": "Provided that nothing contained in this sub-section shall be deemed to make any contravention before the commencement of the Insecticides (Amendment) Act, 1977 (24 of 1977), of a condition of a certificate of registration granted before such commencement, an offence punishable under this Act.",
+                "9": "(3B) Where the Registration Committee is of opinion that the insecticide is being introduced for the first time in India, it may, pending any enquiry, register it provisionally for a period of two years on such conditions as may be specified by it.",
+                "10": "(3C) The Registration Committee may, having regard to the efficacy of the insecticide and its safety to human beings and animals, vary the conditions subject to which a certificate of registration has been granted and may for that purpose require the certificate-holder by notice in writing to deliver up the certificate to it within such time as may be specified in the notice.]",
+                "11": "(4) Notwithstanding anything contained in this section, where an insecticide has been registered on the application of any person, any other person desiring to import or manufacture the insecticide or engaged in the business of, import or manufacture thereof shall on application and on payment of prescribed fee be allotted a registration number and granted a certificate of registration in respect thereof on the same conditions on which the insecticide was originally registered."
+            }
+        },
+        "Section 10.": {
+            "heading": "Appeal against non-registration or cancellation.",
+            "paragraphs": {
+                "0": "Any person aggrieved by a decision of the Registration Committee under section 9 may, within a period of thirty days from the date on which the decision is communicated to him, appeal in the prescribed manner and on payment of the proscribed fee to the Central Government whose decision thereon shall be final:",
+                "1": "Provided that the Central Government may entertain an appeal after the expiry of the said period, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time."
+            }
+        },
+        "Section 11.": {
+            "heading": "Power of revision of Central Government.",
+            "paragraphs": {
+                "0": "The Central Government may, at any time, call for the record relating to any case in which the Registration committee has given a decision under section 9 for the purpose of satisfying itself as to the legality or propriety of any such decision and may pass any such order in relation thereto as it thinks fit:",
+                "1": "Provided that no such order shall be passed after the expiry of one year from the date of the decision:",
+                "2": "Provided further that the Central Government shall not pass any order prejudicial to any person unless that person has had a reasonable opportunity of showing cause against the proposed order."
+            }
+        },
+        "Section 12.": {
+            "heading": "Licensing officers.",
+            "paragraphs": {
+                "0": "The State Government may, by notification in the Official Gazette, appoint such persons as it thinks fit to be licensing officers for the purposes of this Act and define the areas in respect of which they shall exercise jurisdiction."
+            }
+        },
+        "Section 13.": {
+            "heading": "Grant of licence.",
+            "paragraphs": {
+                "0": "(1) Any person desiring to manufacture or to sell, stock or exhibit for sale or distribute any insecticide 1[or to undertake commercial pest control operations with the use of any insecticide], may make an application to the licensing officer for the grant of a licence:",
+                "1": "Provided that any person engaged in the business of manufacturing or selling, stocking or exhibiting for sale or distributing any insecticide immediately before the commencement of this section shall make an application to the licensing officer for the grant of a licence within a period of 2[seventeen months] from the date of such commencement:",
+                "2": "1[Provided further that any person engaged in the commercial pest control operations immediately before the commencement of the Insecticides (Amendment) Act, 1977 (24 of 1977), shall make an application to the licensing officer for the grant of a licence within a period of six months from the commencement of the said Act.]",
+                "3": "(2) Every application under sub-section (1) shall be made in such form and shall contain such particulars as may be prescribed.",
+                "4": "(3) On receipt of any such application for the grant of a licence, the licensing officer may grant a licence in such form, on such conditions and on payment of such fee as may be prescribed.",
+                "5": "(4) A licence granted under this section shall be valid for the period specified therein and may be renewed from time to time for such period and on payment of such fee as may be prescribed:",
+                "6": "Provided that where a licence has been granted to any person who has made an application under 3[the first proviso or, as the case may be, the second proviso] to sub-section (1), that licence shall be deemed to be cancelled in relation to any insecticide, the application for registration whereof has been refused or the registration whereof has been cancelled, under this Act, with effect from the date on which such refusal or cancellation is notified in the Official Gazette.",
+                "7": "1[(5) In prescribing fees for the grant or renewal of licences under this section, different fees may be prescribed for the sale or distribution of insecticides for purposes of domestic use and for other purposes.]"
+            }
+        },
+        "Section 14.": {
+            "heading": "Revocation, suspension and amendment of licences.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) If the licensing officer is satisfied, either on a reference made to him in this behalf or otherwise, that\u2014",
+                    "contains": {
+                        "0": "(a) the licence granted under section 13 has been granted because of misrepresentation as to an essential fact; or",
+                        "1": "(b) the holder of a licence has failed to comply with the conditions subject to which the licence was granted or has contravened any of the provisions of this Act or the rules made thereunder,"
+                    }
+                },
+                "1": {
+                    "text": "then, without prejudice to any other penalty to which the holder of the licence may be liable under this Act, the licensing officer may, after giving the holder of the licence an opportunity of showing cause, revoke or suspend the licence.",
+                    "contains": {
+                        "0": "(2) Subject to any rules that may be made in this behalf, the licensing officer may also vary or amend a licence granted under section 13."
+                    }
+                }
+            }
+        },
+        "Section 15.": {
+            "heading": "Appeal against the decision of a licensing officer.",
+            "paragraphs": {
+                "0": "(1) Any person aggrieved by a decision of a licensing officer under section 13 [except under the proviso to sub-section (4)] or section 14 may, within a period of thirty days from the date on which the decision is communicated to him, appeal to such authority in such manner and on payment of such fee as may be prescribed:",
+                "1": "Provided that the appellate authority may entertain an appeal after the expiry of the said period if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.",
+                "2": "(2) On receipt of an appeal under sub-section (1), the appellate authority shall, after giving the appellant an opportunity of showing cause, dispose of the appeal ordinarily within a period of six months and the decision of the appellate authority shall be final."
+            }
+        },
+        "Section 16.": {
+            "heading": "Central Insecticides Laboratory.",
+            "paragraphs": {
+                "0": "The Central Government may, by notification in the Official Gazette, establish a Central Insecticides Laboratory under the control of a Director to be appointed by the Central Government to carry out the functions entrusted to it by or under this Act:",
+                "1": "Provided that if the Central Government so directs by a notification in the Official Gazette, the functions of the Central Insecticides Laboratory shall, to such extent as may be specified in the notification, be carried out at any such institution as may be specified therein and thereupon the functions of the Director of the Central Insecticides Laboratory shall to the extent so specified be exercised by the head of that institution."
+            }
+        },
+        "Section 17.": {
+            "heading": "Prohibition of import and manufacture of certain insecticides.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) No person shall, himself or by any person on his behalf, import or manufacture\u2014",
+                    "contains": {
+                        "0": "(a) any misbranded insecticide;",
+                        "1": "(b) any insecticide the sale, distribution or use of which is for the time being prohibited under section 27;",
+                        "2": "(c) any insecticide except in accordance with the conditions on which it was registered;",
+                        "3": "(d) any insecticide in contravention of any other provision of this Act or of any rule made thereunder:"
+                    }
+                },
+                "1": "Provided that any person who has applied for registration of an insecticide 1[under any of the provisos] to sub-section (1) of section 9 may continue to import or manufacture any such insecticide and such insecticide shall not be deemed to be a misbranded insecticide within the meaning of sub-clause (vi) or sub-clause (vii) or sub-clause (viii) of clause (k) of section 3, until he has been informed by the Registration Committee of its decision to refuse to register the said insecticide.",
+                "2": "(2) No person shall, himself or by any person on his behalf, manufacture any insecticide except under, and in accordance with the conditions of, a licence issued for such purpose under this Act."
+            }
+        },
+        "Section 18.": {
+            "heading": "Prohibition of sale, etc., of certain insecticides.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) No person shall, himself or by any person on his behalf, sell, stock or exhibit for sale, distribute, 2[transport, use, or cause to be used] by any worker\u2014",
+                    "contains": {
+                        "0": "(a) any insecticide which is not registered under this Act;",
+                        "1": "(b) any insecticide, the sale, distribution or use of which is for the time being prohibited under section 27;",
+                        "2": "(c) any insecticide in contravention of any other provision of this Act or of any rule made thereunder."
+                    }
+                },
+                "1": "(2) No person shall, himself or by any person on his behalf, sell, stock or exhibit for sale or distribute 3[or use for commercial pest control operations] any insecticide except under, and in accordance with the conditions of, a licence issued for such purpose under this Act.",
+                "2": "Explanation.\u2014For the purposes of this section an insecticide in respect of which any person has applied for a certificate of registration 4[under any of the provisos] to sub-section (1) of section 9, shall be deemed to be registered till the date on which the refusal to register such insecticide is notified in the Official Gazette."
+            }
+        },
+        "Section 19.": {
+            "heading": "Insecticide Analysts.",
+            "paragraphs": {
+                "0": "The Central Government or a State Government may, by notification in the Official Gazette, appoint persons in such number as it thinks fit and possessing such technical and other qualifications as may be prescribed to be Insecticide Analysts for such areas and in respect of such insecticides or class of insecticides as may be specified in the notification:",
+                "1": "Provided that no person who has any financial interest in the manufacture, import or sale of any insecticide, shall be so appointed."
+            }
+        },
+        "Section 20.": {
+            "heading": "Insecticide Inspectors.",
+            "paragraphs": {
+                "0": "(1) The Central Government or a State Government may, by notification in the Official Gazette, appoint persons in such number as it thinks fit and possessing such technical and other qualifications as may be prescribed to be Insecticide Inspectors for such areas as may be specified in the notification:",
+                "1": "Provided that any person who does not possess the required qualifications may be so appointed only for the purposes of clause (a) and clause (d) of sub-section (1) of section 21:",
+                "2": "Provided further that no person who has any financial interest in the manufacture, import or sale of any insecticide shall be so appointed.",
+                "3": "(2) Every Insecticide Inspector shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860), and shall be officially subordinate to such authority as the Government appointing him may specify in this behalf."
+            }
+        },
+        "Section 21.": {
+            "heading": "Powers of Insecticide Inspectors.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) An Insecticide Inspector shall have power\u2014",
+                    "contains": {
+                        "0": "(a) to enter and search, at all reasonable times and with such assistance, if any, as he considers necessary, any premises in which he has reason to believe that an offence under this Act or the rules made thereunder has been or is being or is about to be committed, or for the purpose of satisfying himself that the provisions of this Act or the rules made thereunder or the conditions of any certificate of registration or licence issued thereunder are being complied with;",
+                        "1": "(b) to require the production of, and to inspect, examine and make copies of, or take extracts from, registers, records or other documents kept by a manufacturer, distributor, carrier, dealer or any other person in pursuance of the provisions of this Act or the rules made thereunder and seize the same, if he has reason to believe that all or any of them, may furnish evidence of the commission of an offence punishable under this Act or the rules made thereunder;",
+                        "2": "(c) to make such examination and inquiry as he thinks fit in order to ascertain whether the provisions of this Act or the rules made thereunder are being complied with and for that purpose stop any vehicle;",
+                        "3": "(d) to stop the distribution, sale or use of an insecticide which he has reason to believe is being distributed, sold or used in contravention of the provisions of this Act or the rules made thereunder, for a specified period not exceeding 1[thirty] days, or unless the alleged contravention is such that the defect may be removed by the possessor of the insecticide, seize the stock of such insecticide;",
+                        "4": "(e) to take samples of any insecticide and send such samples for analysis to the Insecticide Analyst for test in the prescribed manner; and",
+                        "5": "(f) to exercise such other powers as may be necessary for carrying out the purposes of this Act or the rules made thereunder."
+                    }
+                },
+                "1": "2[(2) The provisions of the Code of Criminal Procedure, 1973 (2 of 1974), shall, as far as may be, apply to any search or seizure under this Act as they apply to any search or seizure made under the authority of a warrant issued under section 94 of the said Code.]",
+                "2": "(3) An Insecticide Inspector may exercise the powers of a police officer under 3[section 42 of the Code of Criminal Procedure, 1973 (2 of 1974)], for the purpose of ascertaining the true name and residence of the person from whom a sample is taken or an insecticide is seized."
+            }
+        },
+        "Section 22.": {
+            "heading": "Procedure to be followed by Insecticide Inspectors.",
+            "paragraphs": {
+                "0": "(1) Where an Insecticide Inspector seizes any record, register or document under clause (b) of sub-section (1) of section 21, he shall, as soon as may be, inform a Magistrate and take his orders as to the custody thereof.",
+                "1": {
+                    "text": "(2) Where an Insecticide Inspector takes any action under clause (d) of sub-section (1) of section 21\u2014",
+                    "contains": {
+                        "0": "(a) he shall use all dispatch in ascertaining whether or not the insecticide or its sale, distribution or use contravenes any of the provisions of section 18 and if it is ascertained that the insecticide or its sale, distribution or use does not so contravene, forthwith revoke the order passed under the said clause or, as the case may be, take such action as may be necessary for the return of the stock seized;",
+                        "1": "(b) if he seizes the stock of the insecticide he shall, as soon as may be, inform a Magistrate and take his orders as to the custody thereof;",
+                        "2": "(c) without prejudice to the institution of any prosecution, if the alleged contravention be such that the defect may be remedied by the possessor of the insecticide, he shall, on being satisfied that the defect has been so remedied, forthwith revoke his order and in case where the Insecticide Inspector has seized the stock of insecticide, he shall, as soon as may be, inform a Magistrate and obtain his orders as to the release thereof."
+                    }
+                },
+                "2": "1[(3) Where an Insecticide Inspector takes any sample of an insecticide, he shall issue a receipt therefor stating therein that the fair price of such sample shall be tendered if the sample, after test or analysis is not found to be misbranded and the Insecticide Analyst has reported to that effect and on such price having been tendered may require a written acknowledgement therefor.]",
+                "3": "(4) 2*** where the Insecticide Inspector seizes the stock of any insecticide under clause (d) of sub-section (1) of section 21, he shall tender a receipt therefor in the prescribed form.",
+                "4": "(5) Where an Insecticide Inspector takes a sample of an insecticide for the purpose of test or analysis, he shall intimate such purpose in writing in the prescribed form to the person from whom he takes it and, in the presence of such person unless he wilfully absents himself, shall divide the sample into three portions and effectively seal and suitably mark the same and permit such person to add his own seal and mark to all or any of the portions so sealed and marked:",
+                "5": "Provided that where the insecticide is made up in containers of small volume, instead of dividing a sample as aforesaid, the Insecticide Inspector may, and if the insecticide be such that it is likely to deteriorate or be otherwise damaged by exposure shall, take three of the said containers after suitably marking the same and, where necessary, sealing them.",
+                "6": {
+                    "text": "(6) The Insecticide Inspector shall restore one portion of a sample so divided or one container, as the case may be, to the person from whom he takes it and shall retain the remainder and dispose of the same as follows:\u2014",
+                    "contains": {
+                        "0": "(i) one portion or container, he shall forthwith send to the Insecticide Analyst for test or analysis; and",
+                        "1": "(ii) the second, he shall produce to the court before which proceedings, if any, are instituted in respect of the insecticide."
+                    }
+                }
+            }
+        },
+        "Section 23.": {
+            "heading": "Persons bound to disclose place where insecticides are manufactured or kept.",
+            "paragraphs": {
+                "0": "Every person for the time being in charge of any premises where any insecticide is being manufactured or is kept for sale or distribution shall, on being required by an Insecticide Inspector so to do, be legally bound to disclose to the Insecticide Inspector the place where the insecticide is being manufactured or is kept, as the case may be."
+            }
+        },
+        "Section 24.": {
+            "heading": "Report of Insecticide Analyst.",
+            "paragraphs": {
+                "0": "(1) The Insecticide Analyst to whom a sample of any insecticide has been submitted for test or analysis under sub-section (6) of section 22, shall, within a period of 1[thirty] days, deliver to the Insecticide Inspector submitting it a signed report in duplicate in the prescribed form.",
+                "1": "(2) The Insecticide Inspector on receipt thereof shall deliver one copy of the report to the person from whom the sample was taken and shall retain the other copy for use in any prosecution in respect of the sample.",
+                "2": "(3) Any document purporting to be a report signed by an Insecticide Analyst shall be evidence of the facts stated therein, and such evidence shall be conclusive unless the person from whom the sample was taken has within twenty-eight days of the receipt of a copy of the report notified in writing the Insecticide Inspector or the court before which any proceedings in respect of the sample are pending that he intends to adduce evidence in controversion of the report.",
+                "3": "(4) Unless the sample has already been tested or analysed in the Central Insecticides Laboratory, where a person has under sub-section (3) notified his intention of adducing evidence in controversion of the Insecticide Analyst\u201fs report, the court may, of its own motion or in its discretion at the request either of the complainant or of the accused, cause the sample of the insecticide produced before the magistrate under sub-section (6) of section 22 to be sent for test or analysis to the said laboratory, 2[which shall, within a period of thirty days, make the test or analysis] and report in writing signed by, or under the authority of, the Director of the Central Insecticides Laboratory the result thereof, and such report shall be conclusive evidence of the facts stated therein.",
+                "4": "(5) The cost of a test or analysis made by the Central Insecticides Laboratory under sub-section (4) shall be paid by the complainant or the accused, as the court shall direct."
+            }
+        },
+        "Section 25.": {
+            "heading": "Confiscation.",
+            "paragraphs": {
+                "0": "(1) Where any person has been convicted under this Act for contravening any of the provisions of this Act or of the rules made thereunder, the stock of the insecticide in respect of which the contravention has been made shall be liable to confiscation.",
+                "1": "(2) Without prejudice to the provisions contained in sub-section (1), where the Court is satisfied on the application of an Insecticide Inspector or otherwise and after such inquiry as may be necessary, that the insecticide is a misbranded insecticide, such insecticide shall be liable to confiscation."
+            }
+        },
+        "Section 26.": {
+            "heading": "Notification of poisoning.",
+            "paragraphs": {
+                "0": "The State Government may, by notification in the Official Gazette, require any person or class of persons specified therein to report all occurrences of poisoning (through the use or handling of any insecticide) coming within his or their cognizance to such officer as may be specified in the said notification."
+            }
+        },
+        "Section 27.": {
+            "heading": "Prohibition of sale, etc., of insecticides for reasons of public safety.",
+            "paragraphs": {
+                "0": "(1) If, on receipt of a report under section 26 or otherwise, the Central Government or the State Government is of opinion for reasons to be recorded in writing, that the use of any insecticide specified in 3*** clause (e) of section 3 or any specific batch thereof is likely to involve such risk to human beings or animals as to render it expedient or necessary to take immediate action then that Government may, by notification in the Official Gazette, prohibit the sale, distribution or use of the insecticide or batch, in such area, to such extent and for such period (not exceeding sixty days) as may be specified in the notification pending investigation into the matter:",
+                "1": "Provided that where the investigation is not completed within the said period, the Central Government or the State Government, as the case may be, may extend it by such further period or periods not exceeding thirty days in the aggregate as it may specify in a like manner.",
+                "2": "(2) If, as a result of its own investigation or on receipt of the report from the State Government, and after consultation with the Registration Committee, the Central Government, is satisfied that the use of the said insecticide or batch is or is not likely to cause any such risk, it may pass such order (including an order refusing to register the insecticide or cancelling the certificate of registration, if any, granted in respect thereof) as it deems fit, depending on the circumstances of the case."
+            }
+        },
+        "Section 28.": {
+            "heading": "Notification of cancellation of registration, etc.",
+            "paragraphs": {
+                "0": "A refusal to register any insecticide or a cancellation of the certificate of registration of any insecticide shall be notified in the Official Gazette and in such other manner as may be prescribed."
+            }
+        },
+        "Section 29.": {
+            "heading": "Offences and punishment.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Whoever,\u2014",
+                    "contains": {
+                        "0": "(a) imports, manufactures, sells, stocks or exhibits for sale or distributes any insecticide deemed to be misbranded under sub-clause (i) or sub-clause (iii) or sub-clause (viii) of clause (k) of section 3; or",
+                        "1": "(b) imports or manufactures any insecticide without a certificate of registration; or",
+                        "2": "(c) manufactures, sells, stocks or exhibits for sale or distributes an insecticide without a licence; or",
+                        "3": "(d) sells or distributes an insecticide, in contravention of section 27; or",
+                        "4": "(e) causes an insecticides, the use of which has been prohibited under section 27, to be used by any worker; or",
+                        "5": "(f) obstructs an Insecticide Inspector in the exercise of his powers or discharge of his duties under this Act or the rules made thereunder,"
+                    }
+                },
+                "1": {
+                    "text": "1[shall be punishable\u2014",
+                    "contains": {
+                        "0": "(i) for the first offence, with imprisonment for a term which may extend to two years, or with fine which shall not be less than ten thousand rupees but which may extend to fifty thousand rupees, or with both;",
+                        "1": "(ii) for the second and a subsequent offence, with imprisonment for a term which may extend to three years, or with fine which shall not be less than fifteen thousand rupees but which may extend to seventy-five thousand rupees, or with both].",
+                        "2": "(2) Whoever uses an insecticide in contravention of any provision of this Act or any rule made thereunder shall be punishable with fine 2[which shall not be less than five hundred rupees but which may extend to five thousand rupees, or imprisonment for a term which may extend to six months, or with both].",
+                        "3": {
+                            "text": "(3) Whoever contravenes any of the other provisions of this Act or any rule made thereunder or any condition of a certificate of registration or licence granted thereunder, shall be punishable\u2014",
+                            "contains": {
+                                "0": "(i) for the first offence, with imprisonment for a term which may extend to 3[one year, or with fine which shall not be less than five thousand rupees but which may extend to twenty-five thousand rupees, or with both];",
+                                "1": "(ii) for the second and a subsequent offence, with imprisonment for a term which may extend to 4[two years, or with fine which shall not be less than ten thousand rupees but which may extend to fifty thousand rupees, or with both]."
+                            }
+                        },
+                        "4": "(4) If any person convicted of an offence under this Act commits a like offence afterwards it shall be lawful for the court before which the second or subsequent conviction takes place to cause the offender\u201fs name and place of residence, the offence and the penalty imposed to be published in such newspapers or in such other manner as the court may direct."
+                    }
+                }
+            }
+        },
+        "Section 30.": {
+            "heading": "Defences which may or may not be allowed in prosecutions under this Act.",
+            "paragraphs": {
+                "0": "(1) Save as hereinafter provided in this section, it shall be no defence in a prosecution under this Act to prove merely that the accused was ignorant of the nature or quality of the insecticide in respect of which the offence was committed or of the risk involved in the manufacture, sale or use of such insecticide or of the circumstances of its manufacture or import.",
+                "1": {
+                    "text": "(2) For the purposes of section 17, an insecticide shall not be deemed to be misbranded only by reason of the fact that\u2014",
+                    "contains": {
+                        "0": "(a) there has been added thereto some innocuous substance or ingredient because the same is required for the manufacture or the preparation of the insecticide as an article of commerce in a state fit for carriage or consumption, and not to increase the bulk, weight or measure of the insecticide or to conceal its inferior quality or other defect; or",
+                        "1": "(b) in the process of manufacture, preparation or conveyance some extraneous substance has unavoidably become intermixed with it."
+                    }
+                },
+                "2": {
+                    "text": "(3) A person not being an importer or a manufacturer of an insecticide or his agent for the distribution thereof, shall not be liable for a contravention of any provision of this Act, if he proves\u2014",
+                    "contains": {
+                        "0": "(a) that he acquired the insecticide from an importer or a duly licensed manufacturer, distributor or dealer thereof;",
+                        "1": "(b) that he did not know and could not, with reasonable diligence, have ascertained that the insecticide in any way contravened any provision of this Act; and",
+                        "2": "(c) that the insecticide, while in his possession, was properly stored and remained in the same state as when he acquired it."
+                    }
+                }
+            }
+        },
+        "Section 31.": {
+            "heading": "Cognizance and trial of offences.",
+            "paragraphs": {
+                "0": "(1) No prosecution for an offence under this Act shall be instituted except by, or with the written consent of, the State Government or a person authorised in this behalf by the State Government.",
+                "1": "(2) No court inferior to that of a 1[metropolitan magistrate or a judicial magistrate of the first class] shall try any offence under this Act."
+            }
+        },
+        "Section 31A.": {
+            "heading": "Special Courts.",
+            "paragraphs": {
+                "0": "(1) If the State Government is satisfied that it is necessary for the purpose of providing for speedy trial of offences under this Act in any district or metropolitan area, it may, by notification in the Official Gazette and after consultation with the High Court, notify one or more Courts of Judicial Magistrates of the first class, or, as the case may be, Metropolitan Magistrates, in such district or metropolitan area to be Special Courts for the purposes of this Act.",
+                "1": "(2) Unless otherwise directed by the High Court, a court notified under sub-section (1) shall exercise jurisdiction only in respect of cases under this Act.",
+                "2": "(3) Subject to the provisions of sub-section (2), the jurisdiction and powers of the presiding officer of court notified under sub-section (1) in any district or metropolitan area shall extend throughout the district or the metropolitan area, as the case may be.",
+                "3": "(4) Subject to the foregoing provisions of this section, a court notified under sub-section (1) in any district or metropolitan area shall be deemed to be a court established under sub-section (1) of section 11, or, as the case may be, sub-section (1) of section 16 of the Code of Criminal Procedure, 1973 (2 of 1974) and the provisions of that Code shall apply accordingly in relation to such courts.",
+                "4": "Explanation.\u2014In this section, \u201cHigh Court\u201d has the same meaning as in clause (e) of section 2 of the Code of Criminal Procedure, 1973 (2 of 1974).]"
+            }
+        },
+        "Section 32.": {
+            "heading": "[Repealed.]",
+            "paragraphs": {
+                "0": "[Magistrate\u2019s power to impose enhanced penalties.] Omitted by the Insecticides (Repealing and Amending) Act 1977 (24 of 1977), s. 8 (w.e.f. 2-8-1977)."
+            }
+        },
+        "Section 33.": {
+            "heading": "Offences by companies.",
+            "paragraphs": {
+                "0": "(1) Whenever an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, or was responsible to the company for the conduct of the business of, the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment under this Act if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.",
+                "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                "3": {
+                    "text": "Explanation.\u2014For the purpose of this section:\u2014",
+                    "contains": {
+                        "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                        "1": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                    }
+                }
+            }
+        },
+        "Section 34.": {
+            "heading": "Power of Central Government to give directions.",
+            "paragraphs": {
+                "0": "The Central Government may give such directions to any State Government as may appear to the Central Government to be necessary for carrying into execution in the State any of the provisions of this Act or of any rule or order made thereunder."
+            }
+        },
+        "Section 35.": {
+            "heading": "Protection of action taken in good faith.",
+            "paragraphs": {
+                "0": "No prosecution, suit or other proceeding shall lie against the Government or any officer of the Government or the Board, the Registration Committee or any Committee of the Board, for anything in good faith done or intended to be done under this Act."
+            }
+        },
+        "Section 36.": {
+            "heading": "Power of Central Government to make rules.",
+            "paragraphs": {
+                "0": "(1) The Central Government may, after consultation with the Board and subject to the condition of previous publication, by notification in the Official Gazette, make rules for the purpose of giving effect to the provisions of this Act:",
+                "1": "Provided that consultation with the Board may be dispensed with if the Central Government is of opinion that circumstances have arisen which render it necessary to make rules without such consultation but in such a case the Board shall be consulted within six months of the making of the rules and the Central Government shall take into consideration any suggestions which the Board may make in relation to the amendment of the said rules.",
+                "2": {
+                    "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may prescribe\u2014",
+                    "contains": {
+                        "0": "(a) the method of packing and labelling;",
+                        "1": "(b) the manner of registration of an insecticide;",
+                        "2": "(c) the functions of the Board and of the Registration Committee and the travelling and other allowances payable to members of the Board, the Registration Committee and any Committee of the Board;",
+                        "3": "(d) the places at which insecticides may be imported and prohibit their import at any other place;",
+                        "4": "(e) the form of application for registration of an insecticide and the particulars relating thereto;",
+                        "5": "(f) 1* * * the fee payable in respect of registration;",
+                        "6": "(g) the manner of appeal to the Central Government under section 10 and the fee payable therefore;",
+                        "7": "(h) the form of application for the grant of licence and the particulars relating thereto;",
+                        "8": "(i) the form of licence, the conditions attached thereto and the fee payable therefore;",
+                        "9": "(j) the period for which a licence may be renewed and the fee for such renewal;",
+                        "10": "(k) the circumstances in which a licence may be varied or amended under sub-section (2) of section 14;",
+                        "11": "(l) the functions of the Central Insecticides Laboratory;",
+                        "12": "(m) the qualifications, powers and duties of an Insecticide Analyst and an Insecticide Inspector;",
+                        "13": "(n) the manner of testing or analysing the samples of any insecticide and the fee payable therefor;",
+                        "14": "(o) the form in which intimation shall be given by an Insecticide Inspector under sub-section (5) of section 22 to a person from whom a sample of an insecticide is taken for test or analysis;",
+                        "15": "(p) the form in which an Insecticide Analyst shall submit a report of his test or analysis to the Insecticide Inspector under sub-section (1) of section 24;",
+                        "16": "(q) the protective clothing and equipment to be used by workers during the manufacture, formulation, transport, distribution and application of insecticides and other facilities to be provided to keep themselves and things supplied to them free from any contamination;",
+                        "17": "(r) the use by the workers of any such protective clothing, equipment and other facilities;",
+                        "18": "(s) the precautions to be taken against poisoning through the use or handling of insecticides;",
+                        "19": "(t) the measures for detecting and investigating cases in which poisoning has occurred;",
+                        "20": "(u) the facilities to be provided for ensuring first-aid treatment;",
+                        "21": "(v) the instruction and training to be provided regarding the use of things supplied to the workers for ensuring their safety;",
+                        "22": "(w) the facilities for medical examination of workers engaged in the manufacture or handling of insecticides;",
+                        "23": "1* * * * *",
+                        "24": "(y) the equipment for, and method of, application of, an insecticide and the disposal of surplus material, washings and containers, following application;",
+                        "25": "(z) the maintenance and inspection of records and returns;",
+                        "26": "(za) the restrictions on storage of insecticides during transport or, otherwise along with articles of food;",
+                        "27": "(zb) the maximum proportion of any insecticide which may be added to, or contained in, any preparation for domestic use and the restrictions thereon;",
+                        "28": "(zc) the manner in which refusal to register an insecticide or cancellation of certificate of registration thereof may be notified;",
+                        "29": "(zd) the officer or authority to whom the Central Government may delegate any of the powers and functions conferred on it by this Act;",
+                        "30": "(ze) any other matter which has to be, or may be, prescribed."
+                    }
+                },
+                "3": "(3) Every rule made by the Central Government under this Act shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session 2[or in two or more successive sessions, and if, before the expiry of the session immediately following the session or successive sessions aforesaid], both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+            }
+        },
+        "Section 37.": {
+            "heading": "Power of the State Governments to make rules.",
+            "paragraphs": {
+                "0": "(1) The State Government may, after consultation with the board and subject to the condition of previous publication, by notification in the Official Gazette, make rules for the purpose of giving effect to the provisions of this Act and not inconsistent with the rules, if any, made by the Central Government.",
+                "1": {
+                    "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for\u2014",
+                    "contains": {
+                        "0": "(a) the authority to which, the manner in which, and the fee on payment of which, an appeal may be filed under section 15 and the procedure to be followed by the appellate authority in disposing of the appeal;",
+                        "1": "(b) the delegation of any of the powers and functions conferred by this Act on the State Government to any officer or authority specified by that Government."
+                    }
+                },
+                "2": "1[(3) Every rule made by the State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature.]"
+            }
+        },
+        "Section 38.": {
+            "heading": "Exemption.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Nothing in this Act shall apply to\u2014",
+                    "contains": {
+                        "0": "(a) the use of any insecticide by any person for his own household purposes or for kitchen garden or in respect of any land under his cultivation;",
+                        "1": "(b) any substance specified or included in the Schedule or any preparation containing any one or more such substances, if such substance or preparation is intended for purposes other than preventing, destroying, repelling or mitigating any insects, rodents, fungi, weeds and other forms of plant or animal life not useful to human beings."
+                    }
+                },
+                "1": "(2) The Central Government may, by notification in the Official Gazette, and subject to such conditions, if any, as it may specify therein, exempt from all or any of the provisions of this Act or the rules made thereunder, any educational, scientific or research organisation engaged in carrying out experiments with insecticides."
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "[See section 3(e)]"
+                }
+            },
+            "1": "LIST OF INSECTICIDES",
+            "2": "Acrylonitrile",
+            "3": "Aldrin (1:2:3:4:10:10\u2014hexachloro-1:4:4a; 5:8; 8a-hexahydro-1:4:5:8-dimethanonaphthalene)",
+            "4": "Allethrin (allyl homologue of Cinerein I)",
+            "5": "Aluminium Phosphide",
+            "6": "Amiton",
+            "7": "Antu (Alpha-naphthyl thiourea)",
+            "8": "Aramite [2 (p-tert-butylphenoxy) ispropyl 1-2 chloroethyl sulphite]",
+            "9": "Barium Carbonate",
+            "10": "Barium Fluoro Silicate",
+            "11": "BHC (Benzene Hexachloride) (1, 2, 3, 4, 5, 6-hexachlorohexane)",
+            "12": "Bis-dimethylamino Fluorophosphine Oxide",
+            "13": "Calcium Arsenate",
+            "14": "Calcium Cyanide",
+            "15": "Captan (N-trichloromethylmercapto-4-cyclohexane), 1, 2-discarboximide",
+            "16": "Carbaryl (1-naphthyl-N-methyl carbamate)",
+            "17": "Carbon Disulphide",
+            "18": "Carbon Tetrachloride",
+            "19": "Chlorbenside (p-chlorobenzyl-p-chlorophenyl sulphide)",
+            "20": "Cholorobis ethyl amino triazine",
+            "21": "Chlordane (1, 2, 3, 4, 5, 6, 7, 8, 8-Octachlore-2, 3, 3a, 4, 7, 7a-hexahydro-4, 7-methanoindane)",
+            "22": "Chlorobenzilate (Ethyl 4, 4\u201f-dichlorobenzilate)",
+            "23": "Chlorothion (o, o-dimethyl-o-3-chloro-4-nitrophenyl thiono phosphate)",
+            "24": "Chloro-I.P.C",
+            "25": "Chloropicrin",
+            "26": "Chlorofenson (p-chlorophenyl-p-chlorobenzene sulphonate)",
+            "27": "S-(p-chlorophenylthio) methy-o-o-diethyl phosphorodithioate (Trithion)",
+            "28": "CIPC [isopropyl-N (3-chlorophenyl) carbamate]",
+            "29": "CMU (Manuron)",
+            "30": "Copper Arsenate",
+            "31": "Copper Cyanide",
+            "32": "Copper naphthanate",
+            "33": "Copper Sulphate",
+            "34": "Coumachlor [3-(a-acetony1-4-chlorobenzy1-4-hydroxy coumarin)]",
+            "35": "Copper Oxychloride",
+            "36": "Cuprous Oxide",
+            "37": "Dalapon (Sodium 2, 2, dichloropropionate)",
+            "38": "D-D mixture",
+            "39": "DDD (Dichloro Diphenyl Dichloroethane)",
+            "40": "DDT [a mixture of 1, 1, 1-trichloro-2, 2-bis (p-chlorophenyl) ethane and 1, 1, 1-trichloro-2- (o-chlorophenyl)-2 (p-chlorophenyl) ethane]",
+            "41": "DDVP (2, 2-dichlorovinyl dimethyl phosphate)",
+            "42": "Demeton-O (O, O-diethyl-S [(2-ethylthio)-ethyl] phosphorothioate)",
+            "43": "Demeton-S (O, O-diethyl-S [(2-ethylthio)-ethyl] phosphorothioate)",
+            "44": "Diazinon (O, O-diethyl-O [(2-isopropyl-6-methyl-4-pyrimidinyl] phosphorothioate)",
+            "45": "Dibrom (1, 2-dibromo, 1, 2, 2-dichloroethyl dimethyl phosphate)",
+            "46": "Dichlorophenoxy acetic acid (2, 4-D)",
+            "47": "Dieldrin (1 : 2 : 3 : 4 : 10 : 10-hexachloro-6 : 7-epoxy-l : 4a : 5 : 6 : 7 : 8 : 8a-Octahydro-1 : 4 : 5 : 8-dimethanonaphthalene)",
+            "48": "Dimethoate (O, O-dimethyl-S-(N-methylcarbamoyl methyl) phosphorodithioate)",
+            "49": "Dipterex (O, O-dimethyl-2, 2, 2-trichloro hydroxy ethyl phosphonate)",
+            "50": "DNOC (Dinitro-ortho-compound) (3 : 5-dinitro-o-cresol)",
+            "51": "EDCT mixture (Ethylene Dichloride Carbon Tetrachloride mixture)",
+            "52": "Ekatin",
+            "53": "Endrin (1, 2, 3, 4, 10-10-hexachloro-6, 7-epoxy-1, 4, 4a, 5, 6, 7, 8, 8a-Octahydre-1, 4-endo-endo, 5-8 dimethanonaphthalene)",
+            "54": "E.P.N. (O-ethyl-O-p-nitriphenyl benzene thiophosphonate)",
+            "55": "Ethyoxy ethyl mercury chloride",
+            "56": "Ethyl di-n-propylthio\u201fcarbamate (Eptam)",
+            "57": "Ethyl mercury phosphate",
+            "58": "Ethyl mercury chloride",
+            "59": "Ethylene dibromide",
+            "60": "Ethylene Dichloride",
+            "61": "Fenson (Parachlorophenyl benzene sulphonate)",
+            "62": "Fenthion (3-methyl-4-methyl thiophenyl phosphorothionate)",
+            "63": "Ferbam (Ferric Dimethyl dithio Carbamate)",
+            "64": "Gusathion [O, O-dimethyl S (4-oxo-1, 2, 3-benzotriazinyl-3-methyl) phosphorothioate]",
+            "65": "Heptachlor (1, 4, 5, 6, 7, 8, 8-heptachloro-4-7-methano-3a, 4, 7, 7a-tetrahydroindene)",
+            "66": "HETP (Hexaethyl tetraphosphate)",
+            "67": "Hexachlorobenzene",
+            "68": "1[Hirsutella species]",
+            "69": "Hydrogen Cyanide",
+            "70": "Hydrogen Phosphide",
+            "71": "Lead arsenate",
+            "72": "Lime Sulphur (Calcium Polysulphide, water-free sulphur, calcium thiosulphate mixture)",
+            "73": "Lindane (gamma, B.H.C.)",
+            "74": "Malathion (S-(1, 2-Bis (ethoxycarbony1) ethyl) O, O-dimethyl-phosphoro-dithioate)",
+            "75": "Maleic hydrazide (1, 2-dihydropyropyridazine 3, 6-dione)",
+            "76": "Maneb Manganese ethylene bisdithiocarbamate",
+            "77": "MCPA-(4-chloro-2 Methyl phenoxy acetic acid)",
+            "78": "Mercuric Chloride",
+            "79": "Metaldehyde",
+            "80": "Metasystox",
+            "81": "Methoxychlor (1, 1, 1-trichloro-2, 2-di-p-methoxyphenylethane)",
+            "82": "Methoxy ethyl mercury chloride",
+            "83": "Methyl bromide",
+            "84": "Methyl demeton (Dimeton-methyl and Dimeton-Methyl)",
+            "85": "Methyl Mercury Chloride",
+            "86": "Methyl Parathion (O, O-dimethyl-O-p-nitrophenylthiophosphate)",
+            "87": "Metox (Chlorsulphicide)",
+            "88": "Nabam (Disodium ethylene-1, 2-bisdithiocarbamate)",
+            "89": "Nicotine sulphate",
+            "90": "Octa methyl pyrophosphoramide",
+            "91": "Para-dichloro benzene",
+            "92": "Parathion (O, O-diethyl-O-p-nitrophenylthiophosphate)",
+            "93": "Paris Green (Copper Aceto arsenite)",
+            "94": "Pentachloronitrobenzene (P.C.N.B.)",
+            "95": "Pentachlorophenol",
+            "96": "Phenyl mercury acetate",
+            "97": "Phenyl mercury chloride",
+            "98": "Phenyl mercury urea",
+            "99": "Phosdrine",
+            "100": "Phthalimidomethyl-O-O-dimethyl phosphorodithioate (Imidan)",
+            "101": "Piperonyl butoxide (butyl carbityl) (6-propyl piperonyl) ether O",
+            "102": "Pival (2-Pivalyl-indane 1-3 dione)",
+            "103": "Potassium Cyanide",
+            "104": "n-Propyl ethyl-n-butyl thiolcarbamate (Tillam)",
+            "105": "Pyrethrins (insectically active principles of Chrysanthemum cinerariaefolium)",
+            "106": "Rotenone",
+            "107": "Ryania",
+            "108": "Sodium fluoroacetate",
+            "109": "Sodium cyanide",
+            "110": "Sodium Fluoro Silicate",
+            "111": "Sulphur (wettable or colloidal sulphur)",
+            "112": "Strychnine",
+            "113": "Sulphoxide [1, 2-methylene-dioxy-4 (2-octylsulphinyl) propyl benyene]",
+            "114": "TCA (trichlor acetic acid sodium and ammonium salts)",
+            "115": "Tedion (tetrachlor diphenyl sulphone)",
+            "116": "TEPP (tetraethyl Pyrophosphate)",
+            "117": "Tetrachloro-p-benzoquinone",
+            "118": "Thanite",
+            "119": "Thiram [bis (dimethyl Thiocarbamyl) disulphide]",
+            "120": "Tolyl mercury acetate",
+            "121": "Trichlorphon",
+            "122": "Triorthocresyl Phosphate",
+            "123": "Thallium sulphate",
+            "124": "Thiometon",
+            "125": "Toxaphene (chlorinated camphene containing 67\u201469% chlorine)",
+            "126": "Trichlorophenoxy acetic acid (2, 4, 5-T)",
+            "127": "Warfarin (3-a-acetonyl benzyl-4-hydroxy-coumarin)",
+            "128": "Zinc Phosphide",
+            "129": "Zimet",
+            "130": "Zineb (Zinc Ethylene bis-dithiocarbamate)",
+            "131": "Ziram (Zinc dimethyl-dithiocarbamate)",
+            "132": "Zulate",
+            "133": "1[Acrolein. . . . . . . . 2-Propenal or Acrylaldehyde",
+            "134": "Actellic (Pirimiphosmethyl). . 2-diethylamino-6-methylpyrimidin-4-yl dimethyl phosphorothionate",
+            "135": "Afugon. . . . . . . Diethyl methyl ethoxycarbonyl pyrazolo-pyrimidine-yl-phosphoroth onate",
+            "136": "Alachlor. . . . . . . 2-Chloro-2; 6\u201f-dienthyl-n-(methoxymethyl)-acetanilide",
+            "137": "Aldicarb. . . . . . . 2-methyl-2-(methylthio) propionaldehyde-o-(methylcarbamoyl) oxime",
+            "138": "Amidithion. . . . . . S-(N-2 methoxyethyl-Carlomoyl-methyl) dimethyl phosphorothiolothionate",
+            "139": "Amitrole. . . . . . . 3-Amino-1, 2, 4-triazole",
+            "140": "Ammonium Sulphamate. . . Ammonium Sulphamate",
+            "141": "Asulam. . . . . . . Methyl-N (4-aminobenzenesulphonyl) carbamate",
+            "142": "Atrazine. . . . . . . 2-Chloro-4-ethylamino-6-isopropylamino-1, 3, 5-trizine",
+            "143": "Aureofungin. . . . . . Aureofungin",
+            "144": "Azinphos-ethyl. . . . . . S-(3, 4-dihydro-4-oxobenzo-(d)-(1, 2, 3)-triazin-3-ylmethyl) diethyl phosphorothiolothionate",
+            "145": "Barban. . . . . . . 4-chloro-2-ynyl-3-chlophenyl carbamate",
+            "146": "Barium Polysulphide. . . . Barium Polysulphide",
+            "147": "Bassa. . . . . . . . O-Secondary-butylphenylmethyl carbamate",
+            "148": "BCPE (Chlorphenithel). . . 1, 1-bis-(4-Chlorophenyl)-ethanol",
+            "149": "Benomyl. . . . . . . Methyl-N-benzimidazol-2-yl-N (butylcarbemoyal carbamate)",
+            "150": "Bensulide. . . . . . . S-(O, O-Di-isopropyl phosphorodithionate) cester with N-(2-mercaptoethyl) benzene Sulphenamide",
+            "151": "Binapacryl. . . . . . . 2-(1-methyl-n-propyl)-4, 6-dinitrophenily-2-methylcrotonate",
+            "152": "Bromacil. . . . . . . 5-bromo-6-methyl-3-(1-methylpropyl) uracil",
+            "153": "Brompyrazen. . . . . . 5-amino-4-bromo-2-phenylpyridazin-3-one",
+            "154": "Bromoxynil. . . . . . 3, 5-dibromo-4-hydroxybenzonitrile",
+            "155": "Brozone. . . . . . . Methyl bromide & chloropicrin in petroleum solvent",
+            "156": "Buturon. . . . . . . 3-(4-chlorophenyl)-1-methyl-1 (1-methyl prop-2-ynyl) urea",
+            "157": "Butylate. . . . . . . S-ethyl-N, N-diisobutylthiocarbamate",
+            "158": "Bux. . . . . . . . Mixture of m-(1-methyl butyl) phenylmethyl carbamate and m-(1-ethyl propyl) phenyl methyl carbamate",
+            "159": "Cadmium based compounds. . (Cadmium chloride, Cadmium sulphate, Cadmium succinate)",
+            "160": "Captafel. . . . . . . N-O (1, 1, 2, 2-tetrachloroethylthio) cyelohex-4-ene-1 2-dicarboxymide",
+            "161": "Carbefuran. . . . . . 2, 3-dihydro-2, 2 : dimethyl-7-benzofuranyl methylcarbamate",
+            "162": "Carbophenothion. . . . . S-[(p-Chlorophenylthio)-methyl]-o, o-diethyl phosphorodithioate",
+            "163": "Carboxin (DCMO). . . . 5, 6-Dihydro-2-methyl-1, 4-oxathiin-3-carboxanilide",
+            "164": "Chinomethionate. . . . . 6-methyl-2-oxo-1, 3-dithio (4, 5-b) quinoxaline",
+            "165": "Chloramben. . . . . . 3-amine-2, 5-dichorobenzonic acid",
+            "166": "Chlorbufam (BIPC). . . . 1-methyl-2-propynyl-m-chlorocarbanilate",
+            "167": "Chlorfenyinphos. . . . . 2-chloro-1 (2, 4-dichlorophenyl)-Vinyl diethylphosphate",
+            "168": "Chloromequate chloride. . . (2-chloroethyl) trimethyl ammonium chloride",
+            "169": "Chloroneb. . . . . . 1, 4-dichloro-2, 5-dimethexybenzine",
+            "170": "Chlorpropane. . . . . . Chloropropane",
+            "171": "Chloroxur-n. . . . . . N-4-(4-Chlorophenoxy) phenyl-NN-dimethyl-ureat",
+            "172": "Citicide. . . . . . . Chlorinated turpene",
+            "173": "Citowett. . . . . . . Alkylarylpolyglykelether",
+            "174": "Clonitralid. . . . . . 5, 2-dichloro-4\u201fnitro-salicylic-anilide-ethanolamine",
+            "175": "Copper Hydroxide. . . . Copper Hydroxide",
+            "176": "Coumafuryl. . . . . . 3-(a-Acetonylfurfuryl)-4-hydrocyceumarine",
+            "177": "Coumaphos. . . . . . 3-Chloro-4-methyl-7-coumarinyl diethyl phosphorothionat",
+            "178": "Coumatetralyl. . . . . . 4-hydroxy-3-(1, 2, 3, 4-tetraphydro-1-naphthyl) coumarin",
+            "179": "Coyden. . . . . . . 3, 5-dichloro-2, 6-dimethyl-4-pyridinol",
+            "180": "CPAS. . . . . . . . 4-Chlorophenyl, 2, 4, 5-trichlorophynylazosulphide",
+            "181": "Cyclomorph. . . . . . N-Cyclodedecyl-2, 6-dimethyl-morpholinacetate",
+            "182": "Cycluren (OMU). . . . N\u201f-Cycle-octyl-N-N-dimethyl urea .",
+            "183": "Cytrolane. . . . . . . 2-(diethoxy phosphraylimino)-4-methyl-1, 3-dithiolane",
+            "184": "Decarbofuran. . . . . . 2, 3-dihydro-2-methylobenzofuren-7-yl-methyl carbamate",
+            "185": "Decazolin. . . . . . . 1-(alpha, alpha-dimethyl-beta-acetoxypropionyl-3-isopropyl-2, 4-dioxodeoa-hydroquinazoline",
+            "186": "DEET. . . . . . . . N, N-Diethyl-m-toluamide",
+            "187": "Dibromochloropropane. . . 1, 2-dibromo-3-chloropropane",
+            "188": "Dicamba. . . . . . . 3, 6-dichloro-2-methoxybenzoic acid",
+            "189": "Dichlobenil. . . . . . 2, 6-dichlorobanzo nitrile",
+            "190": "Dichlofenthion. . . . 0-(2, 4-dichlorophenyl) O, O-diethyl phosphorothioate",
+            "191": "Dichlone. . . . . . . 2, 3-dichloro-1, 4-naphthoquinone",
+            "192": "Dichloropropane. . . . . 1, 3-dichloropropane",
+            "193": "Dicloran. . . . . . . 2, 6-dichloro-4-nitroaniline",
+            "194": "Dicofol. . . . . . . 2, 2, 2-trichloro-1, 1-di-(4-chlorophenyl) ethanol",
+            "195": "Dicrotophos. . . . . . Dimethyl phosphate ester with (E)-3-Hydroxy-N, N-dimethyl-crs- crotonamide dimethyl phosphate",
+            "196": "2, 4-D B. . . . . . . 4-(2, 4-Dichlorophenoxy) butyric acid",
+            "197": "Difenphos (Abate). . . . O.O.O\u201f, O\u201f-Tetramethyl O, O\u201f-thiodi-p-phenylene phosphorothioate",
+            "198": "Dikar. . . . . . . . A blend of Dithane M-45 and Tech. Karathane",
+            "199": "Dimas (Alar). . . . . . N-dimethylamino suceinic acid",
+            "200": "Dinocap. . . . . . . Mixture of 4 & 5 parts of 2, 4-dinitro-6-octophyany1 crotonates to 2 parts of the isomer of 2, 6 dinitro-4-octylphenyl crotonates",
+            "201": "Dinoseb. . . . . . . 2, 4-dinitro-6-S-butylphenol",
+            "202": "Dinoseb acetate. . . . . 2, 4-dinitro-6-S-butylphenol acetate",
+            "203": "Dioxathion. . . . . . S-S-1, 4-dioxane-2, 3-ylidene (bis) o, o-diethyl phos phosphorothiolothionate",
+            "204": "Diphacinene. . . . . . 2-diphenylacetyl 1, 3-indanediene",
+            "205": "Diphenamid. . . . . . NN-dimethyl-2, 2-diphenylacetamide",
+            "206": "Disulfoton. . . . . . diethyl s-[2-(ethylthio) ethyl] phosphorothiolothionate",
+            "207": "Diuron. . . . . . . N\u201f-3- (4-dichlorophenyl)-NN-dimethylurea",
+            "208": "DMPA. . . . . . . O-(2, 4-Dichlorophenyl) O\u201f methyl N-isopropyl-phosphoromidithicate",
+            "209": "Dodine. . . . . . . Dodecylguanidine-monoacetate",
+            "210": "Dodomorph. . . . . . 4-Cyclododeeyl-2, 6-dimethyl-morpholine",
+            "211": "Drat (Chlorophacinone). . . 2-(a-P-Chlorophenyl-a-pheylacetyl) indane-1, 3-dione",
+            "212": "DSMA. . . . . . . Disodium methanearsonate",
+            "213": "Dursban. . . . . . . O, O-diethyl O-(3, 5, 6-trichloro-2-pyridyl) phosphorophorothioate",
+            "214": "Dusting Sulphur. . . . .",
+            "215": "Ediphenphos. . . . . . O-ethyl-s, s-diphenyl-dithiophosphate",
+            "216": "Endosulfan. . . . . . 6, 7, 8, 9, 10, 10-hexachloro-1, 5, 5a, 6, 9, 9a hexahydro-6, 9-methano- 2, 4, 3-benzo (e)-dioxathiepin-3-oxide",
+            "217": "Endothall. . . . . . . 7 oxabicylo (2, 2, 1)-heptane-2, 3-dicarboxylate",
+            "218": "E P T C. . . . . . . S-ethyl-dipropylthiocarbamate",
+            "219": "Erbon. . . . . . . . 2-(2, 4, 5-trichlorophenoxy) methyl 2, 2-dichloropropionate",
+            "220": "Ethion. . . . . . . Tetraethyl SS\u201f methylene bis phospherothiolothionate",
+            "221": "Ethrel. . . . . . . . 2-chloroethane phosphonic acid",
+            "222": "Fenac. . . . . . . . Sodium 2, 3, 6-trichlorophenylacetate",
+            "223": "Fenazeflor. . . . . . . Phenyl 5, 6-dichlore-2-trifluoromethyl benzimidazole-1-carboxylate",
+            "224": "Fenitrothion. . . . . . dimethyl 3-methyl-4-nitrophenyl phosphorothionte",
+            "225": "Fensulfothion. . . . . . diethyl 4-(methyl sulphinyl) phenyl phosphorothionate",
+            "226": "Fentinacetate. . . . . . triphenyltin acetate",
+            "227": "Fentin chloride. . . . . triphenyltin chloride",
+            "228": "Fentin-hydroxide. . . . . triphenyltin hydroxide",
+            "229": "Folex. . . . . . . . SSS-Tributyl phosphorotrithioate",
+            "230": "Formethion. . . . . . S-(N-formyl-N-methylcarbamoyl methyl) OO-dimethyal phosphorodithioate",
+            "231": "Fonofos (Dyfonate). . . . O-ethyl-s-phenyl ethyl phosphorodithioate",
+            "232": "Fujithion. . . . . . . O, O-Dimethyl-s-Parachlorophenyl phosphorothis",
+            "233": "Gibberellins. . . . . . Gibberellic acid",
+            "234": "Herban. . . . . . . . 3-5-3-a, 4, 5, 6, 7, 8, 8-a-hexahydro-4, 7-methanoindanyl)-1, 1-dimethyl urea",
+            "235": "Indole Acetic & Butyric Indole Acetic Acid, Indole Butyric acid Acids. . . . . . . .",
+            "236": "loxynil (Pantrol) . . . . . 3, 5-di-iodo-4-hydroxy benzenitrile",
+            "237": "Isobenzan. . . . . . . 1, 3, 4, 5, 6, 7, 7, 7-Octachloro-1, 3, 3a, 4, 7, 7a-hexahydro-4, 7, methanois olbenzofuran",
+            "238": "Isononuron. . . . . . N\u201f (hexahydro-4, 7, methanoindan-1-yl) NN-dimethyl urea",
+            "239": "Kitazin. . . . . . . O-O-Di-isopropyl-s-Benzyle thiophosphate",
+            "240": "Lenacil. . . . . . . 3-cyclohexyl-5, 6-trimethyleneuracil",
+            "241": "Linuron. . . . . . . N-(3, 4-dichlorophenyl)-N-methoxy-N-methylurea",
+            "242": "Lucel. . . . . . . . 5, 6, 7, 8-tetrachloroquinecxaline",
+            "243": "Machete (Butachlor). . . . (2-chloro-2\u201f, 6\u201f-diethyl-N-(Butoxymethyl)-acetanilide)",
+            "244": "M. C. P. B. . . . . . . 4-(4-Chloro-2-methylphenoxy) butyric acid",
+            "245": "Menazon. . . . . . . S-(4-, 6-diamino-1, 3, 5-triazin-2-yl methyl) dimethyl- phosphorothiolothionate",
+            "246": "Methamidophos. . . . . O-S-dimethylester amide of thiphosphoric acid",
+            "247": "Metam Sodium. . . . . N-methyldithiocarbamic acid",
+            "248": "Methomyl. . . . . . . S-methyl N-((methylcarbamoyl) oxy) thioacetimidate",
+            "249": "Methylmetiram. . . . . Ammonium complex with Zn-(N\u201f N-1, 2-propylenebis- (dithiocarbamate) and N\u201f, N\u201f-Poly-1, 2-propylene-bis (Thiocarbamoyl)- di-sulphid",
+            "250": "Metiram. . . . . . . Ammonium complex with Zn-(N, \u201eN-1, 2-Ethylenebis, (dithiocarbamate) and N\u201f-N\u201f-Poly-1, 2-propylene-bi (Thiocarbamoyl)- disulphid",
+            "251": "Metoxuron. . . . . . N\u201f (3-chloro-4-methoxyphenyl)-N, N-dimethyl urea",
+            "252": "Mevinphos. . . . . . 2-methoxy carbonyl-1-methyl vinyl dimethyl phosphate",
+            "253": "MIPCIN. . . . . . . 2-inpropylphenyl-N-methyl carbamate",
+            "254": "Menap. . . . . . . . O-Ethyl S, S-dipropyl phosphordithioate",
+            "255": "Molinate. . . . . . . S-Ethyl-N-hexaphydro-1 H-azepinuthiolcarbamte",
+            "256": "Monocrotophos. . . . . 3-Hydroxy-N-methyl-crotonamide dimethyl phosphate",
+            "257": "Monolinuron. . . . . . N-(4-chlorophenyl)-N-Methoxy-N-methyl urea",
+            "258": "MSMA. . . . . . . Monosodium methaearsonate",
+            "259": "Neled. . . . . . . . 1, 2-dibromo-2, 2-dichloroethyl dimethyl phosphate",
+            "260": "Naphythylacetic acid. . . Naphthylacetic acid and its derivations",
+            "261": "Naburon. . . . . . . 1-Butyl-3-(3-4-dichlorophenyl)-1-methyl urea",
+            "262": "Nemafos (Thinonzim). . . O, O-diethyl C-2 pyrazinyl phosphorothioate",
+            "263": "Neopynamin. . . . . . 3, 4, 5, 6-tetrahydro-phthalimidomethyl chrysauthanate",
+            "264": "Nickel Chloride. . . . . Nicke1 Chloride",
+            "265": "Nitrofen. . . . . . . 2, 4-dichlorophenyl 4-nitrophenyl ether",
+            "266": "Omethoate. . . . . . dimethyl 8 (N-methyl-carbamoylmethyl) phosphorothioate",
+            "267": "Orthane. . . . . . . O, S-Dimethyl N-acetyl phosphoramidothioate",
+            "268": "Oxapyrazon. . . . . . (5-bromo-1, 6-dithydro-6-oxo-1-phenyl-4-pyridazinyl Oxamicacid- compound with 2 dimethyl aminoethanol (1 & 1).]",
+            "269": "1[Methabenzthiazuron 1-3, Dimenthyl-3 (z-benzothiozolyl) urea].",
+            "270": "2[1. Streptomycin",
+            "271": "2. Tetracyclines",
+            "272": "3. Turbuteryne (2-terbuty-lamino-4-ethylamino-6-methyl-thio S-hiazine).",
+            "273": "4. Glyphosate (N-(Phosphonomethyl) glycine) present is isopropylamine salt.",
+            "274": "5. Bacillus thuringiensis ]",
+            "275": "3[1. Amitraz 2-methyl-1, 3-di (2-4-xylylimino) 2-azapropane.",
+            "276": "2. Bendiocarb 2, 2-dimethylbenzo-I, 3-dioxol 4-yl, methyl carbamate.",
+            "277": "3. Benzoylprop-ethyl ethyl N-benzoyl-N-(3-4-dichlorophenyl) DL alaninate.",
+            "278": "4. Cyanazine 2-(4-chloro-6-ethylamino 1, 3, 5-triazin 2-ylamino)-2methyl propionitrile.",
+            "279": "5. Etrimfos O-6-ethoxy-2-ethyl-4-pyrimidinyl) O, O-dimethyl phospho-rothioate.",
+            "280": "6. Glyodin 2-heptadecyl 3, 4-dihydro-1 H-imidazolyl acetate.",
+            "281": "7. Oxadiazon 3-(2, 4-dichloro-5-(1-methylethoxy) phenyl) 5-(1, 1-dime-thylethyl)-1, 3, 4-Oxadiazol-2 (3H) one.",
+            "282": "8. Oxyfluorfen 2-choloro-1 (3-ethoxy-4-nitrophenoxy) 4-trifluormethyl) benzene.",
+            "283": "9. Propetamphos (E)-O-2-isopropoxy carbonyl-1-methyl vinyl-o-mythyl ethy- phosphoramidothioate.",
+            "284": "10. Scilliroside 3 B, 6B-6-acetyloxy-3 (B-D-glucopyrano-syloxy) 8, 14-dihydroxybufa- 1, 20, 22, trienolide.",
+            "285": "11.Thiocyclam N, N-dimethyl-1, 2, 3-trithian-5-amine hydrogenoxalate. (hydrogenoxalate)",
+            "286": "12. Vinclozolin",
+            "287": "13. Benodanil 2-Iodo-N-phenylbenzamide.",
+            "288": "14. Diclofop-methyl 2-(4-(2,4-dichlorophenoxy)phenoxy)propanoic acid.",
+            "289": {
+                "text": "15. Metalaxyl methyl (2-methoxyacetyl) N-2, 6-xylyl)DL alaninate.",
+                "contains": {
+                    "0": "N-(I-ethyl propyl)3, 4-dimethyl 2, 6-dinitro-benzeneamin. 16. Pendimethain"
+                }
+            },
+            "290": "17. Fosethyl Aluminium Aluminium tris (ethyl-phosphonate).",
+            "291": "18. Thiabendazole 4-n-butyl-4H-1, 24- triazole.",
+            "292": "20. TCMTB 2-(thicyanomethylathio) benzothiazole.",
+            "293": "21. Bromadiolone 3-3-4' bromol, 1-biphenyl 4-y-3 hydroxy-I-phenyl propyl 4-hydroxy-2 H-1-benzopyran-2 one.]",
+            "294": "1[1. Benthiocarb S(4-chlorobenzyl)N, N-dicthylthiol carbamate.",
+            "295": "2. Cypermethrin ac-cyano-3-phenoxybenzyl-2, 2- dimethyl-3(2, 2-dichlorovinyl) cyclo- propane carboxylate.",
+            "296": "3. Decamethrin (S) ac-cyano-m-phenoxybenzyl (IR, 3R)-3(2, 2-dibromoviny) dimethyl cyclopropane carboxylate.",
+            "297": "4. Fenvalerate ac-cyano-m-phenoxybenzyl oc isopropyl-p-chlorophenyl ace tate.",
+            "298": "5. Permethrin 3-phenoxy benzyl (+-cis, trans 3-(2, 2-dischlorovinyl)-2,2- dimethyl- cyclopropane carboxylate.",
+            "299": "6. Tetrachloroiophthalonitrile 1, 2, 4-Trichloro-3, 5-dinitrobenzene.]",
+            "300": "2[Bromophos O-(4-bromo-2, 5-dichlorophenyl)OO-di-methyl phosphoroithioate.",
+            "301": "Bromophes ethyl O-(4-bromo-2, 5- dichlorophenyl) OO-di-ethyl phosphorothioate.",
+            "302": "Cartap 3-di (carbamoylthio)-2-dimethylaminopropane.",
+            "303": "Dichlorophen 5,5-dichloro 2, 2, dihydroxy diphenyl methane.",
+            "304": "(Antiphen)",
+            "305": "Dinobuton Isopropyl-2(1-methyl-n-propyl)-4, 6- dinitrophenyl carbonate.",
+            "306": "Dithianon 2, 3-dicano-1, 4-dithia-an tharquin-one.",
+            "307": "Ethyl formate Ethyl formate.",
+            "308": "Fenfuram 2-methyl furan-3 carboxanilide.",
+            "309": "Glyphosine N,N-bis (phosphonomethyl)glycine.",
+            "310": "Guazatine 1.17-diguanindion-9-azahepta decane.",
+            "311": "Isofanphos O-ethyl-o-(2-isopropoxy-carbonyl)phenyl isopropyl phosphoramidothioate.",
+            "312": "Isoproturon N, N-dimethyl-N-4-isopropyl phenyl urea.",
+            "313": "Magnesium phosphide Magnesium phosphide.",
+            "314": "Matribuzin 4-amino-6-tort, butyl-3-(methyl thio)-1,2,4-triazin-5-(4H)-One.",
+            "315": "Triadimefon 1-(4-chlorophenoxy)-3, 3-dimethyl-1-(1H-1, 2, 4-tridzol-1-yl(-2- butanone.",
+            "316": "Triforine 1, 4-di-(2,2, 2-trichlord-1-formamidoethyl)-piperazine.",
+            "317": "Vacor N-3 pyridyl methyl-N-pnitrophenyl urea.]",
+            "318": "1[1. Amirtaz 2-methyl-1, 3-di-(2-4-xylylimino)2-azapropane.",
+            "319": "2. Bendiocarb 2, 2-dimethylbenzo-1, 3-dioxol 4-yl methly carbamate.",
+            "320": "3. Benzolyprop -ethyl ethl N-benzoyl-N-(3, 4-dichlorophenyl)-DL alaminate.",
+            "321": "4. Cyanazine 2(4-Chloro-6-ethylamino-1, 3, 5-triazin-2-ylamino)-2-methyl proplonitrile.",
+            "322": "5. Etrimfos 0-(6-ethoxy-2-ethyl-4-pyrimldinyl) O. O-dimethyl phosphorothioate.",
+            "323": "6. Glyodin 2-heptadecyl-3, 4-dihydor-1H-imidazoly acetate.",
+            "324": "7. Oxadiazon 3-(2, 4-dichloro-5-(-methylethoxy) phenyl)-5-(I), 1-methylethyl)-1,3,4- oxadazol-2(3H)-one.",
+            "325": "8. Oxyfluorfen 2-Choloro-1-(3-ethoxy-4-nitrophenoxy) 4-trifuluormethyl) benzene.",
+            "326": "9. Propetamphos (E) -o-2-isopropoxycarbonyl-1-methyl vinyl-O-methyl ethylpho phoramidothioate.",
+            "327": "10. Scilliroside 3B, 6B-6-accetyloxy-3-(B-D-glucopyranosyloxy) 8, 14-dihy- droxybufa-1, 20,22, trienolide.",
+            "328": "11. Thiocyclam (hydrogenoxalate N, N-dimethyl-1, 2, 3-trithian-5-amine hydrogenoxalate.",
+            "329": "12. Vinclozolin 3-(3, 5-dichlorophenyl)-5-ethenyl-5-methyl-2, 4-oxazolldenedione.",
+            "330": "13. Benodanil 2-Iodo-N-phenylbenzamide.",
+            "331": "14. Diclofop -methyl 2-(4-(2,4-dichlorophenoxy) phenoxy)-propanoic acid.",
+            "332": "15. Metalaxyl methyl-(2-methoxyacetyl)N-2, 6-xylyl)-DL-alaninate.",
+            "333": "16. Pendimethalin N-(1-ethuyl propyl]-3, 4-dimethyl-2, 6-dinitrobenzeneamin.",
+            "334": "17. Fosethl Aluminium tris (ethyl-phosphonate).",
+            "335": "18. Thiabendazole 2(4-Thiazoloyl)-benzimidazole.",
+            "336": "19. Butrizol 4-n-butyl-4H-1, 24-triazole.",
+            "337": "20. TCMTB 2-(Thicyanomethyl-thio)zothiazole.",
+            "338": "21. Bromadiolone 3-3-4-bromol, 1-biphenyl-4-Y-3 hydroxy-1-phenyl propyl-4-hydroxy-2, H-1-benzopyran-2-one.]",
+            "339": "1[Flucythrinate -RS-(Cyano-3-3-Phenoxy benzyl(s)-2-4-difluomethoxy phenyl)- methylbutyrate.",
+            "340": "Triazophos O, O-diethyl O-1-phenyl-1, 2-4 triazol-3 ylphosphorothioate.",
+            "341": "Diflbenzuron 1-(4-chlorophenyl)-3(2), 6-difluorobenzoyal) urea.",
+            "342": "Bitertanol B-(1, 1-biphenyl)4-yloxy)L(1,1-dimethylethyl(-IH-1, 2, 4-triazole- ethrool.",
+            "343": "Sethoxydim 2, 1-(ethoxymine) butyl-5 (2-ethylthiopropyl)-3-hydroxy-2 cyclothexen-1-one.",
+            "344": "Brodifacoum 3-(3-(4'-bromobiphenyl-4-yl)-1, 2, 3, 4-tetrahydor-1-naphthyl)- 4hydroxycoumarin.",
+            "345": "Methoprene Isopropyl (@E, $E)-II-methoxy-3, 7, 11-trimethyl-2, 4- dodecadienoate.]",
+            "346": "2[Phenamiphons ethyl 4-methylthio-m-tolyl.",
+            "347": "(Fenamiphos) isopropylphosphoramidate.",
+            "348": "Ametryne N-ethyl-N1-(1-methylethyl)-6-(methylthio)-1,3,5-triazine-2, 4-diamine.",
+            "349": "Prometryne N, Ni-bis (1-methylethyl)-6-(methylthio)-1, 3, 5-triazine-2, 4-diamine.",
+            "350": "Fluazifop RS : 2-[4-(5-trifluoromethyl-2-pyridyloxy) phenoxy] propionic acid.]",
+            "351": "1[BORICACID Ortho :-boric acid.",
+            "352": "BROMOPROPYLATE Isopropyl 4, 4-dibromobenzilate.",
+            "353": {
+                "text": "RESMETHRIN 5-benzyl-3-furylmethyl (IRS, 3RS, ISR)-2, 2-dimethyl-3-(2- methylprop-i-enyl)cyclopropanecarboxylate.",
+                "contains": {
+                    "0": "S-6 Chloro-2, 3-dihydro-2-oxo-oxazolo (4, 5-b) pyridine-3- ylmethyl O, AZAMETHIPHOS O-dimethyl ph-phorothiate."
+                }
+            },
+            "354": "METOLACHLOR 2-chloro-6'-ethyl-N-(2-methoxyl-1-methylethyl) accetotoluidide.",
+            "355": "VALIDAMYCIN A II-(1, 3, 4/2, 6)-2,3 dihydro xy-6 hydroxymethyl-4(IS, $R, %S, ^S)-4, 5, 6-trihydroxy 3-hydroxymethycyclohex-2-enylamino cyclothexyl-B-D- glucopyranoside.",
+            "356": "HALOXYFOP METHYL Methyl 2-(4-((3-chloro-5-(trifluoromethyl-2-pyridinyl)oxy) phenoxy) Propaonate.",
+            "357": "PIMARICIN (8E, 14E, 16E, 18E, 20E)-(1S, 3R, 5S, 7S, 12R, 24R, 25S, 26R), -22- (3 amino 3-3- dideoxy-B-D-mannopyranosyloxy)-1, 3, 26-trihydroxy-12- methyl-10-oxo-6, 11, 28-trioxatricyclo (22.3.1.05.7) octacosa-8, 14, 16, 18, 20-pentaene-25-car-boxylic acid.",
+            "358": "CYHALOTHRIN (RS)-a-cyano-3-phenoxybenzyl (Z)-(IRS, #RS)-2-choloro-3.3. 3- trifluoropropenyl)-2, 2-domethylcyclopropane-carboxylate.",
+            "359": "CHOLECALCIREROL 9, 10-seocholesta-5, 7, 10 (10)-trein-3 betaol; activate 7- dehydrocholeserol.",
+            "360": "TOLCLOFOS-METHYL O-(2, 6-dichloro-4-methylphenyl) O, O-dimethyl phosphorothioate.",
+            "361": "PIPEROPHOS S-2 methylpoperidincoarbonyl-methyl O, O-dipropyl- phosphorodithioate.",
+            "362": "CHLORPYRIPHOSMETHYL O, O-dimethyl O-3, 5, 6-trichloro-2-pyridylphospho-rothioate.]",
+            "363": "2[1. CYPERMETHRIN (SIR-Cis-and (IUPAC) (S)-alpha-cyano 3- phenoxybenzyl (IR, 3R)-3- RIS-Cis-isomer) (2, 2-dichloririnyl)-2 2 dimethyl cyclopropane Carboxy-",
+            "364": "(ALPHAMETHERIN) late & (r) alpha-cyano-3-phenoxybenzyl (IS, 3S)-3-(2, 2- dichlorovinyl)2, 2-dimethyl cyclopropane carboxylate",
+            "365": "2. BENFURACARD (IUPAC) Ethyl N-(2, 3-dihydro-2, 2-dimethyl benzofuron-7-yl oxyocarbonyl (methyl) aminothio - N-isopropyl B-alaninate",
+            "366": "3. CYPHENOTHRIN (IUPAC) (RS)-O-cyano-3- phenoxybenzyl (IR)-Cis, trans- chrysanthemate",
+            "367": "4. CYFLUTHRIN (IUPAC) Cyano-(4-fluro 3-penoxyphenyl) methyl 3-(2, 2- dichloroethenyl)-2, 2-dimethyl-cyclopropanx carboxylate",
+            "368": "5. DIMETHAZONE (IUPAC) 2-(2-CHLOROPHENYL 4-4 dimethyl-3-isoxazolidi-none)",
+            "369": "6. DIENOCHLOR (IUPAC) Perchloro-1-bicyclopenta-2, 4-dience",
+            "370": "7. EPHOFENPROX 2-(4-ethroxyphenyl)-2-methylpropyl-3-phenoxybenzyl ether",
+            "371": "8. FLOCOUMAFEN 4-hydroxy-3-(1, 2, 3, 4, -tetrahydro-3-(4-4 trifluromethyl benzyloxy)- phenyl)-1-napthy) coumarin) mixture of Cis & transisomers",
+            "372": "9. FENARIMOL (IUPAC) (+)-2,4-dichloro-a-(Pyrimidin-5yl) benzhydryl alcohol",
+            "373": "10. FLUROXYPYR (IUPAC) 4-amino-3, 5-dichloro-6-fluro-2-phyridyloxy acetic acid",
+            "374": "11. FLUFENOXURON 1-(4-2-chloro-4-2chloro-4-(trifluoromethly) phenoxy -2fluorophenyl) 3- (2-6-difluorobenzoyl) urea",
+            "375": "12. FOLPET (IUPAC) N-(trichloromethylthio) phthalimide",
+            "376": "13. CLOPYRALID (IUPAC) 3, 6-dichloropyridine-2-carboxyclic acid",
+            "377": "14. MYGLOBUTANIL (IUPAC) 2-P-Chlorophenyl 2-(1H-1, 2, 4-triazol-1-yl-methyl)-0- dimethyl ) hoxaneritriale",
+            "378": "15. METHEDATHION S-2, 3-dithydro-5-methoxy-2-oxo-1, 3, 4-thiadizol-3-yl-methyl 0-0 dimethyl phosphorodithioate",
+            "379": "16. OXADIXYL (IUPAC) 2- methoxy-N-(2-oxo-1, 3- oxazolidin-3yl) acet-2, 6-xylidide",
+            "380": "17. PENCONAZOLE (IUPAC) 1-(2, 4-dichloro-B-propylphenethyl)-1 H-1, 2, 4,-triazole",
+            "381": "18. PRETILACHLOR (IUPAC) 2-chloro-2, 6-diethyl-N(2-propoxyethyl) acetanilide",
+            "382": "19. PRALLETHRIN RS-2-methyl-3-(2-propynyl) 4-oxocyclopen-2-enyl (IR)- Cis, trans- chly-santhemal",
+            "383": "20. PYRIDATE (IUPAC) 6- chloro-3-phenyl pyridazin-4yl S-octv thiocarbonate",
+            "384": "21. PYROOUILON",
+            "385": "22. PYRIDAPHENTHION",
+            "386": "23. SULPROFOS",
+            "387": "24. SEBUPHOS",
+            "388": "25. THRIADIMENOL",
+            "389": "26. TRICYCLAZOLE",
+            "390": "27. TRIDIPHANE",
+            "391": "1[Ammonium Copper Sulphate Ammonium Copper Sulphate.",
+            "392": "Benalaxyl Methyl-N-phenyl acety-N-2, 6-xylyl DL-alaninate.",
+            "393": "Bensulfuronmethyl Methyl-2-(((4, 6-dimethoxy-pyrimidin-2 yl) amino) Carbonyl) amino)- sulphonyl)-methyl)benzoate. Bifenthrin (z)-IR)-cis (3)-IS)-cis 2- methylbiphenyl-3-yhmethyl (z)-(IRS, 3(RS)-2-(2-chloro-3, 3, trifluoroprop-1-enyl)-2, 2-dimethyl cycle propanecarboxylate 2-tert- butylimino-3-isoprophyl-5-phenyl-1, 3, 5-thiadiazinon-4-one.",
+            "394": "Chlorfluazuron N(4-(3-chloro-5triflup-remethyl-2-pyridyloxy)-3. 5-",
+            "395": "Dichloroph only)-N-(2,6-difluorebenzoyl) area",
+            "396": "Chloromuron ethyl Ethyl 2 ((((4-chloro-6methoxy pyrimidin-2yl) amino)-carbonyl amino) sulphonyl) benzoate.",
+            "397": "Chlorsulfuron 1-(2-chloropheynl sulphonyl)-3-(4-methoxy-6methyl-1,3, 5-trinzin-2- yl)-urea.",
+            "398": "Cinmothylin exe-1-methy 1-4-(1-methylethyl)-2 ((2- methyl phenyl)-methoxy)- oxabicycle-2(2.2.1) heptane.",
+            "399": "Cinosulfuron (-)",
+            "400": "Cycloxydim (1)-2(1-(cthoxyminio) butyl-3-hydroxy-5-thain-3-ylocyclohexenone",
+            "401": "Cymoxanil 1-(2-cyano-2-methoxy-iminoacetyl)-3-ethyl urea",
+            "402": "Cyproconazole 2-(4-chlorophenyl)-3-cyclopropyl-1-(1-11-1.2, 4-triazol-lyl)",
+            "403": "Cyromazine 2-cylorpropyl amino-4, 6-diamino-5- triazine, or N-cyclo-propyl-1-3, 5- triazine-2, 4, 6,-triamine.",
+            "404": "Dazomet 3, 5-dimethyl-1, 3, 5-thiadiazinane-2-thione or Tetrahydro 3, 5- dimethyl-1, 3, 5-thiazine-2-thione.",
+            "405": "Desmetryn N2-1 sopropyl-N-4 methyl-6-methylthio-1, 3, 5-triazine-2, 4-diamine or 2-isopropylamino-4-",
+            "406": "methylamino-6-Methylthio-1, 3, 5-triazine.",
+            "407": "Diafenthiurion 3-(2, 6-disopropyl-4 phenoxy phenyl)-1-tert, butyl thiouroa.",
+            "408": "Defenfenican 2, 4' difluro-2 \u00b5, \u00b5, \u00b5-trifuluorom-tolyloxy)-nicatina-nilide",
+            "409": "Difenoconazole 3-chloro-4-(4-methyl-2(1H-1, 2, 4-triazol-l-ylmethyl)-1, 3-dioxolan-2- yl) phenyl-4-chlorophenyl ether.",
+            "410": "Dimethachlor 2- chlore-N-(2-methoxyethyl) acet 2'-6'-xylidide.",
+            "411": "Dimethomorph (E, Z) (3-chlorophenyl)3-(3, 4-dimethoxy phenyl)-1-oxo-2- propenyl) morpholine.",
+            "412": "Dipropetryn 6-ethylthio-N2, N1-di isopropyl-1 : 3, 5-triazine-2, 4- diamine, or ethythio-4, 6-bis (isoprophylamino)-1, 3, 5-triazine.",
+            "413": "Diquat & its salts 9, 10-dilhydro-8a, 10a-diazonimphenan-threne. Or 9, 10-dihydro-8a, 10a-diazoniaphenanthrene ion.",
+            "414": "Ethalfluralin N-ethyl\u00b5, \u00b5, \u00b5trifluro-N-(2-methyl allyl)-2, 6-dinitro-p-toluidine",
+            "415": "Esfenvalcrate (S)\u00b5-cyano-3-phenoxybenzyl (S)-2-(4-chlorophenyl)-3-methyl butyrate.",
+            "416": {
+                "text": "Fenoxaprop -p-ethyl (D) +- ethyl-2-(4-(6-chloro-2-benzoxazol yloxy) phenoxy) Propanoate.",
+                "contains": {
+                    "0": "Fenpiclonil"
+                }
+            },
+            "417": "Fenmetralin N-(2-chloro-6-fluorobenzyl)-N-ethyl\u00b5, \u00b5, \u00b5-trifluore-2, 6-dintiro-P- toludine.",
+            "418": "Fluometuron 1, 1-dimethyl-3\u00b5, \u00b5, \u00b5triafluoro-m-tolyl)urea.",
+            "419": "Flutriafol (RS)-2, 4-difluoro-\u00b5, IH-1, 2 triazol-l-yl-methyl) benzhydryl alchol.",
+            "420": "Furathicourb Butyl 2, 3-dihydro-2, 2-dimethyl benzofuran-7-yl-N, N'- dimethyl-N, N'-thiodicarbamate.",
+            "421": "Fusilazol 1-((Bis)4-fluorophenyl) methyl sily) methysilyl) methyl. H-1, 2, 4, trizol",
+            "422": {
+                "text": "Glufosinate and its salts 4-hydroxy (methyl) phosphinoyl)-DL-homoalanine or DL-homoalanin- 4-yl (methyl) phosphinic acid.",
+                "contains": {
+                    "0": "Haloxyfop-ethoxyethyl"
+                }
+            },
+            "423": "Hexaconazole 1-((Bis)4-fluorophenyl) methyl sily) methysilyl) methyl. H-1, 2, 4, trizol",
+            "424": {
+                "text": "Glufosinate and its salts 4-hydroxy (methyl) phosphinoyl)-DL-homoalanine or DL-homoalanin- 4-yl (methyl) phosphinic acid.",
+                "contains": {
+                    "0": "Haloxyfop-ethoxyethyl"
+                }
+            },
+            "425": "Hexaconazole (RS)-2 (2-, 4- dichlorophenyl)-1- (1H-1, (2, 4- triazol-l-yl) hexan-2-ol.",
+            "426": "Hexafumuron N-(((3, 5-dichloro-4-(1, 1, 2, 2-tetrafluoroethxoy) phenyl) amino- carbonyl)-2, 6-difluorobenzamide.",
+            "427": "Hexazinone 3-cyclothexyl-6-dimethyl amino-1-methyl-1, 3, 5-triazine-2, 4-(1H, 3H) dione.",
+            "428": "Imazapyr & its salts (Arsenal) 2(4-Isopropyl-4 methyl-5-Oxo-2-imidazolin 2-yl) nicotinic acid.",
+            "429": "Imazethapyr & its salts (RS)-5- ethyl-2-(4-isopropyl-4-methyl-5-oxo-2imidazolin-2yl nicotinic acid.",
+            "430": "Iprodicone 3-(3, 5-dichlorophenyl)-N-Isopropyl-2, 4-dioxomidazolidine-1- carboxamide.",
+            "431": "Isazofos 0-5-chloro-1-Isoropyl-1, H-1, 2, 4-triazol-3-yl-0, O-diethyl phas phoro thioate.",
+            "432": "Metsulfovax 2, 4-dimethyl-N-phenyl-5-thiazolecarboxamide.",
+            "433": "Matsulfuron 2-3-(4-methoxy-6-methyl-1, 3, 5-triazin-2yl) ureidosulphony benzoic acid.",
+            "434": "Neem Products Neem leaves, Neem oil, Neem seed kernel, Neem cake.",
+            "435": "Oxamyl N, N-dimethyl-2-methyl carbamoyl oxyimine-2- methylthio) ace tamide.",
+            "436": "Profenofos O-4-brome-2-chloro-phenyl-O-ethyl S- propyl phosphorothiacate.",
+            "437": "Propiconazole (=)1-[2-(2, 4- dichlorophenyl)-4-propyl-1, 3-dioxolan-2nd methyl]-1H- 1, 2, 4-triazole.",
+            "438": "Prothoate O, O-diethyl S-isopropylcarbamodyl methyl phosphoro dithoate",
+            "439": "Pyraclofos (RS)-[0-1-(4-chloro phenyl)-Pyrazol-4yl O-ethyl S-propyl Phosphoro thioate)]",
+            "440": "Pyrozosulfuran and",
+            "441": "Pyrozosulfuran ethyl Ethyl 5-(3-(4 dimethoxy permidin-2-yl-carbamoyl sulpho-Moyl)-1- methyl-pyrazol-4-carboxylate.",
+            "442": "Quinclorac 3, 7-dichloro-8-chinolin-carbonic acid",
+            "443": "or",
+            "444": "3, 7-dichloro-8-quinoline carboxylic acid.",
+            "445": "Quizalofop and its salts (RS)-2-(6-chloroquinoxalin-2-yloxy) phenyoxy pro-Pionic acid",
+            "446": "Sulfometuron 2-[3-(4, 6-dimethyl pyrimidin-2-yl) ureidosulphonyl] Benzoic acid",
+            "447": "Tebuthiuron 1-(5-Tert-bury-1, 3, 4-thiadiazol-2-yl)-1, 3-dimethyl urea.",
+            "448": "Tuflubenzuron 1-(3, 5-dichlore-2, 4-difluorophenyl)-3-(2, 6-difluoro-Benzonyl) urea",
+            "449": "Terbuthylazine N2-tert-buryl-6-chloro-N4-ethyl 1, 3, 5-triazine-2, 4-diamine",
+            "450": "or",
+            "451": "2-tert, butylamino-4-chloro-6- ethylamino-1, 3, 5-triazine",
+            "452": "Tralkoxydim 2-(1-(ethoxyimino) propyl-3-hydroxy-5-(2, 4, 6-trimetic Phenyl cyclohex-2-enone.",
+            "453": "Triasulfuron 3-(6-methoxy-4-methl-1, 3, 5-triazin-2-yl)-1-[2-(2-chloro-Thoxy)- phenyl sulphonyl-urea.",
+            "454": "Triclopyr 3, 5, 6-trichloro-2-pyridyloxyacetic acid.",
+            "455": "Thiodicarb 3, 7, 9, 13-tetramethyl-5, 11-dioxa-2, 8, 14-trithia-4, 7, 9-12-terra- azapentadeca-3, 12-diene-6, 10-dione.",
+            "456": "Tribenuron-methyl (proposed) Methyl-2-((([N-(4-methoxy-6-mety-1, 3, 5-triazin-2-yl)-N- Methyl- amino] - carbonyl) amino-sulphonyl) benzoate.",
+            "457": "(--) Methyl 2-(4-ethoxy-6-methylamino-1amino-1, 3, 5-2yl)-carbamoyl sulphanoyl - benzoate.",
+            "458": "(--) Methyl 3-((((N-(4-methoxy-6-methyl-1, 3-5-triazin-2-yl) amino) carbonyl) amino) sulphonyl) - 2-thiophene forboxylate.]",
+            "459": "1[1. Allethrin Allethrin and itsStereo isomers.",
+            "460": "2. Bacillus thuringiensis Bacillus species.",
+            "461": "3. Fluvalinate Tau Fluvalinate.]",
+            "462": "1[1. Blasticidin 'S' 1-(4-amino-1, 2-dihydo-2-oxopyrimidin-1-yl)-4-((S-3- amino-5-(1- methylguanidiono) Valermido)-1, 2, 3, 4- tetradeoxy-D-erthro-hex-2- enopyranuronic acid.",
+            "463": "2. Defethialone ((Bromo-4'-beneyl-1-1')-yl-4) 3-tetrahydo-1, 2, 3, 4-naph thyl-1) 3- hydroxy-4, 2H-1 benzo-thiopyranone-2.",
+            "464": "3. Imazalil-MAGNATE Allyl 1-(2-4-dichlorophenyl)-2-imidazol-1-ylethyl ether.",
+            "465": "4. Naproanilide (2-(2-naphthyloxy) propionanilide",
+            "466": "5. Phenothiol S-ethyl (4-chloro-o-tolyloxy) thicacetate.",
+            "467": "6. Terbufos S-(((1, 1-dimethylethyl)thio) methyl)-O, 0-diethyl pho- sphorodithicate.",
+            "468": "or",
+            "469": "S-tert-butyl thiomethyl-0, 0- diethyl Phosphorodithioate.",
+            "470": "7. Butocarboxim 3-(methyl thio)-0-((methyl amino) carbonyl) oxime-2 butanone.",
+            "471": "8. Imidacloprid 1-(6-Chloro-3-pyridinyl)-methyl)-N-nitroimidazolidin- 2-ylideneamine.",
+            "472": "9. Piroxofop Propinyl 2-Propynyl(R)-2-(4-(5-chloro-3-fluoro-2-pyridinyloxy)- phenoxy)- propionate.]",
+            "473": "1[AMIDOSULFURON (3-4, 6 dim thoxypyrimidia 2-yl)-1-(N-methyl-N-methyl-suplhonyl- aminos-sulphonyl) urea.",
+            "474": "BROMUCONAZOLE 1(4-bromo 2-(2, 4-dichlorophenyl) tetrohydro-2-furanyl) methyl)-1H-1, 2, 4-triazole",
+            "475": "CLOFENTEZINE 3, 6-bis (2-chlorophynyl)-1, 2, 4, 5-tetrazine",
+            "476": "DIFENZOQUAT METHYL",
+            "477": "SULPHATE 1, 2-dimethyl 3, 5-diphenyl-pyrazolium-methyl sulphate",
+            "478": {
+                "text": "FIPRONIL \u2021 -5-amino-1-(2, 6 dichloro-a, a, a-triflup-tolyl)-4-trifluro-methyl sulfinyl pyra-orezole Carbonitrile tetra-zine.",
+                "contains": {
+                    "0": "LACTOFEN 1"
+                }
+            },
+            "479": "PROPOOMOCARB",
+            "480": "HYDROCHLORIDE Propyl 3-(dimethylamine) Propylcarbomate hydro- chloride.",
+            "481": "SILAFLUOFEN (4-Ethoxyphenyl) (3-(4-fluoro-3-phenoxy-phenyl)-propyl)-(dimethyl)- silance.]",
+            "482": "2[Pinoxaden 2, 2-dimethyl-propanoid acid 8-(2, 6-diethyl 4-methyl phenyl)-9-oxo-1, 2, 4, 5-tetrahydro-9H-Pyrazole [1, 2-d] [1, 4, 5] oxadiazepine-7-yl este",
+            "483": "Dinotefuran (RS)-1-methyl-2-nitro-3-(tetrahydro-3-furylmethyl) guanidine",
+            "484": "Triptericium of wilferdii Hook Glycosides having Triptolide, Tripdiolide and Tripterolide",
+            "485": "Glycosides having Triptolide, Mixture of (10E, 14E, 16E, 22Z)-(IR, 4S, 5'S, 6R, 6'R, 8R, 12R, 13S, Tripdiolide and Tripterolide 20R, 21 R, 24S), -21, 24-dihydroxy-5', 6' , 11, 13, 22-pentamethyl-12- [(2Z)-2methoxyimino-2-phenylacetoxy]-5', 6', 11, 13, 22-pentamethyl- Lepimectin (E-237) 3, 7, 19-trioxatetracyclo [15.6.1.14'8.020,24] pentacosa-10, 14, 16, 22- tetraene-6-spiro-2-tetrahydro-pyran-2-one (E-241) and (10E, 14E, 16E, 22Z)-(IR, 4S, 5'S, 6R, 6'R, 8R, 12R, 13S, 20R, 21 R, 24S), -6'-ethyl-21, 24-dihydroxy-12-[(2Z)-2 ' methoxyimino-2-phenylacetoxy]-5', 11, 13, 22-tetramethyl-3, 7, 19-trioxatetracyclo [15.6.1. 14,8.020,24] pentacosa-10, 14, 16, 22-tetraene-6-spiro-2'-tetrahydro-pyran-2-one (E- 909) in the ratio of \u00a320 to \u00b380",
+            "486": "Ethiprole (+)-5-amino-1-(2, 6-dichloro-alpha, alpha, alpha, trifluoro-p-tolyl)-4- ethyl-sulfmyl pyrazole-3-carbonitrile",
+            "487": "Mycothecirem Verrucaria",
+            "488": "Tetraconazole (RS)-2-(2, 4-dichlorophenyl)-3-(1H, 1, 2-4-triazole-l-yl) propyl 1,1,2, 2-tetrafluoroethyl ether",
+            "489": "Hydramethylnon 5, 5-dimethyl-perhydro pyrimidin-2-one-4-trifluoromethyl = a-(4- trifluoromethyl styryl) cinnamyliderehydrazone",
+            "490": "Bitterbarkomycin (Plant extract of Apocynum venetum) 1a, 2a, diacetoxyl-8A, 15 dissobutyl acyloxy!-9a-benzyloxy-4A; 6A dihydroxy-A- dihydrolignaloefuran",
+            "491": "Benalaxyl-M Methyl-N(Phenylacetyl)-N-(2, 6-xylyl-D-alaninate",
+            "492": "Sulfuryl Fluoride",
+            "493": "Thifensulfuron-methyl 3-(4-methoxy-6-methyl-1 , 3, 5-triazin-2-yl carbamoyisuifamoyi) = thiophen-2-caiboxylic acid",
+            "494": "NicosulfuronN 2-(4, 6, -dimethoxy pyrimidin-2-yl carbamoyl sulfamoyl)-N, N- dimethyl = nicotinamide-(4, 6, -dimethoxy pyrimidin-2-yl)-3-(3- dimethylcarbamoyl-2-pyridyl = sulfonyl) urea",
+            "495": "Rotenone (2R, 6as, 12as)-1,2 ,6 6a,, 12, 12a-hexahydro-2-isopropenyl-8, 9- dimethoxychromeno [3, 4-b] furo [2, 3-h] chromen-6-one",
+            "496": "Diflyufenican 2', 4'-difluoro-2-(a, a, a-trifluoro-m-tolyloxy) nicotinanilide",
+            "497": "Photorhabdus",
+            "498": "luminescences akhurustii",
+            "499": "Strain K-l",
+            "500": "Serratia marcescens GPS 5 (Bacteria)",
+            "501": "Squamocin Seed extract of Plant 'Annona squamosa Linn' (Custard apple)",
+            "502": "1[Flonicamid N-cyanomethyl-4- (trifluoromethyl) nicotinamide",
+            "503": "Fluazifop-p-butyl Butyl(R)-2-{4-[5-(trifluoromethyl)- 2-pyridyloxy]phenoxy}propionate",
+            "504": "Flazasulfuron 1-(4,6-dimethoxypyrimidin-2-yl)- 3-(3-trifluoromethyl-2- pyridylsulfonyl)urea",
+            "505": "Cyazofamid 4-chloro-2-cyano-N,N-dimethyl- 5-p-olylimidazole-sulfonamide",
+            "506": "Fluazinam 3-chloro-N-(3-chloro-5-trifluoromethyl- 2-pyridyl)-a,a,a-trifluoro-2,6- dinitro-p-toluidine",
+            "507": "Boscalid 2-chloro-N-(4-chloro-biphenyl-2-yl)nicotinamide",
+            "508": "1-MCP 1-Methylcyclopropene",
+            "509": "Propoxycarbazone- sodium 2-[(4-methyl-5 -oxo-3 -propoxy-4,5 -dihydro-[1,2,4,]triazole-carbonyl)- sulfamoyl]- benzoicacid methylester, sodium salt",
+            "510": "Isoxaflutole 2-[(4-methyl-5 -oxo-3 -propoxy-4,5 -dihydro-[1,2,4,]triazole-carbonyl)- sulfamoyl]- benzoicacid methylester, sodium salt",
+            "511": "Isoxaflutole 5-cyclopropyl-4-(methanesuphonyl- 4-trifluoro-methylbenzzoyl)- isoxazole",
+            "512": "Fluopicolide 2,6-dichloro-N-[3-chloro-5- (trifluoromethyl)-2- pyridylmethyl]benzamide",
+            "513": "Aclonifen 2-chloro-6-nitro-3-phenoxyaniline",
+            "514": "Azimsulfuron 1-(4, 6-dimethoxyprimidin-2-yl)-3-[1-methyl-4- (2-methyl-2H- tetrazole-5-yl)pyrazol-5-ylsulfonyl]urea",
+            "515": "Zoxamide (RS)-3, 5-dicloro-N-(3-chloro-1-ethyl- 1-methyl-2-oxopropyl)-p- toluamide",
+            "516": "Tribenuron methyl 2-[4-methoxy-6-methyl-1,3,5-triazin- 2-yl(methyl)carbamoyl- sulfamoyl]benzoic acid.",
+            "517": "Thifensulfuron methyl Methyl-3-(4-methoxy-6-methyl-1, 3,5-triazin-2-ylcarbamoyl sulfamoyl)thiophene-2-carboxylate",
+            "518": "Prothiofos O-2,4-dichlorophenyl-O-ethyl S-propyl phosphorodithioate",
+            "519": "Penoxsulam 2-(2, 2-difluoroethoxy)-N-(5,8-dimethoxy[1,2,4]triazolo[ 1,5- c]pyrimidin-2-yl)-6-(trifluoromethyl)benzenesulfonamide",
+            "520": "Omethoate O,O-dimethyl S-methylcarba- moylmethyl phosphorodithioate",
+            "521": "Piriformospora indica a plant root colonizing basidiomycete fungus",
+            "522": "Mepiquat Pentaborate N,N dimethylpiperidinium pentaborate",
+            "523": "Sulcotrione 2-[2-chloro-4-(methylsulfonyl) benzoyl]-1,3-cyclohexanedione",
+            "524": "Flumorph 4-[3-(3,4-dimelthoxyphenyl)-3- (4-fluorophenyl)acryloyl] morpholine 1H-1,2,4-triazole-1-ethanole",
+            "525": "SYP 1620 N-methyl 2-[2-((((4-(2,6 dichloro-phenyl)-3- butenylidene-2- yl)amino)oxy)methyl)- phenyl]-2-methoxyiminoacetamide",
+            "526": "Metominostrobin (E)-2-methoxyimino-N-methyl-2- (2-phenoxyphenyl)acetamide",
+            "527": "Empenthrin (E)-(RS)-ethynyl-2-methylpent-2-enyl(1R;3RS;1R, 3SR)2,2-dimethyl- 3-(2methyl=prop- 1-enylcyclopropanecarboxylate)",
+            "528": "Pyridaben 2-tert-butyl-5-(4-tert-butylbenzylthio)- 4-chloropyridazin-3(2H)-one]",
+            "529": "1[Chromafenozide 2' tert-butyl-5'-methyl-2'-(3,5-xyloyl)chroman-6-carbohydrazide",
+            "530": "Orthosulfamuron 1-(4,6-dimethoxypyrimidin-2-yl)-3-[2-(dimethylcarbamoyl)phenyl sulfamoyl] urea",
+            "531": "6-Benzylaminopurine N-phyenylmethyl-1 H-purin-6- amine (6-benzylaminopurine)",
+            "532": "Hexamethyldisilazane Hexamethyldisilazane, reaction product with silica (CAS)",
+            "533": "Kresoxim-Methyl Methyl(E)-methoxyimino-[2-(O-tolyloxymethyl)phenyl] acetate",
+            "534": "Spirotetramat Carbonic acid 3-(2,5-dimethyl- phenyl) -8 -methoxy-2-oxo-1 -aza- spiro[4.5]dec-3-en-4-yl ester ethyl ester",
+            "535": "Mandipropamid 2-(4-chloro-phenyl)-N-[2-(3-methoxy-4-pro-2-ynyloxy-phenylo- ethyl]- 2-prop-2-ynyloxy-acetamide",
+            "536": "Chlorantraniliprole 3-Bromo-N-[4-chloro-2-methyl-6- (methyJcarbamoyl) phenyl] -1-(3- chloropyridin-2-yl)-1 H-pyrazole-5-carboxamide",
+            "537": "Prodiamine 5-dipropylamino-a,a,a-trifluoro- 4,6 dinitro-O-toluidine; 2,6-dinitro- Nl,Nl-dipropyl-4 trifluoromethyl-m-Phenylenediamine",
+            "538": "Fomesafen 5-[2-chloro-4-(trufluoromethyl) Phenoxy]-N-(methylsulfonyl)-2- nitrobenzene)",
+            "539": "Topramezone 3-(4,5-dihydro-isoxazol-3-yl)-4-methanesulfonyl-2-methylphenyl)-(5- hydroxyl-1 -methyl-1H-pyrazol-4-yl)methanone",
+            "540": "Pyribenzoxim Dipheny Imethanone 0-[2,6-bis[(4,6-dimethoxy-2- pyrimidinyl)oxy]benzoyl]oxime(CAS)",
+            "541": "n-Heneicosane CH3._CH2_CH2_C18H37",
+            "542": "Formetanate hydrochloride 3-dimethylaminomethylene aminophenyl methylcarbamate hydrochloride]",
+            "543": "2[Flundone l-methyl-3-phenyl-5-(oc, oc, oc-tnfluoro m-tolyl)-4-pyridone",
+            "544": "Tebuthiuron 1 -(5-tert-butyl-1,3,4-thiadiazol-2-yl)-1, 3-dimethylurea",
+            "545": "Trinexapac- Ethyl 4-cyclopropyl (hydroxyl) methylene-",
+            "546": "Ethyl 3,5-dioxocyclohexane carboxylate",
+            "547": "Thidiazuron l-phenyl-3-(l, 2,3-thiadiazol-5-yl) urea",
+            "548": "Isoxathion 0,0-diethyl 0-5-phenyl isoxazol-3-yl phosphororhioate",
+            "549": "Eucalyptus Containing 1,8 cineole (eucalyptol)\" leaf extract]",
+            "550": "1[Pethoxamid 2-chloro-N-(2-ethoxyethyl)-N-(2-methyl-1-phenylprop-1-enyl) acetamide",
+            "551": "Penthiopyrad (RS)-N-[{2-1, 3-Dimethylbutyl)-3-thienyl]-1-methyl-3- (trifluoromethyl)",
+            "552": "Imazamethabenz-methyl Mixture of (+/-)-6-(4-Isopropyle-4-Methyl-5-oxo-2-Imidazolin-2-yl)-m- Toluate and Methyl (+/-)-2-(4-Isopropyle-4-methyl-5-oxo-2- Imidazoldin-2-yl)-p-Toluate",
+            "553": "Aminocyclopyrachlore 6-Amino-5-chloro-2-Cyclopropyl-Pyrimidine-4-Carboxylic acid, Methyl Ester",
+            "554": "Gamma Cyhalothrin (s) a-cyano-3-phenoxybenzyl (Z)-(IR, 3R)-3-(2-Choloro-3, 3, 3- trifuloroprop-1-enyl-=2, 2-dimethylcyclopropanecarboxylate",
+            "555": "Cyflumetofen 2-methoxyethyl (RS)-2-(4 tert butyly phenyl)-2-Cyano-3-Oxo-3-(a, a, a trifluro-o-tolyl) propionate",
+            "556": "Cyantraniliprole 1H-pyrnzole-5-Carboxamid 3-brome-1-(3-Chloro-2 pyridinyl)-n-[4- cyano-2-methyl-6-(methyl amino carbonyl)] phenyl (9CL)",
+            "557": "Ametoctradin 5-ethyl-6-octyl [1, 2, 4] triazolo [1, 5-a] pyrimidin-7-amine",
+            "558": "Picoxystrobin Methyl (E) 3-methoxy 2-{2-[6-(trifluoromethyl)-2-pyridloxymethyl] phenyl} acrylate",
+            "559": "Metralenone 3'-bromo-2, 3, 4, 6'-tetramethoxy-2', 6-dimethyl benzophenone]",
+            "560": "2[Pyroxulam N- (5, 7-dimethoxy [1, 2 ,4] triazolo [1, 5-a] pyrimidin-2-yl) 2- methoxy-4- (trifluoromethyl) Pyridine-3-Sulfonamide",
+            "561": "Propisochlor 2 chloro-6' -ethyl-N-isopropoxymethylaceto-toluidide",
+            "562": "Orysastrobin (2 E)-2-(methoxyimino)-2 {2-[3E, 5E, 6E)-5-(methoxymino)-4, 6- dimethyl-2, 8-dioxa-3, 7-diazanona-3, 6-dien-l-yl]-phenyl}-N-methyl acetamide",
+            "563": "Sulfoxaflor [1 -[6- (trifluoromethyl) pyridine- 3yl] ethyl] methyl(oxido)-?4- SuIfanylidene cyanamide",
+            "564": "Siduron 1 (2-methylcylohexyl)- 3 -phenyl urea",
+            "565": "Spinetoram Major component 3'ethoxy 5, 6-dihydro spinosynJ-minor component 3' ethoxy spinosynL",
+            "566": "Diamuron 1-(1-methyl-1-phenyl ethyl)-3-p-tolyl urea",
+            "567": "Simetryn N2, N4-diethyl-6-methylthio-1, 3, 5-triazine-2, 4-diamine.]",
+            "568": "1[Theta-Cybermethrin 1a(S*),3\u00df]-(\u00f1)-cyano(3-phenoxyphenyl)methyl3-(2,2-dichloroethenyl)- 2,2- dimethylcyclopropanecarboxylate",
+            "569": {
+                "text": "Pyroxasulfone 3-[(5-difluromethoxy)-1-methyl-3(trifluromethyl)pyrazol-4- ylmethylsulfonyl]",
+                "contains": {
+                    "0": "-4,5-dihydro-5,5-dimethyl-1,2-oxazole."
+                }
+            },
+            "570": "Pyrifluquinazon 1-acetyl-1,2,3,4-tetahydro-3-[(3-pyridylmethyl)amino]-6-[1,2,2,2- tetrafluoro -1- (trifluoomethyl)ethyl]quinazolin-2-one.",
+            "571": "Cyenopyrafen (E)-2-(4-tert-butylphenyl)-2-cyano-1-(1,3,4-trimethylpyrazol-5-yl)vinyl 2,2-dimethylpropionate.",
+            "572": "Prohexadione Calcium Calcium 3-oxido-5-oxo-4-propionylcyclohex-3-enecarboxylate.",
+            "573": "Saflufenacil (N'-[2-chloro-4-fluoro-5-(3-methyl-2,6-dioxo-4-(trifluoromethyl)3,6- dihydro -1(2H)-pyrimidinyl)benzyl]-N-methylsulfamide).",
+            "574": "Fluxapyroxad 3-9difluoromethyl)-1-methyl-N-(3',4',5'-trifluorobiphenyl-2-yl) Pyrazole-4-carboxamide.",
+            "575": "Etoxazole (RS)-5-tert-butyl-2{2-(2,6-difluorophenyl)-4,5-dihydro-1,3-oxazol-4- ylphenetole.",
+            "576": "Bistrifluron 1-[2-chloro-3,5-bis(trifluoromethyl)phenyl]-3-(2,6- difluiorobenzoyl)urea.",
+            "577": "Flupyradifurone 4-[(6-chloro-3-pyridylmethyl)2,2-difluoroethyl)amino]furan-2(5H)-one.",
+            "578": "Beflubutamid (RS)-N-benzyl-2-(a,a,a,4-tetrafluoro-m-tolyloxy)butyramide.",
+            "579": "Flutolanil a,a,a, -trifluoro-3'-isopropoxy-o-tolunanilide.",
+            "580": "itenpyram (E)-N-(6-chloro-3-pyridylmethyl)-N-ethyl-N'-methyl-2-nitrovinylidene diamine.",
+            "581": "Pyriftalid (RS)-7-(4,6-dimethoxypyrimidin-2-ylthio)-3-methyl-2-benzofuran- 1(3H)-one]",
+            "582": "2[Metazosulfuron 1-3-chloro-1-methyl-4-[(5RS)-5,6-dihydro-5-methyl-1,4,2-dioxazin-3- yl] Pyrazol-5-ylsulfonyl}-3-(4,6-dimethoxypyrimidin-2-yl)urea",
+            "583": "Spearmint (Mentha spicata) Spearmint Extract Oil containing L-carvon, Limonin and Pines",
+            "584": "Quinmerac 7-Chloro-3 Methyl Quinoninle-8-Carboxylic Acid",
+            "585": "Bispyribac Acid 2,6-[Bis(4,6-Dimethoxy-2-pyriminyle) Oxy] Benzoic Acid",
+            "586": "Triflumezopyrine 3,4-Dihydro-2,4-Dioxo-1-(Pyrimidin-5-Ylmethyl)-3- (Alpha,Alpha,Alpha-Trifluoro-m-Tolyl)-2H-Pyrido(1,2-a) Pyrimidin-1- ium-3-ide",
+            "587": "Renofluthrin 2,3,5,6-tetrafluoro-4-(ymethoxmethyl)benzyl-3-(2,2-dichlorovinyl)-2,2- dimethylcyclopropanecarboxylate",
+            "588": "Benzobicyclon 3-(2-chloro-4mesylbenzoyl)-2-phenylthiobicyclo [3.2.1] oct-2-en-4-one",
+            "589": "Dimethyl disulphide (DMDS) Dimethyl Disulphide",
+            "590": "N-acetylthiazolidine-4- N-acetylthiazolidine-4-carboxylic acid (natca)] carboxylic acid (natca)",
+            "591": "1[Ipfencarbazone 1-(2, 4-Dichorophenyl)-N-(2, 4-difluorophenyl)-1, 5-dihydro-N-(1- methyethyl)-5-oxo-4H-1, 2, 4-tiazole-4-carbxoamide",
+            "592": "Fluthiacetmethyl Methyl [2-chloro-4-fluoro-5-(5, 6, 7, 8-tetrahydro-3-oxo-1H,3H [1, 3, 4] thiadiazdeolo [3, 4-a] pyrifazin-1-ylideneamino] phenythio ] acetate",
+            "593": "Afidopyropen [(3S, 4R, 4aR, 6S, 6aS, 12R, 12aS, 12bS)-3-(cyclopropylcarbonyloxy)- 1, 2, 3, 4, 4a, 5, 6, 6a, 12a, 12b-decahydro-6, 12-dihydroxy-4, 6a, 12b- trimethyl-11-oxo-9-(3-pyridyl)-11H, 12H-benzo[f]pyrano[4, 3-b] chromen-4-yl] methyl cyclopropanecarboxylate",
+            "594": "Isopyrazam 3-(difluoromethyl)-1 -methyl-N-[1, 2, 3, 4-tetrahydro-9-(1 methylethyl)-1, 4-methanonaphthalen-5-yl]-1H-pyrazole-4- carboxamide",
+            "595": "Sedaxane Mixture of 2 cis-isomers 2'-[(1RS, 2RS)-1, 1'-bicycloprop-2-yl]-3- (difluoromethyl)-1-methylpyrazole2'-[(1RS, 2SR)-1, 1'-bicycloprop-2- 1]-3-(Difluoromethyl)-1-methylpyrazole-4-carboxanilide",
+            "596": "Solatenol N-[(1RS, 4SR)-9-(Dichloromethylidene)-1, 2, 3, 4-tetrahydro-1, 4- methanonaphthalen-5-yl]-3-(difluoromethyl)-1-methyl-1H-pyrazole-4- carboxamide",
+            "597": "Fosthiazate O-ethyl S-(1-methylpropyl)(2-oxo-3-thiazolidinyl) Phosphonothioate",
+            "598": "Halauxifenmethyl 2-pyridinecarboxylic acid, 4-amino-3-chloro-2-fluoro-3- methoxyphenyl), methyl ester",
+            "599": "Matrine (7aS, 13aR, 13bR, 13cS)-dodecahydro-1H,5H, 10-H Dipyrido[2, 1- f:3'.2', 1'-j][1, 6]naphthyridin-10-one",
+            "600": "2-phenylphenol Poly-D- Biphenyl-2-ol Poly-(1, 4)-2-amino-2-deoxy-B-D-Glucan glucosamine",
+            "601": "Polyoxin (Polyoxin-B, 5-(2-amino-5-O-carbamoyl-2-deoxy-L-xylonamido)-1,(5- dideoxy-1-(1, Polyoxin-D, Polyoxin-AL) 2, 3, 4-tetrahydro-5-hydroxymethyl-2, 4-dioxopyrimidin-1-yl-B-D- allofuranuronic acid)",
+            "602": "Polyoxorim 5-(2-amino-5-O-carbamoyl-2-deoxy-L-xylonamido)-1-(5- carboxy-1, 2, 3, 4-tetrahydro-2, 4-dioxopyrimidin-1-yl)-1, 5-dideoxy-B-D- allofuranuronic acid.] 1[Common Name CAS/CAS RN No. IUPAC/Chemical Abstract Name",
+            "603": "Dimethenamid-p 163515-14-8 (S)-2-chloro-N-{2,4-dimethyl-3- thienyl}-N-{2-methoxy-1 - methylethyl}acetamide Tri-basic copper sulphate 1344-73-6 Copper (II) hydroxide sulphate",
+            "604": "Cyclaniliprole 1031756-98-5 2,3- dibromo-4-chloro-1-(3- chloro-2- pyridyl)-6-[ {(1RS)-1 - cyclopropylethyl}carbamoyl] pyrazole-5- carboxanilide 2[Florpyrauxifen-benzyl] 943832-81-3(RN) 4-amino-3-chloro-6-[4-chloro-2-fluro-3- methoxyphenyl] -5-fluro-2-pyridine carboxylic acid 4,5-dichloro-2-n-octyl-3-(2H)- 64359-81-5 4,5-dichloro-2-n-octyl-3-(2H)- isothiazolone(DCOIT) isothiazolone",
+            "605": "Simeconazole 149508-90-7 {RS}-2-[4-fluorophenyl]-1-[1H-1,2,4- triazol-1-yl]-3 -[trimethylsilyl]propan-2- ol Pydiflumetofen 1228284-64-7 3-[difluromethyl]-N-methoxy-methyl- N[1-methyl-2-{2,4,6- tricholorophenyl}ethyl]-1H-pyrazole-4- carboxamide Phosphonic acid OR Potassium (13977-65-6);(13492-2-7) i. Potassium hydrogen phosphonate Phosphonate (mixture of Mono and (13598-36-2) ii. Dipotassium phosphonate IUPAC- Potassium and Di Potassium Potassium hydrogen phosphonate Salts of Phosphonic Acid) 3-iodo-2-propynyl 55406-53-6 3 -iodoprop-2- Butylcarbamate (IPBC) ynylbutylcarbamate(IPBC)/3 -iodo-2- propyn-1 -yl N-butylcarbamate Mefentrifluconazole 1417782-03-6 (2RS)-2-[4-(4-chlorophenoxy)-a, a, a- trifluoro-0-tolyl] 1 -(1H-1,2,4-triazol-1 - yl)propan-2-ol/a-[4-(4-chlorophenoxy)- 2- (trifluromethyl)phenyl]-a-methyl- 1H- 1,2,4-triazole-1 -ethanol Bis(1-hydroxy-2(1H)- 13463-41-7 13.1.3b.zinc bis (2-thiolpyridine-N- pyridinethionato-o,s)-(T-4)zinc oxide).] (ZPT) also known as -Zinc pyrithione",
+            "606": "1[Common Name CAS/CAS RN No. IUPAC/Chemical Abstract Name Bixafen 581809-46-3 N-(3', 4'-dichloro-5-fluorobiphenyl-2-yl)- 3-(difluromethyl)-1-methyl-1 H - pyrazole-4-carboxamide. Fluazaindolizine 1254304-22-7 8-chloro-N-[(2-chloro-5-methoxyphenyl) sulfonyl]-6-(trifluromethyl) imadazo [1, 2-a] pyridine-2-carboxamide Fluindapyr (New Fungicide) 1383809-87-7 3-(difluoromethyl)-N-[(3RS)-7-fluoro-2, 3-dihydro-1, 1, 3-trimethyl-1 H-inden-4- yl]-1 methylpyrazole-4-carboxamide Tolpyralate 1101132-67-5 (RS)-1-{1-ethyl-4-[4-mesyl-3-(2- methoxyethoxy) - o - toluoyl]pyrazole-5- yloxy} ethyl methyl carbonate",
+            "607": "Spiropidion 1229023-00-0 3-(4-chloro-2, 6-dimethylphenyl)-8- methoxy-1-methyl-2-oxo1, 8-diazaspiro [4.5] dec-3-en-4-yl ethyl carbonate Fluxametamide 928783-29-3 4-[(5RS)-5-(3, 5-dichlorophenyl)-4, 5- dihydro-5-(trifluromethyl)-1, 2-oxazole- 3-yl]-N-[(EZ)(methoxyimino) methyl]-o- toluamide",
+            "608": "Flupyrimin 1689566-03-7 [N(E)]-N-[1-[(6-chloro-3-pyridinyl) methyl]-2(1H)-pyridinylidene]-2, 2, 2- trifluroacetamide",
+            "609": "Dimefluthri 271241-14-6 2, 3, 5, 6-tetrafluoro-4-(methoxymethyl) benzyl (1RS, 3RS: 1RS, 3SR)-2, 2- dimethyl-3-(2-methylprop-1-enyl) cyclopropane carboxylate",
+            "610": "Ethaboxam 162650-77-3 (RS)-N-(a-cyano-2-thenyl)-4-ethyl-2- (ethylamino)-1, 3-thiazole-5- carboxamide.",
+            "611": "Pyrazoxyfen CAS RN 71561-11-0 2[4-(2, 4-dichlorobenzoyl)-1, 3 dimethylpyrazole-5-yloxy] acetophenone",
+            "612": "Dichlormid 37764-25-3 N, N-diallyl-2, 2-dichloroacetamide",
+            "613": "Lancotrione Sodium 1486617-22-4 Sodium 2-{ 2-chloro-3-[2-(1, 3-dioxolan- 2-yl) ethoxy]-4-mesylbenzoyl}-3- oxycyclohex-1-en-1-olate",
+            "614": "Benzpyrimoxan 1449021-97-9 5-(1, 3-dioxan-2-yl)-4-[4- (trifluoromethyl) benzyloxyl] pyrimidine I - ]",
+            "615": "1[Common Name CAS/CAS RN No. IUPAC/Chemical Abstract Name Flumetsulam 98967-40-9 CAS: N-(2, 6-difluorophenyl)-5- methyl[1, 2, 4]triazolo[1, 5-a]pyrimidine- 2-sulfonamide IUPAC: 2', 6'-difluoro-5-methyl[1, 2, 4]triazolo[1, 5-a] pyrimidine-2- sulfonanilide Cloransulam-methyl 147150-35-4 methyl 3-chloro-2-(5-ethoxy-7-fluoro[1, 2, 4]triazolo[1, 5-c]pyrimidin-2- ylsulfonamido) benzoate; methyl 3- chloro-N-(5-ethoxy-7-fluoro[1, 2, 4]triazolo[1, 5-c]pyrimidine-2- ylsulfonyl) Pyrapropoyne 1803108-03-3 1H-pyrazole-4-carboxamide, N-[(2Z)-2- [3-chloro-5-(2-cyclopropyethynyl)-2- pyridinyl]-2-[(1 methylethoxy) imino]ethy]-3-(difluoromethyl)-1-methyl Isocycloseram 2061933-85-3 4-[(5RS)-5-(3, 5-dichloro-4- fluorophenyl)-4, 5-dihydro-5- (trifluoromethyl) isoxazol-3-yl]-N- [(4RS)-2-ethyl-3-oxoisoxazolidin-4-yl]- o-toluamide Dimethametryn 22936-75-0 N-(1, 2-dimethylpropyl)-N-ethyl-6- methylthio-1, 3, 5-triazine-2, 4-diamine Allyl isothiocyanate 57-06-7 1-propene-3-isothiocyanate Fenpropimorph 67564-91-4 (+)-cis-4-[3-(4-tert-butylphenyl)-2- methylpropyl]-2, 6-dimethylmorpholine",
+            "616": "Thiencarbazone-methyl 317815-83-1 methyl 4-[(4, 5-dihydro-3-methoxy-4- methyl-5-oxo-1H-1, 2, 4-triazol-1-yl) carbonyl-sulfamoyl]-5-methylthiophene- 3-carboxylate Fluazaindolizine 1254304-22-7 8-chloro-N-[(2-chloro-5-methoxyphenyl) sulfonyl]-6-(trifluoromethyl) imidazo [1, 2-a]pyridine-2-carboxamide Etobenzanid 79540-50-4 2, 3-dichloro-4- ethoxymethoxybenzanilide",
+            "617": "Tebufenpyrad 119168-77-3 N-(4-tert-butylbenzyl)-4-chloro-3-ethyl- 1-methylpyrazole-5-carboxamide",
+            "618": "Chlorine dioxide 10049-04-4 Chlorine dioxide Oxaziclomefone 153197-14-9 3-[1-(3, 5-dichlorophenyl)-1- methylethyl]-3, 4-dihydro-6-methyl-5- phenyl-2H-1, 3-oxazin-4-one Bixlozone 81777-95-9 2-(2, 4-Dichlorobenzyl)-4, 4- dimethylisoxazolidin-3-one",
+            "619": "Z11-16OH (Common Name) 56683-54-6 (Z)-11-Hexadecen-1-ol (Z)-11-Hexadecen-1-ol (Chemical name)",
+            "620": "Cydia (Common Name) 33956-49-9 (E, E)-8, 10-Dodecadien-1-ol",
+            "621": "(E, E)-8, 10-Dodecadien-1-ol",
+            "622": "(Chemical name) Z9-14AC (Common Name) Z- 16725-53-4 Z-9-Tetradecenyl acetate 9-Tetradecenyl acetate (Chemical name) Z7-12AC (Common Name) Z- 14959-86-5 Z-7 Dodecenyl acetate 7 Dodecenyl acetate (Chemical name) Z-9-HDAL (Common Name) 56219-04-6 (Z)-11-Hexadecenal (Z)-11-Hexadecenal (Chemical name) Z-11-HDAL (Common Name) (Z)-11-Hexadecenal (Chemical name) E-11-HDL (Common Name) 61301-56-2 (E)-11-Hexadecen-1-ol (E)-11-Hexadecen-1-ol (Chemical name) E-11-HAD (Common Name) 56218-72-5 (E)-11-Hexadecenyl acetate (E)-11-Hexadecenyl acetate (Chemical name) CLM (Common Name) 888042-38-4 (Z, Z, E)-7, 11, 13-Hexadecatrienal (Z, Z, E)-7, 11, 13- exadecatrienal (Chemical Name) TDTA (Common Name) (3E, 163041-94-9 3, 8, 11-tetradecatrien-1-yl acetate 8Z, 11Z)-3, 8, 11- tetradecatrien-1-yl acetate (Chemical Name) florylpicoxamid 1961312-55-9 1S-2, 2-bis (4-fluorophenyl)-1- methylethyl N-{[3-(acetyloxy)-4- methoxy-2-pyridyl]carbonyl}-L- alaninate] 1[Fenpropimorph 67564-91-4 (+ -) cis-4-[3-(4-tert-butylphenyl)-2- methylpropyl]-2,6-dimethylmorpholine.]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 1st March, 1971, vide notification No. G.S.R. 300, dated 27th February, 1971, in respect of ss. 4, 7, 8 and 36,  see Gazette ofIndia, Extraordinary, Part II, sec. 3(i).1st August, 1971, vide notification No. G.S.R. 1108, dated the 28th July, 1971, in respect of remaining provisions see Gazette ofIndia, Extraordinary, Part II, sec. 3(i)."
+        },
+        "Page 5": {
+            "0": "1. Ins. by Act 24 of 1977, s. 2 (w.e.f. 2-8-1977).",
+            "1": "2. Subs. by s. 2, ibid., for \u201c(xx)\u201d (w.e.f. 2-8-1977)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 24 of 1977, s. 2, for sub-section (5) (w.e.f. 2-8-1977).",
+            "1": "2. Subs. by Act 46 of 1972, s. 2, for \u201csix months\u201d (w.e.f. 1-8-1971).",
+            "2": "3. Proviso ins. by s. 2, ibid. (w.e.f. 1-8-1971)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 24 of 1977, s. 3, for \u201con such conditions\u201d (w.e.f. 2-8-1977).",
+            "1": "2. Ins. by s. 3, ibid. (w.e.f. 2-8-1977)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 24 of 1977, s. 4 (w.e.f. 2-8-1977).",
+            "1": "2. Subs. by Act 46 of 1972, s. 3, for \u201cthree months\u201d (w.e.f. 1-8-1971).",
+            "2": "3. Subs. by Act 24 of 1977, s. 4, for \u201cthe proviso\u201d (w.e.f. 2-8-1977)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 46 of 1972, s. 4, for \u201cunder the proviso\u201d (w.e.f. 1-8-1971).",
+            "1": "2. Subs. by Act 24 of 1977, s. 5, for \u201ctransport or cause to be used\u201d (w.e.f. 2-8-1977).",
+            "2": "3. Ins. by s. 5, ibid. (w.e.f. 2-8-1977).",
+            "3": "4. Subs. by Act 46 of 1972, s. 5, for \u201cunder the proviso\u201d (w.e.f. 1-8-1971)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 23 of 2000, s. 2, for \u201ctwenty\u201d (w.e.f. 5-8-2000).",
+            "1": "2. Subs. by Act 24 of 1977, s. 6, for sub-section (2) (w.e.f. 2-8-1977).",
+            "2": "3. Subs. by s. 6, ibid., for \u201csection 57 of the Code of Criminal Procedure, 1898 (5 of 1898)\u201d (w.e.f. 2-8-1977)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 23 of 2000, s. 3, for sub-section (3) (w.e.f. 5-8-2000).",
+            "1": "2.  The  words,  brackets  and  figure  \u201cWhere  the  price  tendered  under  sub-section  (3)  is  refused,  or\u201d  omitted  by  s.  3,ibid. (w.e.f. 5-8-2000)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 23 of 2000, s. 4, for \u201csixty\u201d (w.e.f. 5-8-2000).",
+            "1": "2. Subs. by s. 4, ibid., for \u201cwhich shall make the test or analysis\u201d (w.e.f. 5-8-2000).",
+            "2": "3. The words, brackets and figure \u201csub-clause (iii) of\u201d omitted by s. 5, ibid. (w.e.f. 5-8-2000)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by Act 23 of 2000, s. 6, for certain words (w.e.f. 5-8-2000).",
+            "1": "2. Subs. by s. 6, ibid., for \u201cwhich may extend to five hundred rupees\u201d (w.e.f. 5-8-2000).",
+            "2": "3. Subs. by s. 6, ibid., for \u201csix months, or with fine, or with both\u201d (w.e.f. 5-8-2000).",
+            "3": "4. Subs. by s. 6, ibid., for \u201cone year, or with fine, or with both\u201d (w.e.f. 5-8-2000)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 24 of 1977, s. 7, for \u201cpresidency magistrate or a magistrate of the first class\u201d (w.e.f. 2-8-1977).",
+            "1": "2. Ins. by Act 23 of 2000, s. 7 (w.e.f. 5-8-2000)."
+        },
+        "Page 15": {
+            "0": "1. The words \u201cthe conditions of registration and\u201d omitted by Act 24 of 1977, s. 9 (w.e.f. 2-8-1977)."
+        },
+        "Page 16": {
+            "0": "1. Clause (x) omitted by Act 24 of 1977, s. 9 (w.e.f. 2-8-1977).",
+            "1": "2. Subs. by s. 9, ibid., for certain words (w.e.f. 2-8-1977)."
+        },
+        "Page 17": {
+            "0": "1. Ins. by Act 4 of 2005, s. 2 and the Schedule (w.e.f. 11-1-2005)."
+        },
+        "Page 19": {
+            "0": "1. Added by G.S.R. 69(E), dated 5-2-2001."
+        },
+        "Page 21": {
+            "0": "1. Ins. by G.S.R. 9(E), dated 9-1-1974."
+        },
+        "Page 26": {
+            "0": "1. Ins. by G.S.R. 823 (E),  dated 28-9-1976.",
+            "1": "2. Ins. by G.S.R. 200(E), dated 29-3-1978. For certain entries-See G.S.R. 32 (E) dated 12-2-1980.",
+            "2": "3. Ins. by G.S.R. 501 (E), dated 17-7-1982."
+        },
+        "Page 27": {
+            "0": "1. Ins. by G.S.R. 500(E)/85 -Gaz. of India, 18-6-1985, Pt.II-S. 3(i), Ext., p. 2(No. 249).",
+            "1": "2. Ins. by G.S.R. 32(E)/80."
+        },
+        "Page 28": {
+            "0": "1. Ins. by G.S.R. 501(E)/82."
+        },
+        "Page 29": {
+            "0": "1. Ins. by G.S.R. 500(E)/85 -Gaz. of India, 18-6-1985, Pt.II-S. 3(i), Ext., p. 2(No. 249).",
+            "1": "2. Ins.  by  G.S.R. 31 (E)/87-Gaz. of Ind., 15-1-87, Pt, II-S. 3(i), Ext., p.2 (No. 26)."
+        },
+        "Page 30": {
+            "0": "1. Ins. by G.S. R. 511 (E)/87-Gaz. of Ind., 22-5-1987, Pt. II-S.3(ii), Ext., p.2 (No. 249).",
+            "1": "2. Ins. by G.S.R. 858 (E)/88-Gaz. of Ind., 12-8-88, Pt. II-S.39i) Ext. p. 2 (No. 439)."
+        },
+        "Page 32": {
+            "0": "1. Ins. by G.S.R. 13 (E)/90."
+        },
+        "Page 35": {
+            "0": "1. Ins. by G.S.R. 575(E)/93."
+        },
+        "Page 36": {
+            "0": "1. Ins. by G.S.R. 730(E)/95.",
+            "1": "2. Ins. by G.S.R. 51(E), dated 06-02-2006."
+        },
+        "Page 37": {
+            "0": "1. Ins. by Notification No. GSR 683(E), dated 31-10-2006."
+        },
+        "Page 39": {
+            "0": "1. Ins. by Notification No. G.S.R.631(E), dated 28.09.2007.",
+            "1": "2. Ins. by Notification No. G.S.R.650(E), dated 11.09.2008."
+        },
+        "Page 40": {
+            "0": "1. Ins. by Notification No. G.S.R. 5(E), dated 05-01-2010.",
+            "1": "2. Ins. by Notification No. G.S.R. 316(E), dated 13-04-2010."
+        },
+        "Page 41": {
+            "0": "1. Ins. by Notification No. G.S.R.380(E), dated 24-05-2012.",
+            "1": "2. Ins. by Notification No. G.S.R.313(E), dated 06-05-2014."
+        },
+        "Page 42": {
+            "0": "1. Inserted by Notification No. G.S. R790(E), dated 11-11-2014."
+        },
+        "Page 43": {
+            "0": "1. Ins. by Notification No. S.O.3304(E), dated 06-10-2017.",
+            "1": "2. Subs. by notification No. S. O. 954(E), dated 2-3-2020, for \u201cFlorpyauxifen-benzyl\u201d."
+        },
+        "Page 44": {
+            "0": "1. Ins. by Notification No. S.O. 45(E), dated 02-01-2019."
+        },
+        "Page 45": {
+            "0": "1. Ins. by Notification No. S.O. 1767(E), dated 16-05-2019."
+        },
+        "Page 46": {
+            "0": "1. Ins. Notification No. S.O. 296(E), dated 15-01-2020."
+        }
+    }
+}

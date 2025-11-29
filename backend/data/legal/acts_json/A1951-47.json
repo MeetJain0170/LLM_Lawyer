@@ -1,0 +1,48 @@
+{
+    "Act Title": "THE ASSAM (ALTERATION OF BOUNDARIES) ACT, 1951",
+    "Act ID": "ACT NO. 47 OF 1951",
+    "Enactment Date": "[1st September, 1951.]",
+    "Act Definition": {
+        "0": "An Act to alter the boundaries of the State of Assam consequent on the cession of a strip of territory comprised in that State to the Government of Bhutan."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title.",
+            "paragraphs": {
+                "0": "This Act may be called the Assam (Alteration of Boundaries) Act, 1951."
+            }
+        },
+        "Section 2.": {
+            "heading": "Alteration of the boundaries of Assam.",
+            "paragraphs": {
+                "0": "On and from the commencement of this Act, the territory of the State of Assam shall cease to comprise the strip of territory specified in the Schedule, which shall be ceded to the Government of Bhutan, and the boundaries of the state of Assam shall be deemed to have been altered accordingly."
+            }
+        },
+        "Section 3.": {
+            "heading": "Amendment of the First Schedule to the Constitution.",
+            "paragraphs": {
+                "0": {
+                    "text": "In the first paragraph of Part A of the First Schedule to the Constitution, under the heading \u201cTERRITORIES OF STATES\u201d, after the words \u201cAssam Tribal Areas\u201d, the following words shall be inserted, namely:\u2014",
+                    "contains": {
+                        "0": "\u201cbut shall not include the territories specified in the Schedule to the Assam (Alteration of Boundaries) Act, 1951\u201d."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "(See section 2)"
+                }
+            },
+            "1": "The strip of territory measuring 32.81 square miles lying to the south of Bhutan within 26o 45' and 27o North Latitude and 91o 15' and 91o 45' East Longitude, demarcated on the west, north and east by boundary pillar Nos. 90, 91, 92, 93 and 94 erected in 1930-31, and on the south by boundary pillar Nos. 90, 91, 92, 93 and 94 erected in 1950."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {}
+}

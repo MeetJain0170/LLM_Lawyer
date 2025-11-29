@@ -1,0 +1,739 @@
+{
+    "Act Title": "THE COMPANIES (PROFITS) SURTAX ACT, 1964",
+    "Act ID": "ACT NO. 7 OF 1964",
+    "Enactment Date": "[2nd May, 1964.]",
+    "Act Definition": {
+        "0": "An Act to impose a special tax on the profits of certain companies."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Companies (Profits) Surtax Act, 1964.",
+                "1": "(2) It extends to the whole of India."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless the context otherwise requires,\u2015",
+                    "contains": {
+                        "0": "1[(1) \u201cadvance surtax\u201d means the Surtax payable under section 7A;]",
+                        "1": "2[(1A)] \u201cassessee\u201d means a person by whom surtax or any other sum of money is payable under this Act and includes every person in respect of whom any proceeding under this Act has been taken for the assessment of his chargeable profits or of the amount of refund due to him or of the chargeable profits of any other person in respect of which he is assessable or of the amount of refund due to such other person;",
+                        "2": "(2) \u201cassessment\u201d includes re-assessment;",
+                        "3": "(3) \u201cassessment year\u201d means the period of twelve months commencing on the 1st day of April, every year;",
+                        "4": "(4) \u201cBoard\u201d means the Central Board of Direct Taxes constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);",
+                        "5": "(5) \u201cchargeable profits\u201d means the total income of an assessee computed under the Income-tax Act, 1961 (43 of 1961) for any previous year or years, as the case may be, and adjusted in accordance with the provisions of the First Schedule;",
+                        "6": "(6) \u201cIncome-tax Act\u201d means the Income-tax Act, 1961 (43 of 1961);",
+                        "7": "(7) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                        "8": "1[(7A) \u201cregular assessment\u201d means as assessment made under section 6;]",
+                        "9": "(8) \u201cstatutory deduction\u201d means an amount equal to 3[fifteen per cent.] of the capital of the company as computed in accordance with the provisions of the Second Schedule, or an amount of two hundred thousand rupees, whichever is greater:",
+                        "10": "Provided that where the previous year is longer or shorter than a period of twelve months, the aforesaid amount of 3[fifteen per cent.] or, as the case may be, of two hundred thousand rupees shall be increased or decreased proportionately:",
+                        "11": "Provided further that where a company has different previous years in respect of its income, profits and gains, the aforesaid increase or decrease, as the case may be, shall be calculated with reference to the length of the previous year of the longest duration; and",
+                        "12": "(9) all other words and expressions used herein but not defined and defined in the Income-tax Act shall have the meanings respectively assigned to them in that Act."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Tax authorities.",
+            "paragraphs": {
+                "0": "(1) The income-tax authorities specified in section 116 of the Income-tax Act shall be the authorities for the purposes of this Act and every such authority shall exercise the powers and perform the functions of a tax authority under this Act in respect of any company, and for this purpose his jurisdiction under this Act shall be the same as he has under the Income-tax Act by virtue of orders or directions issued under section 120 of that Act (including orders or directions assigning concurrent jurisdiction) or under any other provision of that Act.",
+                "1": "(2) The Board may, from time to time, issue such orders, instructions and directions to other tax authorities as it may deem fit for the proper administration of this Act, and such authorities and all other persons employed in the execution of this Act shall observe and follow such orders, instructions and directions of the Board:",
+                "2": {
+                    "text": "Provided that no such orders, instructions or directions shall be issued\u2015",
+                    "contains": {
+                        "0": "(a) so as to require any tax authority to make a particular assessment or to dispose of a particular case in a particular manner; or",
+                        "1": "(b) so as to interfere with the discretion of the Commissioner (Appeals) in the exercise of his appellate functions.]"
+                    }
+                }
+            }
+        },
+        "Section 4.": {
+            "heading": "Charge of tax.",
+            "paragraphs": {
+                "0": "Subject to the provisions contained in this Act, there shall be charged on every company for every assessment year commencing on and from the first day of April, 1964, 2[but before the first day of April, 1988] a tax (in this Act referred to as the surtax) in respect of so much of its chargeable profits of the previous year or previous years, as the case may be, as exceed the statutory deduction, at the rate or rates specified in the Third Schedule."
+            }
+        },
+        "Section 5.": {
+            "heading": "Return of chargeable profits.",
+            "paragraphs": {
+                "0": "(1) In the case of every company whose chargeable profits assessable under this Act exceeded during the previous year the amount of statutory deduction, its principal officer, or where in the case of a non-resident company any person has been treated as its agent under section 163 of the Income-tax Act, such person, shall furnish a return of the chargeable profits of the company during the previous year in the prescribed form and verified in the prescribed manner and setting forth such other particulars as may be prescribed, before the 30th day of September of the assessment year:",
+                "1": "Provided that on an application made in this behalf, the 3[Assessing Officer] may, in his discretion, extend the date for the furnishing of the return.",
+                "2": "(2) In the case of any company which in the 3[Assessing Officer] opinion is assessable under this Act, the 3[Assessing Officer] may, before the end of the relevant assessment year, serve a notice upon its principal officer, or where in the case of a non-resident company any person has been treated as its agent under section 163 of the Income-tax Act, upon such person, requiring him to furnish within thirty days from the date of service of the notice a return of the chargeable profits of the company during the previous year in the prescribed form and verified in the prescribed manner and setting forth such other particulars as may be prescribed:",
+                "3": "Provided that on an application made in this behalf, the 3[Assessing Officer] may, in his discretion, extend the date for the furnishing of the return.",
+                "4": "(3) Any assessee who has not furnished a return during the time allowed under sub-section (1) or sub-section (2), or having furnished a return) under sub-section (1) or sub-section (2) discovers any omission or wrong statement therein, may furnish a return or a revised return, as the case may be, at any time before the assessment is made."
+            }
+        },
+        "Section 6.": {
+            "heading": "Assessment.",
+            "paragraphs": {
+                "0": "(1) For the purposes of making an assessment under this Act, the 3[Assessing Officer] may serve on any, person who has furnished a return under sub-section (1) of section 5 or upon whom a notice has been served under sub-section (2) of section 5 (whether a return has been furnished or not) a notice requiring him on a date therein to be specified, to produce or cause to be produced such accounts or documents or evidence as the 1[Assessing Officer] may require for the purposes of this Act and may from time to time serve further notices requiring the production of such further accounts or documents or other evidence as he may require.",
+                "1": "(2) The 1[Assessing Officer], after considering such accounts, documents or evidence, if any, as he has obtained under sub-section (1) and after taking into account any relevant material which he has gathered, shall, by an order in writing, assess the chargeable profits and the amount of the surtax payable on the basis of such assessment."
+            }
+        },
+        "Section 7.": {
+            "heading": "Provisional assessment.",
+            "paragraphs": {
+                "0": "(1) The 1[Assessing Officer], before proceeding to make an assessment under section 6 (in this section referred to as the regular assessment) may, at any time after the expiry of the period allowed under sub-section (1) or sub-section (2) of section 5 for the furnishing of the return and whether the return has or has not been furnished, proceed to make in a summary manner a provisional assessment of the chargeable profits and the amount of the surtax payable thereon.",
+                "1": "(2) Before making such provisional assessment, the 1[Assessing Officer] shall give notice in the prescribed form to the person on whom the provisional assessment is to be made of his intension to do so, and shall with the notice forward a statement of the amount of the proposed assessment, and the said person shall be entitled to deliver to the 1[Assessing Officer] at any time within fourteen days of the service of the said notice a statement of his objections, if any, to the amount of the proposed assessment.",
+                "2": "(3) On expiry of the said fourteen days from the date of service of the notice referred to in sub-section (2), or earlier, if the assessee agrees to the proposed provisional assessment, the 1[Assessing Officer] may, after taking into account the objections, if any, made under sub-section (2), make a provisional assessment, and shall furnish a copy of the order of the assessment to the assessee:",
+                "3": "Provided that assent to the amount of the provisional assessment, or failure to make objection to it, shall in no way prejudice the assessee in relation to the regular assessment.",
+                "4": "(4) There shall be no right of appeal against a provisional assessment made under this section.",
+                "5": "(5) After a regular assessment has been made, any amount paid or deemed to have been paid towards the provisional assessment made under this section shall be deemed to have been paid towards the regular assessment; and where the amount paid or deemed to have been paid towards the provisional assessment exceeds the amount payable under the regular assessment, the excess shall be refunded to the assessee."
+            }
+        },
+        "Section 7A.": {
+            "heading": "Advance payment of surtax.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) In this section,\u2015",
+                    "contains": {
+                        "0": "(a) \u201cchargeable amount\u201d, in relation to any previous year, means so much of the chargeable profits of the previous year as exceed the statutory deduction;",
+                        "1": "(b) \u201ccurrent chargeable amount\u201d, in relation to the advance surtax payable by a company during any financial year, means the chargeable amount of the company of the period which would be the previous year for the assessment year immediately following that financial year."
+                    }
+                },
+                "1": "(2) Surtax shall be payable, in accordance with the provisions of this section, in advance during the financial year in respect of the chargeable amount of the period which would be the previous year for the immediately following assessment year.",
+                "2": {
+                    "text": "(3) The amount of advance surtax payable by an assessee in the financial year shall be computed as follows:\u2015",
+                    "contains": {
+                        "0": "(a) the chargeable amount of the latest previous year in respect of which the assessee has been assessed by way of regular assessment shall first be ascertained;",
+                        "1": "(b) in a case where the chargeable amount of the latest previous year [being a year later than the previous year referred to in clause (a)] on the basis of which a provisional assessment has been made under section 7 exceeds the chargeable amount referred to in clause (a), the chargeable amount referred to in clause (a) shall be substituted by the chargeable amount on the basis of which such provisional assessment has been made;",
+                        "2": "(c) surtax shall be calculated on the chargeable amount referred to in clause (a) or, as the case may be, in clause (b), at the rates specified in the Third Schedule."
+                    }
+                },
+                "3": {
+                    "text": "(4) Subject to the provisions of this section, advance surtax shall be payable in three equal instalments on the following dates during the financial year, namely:\u2015",
+                    "contains": {
+                        "0": "(a) the 15th day of June, the 15th day of September and the 15th day of December, in the case of an assessee whose chargeable amount to the extent of 75 per cent. thereof or more is derived from a source or sources for which the previous year (relevant to the assessment year next following the financial year aforesaid) ends on or before the 31st day of December;",
+                        "1": "(b) the 15th day of September, the 15th day of December and the 15th day of March, in any other case:"
+                    }
+                },
+                "4": "Provided that where, in respect of any class of assessees, the Board has, in exercise of the powers conferred by the proviso to sub-section (1) of section 211 of the Income-tax Act, authorised the payment of the last instalment of advance tax on the 15th day of March during the financial year instead of on the 15th day of December, the last instalment of advance surtax in the case of such assessees shall also be payable on the 15th day of March during the financial year.",
+                "5": {
+                    "text": "(5) Every company shall, in each financial year, on or before the date on which the first instalment, or where it has not previously been assessed by way of regular assessment under this Act, on or before the date on which the last instalment, of advance surtax is due in its case under sub-section (4), if it is likely to have any current chargeable amount, send to the 1[Assessing Officer],\u2015",
+                    "contains": {
+                        "0": "(a) where it has been previously assessed by way of regular assessment under this Act, a statement of advance surtax payable by it computed in the manner laid down in sub-section (3), or",
+                        "1": {
+                            "text": "(b) where it has not previously been assessed by way of regular assessment under this Act, an estimate of\u2014",
+                            "contains": {
+                                "0": "(i) the current chargeable amount, and",
+                                "1": "(ii) the advance surtax payable by it on the amount specified in (i) above calculated in the,manner laid down in sub-section (3),"
+                            }
+                        }
+                    }
+                },
+                "6": {
+                    "text": "and shall pay such amount of advance surtax,\u2015",
+                    "contains": {
+                        "0": "(I) in a case falling under clause (a), as accords with the statement in equal instalments on the dates applicable in its case under sub-section (4); and",
+                        "1": "(II) in a case falling under clause (b), as accords with the estimate in equal instalments on such of the dates applicable in its case as have not expired, or in one sum if only the last of such dates has not expired.",
+                        "2": {
+                            "text": "(6) Where a company which is required to send a statement under clause (a) of sub-section (5) estimates on or before the date on which the first instalment of advance surtax is due in its case under sub-section (4) that, by reason of its current chargeable amount being likely to be less than the chargeable amount on which advance surtax is payable by it under sub-section (5) or for any other reason, the amount of advance surtax computed in the manner laid down in sub-section (3) on the current chargeable amount would be less than the amount of advance surtax payable by it under sub-section (5), it may send to the 1[Assessing Officer], in lieu of such statement, an estimate of\u2015",
+                            "contains": {
+                                "0": "(i) the current chargeable amount, and",
+                                "1": "(ii) the advance surtax payable by it on the current chargeable amount calculated in the manner laid down in sub-section (3),"
+                            }
+                        }
+                    }
+                },
+                "7": {
+                    "text": "and shall pay such amount of advance surtax as accords with its estimate in equal instalments on the dates applicable in its case under sub-section (4).",
+                    "contains": {
+                        "0": {
+                            "text": "(7) Where a company which has sent a statement under clause (a) of sub-section (5) estimates on or before the date on which the last instalment of advance surtax is due in its case that, by reason of its current chargeable amount being likely to be less than the chargeable amount on which advance surtax is payable by it under sub-section (5) or for any other reason, the amount of advance surtax computed in the manner laid down in sub-section (3) on the current chargeable amount would be less than the amount of advance surtax payable by it under sub-section (5), it may, at its option, send to the 1[Assessing Officer] an estimate of\u2014",
+                            "contains": {
+                                "0": "(i) the current chargeable amount, and",
+                                "1": "(ii) the advance surtax payable by it on the current chargeable amount calculated in the manner laid down in sub-section (3),"
+                            }
+                        }
+                    }
+                },
+                "8": {
+                    "text": "and shall pay such amount of advance surtax as accords with its estimate in equal instalments on such of the dates applicable in its case under sub-section (4) as have not expired, or in one sum if only the last of such dates has not expired.",
+                    "contains": {
+                        "0": {
+                            "text": "(8) In the case of any company which is liable to pay advance surtax under sub-section (5) or sub-section (6) or, as the case may be, sub-section (7), if, by reason of the current chargeable amount being likely to be greater than the chargeable amount on which the advance surtax so payable by it has been computed or for any other reason, the amount of advance surtax computed in the manner laid down in sub-section (3) on the current chargeable amount (which shall be estimated by the company) exceeds the amount of advance surtax so payable by it by more than twenty per cent. of the latter amount, it shall, on or before the date on which the last instalment of advance surtax is payable by it, send to the 1[Assessing Officer] an estimate of\u2015",
+                            "contains": {
+                                "0": "(i) the current chargeable amount, and",
+                                "1": "(ii) the advance surtax payable by it on the current chargeable amount calculated in the manner laid down in sub-section (3),"
+                            }
+                        }
+                    }
+                },
+                "9": {
+                    "text": "and shall pay such amount of advance surtax as accords with its estimate on such of the dates applicable in its case under sub-section (4) as have not expired, by instalments which may be revised according to sub-section (9):",
+                    "contains": {
+                        "0": "Provided that where in respect of any company the Commissioner has, in exercise of the powers conferred by the first proviso to sub-section (4) of section 209A, or the first proviso to sub-section (3A) of section 212, of the Income-tax Act, extended the date for furnishing the estimate referred to in the said sub-section (4) or, as the case may be, the said sub-section (3A) and the company has paid the advance surtax which it is liable to pay under sub-section (5) or sub-section (6) or, as the case may be, sub-section (7) on or before the date on which the last instalment of advance surtax is due in its case, the company shall pay, on or before the date as so extended, the amount by which the advance surtax already paid by It falls short of the advance surtax payable in accordance with its estimate.",
+                        "1": "(9) The company may send a revised estimate of the advance surtax payable by it on or before any one of the dates specified in sub-section (4) and adjust any excess or deficiency in respect of any instalment already paid in a subsequent instalment or in subsequent instalments.",
+                        "2": "(10) Every statement or estimate under this section shall be sent in the prescribed form and verified in the prescribed manner."
+                    }
+                }
+            }
+        },
+        "Section 7B.": {
+            "heading": "Interest payable by Government.",
+            "paragraphs": {
+                "0": "The Central Government shall pay simple interest at 1[fifteen per cent.] per annum on the amount by which the aggregate sum of any installments of advance tax paid during any financial year in which they are payable under section 7A exceeds the amount of the tax determined on regular assessment, from the 1st day of April next following the said financial year to the date of the regular assessment for the assessment year immediately following the said financial year."
+            }
+        },
+        "Section 7C.": {
+            "heading": "Interest payable by assessee.",
+            "paragraphs": {
+                "0": "(1) Where, in any financial year, a company has paid advance surtax under section 7A on the basis of its own estimate (including revised estimate), and the advance surtax so paid is less than eighty-three and one-third per cent. of the assessed surtax, simple interest at the rate of 1[fifteen per cent.] per annum from the 1st day of April next following the said financial year up to the date of the regular assessment shall be payable by the company upon the amount by which the advance surtax so paid falls short of the assessed surtax.",
+                "1": {
+                    "text": "(2) Where, on making the regular assessment, the 2[Assessing Officer] finds\u2015",
+                    "contains": {
+                        "0": "(a) that any such company as is referred to in clause (a) of sub-section (5) of section 7A has not sent the statement referred to in that clause or the estimate in lieu of such statement referred to in sub-section (6) of that section; or",
+                        "1": "(b) that any such company as is referred to in clause (b) of sub-section (5) of section 7A has not sent the estimate referred to in that clause."
+                    }
+                },
+                "2": {
+                    "text": "simple interest at the rate of 1[fifteen per cent.] per annum from the 1st day of April next following the financial year in which the advance surtax was payable in accordance with the said sub-section (5) or sub-section (6) up to the date of the regular assessment shall be payable by the company upon the amount equal to the assessed surtax.",
+                    "contains": {
+                        "0": "(3) Where, on making the regular assessment, the 2[Assessing Officer] finds that any company which is required to send an estimate under sub-section (8) of section 7A has not sent the estimate referred to therein, simple interest at the rate of 1[fifteen per cent.] per annum from the 1st day of April next following the financial year in which the advance surtax was payable in accordance with the said sub-section (8) up to the date of the regular assessment shall be payable by the company upon the amount by which the advance surtax paid by it falls short of the assessed surtax.",
+                        "1": {
+                            "text": "(4) Notwithstanding anything contained in the foregoing sub-sections, where provisional assessment is made under section 7\u2015",
+                            "contains": {
+                                "0": "(i) interest shall be calculated in accordance with the provisions of sub-section (1) or sub-section (2) or, as the case may be, sub-section (3) up to the date on which the surtax provisionally assessed is paid; and",
+                                "1": "(ii) thereafter interest shall be calculated at the rate of 1[fifteen per cent.] per annum on the amount by which the surtax provisionally assessed falls short of the assessed surtax."
+                            }
+                        },
+                        "2": "(5) In such cases and under such circumstances as may be prescribed, the 2[Assessing Officer] may reduce or waive the interest payable by the company under this section.",
+                        "3": "(6) Where, as a result of an order under section 11, or section 12, or section 13, or section 17, or section 18 read with section 260 or section 262 of the Income-tax Act, the amount on which interest was payable under this section has been reduced, the interest shall be reduced accordingly and the excess interest paid, if any, shall be refunded.",
+                        "4": "(7) In this section and section 9A, \u201cassessed surtax\u201d means the surtax determined on the basis of the regular assessment without making any deduction therefrom."
+                    }
+                }
+            }
+        },
+        "Section 7D.": {
+            "heading": "Interest payable by assessee in case of under estimate, etc.",
+            "paragraphs": {
+                "0": "Where, on making the regular assessment, the 1[Assessing Officer] finds that any company has under section 7A underestimated the advance surtax payable by it and thereby reduced the amount payable in either of the first two instalments, he may direct that the company shall pay simple interest at 2[fifteen per cent.] per annum for the period during which the payment was deficient, on the difference between the amount paid in each such instalment and the amount which should have been paid, having regard to the aggregate advance surtax actually paid during the year.",
+                "1": "Explanation.\u2015For the purposes of this section, any instalment due before the expiry of six months from the commencement of the previous year in respect of which it is to be paid shall be deemed to have become due fifteen days after the expiry of the said six months.]"
+            }
+        },
+        "Section 8.": {
+            "heading": "Profits escaping assessment.",
+            "paragraphs": {
+                "0": {
+                    "text": "If\u2015",
+                    "contains": {
+                        "0": "(a) the 1[Assessing Officer] has reason to believe that by reason of the omission or failure on the part of the assessee to make a return under section 5 for any assessment year or to disclose fully and truly all material facts necessary for his assessment for any assessment year, chargeable profits for that year have escaped assessment or have been under-assessed or assessed at too low a rate or have been made the subject of excessive relief under this Act, or",
+                        "1": "(b) notwithstanding that there has been no omission or failure as mentioned in clause (a) on the part of the assessee, the 1[Assessing Officer] has in consequence of information in his possession reason to believe that chargeable profits assessable for any assessment year have escaped assessment or have been under-assessed or assessed at too low a rate or have been the subject of excessive relief under this Act,"
+                    }
+                },
+                "1": "he may, in cases falling under clause (a) at any time, and in cases falling under clause (b) at any time within four years of the end of that assessment year, serve on the assessee a notice containing all or any of the requirements which may be included in a notice under section 5, and may proceed to assess or re- assess the amount chargeable to surtax, and the provisions of this Act shall, so far as may be, apply as if the notice were a notice issued under that section."
+            }
+        },
+        "Section 9.": {
+            "heading": "Penalties.",
+            "paragraphs": {
+                "0": {
+                    "text": "If the 1[Assessing Officer], in the course of any proceedings under this Act, is satisfied that any person has, without reasonable cause, failed to furnish the return required under section 5, or to produce or cause to be produced the accounts, documents or other evidence required by the 1[Assessing Officer] under sub-section (1) of section 6, or has concealed the particulars of the chargeable profits or has furnished inaccurate particulars of such profits, he may direct that such person shall pay, by way of penalty, in addition to the amount of surtax payable, a sum not exceeding\u2015",
+                    "contains": {
+                        "0": "(a) where the person has failed to furnish the return required under section 5, the amount of 3[surtax chargeable under the Provisions of this Act];",
+                        "1": "(b) in any other case, the amount of surtax which would have been avoided if the return made had been accepted as correct:",
+                        "2": "Provided that the 1[Assessing Officer] shall not impose any penalty under this section without the previous authority of the 4[Deputy Commissioner]."
+                    }
+                }
+            }
+        },
+        "Section 9A.": {
+            "heading": "False estimate of, or failure to pay, advance surtax.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) If 2[Assessing Officer], in the course of any proceedings in connection with the regular assessment for any assessment year, is satisfied that any assessee\u2015",
+                    "contains": {
+                        "0": "(a) has furnished under clause (a) of sub-section (5) of section 7A a statement of advance surtax payable by him which he knew or had reason to believe to be untrue, or",
+                        "1": "(b) has without reasonable cause failed to furnish a statement of the advance surtax payable by him in accordance with the provisions of clause (a) of sub-section (5) of section 7A,"
+                    }
+                },
+                "1": {
+                    "text": "he may direct that such assessee shall, in addition to the amount of surtax, if any, payable by him, pay by way of penalty a sum\u2015",
+                    "contains": {
+                        "0": {
+                            "text": "(i) which, in the case referred to in clause (a), shall not be less than ten per cent. but shall not exceed one and a half times the amount by which the surtax actually paid during the financial year immediately preceding the assessment year under the provisions of section 7A falls short of\u2014",
+                            "contains": {
+                                "0": "(1) eighty-three and one-third per-cent. of the assessed surtax, or",
+                                "1": "(2) the amount which would have been payable by way of advance surtax if the assessee had furnished a correct and complete statement in accordance with the provisions of clause (a) of sub-section (5) of section 7A,"
+                            }
+                        },
+                        "1": {
+                            "text": "whichever is less;",
+                            "contains": {
+                                "0": "(ii) which, in the case referred to in clause (b), shall not be less than ten per cent. but shall not exceed one and a half times of eighty-three and one-third per cent. of the assessed surtax."
+                            }
+                        },
+                        "2": {
+                            "text": "(2) If the 2[Assessing Officer], in the course of any proceedings in connection with the regular assessment for any assessment year, is satisfied that any assessee\u2015",
+                            "contains": {
+                                "0": "(a) has furnished under clause (b) of sub-section (5) or sub-section (6) or sub-section (7) or sub-section (9) of section 7A, an estimate of the advance surtax payable by him which he knew or had reason to believe to be untrue, or",
+                                "1": "(b) has furnished under sub-section (8) of section 7A, an estimate of the advance surtax payable by him which he knew or had reason to believe to be untrue, or",
+                                "2": "(c) has without reasonable cause failed to furnish an estimate of the advance surtax payable by him in accordance with the provisions of clause (b) of sub-section (5) of section 7A, or",
+                                "3": "(d) has without reasonable cause failed to furnish an estimate of advance surtax payable by him in accordance with the provisions of sub-section (8) of section 7A,"
+                            }
+                        }
+                    }
+                },
+                "2": {
+                    "text": "he may direct that such assessee shall, in addition to the amount of surtax, if any, payable by him, pay by way of penalty a sum\u2015",
+                    "contains": {
+                        "0": {
+                            "text": "(i) which, in the case referred to in clause (a), shall not be less than ten per cent. but shall not exceed one and a half times the amount by which the surtax actually paid during the financial year immediately preceding the assessment year under the provisions of section 7A falls short of\u2015",
+                            "contains": {
+                                "0": "(1) eighty-three and one-third per cent. of the assessed surtax, or",
+                                "1": "(2) where a statement under clause (a) of sub-section (5) of section 7A was furnished by the assessee, the amount payable under such statement,"
+                            }
+                        },
+                        "1": {
+                            "text": "whichever is less;",
+                            "contains": {
+                                "0": "(ii) which, in the case referred to in clause (b), shall not be less than ten per cent. but shall not exceed one and a half times the amount by which the surtax actually paid during the financial year immediately preceding the assessment year under the provisions of section 7A falls short of eighty-three and one-third per cent. of the assessed surtax;",
+                                "1": "(iii) which, in the case referred to in clause (c), shall not be less than ten per cent. but shall not exceed one and a half times of eighty-three and one-third per cent. of the assessed surtax; and",
+                                "2": "(iv) which, in the case referred to in clause (d), shall not be less than ten per cent. but shall not exceed one and a half times the amount of surtax payable in accordance with a statement under clause (a) or an estimate under clause (b) of sub-section (5) of section 7A or an estimate in lieu of a statement under sub-section (6) of that section falls short of eighty-three and one-third per cent. of the assessed surtax."
+                            }
+                        },
+                        "2": "Explanation.\u2015Where the 1[Chief Commissioner or Commissioner] has, in exercise of the powers conferred by the first proviso to sub-section (4) of section 209A, or the first proviso to sub-section (3A) of section 212, of the Income-tax Act, extended the date for furnishing the estimate referred to in the said sub-section (4) or, as the case may be, the said sub-section (3A ) and the date so extended falls beyond the financial year immediately preceding the assessment year, then, the amount of surtax paid by the assessee on or before the date so extended shall, for the purposes of clause (ii) of sub-section (2) also be regarded as surtax actually paid during that financial year.]"
+                    }
+                }
+            }
+        },
+        "Section 10.": {
+            "heading": "Opportunity of being heard.",
+            "paragraphs": {
+                "0": "No order imposing a penalty under section 9 2[or section 9A] shall be made unless the assessee has been given a reasonable opportunity of being heard."
+            }
+        },
+        "Section 11.": {
+            "heading": "Appeals to the Commissioner (Appeals).",
+            "paragraphs": {
+                "0": "(1) Any person objecting to the amount of surtax for which he is liable as assessed by the 4[Assessing Officer] or denying his liability to be assessed under this Act, or objecting to any penalty or fine imposed by the 4[Assessing Officer], 5[or objecting to the interest levied by the 4[Assessing Officer] under section 7D] or to the amount allowed by the 4[Assessing Officer] by way of any relief under any provisions of this Act, or to any refusal by the 4[Assessing Officer] to grant relief or to an order of rectification or amendment having the effect of enhancing the assessment or reducing the refund, or to an order refusing to allow the claim made by the assessee for a rectification under section 13 or amendment under section 14 may appeal to the 3[Commissioner (Appeals)].",
+                "1": "(2) Every appeal shall be in the prescribed form and shall be verified in the prescribed manner.",
+                "2": {
+                    "text": "(3) An appeal shall be presented within thirty days of the following date, that is to say\u2015",
+                    "contains": {
+                        "0": "(a) where the appeal relates to assessment or penalty or fine, the date of service of the notice of demand relating to the assessment or penalty or fine, or",
+                        "1": "(b) in any other case, the date on which the intimation of the order sought to be appealed against is served:"
+                    }
+                },
+                "3": "Provided that the 3[Commissioners (Appeals)] may admit an appeal after the expiration of the said period if he is satisfied that the appellant had sufficient cause for not presenting it within that period.",
+                "4": "(4) The 3[Commissioner (Appeals)] shall hear and determine the appeal and, subject to the provisions of this Act, pass such orders as he thinks fit and such orders may include an order enhancing the assessment or penalty:",
+                "5": "Provided that an order enhancing the assessment or penalty shall not be made unless the person affected thereby has been given a reasonable opportunity of showing cause against such enhancement.",
+                "6": "(5) The procedure to be adopted in the hearing and determination of the appeals shall, with any necessary modification, be in accordance with the procedure applicable in relation to income-tax."
+            }
+        },
+        "Section 11A.": {
+            "heading": "Transfer of certain pending appeals.",
+            "paragraphs": {
+                "0": "Every appeal under this Act which is pending immediately before the appointed day before an Appellate Assistant commissioner or a Commissioner and any matter arising out of or connected with such appeal and which is so pending shall stand transferred on that day to the Commissioner (Appeals) and the Commissioner (Appeals) may proceed with such appeal or matter from, the stage at which it was on that day:",
+                "1": "Provided that the appellant may demand that before proceeding further with the appeal or matter the previous proceeding or any part thereof be reopened or that he be re-heard.",
+                "2": "Explanation.\u2015In this section, \u201cappointed day\u201d means the date appointed under section 39 of the Finance (No. 2) Act, 1977.]"
+            }
+        },
+        "Section 12.": {
+            "heading": "Appeals to Appellate Tribunal.",
+            "paragraphs": {
+                "0": "(1) Any assessee aggrieved by an order passed by a 2[Chief Commissioner or Commissioner] under section 16, or an order passed by 3[Commissioner (Appeals)] under any provision of this Act, may appeal to the Appellate Tribunal against such order.",
+                "1": "(2) The 2[Chief Commissioner or Commissioner] may, if he objects to any order passed by the 3[Commissioner (Appeals)] under any provision of this Act, direct the 4[Assessing officer] to appeal to the Appellate Tribunal against the order.",
+                "2": "(3) Every appeal under sub-section (1) or sub-section (2) shall be filed within sixty days of the date on which the order sought to be appealed against is communicated to the assessee or to the 2[Chief Commissioner or Commissioner], as the case may be.",
+                "3": "(4) The 4[Assessing Officer] or the assessee, as the case may be, on receipt of notice that an appeal against the order of the 3[Commissioner (Appeals)] has been preferred under sub-section (1) or sub-section (2) by the other party may, notwithstanding that he may not have appealed against such order or any part thereof, within thirty days of the receipt of the notice, file a memorandum of cross-objections, verified in the prescribed manner, against any part of the order of the 3[Commissioner (Appeals)] and such memorandum shall be disposed of by the Appellate Tribunal as if it were an appeal presented within the time specified in sub-section (3).",
+                "4": "(5) The Appellate Tribunal may admit an appeal or permit the filing of a memorandum of cross- objections after the expiry of the relevant period referred to in sub-section (3) or sub-section (4), if it is satisfied that there was sufficient cause for not presenting it within that period.",
+                "5": "(6) An appeal to the Appellate Tribunal shall be in the prescribed form and shall be verified in the prescribed manner and shall, except in the case of an appeal referred to in sub-section (2) or a memorandum of cross-objections referred to in sub-section (4), be accompanied by 5[a fee of 6[two hundred rupees]].",
+                "6": "(7) Subject to the provisions of this Act, in hearing and making an order on any appeal under this section, the Appellate Tribunal shall exercise the same powers and follow the same procedure as it exercises and follows in hearing and making an order on any appeal under the Income-tax Act."
+            }
+        },
+        "Section 13.": {
+            "heading": "Rectification of mistakes.",
+            "paragraphs": {
+                "0": "(1) With a view to rectifying any mistake apparent from the record, the 2[Chief Commissioner or Commissioner], the 4[Assessing Officer], the 3[Commissioner (Appeals)] and the Appellate Tribunal may, of his, or its, own motion or on an application by the assessee in this behalf, amend any order passed by him or it in any proceeding under this Act 7[within four years from the end of the financial year in which such order was passed].",
+                "1": "(2) An amendment which has the effect of enhancing the assessment or reducing a refund or otherwise increasing the liability of the assessee shall not be made under this section unless the authority concerned has given notice to the assessee of its intention so to do and has allowed the assessee a reasonable opportunity of being heard.",
+                "2": "(3) Where an amendment is made under this section, the order shall be passed in writing by the authority concerned.",
+                "3": "(4) Subject to the other provisions of this Act, where any such amendment has the effect of reducing the assessment, the 1[Assessing Officer] shall make any refund which may be due to such assessee.",
+                "4": "(5) Where any such amendment has the effect of enhancing the assessment or reducing the refund already made, the 1[Assessing Officer] shall serve on the assessee a notice of demand in the prescribed form specifying the sum payable."
+            }
+        },
+        "Section 14.": {
+            "heading": "Other amendments.",
+            "paragraphs": {
+                "0": "Where as a result of any order made under 2[sections 154, 155, 250, 254, 260, 262, 263 or 264] of the Income-tax Act, it is necessary to recompute the chargeable profits determined in ay assessment under this Act, the 1[Assessing Officer] may proceed to recompute the chargeable profits, and determine the surtax payable or refundable on the basis of such recomputation and make the necessary amendment and the provisions of section 13 shall, so far as may be, apply thereto, the period of four years specified in sub-section (1) of that section being reckoned 3[from the end of the financial year in which the order under the aforesaid sections of the Income-tax Act was passed]."
+            }
+        },
+        "Section 15.": {
+            "heading": "Surtax deductible in computing distributable income under Income-tax Act.",
+            "paragraphs": {
+                "0": "Notwithstanding anything contained in clause (i) of section 109 of the Income-tax Act, in computing the distributable income of a company for the purpose of Chapter XID of that Act, the surtax payable by the company for any assessment year shall be deductible from the total income of the company assessable for that assessment year."
+            }
+        },
+        "Section 16.": {
+            "heading": "Revision of orders prejudicial to revenue.",
+            "paragraphs": {
+                "0": "(1) The 4[Chief Commissioner or Commissioner] may call for and examine the record of any proceeding under this Act, and if he considers that any order passed therein by the 1[Assessing Officer] is erroneous in so far as it is prejudicial to the interests of the revenue, he may, after giving the assessee an opportunity of being heard and after making or causing to be made such inquiry as he deems necessary, pass such order thereon as the circumstances of the case justify, including an order enhancing or modifying the assessment, or cancelling the assessment and directing a fresh assessment.",
+                "1": "5[Explanation.\u2015For the removal of doubts, it is hereby declared that, for the purposes of this sub-section, an order passed by the 1[Assessing Officer] shall include an order passed by the 6[Deputy Commissioner] in exercise of the powers or in performance of the functions of an 1[Assessing Officer] conferred on, or assigned to, him under clause (a) of sub-section (1) of section 125 or under sub-section (1) of section 125A of the Income-tax Act as applied by section 18 of this Act.]",
+                "2": "7[(2) No order shall be made under sub-section (1) after the expiry of two years from the end of the financial year in which the order sought to be revised was passed.]",
+                "3": "(3)Notwithstanding anything contained in sub-section (2), an order in revision under this section may be passed at any time in the case of an order which has been passed in consequence of, or to give effect to, any finding or direction contained in an order of the Appellate Tribunal, the High Court or the Supreme Court.",
+                "4": "Explanation.\u2015In computing the period of limitation for the purpose of sub-section (2), any period during which any proceeding under this section is stayed by an order or injunction of any court shall be excluded."
+            }
+        },
+        "Section 17.": {
+            "heading": "Revision of orders by Chief Commissioner or Commissioner.",
+            "paragraphs": {
+                "0": "1[Chief Commissioner or Commissioner].\u2015 (1) The 1[Chief Commissioner or Commissioner] may, either of his own motion or on an application by the assessee for revision, call for the record of any proceeding under this Act which has been taken by an 2[Assessing Officer] 3* * * subordinate to him and may make such inquiry or cause such inquiry to be made and subject to the provisions of this Act, may pass such order thereon, not being an order prejudicial to the assessee, as he thinks fit.",
+                "1": "(2) The 1[Chief Commissioner or Commissioner] shall not of his own motion revise any order under this section if the order has been made more than one year previously.",
+                "2": "(3) In the case of an application for revision under this section by the assessee, the application shall be made within one year from the date on which the order in question was communicated to him or the date on which he otherwise came to know of it, whichever is earlier:",
+                "3": "Provided that the 1[Chief Commissioner or Commissioner] may, if he is satisfied that the assessee was prevented by sufficient cause from making the application within that period, admit an application made after the expiry of that period.",
+                "4": {
+                    "text": "(4) The 1[Chief Commissioner or Commissioner] shall not revise any order under this section in the following cases\u2015",
+                    "contains": {
+                        "0": "4[(a) where an appeal against the order lies to the Commissioner (Appeals) but has not been made and the time within which such appeal may be made has not expired, or the assessee has not waived his right of appeal; or",
+                        "1": "(b) where the order has been made the subject of an appeal to the Commissioner (Appeals).]"
+                    }
+                },
+                "5": "(5) Every application by an assessee for revision under this section shall be accompanied by a fee of twenty-five rupees.",
+                "6": "Explanation 1.\u2015 An order by the 1[Chief Commissioner or Commissioner] declining to interfere shall, for the purposes of this section, be deemed not to be an order prejudicial to the assessee.",
+                "7": "5* * * * *"
+            }
+        },
+        "Section 18.": {
+            "heading": "Application of provisions of Income-tax Act.",
+            "paragraphs": {
+                "0": "The provisions of the following sections and Schedules of the Income-tax Act and the Income-tax (Certificate Proceedings) Rules, 1962, as in force from time to time, shall apply with such modifications, if any, as may be prescribed, as if the said provisions and the rules referred to surtax instead of to Income-tax 6***:\u2015",
+                "1": "7[2(44)], 8[ 9[116, 117, 118, 119, 120, 129], 131, 132, 132A, 10[132B],133 to 136 (both inclusive)], 138, 140, 156, 160, 161, 162, 163, 166, 167, 170,173, 175, 176, 178, 179, 11[218 to 229] (both inclusive), 231, 232, 233, 237 to 242 (both inclusive) 244, 245, 254 to 262 (both inclusive) 265, 266, 268, 269, 281, 10[281B], 282, 284, 8[287, 288, 288A, 288B, 289 to 293 (both inclusive),] the Second Schedule and the Third Schedule:",
+                "2": "Provided that references in the said provisions and the rules to the \u201cassessee\u201d shall be construed as references to an assessee as defined in this Act."
+            }
+        },
+        "Section 19.": {
+            "heading": "Income-tax papers to be available for the purposes of this Act.",
+            "paragraphs": {
+                "0": "(1) Notwithstanding anything contained in the Income-tax Act, all information contained in any statement or return made or furnished under the provisions of that Act or obtained or collected for the purposes of that Act may be used for the purposes of this Act.",
+                "1": "(2) All information contained in any statement or return made or furnished under the provisions of this Act or obtained or collected for the purposes of this Act may be used for the purposes of the Income-tax Act."
+            }
+        },
+        "Section 20.": {
+            "heading": "Failure to deliver returns, etc.",
+            "paragraphs": {
+                "0": "If any person fails without reasonable cause to furnish in due time any return under sub-section (2) of section 5, or to produce, or cause to be produced, any accounts or documents required to be produced under section 6, he shall be punishable with fine which may extend to five hundred rupees, and with a further fine which may extend to ten rupees for every day during which the default continues."
+            }
+        },
+        "Section 21.": {
+            "heading": "False statements.",
+            "paragraphs": {
+                "0": "If a person makes in any return furnished under section 5, any statement which is false, and which he either knows or believes to be false, or does not believe to be true, he shall be punishable with simple imprisonment which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+            }
+        },
+        "Section 22.": {
+            "heading": "Abetment of false returns, etc.",
+            "paragraphs": {
+                "0": "If a person makes or induces in any manner another person to make and deliver any account, statement or declaration relating to chargeable profits liable to surtax which is false and which he either knows to be false or does not believe to be true, he shall be punishable with simple imprisonment which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+            }
+        },
+        "Section 23.": {
+            "heading": "Institution of proceedings and composition of offences.",
+            "paragraphs": {
+                "0": "(1) A person shall not be proceeded against for an offence under section 20 or section 21 or section 22 or under the Indian Penal Code (45 of 1860) except at the instance of the 1[Chief Commissioner or Commissioner.]",
+                "1": "(2) The 1[Chief Commissioner or Commissioner] may, either before or after the institution of proceedings, compound any offence punishable under section 20 or section 21 or section 22."
+            }
+        },
+        "Section 24.": {
+            "heading": "Power to make exemption, etc., in relation to certain Union territories.",
+            "paragraphs": {
+                "0": "If the Central Government considers it necessary or expedient so to do for avoiding any hardship or anomaly or removing any difficulty that may arise as a result of the application of this Act to the Union territories of Dadra and Nagar Haveli, Goa, Daman and Diu and Pondicherry, the Central Government may, by general or special order, make an exemption, reduction in rate or other modification in respect of surtax in favour of any class of assessees or in regard to the whole or any part of the chargeable profits of any class of assessees."
+            }
+        },
+        "Section 24A.": {
+            "heading": "Agreement with foreign countries.",
+            "paragraphs": {
+                "0": {
+                    "text": "The Central Government may enter into an agreement with the Government of any country outside India\u2015",
+                    "contains": {
+                        "0": "(a) for the granting of relief in respect of chargeable profits on which have been paid both surtax under this Act and tax of a similar character or income-tax on such profits in that country, or",
+                        "1": "(b) for the avoidance of double taxation of chargeable profits under this Act and under any law relating to the taxation of income or profits in force in that country, or",
+                        "2": "(c) for exchange of information for the prevention of evasion or avoidance of surtax chargeable under this Act or the tax chargeable under the corresponding law in force in that country or investigation of cases of such evasion or avoidance, or",
+                        "3": "(d) for recovery of tax under this Act and under any law relating to the taxation of income or profits in force in that country,"
+                    }
+                },
+                "1": "and may, by notification in the Official Gazette, make such provision as may be necessary for implementing the agreement.]"
+            }
+        },
+        "Section 24AA.": {
+            "heading": "Power to make exemption, etc., in relation to participation in the business of prospecting for, extraction, etc., of mineral oils.",
+            "paragraphs": {
+                "0": "(1) If the Central Government is satisfied that it is necessary or expedient so to do in the public interest, it may, by notification in the Official Gazette, make an exemption, reduction in rate or other modification in respect of surtax in favour of any class of foreign companies specified in sub-section (2) or in regard to the whole or any part of the chargeable profits of such class of companies.",
+                "1": "Explanation.\u2015For the purposes of this sub-section, \u201cforeign company\u201d shall have the meaning assigned to it in clause (4) of section 80B of the Income-tax Act.",
+                "2": {
+                    "text": "(2)The foreign companies referred to in sub-section (1) are the following, namely:\u2015",
+                    "contains": {
+                        "0": "(a) foreign companies with whom the Central Government has entered into agreement for the association or participation of that Government or any person authorised by that Government in any business consisting of the prospecting for or extraction or production of mineral oils; and",
+                        "1": "(b) foreign companies providing any services or facilities or supplying any ship, aircraft, machinery or plant (whether by way of sale or hire) in connection with any business consisting of the prospecting for or extraction or production of mineral oils carried on by that Government or any person specified by that Government in this behalf by notification in the official Gazette."
+                    }
+                },
+                "3": "(3) Every notification issued under this section shall be laid before each House of Parliament.",
+                "4": "Explanation.\u2015For the purpose of this section, \u201cmineral oil\u201d includes petroleum and natural gas.]"
+            }
+        },
+        "Section 25.": {
+            "heading": "Power to make rules.",
+            "paragraphs": {
+                "0": "(1) The Board may, subject to the control of the Central Government, by notification in the official Gazette, make rules for carrying out the purposes of this Act.",
+                "1": {
+                    "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2015",
+                    "contains": {
+                        "0": "(a) the form in which returns under section 5 may be furnished and the manner in which they may be verified.",
+                        "1": "(b) the form in which notice for making provisional assessment shall be given;",
+                        "2": "(c) the form in which appeals under section 11 or section 12 may be filed and the manner in which they shall be verified;",
+                        "3": "2[(cc) the circumstances in which, the conditions subject to which and the manner in which, the 3[Commissioner (Appeals)] may permit an appellant to produce evidence which he did not produce or which he was not allowed to produce before the 4[Assessing Officer]];",
+                        "4": "(d) the procedure to be followed on applications for rectification of mistakes and applications for refunds;",
+                        "5": "5[(dd) the procedure to be followed in calculating interest payable by assessees or interest payable by the Government to assessees under this Act including the rounding off of the period for which such interest is to be calculated in cases where such period includes a fraction of a month, and specifying the circumstances in which and the extent to which petty amounts of interest payable by assessees may be ignored;]",
+                        "6": "(e) any other matter by this Act is to be, or may be, prescribed."
+                    }
+                },
+                "2": "1[(2A) The power to make rules conferred by this section shall include the power to give retrospective effect, from a date not earlier than the date of commencement of this Act, to the rules or any of them and, unless the contrary is permitted (whether expressly or by necessary implication), no retrospective effect shall be given to any rule so as to prejudicially affect the interests of assessees.]",
+                "3": "(3) The Central Government shall cause every rule made under this section to be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of thirty days, which may be comprised in one session 2[or in two or more successive sessions], and if, before the expiry of the session 3[immediately following the session or the successive sessions aforesaid], both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, that rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+            }
+        },
+        "Section 26.": {
+            "heading": "Saving.",
+            "paragraphs": {
+                "0": "Nothing contained in this Act shall apply to any company which has no share capital."
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": {
+                "text": "THE FIRST SCHEDULE",
+                "contains": {
+                    "0": "[See Section 2(5)]"
+                }
+            },
+            "1": "RULES FOR COMPUTING THE CHARGEABLE PROFITS",
+            "2": "In computing the chargeable profits of a previous year, the total income computed for that year under the Income-tax Act shall be adjusted as follows:\u2015",
+            "3": {
+                "text": "1. Income, profits and gains and other sums falling within the following clauses shall be excluded from such total income, namely:\u2015",
+                "contains": {
+                    "0": "(i) any income chargeable under the Income-tax Act under the head \u201cCapital gains\u201d;",
+                    "1": "(ii) any compensation or other payment as is referred to in clause (ii) of section 28 of the Income-tax Act;",
+                    "2": "(iii) profits and gains of any business of life insurance;",
+                    "3": "(iv) any income referred to in sub-section (2) of section 41 of the Income-tax Act;",
+                    "4": "4* * * * *;",
+                    "5": "(vi) income chargeable under the Income-tax Act under the head \u201cInterest on securities\u201d derived from any security of the Central Government issued or declared to be income-tax free or from any security of a State Government issued income-tax free, the income-tax whereon is payable by the State Government;",
+                    "6": "5[(vii) an amount equal to fifty per cent. of the sum with reference to which a deduction is allowable to the company under the provisions of section 80G of the Income-tax Act;]",
+                    "7": "(viii) income by way of dividends from an Indian company or a company which has made the prescribed arrangements for the declaration and payment of dividends within India;",
+                    "8": "(ix) income by way of royalties received from Government or a local authority or any Indian concern;",
+                    "9": "(x) in the case of a non-resident company which has not made the prescribed arrangements for the declaration and payment of dividends within India, its income by way of any interest or fees for rendering technical services received from Government or a local authority or any Indian concern;",
+                    "10": {
+                        "text": "(xi) in the case of a banking company\u2015",
+                        "contains": {
+                            "0": "(a) any sum which during the previous year is transferred by it to a reserve fund under sub-section (1) of section 17 of the Banking Regulation Act, 1949 (10 of 1949) or is deposited by it with the Reserve Bank of India under sub-clause (ii) of clause (b) of sub-section (2) of section 11 of that Act, not exceeding the amount required under the aforesaid provisions to be so transferred or deposited, as the case may be, or",
+                            "1": "(b) any sum transferred by it during the previous year to any reserves in India including reserves not shown as such in its published balance-sheet in so far as the sums transferred to such reserves are attributable to income chargeable to tax under the Income-tax Act and have not been allowed as a deduction in computing its total income under that Act and in so far as the aggregate of such sums does not exceed the highest of the aggregate of such sums, if any, so transferred during any one of the three years prior to the previous year,"
+                        }
+                    }
+                }
+            },
+            "4": {
+                "text": "whichever is higher;",
+                "contains": {
+                    "0": "(xii) the amount of any deduction from the income-tax 1* * * chargeable on the total income allowed under the annual Finance Act in connection with export of any goods or merchandise out of India or the sale by a manufacturer of any articles to any person who exports them out of India."
+                }
+            },
+            "5": "2[Explanation.\u2015Notwithstanding anything contained in any clause of this rule, the amount of any income or profits and gains which is required to be excluded from the total income under that clause shall be only the amount of such income or profits and gains as computed in accordance with the provisions of the Income-tax Act (except Chapter VIA thereof), and in a case where any deduction is required to be allowed in respect of any such income or profits and gains under the said Chapter VIA, the amount of such income or profits and gains computed as aforesaid as reduced by the amount of such deduction.]",
+            "6": {
+                "text": "2. The balance of the total income arrived at after making the exclusions mentioned in rule 1 shall be reduced by\u2015",
+                "contains": {
+                    "0": {
+                        "text": "(i) the amount of income-tax 1*** payable by the company in respect of its total income under the provisions of the Income-tax Act after making allowance for any relief, rebate or deduction in respect of income-tax 1*** to which the company may be entitled under the provisions of the said Act or the annual Finance Act, and after excluding from such amount\u2015",
+                        "contains": {
+                            "0": "(a) the amount of income-tax 1*** if any, payable by the company in respect of any income referred to in clause (i) or clause (ii) or clause (iii) or clause (viii) of rule,1 included in the total income;",
+                            "1": "3[(b) the amount of income-tax, if any, payable by the company under the provisions of the annual Finance Act with reference to the relevant amount of distributions of dividends by it.",
+                            "2": "Explanation.\u2015In this sub-clause, the expression \u201cthe relevant amount of distributions of dividends\u201d has the meaning assigned to it in the Finance Act of the relevant year;]",
+                            "3": "4[(c) the amount of income-tax, if any, payable by the company under section 104 of the Income-tax Act.",
+                            "4": "Explanation.\u2015 In relation to the assessment year commencing on the 1st day of April, 1964, the reference in this sub-clause to \u201cincome-tax\u201d shall be construed as a reference to \u201csuper-tax\u201d;]"
+                        }
+                    },
+                    "1": "(ii) in the case of a company which has been charged to tax in a country outside India on any portion of its income, profits and gains included in its total income as computed under the Income-tax Act, the tax actually paid in respect of such income, profits and gains in the said country in accordance with the laws in force in that country after allowance of every relief due under the said laws:"
+                }
+            },
+            "7": "Provided that the aforesaid reduction shall not be allowed unless the assessee produces evidence of the fact of the payment of the aforesaid tax in that country.",
+            "8": "3. The net amount of income calculated in accordance with rule 2 shall be increased 1[by the amount of any expenditure] incurred on account of commission, entertainment and advertisement, to the extent such expenditure, in the opinion of the 2[Assessing Officer] is excessive having regard to the circumstances of the case:",
+            "9": "Provided that the previous authority of the 3[Deputy Commissioner] is obtained for holding such expenditure to be excessive."
+        },
+        "THE SECOND SCHEDULE": {
+            "0": {
+                "text": "THE SECOND SCHEDULE",
+                "contains": {
+                    "0": "[See Section 2 (8)]"
+                }
+            },
+            "1": "RULES FOR COMPUTING THE CAPITAL OF A COMPANY FOR THE PURPOSES OF SURTAX",
+            "2": {
+                "text": "1. Subject to the other provisions contained in this Schedule, the capital of a company shall be the aggregate of the amounts, as on the first day of the previous year relevant to the assessment year, of\u2015",
+                "contains": {
+                    "0": "(i) its paid-up share capital;",
+                    "1": "(ii) its reserves, if any created under the proviso (b) to clause (vib) of sub-section (2) of section 10 of the Indian Income-tax Act, 1922 (11 of 1922) or under 4[sub-section (4) of section 32A, or sub- section (3) of section 34], of the Income-tax Act, 1961 (43 of 1961);",
+                    "2": "(iii) its other reserves as reduced by the amounts credited to such reserves as have been allowed as a deduction in computing the income of the company for the purposes of the Indian Income-tax Act, 1922 (11 of 1922) or the Income-tax Act, 1961 (43 of 1961);",
+                    "3": "5* * * * *"
+                }
+            },
+            "3": "6[lA. Where a company has not made any credit in any account in its books as on the first day of the previous year relevant to the assessment year which is of the nature of item (8) or item (9) under the heading \u201cCURRENT LIABILITIES AND PROVISIONS\u201d in the column relating to \u201cLIABILITIES\u201d in the \u201cFORM OF BALANCE-SHEET\u201d, given in part I of Schedule VI to the Companies Act, 1956 (1 of 1956), or where the 2[Assessing Officer] is of opinion that the amount credited in such account falls short of the amount which should have reasonably been credited by it, the amount of its capital as computed under rule 1 shall be reduced by the amount which has not been so credited or, as the case may be, the amount of such shortfall.",
+            "4": "Explanation.\u2015 For the purposes of this rule, the amount of credit which should have reasonably been made by a company in relation to any account of the nature of item (9) aforesaid, means the amount of dividend declared or paid by the company, on or after the first day of the previous year relevant to the assessment year, for the previous year immediately preceding the first mentioned previous year.]",
+            "5": {
+                "text": "2. Where a company owns any assets the income from which in accordance with clause (iii) or clause (vi) or clause (viii) of rule 1 of the First Schedule is required to be excluded from its total income in computing its chargeable profits, the amount of its capital as computed under rule 1 of this Schedule shall be diminished by the cost to it of the said assets as on the first day of the previous year relevant to the assessment year in so far as such cost exceeds the aggregate of\u2015",
+                "contains": {
+                    "0": "(i) any moneys borrowed 1*** and remaining outstanding as on the first day of the said previous year; and",
+                    "1": "(ii) the amount of any fund, any surplus and any such reserve as is not to be taken into account in computing the capital under rule 1."
+                }
+            },
+            "6": "Explanation 1.\u2015 A paid-up share capital or reserve brought into existence by creating or increasing (by revaluation or otherwise) any book asset is not capital for computing the capital of a company for the purposes of this Act.",
+            "7": "Explanation 2.\u2015Any premium received in cash by the company on the issue of its shares standing to the credit of the share premium account shall be regarded as forming part of its paid-up share capital.",
+            "8": "Explanation 3.\u2015Where a company has different previous years in respect of its income, profits and gains, the computation of capital under rules 1, 2 and 3 shall be made with reference to the previous year which commenced first.",
+            "9": "3. Where after the first day of the previous year relevant to the assessment year the capital of a company as computed in accordance with the foregoing rules of this Schedule is increased by any amount during that previous year on account of increase of paid-up share capital 2[or is reduced by any amount on account of reduction of paid-up share capital,] or repayment of any such moneys, such capital shall be increased or reduced, as the case may be, by a sum which bears to that amount the same proportion as the number of days of the previous year during which the increase or the reduction remained effective bears to the total number of days in that previous year.",
+            "10": "4. Where a part of the income, profits and gains of a company is not includible in its total income as computed under the Income-tax Act, its capital shall be the sum ascertained in accordance with rules 1, 2 and 3, diminished by an amount which bears to that sum the same proportion as the amount of the aforesaid income, profits and gains bears to the total amount of its income, profits and gains."
+        },
+        "THE THIRD SCHEDULE": {
+            "0": {
+                "text": "3[THE THIRD SCHEDULE",
+                "contains": {
+                    "0": "(See Section 4)",
+                    "1": "RATES OF SURTAX"
+                }
+            },
+            "1": {
+                "text": "Surtax shall be charged on the amount (hereinafter referred to as the chargeable amount) by which the chargeable profits exceed the amount of the statutory deduction at the following rates, namely:\u2015",
+                "contains": {
+                    "0": "(i) on so much of the chargeable amount as does not exceed five 25 per cent. per cent. of the amount of capital as computed in accordance with the Second Schedule",
+                    "1": "(ii) on the balance, if any, of the chargeable amount 4[40 per cent.]"
+                }
+            },
+            "2": {
+                "text": "5[Provided that where in the case of an Indian company or a company which has made the prescribed arrangements for the declaration and payment of dividends within India\u2015",
+                "contains": {
+                    "0": "(i) which is such a company as is referred to in section 108 of the Income-tax Act, and",
+                    "1": "(ii) whose paid-up share capital (subscribed and paid for in cash) as on the last day of the previous year, is not less than twenty-five per cent. of the amount of the capital as computed under the Second Schedule to this Act,"
+                }
+            },
+            "3": {
+                "text": "the aggregate of\u2015",
+                "contains": {
+                    "0": "(a) the amount of income-tax-payable by the company in respect of its total income of the previous year under the provisions of the Income-tax Act after making allowance for any relief, rebate or deduction in respect of income-tax to which the company is entitled under the provisions of the said Act or the annual Finance Act; and",
+                    "1": "(b) the amount of surtax computed in accordance with the foregoing provisions of this Schedule,"
+                }
+            },
+            "4": "exceeds the amount calculated at seventy per cent. of the total income of the company, the amount of such excess shall be deducted from the amount of surtax referred to in clause (b) above and the balance shall be the amount of the surtax payable by the company.]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. Ins. by Act 16 of 1981, s. 35 (w.e.f. 1-4-1981).",
+            "1": "2. Clause (1) re-numbered as clause (1A) thereof by s. 35, ibid. (w.e.f. 1-4-1981).",
+            "2": "3. Subs. by Act 66 of 1976, s. 29, for \u201cten per cent.\u201d (w.e.f. 1-4-1977) ."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 4 of 1988, s. 188, for s. 3 (w.e.f. 1-4-1988).",
+            "1": "2. Ins. by Act 23 of 1986, s. 47 (w.e.f. 1-4-1988).",
+            "2": "3. Subs. by Act 4 of 1988, s. 187, for \u201cIncome-tax Officer\u201d (w.e.f.1-4-1988)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 4 of 1988, s.187, for \u201cIncome-tax Officer\u201d (w.e.f.1-4-1988).",
+            "1": "2.  Ins. by Act 16 of 1981, s. 36 (w.e.f.1-4-1981)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 4 of 1988, s.187, for \u201cIncome-tax Officer\u201d (w.e.f.1-4-1988)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 4 of 1988, s.187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 67 of 1984, s.77, for \u201ctwelve per cent.\u201d (w.e.f. 1-10-1984).",
+            "1": "2. Subs. by Act 4 of 1988, s.187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 4 of 1988, s.187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988).",
+            "1": "2. Subs. by Act 67 of 1984, s. 77, for \u201ctwelve per cent.\u201d (w.e.f. 1-10-1984).",
+            "2": "3. Subs. by Act 26 of 1974, s. 20, for \u201csurtax payable\u201d (retrospectively).",
+            "3": "4. Subs. by Act 4 of 1988, s. 187, for \u201cInspecting Assistant Commissioner\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 10": {
+            "0": "1. Ins. by Act 16 of 1981, s. 37 (w.e.f. 1-4-1981).",
+            "1": "2. Subs. by Act 4 of 1988, s. 187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 4 of 1988, s. 187, for \u201cCommissioner\u201d (w.e.f. 1-4-1988).",
+            "1": "2. Ins. by Act 16 of 1981, s. 38 (w.e.f. 1-4-1981).",
+            "2": "3. Subs. by Act 29 of 1977, s. 39 and the Fifth Sch., for \u201cAppellate Assistant Commissioner\u201d (w.e.f. 10-7-1978).",
+            "3": "4. Subs. by Act 4 of 1988, s. 187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988).",
+            "4": "5. Ins. by Act 16 of 1981, s. 39 (w.e.f. 1-4-1981)."
+        },
+        "Page 12": {
+            "0": "1. Ins. by Act 29 of 1977, s. 39 and the Fifth Sch. (w.e.f. 10-7-1978).",
+            "1": "2. Subs. by Act 4 of 1988, s. 187, for \u201cCommissioner\u201d (w.e.f. 1-4-1988).",
+            "2": "3. Subs. by Act 29 of 1977, s. 39 and the Fifth Sch. for \u201cAppellate Assistant Commissioner\u201d (w.e.f. 10-7-1978).",
+            "3": "4. Subs. By Act 4 of 1988, s. 187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988).",
+            "4": "5. Subs. by Act 42 of 1970, s. 72, for \u201ca fee of one hundred rupees\u201d (w.e.f. 1-4-1971).",
+            "5": "6. Subs. by Act 16 of 1981, s. 40, for certain words (w.e.f. 1-6-1981).",
+            "6": "7. Subs. By Act 67 of 1984, s. 78, for \u201cwithin four years of the date on which such order was passed\u201d (w.e.f. 1-10-1984)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by Act 4 of 1988, s. 187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988).",
+            "1": "2. Subs. by Act 42 of 1970, s. 73, for \u201csection 154 or section 155\u201d (w.e.f. 1-4-1971).",
+            "2": "3. Subs. by  Act  67 of  1984,  s. 79,  for  \u201cfrom  the  date of  the  order  passed under  the  aforesaid  sections of  the  Income-tax  Act\u201d(w.e.f. 1-10-1984).",
+            "3": "4. Subs. by Act 4 of 1988, s. 187, for \u201cCommissioner\u201d (w.e.f. 1-4-1988).",
+            "4": "5. Ins. by Act 67 of 1984, s. 80 (w.e.f. 1-10-1984).",
+            "5": "6. Subs. by Act 4 of 1988, s. 187, for \u201cInspecting Assistant Commissioner\u201d (w.e.f. 1-4-1988).",
+            "6": "7. Subs. by Act 67 of 1984, s. 80, for sub-section (2) (w.e.f. 1-10-1984)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 4 of 1988, s. 187, for \u201cCommissioner\u201d (w.e.f 1-4-1988).",
+            "1": "2. Subs. by s. 187, ibid., for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988).",
+            "2": "3. The words \u201cor Appellate Assistant Commissioner\u201d omitted by Act 29 of 1977, s. 39 and the Fifth Sch. (w.e.f. 10-7-1978).",
+            "3": "4. Subs. by s. 39 and the Fifth Sch., ibid., for clauses (a), (b) and (c) (w.e.f. 10-7-1978).",
+            "4": "5. Explanation 2 omitted by s. 39 and the Fifth Sch. (w.e.f. 10-7-1978).",
+            "5": "6. The words \u201cand super-tax\u201d omitted by Act 10 of 1965, s. 74 (w.e.f. 1-4-1965).",
+            "6": "7. Subs. by Act 4 of 1988, s. 189, for \u201c2(43B) and 44\u201d (w.e.f. 1-4-1989).",
+            "7": "8. Subs. by Act 20 of 1967, s. 36, for \u201c131 to 136 (both inclusive)\u201d (w.e.f. 1-4-1967).",
+            "8": "9. Subs. by Act 4 of 1988, s. 189, for \u201c118, 125, 125A, 129, 130, 130A\u201d (w.e.f. 1-4-1988).10. Ins. by Act 41 of 1975, s. 124 (w.e.f. 1-10-1975).11. Subs. by Act 16 of 1981, s. 41, for \u201c220 to 229\u201d (w.e.f. 1-4-1981)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 4 of 1988, s. 187, for \u201cCommissioner\u201d (w.e.f. 1-4-1988).",
+            "1": "2. Subs. by Act 16 of 1972, s. 57, for section 24A (w.e.f. 1-4-1972)."
+        },
+        "Page 16": {
+            "0": "1. Ins. by Act 16 of 1981, s. 42 (w.e.f. 1-4-1981).",
+            "1": "2. Ins. by Act 16 of 1972, s. 58 (w.e.f. 1-4-1972).",
+            "2": "3. Subs. by Act 29 of 1977, s. 39 and Fifth Sch., for \u201cAppellate Assistant Commissioner\u201d (w.e.f. 1-4-1977).",
+            "3": "4. Subs. by Act 4 of 1988, s. 187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988).",
+            "4": "5. Ins. by Act 42 of 1970, s. 74 (w.e.f. 1-4-1971)."
+        },
+        "Page 17": {
+            "0": "1. Ins. by Act 26 of 1974, s. 21 (w.e.f. 18-8-1974).",
+            "1": "2. Subs. by Act 41 of 1975, s. 125, for \u201cor in two successive sessions\u201d (w.e.f. 1-4-1976).",
+            "2": "3. Subs. by s. 125, ibid., for \u201cin which it is so laid or the session immediately following\u201d (w.e.f. 1-4-1976).",
+            "3": "4. Clause (v) omitted by Act 20 of 1967, s. 36 (w.e.f. 1-4-1968).",
+            "4": "5. Subs. by s. 36, ibid., for clause (vii) (w.e.f. 1-4-1968)."
+        },
+        "Page 18": {
+            "0": "1. The words \u201cand super-tax\u201d omitted by Act 10 of 1965, s. 74 (w.e.f. 1-4-1965).",
+            "1": "2. Ins. by Act 16 of 1981, s. 43 (w.e.f. 1-4-1981).",
+            "2": "3. Subs. by Act 13 of 1966, s. 43, for sub-clause (b) (w.e.f. 1-4-1966).",
+            "3": "4. Ins. by s. 43, ibid. (retrospectively)."
+        },
+        "Page 19": {
+            "0": "1. Subs. by Act 66 of 1976, s. 29, for \u201c(ii) any expenditure\u201d (w.e.f. 1-4-1977).",
+            "1": "2. Subs. by Act 4 of 1988, s. 187, for \u201cIncome-tax Officer\u201d (w.e.f. 1-4-1988).",
+            "2": "3. Subs. by s. 187, ibid., for \u201cInspecting Assistant Commissioner\u201d (w.e.f. 1-4-1988).",
+            "3": "4. Subs. by Act 66 of 1976, s. 29, for \u201csub-section (3) of section 34\u201d (w.e.f. 1-4-1977).",
+            "4": "5. Sub-clauses (iv) and (v) omitted by s. 29, ibid. (w.e.f. 1-4-1977).",
+            "5": "6. Ins. by s. 29, ibid. (w.e.f. 1-4-1975)."
+        },
+        "Page 20": {
+            "0": "1. The words, brackets  and figures \u201cother than the debentures referred to in clause (iv) or moneys referred to in clause (iv) ofrule 1\u201d omitted by Act 66 of 1976, s. 29 (w.e.f. 1-4-1977).",
+            "1": "2. Subs. by s. 29, ibid., for certain words, brackets and figures (w.e.f. 1-4-1977).",
+            "2": "3. Subs. by Act 32 of 1971, s. 38, for \u201cThe Third Schedule\u201d (w.e.f. 1-4-1972).",
+            "3": "4. Subs. by Act 20 of 1974, s. 15, for \u201c30 per cent.\u201d (w.e.f. 1-4-1975).",
+            "4": "5. Ins. by s. 15, ibid. (w.e.f. 1-4-1975)."
+        }
+    }
+}

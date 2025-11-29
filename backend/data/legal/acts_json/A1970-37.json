@@ -1,0 +1,543 @@
+{
+    "Act Title": "THE CONTRACT LABOUR (REGULATION AND ABOLITION) ACT, 1970",
+    "Act ID": "ACT NO. 37 OF 1970",
+    "Enactment Date": "[5th September, 1970.]",
+    "Act Definition": {
+        "0": "An Act to regulate the employment of contract labour in certain establishments and to provide for its abolition in certain circumstances and for matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent, commencement and application.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Contract Labour (Regulation and Abolition) Act, 1970.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1as the Central Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different provisions of this Act.",
+                        "3": {
+                            "text": "(4) It applies\u2014",
+                            "contains": {
+                                "0": "(a) to every establishment in which twenty or more workmen are employed or were employed on any day of the preceding twelve months as contract labour;",
+                                "1": "(b) to every contractor who employees or who employed on any day of the preceding twelve months twenty or more workmen:"
+                            }
+                        },
+                        "4": "Provided that the appropriate Government may, after giving not less than two months\u2019 notice of its intention so to do, by notification in the Official Gazette, apply the provisions of this Act to any establishment or contractor employing such number of workmen less than twenty as may be specified in the notification.",
+                        "5": "(5) (a) It shall not apply to establishments in which work only of an intermittent or casual nature is performed.",
+                        "6": "(b) If a question arises whether work performed in an establishment is of an intermittent or casual nature, the appropriate Government shall decide that question after consultation with Central Board or, as the case may be, a State Board, and its decision shall be final.",
+                        "7": {
+                            "text": "Explanation.\u2014For the purpose of this sub-section, work performed in an establishment shall not be deemed to be of an intermittent nature\u2014",
+                            "contains": {
+                                "0": "(i) if it was performed for more than one hundred and twenty days in the preceding twelve months, or",
+                                "1": {
+                                    "text": "(ii) if it is of a seasonal character and is performed for more than sixty days in a year.",
+                                    "contains": {
+                                        "0": "STATE AMENDMENT Maharashtra"
+                                    }
+                                }
+                            }
+                        },
+                        "8": "Amendment of section 1 of 37 of 1970.\u2014In Section 1 of the Contract Labour (Regulation and Abolition) Act, 1970, in its application to the State of Maharashtra, in sub-section (4),\u2014",
+                        "9": "(a) in clause (a), for the words \u201ctwenty or more workmen\u201d the words \u201cfifty or more workmen\u201d shall be substituted;",
+                        "10": "(b) in clause (b), for the words \u201ctwenty or more workmen\u201d the words \u201cfifty or more workmen\u201d shall be substituted;",
+                        "11": "(c) in the proviso, for the words \u201cless than twenty\u201d the words \u201cless than fifty\u201d shall be substituted.",
+                        "12": "[Vide Maharashtra Act 2 of 2017, s. 2.]",
+                        "13": "Andhra Pradesh",
+                        "14": "Amendment of section 1 central Act 37 of 1970.\u2014In the Contract Labour (Regulation and Abolition) Act, 1970, in section 1, in sub-section (4), in clauses (a), (b) and the provisio thereunder, for the word \u201ctwenty\u201d the word \u201cfifty\u201d shall be substituted.",
+                        "15": "[Vide Andhra Pradesh Act 21 of 2015, s. 2.]",
+                        "16": {
+                            "text": "Uttar Pradesh",
+                            "contains": {
+                                "0": "In section 1 of the Contract Labour (Regulation and Abolition) Act, 1970 hereinafter referred to as the principal Act, for sub-section (4) the following sub-section shall be substituted\u2014",
+                                "1": "\u201c(4) It applies\u2014 (a) to every establishment in which fifty or more workmen are employed or were employed on any day of the preceding twelve months as contract labour; (b) to every contractor who employs or who employed on any day of the preceding twelve months fifty or more workmen. Provided that the State Government may, after giving not less than two months\u2019 notice of its intention so to do, by notification in the Official Gazette, apply the provisions of this Act to any establishment or contractor employing such number of workmen less than fifty as may be specified in the notification.\u201d",
+                                "2": "[Vide the Uttar Pradesh Act 14 of 2018, s. 2]"
+                            }
+                        }
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "1[(a) \u201cappropriate Government\u201d means,\u2014",
+                                    "contains": {
+                                        "0": "(i) in relation to an establishment in respect of which the appropriate Government under the Industrial Disputes Act, 1947 (14 of 1947), is the Central Government, the Central Government;",
+                                        "1": "(ii) in relation to any other establishment, the Government of the State in which that other establishment is situate;]"
+                                    }
+                                },
+                                "1": "(b) a workman shall be deemed to be employed as \u201ccontract labour\u201d in or in connection with the work of an establishment when he is hired in or in connection with such work by or through a contractor, with or without the knowledge of the principal employer;",
+                                "2": "(c) \u201ccontractor\u201d, in relation to an establishment, means a person who undertakes to produce a given result for the establishment, other than a mere supply of goods of articles of manufacture to such establishment, through contract labour or who supplies contract labour for any work of the establishment and includes a sub-contractor;",
+                                "3": "(d) \u201ccontrolled industry\u201d means any industry the control of which by the Union has been declared by any Central Act to be expedient in the public interest;",
+                                "4": {
+                                    "text": "(e) \u201cestablishment\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(i) any office or department of the Government or a local authority, or",
+                                        "1": "(ii) any place where any industry, trade, business, manufacture or occupation is carried on;"
+                                    }
+                                },
+                                "5": "(f) \u201cprescribed\u201d means prescribed by rules made under this Act; (g) \u201cprincipal employer\u201d means\u2014 (i) in relation to any office or department of the Government or a local authority, the head of that office or department or such other officer as the Government or the local authority, as the case may be, may specify in this behalf, (ii) in a factory, the owner or occupier of the factory and where a person has been named as the manager of the factory under the Factories Act, 1948 (63 of 1948), the person so named, (iii) in a mine, the owner or agent of the mine and where a person has been named as the manager of the mine, the person so named, (iv) in any other establishment, any person responsible for the supervision and control of the establishment. Explanation.\u2014For the purpose of sub-clause (iii) of this clause, the expressions \u201cmine\u201d, \u201cowner\u201d and \u201cagent\u201d shall have the meanings respectively assigned to them in clause (j), clause (l) and clause (c) of sub-section (1) of section 2 of the Mines Act, 1952 (35 of 1952); (h) \u201cwages\u201d shall have the meaning assigned to it in clause (vi) of section 2 of the Payment of Wages Act, 1936 (4 of 1936); (i) \u201cworkman\u201d means any person employed in or in connection with the work of any establishment to do any skilled, semi-skilled or un-skilled manual, supervisory, technical or clerical work for hire or reward, whether the terms of employment be express or implied, but does not include any such person\u2014 (A) who is employed mainly in a managerial or administrative capacity; or (B) who, being employed in a superviory capacity draws wages exceeding five hundred rupees per mensem or exercises, either by the nature of the duties attached to the office or by reason of the powers vested in him, functions mainly of a managerial nature; or (C) who is an out-worker, that is to say, a person to whom any articles or materials are given out by or on behalf of the principal employer to be made up, cleaned, washed, altered, ornamented, finished, repaired, adapted or otherwise processed for sale for the purposes of the trade or business of the principal employer and the process is to be carried out either in the home of the out-worker or in some other premises, not being premises under the control and management of the principal employer. (2) Any reference in this Act to a law which is not in force in the State of Jammu and Kashmir* shall, in relation to that State, be construed as a reference to the corresponding law, if any, in force in that State."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "THE ADVISORY BOARDS",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Central Advisory Board.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, as soon as may be, constitute a board to be called the Central Advisory Contract Labour Board (hereinafter referred to as the Central Board) to advise the Central Government on such matters arising out of the administration of this Act as may be referred to it and to carry out other functions assigned to it under this Act. (2) The Central Board shall consist of\u2014 (a) a Chairman to be appointed by the Central Government; (b) the Chief Labour Commissioner (Central), exofficio; (c) such number of members, not exceeding seventeen but not less than eleven, as the Central Government may nominate to represent that Government, the Railways, the coal industry, the mining industry, the contractors, the workmen and any other interests which, in the opinion of the Central Government, ought to be represented on the Central Board.",
+                        "1": "(3) The number of persons to be appointed as members from each of the categories specified in sub-section (2), the term of office and other conditions of service of, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among, the members of the Central Board shall be such as may be prescribed:",
+                        "2": "Provided that the number of members nominated to represent the workmen shall not be less than the number of members nominated to represent the principal employers and the contractors."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "State Advisory Board.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may constitute a board to be called the State Advisory Contract Labour Board (hereinafter referred to as the State Board) to advise the State Government on such matters arising out of the administration of this Act as may be referred to it and to carry out other functions assigned to it under this Act.",
+                        "1": {
+                            "text": "(2) The State Board shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) a Chairman to be appointed by the State Government;",
+                                "1": "(b) the Labour Commissioner, ex officio, or in his absence any other officer nominated by the State Government in that behalf;",
+                                "2": "(c) such number of members, not exceeding eleven but not less than nine, as the State Government may nominate to represent that Government, the industry, the contractors, the workmen and any other interests which, in the opinion of the State Government, ought to be represented on the State Board."
+                            }
+                        },
+                        "2": "(3) The number of persons to be appointed as members from each of the categories specified in sub-section (2), the term of office and other conditions of service of, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among the, members of the State Board shall be such as may be prescribed:",
+                        "3": "Provided that the number of members nominated to represent the workmen shall not be less than the number of members nominated to represent the principal employers and the contractors."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Power to constitute committees.",
+                    "paragraphs": {
+                        "0": "(1) The Central Board or the State Board, as the case may be, may constitute such committees and for such purpose or purposes as it may think fit.",
+                        "1": "(2) The committee constituted under sub-section (1) shall meet at such times and places and shall observe such rules of procedure in regard to the transaction of business at its meetings as may be prescribed.",
+                        "2": "(3) The members of a committee shall be paid such fees and allowances for attending its meetings as may be prescribed:",
+                        "3": "Provided that no fees shall be payable to a member who is an officer of Government or of any corporation established by any law for the time being in force."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "REGISTRATION OF ESTABLISHMENTS EMPLOYING CONTRACT LABOUR",
+            "Sections": {
+                "Section 6.": {
+                    "heading": "Appointment of registering officers.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The appropriate Government may, by an order notified in the Official Gazette\u2014",
+                            "contains": {
+                                "0": "(a) appoint such persons, being Gazetted Officers of Government, as it thinks fit to be registering officers for the purposes of this Chapter; and",
+                                "1": "(b) define the limits, within which a registering officer shall exercise the powers conferred on him by or under this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Registration of certain establishments.",
+                    "paragraphs": {
+                        "0": "(1) Every principal employer of an establishment to which this Act applies shall, within such period as the appropriate Government may, by notification in the Official Gazette, fix in this behalf with respect to establishments generally or with respect to any class of them, make an application to the registering officer in the prescribed manner for registration of the establishment:",
+                        "1": "Provided that the registering officer may entertain any such application for registration after expiry of the period fixed in this behalf, if the registering officer is satisfied that the applicant was prevented by sufficient cause from making the application in time.",
+                        "2": {
+                            "text": "(2) If the application for registration is complete in all respects, the registering officer shall register the establishment and issue to the principal employer of the establishment a certificate of registration containing such particulars as may be prescribed.",
+                            "contains": {
+                                "0": "STATE AMENDMENTS"
+                            }
+                        },
+                        "3": {
+                            "text": "Uttar Pradesh",
+                            "contains": {
+                                "0": "In section 7 of the principal Act, after sub-section (2) the following sub-section shall be inserted, namely:-",
+                                "1": "\u201c(3) On submission of application in all respect the registering officer shall grant or refuse to grant or object to grant registration within one day from the date of submission of application and in such manner as may be prescribed. On the expiration of the said period the registration shall be deemed to be granted.\u201d",
+                                "2": "Applicant may submit his application on departmental web portal along with necessary documents and payment of fee. In such case if the application is complete in all respect and the applicant is eligible, automatic registration shall be granted by the web portal and registration certificate be sent through e- mail;",
+                                "3": "Provided that if the registration is obtained by the misrepresentation of fact or concealment of fact or on the basis of forged document then such registration shall be deemed null and void and can be cancelled by registering officer and legal action shall be taken against applicant.\u201d"
+                            }
+                        },
+                        "4": "[Vide the Uttar Pradesh Act 14 of 2018, s. 3]"
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Revocation of registration in certain cases.",
+                    "paragraphs": {
+                        "0": "If the registering officer is satisfied, either on a reference made to him in this behalf or otherwise, that the registration of any establishment has been obtained by misrepresentation or suppression of any material fact, or that for any other reason the registration has become useless or ineffective and, therefore, requires to be revoked, the registering officer may, after giving an opportunity to the principal employer of the establishment to be heard and with the previous approval of the appropriate Government, revoke the registration."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Effect of non-registration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No principal employer of an establishment, to which this Act applies, shall\u2014",
+                            "contains": {
+                                "0": "(a) in the case of an establishment required to be registered under section 7, but which has not been registered within the time fixed for the purpose under that section,",
+                                "1": "(b) in the case of an establishment the registration in respect of which has been revoked under section 8,"
+                            }
+                        },
+                        "1": "employ contract labour in the establishment after the expiry of the period referred to inclause (a) or after the revocation of registration referred to in clause (b), as the case may be."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Prohibition of employment of contract labour.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in this Act, the appropriate Government may, after consultation with the Central Board or, as the case may be, a State Board, prohibit, by notification in the Official Gazette, employment of contract labour in any process, operation or other work in any establishment.",
+                        "1": {
+                            "text": "(2) Before issuing any notification under sub-section (1) in relation to an establishment, the appropriate Government shall have regard to the conditions of work and benefits provided for the contract labour in that establishment and other relevant factors, such as\u2014",
+                            "contains": {
+                                "0": "(a) whether the process, operation or other work is incidental to, or necessary for the industry, trade, business, manufacture or occupation that is carried on in the establishment;",
+                                "1": "(b) whether it is of perennial nature, that is to say, it is of sufficient duration having regard to the nature of industry, trade, business, manufacture or occupation carried on in that establishment;",
+                                "2": "(c) whether it is done ordinarily through, regular workmen in that establishment or an establishment similar thereto;",
+                                "3": "(d) whether it is sufficient to employ considerable number of wholetime workmen."
+                            }
+                        },
+                        "2": "Explanation.\u2014If a question arises whether any process or operation or other work is of perennial nature, the decision of the appropriate Government thereon shall be final."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "LICENSING OF CONTRACTORS",
+            "Sections": {
+                "Section 11.": {
+                    "heading": "Appointment of licensing officers.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The appropriate Government may, by an order notified in the Official Gazette,\u2014",
+                            "contains": {
+                                "0": "(a) appoint such persons, being Gazetted Officers of Government, as it thinks fit to be licensing officers for the purposes of this Chapter; and",
+                                "1": "(b) define the limits, within which a licensing officer shall exercise the powers conferred on licensing officers by or under this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Licensing of contractors.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the appropriate Government may, by notification in the Official Gazette, appoint, no contractor to whom this Act applies, shall undertake or execute any work through contract labour except under and in accordance with a licence issued in that behalf by the licensing officer.",
+                        "1": "(2) Subject to the provisions of this Act, a licence under sub-section (1) may contain such conditions including, in particular, conditions as to hours of work, fixation of wages and other essential amenities in respect of contract labour as the appropriate Government may deem fit to impose in accordance with the rules, if any, made under section 35 and shall be issued on payment of such fees and on the deposit of such sum, if any, as security for the due performance of the conditions as may be prescribed."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Grant of licences.",
+                    "paragraphs": {
+                        "0": "(1) Every application for the grant of a licence under sub-section (1) of section 12 shall be made in the prescribed form and shall contain the particulars regarding the location of the establishment, the nature of process, operation or work for which contract labour is to be employed and such other particulars as may be prescribed.",
+                        "1": "(2) The licensing officer may make such investigation in respect of the application received under sub-section (1) and in making any such investigation the licensing officer shall follow such procedure as may be prescribed.",
+                        "2": {
+                            "text": "(3) A licence granted under this Chapter shall be valid for the period specified therein and may be renewed from time to time for such period and on payment of such fees and on such conditions as may be prescribed.",
+                            "contains": {
+                                "0": "STATE AMENDMENTS"
+                            }
+                        },
+                        "3": {
+                            "text": "Uttar Pradesh",
+                            "contains": {
+                                "0": "Amendment of Section 13.\u2014In section 13 of the principal Act, after sub-section (3) the following sub section shall be inserted, namely:\u2014",
+                                "1": "\u201c(4) If an application for licenses is complete in all respects and the licensing officer fails to make any order within a period of one day then it shall be deemed that the license has been granted to him.\u201d",
+                                "2": "[Vide the Uttar Pradesh Act 14 of 2018, s. 4]"
+                            }
+                        }
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Revocation, suspension and amendment of licences.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) If the licensing officer is satisfied, either on a reference made to him in this behalf or otherwise, that\u2014",
+                            "contains": {
+                                "0": "(a) alicence granted under section 12 has been obtained by misrepresentation or suppression of any material fact, or",
+                                "1": "(b) the holder of a licence has, without reasonable cause, failed to comply with the conditions subject to which the licence has been granted or has contravened any of the provisions of this Act or the rules made thereunder,"
+                            }
+                        },
+                        "1": {
+                            "text": "then, without prejudice to any other penalty to which the holder of the licence may be liable under this Act, the licensing officer may, after giving the holder of the licence an opportunity of showing cause, revoke or suspend the licence or forfeit the sum, if any, or any portion thereof deposited as security for the due performance of the conditions subject to which the licence has been granted.",
+                            "contains": {
+                                "0": "(2) Subject to any rules that may be made in this behalf, the licensing officer may vary or amend a licence granted under section 12."
+                            }
+                        }
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Appeal.",
+                    "paragraphs": {
+                        "0": "(1) Any person aggrieved by an order made under section 7, section 8, section 12 or section 14 may, within thirty days from the date on which the order is communicated to him, prefer an appeal to an appellate officer who shall be a person nominated in this behalf by the appropriate Government:",
+                        "1": "Provided that the appellate officer may entertain the appeal after the expiry of the said period of thirty days, if he is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time.",
+                        "2": "(2) On receipt of an appeal under sub-section (1), the appellate officer shall, after giving the appellant an opportunity of being heard, dispose of the appeal as expeditiously as possible."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "WELFARE AND HEALTH OF CONTRACT LABOUR",
+            "Sections": {
+                "Section 16.": {
+                    "heading": "Canteens.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The appropriate Government may make rules requiring that in every establishment\u2014",
+                            "contains": {
+                                "0": "(a) to which this Act applies,",
+                                "1": "(b) wherein work requiring employment of contract labour is likely to continue for such period as may be prescribed, and",
+                                "2": "(c) wherein contract labour numbering one hundred or more is ordinarily employed by a contractor,"
+                            }
+                        },
+                        "1": {
+                            "text": "one or more canteens shall be provided and maintained by the contractor for the use of such contract labour.",
+                            "contains": {
+                                "0": {
+                                    "text": "(2) Without prejudice to the generality of the foregoing power, such rules may provide for\u2014",
+                                    "contains": {
+                                        "0": "(a) the date by which the canteens shall be provided;",
+                                        "1": "(b) the number of canteens that shall be provided, and the standards in respect of construction, accommodation, furniture and other equipment of the canteens; and",
+                                        "2": "(c) the foodstuffs which may be served therein and the charges which may be made therefor."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Rest-rooms.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In every place wherein contract labour is required to halt at night in connection with the work of an establishment\u2014",
+                            "contains": {
+                                "0": "(a) to which this Act applies, and",
+                                "1": "(b) in which work requiring employment of contract labour is likely to continue for such period as may be prescribed,"
+                            }
+                        },
+                        "1": {
+                            "text": "there shall be provided and maintained by the contractor for the use of the contract labour such number of rest-rooms or such other suitable alternative accommodation within such time as may be prescribed.",
+                            "contains": {
+                                "0": "(2) The rest-rooms or the alternative accommodation to be provided under sub-section (1) shall be sufficiently lighted and ventilated and shall be maintained in a clean and comfortable condition."
+                            }
+                        }
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Other facilities.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "It shall be the duty of every contractor employing contract labour in connection with the work of an establishment to which this Act applies, to provide and maintain\u2014",
+                            "contains": {
+                                "0": "(a) a sufficient supply of wholesome drinking water for the contract labour at convenient places;",
+                                "1": "(b) a sufficient number of latrines and urinals of the prescribed types so situated as to be convenient and accessible to the contract labour in the establishment; and",
+                                "2": "(c) washing facilities."
+                            }
+                        }
+                    }
+                },
+                "Section 19.": {
+                    "heading": "First-aid facilities.",
+                    "paragraphs": {
+                        "0": "There shall be provided and maintained by the contractor so as to be readily accessible during all working hours a first-aid box equipped with the prescribed contents at every place where contract labour is employed by him."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Liability of principal employer in certain cases.",
+                    "paragraphs": {
+                        "0": "(1) If any amenity required to be provided under section 16, section 17, section 18 or section 19 for the benefit of the contract labour employed in an establishment is not provided by the contractor within the time prescribed therefor, such amenity shall be provided by the principal employer within such time as may be prescribed.",
+                        "1": "(2) All expenses incurred by the principal employer in providing the amenity may be recovered by the principal employer from the contractor either by deduction from any amount payable to the contractor under any contract or as a debt payable by the contractor."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Responsibility for payment of wages.",
+                    "paragraphs": {
+                        "0": "(1) A contractor shall be responsible for payment of wages to each worker employed by him as contract labour and such wages shall be paid before the expiry of such period as may be prescribed.",
+                        "1": "(2) Every principal employer shall nominate a representative duly authorised by him to be present at the time of disbursement of wages by the contractor and it shall be the duty of such representative to certify the amounts paid as wages in such manner as may be prescribed.",
+                        "2": "(3) It shall be the duty of the contractor to ensure the disbursement of wages in the presence of the authorised representative of the principal employer.",
+                        "3": "(4) In case the contractor fails to make payment of wages within the prescribed period or makes short payment, then the principal employer shall be liable to make payment of wages in full or the unpaid balance due, as the case may be, to the contract labour employed by the contractor and recover the amount so paid from the contractor either by deduction from any amount payable to the contractor under any contract or as a debt payable by the contractor."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "PENALTIES AND PROCEDURE",
+            "Sections": {
+                "Section 22.": {
+                    "heading": "Obstructions.",
+                    "paragraphs": {
+                        "0": "(1) Whoever obstructs an inspector in the discharge of his duties under this Act or refuses or wilfully neglects to afford the inspector any reasonable facility for making any inspection, examination, inquiry or investigation authorised by or under this Act in relation to an establishment to which, or a contractor to whom, this Act applies, shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both.",
+                        "1": "(2) Whoever wilfully refuses to produce on the demand of an inspector any register or other document kept in pursuance of this Act or prevents or attempts to prevent or does anything which he has reason to believe is likely to prevent any person from appearing before or being examined by an inspector acting in pursuance of his duties under this Act, shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to five hundred rupees, or with both."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Contravention of provisions regarding employment of contract labour.",
+                    "paragraphs": {
+                        "0": "Whoever contravenes any provision of this Act or of any rules made thereunder prohibiting, restricting or regulating the employment of contract labour, or contravenes any condition of a licence granted under this Act, shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both, and in the case of a continuing contravention with an additional fine which may extend to one hundred rupees for every day during which such contravention continues after conviction for the first such contravention."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Other offences.",
+                    "paragraphs": {
+                        "0": "If any person contravenes any of the provisions of this Act or of any rules made thereunder for which no other penalty is elsewhere provided, he shall be punishable with imprisonment for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) If the person committing an offence under this Act is a company, the company as well as every person in charge of, and responsible to, the company for the conduct of its business at the time of the commission of the offence shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in thissub-section shall render any such person liable to any punishment if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or that the commission of the offence is attributable to any neglect on the part of any director, manager, managing agent or any other officer of the company, such director, manager, managing agent or such other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purpose of this section\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                                "1": {
+                                    "text": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm.",
+                                    "contains": {
+                                        "0": "STATE AMENDMENTS"
+                                    }
+                                }
+                            }
+                        },
+                        "4": {
+                            "text": "Uttar Pradesh",
+                            "contains": {
+                                "0": "Insertion of new Section 25-A.\u2014After section-25 of the principal Act the following section shall be inserted, namely:\u2014",
+                                "1": "\u201c25-A. (1) Any offence committed under this Act, punishable with fine or imprisonment up to six months or with both may, on an application of the accuses person, either before or after institution of any prosecution, be compounded by such Competent Officer, as the State Government may by notification, specify for a sum of fifty percent of the maximum fine provided for such offence, in such manner as may be prescribed:",
+                                "2": "Provided that the provision of compounding under this section shall be available only for commission of first offence.",
+                                "3": "(2) Every application for the compounding of an offence shall be made in such manner as may be prescribed.",
+                                "4": "(3) Where any offence is compounded before the institution of any prosecution, no prosecution shall be instituted in relation to such offence, against the offender in relation to whom the offence is so compounded.",
+                                "5": "(4) Where the composition of any offence is made after the institution of any prosecution, such composition shall be brought by the officer referred to in sub-section (1) in writing to the notice of the court in which prosecution is pending and on such notice of the composition of the offence being given, the person against whom the offence is so compounded shall be discharged.\u201d",
+                                "6": "[Vide the Uttar Pradesh Act 14 of 2018, s. 5]"
+                            }
+                        }
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Cognizance of offences.",
+                    "paragraphs": {
+                        "0": "No court shall take cognizance of any offence under this Act except on a complaint made by, or with the previous sanction in writing of, the inspector and no court inferior to that of a Presidency Magistrate or a magistrate of the first class shall try any offence punishable under this Act."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Limitation of prosecutions.",
+                    "paragraphs": {
+                        "0": "No court shall take cognizance of an offence punishable under this Act unless the complaint thereof is made within three months from the date on which the alleged commission of the offence came to the knowledge of an inspector:",
+                        "1": "Provided that where the offence consists of disobeying a written order made by an inspector, complaint thereof may be made within six months of the date on which the offence is alleged to have been committed."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 28.": {
+                    "heading": "Inspecting staff.",
+                    "paragraphs": {
+                        "0": "(1) The appropriate Government may, by notification in the Official Gazette, appoint such persons as it thinks fit to be inspectors for the purposes of this Act, and define the local limits within which they shall exercise their powers under this Act.",
+                        "1": {
+                            "text": "(2) Subject to any rules made in this behalf, an inspector may, within the local limits for which he is appointed\u2014",
+                            "contains": {
+                                "0": "(a) enter, at all reasonable hours, with such assistance (if any), being persons in the service of the Government or any local or other public authority as he thinks fit, any premises or place where contract labour is employed, for the purpose of examining any register or record or notices required to be kept or exhibited by or under this Act or rules made thereunder, and require the production thereof for inspection;",
+                                "1": "(b) examine any person whom he finds in any such premises or place and who, he has reasonable cause to believe, is a workman employed therein;",
+                                "2": "(c) require any person giving out work and any workman, to give any information, which is in his power to give with respect to the names and addresses of the persons to, for and from whom the work is given out or received, and with respect to the payments to be made for the work;",
+                                "3": "(d) seize or take copies of such register, record of wages or notices or portions thereof as he may consider relevant in respect of an offence under this Act which he has reason to believe has been committed by the principal employer or contractor; and",
+                                "4": "(e) exercise such other powers as may be prescribed."
+                            }
+                        },
+                        "2": "(3) Any person required to produce any document or thing or to give any information required by an inspector under sub-section (2) shall be deemed to be legally bound to do so within the meaning of section 175 and section 176 of the Indian Penal Code (45 of 1860).",
+                        "3": "(4) The provisions of the Code of Criminal Procedure, 1898 (5 of 1898), shall, so far as may be, apply to any search or seizure under sub-section (2) as they apply to any search or seizure made under the authority of a warrant issued under section 98 of the said Code."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Registers and other records to be maintained.",
+                    "paragraphs": {
+                        "0": "(1) Every principal employer and every contractor shall maintain such registers and records giving such particulars of contract labour employed, the nature of work performed by the contract labour, the rates of wages paid to the contract labour and such other particulars in such form as may be prescribed.",
+                        "1": "(2) Every principal employer and every contractor shall keep exhibited in such manner as may be prescribed within the premises of the establishment where the contract labour is employed, notices in the prescribed form containing particulars about the hours of work, nature of duty and such other information as may be prescribed."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Effect of laws and agreements inconsistent with this Act.",
+                    "paragraphs": {
+                        "0": "(1) The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law or in the terms of any agreement or contract of service, or in any standing orders applicable to the establishment whether made before or after the commencement of this Act:",
+                        "1": "Provided that where under any such agreement, contract of service or standing orders the contract labour employed in the establishment are entitled to benefits in respect of any matter which are more favourable to them than those to which they would be entitled under this Act, the contract labour shall continue to be entitled to the more favourable benefits in respect of that matter, notwithstanding that they receive benefits in respect of other matters under this Act.",
+                        "2": "(2) Nothing contained in this Act shall be construed as precluding any such contract labour from entering into an agreement with the principal employer or the contractor, as the case may be, for granting them rights or privileges in respect of any matter which are more favourable to them than those to which they would be entitled under this Act."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Power to exempt in special cases.",
+                    "paragraphs": {
+                        "0": "The appropriate Government may, in the case of an emergency, direct, by notification in the Official Gazette, that subject to such conditions and restrictions, if any, and for such period or periods, as may be specified in the notification, all or any of the provisions of this Act or the rules made thereunder shall not apply to any establishment or class of establishments or any class of contractors."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Protection of action taken under this Act.",
+                    "paragraphs": {
+                        "0": "(1) No suit, prosecution or other legal proceedings shall lie against any registering officer, licensing officer or any other Government servant or against any member of the Central Board or the State Board, as the case may be, for anything which is in good faith done or intended to be done in pursuance of this Act or any rule or order made thereunder.",
+                        "1": "(2) No suit or other legal proceedings shall lie against the Government for any damage caused or likely to be caused by anything which is in good faith done or intended to be done in pursuance of this Act or any rule or order made thereunder."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Power to give directions.",
+                    "paragraphs": {
+                        "0": "The Central Government may give directions to the Government of any State as to the carrying into execution in the State of the provisions contained in this Act."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act, as appears to it to be necessary or expedient for removing the difficulty."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The appropriate Government may, subject to the condition of previous publication, make rules for carrying out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the number of persons to be appointed as members representing various interests on the Central Board and the State Board, the term of their office and other conditions of service, the procedure to be followed in the discharge of their functions and the manner of filling vacancies;",
+                                "1": "(b) the times and places of the meetings of any committee constituted under this Act, the procedure to be followed at such meetings including the quorum necessary for the transaction of business, and the fees and allowances that may be paid to the members of a committee;",
+                                "2": "(c) the manner in which establishments may be registered under section 7, the levy of a fee therefor and the form of certificate of registration;",
+                                "3": "(d) the form of application for the grant or renewal of a licence under section 13 and the particulars it may contain;",
+                                "4": "(e) the manner in which an investigation is to be made in respect of an application for the grant of a licence and the matters to be taken into account in granting or refusing a licence;",
+                                "5": "(f) the form of a licence which may be granted or renewed under section 12 and the conditions subject to which the licence may be granted or renewed, the fees to be levied for the grant or renewal of a licence and the deposit of any sum as security for the performance of such conditions;",
+                                "6": "(g) the circumstances under which licences may be varied or amended under section 14;",
+                                "7": "(h) the form and manner in which appeals may be filed under section 15 and the procedure to be followed by appellate officers in disposing of the appeals;",
+                                "8": "(i) the time within which facilities required by this Act to be provided and maintained may be so provided by the contractor and in case of default on the part of the contractor, by the principal employer;",
+                                "9": "(j) the number and types of canteens, rest-rooms, latrines and urinals that should be provided and maintained;",
+                                "10": "(k) the type of equipment that should be provided in the first-aid boxes;",
+                                "11": "(l) the period within which wages payable to contract labour should be paid by the contractor under sub-section (1) of section 21;",
+                                "12": "(m) the form of registers and records to be maintained by principal employers and contractors;",
+                                "13": "(n) the submission of returns, forms in which, and the authorities to which, such returns may be submitted;",
+                                "14": "(o) the collection of any information or statistics in relation to contract labour; and",
+                                "15": "(p) any other matter which has to be, or may be, prescribed under this Act."
+                            }
+                        },
+                        "2": "(3) Every rule made by the Central Government under this Act shall be laid as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two successive sessions, and if before the expiry of the session in which it is so laid or the session immediately following, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.",
+                        "3": "1[(4) Every rule made by the State Government under this Act shall be laid, as soon as may be after it is made, before the State Legislature.]"
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 10th February, 1971, vide notification No. G.S.R. 190, dated 1st February, 1971, see Gazette of India, Extraordinary, Part II,sec. 3(i)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 14 of 1986, s. 2, for clause (a) (w.e.f. 28-1-1986)."
+        },
+        "Page 5": {
+            "0": "*. Vide notification No. S.O. 3912(E), dated 30th October, 2019, this Act is made applicable to the Union territory of Jammuand Kashmir and the Union territory of Ladakh."
+        },
+        "Page 14": {
+            "0": "1. Ins. by Act 4 of 2005, s. 2 and the Schedule (w.e.f. 11-1-2005)."
+        }
+    }
+}

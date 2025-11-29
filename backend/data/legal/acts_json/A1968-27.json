@@ -1,0 +1,288 @@
+{
+    "Act Title": "THE CIVIL DEFENCE ACT, 1968",
+    "Act ID": "ACT NO. 27 OF 1968",
+    "Enactment Date": "[24th May, 1968.]",
+    "Act Definition": {
+        "0": "An Act to make provision for civil defence and for matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Civil Defence Act, 1968.",
+                        "1": "(2) It extends1 to the whole of India.",
+                        "2": "(3) It shall come into force in a State or part thereof on such date2, not being a date earlier than the date of the expiry of the Defence of India Act, 1962 (51 of 1962), as the Central Government may, by notification, appoint and different dates may be appointed for different States or different parts thereof."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccivil defence\u201d includes any measures, not amounting to actual combat, for affording protection to any person, property, place or thing in India or any part of the territory thereof against any hostile attack, whether from air, land, sea or other places, or, for depriving any such attack of the whole or part of its effect, whether such measures are taken before, during, at or after the time of such attack3[or any measure taken for the purpose of disaster management, before, during, at, or after any disaster];",
+                                "1": "(b) \u201cCivil Defence Corps\u201d means the Corps formed wholly or mainly to meet the needs of civil defence and includes an organisation deemed to be a Corps under the proviso to sub-section (1) of section 4;",
+                                "2": "(c) \u201chostile attack\u201d means any attack by any person or body of persons, whether during any war, external aggression, internal disturbance or otherwise which endangers the security of any life, property, place or thing in India or any part of the territory thereof;",
+                                "3": "(d) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "4": "(e) \u201cpersonal service injury\u201d has the meaning assigned to it in the Personal Injuries (Emergency Provisions) Act, 1962 (59 of 1962);",
+                                "5": "(f) \u201cState Government\u201d, in relation to a Union territory, means the Administrator of the Union territory;",
+                                "6": "1[(g) \u201cdisaster\u201d means a disaster as defined in clause (d) of section 2 of the Disaster Management Act, 2005(53 of 2005);",
+                                "7": "(h) \u201cdisaster management\u201d means the disaster management as defined in clause (e) of section 2 of the Disaster Management Act, 2005(53 of 2005).]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "POWER OF CENTRAL GOVERNMENT TO MAKE RULES FOR CIVIL DEFENCE",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Power to make rules for civil defence.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government may, for securing civil defence, by notification, make rules providing for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) preventing the prosecution of any work likely to prejudice civil defence;",
+                                "1": "(b) instruction of members of the public regarding civil defence and their equipment for the purposes of such defence;",
+                                "2": "(c) provision, storage and maintenance of commodities and things required for civil defence;",
+                                "3": "(d) prohibiting or regulating traffic, and the use of vessels, buoys, lights and signals in ports and territorial, tidal and inland waters;",
+                                "4": "(e) control of lights and sounds;",
+                                "5": "(f) protection of life and property by taking fire prevention and other measures;",
+                                "6": "(g) securing of any buildings, premises or other structures from being readily recognisable in the event of a hostile attack;",
+                                "7": "(h) for the prevention of danger to life or property, the demolition, destruction or rendering useless, of any building, premises or other structures or any other property;",
+                                "8": {
+                                    "text": "(i) prohibiting or regulating the possession, use or disposal of\u2014",
+                                    "contains": {
+                                        "0": "(i) explosives, inflammable substances, corrosive and other dangerous substances or articles, arms and ammunition;",
+                                        "1": "(ii) vessels;",
+                                        "2": "(iii) wireless telegraphic apparatus;",
+                                        "3": "(iv) aircraft; and",
+                                        "4": "(v) photographic and signalling apparatus and any means of recording information;"
+                                    }
+                                },
+                                "9": "(j) evacuation of areas and the removal of property or animals therefrom;",
+                                "10": "(k) accommodation in any area of persons evacuated from another area and the regulation of the conduct of evacuated persons accommodated in such area;",
+                                "11": "(l) billeting of evacuated person or persons authorised to perform functions under this Act;",
+                                "12": "(m) salvage of damaged buildings, structures and property and disposal of the dead;",
+                                "13": "(n) seizure and custody or destruction of injured, unclaimed or dangerous animals;",
+                                "14": {
+                                    "text": "(o) ensuring the safety of\u2014",
+                                    "contains": {
+                                        "0": "(i) ports, dockyards, lighthouses, lightships, aerodromes and facilities associated with aerial navigation;",
+                                        "1": "(ii) railways, tramways, roads, bridges, canals and all other means of transport by land or water;",
+                                        "2": "(iii) telegraphs, post offices, signalling apparatus and all other means of communication;",
+                                        "3": "(iv) sources and systems of water supply, works for the supply of water, gas or electricity and all other works for public purposes;",
+                                        "4": "(v) vessels, aircraft, transport vehicles as defined in the Motor Vehicles Act, 1939 (4 of 1939), and rolling stocks of railways and tramways;",
+                                        "5": "(vi) warehouses and all other places used or intended to be used for storage purposes;",
+                                        "6": "(vii) mines, oilfields, factories or industrial or commercial undertakings generally, or any mine, oilfield, factory or industrial or commercial undertaking in particular;",
+                                        "7": "(viii) laboratories and institutions where scientific or technological research or training is conducted or imparted;",
+                                        "8": "(ix) all works and structures being part of, or connected with, anything earlier mentioned in this clause; and",
+                                        "9": "(x) any other place or thing used or intended to be used for the purposes of Government or a local authority or a semi-Government or autonomous organisation, the protection of which is considered necessary or expedient for securing civil defence;"
+                                    }
+                                },
+                                "15": "(p) control of any road or pathway, waterway, ferry or bridge, river, canal or other source of water supply;",
+                                "16": "(q) precautionary measures, which the Government or any department thereof or any local authority, members of police force, fire brigade and members of any other service or authority employed primarily for purposes other than civil defence purposes should be required to take within their respective jurisdictions or with respect to any personnel employed by them;",
+                                "17": "(r) preventing or controlling any use of uniforms, whether official or otherwise, or flags or official decorations like medals, badges or other insignia or anything similar thereto, the wearing of which is calculated to deceive or to prejudice civil defence;",
+                                "18": "(s) precautions to be taken or action to be taken by persons or authorities with a view to protecting or acquainting the general public or any members thereof against the dangers involved in any apprehended hostile attack;",
+                                "19": "(t) requiring the owner or occupier of any building, structure or premises to make or carry out such arrangements as may be necessary for the purposes of detection and prevention of fire;",
+                                "20": "(u) taking of specified measures for dealing with outbreaks of fire;",
+                                "21": "(v) directing that, subject to any specified exemption, no person present in any specified area shall, between such hours as may be specified, be out of doors except under the authority of a written permit granted by a specified authority or person;",
+                                "22": "(w) (i) prohibiting the printing and publication of any newspaper, news-sheet, book or other document containing matters prejudicial to civil defence;",
+                                "23": "(ii) demanding security from any press used for the purpose of printing or publishing, and forfeiting the copies of, any newspaper, news-sheet, book or other document containing any of the matters referred to in sub-clause (i);",
+                                "24": "(x) regulating the conduct of persons in respect of areas the control of which is considered necessary or expedient, and removal of persons from such areas;",
+                                "25": "(y) requiring any person or class of persons to comply with any scheme of civil defence;",
+                                "26": "(z) any other provision which may be necessary for the purposes of civil defence."
+                            }
+                        },
+                        "1": "(2) Any rule made under sub-section (1) may provide that orders with regard to the matters specified therein may be made by the State Government.",
+                        "2": "1(3) Any rule made under sub-section (1) may provide that a contravention thereof or any order made thereunder shall be punishable with fine which may extend to five hundred rupees, and where the contravention is a continuing one, with a further fine which may extend to fifty rupees for every day, after the first, during which such contravention continues."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "CIVIL DEFENCE CORPS",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Constitution of Civil Defence Corps.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may constitute, for any area within the State, a body of persons to be called the Civil Defence Corps (hereinafter referred to as the \u201cCorps\u201d) and may appoint a person, not being, in its opinion, below the rank of a District Magistrate (to be known as the \u201cController\u201d) to command such Corps:",
+                        "1": "Provided that if there is in existence in any area in a State, immediately before the commencement of this Act in that area, an organisation which, in the opinion of the State Government, may be entrusted with the functions of the Corps, the State Government may, instead of constituting a separate Corps for such area, call upon that organisation to take over or discharge the functions of the Corps in that area, and thereupon such organisation shall be deemed, for the purposes of this Act, to be the Corps for that area.",
+                        "2": "(2) The State Government may, for the purpose of co-ordinating the activities of the Controllers within the State, appoint a Director of Civil Defence and every Controller shall comply with the directions given by such Director."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Appointment of members and officers.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may appoint as members of the Corps persons who are fit and willing to serve as such and the Controller may appoint any member so appointed to such office or command in the Corps, as such member is, in the opinion of the Controller, fit to hold.",
+                        "1": "(2) Every person appointed to be a member of the Corps shall be given a certificate of membership in such form as may be prescribed."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Dismissal of members of Civil Defence Corps.",
+                    "paragraphs": {
+                        "0": "(1) Where any member of the Corps fails or has failed, in the opinion of the Controller, to discharge his duties as such member satisfactorily or is or has been found guilty of any misconduct in the discharge of his duties as such member, the Controller may, after an inquiry in which such member of the Corps has been given a reasonable opportunity of being heard in respect of the charges against him, by an order, dismiss such member from the Corps.",
+                        "1": "(2) Where the Controller is of opinion that the continued presence of any member of the Corps is undesirable, he may, without assigning any reason, summarily dismiss such member from the Corps."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Appeal.",
+                    "paragraphs": {
+                        "0": "A member of the Corps who is dismissed from the Corps under section 6 may prefer an appeal to the State Government within thirty days from the date of such dismissal and that Government may, on such appeal, confirm, modify or reverse the order made by the Controller or other authority."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Functions of members of Civil Defence Corps.",
+                    "paragraphs": {
+                        "0": "(1) The members of the Corps shall perform such functions in relation to the carrying out of measures for civil defence as may be assigned to them by rules made under this Act or by any other law for the time being in force.",
+                        "1": "(2) The State Government or the Controller may, by order, call out a member of the Corps for training or for discharging such functions in relation to the carrying out of measures for civil defence as may be specified in such order.",
+                        "2": "(3) Subject to such orders as the Central Government may make in this behalf, any member of the Corps of any State may at any time be required, by order, to discharge functions in relation to civil defence in any other State and shall while discharging such functions, be deemed to be a member of the Corps of that other State and be vested with the powers, functions and privileges and be subject to the liabilities of a member of the Corps in that other State."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Power to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make regulations for carrying out the purposes of this Chapter.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power such regulations may\u2014",
+                            "contains": {
+                                "0": "(a) prescribe the functions of the members of the Corps and regulate the manner in which they may be called out for service;",
+                                "1": "(b) regulate the organisation, appointment, conditions of service, discipline, accoutrement and clothing of members of any or all of the Corps;",
+                                "2": "(c) prescribe the form of certificates of membership of any or all of the Corps."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 10.": {
+                    "heading": "Provisions of the Personal Injuries (Emergency Provisions) Act to apply to injuries sustained by the members of the Corps.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The provisions of the Personal Injuries (Emergency Provisions) Act, 1962 (59 of 1962), and of every scheme made thereunder shall apply, so far as may be, to every personal service injury sustained by any person appointed to be a member of the Corps as they apply to personal service injury sustained by a civil defence volunteer, subject to the modifications that\u2014",
+                            "contains": {
+                                "0": "(a) any reference to a civil defence volunteer under that Act or any scheme made thereunder shall be construed as reference to a member of the Corps; and",
+                                "1": "(b) any reference therein to the period of emergency shall, in relation to a member of the Corps, be construed as the period during which this Act is in force."
+                            }
+                        }
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Penalties.",
+                    "paragraphs": {
+                        "0": "(1) If any member of the Corps on being called out by an order under sub-section (2) of section 8 neglects or refuses without sufficient excuse to obey such order or to discharge his functions as such member or to obey any lawful order or direction given to him for the performance of his functions, he shall be punishable with fine which may extend to five hundred rupees, and where such neglect or refusal is a continuing one, with a further fine which may extend to fifty rupees for every day, after the first, during which such contravention continues.",
+                        "1": "1(2) If any person neglects or fails without any reasonable excuse to obey any order made or direction given to him under this act or rules made thereunder, he shall be punishable with fine which may extend to five hundred rupees, and where such negligence or failure is a continuing one, with a further fine which may extend to fifty rupees for every day, after the first, during which such negligence or failure continues."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Effect of Act and rules, etc., inconsistent with other enactments.",
+                    "paragraphs": {
+                        "0": "(1) The provisions of this Act or any rules thereunder or any order made under this Act or any such rule shall have effect notwithstanding anything inconsistent therewith contained in any enactment other than this Act or in any instrument having effect by virtue of any enactment other than this Act.",
+                        "1": "(2) Every appointment, order or rule made in relation to civil defence before the commencement of this Act by or under any law relating to civil defence shall, in so far as it is not inconsistent with the provisions of this Act, continue to be in force until it is rescinded or altered under this Act, and be deemed to have been made under the corresponding provisions of this Act.",
+                        "2": "Explanation.\u2014\u201cCommencement of this Act\u201d, in relation to any provision or area, means the commencement of that provision or, as the case may be, the commencement of this Act in that area."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Ordinary avocations of life to be interfered with as little as possible.",
+                    "paragraphs": {
+                        "0": "Any authority or person acting in pursuance of this Act shall interfere with the ordinary avocations of life and the enjoyment of property as little as may be consonant with the purpose of ensuring the public safety and civil defence."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Savings as to orders.",
+                    "paragraphs": {
+                        "0": "(1) No order made in exercise of any power conferred by or under this Act shall be called in question in any court.",
+                        "1": "(2) Where an order purports to have been made and signed by any authority in exercise of any power conferred by or under this Act, a court shall, within the meaning of the Indian Evidence Act, 1872 (1 of 1872), presume that such order was so made by that authority."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Act not to apply to measures taken for the protection of the Armed Forces.",
+                    "paragraphs": {
+                        "0": "Nothing contained in this Act or any rule, regulation or order made thereunder shall apply to the Armed Forces of the Union or to any measures taken by any of the authorities in control of the Armed Forces of the Union for the purpose of securing civil defence or safety of such forces or for the protection of any naval, military or air force installations or stores."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Limitation of prosecutions.",
+                    "paragraphs": {
+                        "0": "No prosecution for any offence punishable under this Act shall be instituted against any person except by, or with the consent of, the Controller or any person authorised by the Controller in this behalf."
+                    }
+                },
+                "Section 16A.": {
+                    "heading": "Power of the Central Government to delegate.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by order, direct that any power or duty, which by this Act or any rule made thereunder is conferred or imposed upon the Central Government shall, in such circumstances and under such conditions, if any, as may be specified in the direction, be exercised or discharged also by any officer or authority subordinate to the Central Government."
+                    }
+                },
+                "Section 16B.": {
+                    "heading": "Effect of order made by the Central Government, etc.",
+                    "paragraphs": {
+                        "0": "Any order made by the Central Government or the officer or authority authorised by it under section 16A in relation to a matter to which this Act or any rule made thereunder relates shall have effect, notwithstanding anything contained in any order made by the State Government or any other authority with regard to such matter.]"
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Power to delegate.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The State Government may, by notification, direct that\u2014",
+                            "contains": {
+                                "0": "(a) all or any of the powers which may be exercised by it under this Act shall, in such circumstances and under such conditions, if any, as may be specified in that notification, be exercised also by such officer, not being, in the opinion of the State Government, inferior in rank to that of a District Magistrate, as may be specified in the said notification;",
+                                "1": "(b) all or any of the powers which may be exercised by the Controller under this Act shall, in such circumstances and under such conditions, if any, as may be specified in that notification, be exercised also by such officer, not being, in the opinion of the State Government, inferior in rank to that of a Sub- Divisional Magistrate, as may be specified in the said notification."
+                            }
+                        }
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "(1) No suit, prosecution or other legal proceeding shall lie against the Government, the Director or the Controller or any person, authorised by the Government or the Controller, for anything which is in good faith done or intended to be done under this Act or any rules or orders made thereunder or any orders issued under any such rule.",
+                        "1": "(2) No suit or other legal proceeding shall lie against the Government, the Director or the Controller or any person, authorised by the Government or the Controller, for any damage caused or likely to be caused by anything which is in good faith done or intended to be done under this Act or any rule made thereunder or any order issued under any such rule."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Authorised persons and members of the Corps to be public servants.",
+                    "paragraphs": {
+                        "0": "Any person authorised by1[the Central Government] the Controller or the State Government under this Act and every member of the Corps, while functioning as such, shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Rules and regulations to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule and every regulation made by the Central Government under this Act shall be laid as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or 2[in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid], both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation, as the case may be, should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. 1st October, 1975, vide notification No. S.O.478(E),dated 8th September, 1975, extended and brought into force in the State ofSikkim.",
+            "1": "2.  10th  July,  1968,  vide  notification  No.  S.O.2435(E),  dated  5th  July,  1968,  see  Gazette  of  India,  Extraordinary,  Part  II,sec. 3 (ii).",
+            "2": "3. Ins. by Act 3 of 2010, s. 2 (w.e.f. 21-1-2010)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 42 of 1971, s. 6 (during emergency and six months thereafter) (w.e.f.3-12-1971).\u201c(3) Any rule made under sub-section (1) may provide that a contravention thereof or any order made or directiongiven thereunder shall be punishable with imprisonment for a term which may extend to three years, or with fine, orwith both.\u201d."
+        },
+        "Page 6": {
+            "0": "1.  Sub-section  (2)  omitted  by  Act  42  of  1971,  s.  6  (during  emergency  and  six  months  thereafter)  and  restored  thereafter(w.e.f. 3-12-1971)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 42 of 1971, s. 6 (during emergency and six months thereafter) (w.e.f. 3-12-1971).",
+            "1": "2. Subs. by Act 20 of 1983, s. 2 and the Schedule, for certain words (w.e.f. 15-3-1984)."
+        }
+    }
+}

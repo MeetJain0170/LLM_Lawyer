@@ -1,0 +1,176 @@
+{
+    "Act Title": "THE HINDU MINORITY AND GUARDIANSHIP ACT, 1956",
+    "Act ID": "ACT NO. 32 OF 1956",
+    "Enactment Date": "[25th August, 1956.]",
+    "Act Definition": {
+        "0": "An Act to amend and codify certain parts of the law relating to minority and guardianship among Hindus."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Hindu Minority and Guardianship Act, 1956.",
+                "1": "(2) It extends to the whole of India 1*** and applies also to Hindus domiciled in the territories to which this Act extends who are outside the said territories."
+            }
+        },
+        "Section 2.": {
+            "heading": "Act to be supplemental to Act 8 of 1890.",
+            "paragraphs": {
+                "0": "The provisions of this Act shall be in addition to, and not, save as hereinafter expressly provided, in derogation of, the Guardians and Wards Act, 1890 (8 of 1890)."
+            }
+        },
+        "Section 3.": {
+            "heading": "Application of Act.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) This Act applies,\u2014",
+                    "contains": {
+                        "0": "(a) to any person who is a Hindu by religion in any of its forms or developments, including a Virashaiva, a Lingayat or a follower of the Brahmo, Prarthana or Arya Samaj;",
+                        "1": "(b) to any person who is a Buddhist, Jain or Sikh by religion, and",
+                        "2": "(c) to any other person domiciled in the territories to which this Act extends who is not a Muslim, Christian, Parsi or Jew by religion unless it is proved that any such person would not have been governed by the Hindu law or by any custom or usage as part of that law in respect of any of the matters dealt with herein if this Act had not been passed."
+                    }
+                },
+                "1": {
+                    "text": "Explanation.\u2014The following persons are Hindus, Buddhists, Jains, or Sikhs by religion, as the case may be:\u2014",
+                    "contains": {
+                        "0": "(i) any child, legitimate or illegitimate, both of whose parents are Hindus, Buddhists, Jains or Sikhs by religion;",
+                        "1": "(ii) any child, legitimate or illegitimate, one of whose parents is a Hindu, Buddhist, Jain or Sikh by religion and who is brought up as a member of the tribe, community, group or family to which such parent belongs or belonged; and",
+                        "2": "(iii) any person who is convert or re-convert to the Hindu, Buddhist, Jain or Sikh religion."
+                    }
+                },
+                "2": "(2) Notwithstanding anything contained in sub-section (1) nothing contained in this Act shall apply to the members of any scheduled Tribe within the meaning of clause (25) of article 366 of the Constitution unless the Central Government, by notification in the Official Gazette, otherwise directs.",
+                "3": "2[(2A) Notwithstanding anything contained in sub-section (1), nothing contained in this Act shall apply to the Renoncants of the Union Territory of Pondicherry.]",
+                "4": "(3) The expression \u201cHindu\u201d, in any provision of this Act shall be construed as if it included a person who, though not a Hindu by religion, is, nevertheless, a person to whom this Act applies by virtue of the provisions contained in this section."
+            }
+        },
+        "Section 4.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act,\u2014",
+                    "contains": {
+                        "0": "(a) \u201cminor\u201d means a person who has not completed the age of eighteen years;",
+                        "1": {
+                            "text": "(b) \u201cguardian\u201d means a person having the care of the person of a minor or of his property or of both his person and property, and includes\u2014",
+                            "contains": {
+                                "0": "(i) a natural guardian,",
+                                "1": "(ii) a guardian appointed by the will of the minor\u2019s father or mother,",
+                                "2": "(iii) a guardian appointed or declared by a court, and",
+                                "3": "(iv) a person empowered to act as such by or under any enactment relating to any Court of wards."
+                            }
+                        },
+                        "2": "(c) \u201cnatural guardian\u201d means any of the guardians mentioned in section 6."
+                    }
+                }
+            }
+        },
+        "Section 5.": {
+            "heading": "Over-riding effect of Act.",
+            "paragraphs": {
+                "0": {
+                    "text": "Save as otherwise expressly provided in this Act,\u2014",
+                    "contains": {
+                        "0": "(a) any text, rule or interpretation of Hindu Law or any custom or usage as part of that law in force immediately before the commencement of this Act Shall cease to have effect with respect to any matter for which provision is made in this Act.",
+                        "1": "(b) any other law in force immediately before the commencement of this Act shall cease to have effect in so far as it is inconsistent with any of the provisions contained in this Act."
+                    }
+                }
+            }
+        },
+        "Section 6.": {
+            "heading": "Natural guardians of a Hindu minor.",
+            "paragraphs": {
+                "0": {
+                    "text": "The natural guardians of a Hindu minor; in respect of the minor's person as well as in respect of the minor\u2019s property (excluding his or her undivided interest in joint family property), are\u2014",
+                    "contains": {
+                        "0": "(a) in the case of a boy or an unmarried girl\u2014the father, and after him, the mother: provided that the custody of a minor who has not completed the age of five years shall ordinarily be with the mother;",
+                        "1": "(b) in the case of an illegitimate boy or an illegitimate unmarried girl\u2014the mother, and after her, the father;",
+                        "2": "(c) in the case of a married girl\u2014the husband:"
+                    }
+                },
+                "1": {
+                    "text": "Provided that no person shall be entitled to act as the natural guardian of a minor under the provisions of this section\u2014",
+                    "contains": {
+                        "0": "(a) if he has ceased to be a Hindu, or",
+                        "1": "(b) if he has completely and finally renounced the world by becoming a hermit (vanaprastha) or an ascetic (yati or sanyasi)."
+                    }
+                },
+                "2": "Explanation.\u2014In this section, the expressions \u201cfather\u201d and \u201cmother\u201d do not include a step-father and a step-mother."
+            }
+        },
+        "Section 7.": {
+            "heading": "Natural guardianship of adopted son.",
+            "paragraphs": {
+                "0": "The natural guardianship of an adopted son who is a minor passes, on adoption, to the adoptive father and after him to the adoptive mother."
+            }
+        },
+        "Section 8.": {
+            "heading": "Powers of natural guardian.",
+            "paragraphs": {
+                "0": "(1) The natural guardian of a Hindu minor has power, subject to the provisions of this section, to do all acts which are necessary or reasonable and proper for the benefit of the minor or for the realization, protection or benefit of the minor's estate; but the guardian can in no case bind the minor by a personal covenant.",
+                "1": {
+                    "text": "(2) The natural guardian shall not, without the previous permission of the court,\u2014",
+                    "contains": {
+                        "0": "(a) mortgage or charge, or transfer by sale, gift, exchange or otherwise, any part of the immovable property of the minor; or",
+                        "1": "(b) lease any part of such property for a term exceeding five years or for a term extending more than one year beyond the date on which the minor will attain majority."
+                    }
+                },
+                "2": "(3) Any disposal of immovable property by a natural guardian, in contravention of sub-section (1) or sub-section (2), is voidable at the instance of the minor or any person claiming under him.",
+                "3": "(4) No court shall grant permission to the natural guardian to do any of the acts mentioned in sub- section (2) except in case of necessity or for an evident advantage to the minor.",
+                "4": {
+                    "text": "(5) The Guardians and Wards Act, 1890 (8 of 1890), shall apply to and in respect of an application for obtaining the permission of the court under sub-section (2) in all respects as if it were an application for obtaining the permission of the court under section 29 of that Act, and in particular\u2014",
+                    "contains": {
+                        "0": "(a) proceedings in connection with the application shall be deemed to be proceedings under that Act within the meaning of section 4A thereof;",
+                        "1": "(b) the court shall observe the procedure and have the powers specified in sub-sections (2), (3) and (4) of section 31 of that Act; and",
+                        "2": "(c) an appeal shall lie from an order of the court refusing permission to the natural guardian to do any of the Acts mentioned in sub-section (2) of this section to the court to which appeals ordinarily lie from the decisions of that court."
+                    }
+                },
+                "5": "(6) In this section, \u201cCourt\u201d means the city civil court or a district court or a court empowered under section 4A of the Guardians and Wards Act, 1890 (8 of 1890), within the local limits of whose jurisdiction the immovable property in respect of which the application is made is situate, and where the immovable property is situate within the jurisdiction of more than one such court, means the court within the local limits of whose jurisdiction any portion of the property is situate."
+            }
+        },
+        "Section 9.": {
+            "heading": "Testamentary guardians and their powers.",
+            "paragraphs": {
+                "0": "(1) A Hindu father entitled to act as the natural guardian of his minor legitimate children may, by will appoint a guardian for any of them in respect of the minor\u2019s person or in respect of the minor\u2019s property (other than the undivided interest referred to in section 12) or in respect of both.",
+                "1": "(2) An appointment made under sub-section (1) shall have no effect if the father predeceases the mother, but shall revive if the mother dies without appointing, by will, any person as guardian.",
+                "2": "(3) A Hindu widow entitled to act as the natural guardian of her minor legitimate children, and a Hindu mother entitled to act as the natural guardian of her minor legitimate children by reason of the fact that the father has become disentitled to act as such, may, by will, appoint a guardian for any of them in respect of the minor\u2019s person or in respect of the minor\u2019s property (other than the undivided interest referred to in section 12) or in respect of both.",
+                "3": "(4) A Hindu mother entitled to act as the natural guardian of her minor illegitimate children may; by will, appoint a guardian for any of them in respect of the minor\u2019s person or in respect of the minor's property or in respect of both.",
+                "4": "(5) The guardian so appointed by will has the right to act as the minor\u2019s guardian after the death of the minor\u2019s father or mother, as the case may be, and to exercise all the rights of a natural guardian under this Act to such extent and subject to such restrictions, if any, as are specified in this Act and in the will. (6) The right of the guardian so appointed by will shall, where the minor is a girl, cease on her marriage."
+            }
+        },
+        "Section 10.": {
+            "heading": "Incapacity of minor to act as guardian of property.",
+            "paragraphs": {
+                "0": "A minor shall be incompetent to act as guardian of the property of any minor."
+            }
+        },
+        "Section 11.": {
+            "heading": "De facto guardian not to deal with minor\u2019s property.",
+            "paragraphs": {
+                "0": "After the commencement of this Act, no person shall be entitled to dispose of, or deal with, the property of a Hindu minor merely on the ground of his or her being the de facto guardian of the minor."
+            }
+        },
+        "Section 12.": {
+            "heading": "Guardian not to be appointed for minors undivided interest in joint family property.",
+            "paragraphs": {
+                "0": "Where a minor has an undivided interest in joint family property and the property is under the management of an adult member of the family, no guardian shall be appointed for the minor in respect of such undivided interest: Provided that nothing in this section shall be deemed to affect the jurisdiction of a High Court to appoint a guardian in respect of such interest."
+            }
+        },
+        "Section 13.": {
+            "heading": "Welfare of minor to be paramount consideration.",
+            "paragraphs": {
+                "0": "(1) In the appointment of declaration of any person as guardian of a Hindu minor by a court, the welfare of the minor shall be the paramount consideration.",
+                "1": "(2) No person shall be entitled to the guardianship by virtue of the provisions of this Act or of any law relating to guardianship in marriage among Hindus, if the court is of opinion that his or her guardianship will not be for the welfare of the minor."
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-2019).",
+            "1": "2. Ins. by Act 26 of 1968, s. 3(1) and the Schedule (w.e.f. 24-5-1968)."
+        }
+    }
+}

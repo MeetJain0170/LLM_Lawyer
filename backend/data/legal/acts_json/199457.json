@@ -1,0 +1,684 @@
+{
+    "Act Title": "THE PRE-CONCEPTION AND PRE-NATAL DIAGNOSTIC TECHNIQUES (PROHIBITION OF SEX SELECTION) ACT, 1994",
+    "Act ID": "ACT NO. 57 OF 1994",
+    "Enactment Date": "[20th September, 1994.]",
+    "Act Definition": {
+        "0": "1[An Act to provide for the prohibition of sex selection, before or after conception, and for regulation of pre-natal diagnostic techniques for the purposes of detecting genetic abnormalities or metabolic disorders or chromosomal abnormalities or certain congenital malformations or sex-linked disorders and for the prevention of their misuse for sex determination leading to female foeticide and for matters connected therewith or incidental thereto.]"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called 2[the Pre-conception and Pre-natal Diagnostic Techniques (Prohibition of Sex Selection)] Act, 1994.",
+                        "1": "(2) It shall extend to the whole of India 3***.",
+                        "2": "(3) It shall come into force on such date4 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cAppropriate Authority\u201d means the Appropriate Authority appointed under section 17;",
+                                "1": "(b) \u201cBoard\u201d means the Central Supervisory Board constituted under section 7;",
+                                "2": "5[(ba) \u201cconceptus\u201d means any product of conception at any stage of development from fertilisation until birth including extra embryonic membranes as well as the embryo or foetus;",
+                                "3": "(bb) \u201cembryo\u201d means a developing human organism after fertilisation till the end of eight weeks (fifty-six days);",
+                                "4": "(bc) \u201cfoetus\u201d means a human organism during the period of its development beginning on the fifty-seventh day following fertilisation or creation (excluding any time in which its development has been suspended) and ending at the birth;]",
+                                "5": "(c) \u201cGenetic Counselling Centre\u201d means an institute, hospital, nursing home or any place, by whatever name called, which provides for genetic counselling to patients;",
+                                "6": "(d) \u201cGenetic Clinic\u201d means a clinic, institute, hospital, nursing home or any place, by whatever name called, which is used for conducting pre-natal diagnostic procedures.",
+                                "7": "6[Explanation.\u2014For the purposes of this clause, \u201cGenetic Clinic\u201d includes a vehicle, where ultrasound machine or imaging machine or scanner or other equipment capable of determining sex of the foetus or a portable equipment which has the potential for detection of sex during pregnancy or selection of sex before conception, is used;]",
+                                "8": "(e) \u201cGenetic Laboratory\u201d means a laboratory and includes a place where facilities are provided for conducting analysis or tests of samples received from Genetic Clinic for pre-natal diagnostic test.",
+                                "9": "6[Explanation.\u2014For the purposes of this clause, \u201cGenetic Laboratory\u201d includes a place where ultrasound machine or imaging machine or scanner or other equipment capable of determining sex of the foetus or a portable equipment which has the potential for detection of sex during pregnancy or selection of sex before conception, is used;]",
+                                "10": "(f) \u201cgynaecologist\u201d means a person who possesses a post-graduate qualification in gynaecology and obstetrics;",
+                                "11": {
+                                    "text": "1[(g) \u201cmedical geneticist\u201d includes a person who possesses a degree or diploma in genetic science in the fields of sex selection and pre-natal diagnostic techniques or has experience of not less than two years in any of these fields after obtaining\u2014",
+                                    "contains": {
+                                        "0": "(i) any one of the medical qualifications recognised under the Indian Medical Council Act, 1956 (102 of 1956); or",
+                                        "1": "(ii) a post-graduate degree in biological sciences;]"
+                                    }
+                                },
+                                "12": "(h) \u201cpaediatrician\u201d means a person who possesses a post-graduate qualification in paediatrics;",
+                                "13": "2[(i) \u201cpre-natal diagnostic procedures\u201d means all gynaecological or obstetrical or medical procedures such as ultrasonography, foetoscopy, taking or removing samples of amniotic fluid, chorionic villi, embryo, blood or any other tissue or fluid of a man, or of a woman before or after conception, for being sent to a Genetic Laboratory or Genetic Clinic for conducting any type of analysis or pre-natal diagnostic tests for selection of sex before or after conception;]",
+                                "14": "(j) \u201cpre-natal diagnostic techniques\u201d includes all pre-natal diagnostic procedures and pre-natal diagnostic tests;",
+                                "15": "3[(k) \u201cpre-natal diagnostic test\u201d means ultrasonography or any test or analysis of amniotic fluid, chorionic villi, blood or any tissue or fluid of a pregnant woman or conceptus conducted to detect genetic or metabolic disorders or chromosomal abnormalities or congenital anomalies or haemoglobinopathies or sex- linked diseases;]",
+                                "16": "(l) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "17": "(m) \u201cregistered medical practitioner\u201d means a medical practitioner who possesses any recognised medical qualification as defined in clause (h) of section 2 of the Indian Medical Council Act, 1956 (102 of 1956), and whose name has been entered in a State Medical Register;",
+                                "18": "(n) \u201cregulations\u201d means regulations framed by the Board under this Act;",
+                                "19": "4[(o) \u201csex selection\u201d includes any procedure, technique, test or administration or prescription or provision of anything for the purpose of ensuring or increasing the probability that an embryo will be of a particular sex;",
+                                "20": "(p) \u201csonologist or imaging specialist\u201d means a person who possesses any one of the medical qualifications recognised under the Indian Medical Council Act, 1956 (102 of 1956) or who possesses a post-graduate qualification in ultrasonography or imaging techniques or radiology;",
+                                "21": "(q) \u201cState Board\u201d means a State Supervisory Board or a Union territory Supervisory Board constituted under section 16A;",
+                                "22": "(r) \u201cState Government\u201d in relation to Union territory with Legislature means the Administrator of that Union territory appointed by the President under article 239 of the Constitution.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "REGULATION OF GENETIC COUNSELLING CENTRES, GENETIC LABORATORIES AND GENETIC CLINICS",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Regulation of Genetic Counselling Centres, Genetic Laboratories and Genetic Clinics.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "On and from the commencement of this Act,\u2014",
+                            "contains": {
+                                "0": "(1) no Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic unless registered under this Act, shall conduct or associate with, or help in, conducting activities relating to pre-natal diagnostic techniques;",
+                                "1": "1[(2) no Genetic Counselling Centre or Genetic Laboratory or Genetic Clinic shall employ or cause to be employed or take services of any person, whether on honorary basis or on payment who does not possess the qualifications as may be prescribed;]",
+                                "2": "(3) no medical geneticist, gynaecologist paediatrician registered medical practitioner or any other person shall conduct or cause to be conducted or aid in conducting by himself or through any other person, any pre-natal diagnostic techniques at a place other than a place registered under this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 3A.": {
+                    "heading": "Prohibition of sex selection.",
+                    "paragraphs": {
+                        "0": "No person, including a specialist or a team of specialists in the field of infertility, shall conduct or cause to be conducted or aid in conducting by himself or by any other person, sex selection on a woman or a man or on both or on any tissue, embryo, conceptus, fluid or gametes derived from either or both of them."
+                    }
+                },
+                "Section 3B.": {
+                    "heading": "Prohibition on sale of ultrasound machine, etc., to persons, laboratories, etc., not registered under the Act.",
+                    "paragraphs": {
+                        "0": "No person shall sell any ultrasound machine or imaging machine or scanner or any other equipment capable of detecting sex of the foetus to any Genetic Counselling Centre, Genetic Laboratory, Genetic Clinic or any other person not registered under the Act.]"
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "REGULATION OF PRE-NATAL DIAGNOSTIC TECHNIQUES",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Regulation of pre-natal diagnostic techniques.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "On and from the commencement of this Act,\u2014",
+                            "contains": {
+                                "0": "(1) no place including a registered Genetic Counselling Centre or Genetic Laboratory or Genetic Clinic shall be used or caused to be used by any person for conducting pre-natal diagnostic techniques except for the purposes specified in clause (2) and after satisfying any of the conditions specified in clause (3);",
+                                "1": {
+                                    "text": "(2) no pre-natal diagnostic techniques shall be conducted except for the purposes of detection of any of the following abnormalities, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) chromosomal abnormalities;",
+                                        "1": "(ii) genetic metabolic diseases;",
+                                        "2": "(iii) haemoglobinopathies;",
+                                        "3": "(iv) sex-linked genetic diseases;",
+                                        "4": "(v) congenital anomalies;",
+                                        "5": "(vi) any other abnormalities or diseases as may be specified by the Central Supervisory Board;"
+                                    }
+                                },
+                                "2": {
+                                    "text": "3[(3) no pre-natal diagnostic techniques shall be used or conducted unless the person qualified to do so is satisfied for reasons to be recorded in writing that any of the following conditions are fulfilled, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) age of the pregnant woman is above thirty-five years;",
+                                        "1": "(ii) the pregnant woman has undergone two or more spontaneous abortions or foetal loss;",
+                                        "2": "(iii) the pregnant woman had been exposed to potentially teratogenic agents such as drugs, radiation, infection or chemicals;",
+                                        "3": "(iv) the pregnant woman or her spouse has a family history of mental retardation or physical deformities such as, spasticity or any other genetic disease;",
+                                        "4": "(v) any other condition as may be specified by the Board:"
+                                    }
+                                },
+                                "3": "Provided that the person conducting ultrasonography on a pregnant woman shall keep complete record thereof in the clinic in such manner, as may be prescribed, and any deficiency or inaccuracy found therein shall amount to contravention of the provisions of section 5 or section 6 unless contrary is proved by the person conducting such ultrasonography;",
+                                "4": "(4) no person including a relative or husband of the pregnant woman shall seek or encourage the conduct of any pre-natal diagnostic techniques on her except for the purposes specified in clause (2);",
+                                "5": "(5) no person including a relative or husband of a woman shall seek or encourage the conduct of any sex selection technique on her or him or both.]"
+                            }
+                        }
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Written consent of pregnant woman and prohibition of communicating the sex of foetus.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) No person referred to in clause (2) of section 3 shall conduct the pre-natal diagnostic procedures unless\u2014",
+                            "contains": {
+                                "0": "(a) he has explained all known side and after effects of such procedures to the pregnant woman concerned;",
+                                "1": "(b) he has obtained in the prescribed form her written consent to undergo such procedures in the language which she understands; and",
+                                "2": "(c) a copy of her written consent obtained under clause (b) is given to the pregnant woman."
+                            }
+                        },
+                        "1": "1[(2) No person including the person conducting pre-natal diagnostic procedures shall communicate to the pregnant woman concerned or her relatives or any other person the sex of the foetus by words, signs, or in any other manner.]"
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Determination of sex prohibited.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "On and from the commencement of this Act,\u2014",
+                            "contains": {
+                                "0": "(a) no Genetic Counselling Centre or Genetic Laboratory or Genetic Clinic shall conduct or cause to be conducted in its Centre, Laboratory or Clinic, pre-natal diagnostic techniques including ultrasonography, for the purpose of determining the sex of a foetus;",
+                                "1": "(b) no person shall conduct or cause to be conducted any pre-natal diagnostic techniques including ultrasonography for the purpose of determining the sex of a foetus;",
+                                "2": "2[(c) no person shall, by whatever means, cause or allow to be caused selection of sex before or after conception.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "CENTRAL SUPERVISORY BOARD",
+            "Sections": {
+                "Section 7.": {
+                    "heading": "Constitution of Central Supervisory Board.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall constitute a Board to be known as the Central Supervisory Board to exercise the powers and perform the functions conferred on the Board under this Act.",
+                        "1": {
+                            "text": "(2) The Board shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) the Minister in charge of the Ministry or Department of Family Welfare, who shall be the Chairman, ex officio;",
+                                "1": "(b) the Secretary to the Government of India in charge of the Department of Family Welfare, who shall be the Vice-Chairman, ex officio;",
+                                "2": "3[(c) three members to be appointed by the Central Government to represent the Ministries of Central Government in charge of Women and Child Development, Department of Legal Affairs or Legislative Department in the Ministry of Law and Justice, and Indian System of Medicine and Homoeopathy, ex officio;]",
+                                "3": "(d) the Director General of Health Services of the Central Government, ex officio;",
+                                "4": {
+                                    "text": "(e) ten members to be appointed by the Central Government, two each from amongst\u2014",
+                                    "contains": {
+                                        "0": "(i) eminent medical geneticists;",
+                                        "1": "4[(ii) eminent gynaecologist and obstetrician or expert of stri-roga or prasuti-tantra.]",
+                                        "2": "(iii) eminent paediatricians;",
+                                        "3": "(iv) eminent social scientists; and",
+                                        "4": "(v) representatives of women welfare organisations;"
+                                    }
+                                },
+                                "5": "(f) three women Members of Parliament, of whom two shall be elected by the House of the People and one by the Council of States;",
+                                "6": "(g) four members to be appointed by the Central Government by rotation to represent the States and the Union territories, two in the alphabetical order and two in the reverse alphabetical order:",
+                                "7": "Provided that no appointment under this clause shall be made except on the recommendation of the State Government or, as the case may be, the Union territory;",
+                                "8": "(h) an officer, not below the rank of a Joint Secretary or equivalent of the Central Government, in charge of Family Welfare, who shall be the Member-Secretary, ex officio."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Term of office of members.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The term of office of a member, other than an ex officio member, shall be,\u2014",
+                            "contains": {
+                                "0": "(a) in case of appointment under clause (e) or clause (f) of sub-section (2) of section 7, three years: 1***",
+                                "1": "2[Provided that the term of office of a member elected under clause (f) of sub-section (2) of section 7 shall come to an end as soon as the member becomes a Minister or Minister of State or Deputy Minister, or the Speaker or the Deputy Speaker of the House of the People, or the Deputy Chairman of the Council of States or ceases to be a member of the House from which she was elected; and]",
+                                "2": "(b) in case of appointment under clause (g) of the said sub-section, one year."
+                            }
+                        },
+                        "1": "(2) If a casual vacancy occurs in the office of any other members, whether by reason of his death, resignation or inability to discharge his functions owing to illness or other incapacity, such vacancy shall be filled by the Central Government by making a fresh appointment and the member so appointed shall hold office for the remainder of the term of office of the person in whose place he is so appointed.",
+                        "2": "(3) The Vice-Chairman shall perform such functions as may be assigned to him by the Chairman from time to time.",
+                        "3": "(4) The procedure to be followed by the members in the discharge of their functions shall be such as may be prescribed."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Meetings of the Board.",
+                    "paragraphs": {
+                        "0": "(1) The Board shall meet at such time and place, and shall observe such rules of procedure in regard to the transaction of business at its meetings (including the quorum at such meetings) as may be provided by regulations:",
+                        "1": "Provided that the Board shall meet at least once in six months.",
+                        "2": "(2) The Chairman and in his absence the Vice-Chairman shall preside at the meetings of the Board.",
+                        "3": "(3) If for any reason the Chairman or the Vice-Chairman is unable to attend any meeting of the Board, any other member chosen by the members present at the meeting shall preside at the meeting.",
+                        "4": "(4) All questions which come up before any meeting of the Board shall be decided by a majority of the votes of the members present and voting, and in the event of an equality of votes, the Chairman, or in his absence, the person presiding, shall have and exercise a second or casting vote.",
+                        "5": "(5) Members other than ex officio members shall receive such allowances, if any, from the Board as may be prescribed."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Vacancies, etc., not to invalidate proceedings of the Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No act or proceeding of the Board shall be invalid merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or any defect in the constitution of, the Board; or",
+                                "1": "(b) any defect in the appointment of a person acting as a member of the Board; or",
+                                "2": "(c) any irregularity in the procedure of the Board not affecting the merits of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Temporary association of persons with the Board for particular purposes.",
+                    "paragraphs": {
+                        "0": "(1) The Board may associate with itself, in such manner and for such purposes as may be determined by regulations, any person whose assistance or advice it may desire in carrying out any of the provisions of this Act.",
+                        "1": "(2) A person associated with it by the Board under sub-section (1) for any purpose shall have a right to take part in the discussions relevant to that purpose, but shall not have a right to vote at a meeting of the Board and shall not be a member for any other purpose."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Appointment of officers and other employees of the Board.",
+                    "paragraphs": {
+                        "0": "(1) For the purpose of enabling it efficiently to discharge its functions under this Act, the Board may, subject to such regulations as may be made in this behalf, appoint (whether on deputation or otherwise) such number of officers and other employees as it may consider necessary:",
+                        "1": "Provided that the appointment of such category of officers, as may be specified in such regulations, shall be subject to the approval of the Central Government.",
+                        "2": "(2) Every officer or other employee appointed by the Board shall be subject to such conditions of service and shall be entitled to such remuneration as may be specified in the regulations."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Authentication of orders and other instruments of the Board.",
+                    "paragraphs": {
+                        "0": "All orders and decisions of the Board shall be authenticated by the signature of the Chairman or any other member authorised by the Board in this behalf, and all other instruments issued by the Board shall be authenticated by the signature of the Member-Secretary or any other officer of the Board authorised in like manner in this behalf."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Disqualifications for appointment as member.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "A person shall be disqualified for being appointed as a member if, he\u2014",
+                            "contains": {
+                                "0": "(a) has been convicted and sentenced to imprisonment for an offence which, in the opinion of the Central Government, involves moral turpitude; or",
+                                "1": "(b) is an undischarged insolvent; or",
+                                "2": "(c) is of unsound mind and stands so declared by a competent court; or",
+                                "3": "(d) has been removed or dismissed from the service of the Government or a Corporation owned or controlled by the Government; or",
+                                "4": "(e) has, in the opinion of the Central Government, such financial or other interest in the Board as is likely to affect prejudicially the discharge by him of his functions as a member; or",
+                                "5": "1[(f) has, in the opinion of the Central Government, been associated with the use or promotion of pre-natal diagnostic technique for determination of sex or with any sex selection technique.]"
+                            }
+                        }
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Eligibility of member for reappointment.",
+                    "paragraphs": {
+                        "0": "Subject to the other terms and conditions of service as may be prescribed, any person ceasing to be a member shall be eligible for reappointment as such member:",
+                        "1": "2[Provided that no member other than an ex officio member shall be appointed for more than two consecutive terms.]"
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Functions of the Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Board shall have the following functions, namely:\u2014",
+                            "contains": {
+                                "0": "(i) to advise the Central Government on policy matters relating to use of pre-natal diagnostic techniques, sex selection techniques and against their misuse;",
+                                "1": "(ii) to review and monitor implementation of the Act and rules made thereunder and recommend to the Central Government changes in the said Act and rules;",
+                                "2": "(iii) to create public awareness against the practice of pre-conception sex selection and pre-natal determination of sex of foetus leading to female foeticide;",
+                                "3": "(iv) to lay down code of conduct to be observed by persons working at Genetic Counselling Centres, Genetic Laboratories and Genetic Clinics;",
+                                "4": "(v) to oversee the performance of various bodies constituted under the Act and take appropriate steps to ensure its proper and effective implementation;",
+                                "5": "(vi) any other functions as may be prescribed under the Act.]"
+                            }
+                        }
+                    }
+                },
+                "Section 16A.": {
+                    "heading": "Constitution of State Supervisory Board and Union territory Supervisory Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Each State and Union territory having Legislature shall constitute a Board to be known as the State Supervisory Board or the Union territory Supervisory Board, as the case may be, which shall have the following functions:\u2014",
+                            "contains": {
+                                "0": "(i) to create public awareness against the practice of pre-conception sex selection and pre-natal determination of sex of the foetus leading to female foeticide in the State;",
+                                "1": "(ii) to review the activities of the Appropriate Authorities functioning in the State and recommend appropriate action against them;",
+                                "2": "(iii) to monitor the implementation of provisions of the Act and the rules and make suitable recommendations relating thereto, to the Board;",
+                                "3": "(iv) to send such consolidated reports as may be prescribed in respect of the various activities undertaken in the State under the Act to the Board and the Central Government; and",
+                                "4": "(v) any other functions as may be prescribed under the Act."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) The State Board shall consist of,\u2014",
+                            "contains": {
+                                "0": "(a) the Minister in charge of Health and Family Welfare in the State, who shall be the Chairperson, ex officio;",
+                                "1": "(b) Secretary in charge of the Department of Health and Family Welfare who shall be the Vice-Chairperson, ex officio;",
+                                "2": "(c) Secretaries or Commissioners in charge of Departments of Women and Child Development, Social Welfare, Law and Indian System of Medicines and Homoeopathy, ex officio, or their representatives;",
+                                "3": "(d) Director of Health and Family Welfare or Indian System of Medicines and Homoeopathy of the State Government, ex officio;",
+                                "4": "(e) three women members of Legislative Assembly or Legislative Council;",
+                                "5": {
+                                    "text": "(f) ten members to be appointed by the State Government out of which two each shall be from the following categories,\u2014",
+                                    "contains": {
+                                        "0": "(i) eminent social scientists and legal experts;",
+                                        "1": "(ii) eminent women activists from non- governmental organisations or otherwise;",
+                                        "2": "(iii) eminent gynaecologists and obstetricians or experts of stri-roga or prasuti-tantra;",
+                                        "3": "(iv) eminent paediatricians or medical geneticists;",
+                                        "4": "(v) eminent radiologists or sonologists;"
+                                    }
+                                },
+                                "6": "(g) an officer not below the rank of Joint Director in charge of Family Welfare, who shall be the Member Secretary, ex officio."
+                            }
+                        },
+                        "2": "(3) The State Board shall meet at least once in four months.",
+                        "3": "(4) The term of office of a member, other than an ex officio member, shall be three years.",
+                        "4": "(5) If a vacancy occurs in the office of any member other than an ex officio member, it shall be filled by making fresh appointment.",
+                        "5": "(6) If a member of the Legislative Assembly or member of the Legislative Council who is a member of the State Board, becomes Minister or Speaker or Deputy Speaker of the Legislative Assembly or Chairperson or Deputy Chairperson of the Legislative Council, she shall cease to be a member of the State Board.",
+                        "6": "(7) One-third of the total number of members of the State Board shall constitute the quorum.",
+                        "7": "(8) The State Board may co-opt a member as and when required, provided that the number of co-opted members does not exceed one-third of the total strength of the State Board.",
+                        "8": "(9) The co-opted members shall have the same powers and functions as other members, except the right to vote and shall abide by the rules and regulations.",
+                        "9": "(10) In respect of matters not specified in this section, the State Board shall follow procedures and conditions as are applicable to the Board.]"
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "APPROPRIATE AUTHORITY AND ADVISORY COMMITTEE",
+            "Sections": {
+                "Section 17.": {
+                    "heading": "Appropriate Authority and Advisory Committee.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall appoint, by notification in the Official Gazette, one or more Appropriate Authorities for each of the Union territories for the purposes of this Act.",
+                        "1": "(2) The State Government shall appoint, by notification in the Official Gazette, one or more Appropriate Authorities for the whole or part of the State for the purposes of this Act having regard to the intensity of the problem of pre-natal sex determination leading to female foeticide.",
+                        "2": {
+                            "text": "(3) The officers appointed as Appropriate Authorities under sub-section (1) or sub-section (2) shall be,\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "1[(a) when appointed for the whole of the State or the Union territory, consisting of the following three members\u2014",
+                                    "contains": {
+                                        "0": "(i) an officer of or above the rank of the Joint Director of Health and Family Welfare\u2014Chairperson;",
+                                        "1": "(ii) an eminent woman representing women\u2019s organisation; and",
+                                        "2": "(iii) an officer of Law Department of the State or the Union territory concerned:"
+                                    }
+                                },
+                                "1": "Provided that it shall be the duty of the State or the Union territory concerned to constitute multi-member State or Union territory level Appropriate Authority within three months of the coming into force of the Pre-natal Diagnostic Techniques (Regulation and Prevention of Misuse) Amendment Act, 2002 (14 of 2003):",
+                                "2": "Provided further that any vacancy occurring therein shall be filled within three months of the occurrence.]",
+                                "3": "(b) when appointed for any part of the State or the Union territory, of such other rank as the State Government or the Central Government, as the case may be, may deem fit."
+                            }
+                        },
+                        "3": {
+                            "text": "(4) The Appropriate Authority shall have the following functions, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to grant, suspend or cancel registration of a Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic;",
+                                "1": "(b) to enforce standards prescribed for the Genetic Counselling Centre, Genetic Laboratory and Genetic Clinic;",
+                                "2": "(c) to investigate complaints of breach of the provisions of this Act or the rules made thereunder and take immediate action; and",
+                                "3": "(d) to seek and consider the advice of the Advisory Committee, constituted under sub-section (5), on application for registration and on complaints for suspension or cancellation of registration;",
+                                "4": "1[(e) to take appropriate legal action against the use of any sex selection technique by any person at any place, suo motu or brought to its notice and also to initiate independent investigations in such matter;",
+                                "5": "(f) to create public awareness against the practice of sex selection or pre-natal determination of sex;",
+                                "6": "(g) to supervise the implementation of the provisions of the Act and rules;",
+                                "7": "(h) to recommend to the Board and State Boards modifications required in the rules in accordance with changes in technology or social conditions;",
+                                "8": "(i) to take action on the recommendations of the Advisory Committee made after investigation of complaint for suspension or cancellation of registration.]"
+                            }
+                        },
+                        "4": "(5) The Central Government or the State Government, as the case may be, shall constitute an Advisory Committee for each Appropriate Authority to aid and advise the Appropriate Authority in the discharge of its functions, and shall appoint one of the members of the Advisory Committee to be its Chairman.",
+                        "5": {
+                            "text": "(6) The Advisory Committee shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) three medical experts from amongst gynaecologists, obstericians, paediatricians and medical geneticists;",
+                                "1": "(b) one legal expert;",
+                                "2": "(c) one officer to represent the department dealing with information and publicity of the State Government or the Union territory, as the case may be;",
+                                "3": "(d) three eminent social workers of whom not less than one shall be from amongst representatives of women\u2019s organisations."
+                            }
+                        },
+                        "6": "2[(7) No person who has been associated with the use or promotion of pre-natal diagnostic techniques for determination of sex or sex selection shall be appointed as a member of the Advisory Committee.]",
+                        "7": "(8) The Advisory Committee may meet as and when it thinks fit or on the request of the Appropriate Authority for consideration of any application for registration or any complaint for suspension or cancellation of registration and to give advice thereon:",
+                        "8": "Provided that the period intervening between any two meetings shall not exceed the prescribed period.",
+                        "9": "(9) The terms and conditions subject to which a person may be appointed to the Advisory Committee and the procedure to be followed by such Committee in the discharge of its functions shall be such as may be prescribed."
+                    }
+                },
+                "Section 17A.": {
+                    "heading": "Powers of Appropriate Authorities.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Appropriate Authority shall have the powers in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) summoning of any person who is in possession of any information relating to violation of the provisions of this Act or the rules made thereunder;",
+                                "1": "(b) production of any document or material object relating to clause (a);",
+                                "2": "(c) issuing search warrant for any place suspected to be indulging in sex selection techniques or pre-natal sex determination; and",
+                                "3": "(d) any other matter which may be prescribed.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "REGISTRATION OF GENETIC COUNSELLING CENTRES, GENETIC LABORATORIES AND GENETIC CLINICS",
+            "Sections": {
+                "Section 18.": {
+                    "heading": "Registration of Genetic Counselling Centres, Genetic Laboratories or Genetic Clinics.",
+                    "paragraphs": {
+                        "0": "(1) No person shall open any Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic, including clinic, laboratory or centre having ultrasound or imaging machine or scanner or any other technology capable of undertaking determination of sex of foetus and sex selection, or render services to any of them, after the commencement of the Pre-natal Diagnostic Techniques (Regulation and Prevention of Misuse) Amendment Act, 2002 (14 of 2003) unless such Centre, Laboratory or Clinic is duly registered under the Act.]",
+                        "1": "(2) Every application for registration under sub-section (1), shall be made to the Appropriate Authority in such form and in such manner and shall be accompanied by such fees as may be prescribed.",
+                        "2": "(3) Every Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic engaged, either partly or exclusively, in counselling or conducting pre-natal diagnostic techniques for any of the purposes mentioned in section 4, immediately before the commencement of this Act, shall apply for registration within sixty days from the date of such commencement.",
+                        "3": "(4) Subject to the provisions of section 6, every Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic engaged in counselling or conducting pre-natal diagnostic techniques shall cease to conduct any such counselling or technique on the expiry of six months from the date of commencement of this Act unless such Centre, Laboratory or Clinic has applied for registration and is so registered separately or jointly or till such application is disposed of, whichever is earlier.",
+                        "4": "(5) No Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic shall be registered under this Act unless the Appropriate Authority is satisfied that such Centre, Laboratory or Clinic is in a position to provide such facilities, maintain such equipment and standards as may be prescribed."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Certificate of registration.",
+                    "paragraphs": {
+                        "0": "(1) The Appropriate Authority shall, after holding an inquiry and after satisfying itself that the applicant has complied with all the requirements of this Act and the rules made thereunder and having regard to the advice of the Advisory Committee in this behalf, grant a certificate of registration in the prescribed form jointly or separately to the Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic, as the case may be.",
+                        "1": "(2) If, after the inquiry and after giving an opportunity of being heard to the applicant and having regard to the advice of the Advisory Committee, the Appropriate Authority is satisfied that the applicant has not complied with the requirements of this Act or the rules, it shall, for reasons to be recorded in writing, reject the application for registration.",
+                        "2": "(3) Every certificate of registration shall be renewed in such manner and after such period and on payment of such fees as may be prescribed.",
+                        "3": "(4) The certificate of registration shall be displayed by the registered Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic in a conspicuous place at its place of business."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Cancellation or suspension of registration.",
+                    "paragraphs": {
+                        "0": "(1) The Appropriate Authority may suo motu, or on complaint, issue a notice to the Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic to show cause why its registration should not be suspended or cancelled for the reasons mentioned in the notice.",
+                        "1": "(2) If, after giving a reasonable opportunity of being heard to the Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic and having regard to the advice of the Advisory Committee, the Appropriate Authority is satisfied that there has been a breach of the provisions of this Act or the rules, it may, without prejudice to any criminal action that it may take against such Centre, Laboratory or Clinic, suspend its registration for such period as it may think fit or cancel its registration, as the case may be.",
+                        "2": "(3) Notwithstanding anything contained in sub-sections (1) and (2), if the Appropriate Authority is of the opinion that it is necessary or expedient so to do in the public interest, it may, for reasons to be recorded in writing, suspend the registration of any Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic without issuing any such notice referred to in sub-section (1)."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Appeal.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic may, within thirty days from the date of receipt of the order of suspension or cancellation of registration passed by the Appropriate Authority under section 20, prefer an appeal against such order to\u2014",
+                            "contains": {
+                                "0": "(i) the Central Government, where the appeal is against the order of the Central Appropriate Authority; and",
+                                "1": "(ii) the State Government, where the appeal is against the order of the State Appropriate Authority,"
+                            }
+                        },
+                        "1": "in the prescribed manner."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "OFFENCES AND PENALTIES",
+            "Sections": {
+                "Section 22.": {
+                    "heading": "Prohibition of advertisement relating to pre-conception and pre-natal determination of sex and punishment for contravention.",
+                    "paragraphs": {
+                        "0": "(1) No person, organisation, Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic including clinic, laboratory or centre having ultrasound machine or imaging machine or scanner or any other technology capable of undertaking determination of sex of the foetus or sex selection shall issue, publish, distribute, communicate or cause to be issued, published, distributed or communicated any advertisement, in any form, including internet, regarding facilities of pre-natal determination of sex or sex selection before conception available at such Centre, Laboratory, Clinic or at any other place.",
+                        "1": "(2) No person or organisation including Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic shall issue, publish, distribute, communicate or cause to be issued, published, distributed or communicated any advertisement in any manner regarding pre-natal determination or pre-conception selection of sex by any means whatsoever, scientific or otherwise.",
+                        "2": "(3) Any person who contravenes the provisions of sub-section (1) or sub-section (2) shall be punishable with imprisonment for a term which may extend to three years and with fine which may extend to ten thousand rupees.",
+                        "3": "Explanation.\u2014For the purposes of this section, \u201cadvertisement\u201d includes any notice, circular, label, wrapper or any other document including advertisement through internet or any other media in electronic or print form and also includes any visible representation made by means of any hoarding, wall-painting, signal, light, sound, smoke or gas.]"
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Offences and penalties.",
+                    "paragraphs": {
+                        "0": "(1) Any medical geneticist, gynaecologist, registered medical practitioner or any person who owns a Genetic Counselling Centre, a Genetic Laboratory or a Genetic Clinic or is employed in such a Centre, Laboratory or Clinic and renders his professional or technical services to or at such a Centre, Laboratory or Clinic, whether on an honorary basis or otherwise, and who contravenes any of the provisions of this Act or rules made thereunder shall be punishable with imprisonment for a term which may extend to three years and with fine which may extend to ten thousand rupees and on any subsequent conviction, with imprisonment which may extend to five years and with fine which may extend to fifty thousand rupees.",
+                        "1": "2[(2) The name of the registered medical practitioner shall be reported by the Appropriate Authority to the State Medical Council concerned for taking necessary action including suspension of the registration if the charges are framed by the court and till the case is disposed of and on conviction for removal of his name from the register of the Council for a period of five years for the first offence and permanently for the subsequent offence.",
+                        "2": "(3) Any person who seeks the aid of any Genetic Counselling Centre, Genetic Laboratory, Genetic Clinic or ultrasound clinic or imaging clinic or of a medical geneticist, gynaecologist, sonologist or imaging specialist or registered medical practitioner or any other person for sex selection or for conducting pre-natal diagnostic techniques on any pregnant women for the purposes other than those specified in sub-section (2) of section 4, he shall, be punishable with imprisonment for a term which may extend to three years and with fine which may extend to fifty thousand rupees for the first offence and for any subsequent offence with imprisonment which may extend to five years and with fine which may extend to one lakh rupees.",
+                        "3": "(4) For the removal of doubts, it is hereby provided that the provisions of sub-section (3) shall not apply to the woman who was compelled to undergo such diagnostic techniques or such selection.]"
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Presumption in the case of conduct of pre-natal diagnostic techniques.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in the Indian Evidence Act, 1872 (1 of 1872), the court shall presume unless the contrary is proved that the pregnant woman was compelled by her husband or any other relative, as the case may be, to undergo pre-natal diagnostic technique for the purposes other than those specified in sub-section (2) of section 4 and such person shall be liable for abetment of offence under sub-section (3) of section 23 and shall be punishable for the offence specified under that section.]"
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Penalty for contravention of the provisions of the Act or rules for which no specific punishment is provided.",
+                    "paragraphs": {
+                        "0": "Whoever contravenes any of the provisions of this Act or any rules made thereunder, for which no penalty has been elsewhere provided in this Act, shall be punishable with imprisonment for a term which may extend to three months or with fine, which may extend to one thousand rupees or with both and in the case of continuing contravention with an additional fine which may extend to five hundred rupees for every day during which such contravention continues after conviction for the first such contravention."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where any offence, punishable under this Act has been committed by a company, every person who, at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where any offence punishable under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals, and",
+                                "1": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Offence to be cognizable, non-bailable and non-compoundable.",
+                    "paragraphs": {
+                        "0": "Every offence under this Act shall be cognizable, non-bailable and non-compoundable."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Cognizance of offences.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) No court shall take cognizance of an offence under this Act except on a complaint made by\u2014",
+                            "contains": {
+                                "0": "(a) the Appropriate Authority concerned, or any officer authorised in this behalf by the Central Government or State Government, as the case may be, or the Appropriate Authority; or",
+                                "1": "(b) a person who has given notice of not less than 2[fifteen days] in the manner prescribed, to the Appropriate Authority, of the alleged offence and of his intention to make a complaint to the court.",
+                                "2": "Explanation.\u2014For the purpose of this clause, \u201cperson\u201d includes a social organisation."
+                            }
+                        },
+                        "1": "(2) No court other than that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under this Act.",
+                        "2": "(3) Where a complaint has been made under clause (b) of sub-section (1), the court may, on demand by such person, direct the Appropriate Authority to make available copies of the relevant records in its possession to such person."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VIII",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 29.": {
+                    "heading": "Maintenance of records.",
+                    "paragraphs": {
+                        "0": "(1) All records, charts, forms, reports, consent letters and all other documents required to be maintained under this Act and the rules shall be preserved for a period of two years or for such period as may be prescribed:",
+                        "1": "Provided that, if any criminal or other proceedings are instituted against any Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic, the records and all other documents of such Centre, Laboratory or Clinic shall be preserved till the final disposal of such proceedings.",
+                        "2": "(2) All such records shall, at all reasonable times, be made available for inspection to the Appropriate Authority or to any other person authorised by the Appropriate Authority in this behalf."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Power to search and seize records, etc.",
+                    "paragraphs": {
+                        "0": "1[(1) If the Appropriate Authority has reason to believe that an offence under this Act has been or is being committed at any Genetic Counselling Centre, Genetic Laboratory, Genetic Clinic or any other place, such Authority or any officer authorised in this behalf may, subject to such rules as may be prescribed, enter and search at all reasonable times with such assistance, if any, as such Authority or officer considers necessary, such Genetic Counselling Centre, Genetic Laboratory, Genetic Clinic or any other place and examine any record, register, document, book, pamphlet, advertisement or any other material object found therein and seize and seal the same if such Authority or officer has reason to believe that it may furnish evidence of the commission of an offence punishable under this Act.]",
+                        "1": "(2) The provisions of the Code of Criminal Procedure, 1973 (2 of 1974) relating to searches and seizures shall, so far as may be, apply to every search or seizure made under this Act."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against the Central or the State Government or the Appropriate Authority or any officer authorised by the Central or State Government or by the Authority for anything which is in good faith done or intended to be done in pursuance of the provisions of this Act."
+                    }
+                },
+                "Section 31A.": {
+                    "heading": "Removal of difficulties.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of the Pre-natal Diagnostic Techniques (Regulation and Prevention of Misuse) Amendment Act, 2002 (14 of 2003), the Central Government may, by order published in the Official Gazette, make such provisions not inconsistent with the provisions of the said Act as appear to it to be necessary or expedient for removing the difficulty:",
+                        "1": "Provided that no order shall be made under this section after the expiry of a period of three years from the date of commencement of the Pre-natal Diagnostic Techniques (Regulation and Prevention of Misuse) Amendment Act, 2002 (14 of 2003).",
+                        "2": "(2) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament.]"
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may make rules for carrying out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for\u2014",
+                            "contains": {
+                                "0": "3[(i) the minimum qualifications for persons employed at a registered Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic under clause (2) of section 3;",
+                                "1": "(ia) the manner in which the person conducting ultrasonography on a pregnant woman shall keep record thereof in the clinic under the proviso to sub-section (3) of section 4;]",
+                                "2": "(ii) the form in which consent of a pregnant woman has to be obtained under section 5;",
+                                "3": "(iii) the procedure to be followed by the members of the Central Supervisory Board in the discharge of their functions under sub-section (4) of section 8;",
+                                "4": "(iv) allowances for members other than ex officio members admissible under sub-section (5) of section 9;",
+                                "5": "1[(iva) code of conduct to be observed by persons working at Genetic Counselling Centres, Genetic Laboratories and Genetic Clinics to be laid down by the Central Supervisory Board under clause (iv) of section 16;",
+                                "6": "(ivb) the manner in which reports shall be furnished by the State and Union territory Supervisory Boards to the Board and the Central Government in respect of various activities undertaken in the State under the Act under clause (iv) of sub-section (1) of section 16A;",
+                                "7": "(ivc) empowering the Appropriate Authority in any other matter under clause (d) of section 17A;]",
+                                "8": "(v) the period intervening between any two meetings of the Advisory Committee under the proviso to sub-section (8) of section 17;",
+                                "9": "(vi) the terms and conditions subject to which a person may be appointed to the Advisory Committee and the procedure to be followed by such Committee under sub-section (9) of section 17;",
+                                "10": "(vii) the form and manner in which an application shall be made for registration and the fee payable thereof under sub-section (2) of section 18;",
+                                "11": "(viii) the facilities to be provided, equipment and other standards to be maintained by the Genetic Counselling Centre, Genetic Laboratory or Genetic Clinic under sub-section (5) of section 18;",
+                                "12": "(ix) the form in which a certificate of registration shall be issued under sub-section (1) of section 19;",
+                                "13": "(x) the manner in which and the period after which a certificate of registration shall be renewed and the fee payable for such renewal under sub-section (3) of section 19;",
+                                "14": "(xi) the manner in which an appeal may be preferred under section 21;",
+                                "15": "(xii) the period up to which records, charts, etc., shall be preserved under sub-section (1) of section 29;",
+                                "16": "(xiii) the manner in which the seizure of documents, records, objects, etc., shall be made and the manner in which seizure list shall be prepared and delivered to the person from whose custody such documents, records or objects were seized under sub-section (1) of section 30;",
+                                "17": "(xiv) any other matter that is required to be, or may be, prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Power to make regulations.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Board may, with the previous sanction of the Central Government, by notification in the Official Gazette, make regulations not inconsistent with the provisions of this Act and the rules made thereunder to provide for\u2014",
+                            "contains": {
+                                "0": "(a) the time and place of the meetings of the Board and the procedure to be followed for the transaction of business at such meetings and the number of members which shall form the quorum under sub-section (1) of section 9;",
+                                "1": "(b) the manner in which a person may be temporarily associated with the Board under sub-section (1) of section 11;",
+                                "2": "(c) the method of appointment, the conditions of service and the scales of pay and allowances of the officer and other employees of the Board appointed under section 12;",
+                                "3": "(d) generally for the efficient conduct of the affairs of the Board."
+                            }
+                        }
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Rules and regulations to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. Subs. by Act 14 of 2003, s. 2, for the long title (w.e.f. 14-2-2003).",
+            "1": "2. Subs. by s. 3, ibid., for \u201cthe Pre-natal Diagnostic Techniques (Regulation and Prevention of Misuse)\u201d (w.e.f. 14-2-2003).",
+            "2": "3.  The  words  \u201cexcept  the  State  of  Jammu  and  Kashmir\u201d  omitted  by  Act  34  of  2019,  s.  95  and  the  Fifth  Schedule(w.e.f. 31-10-2019).",
+            "3": "4.  1st  January,  1996,  vide  notification  No.  S.O.  990,  dated  21st December,  1995,  see  Gazette  of  India,  Extraordinary,  Part  II,sec. 3(ii).",
+            "4": "5. Ins. by Act 14 of 2003, s. 4 (w.e.f. 14-2-2003).",
+            "5": "6. Added by s. 4, ibid. (w.e.f. 14-2-2003)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 14 of 2003, s. 4, for clause (g) (w.e.f. 14-2-2003).",
+            "1": "2. Subs. by s. 4, ibid., for clause (i) (w.e.f. 14-2-2003).",
+            "2": "3. Subs. by s. 4, ibid., for clause (k) (w.e.f. 14-2-2003).",
+            "3": "4. Ins. by s. 4, ibid. (w.e.f. 14-2-2003)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 14 of 2003, s. 5, for clause (2) (w.e.f. 14-2-2003).",
+            "1": "2. Ins. by s. 6, ibid. (w.e.f. 14-2-2003).",
+            "2": "3. Subs. by s. 7, ibid., for clauses (3) and (4) (w.e.f. 14-2-2003)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 14 of 2003, s. 8, for sub-section (2) (w.e.f. 14-2-2003).",
+            "1": "2. Ins. by s. 9, ibid. (w.e.f. 14-2-2003).",
+            "2": "3. Subs. by s. 10, ibid., for clause (c) (w.e.f. 14-2-2003).",
+            "3": "4. Subs. by s. 10, ibid., for sub-clause (ii) (w.e.f. 14-2-2003)."
+        },
+        "Page 7": {
+            "0": "1. The word \u201cand\u201d omitted by Act 32 of 2001, s. 2 (w.e.f. 3-9-2001).",
+            "1": "2. Ins. by s. 2, ibid. (w.e.f. 3-9-2001)."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 14 of 2003, s. 11, for clause (f) (w.e.f. 14-2-2003).",
+            "1": "2. Ins. by s. 12, ibid. (w.e.f. 3-9-2001).",
+            "2": "3. Subs. by s. 13, ibid., for section 16 (w.e.f. 14-2-2003)."
+        },
+        "Page 9": {
+            "0": "1. Ins. by Act 14 of 2003, s. 14 (w.e.f. 14-2-2003)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 14 of 2003, s. 15, for clause (a) (w.e.f. 14-2-2003)."
+        },
+        "Page 11": {
+            "0": "1. Ins. by Act 14 of 2003, s. 15 (w.e.f. 14-2-2003).",
+            "1": "2. Subs. by s. 15, ibid., for sub-section (7) (w.e.f. 14-2-2003).",
+            "2": "3. Ins. by s. 16, ibid. (w.e.f. 14-2-2003)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 14 of 2003, s. 17, for sub-section (1) (w.e.f. 14-2-2003)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by Act 14 of 2003, s. 18, for section 22 (w.e.f. 14-2-2003).",
+            "1": "2. Subs. by s. 19, ibid., for sub-sections (2) and (3) (w.e.f. 14-2-2003)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 14 of 2003, s. 20, for section 24 (w.e.f. 14-2-2003).",
+            "1": "2. Subs. by s. 21, ibid., for \u201cthirty days\u201d (w.e.f. 14-2-2003)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 14 of 2003, s. 22, for sub-section (1) (w.e.f. 14-2-2003).",
+            "1": "2. Ins. by s. 23, ibid. (w.e.f. 14-2-2003).",
+            "2": "3. Subs. by s. 24, ibid., for clause (i) (w.e.f. 14-2-2003)."
+        },
+        "Page 16": {
+            "0": "1. Ins. by Act 14 of 2003, s. 24 (w.e.f. 14-2-2003)."
+        }
+    }
+}

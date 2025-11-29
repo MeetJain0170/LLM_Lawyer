@@ -1,0 +1,545 @@
+{
+    "Act Title": "THE AIRCRAFT ACT, 1934",
+    "Act ID": "ACT NO. 22 OF 1934",
+    "Enactment Date": "[19th August, 1934.]",
+    "Act Definition": {
+        "0": "An Act to make better provision for the control of the manufacture, possession, use, operation, sale, import and export of aircraft.",
+        "1": "WHEREAS it is expedient to make better provision for the control of the manufacture, possession, use, operation, sale, import and export of aircraft;"
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the 1*** Aircraft Act, 1934.",
+                "1": {
+                    "text": "2[(2) It extends3 to the whole of India4*** and applies also\u2014",
+                    "contains": {
+                        "0": "(a) to citizens of India wherever they may be; 5***",
+                        "1": "(b) to and to the persons on aircraft registered in India wherever they may be;]",
+                        "2": "6[(c) to and to the persons on aircraft registered outside India but for the time being in or over India; and",
+                        "3": "(d) to an aircraft operated by a person who is not a citizen of India but has his principal place of business or permanent residence in India.]"
+                    }
+                }
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless there is anything repugnant in the subject or context, \u2014",
+                    "contains": {
+                        "0": "(1) \u201caircraft\u201d means any machine which can derive support in the atmosphere from reactions of the air, 7[other than reactions of the air against the earth\u2019s surface] and includes balloons whether fixed or free, airships, kites, gliders and flying machines;",
+                        "1": "8[(1A) \u201cAircraft Accidents Investigation Bureau\u201d means the Aircraft Accidents Investigation Bureau constituted under section 4C;]",
+                        "2": "(2) \u201caerodrome\u201d means any definite or limited ground or water area intended to be used, either wholly or in part, for the landing or departure of aircraft, and includes all buildings, sheds, vessels, piers and other structures thereon or appertaining thereto;",
+                        "3": "(2A) \u201caerodrome reference point\u201d, in relation to any aerodrome, means a designated point established in the horizontal plane at or near the geometric centre of that part of the aerodrome reserved for the departure or landing of aircraft;]",
+                        "4": "8[(2B) \u201cBureau of Civil Aviation Security\u201d means the Bureau of Civil Aviation Security constituted under section 4B;",
+                        "5": "(2C) \u201cDirector General of Civil Aviation\u201d means the Director General of Civil Aviation constituted under section 4A;]",
+                        "6": "(3) \u201cimport\u201d means bringing into 9[India]; and",
+                        "7": "(4) \u201cexport\u201d means taking out of 9[India]."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Power of Central Government to exempt certain aircraft.",
+            "paragraphs": {
+                "0": "The Central Government may, by notification in the Official Gazette, exempt from 1[all or any of the provisions of this Act] any aircraft or class of aircraft and any person or class of persons, or may direct that such provisions shall apply to such aircraft or persons subject to such modifications as may be specified in the notification."
+            }
+        },
+        "Section 4.": {
+            "heading": "Power of Central Government to make rules to implement the Convention of 1944.",
+            "paragraphs": {
+                "0": "3[Subject to the provisions of section 14, the Central Government] may, by notification in the Official Gazette, make such rules as appear to it to be necessary for carrying out the Convention relating to International Civil Aviation signed at Chicago on the 7th day of December, 1944 (including any Annex thereto relating to international standards and recommended practices) as amended from time to time.]"
+            }
+        },
+        "Section 4A.": {
+            "heading": "Directorate General of Civil Aviation.",
+            "paragraphs": {
+                "0": "(1) The Central Government may constitute a body to be known as the Directorate General of Civil Aviation, which shall be headed by an officer designated as the Director General of Civil Aviation to be appointed in this behalf by the Central Government by notification in the Official Gazette.",
+                "1": "(2) The Directorate General of Civil Aviation shall be responsible for carrying out the safety oversight and regulatory functions in respect of matters specified in this Act or the rules made thereunder.",
+                "2": "(3) The administration of the Directorate General of Civil Aviation shall vest in the Director General of Civil Aviation.",
+                "3": "(4) The Central Government may, by an order published in the Official Gazette, direct that any power exercisable by the Director General of Civil Aviation may also be exercisable by any other officer or authority specially empowered in this behalf by the Central Government."
+            }
+        },
+        "Section 4B.": {
+            "heading": "Bureau of Civil Aviation Security.",
+            "paragraphs": {
+                "0": "(1) The Central Government may constitute a body to be known as the Bureau of Civil Aviation Security, which shall be headed by an officer designated as the Director General of Bureau of Civil Aviation Security to be appointed in this behalf by the Central Government by notification in the Official Gazette.",
+                "1": "(2) The Bureau of Civil Aviation Security shall be responsible for carrying out the regulatory and oversight functions in respect of matters relating to civil aviation security specified in this Act or the rules made thereunder.",
+                "2": "(3) The administration of the Bureau of Civil Aviation Security shall vest in the Director General of Bureau of Civil Aviation Security.",
+                "3": "(4) The Central Government may, by an order published in the Official Gazette, direct that any power exercisable by the Director General of Bureau of Civil Aviation Security may also be exercisable by any other officer or authority specially empowered in this behalf by the Central Government."
+            }
+        },
+        "Section 4C.": {
+            "heading": "Aircraft Accidents Investigation Bureau.",
+            "paragraphs": {
+                "0": "(1) The Central Government may constitute a body to be known as the Aircraft Accidents Investigation Bureau, which shall be headed by an officer designated as the Director General of Aircraft Accidents Investigation Bureau to be appointed in this behalf by the Central Government by notification in the Official Gazette.",
+                "1": "(2) The Aircraft Accidents Investigation Bureau shall be responsible for carrying out the functions in respect of matters relating to investigation of aircraft accidents or incidents specified in this Act or the rules made thereunder.",
+                "2": "(3) The administration of the Aircraft Accidents Investigation Bureau shall vest in the Director General of Aircraft Accidents Investigation Bureau.",
+                "3": "(4) The Central Government may, by an order published in the Official Gazette, direct that any power exercisable by the Director General of Aircraft Accidents Investigation Bureau may also be exercisable by any other officer or authority specially empowered in this behalf by the Central Government."
+            }
+        },
+        "Section 4D.": {
+            "heading": "Superintendence of Central Government.",
+            "paragraphs": {
+                "0": "The superintendence of the Directorate General of Civil Aviation, the Bureau of Civil Aviation Security and the Aircraft Accidents Investigation Bureau shall vest in the Central Government, which shall have the power to issue directions to each of these organisations, on any matters falling under sub-section (2) of sections 4A, 4B and 4C, respectively, if it considers necessary and expedient so to do in the public interest.]"
+            }
+        },
+        "Section 5.": {
+            "heading": "Power of Central Government to make rules.",
+            "paragraphs": {
+                "0": "(1) 1[Subject to the provisions of section 14, the Central Government] may, by notification in the Official Gazette, make rules regulating the manufacture, possession, use, operation, sale, import or export of any aircraft or class of aircraft 2[and for securing the safety of aircraft operations.]",
+                "1": {
+                    "text": "(2) Without prejudice to the generality of the foregoing power, such rules may provide for\u2014",
+                    "contains": {
+                        "0": "(a) the authorities by which any of the powers conferred by or under this Act are to be exercised;",
+                        "1": "3[(aa) the regulation of air transport services, and the prohibition of the use of aircraft in such services except under the authority of and in accordance with a licence authorising the establishment of the service;",
+                        "2": "4[(ab) the economic regulation of civil aviation and air transport services, including the approval, disapproval 5[or revision on tariff of operators of air transport services [other than the tariff referred to in clause (a) of sub-section (1) of section 13 of the Airports Economics Regulatory Authority of India Act, 2008]]; the officers or authorities who may exercise powers in this behalf; the procedure to be followed and the factors to be taken into account by such officers or authorities; appeals to the Central Government against orders of such officers or authorities and all other matters connected with such tariff.",
+                        "3": "Explanation.\u2014For the purposes of this clause, \u201ctariff\u201d includes fares, rates, valuation charges and other charges for air transport of passengers or goods, the rules, regulations, practices or services affecting such fares, rates, valuation charges and other charges and the rates, terms and conditions of commission payable to passenger or cargo sales agents;]",
+                        "4": "6[(ac)] the information to be furnished by an applicant for, or the holder of, a licence authorising the establishment of an air transport service to such authorities as may be specified in the rules;]",
+                        "5": "7 [(b) the licensing, inspection and regulation of aerodromes, the conditions under which aerodromes may be maintained and the prohibition or regulation of the use of unlicensed aerodromes;",
+                        "6": "(ba) the fees which may be charged at those aerodromes to which the Airports Authority of India Act, 1994(55 of 1994) does not apply or is not made applicable;]",
+                        "7": "(c) the inspection and control of the manufacture, repair and maintenance of aircraft and of places where aircraft are being manufactured, repaired or kept;",
+                        "8": "(d) the registration and marking of aircraft;",
+                        "9": "(e) the conditions under which aircraft may be flown, or may carry passengers, mails or goods; or may be used for industrial purposes and the certificates, licences or documents to be carried by aircraft;",
+                        "10": "(f) the inspection of aircraft for the purpose of enforcing the provisions of this Act and the rules thereunder, and the facilities to be provided for such inspection;",
+                        "11": "(g) the licensing of persons employed in the operation, manufacture, repair or maintenance of aircraft;",
+                        "12": "1[(ga) the licensing of persons engaged in air traffic control;",
+                        "13": "(gb) the certification, inspection and regulation of communication, navigation and surveillance or air traffic management facilities;",
+                        "14": "(gc) the measures to safeguard civil aviation against acts of unlawful interference;]",
+                        "15": "2 [(gd) the regulation of air navigation services, that is, aeronautical information services, aeronautical charting and cartography services, aeronautical meteorological services, search and rescue services, procedure for air navigation services and aircraft operations other than those referred to in clause (gb) and any other matter relating to air navigation services;]",
+                        "16": "(h) the air-routes by which and, the conditions under which aircraft may enter or leave 3[India], or or may fly over 2[India], and the places at which aircraft shall land;",
+                        "17": "(i) the prohibition of flight by aircraft over any specified area, either absolutely or at specified times, or subject to specified conditions and exceptions;",
+                        "18": "(j) the supply, supervision and control of air-route beacons, aerodrome lights, and lights at or in the neighbourhood of aerodromes or on or in the neighbourhood of air-routes;",
+                        "19": "4[(jj) the installation and maintenanceof lights on private property in the neighbourhood of aerodromes or on or in the neighbourhood of air-routes, by the owners or occupiers of such property, the payment by the Central Government for such installation and maintenance, and the supervision and control of such installation and maintenance, including the right of access to the property for such purposes;]",
+                        "20": "(k) the signals to be used for purposes of communication by or to aircraft and the apparatus to be employed in signaling;",
+                        "21": "(l) the prohibition and regulation of the carriage in aircraft of any specified article or substance;",
+                        "22": "(m) the measures to be taken and the equipment to be carried for the purpose of ensuring the safety of life;",
+                        "23": "(n) the issue and maintenance of log-books; .",
+                        "24": "(o) the manner and conditions of the issue or renewal of any licence or certificate under the Act or the rules, the examinations and tests to be undergone in connection therewith, the form, custody, production, endorsement, cancellation, suspension or surrender of such licence or certificate, or of any log-book;",
+                        "25": "(p) the fees to be charged in connection with any inspection, examination, test, certificate or licence, made, issued or renewed under this Act;",
+                        "26": "(q) the recognition for the purposes of this Act of licences and certificates issued elsewhere than in 1 [India] relating to aircraft or to the qualifications of persons employed in the operation, manufacture, repair or maintenance of aircraft 2***;",
+                        "27": "3[ 4[(qa)] the prohibition of slaughtering and flaying of animals and of depositing rubbish, filth and other polluted and obnoxious matter within a radius of ten kilometers from the aerodrome reference point; 5***]",
+                        "28": "6[(qb) safety oversight and regulatory functions;",
+                        "29": "(qc) regulatory and oversight functions in respect of matters relating to civil aviation security; and]",
+                        "30": "(r) any matter subsidiary or incidental to the matters referred to in this sub-section."
+                    }
+                },
+                "2": "7* * * * *"
+            }
+        },
+        "Section 5A.": {
+            "heading": "Power to issue directions.",
+            "paragraphs": {
+                "0": "(1) The Director General of Civil Aviation or any other officer specially empowered in this behalf by the Central Government may, from time to time, by order, issue directions, consistent with the provisions of this act and the rules made thereunder, with respect to any of the matters specified, in 9[clauses (aa), (b), (c), (e), (f), (g), (ga), (gb), 10[(gc), (gd), (h), (i), (m), (qa) and (qb)] of sub-section (2) of section 5, to any person or persons using any aerodrome or engaged in the aircraft operations, air traffic control, maintenance and operation of aerodrome, communication, navigation, surveillance and air traffic management facilities and safeguarding civil aviation against acts of unlawful interference], in any case where the Director General of Civil Aviation or such other officer is satisfied that in the interests of the security of India or for securing the safety of aircraft operations it is necessary so to do.",
+                "1": "11[(1A) The Director General of Bureau of Civil Aviation Security or any other officer specially empowered in this behalf by the Central Government may, from time to time, by order, issue directions, consistent with the provisions of this Act and the rules made thereunder, with respect to any of the matters specified in clauses (e), (f), (gc) and (qc) of sub-section (2) of section 5, to any person or persons using any aerodrome, or engaged in the aircraft operations, air traffic control, maintenance and operation of aerodrome, or safeguarding civil aviation against acts of unlawful interference, in any case where the Director General of Bureau of Civil Aviation Security or such other officer is satisfied that in the interests of the security of India or to ensure security of civil aviation operations, it is necessary so to do.",
+                "2": "(1B) On receipt of a representation from any person or otherwise, if it considers necessary and expedient to do so in the public interest, the Central Government may review any order passed under sub- section (1) or sub-section (1A) and issue directions to the Director General of Civil Aviation or Director General of Bureau of Civil Aviation Security, as the case may be, to rescind or modify such order.]",
+                "3": "(2) Every direction issued under or sub-section (l) 1[or sub-section (1A) or sub-section (1B)] shall be complied with by the person or persons to whom such direction is issued.]"
+            }
+        },
+        "Section 6.": {
+            "heading": "Power of Central Government to make orders in emergency.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) If the Central Government is of opinion that in the interest of the public safety or tranquility the issue of all or any of the following orders is expedient, it may, by notification in the Official Gazette,\u2014",
+                    "contains": {
+                        "0": "(a) cancel or suspend, either absolutely or subject to such conditions as it may think fit to specify in the order, all or any licences or certificates issued under this Act;",
+                        "1": "(b) prohibit, either absolutely or subject to such conditions as it may think fit to specify in the order, or regulate in such manner as may be contained in the order, the flight of all or any aircraft or class of aircraft over the whole or any portion of 1[India];",
+                        "2": "(c) prohibit, either absolutely, or conditionally, or regulate the erection, maintenance or use of any aerodrome, aircraft factory, flying-school or club, or place where aircraft are manufactured, repaired or kept, or any class or description thereof; and",
+                        "3": "(d) direct that any aircraft or class of aircraft or any aerodrome, aircraft factory, flying-school or club, or place where aircraft are manufactured, repaired or kept, together with any machinery, plant, material or things used for the operation, manufacture, repair or maintenance of aircraft shall be delivered, either forthwith or within a specified time, to such authority and in such manner as it may specify in the order, to be at the disposal of Government for the public service."
+                    }
+                },
+                "1": "2[(1A) Any order made under sub-section (1) shall have effect notwithstanding anything inconsistent therewith contained in any rule made under this Act.]",
+                "2": "(2) Any person who suffers direct injury or loss by reason of any order made under clause (c) or clause (d) of sub-section (1) shall be paid such compensation as may be determined by such authority as the Central Government may appoint in this behalf.",
+                "3": "(3) The Central Government may authorise such steps to be taken to secure compliance with any order made under sub-section (1) as appear to it to be necessary.",
+                "4": "(4) Whoever knowingly disobeys, or fails to comply with, or does any act in contravention of, an order made under sub-section (1) shall be punishable with imprisonment for a term which may extend to three years, or with fine, or with both, and the Court by which he is convicted may direct that the aircraft or thing (if any) in respect of which the offence has been committed, or any part of such thing, shall be forfeited to Government."
+            }
+        },
+        "Section 7.": {
+            "heading": "Power of Central Government to make rules for investigation of accidents.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) 3[Subject to the provisions of section 14, the Central Government may, by notification in the Official Gazette, make rules providing for the investigation of any accident or incident] arising out of or in the course of 4[the navigation\u2014",
+                    "contains": {
+                        "0": "(a) in or over 1[India] of any aircraft, or",
+                        "1": "(b) anywhere of aircraft registered in 1[India]]."
+                    }
+                },
+                "1": {
+                    "text": "(2) Without prejudice to the generality of the foregoing power, such rules may\u2014",
+                    "contains": {
+                        "0": "(a) require notice to be given of any 1[accident or incident] in such manner and by such person as may be prescribed;",
+                        "1": "(b) apply for the purposes of such investigation, either with or without modification, the provisions of any law for the time being in force relating to the investigation of accidents;",
+                        "2": "(c) prohibit pending investigation access to or interference with aircraft to which an 5[accident or incident] has occurred, and authorise any person so far as may be necessary for the purposes of an investigation to have access to, examine, remove, take measures for the preservation of, or otherwise deal with, any such aircraft; and",
+                        "3": "(d) authorise or require the cancellation, suspension, endorsement or surrender of any licence or certificate granted or recognised under this Act when it appears on an investigation that the licence ought to be so dealt with, and provide for the production of any such licence for such purpose."
+                    }
+                }
+            }
+        },
+        "Section 8.": {
+            "heading": "Power to detain aircraft.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Any authority authorised in this behalf by the Central Government may detain any aircraft, if in the opinion of such authority\u2014",
+                    "contains": {
+                        "0": "(a) having regard to the nature of an intended flight, the flight of such aircraft would involve danger to persons in the aircraft or to any other persons or property; or",
+                        "1": "(b) such detention is necessary to secure compliance with any of the provisions of this Act or the rules applicable to such aircraft; or such detention is necessary to prevent a contravention of any rule made under clause (h) or clause (i) of sub-section (2) of section 5 2[or to implement any order made by any court.]"
+                    }
+                },
+                "1": "(2) 3[Subject to the provisions of section 14, the Central Government] may, by notification in the Official Gazette, make rules regulating all matters incidental or subsidiary to the exercise of this power."
+            }
+        },
+        "Section 8A.": {
+            "heading": "Power of Central Government to make rules for protecting the public health.",
+            "paragraphs": {
+                "0": "2[Subject to the provisions of section 14, the Central Government] may, by notification in the Official Gazette, make rules for the prevention of danger arising to the public health by the introduction or spread of any infectious or contagious disease from aircraft arriving at or being at any aerodrome and for the prevention of the conveyance of infection or contagion by means of any aircraft leaving an aerodrome and in particular and without prejudice to the generality of this provision may make, with respect to aircraft and aerodromes or any specified aerodrome, rules providing for any of the matters for which rules under sub- clauses (i) to (viii) of clause (p) of sub-section (1) of section 6 of the Indian Ports Act, 1908(15 of 1908), may be made with respect to vessels and ports.]"
+            }
+        },
+        "Section 8B.": {
+            "heading": "Emergency powers for protecting the public health.",
+            "paragraphs": {
+                "0": "(1) If the Central Government is satisfied that India or any part thereof is visited by or threatened with an outbreak of any dangerous epidemic disease, and that the ordinary provisions of the law for the time being in force are insufficient for the prevention of danger arising to the public health through the introduction or spread of the disease by the agency of aircraft, the Central Government may take such measures as it deems necessary to prevent such danger.",
+                "1": "(2) In any such case the Central Government may, without prejudice to the powers conferred by section 8A, by notification in the Official Gazette, make such temporary rules with respect to aircraft and persons traveling or things carried therein and aerodromes as it deems necessary in the circumstances.",
+                "2": "(3) Notwithstanding anything contained in section 14, the power to make rules under sub-section (2) shall not be subject to the condition of the rules being made after previous publication, but such rules shall not remain in force for more than three months from the date of notification:",
+                "3": "Provided that the Central Government may by special order continue them in force for a further period or periods of not more than three months in all.]"
+            }
+        },
+        "Section 8C.": {
+            "heading": "Power of Central Government to make rules for securing safe custody and re-delivery of unclaimed property.",
+            "paragraphs": {
+                "0": {
+                    "text": "2[Subject to the provisions of section 14, the Central Government] may, by notification in the Official Gazette, make rules which may provide for securing the safe custody and re- delivery of any property which, while not in proper custody, is found on any aerodrome or in any aircraft on any aerodrome and any such rules may, in particular, provide for\u2014",
+                    "contains": {
+                        "0": "(a) the payment of charges in respect of any such property before it is re-delivered to the person entitled there to; and",
+                        "1": "(b) the disposal of any such property in cases where the same is not re-delivered to the person entitled thereto before the expiration of such period as may be specified therein.]"
+                    }
+                }
+            }
+        },
+        "Section 9.": {
+            "heading": "Wreck and salvage.",
+            "paragraphs": {
+                "0": "(1) 2[The provisions of Part XIII of the Merchant Shipping Act, 1958 (44 of 1958)], relating to Wreck and Salvage shall apply to aircraft on or over the sea or tidal water as they apply to ships, and the owner of an aircraft shall be entitled to a reasonable reward for salvage services rendered by the aircraft in like manner as the owner of a ship.",
+                "1": "(2) The Central Government may, by notification in the Official Gazette, make such modifications of the said provisions in their application to aircraft as appear necessary or expedient."
+            }
+        },
+        "Section 9A.": {
+            "heading": "Power of Central Government to prohibit or regulate construction of buildings, planting of trees, etc.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) If the Central Government is of opinion that it is necessary or expedient so to do for the safety of aircraft operations, it may, by notification in the Official Gazette,\u2014",
+                    "contains": {
+                        "0": "(i) direct that no building or structure shall be constructed or erected, or no tree shall be planted on any land within such radius, not exceeding twenty kilometres from the aerodrome reference point, as may be specified in the notification and where there is any building, structure or tree on such land, also direct the owner or the person having control of such building, structure or tree to demolish such building or structure or, as the case may be, to cut such tree within such period as may be specified in the notification;",
+                        "1": "(ii) direct that no building or structure higher than such height as may be specified in the notification shall be constructed or erected, or no tree, which is likely to grow or ordinarily grows higher than such height as may be specified in the notification, shall be planted, on any land within such radius, not exceeding twenty kilometres from the aerodrome reference point, as may be specified in the notification and where the height of any building or structure or tree on such land is higher than the specified height, also direct the owner or the person having control of such building, structure or tree to reduce the height thereof so as not to exceed the specified height, within such period as may be specified in the notification."
+                    }
+                },
+                "1": {
+                    "text": "(2) In specifying the radius under clause (i) or clause (ii) of sub-section (1) and in specifying the height of any building, structure or tree under the said clause (ii), the Central Government shall have regard to\u2014",
+                    "contains": {
+                        "0": "(a) the nature of the aircraft operated or intended to be operated in the aerodrome; and",
+                        "1": "(b) the international standards and recommended practices governing the operation of aircraft."
+                    }
+                },
+                "2": {
+                    "text": "(3) Where any notification has been issued under sub-section (1) directing the owner or the person having control of any building, structure or tree to demolish such building or structure or to cut such tree or to reduce the height of any building, structure or tree, a copy of the notification containing such direction shall be served on the owner or the person having the control of the building, structure or tree, as the case maybe, \u2014",
+                    "contains": {
+                        "0": "(i) by delivering or tendering it to such owner or person; or",
+                        "1": "(ii) if it cannot be so delivered or tendered, by delivering or tendering it to any officer of such owner or person or any adult male member of the family of such owner or person or by affixing a copy thereof on the outer door or on some conspicuous part of the premises in which such owner or person is known to have last resided or carried on business or personally worked for gain; or failing service by these means;",
+                        "2": "(iii) by post."
+                    }
+                },
+                "3": "(4) Every person shall be bound to comply with any direction contained in any notification issued under sub-section (1)."
+            }
+        },
+        "Section 9B.": {
+            "heading": "Payment of compensation.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) If in consequence of any direction contained in any notification issued under sub-section (1) of section 9A, any person sustains any loss or damage, such person shall be paid compensation the amount of which shall be determined in the manner and in accordance with the principles hereinafter set out, that is to say,\u2014",
+                    "contains": {
+                        "0": "(a) where the amount of compensation can be fixed by agreement, it shall be paid in accordance with such agreement;",
+                        "1": "(b) where no such agreement can be reached, the Central Government shall appoint as arbitrator a person who is or has been qualified for appointment as a Judge of a High Court;",
+                        "2": "(c) the Central Government may, in any particular case, nominate a person having expert knowledge as to the nature of the less or damage suffered by the person to be compensated and where such nomination is made, the person to be compensated may also nominate an assessor for the same purpose;",
+                        "3": "(d) at the commencement of the proceedings before the arbitrator, the Central Government and the person to be compensated shall state what, in their respective opinion, is a fair amount of compensation;",
+                        "4": {
+                            "text": "(e) the arbitrator shall, after hearing the dispute, make an award determining the amount of compensation which appears to him to be just and specify the person or persons to whom such compensation shall be paid; and in making the award he shall have regard to the circumstances of each case and,\u2014",
+                            "contains": {
+                                "0": "(i) the damage sustained by the person to be compensated in his earnings;",
+                                "1": "(ii) if in consequence of any direction contained in any notification issued under sub- section(1)of section 9Athe market value of the land immediately after the issue of such notification is diminished, the diminution in such market value;",
+                                "2": "(iii) where any building or structure has been demolished or any tree has been cut or the height of any building, structure or tree has been reduced in pursuance of any direction, the damage sustained by the person to be compensated in consequence of such demolition, cutting or reduction and the expenses incurred by such person for such demolition, cutting or reduction;",
+                                "3": "(iv) if the person to be compensated is compelled to change his residence or place of business, the reasonable expenses, if any, that may have to be incurred by him incidental to such change;"
+                            }
+                        },
+                        "5": "(f) where there is any dispute as to the person or persons who are entitled to the compensation, the arbitrator shall decide such dispute and if the arbitrator finds that more persons than one are entitled to compensation, he shall apportion the amount thereof amongst such persons;",
+                        "6": "(g) nothing in the Arbitration Act, 1940 (10 of 1940) shall apply to arbitrations under this section."
+                    }
+                },
+                "1": "(2) Every award made by the arbitrator under clause (e) of sub-section (1) shall also state the amount of costs incurred in the proceedings before it and by what persons and in what proportions they are to be paid."
+            }
+        },
+        "Section 9C.": {
+            "heading": "Appeals from awards in respect of compensation.",
+            "paragraphs": {
+                "0": "Any person aggrieved by an award of the arbitrator made under section 9B may, within thirty days from the date of such award, prefer an appeal to the High Court within whose jurisdiction the aerodrome is situate:",
+                "1": "Provided that the High Court may entertain the appeal after the expiry of the said period of thirty days if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal in time."
+            }
+        },
+        "Section 9D.": {
+            "heading": "Arbitrator to have certain powers of civil courts.",
+            "paragraphs": {
+                "0": {
+                    "text": "The arbitrator appointed under section 9B, while holding arbitration proceedings under this Act, shall have all the powers of a civil court while trying a suit under the Code of Civil Procedure, 1908 (5 of 1908) in respect of the following matters, namely: \u2014",
+                    "contains": {
+                        "0": "(a) summoning and enforcing the attendance of any person and examining him on oath;",
+                        "1": "(b) requiring the discovery and production of any document;",
+                        "2": "(c) reception of evidence on affidavits;",
+                        "3": "(d) requisitioning any public record from any court or office;",
+                        "4": "(e) issuing commissions for examination of witnesses.]"
+                    }
+                }
+            }
+        },
+        "Section 10.": {
+            "heading": "Penalty for act in contravention of rule made under this Act.",
+            "paragraphs": {
+                "0": "(1) If any person contravenes any provision of any rule made under clause (1) of sub-section (2) of section 5 prohibiting or regulating the carriage in aircraft of arms, explosives or other dangerous goods, or when required under the rules made under that clause to give information in relation to any such goods gives information which is false and which he either knows or believes to be false or does not believe to be true he, and if he is not the owner, the owner also (unless the owner proves that the offence was committed without his knowledge, consent or connivance) shall be punishable with imprisonment which may extend to two years and shall also be liable to 2[fine which may extend to 3[one crore rupees]].",
+                "1": "4[(1A) If any person contravenes any provision of any rule made under 5[clause (qa)] of sub-section (2) of section 5 prohibiting the slaughter and flaying of animals and of depositing rubbish, filth and other polluted and obnoxious matters within a radius of ten kilometres from the aerodrome reference point, he shall be punishable with imprisonment which may extend to 6[three years, or with fine which may extend to 3[one crore rupees]], or with both.]",
+                "2": "(1B) Notwithstanding anything contained in the Code of Criminal Procedure) 1973 (2 of 1974), an offence referred to in sub-section (1A) shall be cognizable.]",
+                "3": "(2) In making any other rule under section 5 or in making any rule under 1[section 4, section 7], section 8,section 8A or section 8B, the Central Government may direct that a breach of it shall be punishable with imprisonment for a period which may extend to 2[two years, or with fine which may extend to 3[one crore rupees]], or with both."
+            }
+        },
+        "Section 10A.": {
+            "heading": "Adjudication of penalties.",
+            "paragraphs": {
+                "0": "(1) Notwithstanding anything contained in sub-section (2) of section 10, the Central Government may, in making any rule under section 4, 5, 7, 8, 8A or section 8B, provide for imposition of penalty not exceeding rupees one crore for the contravention of any rule for which no other punishment has been provided elsewhere in the Act, or in the rules made thereunder, for such contravention.",
+                "1": "(2) The Central Government may, by an order published in the Official Gazette, appoint such number of officers not below the rank of Deputy Secretary to the Government of India or equivalent, as it considers necessary, to be designated officers for adjudging penalty under sub-section (1), in such manner as the Central Government may, by notification in the Official Gazette, make rules.",
+                "2": "(3) The Central Government may, while appointing designated officers under sub-section (2), also specify their jurisdiction in that order.",
+                "3": "(4) Where the designated officer is satisfied that any contravention of the provisions of the rules has been committed by any person, he may, by an order in writing, impose penalty on such person stating the nature of contravention, the provision of rules which has been contravened and the reasons for imposing such penalty:",
+                "4": "Provided that the designated officer shall, before imposing any penalty, give a reasonable opportunity of being heard to such person.",
+                "5": "(5) Any person aggrieved by an order made under sub-section (4) may prefer an appeal to an appellate officer having jurisdiction in the matter who is next higher in rank to the designated officer who has passed such order.",
+                "6": "(6) Every appeal under sub-section (5) shall be filed within thirty days from the date on which the copy of the order made by the designated officer is received by the aggrieved person and shall be in such form and manner, and be accompanied by such fees, as the Central Government may, by notification in the Official Gazette, make rules.",
+                "7": "(7) The appellate officer may, after giving the parties to the appeal an opportunity of being heard, pass such order as he thinks fit, confirming, modifying or setting aside the order appealed against."
+            }
+        },
+        "Section 10B.": {
+            "heading": "Cancellation of licence or certificate or approval.",
+            "paragraphs": {
+                "0": "Notwithstanding anything contained in this Act, if any person contravenes any of the provisions of this Act or the rules made thereunder, the licence, certificate or approval issued to such person under this Act may be suspended or cancelled in such manner as the Central Government may, by notification in the Official Gazette, make rules.]"
+            }
+        },
+        "Section 11.": {
+            "heading": "Penalty for flying so as to cause danger.",
+            "paragraphs": {
+                "0": "Whoever wilfully flies any aircraft in such a manner as to cause danger to any person or to any property on land or water or in the air shall be punishable with imprisonment for a term which may extend to 5[two years, or with fine which may extend to 6[one crore rupees]], or with both."
+            }
+        },
+        "Section 11A.": {
+            "heading": "Penalty for failure to comply with directions issued under section 5A.",
+            "paragraphs": {
+                "0": "If any person wilfully fails to comply with any direction issued under section 5A, he shall be punishable with imprisonment for a term which may extend to 1[two years] or 2[with fine which may extend to 3[one crore crore rupees]], or with both."
+            }
+        },
+        "Section 11B.": {
+            "heading": "Penalty for failure to comply with directions issued under section 9A.",
+            "paragraphs": {
+                "0": "(1) If any person wilfully fails to comply with any direction contained in any notification issued under section 9A, he shall be punishable with imprisonment for a term which may extend to 4[two years, or with fine which may extend to 5[one crore rupees]], or with both.",
+                "1": "(2) Without prejudice to the provisions of sub-section (1), if any person fails to demolish any building or structure or cut any tree or fails to reduce the height of any building, structure or tree in pursuance of any direction contained in any notification issued under sub-section (1) of section 9Awithin the period specified in the notification, then, subject to such rules as the Central Government may make in this behalf, it shall be competent for any officer authorised by the Central Government in this behalf to demolish such building or structure or cut such tree or reduce the height of such building, structure or tree:]",
+                "2": "6[Provided that the power to make rules under this sub-section shall be subject to the provisions of section 14.]"
+            }
+        },
+        "Section 12.": {
+            "heading": "Penalty for abetment of offences and attempted offences.",
+            "paragraphs": {
+                "0": "Whoever abets the commission of any offence under this Act or the rules or attempts to commit such offence, and in such attempt does any act towards the commission of the offence, shall be liable to the punishment provided for the offence."
+            }
+        },
+        "Section 12A.": {
+            "heading": "Composition of offences.",
+            "paragraphs": {
+                "0": "(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), any offence punishable under sections 10,11,11A,11B and section 12 or under any rules made thereunder, may be compounded, either before or after the institution of any prosecution, by the Director General of Civil Aviation or Director General of Bureau of Civil Aviation Security or Director General of Aircraft Accidents Investigation Bureau, as the case may be, in such manner as the Central Government may, by notification in the Official Gazette, make rules.",
+                "1": "(2) Nothing contained in sub-section (1) shall apply to an offence committed by a person for the second time or thereafter within a period of five years from the date of commission of a similar offence which was earlier compounded or for which such person was earlier convicted.",
+                "2": "(3) Every officer referred to in sub-section (1) shall exercise the powers to compound an offence, subject to the direction, control and supervision of the Central Government.",
+                "3": "(4) Every application for the compounding of an offence shall be made in such manner as the Central Government may, by notification in the Official Gazette, make rules.",
+                "4": "(5) Where any offence is compounded before the institution of any prosecution, no prosecution shall be instituted in relation to such offence by an officer referred to in sub-section (1) against the offender in relation to whom the offence is so compounded.",
+                "5": "(6) Where the composition of any offence is made after the institution of any prosecution, such composition shall be brought to the notice of the court in which the prosecution is pending, in writing, by the officer referred to in sub-section (1), and on such notice of the composition of the offence being given, the person against whom the offence is so compounded shall be discharged.",
+                "6": "(7) The composition of an offence under this section shall have the effect of an acquittal of the accused with whom the offence has been compounded.",
+                "7": "(8) No offence specified in sub-section (1) shall be compounded except as provided in this section."
+            }
+        },
+        "Section 12B.": {
+            "heading": "Cognizance of offences.",
+            "paragraphs": {
+                "0": "(1) No court shall take cognizance of any offence punishable under this Act, save on a complaint made by or with the previous sanction in writing by the Director General of Civil Aviation or Director General of Bureau of Civil Aviation Security or Director General of Aircraft Accidents Investigation Bureau, as the case may be.",
+                "1": "(2) The complaint referred to in sub-section (1) shall be made within a period of one year from the date on which the offence came to the knowledge of the Director General of Civil Aviation or Director General of Bureau of Civil Aviation Security or Director General of Aircraft Accidents Investigation Bureau, as the case may be.",
+                "2": "(3) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), no court inferior to that of a Metropolitan Magistrate or a Magistrate of the first class shall try the offences under this Act.]"
+            }
+        },
+        "Section 13.": {
+            "heading": "Power of Court to order forfeiture.",
+            "paragraphs": {
+                "0": "1[Where any person is convicted of an offence punishable under sub-section (1) of section 10or under any rule made under clause (i) of sub-section (2) of section 5], the Court by which he is convicted may direct that the aircraft or article or substance, as the case may be, in respect of which the offence has been committed, shall be forfeited to Government]."
+            }
+        },
+        "Section 14.": {
+            "heading": "Rules to be made after publication.",
+            "paragraphs": {
+                "0": {
+                    "text": "Any power to make rules conferred by this Act is subject to the condition of the rules being made after previous publication:",
+                    "contains": {
+                        "0": "Provided that the Central Government may, in the public interest, by order in writing, dispense with the condition of previous publication in any case.]"
+                    }
+                }
+            }
+        },
+        "Section 14A.": {
+            "heading": "Laying of rules before Parliament.",
+            "paragraphs": {
+                "0": "Every rule made under this Act shall be laid as soon as may be after it is made before each House of Parliament while it is in session 4[for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid], both Houses agree in making any modification in the rule, or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so",
+                "1": "however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+            }
+        },
+        "Section 15.": {
+            "heading": "Use of patented invention on aircraft not required in India.",
+            "paragraphs": {
+                "0": "The provisions of section 42 of the Indian Patents and Designs Act, 1911 (2 of 1911), shall apply to the use of an invention on any aircraft not registered in 5[India] in like manner as they apply to the use of an invention in a foreign vessel."
+            }
+        },
+        "Section 16.": {
+            "heading": "[Repealed.].",
+            "paragraphs": {
+                "0": "[Power to apply customs procedure.]\u2014Rep. by the Customs Act, 1962 (52 of l962), s. 160 and the Schedule (w.e.f. l-2-1963).]"
+            }
+        },
+        "Section 17.": {
+            "heading": "Bar of certain suits.",
+            "paragraphs": {
+                "0": "No suit shall be brought in any Civil Court in respect of trespass or in respect of nuisance by reason only of the flight of aircraft over any property at a height above the ground which having regard to wind, weather and all the circumstances of the case is reasonable, or by reason only of the ordinary incidents of such flight."
+            }
+        },
+        "Section 18.": {
+            "heading": "Saving for acts done in good faith under the Act.",
+            "paragraphs": {
+                "0": "No suit, prosecution or other legal proceeding shall lie against any person for anything in good faith done or intended to be done under this Act."
+            }
+        },
+        "Section 19.": {
+            "heading": "Saving of application of Act.",
+            "paragraphs": {
+                "0": "(1) Nothing in this Act or in any order or rule made thereunder 1[other than a rule made under section 8Aor under section 8B] shall apply to or in respect of any aircraft belonging to or exclusively employed in 2[the naval, military or air forces of the Union 3[or other armed forces of the Union constituted by any law for the time being in force]], or to any person in such forces employed in connection with such aircraft.",
+                "1": "3[Provided that any aircraft belonging to an armed force of the Union other than naval, military or air forces of the Union, for which the provisions of this Act and the rules made thereunder are applicable on the date of commencement of the Aircraft (Amendment) Act, 2020, shall continue to be so governed by this Act and the rules made thereunder till such date as the Central Government may, by notification in the Official Gazette, specify.]",
+                "2": "(2) Nothing in this Act or in any order or rule made there under shall apply to or in respect of any lighthouse to which the Indian Lighthouse Act, 1927 (17 of 1927), applies or prejudice or affect any right or power exercisable by any authority under that Act."
+            }
+        },
+        "Section 20.": {
+            "heading": "[Repealed.].",
+            "paragraphs": {
+                "0": "[Repeals.]\u2014Rep.by the Repealing Act, 1938 (1 of 1938), s. 2 and the Schedule."
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. The word \u201cIndian\u201d omitted by Act 44 of 1960, s. 2 (w.e.f26-11-1960).",
+            "1": "2. Subs. by the A.O. 1950 and the First Schedule, for sub-section (2).",
+            "2": "3. This Act has been extended to and brought into force in Dadra and Nagar Haveli (w.e.f. 1-7-1965) by Reg. 6 of 1963, s. 2 andthe First Schedule, extended to Goa, Daman and Diu and with modifications by Reg. 12 of 1962, s. 3 and the Schedule and tothe whole of the Union territory of Lakshdweep (w.e.f. 1-10-1967) by Reg. 8 of 1965, s. 3 and the Schedule.",
+            "3": "4. The words \u201cexcept the State of Hyderabed\u201d omitted by Act 3 of 1951, s. 3 and the Schedule.",
+            "4": "5. The word \u201cand\u201d omitted by Act 44 of 2007, s. 2 (w.e.f. 1-2-2008).",
+            "5": "6. Ins. by s. 2, ibid, (w.e.f. 1-2-2008).",
+            "6": "7. Ins. by Act 12 of 1972, s. 2, (w.e.f. 20-4-1972).",
+            "7": "8. Ins. by Act 13 of 2020, s. 2 (w.e.f. 19-9-2020).",
+            "8": "9. Subs. by Act 24 of 1948, s. 3, for \u201cthe Provinces\u201d."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 37 of 1939, s. 3, for \u201cthe provisions of this Act and of the rules made thereunder, or from any of such provisions,\u201d",
+            "1": "2. Subs. by Act 12 of 1972, s. 3, for section 4 (w.e.f. 20-4-1972).",
+            "2": "3. Subs. by Act 44 of 2007, s. 3, for \u201cThe Central Government\u201d (w.e.f. 1-2-2008).",
+            "3": "4. Subs. by Act 13 of 2020, s. 3, for  section 4A (w.e.f. 19-9-2020)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 44 of 2007, s. 5, for \u201cThe Central Government\u201d (w.e.f. 1-2-2008).",
+            "1": "2. Ins. by Act 12 of 1972, s. 4 (w.e.f. 20-4-1972).",
+            "2": "3. Ins. by Act 5 of 1944, s. 2 (w.e.f.  7-3-1944).",
+            "3": "4. Ins. by Act 1 of 1983, s. 2 (w.e.f. 26-3-1983).",
+            "4": "5.  Subs.  by  Act  27  of  2008,  s.  54  and  the  Schedule,  for  \u201cor  revision  on  tariff  of  operators  of  air  transport  services\u201d(w.e.f. 1-1-2009).",
+            "5": "6. Clause (ab) re-lettered as clause (ac) thereof, by Act 1 of 1983, s. 2, (w.e.f. 26-3-1983).",
+            "6": "7. Subs. by Act 44 of 2007, s. 5, for clause (b) (w.e.f. 1-2-2008)."
+        },
+        "Page 6": {
+            "0": "1. Ins. by Act 44 of 2007, s. 5 (w.e.f. 1-2-2008).",
+            "1": "2. Ins. by Act 13 of 2020, s. 4 (w.e.f. 19-9-2020).",
+            "2": "3. Subs. by Act 24 of 1948, s. 3, for \u201cthe Provinces\u201d.",
+            "3": "4. Ins. by Act 37 of 1939, s. 4 (w.e.f. 29-9-1939)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 24 of 1948, s. 3, for \u201cthe Provinces\u201d.",
+            "1": "2. The word \u201cand\u201d omitted by Act 12 of 1972, s. 4 (w.e.f. 20-4-1972).",
+            "2": "3. Ins. by s. 4, ibid. (w.e.f. 20-4-1972).",
+            "3": "4. Clause (qq) shall be relettered as clause (qa) thereof by Act 13 of 2020, s. 4 (w.e.f. 19-9-2020).",
+            "4": "5. The word \u201cand\u201d omitted by s. 4, ibid. (w.e.f. 19-9-2020).",
+            "5": "6. Ins. by s. 4, ibid. (w.e.f. 19-9-2020).",
+            "6": "7. Sub-section (3) omitted by 44 of 1960, s. 3 (w.e.f. 26-11-1960). Earlier inserted by Act 5 of 1944, s. 3 (w.e.f. 1-4-1999).",
+            "7": "8. Ins. by Act 12 of 1972, s. 5 (w.e.f. 20-4-1972).",
+            "8": "9. Subs. by Act 44 of 2007, s. 6, for \u201cclauses (b), (c), (e), (f), (g), (h) and (m) of sub-section (2) of section 5, to any person orpersons engaged in aircraft operations or using any aerodrome\u201d (w.e.f. 1-2-2008).10. Subs. by Act 13 of 2020, s. 5, for \u201c(gc), (h), (i), (m) and (qq)\u201d (w.e.f. 19-9-2020).11. Ins. by s. 5, ibid. (w.e.f. 19-9-2020)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 13 of 2020, s. 5 (19-9-2020).",
+            "1": "2.  Ins. by Act 12 of 1972, s. 6 (w.e.f. 20-04-1972).",
+            "2": "3. Subs. by Act 44 of 2007, s. 7, for \u201cThe Central Government may, by notification in the Official Gazette, make rules providingfor the investigation of any accident\u201d (w.e.f. 1-2-2008).",
+            "3": "4. Subs. by Act 37 of 1939, s. 5, for \u201cair navigation in or over British India\u201d."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 44 of 2007, s. 7, for \u201caccident\u201d (w.e.f. 1-2-2008).",
+            "1": "2. Ins. by Act 12 of 1972, s. 7 (w.e.f. 20-4-1972).",
+            "2": "3. Subs. by Act 44 of 2007, s. 8, for \u201cThe Central Government\u201d (w.e.f. 1-2-2008).",
+            "3": "4. Ins. by Act 7 of 1936, s. 2.",
+            "4": "5. Ins. by Act 22 of 1938, s. 2."
+        },
+        "Page 10": {
+            "0": "1. Ins. by Act 12 of 1972, s. 8 (w.e.f. 20-4-1972).",
+            "1": "2. Subs. by Act 12 of 1972, s. 9, for \u201cThe provisions of Part VII of the Indian Merchant Shipping Act, 1923 (21 of 1923)\u201d(w.e.f. 20-4-1972).",
+            "2": "3. Ins. by s. 10, ibid. (w.e.f. 20-4-1972)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 44 of 1960, s. 4, for section 10 (w.e.f. 26-11-1960).",
+            "1": "2. Subs. by Act 44 of 2007, s. 11, for \u201cfine\u201d (w.e.f. 1-2-2008).",
+            "2": "3. Subs. by Act 13 of 2020, s. 6, for \u201cten lakh rupees\u201d (w.e.f. 19-9-2020).",
+            "3": "4. Ins. by Act 50 of 1988, s. 2, (w.e.f. 23-9-1988).",
+            "4": "5. Subs. by Act 13 of 2020, s. 6, for \u201cclause (qq)\u201d (w.e.f. 19-9-2020).",
+            "5": "6. Subs. by Act 44 of 2007, s. 11, ibid., for \u201cone year, or fine which may extend to two thousand rupees\u201d (w.e.f. 1-2-2008)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by s. 11, ibid., for \u201csection 7\u201d (w.e.f. 1-2-2008).",
+            "1": "2. Subs. by s. 11, ibid., for \u201cthree months, or with fine which may extend to one thousand rupees\u201d (w.e.f. 1-2-2008).",
+            "2": "3. Subs. by Act 13 of 2020, s. 6, for \u201cten lakh rupees\u201d (w.e.f. 19-9-2020).",
+            "3": "4. Ins. by Act 13 of 2020, s. 7 (w.e.f. 19-9-2020).",
+            "4": "5. Subs. by Act 44 of 2007, s. 12, for \u201csix months, or with fine which may extend to one thousand rupees\u201d (w.e.f. 1-2-2008).",
+            "5": "6. Subs. by Act 13 of 2020, s. 8, for \u201cten lakh rupees\u201d (w.e.f. 19-9-2020).",
+            "6": "7. Ins. by Act 12 of 1972, s. 11."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 44 of 2007, s. 13, for \u201csix months\u201d (w.e.f. 1-2-2008).",
+            "1": "2. Subs. by Act 51 of 2000, s. 2, for \u201cwith fine which may extend to one thousand rupees\u201d (w.e.f. 1-1-2004).",
+            "2": "3. Subs. by Act 13 of 2020, s. 9, for \u201cten lakh rupees\u201d (w.e.f. 19-9-2020).",
+            "3": "4. Subs. by Act 44 of 2007, s. 14, for \u201csix months, or with fine which may extend to one thousand rupees\u201d (w.e.f. 1-2-2008).",
+            "4": "5. Subs. by Act 13 of 2020, s. 10, for \u201cten lakh rupees\u201d (w.e.f. 19-9-2020).",
+            "5": "6. Ins.by s. 14, ibid. (w.e.f. 1-2-2008).",
+            "6": "7. Ins. by Act 13 of 2020, s. 11 (w.e.f. 19-9-2020)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 44 of 1960, s. 5, for certain words (w.e.f. 26-11-1960).",
+            "1": "2. Subs. by Act 69 of 1985, s. 2, for section 14 (w.e.f. 16-10-1985).",
+            "2": "3. Ins. by Act 44 of 1960, s. 6 (w.e.f. 26-11-1960).",
+            "3": "4. Subs. by Act 1 of 1983, s. 3, for certain words (w.e.f. 26-3-1983).",
+            "4": "5. Subs. by Act 24 of 1948, s. 3 for \u201cthe Provinces\u201d."
+        },
+        "Page 16": {
+            "0": "1. Ins. by Act 12 of 1972, s. 12 (w.e.f. 20-4-1972).",
+            "1": "2. Subs. by the A.O. 1950, for \u201cHis Majesty\u2019s naval, military or air forces\u201d.",
+            "2": "3. Ins. by Act 13 of 2020, s. 12 (w.e.f. 19-9-2020)."
+        }
+    }
+}

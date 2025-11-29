@@ -1,0 +1,104 @@
+{
+    "Act Title": "THE ASSAM MUNICIPAL (MANIPUR AMENDMENT) ACT, 1961",
+    "Act ID": "ACT NO. 49 OF 1961",
+    "Enactment Date": "[7th December, 1961.]",
+    "Act Definition": {
+        "0": "An Act further to amend the Assam Municipal Act, 1956 as in force in the Union territory of Manipur."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and commencement.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Assam Municipal (Manipur Amendment) Act, 1961.",
+                "1": "(2) It shall come into force on such date as the Chief Commissioner, Manipur may, by notification in the Official Gazette, appoint."
+            }
+        },
+        "Section 2.": {
+            "heading": "Substitution of new section for section 14.",
+            "paragraphs": {
+                "0": {
+                    "text": "In the Assam Municipal Act, 1956 (Assam Act XV of 1957), as in force in the Union territory of Manipur (hereinafter referred to as the principal Act), for section 14, the following section shall be substituted, namely:\u2014",
+                    "contains": {
+                        "0": "\u201814. Electors and electoral rolls.\u2014(1) The persons entitled to vote at elections of Commissioners shall be the persons registered, by virtue of the provisions of the Constitution and the Representation of the People Act, 1950 (43 of 1950), as voters at elections to the House of the People.",
+                        "1": "(2) So much of the electoral roll for any parliamentary constituency for the time being in force as relates to the areas comprised within a ward shall be deemed to the electoral roll for that ward for the purposes of this Act.",
+                        "2": "Explanation.\u2014In sub-section (2), the expression \u201cparliamentary constituency\u201d has the meaning assigned to it under the Representation of the People Act, 1950 (43 of 1950).\u2019."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Amendment of section 15.",
+            "paragraphs": {
+                "0": {
+                    "text": "In section 15 of the principal Act, for clause (i), the following clause shall be substituted, namely:\u2014",
+                    "contains": {
+                        "0": "\u201c(i) is not registered as an elector in the electoral roll for a ward, or\u201d"
+                    }
+                }
+            }
+        },
+        "Section 4.": {
+            "heading": "Insertion of new section 15A.",
+            "paragraphs": {
+                "0": {
+                    "text": "After section 15 of the principal Act, the following section shall be inserted, namely:--",
+                    "contains": {
+                        "0": "\u201c15A. Right to vote.\u2014(1) Every person whose name is, for the time being, entered in the electoral roll for a ward shall be entitled to vote at the election of a Commissioner from that ward."
+                    }
+                },
+                "1": "(2) In every ward an elector shall have as many votes as there are Commissioners to be elected from that ward but no elector shall at any election give more than one vote to any one candidate.\u201d."
+            }
+        },
+        "Section 5.": {
+            "heading": "Amendment of section 16.",
+            "paragraphs": {
+                "0": {
+                    "text": "In section 16 of the principal Act,\u2014",
+                    "contains": {
+                        "0": "(1) for the words \u201cby an unsuccessful candidate or person qualified to vote at the election to which such question refers, such persons\u201d, the words \u201cby any candidate at such election or by any elector of the ward concerned, such candidate or such elector, as the case may be\u201d, shall be substituted:",
+                        "1": "(2) in the second proviso, for the word \u201cqualified\u201d in both the places where it occurs, the word \u201centitled\u201d shall be substituted."
+                    }
+                }
+            }
+        },
+        "Section 6.": {
+            "heading": "Insertion of new section 26A.",
+            "paragraphs": {
+                "0": {
+                    "text": "After section 26 of the principal Act, the following section shall be inserted, namely:\u2014",
+                    "contains": {
+                        "0": {
+                            "text": "\u201c26. Transitional provisions for Commissioners of, and general election to, Imphal Municipal Board.\u2014Notwithstanding anything in this Act or in any notification, rule or order issued or made thereunder,\u2014",
+                            "contains": {
+                                "0": "(a) the Commissioners of the Imphal Municipal Board holding office immediately before the commencement of the Assam Municipal (Manipur Amendment) Act, 1961 shall cease to hold office on and on and form such date as the Chief Commissioner may be notification in the Manipur Gazette specify;",
+                                "1": "(b) the general election of Commissioners of that Board to be held for the first time after such commencement shall be held and completed before such date as the Chief commissioner may by a like notification specify.\u201d."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Section 7.": {
+            "heading": "Amendment of section 301.",
+            "paragraphs": {
+                "0": {
+                    "text": "In section 301 of the principal Act, in sub-section (2),\u2014",
+                    "contains": {
+                        "0": "(a) in clause (i), the words \u201c the qualifications and disqualifications and registration of voters\u201d, shall be omitted;",
+                        "1": {
+                            "text": "(b) after clause (i), the following clause shall be inserted, namely:\u2014",
+                            "contains": {
+                                "0": "\u201c(ia) provide for the manner of the splitting up of electoral rolls for parliamentary constituencies, into parts for the purpose of constituting one or more of such parts into the electoral roll for a ward, and the appointment of the officer or authority by whom such splitting up is to be carried out;\u201d."
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {}
+}

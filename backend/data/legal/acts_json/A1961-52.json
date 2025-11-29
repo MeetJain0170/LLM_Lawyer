@@ -1,0 +1,836 @@
+{
+    "Act Title": "THE APPRENTICES ACT, 1961",
+    "Act ID": "ACTNO.52 OF 1961",
+    "Enactment Date": "[12th December, 1961.]",
+    "Act Definition": {
+        "0": "An Act to provide for the regulation and control of training of apprentices1*** and for matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent, commencement and application.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Apprentices Act, 1961.",
+                        "1": "(2) It extends to the whole of India2***.",
+                        "2": "(3) It shall come into force on such date3as the Central Government may, by notification in the Official Gazette, appoint; and different dates may be appointed for different States.",
+                        "3": {
+                            "text": "(4) The provisions of this Act shall not apply to\u2014",
+                            "contains": {
+                                "0": "(a) any area or to any industry in any area unless the Central Government by notification in the Official Gazette specifies that area or industry as an area or industry to which the said provisions shall apply with effect from such date as may be mentioned in the notification;",
+                                "1": "4* * * **",
+                                "2": "5[(c) any such special apprenticeship scheme for imparting training to apprentices as may be notified by the Central Government in the Official Gazette.]"
+                            }
+                        }
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "6[(a) \u201cAll India Council\u201d means the All India Council of Technical Education established by the resolution of the Government of India in the former Ministry of Education No. F. 16-10/44-E.III, dated the 30th November, 1945;]",
+                                "1": "7[(aa)] \u201capprentice\u201d means a person who is undergoing apprenticeship training 8*** in pursuance of a contract of apprenticeship;",
+                                "2": "6[(aaa) \u201capprenticeship training\u201d means a course of training in any industry or establishment undergone in pursuance of a contract of apprenticeship and under prescribed terms and conditions which may be different for different categories of apprentices;]",
+                                "3": "(b) \u201cApprenticeship Adviser\u201d means the Central Apprenticeship Adviser appointed under sub- section (1) of section 26 or the State Apprenticeship Adviser appointed under sub-section (2) of that section;",
+                                "4": "(c) \u201cApprenticeship Council\u201d means the Central Apprenticeship Council or the State Apprenticeship Council established under sub-section (1) of section 24;",
+                                "5": {
+                                    "text": "(d) \u201cappropriate Government\u201d means,\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(1) in relation to\u2014",
+                                            "contains": {
+                                                "0": "(a) the Central Apprenticeship Council, or",
+                                                "1": "1[(aa) the Regional Boards, or",
+                                                "2": "(aaa) the practical training of graduate or technician apprentices or technician (vocational) apprentices, or]",
+                                                "3": "(b) any establishment of any railway, major port, mine or oilfield, or",
+                                                "4": "2[(bb) any establishment which is operating business or trade from different locations situated in four or more States, or]",
+                                                "5": {
+                                                    "text": "(c) any establishment owned, controlled or managed by\u2014",
+                                                    "contains": {
+                                                        "0": "(i) the Central Government or a department of the Central Government,",
+                                                        "1": "(ii) a company in which not less than fifty-one per cent. of the share capital is held by the Central Government or partly by that Government and partly by one or more State Governments,",
+                                                        "2": "(iii) a corporation (including a co-operative society) established by or under a Central Act which is owned, controlled or managed by the Central Government,"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "1": {
+                            "text": "the Central Government;",
+                            "contains": {
+                                "0": {
+                                    "text": "(2) in relation to\u2014",
+                                    "contains": {
+                                        "0": "(a) a State Apprenticeship Council, or",
+                                        "1": "(b) any establishment other than an establishment specified in sub-clause (1) of this clause,"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "text": "the State Government;",
+                            "contains": {
+                                "0": "3[(dd) \u201cBoard or State Council of Technical Education\u201d means the Board or State Council of Technical Education established by the State Government;]",
+                                "1": "4[(e) \u201cdesignated trade\u201d means any trade or occupation or any subject field in engineering or non- engineering or technology or any vocational coursewhich the Central Government, after consultation with the Central Apprenticeship Council, may, by notification in the Official Gazette, specify as a designated trade for the purposes of this Act;]",
+                                "2": "(f) \u201cemployer\u201d means any person who employs one or more other persons to do any work in an establishment for remuneration and includes any person entrusted with the supervision and control of employees in such establishment;",
+                                "3": "(g) \u201cestablishment\u201d includes any place where any industry is carried on 5[and where an establishment consists of different departments or have branches, whether situated in the same place or at different places, all such departments or branches shall be treated as part of that establishment];",
+                                "4": "(h) \u201cestablishment in private sector\u201d means an establishment which is not an establishment in public sector;",
+                                "5": {
+                                    "text": "(i) \u201cestablishment in public sector\u201d means an establishment owned, controlled or managed by\u2014",
+                                    "contains": {
+                                        "0": "(1) the Government or a department of the Government;",
+                                        "1": "(2) a Government company as defined in section 617 of the Companies Act, 1956 (1 of 1956);",
+                                        "2": "(3) a corporation (including a co-operative society) established by or under a Central, Provincial or State Act, which is owned, controlled or managed by the Government;",
+                                        "3": "(4) a local authority;"
+                                    }
+                                },
+                                "6": "1[(j) \u201cgraduate or technician apprentice\u201d means an apprentice who holds, or is undergoing training in order that he may hold a degree or diploma in engineering or non-engineering or technology or equivalent qualification granted by any institution recognised by the Government and undergoes apprenticeship training in any designated trade;",
+                                "7": "(k) \u201cindustry\u201d means any industry or business in which any trade, occupation or subject field in engineering or non-engineering or technology or any vocational course may be specified as a designated trade or optional trade or both;]",
+                                "8": "(l) \u201cNational Council\u201d means the National Council for Training in Vocational Trades established by the resolution of the Government of India in the Ministry of Labour (Directorate General of Resettlement and Employment) No. TR/E.P.24/56, dated the 21st August, 1956;2[and re-named as the National Council for Vocational Training by the resolution of the Government of India in the Ministry of Labour (Directorate-General of Employment and Training) No. DGET/12/21/80-TC, dated the 30th September, 1981];",
+                                "9": "3[(ll) \u201coptional trade\u201d means any trade or occupation or any subject field in engineering or non- engineering or technology or any vocational course as may be determined by the employer for the purposes of this Act;",
+                                "10": "(lll) \u201cportal-site\u201d means a website of the Central Government for exchange of information under this Act;]",
+                                "11": "(m) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "12": "4[(mm) \u201cRegional Board\u201d means any Board of Apprenticeship Training registered under the Societies Registration Act, 1860 (21 of 1860) at Bombay, Calcutta, Madras or Kanpur;]",
+                                "13": "(n) \u201cState\u201d includes a Union territory;",
+                                "14": "(o) \u201cState Council\u201d means a State Council for Training in Vocational Trades established by the State Government;",
+                                "15": "(p) \u201cState Government\u201d in relation to a Union territory means the Administrator thereof;",
+                                "16": "2[(pp) \u201ctechnician (vocational) apprentice\u201d means an apprentice who holds or is undergoing training in order that he may hold a certificate in vocational course involving two years of study after the completion of the secondary stage of school education recognised by the All-India Council and undergoes apprenticeship training in any 5[designated trade];]",
+                                "17": "6[(q) \u201ctrade apprentice\u201d means an apprentice who undergoes apprenticeship training in any designated trade;",
+                                "18": "(r) \u201cworker\u201d means any person working in the premises of the employer, who is employed for wages in any kind of work either directly or through any agency including a contractor and who gets his wages directly or indirectly from the employer but shall not include an apprentice referred to in clause (aa).]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "APPRENTICES AND THEIR TRAINING",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Qualifications for being engaged as an apprentice.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "A person shall not be qualified for being engaged as an apprentice to undergo apprenticeship training in any designated trade, unless he\u2014",
+                            "contains": {
+                                "0": "1[(a) is not less than fourteen years of age, and for designated trades related to hazardous industries, not less than eighteen years of age; and]",
+                                "1": "(b) satisfies such standards of education and physical fitness as may be prescribed:"
+                            }
+                        },
+                        "1": "Provided that different standards may be prescribed in relation to apprenticeship training in different designated trades2[and for different categories of apprentices]."
+                    }
+                },
+                "Section 3A.": {
+                    "heading": "Reservation of training places for the Scheduled Castes and the Scheduled Tribes in designated trades.",
+                    "paragraphs": {
+                        "0": "(1) In every designated trade, training places shall be reserved by the employer for the Scheduled Castes and the Scheduled Tribes 4[and where there is more than one designated trade in an establishment, such training places shall be reserved also on the basis of the total number of apprentices in all the designated trades in such establishment].",
+                        "1": "(2) The number of training places to be reserved for the Scheduled Castes and the Scheduled Tribes under sub-section (1) shall be such as may be prescribed, having regard to the population of the Scheduled Castes and the Scheduled Tribes in the State concerned.",
+                        "2": "Explanation.\u2014In this section, the expressions \u201cScheduled Castes\u201d and \u201cScheduled Tribes\u201d shall have the meanings as in clauses (24) and (25) of article 366 of the Constitution.]"
+                    }
+                },
+                "Section 3B.": {
+                    "heading": "Reservation of training places for Other Backward Classes in designated trades.",
+                    "paragraphs": {
+                        "0": "(1) In every designated trade, training places shall be reserved by the employer for the Other Backward Classes and where there is more than one designated trade in an establishment, such training places shall be reserved also on the basis of the total number of apprentices in all the designated trades in such establishment.",
+                        "1": "(2) The number of training places to be reserved for the Other Backward Classes under sub-section (1) shall be such as may be prescribed, having regard to the population of the Other Backward Classes in the State concerned.]"
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Contract of apprenticeship.",
+                    "paragraphs": {
+                        "0": "(1) No person shall be engaged as an apprentice to undergo apprenticeship training in a designated trade unless such person or, if he is a minor, his guardian has entered into a contract of apprenticeship with the employer.",
+                        "1": "(2) The apprenticeship training shall be deemed to have commenced on the date on which the contract of apprenticeship has been entered into under sub-section (1).",
+                        "2": "(3) Every contract of apprenticeship may contain such terms and conditions as may be agreed to by the parties to the contract:",
+                        "3": "Provided that no such term or condition shall be inconsistent with any provision of this Act or any rule made thereunder.",
+                        "4": "7[(4) Every contract of apprenticeship entered into under sub-section (1) shall be sent by the employer within thirty days to the Apprenticeship Adviser until a portal-site is developed by the Central Government, and thereafter the details of contract of apprenticeship shall be entered on the portal-site within seven days, for verification and registration.",
+                        "5": "(4A) In the case of objection in the contract of apprenticeship, the Apprenticeship Adviser shall convey the objection to the employer within fifteen days from the date of its receipt.",
+                        "6": "(4B) The Apprenticeship Adviser shall register the contract of apprenticeship within thirty days from the date of its receipt.]",
+                        "7": "1* * * **",
+                        "8": "(6) Where the Central Government, after consulting the Central Apprenticeship Council, makes any rule varying the terms and conditions of apprenticeship training of any category of apprentices undergoing such training, then, the terms and conditions of every contract of apprenticeship relating to that category of apprentices and subsisting immediately before the making of such rule shall be deemed to have been modified accordingly.]"
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Novation of contract of apprenticeship.",
+                    "paragraphs": {
+                        "0": "Where an employer with whom a contract of apprenticeship has been entered into, is for any reason unable to fulfil his obligations under the contract and with the approval of the Apprenticeship Adviser it is agreed between the employer, the apprentice or his guardian and any other employer that the apprentice shall be engaged as an apprentice under the other employer for the unexpired portion of the period of apprenticeship training, the agreement, on registration with the Apprenticeship Adviser, shall be deemed to be the contract of apprenticeship between the apprentice or his guardian and the other employer, and on and from the date of such registration, the contract of apprenticeship with the first employer shall terminate and no obligation under that contract shall be enforceable at the instance of any party to the contract against the other party thereto."
+                    }
+                },
+                "Section 5A.": {
+                    "heading": "Regulation of optional trade.",
+                    "paragraphs": {
+                        "0": "The qualification, period of apprenticeship training, holding of test, grant of certificate and other conditions relating to the apprentices in optional trade shall be such as may be prescribed."
+                    }
+                },
+                "Section 5B.": {
+                    "heading": "Engagement of apprentices from other States.",
+                    "paragraphs": {
+                        "0": "The employer may engage apprentices from other States for the purpose of providing apprenticeship training to the apprentices.]"
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Period of apprenticeship training.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The period of apprenticeship training, which shall be specified in the contract of apprenticeship, shall be as follows:\u2014",
+                            "contains": {
+                                "0": "(a) in the case of 3[trade apprentices] who, having undergone institutional training in a school or other institution recognised by the National Council, have passed the trade tests 4[or examinations] conducted by 5[that Council or by an institution recognised by that Council], the period of apprenticeship training shall be such as may be 6[prescribed];",
+                                "1": "7[(aa) in the case of trade apprentices who, having undergone institutional training in a school or other institution affiliated to or recognised by a Board or State Council of Technical Education or any other authority or courses approved under any scheme which the Central Government may, by notification in the Official Gazette specify in this behalf, have passed the trade tests or examinations conducted by that Board or State Council or authority or by any other agency authorised by the Central Government, the period of apprenticeship training shall be such as may be prescribed;]",
+                                "2": "(b) in the case of other 3[trade apprentices], the period of apprenticeship training shall be such as may be prescribed;",
+                                "3": {
+                                    "text": "8[(c) in the case of graduate or technician apprentices 9[technician (vocational) apprentices], the period of apprenticeship training shall be such as may be prescribed.]",
+                                    "contains": {
+                                        "0": "STATE AMENDMENTS"
+                                    }
+                                }
+                            }
+                        },
+                        "1": {
+                            "text": "Maharashtra",
+                            "contains": {
+                                "0": "Amendment of section 6 of 52 of 1961.\u2014In section 6 of the Apprentices Act, 1961 (52 of 1961), in its application to the State of Maharashtra (hereinafter referred to as \u201cthe principal Act\u201d), for the existing clause (b), the following clause shall be substituted, namely:\u2014",
+                                "1": "\u201c(b) in the case of other apprentices, the period of apprenticeship training shall be such as may be specified by the State Apprenticeship Council;\u201d."
+                            }
+                        },
+                        "2": "[Vide Maharashtra Act 17 of 2018, s. 2]."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Termination of apprenticeship contract.",
+                    "paragraphs": {
+                        "0": "(1) The contract of apprenticeship shall terminate on the expiry of the period of apprenticeship training.",
+                        "1": "(2) Either party to a contract of apprenticeship may make an application to the Apprenticeship Adviser for the termination of the contract, and when such application is made, shall send by post a copy thereof to the other party to the contract.",
+                        "2": "(3) After considering the contents of the application and the objections, if any, filed by the other party, the Apprenticeship Adviser may, by order in writing, terminate the contract if he is satisfied that the parties to the contract or any of them have or has failed to carry out the terms and conditions of the contract and that it is desirable in the interests of the parties or any of them to terminate the same:",
+                        "3": {
+                            "text": "Provided that where a contract is terminated\u2014",
+                            "contains": {
+                                "0": "(a) for failure on the part of the employer to carry out the terms and conditions of the contract, the employer shall pay to the apprentice such compensation as may be prescribed;",
+                                "1": "(b) for such failure on the part of the apprentice, the apprentice or his guardian shall refund to the employer as cost of training such amount as may be determined by the Apprenticeship Adviser."
+                            }
+                        },
+                        "4": {
+                            "text": "1[(4) Notwithstanding anything contained in any other provision of this Act, where a contract of apprenticeship has been terminated by the Apprenticeship Adviser before the expiry of the period of apprenticeship training and a new contract of apprenticeship is being entered into with a new employer, the Apprenticeship Adviser may, if he is satisfied that the contract of apprenticeship with the previous employer could not be completed because of any lapse on the part of the previous employer, permit the period of apprenticeship training already undergone by the apprentice with his previous employer to be included in the period of apprenticeship training to be undertaken with the new employer.]",
+                            "contains": {
+                                "0": "STATE AMENDMENTS"
+                            }
+                        },
+                        "5": {
+                            "text": "Maharashtra",
+                            "contains": {
+                                "0": "Amendment of section 7 of 52 of 1961.\u2014In section 7 of the principal Act, in sub-section (3), for the existing proviso, the following proviso shall be substituted, namely:\u2014",
+                                "1": "\u201cProvided that, where a contract is terminated\u2014",
+                                "2": "(a) for failure on the part of the employer to carry out the terms and conditions of the contract, the employer shall pay to the apprentice one month\u2019s stipend for which he is entitled as a compensation;",
+                                "3": "(b) for such failure on the part of the apprentice, the apprentice or his guardian shall refund to the employer as cost of training one month\u2019s stipend for which he is entitled.\u201d."
+                            }
+                        },
+                        "6": "[Vide Maharashtra Act 17 of 2018, s. 3]."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Number of apprentices for a designated trade.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall prescribe the number of apprentices to be engaged by the employer for designated trade and optional trade.",
+                        "1": {
+                            "text": "(2) Several employers may join together either themselves or through an agency, approved by the Apprenticeship Adviser, according to the guidelines issued from time to time by the Central Government in this behalf, for the purpose of providing apprenticeship training to the apprentices under them.]",
+                            "contains": {
+                                "0": "STATE AMENDMENTS"
+                            }
+                        },
+                        "2": {
+                            "text": "Maharashtra",
+                            "contains": {
+                                "0": "Amendment of section 8 of 52 of 1961.\u2014In section 8 of the principal Act, after the existing sub- section (1), the following sub-section shall be inserted, namely:\u2014",
+                                "1": "\u201c(1A) Notwithstanding anything contained in sub-section (1), the establishment shall have to engage trade apprentices to the extent of minimum 2.5 per cent. and maximum 25 per cent. of the total strength of the employees of establishment including contractual or daily wages or whose services have been available through third party in any designated trades or optional trades for which activities are carried out in that establishment.\u201d.",
+                                "2": "[Vide Maharashtra Act 17 of 2018, s. 4]."
+                            }
+                        }
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Practical and basic training of apprentices.",
+                    "paragraphs": {
+                        "0": "1[(1) Every employer shall make suitable arrangements in his workplace for imparting a course of practical training to every apprentice engaged by him.]",
+                        "1": "(2) 2[The Central Apprenticeship Adviser or any other person not below the rank of an Assistant Apprenticeship Adviser authorised by the Central Apprenticeship Adviser in writing in this behalf] shall be given all reasonable facilities for access to each such apprentice with a view to test his work and to ensure that the practical training is being imparted in accordance with the approved programme:",
+                        "2": "Provided that 3[the State Apprenticeship Adviser or any other person not below the rank of an Assistant Apprenticeship Adviser authorised by the State Apprenticeship Adviser in writing in this behalf] shall also be given such facilities in respect of apprentices undergoing training in establishments in relation to which the appropriate Government is the State Government.",
+                        "3": "4[(3) Such of the trade apprentices who have not undergone institutional training in a school or other institution recognised by the National Council or any other institution affiliated to or recognised by a Board or State Council of Technical Education or any other authority which the Central Government may, by notification in the Official Gazette, specify in this behalf, shall, before admission in the workplace for practical training, undergo a course of basic training and the course of basic training shall be given to the trade apprentices in any institute having adequate facilities.]",
+                        "4": "(4) Where an employer employs in his establishment five hundred or more workers, the basic training shall be imparted to 5[the trade apprentices] either in separate parts of the workshop building or in a separate building which shall be set up by the employer himself, but the appropriate Government may grant loans to the employer on easy terms and repayable by easy instalments to meet the cost of the land, construction and equipment for such separate building.",
+                        "5": "6* * * * *",
+                        "6": "7[(7) In the case of an apprentice other than a graduate or technician apprentice technician (vocational) apprentice, the syllabus of and the equipment to be utilised for, practical training including basic training in any designated trade shall be such as may be approved by the Central Government in consultation with the Central Apprenticeship Council.",
+                        "7": "(7A) In the case of graduate or technician apprentices or technician (vocational) apprentices, the programme of apprenticeship training and the facilities required for such training in any designated trade shall be such as may be approved by the Central Government in consultation with the Central Apprenticeship Council.]",
+                        "8": {
+                            "text": "(8)(a) Recurring costs (including the cost of stipends) incurred by an employer in connection with 1[2[basic training] imparted to trade apprentices other than those referred to in clauses (a) and (aa)] of section 6 shall be borne\u2014",
+                            "contains": {
+                                "0": "(i) if such employer employs 3[two hundred and fifty] workers or more, by the employer;",
+                                "1": "(ii) if such employer employs less than 3[two hundred and fifty] workers, by the employer and the Government in equal shares up to such limit as may be laid down by the Central Government and beyond that limit, by the employer alone; and",
+                                "2": "(b) recurring costs (including the cost of stipends), if any, incurred by an employer in connection with 4[practical training including basic training, imparted to trade apprentices referred to in clauses (a) and (aa)] of section 6 shall, in every case, be borne by the employer;",
+                                "3": "5[(c) recurring costs (excluding the cost of stipends) incurred by an employer in connection with the practical training imparted to graduate or technician apprentices 6[technician (vocational) apprentices] shall be borne by the employer and the cost of stipends shall be borne by the Central Government and the employer in equal shares up to such limit as may be laid down by the Central Government and beyond that limit by the employer alone 7[except apprentices who holds degree or diploma in non-engineering.]"
+                            }
+                        }
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Related instruction of apprentices.",
+                    "paragraphs": {
+                        "0": "(1)8[A trade apprentice] who is undergoing practical training in an establishment shall, during the period of practical training, be given a course of related instruction (which shall be appropriate to the trade) approved by the Central Government in consultation with the Central Apprenticeship Council, with a view to giving 9[the trade apprentice] such theoretical knowledge as he needs in order to become fully qualified as a skilled craftsman.",
+                        "1": "10[(2) Related instruction shall be imparted at the cost of employer and the employer shall, when so required, afford all facilities for imparting such instruction.]",
+                        "2": "(3) Any time spent by 11[a trade apprentice] in attending classes on related instruction shall be treated as part of his paid period of work.",
+                        "3": "12[(4) In the case of trade apprentices who, after having undergone a course of institutional training, have passed the trade tests conducted by the National Council or have passed the trade tests and examinations conducted by a Board or State Council of Technical Education or any other authority which the Central Government may, by notification in the Official Gazette, specify in this behalf, the related instruction may be given on such reduced or modified scale as may be prescribed.",
+                        "4": "(5) Where any person has, during his course in a technical institution, become a graduate or technician apprentice 13[technician (vocational) apprentice] and during his apprenticeship training he has to receive related instruction, then, the employer shall release such person from practical training to receive the related instruction in such institution, for such period as may be specified by the Central Apprenticeship Adviser or by any other person not below the rank of an Assistant Apprenticeship Adviser authorised by the Central Apprenticeship Adviser in writing in this behalf.]"
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Obligations of employers.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Without prejudice to the other provisions of this Act, every employer shall have the following obligations in relation to an apprentice, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to provide the apprentice with the training in his trade in accordance with the provisions of this Act, and the rules made thereunder;",
+                                "1": "(b) if the employer is not himself qualified in the trade, to ensure that a person1[who possesses the prescribed qualifications] is placed in charge of the training of the apprentice;2***",
+                                "2": "3[(bb) to provide adequate instructional staff, possessing such qualifications as may be prescribed, for imparting practical and theoretical training and facilities for trade test of apprentices; and]",
+                                "3": "(c) to carry out his obligations under the contract of apprenticeship."
+                            }
+                        }
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Obligations of apprentices.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "4[(1)] 5[Every trade apprentice] undergoing apprenticeship training shall have the following obligations, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to learn his trade conscientiously and diligently and endeavour to qualify himself as a skilled craftsman before the expiry of the period of training;",
+                                "1": "(b) to attend practical and instructional classes regularly;",
+                                "2": "(c) to carry out all lawful orders of his employer and superiors in the establishment; and",
+                                "3": "(d) to carry out his obligations under the contract of apprenticeship."
+                            }
+                        },
+                        "1": {
+                            "text": "6[(2) Every graduate or technician apprentice 7[technician (vocational) apprentice] undergoing apprenticeship training shall have the following obligations, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to learn his subject field in engineering or technology 7[or vocational course] conscientiously and diligently at his place of training;",
+                                "1": "(b) to attend the practical and instructional classes regularly;",
+                                "2": "(c) to carry out all lawful orders of his employer and superiors in the establishment;",
+                                "3": "(d) to carry out his obligations under the contract of apprenticeship which shall include the maintenance of such records of his work as may be prescribed.]"
+                            }
+                        }
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Payment to apprentices.",
+                    "paragraphs": {
+                        "0": "(1) The employer shall pay to every apprentice during the period of apprenticeship training such stipend at a rate not less than the8[prescribed minimum rate, or the rate which was being paid by the employer on 1st January, 1970 to the category of apprentices under which such apprentice falls, whichever is higher,] as may be specified in the contract of apprenticeship and the stipend so specified shall be paid at such intervals and subject to such conditions as may be prescribed.",
+                        "1": {
+                            "text": "9[(2) An apprentice shall not be paid by his employer on the basis of piece work nor shall he be required to take part in any output bonus or other incentive scheme.]",
+                            "contains": {
+                                "0": "STATE AMENDMENTS"
+                            }
+                        },
+                        "2": {
+                            "text": "Maharashtra",
+                            "contains": {
+                                "0": "Amendment of section 13 of 52 of 1961.\u2014In section 13 of the principal Act, after the existing sub- section (1), the following sub-sections shall be inserted, namely:\u2014",
+                                "1": {
+                                    "text": "\u201c(1A) The minimum rate of stipend per month payable to trade apprentices who do training for eight hours per day shall be as follows, namely:\u2014",
+                                    "contains": {
+                                        "0": "(a) During the first year of training . . Seventy per cent. of minimum wages of semi-skilled workers notified by the State.",
+                                        "1": "(b) During the second year of training . .Eighty per cent. of minimum wages of semi-skilled workers notified by the State.",
+                                        "2": "(c) During the third year of training . .Ninety per cent. of minimum wages of semi-skilled workers notified by the State."
+                                    }
+                                },
+                                "2": "(1B) The trade apprentices who do training for minimum four hours per day, the rate of stipend per month shall be fifty per cent. of the rates mentioned in clauses (a), (b) and (c) of sub-section (1A), respectively:",
+                                "3": "Provided that, in the case where the minimum rate of wage for a trade is not notified by the State, then the maximum of minimum wages of the Scheduled Employment notified by the State for semi- skilled workers shall be taken into account for paying the stipend in respect of that trade:",
+                                "4": "Provided further that, in the case of trade apprentices referred to in clause (a) of section 6 of the Act, the period of training already undergone by them in a school or other institution recognized by the State Council, shall be taken into account for the purpose of determining the rate of stipend payable.\u201d.",
+                                "5": "[VideMaharashtra Act 17 of 2018, s. 5]."
+                            }
+                        }
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Health, safety and welfare of apprentices.",
+                    "paragraphs": {
+                        "0": "Where any apprentices are undergoing training in a factory, the provisions of Chapters III, IV and V of the Factories Act, 1948 (63 of 1948), shall apply in relation to the health, safety and welfare of the apprentices as if they were workers within the meaning of that Act and when any apprentices are undergoing training in a mine, the provisions of Chapter V of the Mines Act, 1952 (35 of 1952), shall apply in relation to the health and safety of the apprentices as if they were persons employed in the mine."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Hours of work, overtime, leave and holidays.",
+                    "paragraphs": {
+                        "0": "1[(1) The weekly and daily hours of work of an apprentice while undergoing practical training in a workplace shall be as determined by the employer subject to the compliance with the training duration, if prescribed.]",
+                        "1": "(2) No apprentice shall be required or allowed to work overtime except with the approval of the Apprenticeship Adviser who shall not grant such approval unless he is satisfied that such overtime is in the interest of the training of the apprentice or in the public interest.",
+                        "2": "2[(3) An apprentice shall be entitled to such leave and holidays as are observed in the establishment in which he is undergoing training.]"
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Employer\u2019s liability for compensation for injury.",
+                    "paragraphs": {
+                        "0": "If personal injury is caused to an apprentice by accident arising out of and in the course of his training as an apprentice, his employer shall be liable to pay compensation which shall be determined and paid, so far as may be, in accordance with the provisions of the Workmen\u2019s Compensation Act, 1923 (8 of 1923), subject to the modifications specified in the Schedule."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Conduct and discipline.",
+                    "paragraphs": {
+                        "0": "In all matters of conduct and discipline, the apprentice shall be governed by the rules and regulations1[applicable to employees of the corresponding category] in the establishment in which the apprentice is undergoing training."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Apprentices are trainees and not workers.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Save as otherwise provided in this Act,\u2014",
+                            "contains": {
+                                "0": "(a) every apprentice undergoing apprenticeship training in a designated trade in an establishment shall be a trainee and not a worker; and",
+                                "1": "(b) the provisions of any law with respect to labour shall not apply to or in relation to such apprentice."
+                            }
+                        }
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Records and returns.",
+                    "paragraphs": {
+                        "0": "(1) Every employer shall maintain records of the progress of training of each apprentice undergoing apprenticeship training in his establishment in such form as may be prescribed.",
+                        "1": "2[(2) Until a portal-site is developed by the Central Government, every employer shall furnish such information and return in such form as may be prescribed, to such authorities at such intervals as may be prescribed.",
+                        "2": "(3) Every employer shall also give trade-wise requirement and engagement of apprentices in respect of apprenticeship training on portal-site developed by the Central Government in this regard.]"
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Settlement of disputes.",
+                    "paragraphs": {
+                        "0": "(1) Any disagreement or dispute between an employer and an apprentice arising out of the contract of apprenticeship shall be referred to the Apprenticeship Adviser for decision.",
+                        "1": "(2) Any person aggrieved by the decision of the Apprenticeship Adviser under sub-section (1) may, within thirty days from the date of communication to him of such decision, prefer an appeal against the decision to the Apprenticeship Council and such appeal shall be heard and determined by a Committee of that Council appointed for the purpose.",
+                        "2": "(3) The decision of the Committee under sub-section (2) and subject only to such decision, the decision of the Apprenticeship Adviser under sub-section (1) shall be final."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Holding of test and grant of certificate and conclusion of training.",
+                    "paragraphs": {
+                        "0": "3[(1) Every trade apprenticewho has completed the period of training may appear for a test to be conducted by the National Council or any other agency authorised by the Central Government to determine his proficiency in the designated trade in which he has undergone apprenticeship training].",
+                        "1": "(2) Every4[trade apprentice] who passes the test referred to in sub-section (1) shall be granted a certificate of proficiency in the trade by the National Council 5[or by the other agency authorised by the Central Government].",
+                        "2": "6[(3) The progress in apprenticeship training of every graduate or technician apprentice7[technician (vocational) apprentice] shall be assessed by the employer from time to time.",
+                        "3": {
+                            "text": "8[(4) Every graduate or technician apprentice or technician (vocational) apprentice, who completes his apprenticeship training to the satisfaction of the concerned Regional Board, shall be granted a certificate of proficiency by that Board.]]",
+                            "contains": {
+                                "0": "STATE AMENDMENTS"
+                            }
+                        },
+                        "4": {
+                            "text": "Maharashtra",
+                            "contains": {
+                                "0": {
+                                    "text": "Amendment of section 21 of 52 of 1961.\u2014In section 21 of the principal Act,\u2014",
+                                    "contains": {
+                                        "0": "(i) after the existing sub-section (1), the following sub-section shall be inserted, namely:\u2014",
+                                        "1": "\u201c(1A) For apprentices successfully completed the training period in the trade designated by the State Apprenticeship Council (other than the trade designated and prescribed by the Central Government), may appear for a test to be conducted by the State Council of Vocational Training or any other agency authorised by the State Government to determine his proficiency in the trade designated by the State Apprenticeship Council in which he has undergone apprenticeship training.\u201d;"
+                                    }
+                                },
+                                "1": "(ii) after the existing sub-section (2), the following sub-section shall be inserted, namely:\u2014",
+                                "2": "\u201c(2A) Every apprentice, who passes the test referred to in sub-section (1A) shall be granted a certificate of proficiency in the trade by the State Council of Vocational Training or by the other agency authorised by the State Government.\u201d.",
+                                "3": "[Vide Maharashtra Act 17 of 2018, s. 6]."
+                            }
+                        }
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Offer and acceptance of employment.",
+                    "paragraphs": {
+                        "0": "1[(1) Every employer shall formulate its own policy for recruiting any apprentice who has completed the period of apprenticeship training in his establishment.]",
+                        "1": "(2) Notwithstanding anything in sub-section (1), where there is a condition in a contract of apprenticeship that the apprentice shall, after the successful completion of the apprenticeship training, serve the employer, the employer shall, on such completion, be bound to offer suitable employment to the apprentice, and the apprentice shall be bound to serve the employer in that capacity for such period and on such remuneration as may be specified in the contract:",
+                        "2": "Provided that where such period or remuneration is not, in the opinion of the Apprenticeship Adviser, reasonable, he may revise such period or remuneration so as to make it reasonable, and the period or remuneration so revised shall be deemed to be the period or remuneration agreed to between the apprentice and the employer."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "AUTHORITIES",
+            "Sections": {
+                "Section 23.": {
+                    "heading": "Authorities.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In addition to the Government there shall be the following authorities under this Act, namely:\u2014",
+                            "contains": {
+                                "0": "(a) The National Council,",
+                                "1": "(b) The Central Apprenticeship Council,",
+                                "2": "(c) The State Council,",
+                                "3": "(d) The State Apprenticeship Council,",
+                                "4": "2[(e) The All India Council,",
+                                "5": "(f) The Regional Boards,",
+                                "6": "(g) The Boards or State Councils of Technical Education,]",
+                                "7": "3[(h)] The Central Apprenticeship Adviser, and",
+                                "8": "4[(i)] The State Apprenticeship Adviser."
+                            }
+                        },
+                        "1": "(2) Every State Council shall be affiliated to the National Council and every State Apprenticeship Council shall be affiliated to the Central Apprenticeship Council.",
+                        "2": "2[(2A) Every Board or State Council of Technical Education and every Regional Board shall be affiliated to the Central Apprenticeship Council.]",
+                        "3": "(3) Each of the authorities specified in sub-section (1) shall, in relation to apprenticeship training under this Act, perform such functions as are assigned to it by or under this Act or by the Government:",
+                        "4": "Provided that a State Council shall also perform such functions as are assigned to it by the National Council and the State Apprenticeship Council 1[and the Board or State Council of Technical Education] shall also perform such functions as are assigned to it by the Central Apprenticeship Council."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Constitution of Councils.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, bynotification in the Official Gazette, establish the Central Apprenticeship Council and the State Government shall, by notification in the Official Gazette, establish the State Apprenticeship Council.",
+                        "1": {
+                            "text": "(2) The Central Apprenticeship Council shall consist of 2[a Chairman and a Vice-Chairman] and such number of other members as the Central Government may think expedient, to be appointed by that Government by notification in the Official Gazette from among the following categories of persons, namely:\u2014",
+                            "contains": {
+                                "0": "(a) representatives of employers in establishments in the public and private sectors,",
+                                "1": "(b) representatives of the Central Government and of the State Governments, 3***",
+                                "2": "(c) persons having special knowledge and experience on matters relating to 4[industry, labour and technical education, and]",
+                                "3": "5[(d) representatives of the All India Council and of the Regional Boards.]"
+                            }
+                        },
+                        "2": "(3) The number of persons to be appointed as members of the Central Apprenticeship Council from each of the categories specified in sub-section (2), the term of office of, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among, the members of the Council shall be such as may be prescribed.",
+                        "3": {
+                            "text": "(4) The State Apprenticeship Council shall consist of 2[a Chairman and a Vice-Chairman] and such number of other members as the State Government may think expedient, to be appointed by that Government by notification in the Official Gazette from among the following categories of persons, namely:\u2014",
+                            "contains": {
+                                "0": "(a) representatives of employers in establishments in the public and private sectors,",
+                                "1": "(b) representatives of the Central Government and of the State Government 5***",
+                                "2": "(c) persons having special knowledge and experience of matters relating to 6[industry, labour and technical education, and]",
+                                "3": "7[(d) representatives of the Board or of the State Council of Technical Education.]"
+                            }
+                        },
+                        "4": "(5) The number of persons to be appointed as members of the State Apprenticeship Council from each of the categories specified in sub-sections (4), the term of office of, the procedure to be followed in the discharge of their functions by, and the manner of filling vacancies among, the members of the Council shall be such as the State Government may, by notification in the Official Gazette, determine.",
+                        "5": "(6) The fees and allowances, if any, to be paid to 6[the Chairman and the Vice-Chairman] and the other members of the Central Apprenticeship Council, shall be such as may be determined by the Central Government and the fees and allowances, if any, to be paid to 6[the Chairman and the Vice-Chairman] and the other members of the State Apprenticeship Council shall be such as may be determined by the State Government."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Vacancies not to invalidate acts and proceedings.",
+                    "paragraphs": {
+                        "0": "No act done or proceeding taken by the National Council, the Central Apprenticeship Council, the State Council or the State Apprenticeship Council under this Act shall be questioned on the ground merely of the existence of any vacancy in, or defect in the constitution of, such Council."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Apprenticeship Advisers.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, by notification in the Official Gazette, appoint a suitable person as the Central Apprenticeship Adviser.",
+                        "1": "(2) The State Government shall, by notification in the Official Gazette, appoint a suitable person as the State Apprenticeship Adviser.",
+                        "2": "(3) The Central Apprenticeship Adviser shall be the Secretary to the Central Apprenticeship Council and the State Apprenticeship Adviser shall be Secretary to the State Apprenticeship Council."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Deputy and Assistant Apprenticeship Advisers.",
+                    "paragraphs": {
+                        "0": "(1) The Government1[may appoint suitable persons as Additional, Joint, Regional, Deputy and Assistant Apprenticeship Advisers] to assist the Apprenticeship Adviser in the performance of his functions.",
+                        "1": "(2)2[Every Additional, Joint, Regional, Deputy or Assistant Apprenticeship Adviser] shall, subject to the control of the Apprenticeship Adviser, perform such functions as may be assigned to him by the Apprenticeship Adviser."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Apprenticeship Advisers to be public servants.",
+                    "paragraphs": {
+                        "0": "Every Apprenticeship Adviser and3[every Additional, Joint, Regional, Deputy or Assistant Apprenticeship Adviser] appointed under this Act shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Powers of entry, inspection, etc.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Subject to any rules made in this behalf, the4[Central Apprenticeship Adviser or such other person, not below the rank of an Assistant Apprenticeship Adviser, as may be authorised by the Central Apprenticeship Adviser in writing in this behalf] may\u2014",
+                            "contains": {
+                                "0": "(a) with such assistants, if any, as he thinks fit, enter, inspect and examine any establishment or part thereof at any reasonable time;",
+                                "1": "(b) examine any apprentice employed therein or require the production of any register, record or other documents maintained in pursuance of this Act and take on the spot or otherwise statements of any person which he may consider necessary for carrying out the purposes of this Act;",
+                                "2": "(c) make such examination and inquiry as he thinks fit in order to ascertain whether the provisions of this Act and the rules made thereunder are being observed in the establishment;",
+                                "3": "(d) exercise such other powers as may be prescribed:"
+                            }
+                        },
+                        "1": "Provided that5[a State Apprenticeship Adviser or such other person, not below the rank of an Assistant Apprenticeship Adviser, as may be authorised by the State Apprenticeship Adviser in writing in this behalf] may also exercise any of the powers specified in clause (a), (b), (c) or (d) of this sub-section in relation to establishments for which the appropriate Government is the State Government.",
+                        "2": "(2) Notwithstanding anything in sub-section (1), no person shall be compelled under this section to answer any question or make any statement which may tend directly or indirectly to incriminate him."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Offences and penalties.",
+                    "paragraphs": {
+                        "0": "6[(1) If any employer contravenes the provisions of this Act relating to the number of apprentices which he is required to engage under those provisions, he shall be given a month\u2019s notice in writing, by an officer duly authorised in this behalf by the appropriate Government, for explaining the reasons for such contravention.",
+                        "1": "(1A) In case the employer fails to reply the notice within the period specified under sub-section (1), or the authorised officer, after giving him an opportunity of being heard, is not satisfied with the reasons given by the employer, he shall be punishable with fine of five hundred rupees per shortfall of apprenticeship month for first three months and thereafter one thousand rupees per month till such number of seats are filled up.]",
+                        "2": {
+                            "text": "(2) If any employer or any other person\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) required to furnish any information or return\u2014",
+                                    "contains": {
+                                        "0": "(i) refuses or neglects to furnish such information or return, or",
+                                        "1": "(ii) furnishes or causes to be furnished any information or return which is false and which he either knows or believes to be false or does not believe to be true, or",
+                                        "2": "(iii) refuses to answer, or gives a false answer to any question necessary for obtaining any information required to be furnished by him, or"
+                                    }
+                                },
+                                "1": "(b) refuses or wilfully neglects to afford1[the Central or the State Apprenticeship Adviser or such other person, not below the rank of an Assistant Apprenticeship Adviser, as may be authorised by the Central or the State Apprenticeship Adviser in writing in this behalf], any reasonable facility for making any entry, inspection, examination or inquiry authorised by or under this Act, or",
+                                "2": "(c) requires an apprentice to work overtime without the approval of the Apprenticeship Adviser, or",
+                                "3": "(d) employs an apprentice on any work which is not connected with his training, or",
+                                "4": "(e) makes payment to an apprentice on the basis of piecework, or",
+                                "5": "(f) requires an apprentice to take part in any output bonus or incentive scheme,",
+                                "6": "2[(g) engages as an apprentice a person who is not qualified for being so engaged, or",
+                                "7": "(h) fails to carry out the terms and conditions of a contract of apprenticeship.]"
+                            }
+                        },
+                        "3": {
+                            "text": "he shall be punishable with 3[fine of one thousand rupees for every occurrence].",
+                            "contains": {
+                                "0": "2[(2A) The provisions of this section shall not apply to any establishment or industry which is under the Board for Industrial and Financial Reconstruction established under the Sick Industrial Companies (Special Provisions) Act, 1985 (1 of 1986).]"
+                            }
+                        }
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Penalty where no specific penalty is provided.",
+                    "paragraphs": {
+                        "0": "If any employer or any other person contravenes any provision of this Act for which no punishment is provided in section 30, he shall be punishable with fine4[which shall not be less than one thousand rupees but may extend to three thousand rupees]."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) If the person committing an offence under this Act is a company, every person who, at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to such punishment provided in this Act if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any negligence on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary, or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means a body corporate and includes a firm or other association of individuals; and",
+                                "1": "(b) \u201cdirector\u201d in relation to a firm means a partner in the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Cognizance of offences.",
+                    "paragraphs": {
+                        "0": "No court shall take cognizance of any offence under this Act or the rules made thereunder except on a complaint thereof in writing made by the Apprenticeship Adviser1[or the officer of the rank of Deputy Apprenticeship Adviser and above] within six months from the date on which the offence is alleged to have been committed."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Delegation of powers.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The appropriate Government may, by notification in the Official Gazette, direct that any power exercisable by it under this Act or the rules made thereunder shall, in relation to such matters and subject to such conditions, if any, as may be specified in the direction, be exercisable also\u2014",
+                            "contains": {
+                                "0": "(a) where the appropriate Government is the Central Government, by such officer or authority subordinate to the Central Government or by the State Government or by such officer or authority subordinate to the State Government, as may be specified in the notification; and",
+                                "1": "(b) where the appropriate Government is the State Government, by such officer or authority subordinate to the State Government as may be specified in the notification."
+                            }
+                        }
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Construction of references.",
+                    "paragraphs": {
+                        "0": "(1) Any reference in this Act or in the rules made thereunder to the Apprenticeship Council shall, unless the context otherwise requires, mean in relation to apprenticeship training in a designated trade in an establishment in relation to which the Central Government is the appropriate Government, the Central Apprenticeship Council and in relation to apprenticeship training in a designated trade in an establishment in relation to which the State Government is the appropriate Government, the State Apprenticeship Council.",
+                        "1": {
+                            "text": "(2) Any reference in this Act or in the rules made thereunder to the Apprenticeship Adviser shall, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) mean in relation to apprenticeship training in a designated trade in an establishment in relation to which the Central Government is the appropriate Government, the Central Apprenticeship Adviser and in relation to apprenticeship training in a designated trade in an establishment in relation to which the State Government is the appropriate Government, the State Apprenticeship Adviser;",
+                                "1": "(b) be deemed to include2[an Additional, a Joint, a Regional, a Deputy or an Assistant Apprenticeship Adviser] performing the functions of the Apprenticeship Adviser assigned to him under sub-section (2) of section 27."
+                            }
+                        }
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done under this Act."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, after consulting the Central Apprenticeship Council, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.",
+                        "1": "3[(1A) The powers to make rules under this section shall include the power to make such rules or any of them retrospectively from a date not earlier than the date on which this Act received the assent of the President, but no such retrospective effect shall be given to any such rule so as to prejudicially affect the interests of any person to whom such rule may be applicable.]",
+                        "2": "(2) Rules made under this Act may provide that a contravention of any such rule shall be punishable with fine which may extend to fifty rupees.",
+                        "3": "(3) Every rule made under this section shall be laid as soon as may be after it is made before each House of Parliament which it is in session for a total period of thirty days which may be comprised in one session4[or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid] both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Repeal.",
+                    "paragraphs": {
+                        "0": "[Repeal.]Rep. by the Repealing and Amending Act, 1964(52 of 1964), s. 2 and the First Schedule (w.e.f. 29-12-1964)."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "[See section 16]"
+                }
+            },
+            "1": {
+                "text": "MODIFICATIONS IN THE WORKMEN\u2019S COMPENSATION ACT, 1923IN ITS APPLICATION TO APPRENTICES UNDERTHE APPRENTICES ACT, 1961",
+                "contains": {
+                    "0": {
+                        "text": "In the Workmen\u2019s Compensation Act, 1923,\u2014",
+                        "contains": {
+                            "0": {
+                                "text": "(1) in section 2,\u2014",
+                                "contains": {
+                                    "0": {
+                                        "text": "(a) for clause (e), substitute\u2014",
+                                        "contains": {
+                                            "0": "\u2018(e) \u201cemployer\u201d means an employer as defined in the Apprentices Act, 1961, who has engaged one or more apprentices,\u2019;"
+                                        }
+                                    },
+                                    "1": "(b) omit clause (k);",
+                                    "2": {
+                                        "text": "(c) for clause (m), substitute\u2014",
+                                        "contains": {
+                                            "0": "\u2018(m) \u201cwages\u201d means the stipend payable to an apprentice under section 13(1) of the Apprentices Act, 1961,\u2019;"
+                                        }
+                                    },
+                                    "3": {
+                                        "text": "(d) for clause (n), substitute\u2014",
+                                        "contains": {
+                                            "0": "\u2018(n) \u201cworkman\u201d means any person who is engaged as an apprentice as defined in the Apprentices Act, 1961, and who in the course of his Apprenticeship training is employed in any such capacity as is specified in Schedule II,\u2019;"
+                                        }
+                                    }
+                                }
+                            },
+                            "1": "(2) omit section 12;",
+                            "2": "(3) omit section 15;",
+                            "3": "(4) omit the proviso to section 21(1);",
+                            "4": "(5) omit the words \u201cor a registered Trade Union\u201d in section 24;",
+                            "5": "(6) omit clause (d) in section 30 (1);",
+                            "6": "(7) omit clauses (vi), (xi), (xiii), (xvii), (xviii), (xx), (xxii), (xxiv), (xxv) and (xxxii) in Schedule II."
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. The words \u201cin trades\u201d omitted by Act 27 of 1973, s. 2 (w.e.f. 1-12-1974).",
+            "1": "2. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 25 of 1968, s. 2 and the Schedule (w.e.f. 15-8-1968).",
+            "2": "3.  1st  March,  1962,  vide  notification  No.  G.S.R.  246, dated  12th February,  1962,  see  Gazette  of  India,  Extraordinary,  Part  II,sec. 3(i).",
+            "3": "4. Clause (b) omitted by Act 27 of 1973, s. 3 (w.e.f. 1-12-1974).",
+            "4": "5. Subs. by s. 3, ibid., for clause (c) (w.e.f. 1-12-1974).",
+            "5": "6. Ins. by s. 4, ibid. (w.e.f. 1-12-1974).",
+            "6": "7. Clause (a) re-lettered as clause (aa) thereof by s. 4, ibid. (w.e.f. 1-12-1974).",
+            "7": "8. The words \u201cin a designated trade\u201d omitted by s. 4, ibid. (w.e.f. 1-12-1974)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 41 of 1986, s. 2, foritem (aa) (w.e.f. 16-12-1987).",
+            "1": "2. Ins. by Act 29 of 2014, s. 2 (w.e.f. 22-12-2014).",
+            "2": "3. Ins. by Act 27 of 1973, s. 4 (w.e.f. 1-12-1974).",
+            "3": "4. Subs. by Act 29 of 2014, s. 2, for clause (e) (w.e.f. 22-12-2014).",
+            "4": "5. Added by Act 4 of 1997, s. 2 (w.e.f. 8-1-1997)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 29 of 2014, s. 2, for clauses (j) and (k) (w.e.f. 22-12-2014).",
+            "1": "2. Ins. by Act 41 of 1986, s. 2 (w.e.f. 16-12-1987).",
+            "2": "3. Ins. by Act 29 of 2014, s. 2 (w.e.f. 22-12-2014).",
+            "3": "4. Ins. by Act 27 of 1973, s. 4 (w.e.f. 1-12-1974).",
+            "4": "5. Subs. by Act 29 of 2014, s. 2, for \u201csuch subject field in any vocational course as may be prescribed\u201d (w.e.f. 22-12-2014).",
+            "5": "6. Subs. by s. 2, ibid., for clauses (q) and (r) (w.e.f. 22-12-2014)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 29 of 2014, s. 3, for clause (a) (w.e.f. 22-12-2014).",
+            "1": "2. Added by Act 27 of 1973, s. 5 (w.e.f. 1-12-1974).",
+            "2": "3. Ins. by s. 6, ibid. (w.e.f. 1-12-1974).",
+            "3": "4. Ins. by Act 41 of 1986, s. 4 (w.e.f. 16-12-1987).",
+            "4": "5. Ins. by Act 36 of 2007, s. 2 (w.e.f. 1-2-2008).",
+            "5": "6. Subs. by Act 27 of 1973, s. 7, for section 4 (w.e.f. 1-12-1974).",
+            "6": "7. Subs. by Act 29 of 2014, s. 4, for sub-section (4) (w.e.f. 22-12-2014)."
+        },
+        "Page 7": {
+            "0": "1. Sub-section (5) omitted by 29 of 2014, s. 4 (w.e.f. 22-12-2014).",
+            "1": "2. Ins. by s. 5, ibid. (w.e.f. 22-12-2014).",
+            "2": "3. Subs. by Act 27 of 1973, s. 8, for \u201capprentices\u201d (w.e.f. 1-12-1974).",
+            "3": "4. Ins. by Act 41 of 1986, s. 5 (w.e.f. 16-12-1987).",
+            "4": "5. Subs. by Act 27 of 1973, s. 8, for \u201cthat Council\u201d (w.e.f. 1-12-1974).",
+            "5": "6. Subs. by Act 29 of 2014, s. 6, for \u201cdetermined by that Council\u201d (w.e.f. 22-12-2014).",
+            "6": "7. Subs. by s. 6, ibid., for clause (aa) (w.e.f. 22-12-2014).",
+            "7": "8. Ins. by Act 27 of 1973, s. 8 (w.e.f. 1-12-1974).",
+            "8": "9. Ins. by Act 41 of 1986, s. 3 (w.e.f. 16-12-1987)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 4 of 1997, s. 3 (w.e.f. 8-1-1997).",
+            "1": "2. Subs. by Act 29 of 2014, s. 7, for section 8 (w.e.f. 22-12-2014)."
+        },
+        "Page 9": {
+            "0": "1. Subs. byAct 29 of 2014, s. 8, for sub-section (1) (w.e.f. 22-12-2014).",
+            "1": "2. Subs. by Act 27 of 1973, s. 10, for \u201cThe Central Apprenticeship Adviser\u201d (w.e.f. 1-12-1974).",
+            "2": "3. Subs. by s. 10, ibid., for \u201cThe State Apprenticeship Adviser\u201d (w.e.f. 1-12-1974).",
+            "3": "4. Subs. by Act 29 of 2014, s. 8, for sub-section (3) (w.e.f. 22-12-2014).",
+            "4": "5. Subs. by Act 27 of 1973, s. 10, for \u201cthe apprentices\u201d (w.e.f. 1-12-1974).",
+            "5": "6. Sub-sections (4A), (4B), (5) and (6) omitted by Act 29 of 2014, s. 8 (w.e.f. 22-12-2014).",
+            "6": "7. Subs. by s. 8, ibid., for sub-sections (7) and (7A) (w.e.f. 22-12-2014)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 27 of 1973, s. 10, for \u201cpractical training imparted to apprentices other than those referred to in clause (a)\u201d (w.e.f.1-12-1974).",
+            "1": "2. Subs. by Act 4 of 1997, s. 5, for \u201cpractical training, including basic training\u201d (w.e.f. 8-1-1997).",
+            "2": "3. Subs. by s. 5, ibid., for \u201cfive hundred\u201d (w.e.f. 8-1-1997).",
+            "3": "4. Subs. by Act 27 of 1973, s. 10, for \u201cpractical training imparted to apprentices referred to in clause (a)\u201d (w.e.f. 1-12-1974).",
+            "4": "5. Ins. by s. 10, ibid. (w.e.f. 1-12-1974).",
+            "5": "6. Ins. by Act 41 of 1986, s. 3 (w.e.f. 16-12-1987).",
+            "6": "7. Ins. by Act 29 of 2014, s. 8 (w.e.f. 22-12-2014).",
+            "7": "8. Subs. by Act 27 of 1973, s. 11, for \u201cAn apprentice\u201d (w.e.f. 1-12-1974).",
+            "8": "9. Subs. by s. 11, ibid., for \u201cthe  apprentice\u201d (w.e.f. 1-12-1974).10. Subs.by Act 36 of 2007, s. 4 (w.e.f. 1-2-2008).11. Subs. by Act 27 of 1973, s. 11, for \u201can apprentice\u201d (w.e.f. 1-12-1974).12. Subs. by s. 11, ibid., for sub-section (4) (w.e.f. 1-12-1974).13. Ins. by Act 41 of 1986, s. 3 (w.e.f. 16-12-1987)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 27 of 1973, s. 12, for \u201cduly qualified\u201d (w.e.f. 1-12-1974).",
+            "1": "2. The word \u201cand\u201d omitted by Act 4 of 1997, s. 6 (w.e.f. 8-1-1997).",
+            "2": "3. Ins. by s. 6, ibid. (w.e.f. 8-1-1997).",
+            "3": "4. Section 12 re-numbered as sub-section (1) thereof by Act 27 of 1973, s. 13 (w.e.f. 1-12-1974).",
+            "4": "5. Subs. by s. 13, ibid., for \u201cEvery apprentice\u201d (w.e.f. 1-12-1974).",
+            "5": "6. Ins. by s. 13, ibid. (w.e.f. 1-12-1974).",
+            "6": "7. Ins. by Act 41 of 1986, s. 3 (w.e.f. 16-12-1987).",
+            "7": "8. Subs. by Act 27 of 1973, s. 14, for \u201cprescribed minimum rate\u201d (w.e.f. 1-12-1974).",
+            "8": "9. Subs. by s. 14, ibid., for sub-section (2) (w.e.f. 1-12-1974)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 29 of 2014, s. 9, for sub-section (1) (w.e.f. 22-12-2014).",
+            "1": "2. Subs. by s. 9, ibid., for sub-section (3) (w.e.f. 22-12-2014)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by Act 27 of 1973, s. 15, for \u201capplicable to workers in the trade\u201d (w.e.f. 1-12-1974).",
+            "1": "2. Subs. by Act 29 of 2014, s. 10, for sub-section (2) (w.e.f. 22-12-2014).",
+            "2": "3. Subs. by Act 29 of 2014, s. 11, for sub-section (1) (w.e.f. 22-12-2014).",
+            "3": "4. Subs. by Act 27 of 1973, s. 16, for \u201capprentice\u201d (w.e.f. 1-12-1974).",
+            "4": "5. Ins. by Act 29 of 2014, s. 11 (w.e.f. 22-12-2014).",
+            "5": "6. Ins. by Act 27 of 1973, s. 16(w.e.f. 1-12-1974).",
+            "6": "7. Ins. by Act 41 of 1986, s. 3 (w.e.f. 16-12-1987).",
+            "7": "8. Subs. by s. 6, ibid.,for sub-section (4) (w.e.f. 16-12-1987)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 29 of 2014, s. 12, for sub-section (1) (w.e.f. 22-12-2014).",
+            "1": "2. Ins. by Act 27 of 1973, s. 17 (w.e.f. 1-12-1974).",
+            "2": "3.Item (e) re-lettered as item (h) thereof by s. 17, ibid. (w.e.f. 1-12-1974).",
+            "3": "4. Item (f) re-lettered as item (i) thereof by s. 17, ibid. (w.e.f. 1-12-1974)."
+        },
+        "Page 15": {
+            "0": "1. Ins. by Act 27 of 1973, s. 17 (w.e.f. 1-12-1974).",
+            "1": "2. Subs. by s. 18, ibid.,for \u201ca Chairman\u201d (w.e.f. 1-12-1974).",
+            "2": "3. The word \u201cand\u201d omitted by s. 18, ibid. (w.e.f. 1-12-1974).",
+            "3": "4. Subs. by s. 18, ibid.,for \u201cindustry and labour\u201d (w.e.f. 1-12-1974).",
+            "4": "5. Ins. by s. 18, ibid. (w.e.f. 1-12-1974).",
+            "5": "6. Subs. by Act 27 of 1973, s. 18, for \u201cthe Chairman\u201d (w.e.f. 1-12-1974)."
+        },
+        "Page 16": {
+            "0": "1.  Subs.  byAct  27  of  1973,  s.  19,  ibid.,for  \u201cmay  appoint  suitable  persons  as  Deputy  and  Assistant  Apprenticeship  Advisers\u201d(w.e.f. 1-12-1974).",
+            "1": "2. Subs. by s. 19, ibid.,for \u201cEvery Deputy or Assistant Apprenticeship Advisers\u201d (w.e.f. 1-12-1974).",
+            "2": "3. Subs. by s. 20, ibid.,for \u201cevery Deputy or Assistant Apprenticeship Advisers\u201d (w.e.f. 1-12-1974).",
+            "3": "4. Subs. by s. 21, ibid.,for \u201cCentral Apprenticeship Adviser\u201d (w.e.f. 1-12-1974).",
+            "4": "5. Subs. by s. 21, ibid.,for \u201ca State Apprenticeship Advisers\u201d (w.e.f. 1-12-1974).",
+            "5": "6. Subs. by Act 29 of 2014, s. 13, for sub-section (1) (w.e.f. 22-12-2014)."
+        },
+        "Page 17": {
+            "0": "1. Subs. by Act 27 of 1973, s. 22, for \u201cthe Central or the State Apprenticeship Advisers\u201d (w.e.f. 1-12-1974).",
+            "1": "2. Ins. by Act 29 of 2014, s. 13 (w.e.f. 22-12-2014).",
+            "2": "3. Subs. by s. 13, ibid.,for \u201cimprisonment for a term which may extend to six months or with fine or with both\u201d(w.e.f. 22-12-2014).",
+            "3": "4. Subs. by Act 4 of 1997, s. 7, for \u201cwhich may extend to five hundred rupees\u201d(w.e.f. 8-1-1997)."
+        },
+        "Page 18": {
+            "0": "1. Ins. by Act 4 of 1997, s. 8 (w.e.f. 8-1-1997).",
+            "1": "2. Subs. by Act 27 of 1973, s. 23, for \u201ca Deputy or Assistant Apprenticeship Adviser\u201d (w.e.f. 1-12-1974).",
+            "2": "3. Ins. by Act 29 of 2014, s. 14 (w.e.f. 22-12-2014).",
+            "3": "4. Subs. by Act 27 of 1973, s. 24, for certain words (w.e.f. 1-12-1974)."
+        }
+    }
+}

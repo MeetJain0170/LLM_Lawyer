@@ -1,0 +1,155 @@
+{
+    "Act Title": "THE EMBLEMS AND NAMES (PREVENTION OF IMPROPER USE) ACT, 1950",
+    "Act ID": "ACT NO. 12 OF 1950",
+    "Enactment Date": "[1st March, 1950.]",
+    "Act Definition": {
+        "0": "An Act to prevent the improper use of certain emblems and names for professional and commercial purposes."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title, extent, application and commencement.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Emblems and Names (Prevention of Improper Use) Act, 1950.",
+                "1": "(2) It extends to the whole of India 2* * * and also applies to citizens of India outside India.",
+                "2": "(3) It shall come into force on such date3 as the Central Government may, by notification in the Official Gazette, appoint."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless the context otherwise requires,\u2014",
+                    "contains": {
+                        "0": "(a) \u201cemblem\u201d means any emblem, seal, flag, insignia, coat-of-arms or pictorial representation specified in the Schedule;",
+                        "1": "(b) \u201ccompetent authority\u201d means any authority competent under any law for the time being in force to register any company, firm, or other body of persons or any trade mark or design or to grant a patent;",
+                        "2": "(c) \u201cname\u201d includes any abbreviation of a name."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Prohibition of improper use of certain emblems and names.",
+            "paragraphs": {
+                "0": "Notwithstanding anything contained in any law for the time being in force, no person shall, except in such cases and under such conditions as may be prescribed by the Central Government, use or continue to use, for the purpose of any trade, business, calling or profession, or in the title of any patent, or in any trade mark or design, any name or emblem specified in the Schedule or any colourable imitation thereof without the previous permission of the Central Government or such officer of Government as may be authorised in this behalf by the Central Government."
+            }
+        },
+        "Section 4.": {
+            "heading": "Prohibition of registration of certain companies, etc.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Notwithstanding anything contained in any law for the time being in force, no competent authority shall,\u2014",
+                    "contains": {
+                        "0": "(a) register any company, firm or other body of persons which bears any name, or",
+                        "1": "(b) register a trade mark or design which bears any emblem or name, or",
+                        "2": "(c) grant a patent in respect of any invention which bears a title containing any emblem or name,"
+                    }
+                },
+                "1": {
+                    "text": "if the use of such name or emblem is in contravention of section 3.",
+                    "contains": {
+                        "0": "(2) If any question arises before a competent authority whether any emblem is an emblem specified in the Schedule or a colourable imitation thereof, the competent authority may refer the question to the Central Government, and the decision of the Central Government thereon shall be final."
+                    }
+                }
+            }
+        },
+        "Section 5.": {
+            "heading": "Penalty.",
+            "paragraphs": {
+                "0": "Any person who contravenes the provisions of section 3 shall be punishable with fine which may extend to five hundred rupees."
+            }
+        },
+        "Section 6.": {
+            "heading": "Previous sanction for prosecution.",
+            "paragraphs": {
+                "0": "No prosecution for any offence punishable under this Act shall be instituted, except with the previous sanction of the Central Government or of any officer authorised in this behalf by general or special order of the Central Government."
+            }
+        },
+        "Section 7.": {
+            "heading": "Savings.",
+            "paragraphs": {
+                "0": "Nothing in this Act shall exempt any person from any suit or other proceeding which might, apart from this Act be brought against him."
+            }
+        },
+        "Section 8.": {
+            "heading": "Power of the Central Government to amend the Schedule.",
+            "paragraphs": {
+                "0": "The Central Government may, by notification in the Official Gazette, add to or alter the Schedule, and any such addition or alteration shall have effect as if it has been made by this Act."
+            }
+        },
+        "Section 9.": {
+            "heading": "Power to make rules.",
+            "paragraphs": {
+                "0": "[(1)] The Central Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act.",
+                "1": "2[(2) Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]"
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": "THE SCHEDULE",
+            "1": "[See sections 2(a) and 3]",
+            "2": "1. The name, emblem or official seal of the United Nations Organization.",
+            "3": "2. The name, emblem or official seal of the World Health Organization.",
+            "4": "3. The Indian National Flag.",
+            "5": "1[4. The name, emblem or official seal or emblem of the Government of India or of any State, or any other insignia or coat-of-arms used by any such Government or by a Department of any such Government.]",
+            "6": "2[5. The emblems of the St. John\u201fs Ambulance Association (India), and the St. John\u201fs Ambulance Brigade (India), consisting of the device of a white eight pointed cross embellished in the four principal angles alternatively with a lion passant Quadrant and a Unicorn passant, whether or not the device is surrounded or accompanied by concentric circles or other decoration or by lettering.]",
+            "7": "3[6. The name, emblem or official seal of the President, Governor, 4* * * 5[Sadar-i-Riyasat] or Republic or Union of India.]",
+            "8": {
+                "text": "7. Any name which may suggest or be calculated to suggest\u2014",
+                "contains": {
+                    "0": "(i) the patronage of the Government of India or the Government of a State; or",
+                    "1": "(ii) connection with any local authority or any corporation or body constituted by the Government under any law for the time being in force."
+                }
+            },
+            "9": "8. The name, emblem or official seal of the United Nations Educational, Scientific and Cultural Organisation.",
+            "10": "6[9. The name or pictorial representation of Rashtrapati, 7* * * Rashtrapati Bhavan, Raj Bhavan.]",
+            "11": "8[9A. The name or pictorial representation of Mahatma Gandhi or the Prime Minister of India 9[except the pictorial use thereof on calendars where only the names of the manufacturers and printers of the calendars are given and the calendars are not used for advertising goods].]",
+            "12": "10[10. The medals, badges or decorations instituted by the Government from time to time or the miniatures or replicas of such medals, badges or decorations 11[or the names of such medals, badges or decorations or of the miniatures or replicas thereof].]",
+            "13": "12[11. The name, emblem or official seal of the International Civil Aviation Organisation.]",
+            "14": "13 [12. The word \u201cInterpol\u201d which is an integral part of the International Criminal Police Organisation.]",
+            "15": "14[13. The name, emblem or official seal of the World Meteorological Organisation.]",
+            "16": "15[14. The name and emblem of the Tuberculosis Association of India.]",
+            "17": "16[15. The name, emblem and official seal of the International Atomic Energy Agency.]",
+            "18": "1[16. The names \u201cAshoka Chakra\u201d or \u201cDharma Chakra\u201d or the pictorial representation of Ashoka Chakra as used in the Indian National Flag or in the official seal or emblem of the Government of India or of any State Government or of a Department of any such Government.]",
+            "19": "2[17. The name of the Parliament or the Legislature of any State, or the Supreme Court, or the High Court of any State, or the Central Secretariat, or the Secretariat of any State Government or any other Government Office or the pictorial representation of any building occupied by any of the aforesaid institutions.]",
+            "20": "3[18.The name and emblem of the Rama Krishna Math and Ramakrishna Mission consisting of a swan floating on waters, with a Lotus in the foreground and the rising sun in the background, the whole",
+            "21": {
+                "text": "being encircled by a hooded serpent, with the words \u201e\u0924\u0928\u094d\u0928\u094b \u0939\u094d\u0930\u0902\u0938: \u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u2019 superimposed on the bottom portion.]",
+                "contains": {
+                    "0": "4[19. The name and emblems of the Sri Sarda Math and Ramakrishna Sarda Mission consisting of a swan (facing right) floating on waters, with a Lotus in therefore ground and the rising sun in the"
+                }
+            },
+            "22": "background, the whole being encircled by a wild serpent (facing right) with the words \u201e\u0924\u0928\u094d\u0928\u094b \u0939\u094d\u0930\u0902\u0938:",
+            "23": {
+                "text": "\u092a\u094d\u0930\u091a\u094b\u0926\u092f\u093e\u0924\u2019 superimposed on the bottom portion.",
+                "contains": {
+                    "0": "5[20. The name of The Bharat Scouts and Guides\u201f with its \u201eEmblem\u201f.]"
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. This Act has been extended to Goa, Daman and Diu with modifications by Reg. 12 of 1962, s. 3 and the Schedule and broughtinto force in Pondicherry on 1-10-1963, vide Reg. 7 of 1963, s. 3 and the Schedule I, in Dadra and Nagar Haveli (w.e.f. 1-7-1965) by Reg.  6 of 1963, s. 2 and the Schedule I and in Sikkim (w.e.f. 1-9-1975), vide S.O. 4292 dated 16-9-1975.",
+            "1": "2.  The  words  \u201cexcept  the  State  of  Jammu  and  Kashmir\u201d  omitted  by  the  Jammu  and  Kashmir  (Extension  of  Laws)  Act,  1956(62 of 1956), s. 2 and the Schedule (w.e.f. 1-11-1956).",
+            "2": "3. 1st September, 1950, see Gazette of India, 1950, Part II, s. 3."
+        },
+        "Page 3": {
+            "0": "1. Section 9 renumbered as sub-section (1) thereof by Act 4 of 1986, s. 2 and the Schedule (w.e.f. 15-5-1986).",
+            "1": "2. Ins. by s. 9, ibid. (w.e.f. 15-5-1986)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by notification No. S.R.O. 1230, dated the 4th June, 1955, Gazette of India, 1955, Part II, s. 3.2. Ins. by notification No S.R.O. 561, dated the 20th March, 1952, ibid., 1952, Part II, s. 3.3. Ins. by notification No S.R.O. 1230, dated the 4th June, 1955, ibid., 1955, Part II, s. 3.4. The word \u201cRajpramukh\u201d omitted by the Adaptation of Laws (No. 3) Order, 1956.5. Ins. by notification No S.R.O. 2011, dated the 7th September, 1955, ibid., 1955, Part II, s. 3.6. Ins. by notification No. S.R.O. 2011, dated the 7th September, 1955, ibid., 1955, Part II, s. 3.7. The words \u201crashtra Bhavan\u201d omitted by notification No. S.O. 1916, dated the 30th July, 1960, ibid., 1960, Part II, s. 3(ii).8. Ins. by notification No. S.O. 416, dated the 14th February, 1959, ibid., 1959, Part II, s. 3(ii).9. Ins. by notification No. S.O. 2668, dated the 10th September, 1963, ibid., 1964, Part II, s. 3(ii).10. Ins. by notification No. S.O. 525, dated the 23th February, 1956, ibid., 1956, Part II, s. 3(ii).11. Ins. by notification No. S.O. 1862, dated the 17th August, 1956, ibid., 1956, Part II, s. 3(ii).12. Ins. by notification No. S.O. 2906, dated the 4th September, 1957, ibid., 1957, Part II, s. 3(ii).13. Ins. by notification No. S.O. 1429, dated the 19th June, 1959, ibid., 1959, Part II, s. 3(ii).14. Ins. by notification No. S.O. 1544, dated the 6th July, 1959, ibid., 1959, Part II, s. 3(ii).15. Ins. by notification No. S.O. 1605, dated the 13th July, 1959, Gazette of India, 1959, Part II, s. 3(ii).16. Ins. by notification No. S.O. 2438, dated the 7th October, 1961, ibid., Part II, s. 3(ii)."
+        },
+        "Page 5": {
+            "0": "1. Ins. by notification No. S.O. 671, dated the 18th February, 1964, ibid., Part II, s. 3(ii).",
+            "1": "2. Ins. by notification No. S.O. 3760, dated the 24th October, 1964, ibid., 1964, Part II, s. 3(ii).",
+            "2": "3. Ins. by notification No. S.O. 2356, dated the 4th August, 1973, ibid., 1973, Part II, s. 3(ii).",
+            "3": "4. Ins. by notification No. S.O. 2697, dated the 11th September, 1973, ibid., 1973, Part II, s. 3(ii).",
+            "4": "5. Ins. by notification No. S.O. 1841, dated the 10th July, 1974, ibid., 1974, Part II, s. 3(ii)."
+        }
+    }
+}

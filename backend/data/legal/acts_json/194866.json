@@ -1,0 +1,462 @@
+{
+    "Act Title": "THE DELHI AND AJMER-MERWARA LAND DEVELOPMENT ACT, 1948",
+    "Act ID": "ACT NO. 66 OF 1948",
+    "Enactment Date": "[24th September, 1948.]",
+    "Act Definition": {
+        "0": "An Act to provide for the preparation and execution of land development schemes, the reclamation of waste-land and the control of private forests and grass-land, in the Provinces of Delhi and Ajmer-Merwara.",
+        "1": "WHEREAS it is expedient to provide for the preparation and execution of land development schemes, the reclamation of waste-land and the control of private forests and grass-land in the Provinces of Delhi and Ajmer-Merwara;"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Delhi and Ajmer-Merwara Land Development Act, 1948.",
+                        "1": "(2) It extends to the 1[States] of Delhi and 2[Ajmer].",
+                        "2": "(3) It shall come into force in each of the said 1[States] on such date3 as the Chief Commissioner of that 4[State] may, by notification in the Official Gazette, appoint in this behalf."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless there is anything repugnant in the subject or context,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cBoard\u201d means the Land Development Board constituted for the 4[State] under section 3;",
+                                "1": {
+                                    "text": "(b) \u201cowner\u201d, in relation to any land, means\u2014",
+                                    "contains": {
+                                        "0": "(i) a person having a proprietary right in the land and includes a usufructuary mortgagee of such right and, in the 4[State] of 2[Ajmer], an istimrardar, a jagirdar a muafidar, and a bhumia; and",
+                                        "1": "(ii) a tenant of the land as hereinafter defined;"
+                                    }
+                                },
+                                "2": "(c) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "3": "(d) \u201creclamation\u201d includes cultivation, afforestation and any other improvement of land; and",
+                                "4": "(e) \u201ctenant\u201d includes a usufructuary mortgagee of the rights of a tenant."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "",
+            "Subheadings": [
+                {
+                    "Name": "Land Development Boards and Land Development Schemes",
+                    "Sections": {
+                        "Section 3.": {
+                            "heading": "Constitution of Land Development Boards.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) As soon as may be after the commencement of this Act, the Chief Commissioner shall, by notification in the Official Gazette, appoint an officer to be called the Land Development Commissioner and constitute for the 4[State] a Land Development Board consisting of the following members, namely:\u2014",
+                                    "contains": {
+                                        "0": "(a) the Land Development Commissioner, who shall be the Chairman of the Board,",
+                                        "1": "(b) two official members who shall be persons of experience in agriculture or irrigation engineering, and",
+                                        "2": "(c) two non-official members."
+                                    }
+                                },
+                                "1": "(2) A non-official member may, at any time by notice in writing to the Chairman, resign his office.",
+                                "2": "(3) The Chief Commissioner may, at any time, remove from the Board any member who is guilty of any action involving moral turpitude.",
+                                "3": "(4) No act done by the Board shall be questioned on the ground merely of the existence of any vacancy in, or any defect in the constitution of, the Board.",
+                                "4": "(5) If there is a difference of opinion among the members of the Board regarding any question the decision of the majority of the members present and voting shall prevail, and in case of equality of votes the Chairman shall have a casting vote.",
+                                "5": "(6) The Board may appoint one of the official members to be the Secretary of the Board.",
+                                "6": "(7) The Chief Commissioner may invest the Land Development Commissioner with all or any of the powers of a Deputy Commissioner or a Collector under any law for the time being in force in the 1[State] of Delhi or 2[Ajmer], as the case may be."
+                            }
+                        },
+                        "Section 4.": {
+                            "heading": "Matters for which land development schemes may provide.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) The Board shall prepare a land development scheme for the 1[State] providing for one or more of the following matters, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) preservation and improvement of soil;",
+                                        "1": "(ii) prevention of soil erosion;",
+                                        "2": "(iii) improvement of water supply by the utilization of water in rivers or rivulets, tube-wells, boring or construction of wells, conservation of rain water by constructing dams, or by use of power;",
+                                        "3": "(iv) improvement in the methods of cultivation;",
+                                        "4": "(v) introduction of dry farming methods;",
+                                        "5": "(vi) supply of seed, improved implements of agriculture, manure and fertilizers;",
+                                        "6": "(vii) development of horticulture and planting of fruit trees;",
+                                        "7": "(viii) reclamation of land lying waste through water-logging, accumulation of sand, growth of jungle, soil erosion or any other cause.",
+                                        "8": "(ix) cultivation of land lying uncultivated owing to the negligence or incapacity or absence of the owner;",
+                                        "9": "(x) regulation or prohibition of grazing and browsing;",
+                                        "10": "(xi) control and maintenance of tree-growth.",
+                                        "11": "(xii) regulation or prohibition of firing of vegetation;",
+                                        "12": "(xiii) planting or sowing of trees, shrubs and grasses for the purpose of afforesting uncultivable land or providing shelter-beds against wind or sand or for any other purpose;",
+                                        "13": "(xiv) protection from locusts and other pests; and",
+                                        "14": "(xv) any other matter which may be prescribed."
+                                    }
+                                },
+                                "1": {
+                                    "text": "(2) Every scheme prepared under sub-section (1) shall contain the following particulars, namely:\u2014",
+                                    "contains": {
+                                        "0": "(i) the objects of the scheme;",
+                                        "1": "(ii) details of the area to be covered by the scheme;",
+                                        "2": "(iii) the work or kind of work to be carried out under the scheme;",
+                                        "3": "(iv) the agency or agencies through which the work shall be carried out;",
+                                        "4": "(v) the approximate estimated cost of the scheme and the method of financing it;",
+                                        "5": "(vi) the duties and obligations, financial or other, of the Government as well as of the owners of the area concerned; and",
+                                        "6": "(vii) any other particulars which may be prescribed."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 5.": {
+                            "heading": "Inquiry into, and sanctioning of, schemes.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) The Chief Commissioner shall, after the Board has prepared the scheme under section 4\u2014",
+                                    "contains": {
+                                        "0": "(a) appoint an Inquiry Officer, and",
+                                        "1": "(b) cause the scheme to be published in the manner prescribed inviting suggestions from persons affected by it within such time and in such manner as may be prescribed."
+                                    }
+                                },
+                                "1": "(2) The Chief Commissioner shall, after considering the record of the inquiry and the report of the Inquiry Officer and after consulting the Board, submit the scheme with his report to the Central Government which may either sanction the scheme with or without modification or reject it."
+                            }
+                        },
+                        "Section 6.": {
+                            "heading": "Publication of schemes.",
+                            "paragraphs": {
+                                "0": "Every scheme sanctioned under section 5 shall be published by the Land Development Commissioner in the prescribed manner and shall come into force on such date as may be specified by him."
+                            }
+                        },
+                        "Section 7.": {
+                            "heading": "Power to make regulations.",
+                            "paragraphs": {
+                                "0": "The Board may, by notification in the Official Gazette, make regulations for the purpose of carrying out the objects of the scheme or in respect of any matter supplementary or incidental thereto, and any regulations so made shall also be published by the Board in the manner prescribed."
+                            }
+                        },
+                        "Section 8.": {
+                            "heading": "Power to make grant of advance loan.",
+                            "paragraphs": {
+                                "0": "(1) The Land Development Commissioner may, with the approval of the Board, make a grant or advance a loan to any person for carrying out any work under any scheme on such terms and conditions as may be prescribed.",
+                                "1": "(2) The amount of loan, or any instalment thereof or interest thereon which may be due but not repaid in accordance with the terms and conditions of the loan may, without prejudice to any other remedy provided by law, be recovered as arrears of land revenue."
+                            }
+                        },
+                        "Section 9.": {
+                            "heading": "Penalty.",
+                            "paragraphs": {
+                                "0": "(1) In making any scheme or any regulation under section 7, the Board may provide that the contravention of such provisions of the scheme or of such regulations as may be specified by it, shall be punishable with simple imprisonment for a term which may extend to one month, or with fine which may extend to fifty rupees, or with both.",
+                                "1": "(2) No person shall be prosecuted for any contravention specified in sub-section (1) except on complaint in writing by the Land Development Commissioner."
+                            }
+                        },
+                        "Section 10.": {
+                            "heading": "Works to be carried out by Government at owner\u2019s expense.",
+                            "paragraphs": {
+                                "0": "(1) Where under the scheme any work is to be carried out on any land at the expense of the owner or owners thereof, and such owner, or any of such owners, is willing to carry out the work, he may give notice to that effect in writing to the Land Development Commissioner within twenty-one days of the coming into force of the scheme.",
+                                "1": "(2) On receipt of such notice the Land Development Commissioner shall furnish the owner with full details of the work, and fix the date before which the owner shall carry out the work.",
+                                "2": "(3) If the owner fails to carry out the work to the satisfaction of the Land Development Commissioner before the date fixed by him, or if the owner at any time informs the Land Development Commissioner in writing of his inability to do so, the Land Development Commissioner may get the work carried out by such agency as he thinks fit and the expenses incurred by him in carrying out the work shall be recovered from the owner as arrears of land revenue.",
+                                "3": "(4) Where any work is carried out in pursuance of this section by one or more of several owners, the other owners shall be liable to contribute towards the expenses incurred by him or them such amount as the Board may determine."
+                            }
+                        },
+                        "Section 11.": {
+                            "heading": "Contribution by owners of other land benefiting by work.",
+                            "paragraphs": {
+                                "0": "Where under the scheme any work is carried out by the owner or by the Land Development Commissioner at the expense of the owner, and the work is in the opinion of the Board likely to benefit any other land in the area covered by the scheme, the owners of such other land shall be liable to contribute towards the expenses of carrying out the work such amount as the Board may determine:",
+                                "1": "Provided that the Chief Commissioner may remit the whole or any part of the contribution so payable in respect of any work carried out on land belonging to the Government."
+                            }
+                        },
+                        "Section 12.": {
+                            "heading": "Recovery of contributions.",
+                            "paragraphs": {
+                                "0": "The amount of contribution determined by the Board under sub- section (4) of section 10 or section 11 shall be paid by the persons concerned within such time as may be specified by the Board, and in default of such payment shall be recovered from those persons as arrears of land revenue and paid to the persons entitled to the contribution."
+                            }
+                        },
+                        "Section 13.": {
+                            "heading": "Power to carry out works and recover expenses from owners.",
+                            "paragraphs": {
+                                "0": "Notwithstanding anything contained in the scheme, the Board may direct that the work to be carried out or remaining to be carried out or any land by the owners thereof shall be carried out by the Land Development Commissioner, and that the whole or any specified part of the expenses of carrying out the work shall be recovered as arrears of land revenue from the owners of the land in such proportion, at such times, and in such instalments, as the Board may fix, having regard to the amount to be recovered and the nature and extent of the rights of the owners in the land."
+                            }
+                        },
+                        "Section 14.": {
+                            "heading": "Statement and map showing details of work.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) On the completion of any work under the scheme, the Land Development Commissioner shall prepare\u2014",
+                                    "contains": {
+                                        "0": "(a) a statement in such form, and containing such particulars, as may be prescribed, and",
+                                        "1": "(b) a map showing the location and other material details of the work."
+                                    }
+                                },
+                                "1": "(2) Every statement and map so prepared shall, on approval by the Board, form part of the settlement record, or, as the case may be, the record-of-rights of the estates specified in the statement, and the said record shall wherever necessary be corrected in accordance with the statement."
+                            }
+                        },
+                        "Section 15.": {
+                            "heading": "Repairs and renewals of work.",
+                            "paragraphs": {
+                                "0": "If any person shown in a statement prepared under section 14 as liable to maintain and keep in repair the work fails to effect such repairs or renewals or to do so within such time, as the Land Development Commissioner may by order specify, the Land Development Commissioner may get the repairs or renewals done by such agency as he thinks fit, and the expenses incurred by him in so doing shall be recovered from the said person as arrears of land revenue."
+                            }
+                        },
+                        "Section 16.": {
+                            "heading": "Enhancement of rent on account of improvement effected by work.",
+                            "paragraphs": {
+                                "0": "Where any land in which a tenant has a right of occupancy has benefited by work carried out under the scheme by or at the expense of the owner of the land, and the tenant has not made any contribution to the expenses thereof, the Revenue Officer having jurisdiction shall, on application made by the owner in this behalf, enhance, in accordance with such principles as may be prescribed, the rent payable by he tenant in respect of the land, anything contained in any law to the contrary notwithstanding."
+                            }
+                        },
+                        "Section 17.": {
+                            "heading": "Rights of entry, etc.",
+                            "paragraphs": {
+                                "0": "(1) Any member, officer, subordinate or workman of the Board or any other person authorised by the Land Development Commissioner in this behalf may, after giving such notice as may be prescribed to the owner in possession of any land, enter upon and survey the land, or do any acts, or carry out any work in or on the land for the purpose of preparing, inquiring into or executing any land development scheme the provisions of this Chapter.",
+                                "1": "(2) Every such member, officer subordinate, workman or person shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                            }
+                        },
+                        "Section 18.": {
+                            "heading": "Appeals.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "Any person aggrieved by\u2014",
+                                    "contains": {
+                                        "0": "(a) a determination of the Board under sub-section (4) of section 10 or section 11; or",
+                                        "1": "(b) the making of an entry, or the failure to make an entry, in a statement prepared under section 14; or",
+                                        "2": "(c) the order of the Land Development Commissioner under section 15; or",
+                                        "3": "(d) the order of a Revenue Officer under section 16,"
+                                    }
+                                },
+                                "1": "may, within the prescribed time and in the prescribed manner, appeal to the prescribed authority, and, notwithstanding anything contained in any law to the contrary, the decision of such authority, and, where no appeal is preferred, the determination, order or statement aforesaid shall be final and shall not be called in question in any court."
+                            }
+                        },
+                        "Section 19.": {
+                            "heading": "Power of control.",
+                            "paragraphs": {
+                                "0": "The Central Government may from time to time call for any report or give any direction to the Board, and the Board shall submit such report and carry out such direction."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "",
+            "Subheadings": [
+                {
+                    "Name": "Reclamation of Waste-land",
+                    "Sections": {
+                        "Section 20.": {
+                            "heading": "Definitions.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "In this Chapter\u2014",
+                                    "contains": {
+                                        "0": "(a) \u201cdate of taking possession\u201d means the date on which temporary possession of the land is taken on behalf of the Government under section 21;",
+                                        "1": "(b) \u201cwaste-land\u201d means any land lying waste through water-logging, accumulation of sand, growth of jungle, soil erosion or any other cause, or lying uncultivated, for not less than three consecutive years."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 21.": {
+                            "heading": "Order for taking possession of waste-land.",
+                            "paragraphs": {
+                                "0": "(1) If the board is satisfied that for purposes of executing any scheme of reclamation of waste-land sanctioned under section 5, it is necessary that temporary possession of any waste-land should be taken, it may, by order in writing, direct the Land Development Commissioner to take temporary possession of such land on behalf of the Government on such date as may be specified in that order.",
+                                "1": "(2) The order shall be made in such form and brought to the notice of the owner of the land in such manner, as may be prescribed.",
+                                "2": "(3) On the date specified in the order, the Land Development Commissioner or an officer authorised by him shall enter upon and take possession of the land on behalf of the Government."
+                            }
+                        },
+                        "Section 22.": {
+                            "heading": "Arrangement for reclamation.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "When the land has been taken possession of the Land Development Commissioner may, with the approval of the Board, arrange for its reclamation\u2014",
+                                    "contains": {
+                                        "0": "(a) by retaining it under his management for such period as he thinks fit, or",
+                                        "1": "(b) by settling it for such period and on such terms as may be fixed by the Board with the person who on the date of taking possession was in lawful possession of the land, or was entitled to such possession, or, if such person is dead, with his successor in interest, or",
+                                        "2": "(c) if such person refuses to take the land for such period or on such terms, by settling it with any other person, or",
+                                        "3": "(d) by a combination of the methods aforesaid:",
+                                        "4": "Provided that the total period for which the land is retained or settled under this section shall not exceed ten years."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 23.": {
+                            "heading": "Claim for arrears of rent not to be enforced against Government, etc.",
+                            "paragraphs": {
+                                "0": "No claim of the landlord to any arrears of rent accrued or due in respect of the land for the period prior to the date of taking possession shall thereafter be enforced by any court, whether in execution of a decree or otherwise, against the Government or against any person holding the land under the Government, or by the issue of any process against the land."
+                            }
+                        },
+                        "Section 24.": {
+                            "heading": "Termination of possession on completion of reclamation.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) When the reclamation of the land is in the opinion of the Land Development Commissioner complete and, in any case, before the expiry of a period of ten years from the making an inquiry in the prescribed manner and by order in writing,\u2014",
+                                    "contains": {
+                                        "0": "(a) declare that possession of the land shall be restored on such date as may be specified in the order to the owner who on the date of taking possession was in lawful possession of the land, or was entitled to such possession, or if he is dead, to his successor in interest;",
+                                        "1": "(b) determine the person to whom possession is to be so restored;",
+                                        "2": "(c) where such person is a tenant, determine the rent payable on account of the use or occupation of the land; and",
+                                        "3": "(d) where the land or any part thereof has been afforested, regulate the cutting of trees in such land."
+                                    }
+                                },
+                                "1": "(2) On the date specified in the said order, possession of the land shall be deemed to have been delivered by the Government to the person determined under clause (b) of sub-section (1).",
+                                "2": "(3) The delivery of possession of the land to the person determined under clause (b) of sub-section (1) shall be final and full discharge of the Government from all liability in respect of such delivery, but shall not prejudice any right in respect of the land to which any other person may be entitled, by due process of law, to enforce against the person to whom the possession of the land has been so delivered."
+                            }
+                        },
+                        "Section 25.": {
+                            "heading": "Compensation for period of possession.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) As soon as may be after the date of taking possession of the land, the Land Development Commissioner shall make an inquiry in the prescribed manner and determine\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(a) in respect of any land which on the said date was in the occupation of a tenant\u2014",
+                                            "contains": {
+                                                "0": "(i) the annual rent payable by him, and",
+                                                "1": "(ii) the average net annual income, if any, after deducting rent derived by him during the three years immediately preceding the said date, and"
+                                            }
+                                        },
+                                        "1": "(b) in respect of any other land, the average net annual income, if any, without deducting any land revenue payable, derived by the owner during the three years immediately preceding the said date."
+                                    }
+                                },
+                                "1": {
+                                    "text": "(2) There shall be payable by the Government as compensation on each anniversary of the date of taking possession until the date referred to in sub-section (2) of section 24\u2014",
+                                    "contains": {
+                                        "0": "(a) in respect of such land as is referred to in clause (a) of sub-section (1), the amount determined under sub-clause (i) thereof to the landlord, and the amount determined under sub-clause (ii) thereof to the tenant, and",
+                                        "1": "(b) in respect of any other land, the amount determined under clause (b) of sub-section (1) to the owner."
+                                    }
+                                },
+                                "2": "(3) For the purposes of this section \u201clandlord\u201d means the person under whom the tenant holds land and to whom the tenant is, or but for a special contract would be, liable to pay rent for that land, and any reference to an owner, landlord or tenant shall be deemed to include a reference to the predecessors and successors in interest of the owner, landlord or tenant."
+                            }
+                        },
+                        "Section 26.": {
+                            "heading": "Accounts.",
+                            "paragraphs": {
+                                "0": "The Board shall maintain, in such form and in accordance with such rules as may be prescribed, an account of all receipts and payments by the Government in respect of the land, and any owner of, or other person saving an interest in, the land may, on payment of a fee of eight annas, inspect the account."
+                            }
+                        },
+                        "Section 27.": {
+                            "heading": "Recovery of net expenditure incurred by Government.",
+                            "paragraphs": {
+                                "0": "(1) The net expenditure incurred by the Government on the reclamation of the land under the provisions of this Chapter or such part of that expenditure as the Chief Commissioner may by general or special order direct, together with interest calculated at the prescribed rate and in the prescribed manner, shall be recovered as arrears of land revenue from the person to whom possession of the land delivered by the Government under sub-section (2) of section 24.",
+                                "1": "(2) The amount to be recovered under sub-section (1) from any person shall be decided by the Board."
+                            }
+                        },
+                        "Section 28.": {
+                            "heading": "Appeals.",
+                            "paragraphs": {
+                                "0": "Any person aggrieved by an order under section 21, section 24, section 25 or sub-section (2) of section 27 of the Board or the Land Development Commissioner, as the case may be, may, within the prescribed time and in the prescribed manner, appeal to the Chief Commissioner, and the decision of the Chief Commissioner on such appeal, and where no appeal is preferred the order aforesaid, shall be final and shall not be called in question in any court."
+                            }
+                        },
+                        "Section 29.": {
+                            "heading": "Continuance of liability for land revenue rates and cesses.",
+                            "paragraphs": {
+                                "0": "The taking and retaining of possession of any land on behalf of the Government under provisions of this Chapter shall not affect the liability of any person for the payment of land revenue, rate or cess in respect of the land for any period whether before or after the date of taking possession."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "",
+            "Subheadings": [
+                {
+                    "Name": "Control over Forests and Lands not being the Property of Government",
+                    "Sections": {
+                        "Section 30.": {
+                            "heading": "Amendment of Act XVI of 1927 in Delhi.",
+                            "paragraphs": {
+                                "0": "The following amendments shall be made in the Indian Forest Act, 1927, in its application to the 1[State] at Delhi, namely:\u2014",
+                                "1": {
+                                    "text": "(1) in sub-section (1) of section 35 of the said Act,\u2014",
+                                    "contains": {
+                                        "0": "(a) for the words \u201cany forest or waste-land\u201d the words \u201cany forest, waste-land\u201d or grass-land\u201d shall be substituted;",
+                                        "1": {
+                                            "text": "(b) for clauses (b) and (c) the following clauses shall be substituted, namely:\u2014",
+                                            "contains": {
+                                                "0": "\u201c(b) the cutting of trees and timber;",
+                                                "1": "(c) the disposal of any forest produce;",
+                                                "2": "(d) the firing or clearing of vegetation;",
+                                                "3": "(e) the cutting storage and conservation of grass or leaf fodder; or",
+                                                "4": "(f) the admission, herding or pasturing of Cattle\u201d; and"
+                                            }
+                                        },
+                                        "2": {
+                                            "text": "(c) after clause (v) the following shall be added:\u2014",
+                                            "contains": {
+                                                "0": "\u201c(vi) for any other purpose conducive to public welfare.\u201d;"
+                                            }
+                                        }
+                                    }
+                                },
+                                "2": "(2) in sub-section (2) of section 37 of the said Act, for the words \u201cnot less than three\u201d the words \u201cnot less than seven\u201d shall be substituted; and",
+                                "3": "(3) in sub-section (1) of section 38 of the said Act, for the word \u201ctwo thirds\u201d the word \u201cone-half\u201d shall be substituted."
+                            }
+                        },
+                        "Section 31.": {
+                            "heading": "Application of Chapter V, Act XVI of 1927 to Ajmer.",
+                            "paragraphs": {
+                                "0": "2[Ajmer].\u2014Without prejudice to the provisions of sub-section (3) of section 1 of the Indian Forest Act, 1927, the provisions of Chapter V of that Act shall apply to the 1[State] of 2[Ajmer] as they apply to the 1[State] of Delhi."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "",
+            "Subheadings": [
+                {
+                    "Name": "Supplementary",
+                    "Sections": {
+                        "Section 32.": {
+                            "heading": "Power to make rules.",
+                            "paragraphs": {
+                                "0": "(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.",
+                                "1": {
+                                    "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                                    "contains": {
+                                        "0": "(a) the conduct of business by the Board and the procedure to be followed at meetings of the Board;",
+                                        "1": "(b) the procedure to be followed by Inquiry Officers under section 5;",
+                                        "2": "(c) the manner of publication under sections 5, 6 and 7;",
+                                        "3": "(d) the principles on which the amounts of contribution are to be determined by the Board under sub-section (4) of section 10, or section 11;",
+                                        "4": "(e) the form of the statement under section 14 and the particulars to be stated therein;",
+                                        "5": "(f) the principles of enhancement of rent under section 16;",
+                                        "6": "(g) the manner of giving notice under sub-section (1) of section 17;",
+                                        "7": "(h) the authority to whom appeal may lie and the time and manner of such appeal under section 18;",
+                                        "8": "(i) the form of notice under section 21 and the manner of its service;",
+                                        "9": "(j) the manner of inquiry under section 24 and sub-section (1) of section 25;",
+                                        "10": "(k) the form and method of maintaining accounts under section 26;",
+                                        "11": "(l) the rate of interest and the method of its calculation under sub-section (1) of section 27;",
+                                        "12": "(m) the time and manner of appeal under section 28; and",
+                                        "13": "(n) any matter which may be prescribed."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 33.": {
+                            "heading": "Protection of action taken under the Act.",
+                            "paragraphs": {
+                                "0": "(1) No suit, prosecution or other proceeding shall lie against any person for anything which is in good faith done or intended to be done in pursuance of this Act.",
+                                "1": "(2) Save as otherwise expressly provided by or under this Act, no suit or other legal proceeding shall lie against the Government for any damage caused or likely to be caused by anything in good faith done or intended to be done in pursuance of this Act."
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. Subs. by A.O. 1950, for \u201cProvinces\u201d",
+            "1": "2. Subs., ibid., for \u201cAjmer-Merwara\u201d",
+            "2": "3.1st  November,  1948,  vide  notification  No.  F  14  (108)/A146,  dated  29th  October,  1948,  see  Gazette  of  India,Extraordinary, Part II, sec. 3(i).",
+            "3": "4. Subs. by A.O. 1950, for \u201cProvince\u201d"
+        },
+        "Page 4": {
+            "0": "1.  Subs. by A.O. 1950, for \u201cProvince\u201d",
+            "1": "2. Subs., ibid., for \u201cAjmer-Merwara\u201d"
+        },
+        "Page 9": {
+            "0": "1. Subs. by A.O. 1950, for \u201cProvince\u201d",
+            "1": "2. Subs., ibid., for \u201cAjmer-Merwara\u201d"
+        }
+    }
+}

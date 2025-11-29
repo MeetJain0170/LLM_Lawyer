@@ -1,0 +1,575 @@
+{
+    "Act Title": "THE NATIONAL TAX TRIBUNAL ACT, 2005",
+    "Act ID": "ACT NO. 49 OF 2005",
+    "Enactment Date": "[20th December, 2005.]",
+    "Act Definition": {
+        "0": "An Act to provide for the adjudication by the National Tax Tribunal of disputes with respect to levy, assessment, collection and enforcement of direct taxes and also to provide for the adjudication by that Tribunal of disputes with respect to the determination of the rates of duties of customs and central excise on goods and the valuation of goods for the purposes of assessment of such duties as well as in matters relating to levy of tax on service, in pursuance of article 323B of the Constitution and for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the National Tax Tribunal Act, 2005.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date2 as the Central Government may, by notification in the Official Gazette, appoint:",
+                        "3": "Provided that different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cBench\u201d means a Bench of the National Tax Tribunal;",
+                                "1": "(b) \u201cBoard of Direct Taxes\u201d means the Central Board of Direct Taxes constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);",
+                                "2": "(c) \u201cBoard of Excise and Customs\u201d means the Central Board of Excise and Customs constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);",
+                                "3": "(d) \u201cCentral Excise Act\u201d means the Central Excise Act, 1944 (1 of 1944);",
+                                "4": "(e) \u201cCentral Excise Tariff Act\u201d means the Central Excise Tariff Act, 1985 (5 of 1986);",
+                                "5": "(f) \u201cChairperson\u201d means the Chairperson of the National Tax Tribunal;",
+                                "6": "(g) \u201cCompanies (Profits) Surtax Act\u201d means the Companies (Profits) Surtax Act, 1964 (7 of 1964);",
+                                "7": "(h) \u201cCustoms Act\u201d means the Customs Act, 1962 (52 of 1962);",
+                                "8": "(i) \u201cCustoms, Excise and Service Tax Appellate Tribunal\u201d means the Customs, Excise and Service Tax Appellate Tribunal constituted under section 129 of the Customs Act, 1962 (52 of 1962);",
+                                "9": "(j) \u201cCustoms Tariff Act\u201d means the Customs Tariff Act, 1975 (51 of 1975);",
+                                "10": "(k) \u201cExpenditure-tax Act\u201d means the Expenditure-tax Act, 1987 (35 of 1987);",
+                                "11": "(l) \u201cGift-tax Act\u201d means the Gift-tax Act, 1958 (18 of 1958);",
+                                "12": "(m) \u201cIncome-tax Act\u201d means the Income-tax Act, 1961 (43 of 1961);",
+                                "13": "(n) \u201cIncome-tax Appellate Tribunal\u201d means the Income-tax Appellate Tribunal constituted under section 252 of the Income-tax Act, 1961 (43 of 1961);",
+                                "14": "(o) \u201cInterest-tax Act\u201d means the Interest-tax Act, 1974 (45 of 1974);",
+                                "15": "(p) \u201claw officer\u201d means the Attorney-General for India, the Solicitor General of India or the Additional Solicitor General of India;",
+                                "16": "(q) \u201cMember\u201d means a Member of the National Tax Tribunal and includes the Chairperson;",
+                                "17": "(r) \u201cNational Tax Tribunal\u201d means the National Tax Tribunal established under section 3;",
+                                "18": "(s) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "19": "(t) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "20": "(u) \u201cSupreme Court\u201d means the Supreme Court of India;",
+                                "21": "(v) \u201cWealth-tax Act\u201d means the Wealth-tax Act, 1957 (27 of 1957);",
+                                "22": "(w) words and expressions used in this Act but not defined herein and defined in the Central Excise Act, the Central Excise Tariff Act, the Customs Act, the Customs Tariff Act (hereinafter referred to as the indirect taxes) or the rules made thereunder or in Chapter V of the Finance Act, 1994 (32 of 1994) shall have the meanings, respectively, assigned to them in the said Acts or the rules made thereunder;",
+                                "23": "(x) words and expressions used in this Act but not defined herein and defined in the Income-tax Act, the Wealth-tax Act, the Gift-tax Act, the Expenditure-tax Act, the Interest-tax Act or the Companies (Profits) Surtax Act (hereinafter referred to as the direct taxes) or the rules made thereunder shall have the meanings, respectively, assigned to them in the said Acts or the rules made thereunder."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "ESTABLISHMENT OF THE NATIONAL TAX TRIBUNAL",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Establishment of National Tax Tribunal.",
+                    "paragraphs": {
+                        "0": "The Central Government shall, by notification in the Official Gazette, establish with effect from such date as may be specified therein, a Tax Tribunal to be known as the National Tax Tribunal to exercise the jurisdiction, powers and authority conferred on such Tribunal by or under this Act."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Composition of National Tax Tribunal.",
+                    "paragraphs": {
+                        "0": "The National Tax Tribunal shall consist of a Chairperson and such number of Members as the Central Government deems fit, to be appointed by that Government, by notification in the Official Gazette."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Constitution and jurisdiction of Benches.",
+                    "paragraphs": {
+                        "0": "(1) The jurisdiction of the National Tax Tribunal may be exercised by the Benches thereof to be constituted by the Chairperson.",
+                        "1": "(2) The Benches of the National Tax Tribunal shall ordinarily sit at any place in the National Capital Territory of Delhi or such other places as the Central Government may, in consultation with the Chairperson, notify:",
+                        "2": "Provided that the Chairperson may for adequate reasons permit a Bench to hold its temporary sitting for a period not exceeding fifteen days at a place other than its ordinary place of seat.",
+                        "3": "(3) The Central Government shall notify the areas in relation to which each Bench of the National Tax Tribunal may exercise its jurisdiction.",
+                        "4": "(4) The Central Government shall determine the number of Benches and each Bench shall consist of two members.",
+                        "5": "(5) The Central Government may 1*** transfer a Member from headquarters of one Bench in one State to the headquarters of another Bench in another State or to the headquarters of any other Bench within a State:",
+                        "6": "2[Provided that no Member shall be transferred without the concurrence of the Chairperson.]"
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Qualifications for appointment of Chairperson and other Members.",
+                    "paragraphs": {
+                        "0": "(1) The Chairperson of the National Tax Tribunal shall be a person who has been a Judge of the Supreme Court or the Chief Justice of a High Court.",
+                        "1": {
+                            "text": "(2) A person shall not be qualified for appointment as Member unless he\u2014",
+                            "contains": {
+                                "0": "(a) is, or has been, or is eligible to be, a Judge of a High Court; or",
+                                "1": "(b) is, or has been, a Member of the Income-tax Appellate Tribunal or of the Customs, Excise and Service Tax Appellate Tribunal for at least 1[five years]."
+                            }
+                        }
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Appointment of Chairperson and other Members.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of sub-section (2), the Chairperson and every other Member shall be appointed by the Central Government.",
+                        "1": {
+                            "text": "(2) The Chairperson and the other Members shall be appointed by the Central Government on the recommendations of a Selection Committee consisting of\u2014",
+                            "contains": {
+                                "0": "(a) the Chief Justice of India or a Judge of the Supreme Court nominated by him;",
+                                "1": "(b) the Secretary in the Ministry of Law and Justice (Department of Legal Affairs);",
+                                "2": "(c) the Secretary in the Ministry of Finance (Department of Revenue)."
+                            }
+                        },
+                        "2": "(3) No appointment of the Chairperson or of any other Member shall be invalidated merely by reason of any vacancy or any defect in the constitution of the Selection Committee."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Terms of office of Chairperson and other Members.",
+                    "paragraphs": {
+                        "0": "The Chairperson and every other Member shall hold office as such for a term of five years from the date on which he enters upon his office but shall be eligible for re-appointment:",
+                        "1": {
+                            "text": "Provided that no Chairperson or other Member shall hold office as such after he has attained,\u2014",
+                            "contains": {
+                                "0": "(a) in the case of Chairperson, the age of sixty-eight years; and",
+                                "1": "(b) in the case of any other Member, the age of sixty-five years."
+                            }
+                        }
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Resignation of Chairperson and other Members.",
+                    "paragraphs": {
+                        "0": "The Chairperson or any other Member may, by notice in writing under his hand addressed to the Central Government, resign his office."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Salary and allowances.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, the salary and allowances and other terms and conditions of the Chairperson shall be the same as applicable to a sitting Judge of the Supreme Court, but no vacation shall be allowed:",
+                        "1": "Provided that if a person who, immediately before the date of assuming the office as the Chairperson was in receipt of or being eligible so to do, had elected to draw, a pension in respect of any previous service or office held by such person under the Government of the Union or of a State, his salary in respect of service as Chairperson shall be reduced by the amount of that pension.",
+                        "2": "Explanation.\u2014For the purposes of this sub-section, \u201cvacation\u201d shall have the meaning assigned to it in the Supreme Court Judges (Conditions of Service) Act, 1958 (41 of 1958).",
+                        "3": "(2) A Member shall draw salary of a High Court Judge and other allowances and the terms and conditions of his service shall be the same as applicable to a Secretary to the Government of India:",
+                        "4": "Provided that if a person who, immediately before the date of assuming the office as Member was in receipt of, or being eligible so to do, had elected to draw, a pension in respect of any previous service held by such person in connection with the affairs of the Union or of a State, his salary in respect of service as Member shall be reduced to the extent of that pension.",
+                        "5": "(3) The salary and allowances and other terms and conditions of service of Chairperson or a Member of the Tribunal shall not be varied to his disadvantage after appointment."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Removal and suspension of Chairperson and other Members.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government may, in consultation with the Chief Justice of India, remove from office the Chairperson or any Member who\u2014",
+                            "contains": {
+                                "0": "(a) has been adjudged an insolvent; or",
+                                "1": "(b) has been convicted of an offence which, in the opinion of the Central Government, involves moral turpitude; or",
+                                "2": "(c) has become physically or mentally incapable of acting as such Chairperson or Member of the National Tax Tribunal; or",
+                                "3": "(d) has acquired such financial or other interest as is likely to affect prejudicially his functions as the Chairperson or a Member of the National Tax Tribunal; or",
+                                "4": "(e) has so abused his position as to render his continuance in office prejudicial to the public interest."
+                            }
+                        },
+                        "1": "(2) The Chairperson or any other Member shall not be removed from his office except by an order made by the Central Government on the ground of proved misbehaviour or incapacity after an inquiry made by a Judge of the Supreme Court in which such Chairperson or Member had been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges.",
+                        "2": "(3) The Central Government may suspend from office the Chairperson or any other Member in respect of whom a reference of conducting an inquiry has been made to the Judge of the Supreme Court under sub-section (2) until the Central Government has passed orders on receipt of the report of the Judge of the Supreme Court on such reference.",
+                        "3": "(4) The Central Government may, by rules, regulate the procedure for the investigation of misbehaviour or incapacity of the Chairperson or a Member referred to in sub-section (2)."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Officers and employees of National Tax Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall provide the National Tax Tribunal with such officers and employees as it may deem fit.",
+                        "1": "(2) The salaries and allowances and other conditions of service of officers and employees of the National Tax Tribunal shall be such as may be prescribed.",
+                        "2": "(3) The officers and employees of the National Tax Tribunal shall discharge their functions under the general superintendence of the Chairperson.",
+                        "3": "(4) The officers and the other employees shall be appointed on the recommendations of a Selection Committee constituted by the Central Government."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Appearances before National Tax Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) A party to an appeal other than Government may either appear in person or authorise one or more chartered accountants or legal practitioners 1*** to present his or its case before the National Tax Tribunal.",
+                        "1": "(2) The Government may authorise one or more legal practitioners or any of its officers to present its case before the National Tax Tribunal.",
+                        "2": {
+                            "text": "Explanation.\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cchartered accountant\u201d means a chartered accountant as defined in clause (b) of sub-section (1) of section 2 of the Chartered Accountants Act, 1949 (38 of 1949) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;",
+                                "1": "(b) \u201clegal practitioner\u201d means an advocate, a vakil or any attorney of any High Court, and includes a pleader in practice."
+                            }
+                        }
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Member to act as Chairperson or to discharge his functions in certain circumstances.",
+                    "paragraphs": {
+                        "0": "(1) In the event of any vacancy in the office of the Chairperson by reason of his death, resignation or otherwise, the Central Government may designate the senior-most Member to act as the Chairperson until the day on which a Chairperson, appointed in accordance with the provisions of this Act to fill such vacancy, enters upon his office.",
+                        "1": "(2) When the Chairperson is unable to discharge his functions owing to absence, illness or any other cause, the Central Government may authorise the senior-most Member to discharge the functions of the Chairperson until the date on which the Chairperson resumes his duties.",
+                        "2": "(3) The senior-most member designated to act under sub-section (1) or to discharge functions of the Chairperson under sub-section (2), of the Chairperson shall continue to draw salary and allowances of a Member."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "JURISDICTION, POWERS AND FUNCTIONS OF NATIONAL TAX TRIBUNAL",
+            "Sections": {
+                "Section 15.": {
+                    "heading": "Appeal to National Tax Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) An appeal shall lie to the National Tax Tribunal from every order passed in appeal by the Income-tax Appellate Tribunal and the Customs, Excise and Service Tax Appellate Tribunal, if the National Tax Tribunal is satisfied that the case involves a substantial question of law.",
+                        "1": {
+                            "text": "(2) The Chief Commissioner or the Commissioner of Income-tax or the Chief Commissioner or Commissioner of Customs and Central Excise, as the case may be, or an assessee aggrieved by any order passed by the Income-tax Appellate Tribunal or any person aggrieved by any order passed by the Customs, Excise and Service Tax Appellate Tribunal (hereinafter referred to as aggrieved person), may file an appeal to the National Tax Tribunal and such appeal under this sub-section shall\u2014",
+                            "contains": {
+                                "0": "(a) be filed within one hundred and twenty days from the date on which the order appealed against is received by the assessee or the aggrieved person or the Chief Commissioner or Commissioner, as the case may be;",
+                                "1": "(b) be in the form of a memorandum of appeal precisely stating therein the substantial question of law involved; and",
+                                "2": "(c) be accompanied by such fees as may be prescribed:"
+                            }
+                        },
+                        "2": "Provided that separate form of memorandum of appeal shall be filed for matters involving direct and indirect taxes:",
+                        "3": "Provided further that the National Tax Tribunal may entertain the appeal within sixty days after the expiry of the said period of one hundred and twenty days, if it is satisfied that the appellant was prevented by sufficient cause from preferring an appeal in time.",
+                        "4": {
+                            "text": "(3) Where an appeal is admitted under sub-section (1), the National Tax Tribunal\u2014",
+                            "contains": {
+                                "0": "(a) shall formulate the question of law for hearing the appeal; and",
+                                "1": {
+                                    "text": "(b) may also determine any relevant issue in connection with the question so formulated\u2014",
+                                    "contains": {
+                                        "0": "(i) which has not been so determined by the Income-tax Appellate Tribunal or by the Customs, Excise and Service Tax Appellate Tribunal; or",
+                                        "1": "(ii) which has been wrongly determined by the Income-tax Appellate Tribunal or by the Customs, Excise and Service Tax Appellate Tribunal,"
+                                    }
+                                }
+                            }
+                        },
+                        "5": {
+                            "text": "and shall decide the question of law so formulated and the other relevant issue so determined and deliver such judgment thereon containing the grounds on which such decision is founded and may award such cost as it deems fit.",
+                            "contains": {
+                                "0": "(4) Where in any appeal under this section, the decision of the Income-tax Appellate Tribunal or the Customs, Excise and Service Tax Appellate Tribunal involves the payment of any tax or duties, the assessee or the aggrieved person, as the case may be, shall not be allowed to prefer such appeal unless he deposits at least twenty-five per cent. of such tax or duty payable on the basis of the order appealed against:",
+                                "1": "Provided that where in a particular case the National Tax Tribunal is of the opinion that the deposit of tax or duty under this sub-section would cause undue hardship to such person, it may dispense with such deposit subject to such conditions as it may deem fit to impose so as to safeguard the interest of revenue."
+                            }
+                        }
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Procedure and powers of National Tax Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) The National Tax Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908) but shall be guided by the principles of natural justice.",
+                        "1": "(2) Subject to the other provisions of this Act, the National Tax Tribunal shall have powers to regulate its own procedure.",
+                        "2": {
+                            "text": "(3) The National Tax Tribunal shall have, for the purposes of discharging its functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit, in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) requiring the discovery and production of books of account and other documents;",
+                                "1": "(b) subject to the provisions of sections 123 and 124 of the Indian Evidence Act, 1872 (1 of 1872), requisitioning any public record or document or a copy of such record or document, from any office;",
+                                "2": "(c) dismissing an appeal for default or deciding it, ex parte;",
+                                "3": "(d) setting aside any order of dismissal of any appeal for default or any order passed by it, ex parte;",
+                                "4": "(e) rectifying any mistake or error apparent on the face of record; and",
+                                "5": "(f) any other matter which may be prescribed."
+                            }
+                        },
+                        "3": "(4) All proceedings before the National Tax Tribunal shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 and for the purposes of section 196 of the Indian Penal Code (45 of 1860) and the National Tax Tribunal shall be deemed to be a civil court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974)."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Finality of orders of National Tax Tribunal.",
+                    "paragraphs": {
+                        "0": "Any order passed by the National Tax Tribunal shall be final and shall be given effect to accordingly and no civil court shall have or be entitled to exercise any jurisdiction, power or authority with respect to any of the matters falling within the jurisdiction of the National Tax Tribunal."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Decision by majority.",
+                    "paragraphs": {
+                        "0": "If the Members of a Bench consisting of two Members differ in opinion on any point, they shall state the point or points on which they differ, and make a reference to the Chairperson, who shall hear the point or points himself or nominate any other Member for such hearing and such point or points shall be decided according to the opinion of the majority, who have heard the case including those who first heard it."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Special Bench.",
+                    "paragraphs": {
+                        "0": "Where a judgment pronounced on a question of law by a Bench subsequently comes up for hearing before any Bench, and the latter Bench is of the opinion that the question of law requires reconsideration, then the latter Bench shall make a reference to the Chairperson to constitute a Special Bench consisting of five Members to hear and decide such question of law."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Interim order.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in any other provisions of this Act or any other law for the time being in force, no interim order (whether by way of injunction or stay or otherwise) shall be made in relation to any appeal under this Act, unless\u2014",
+                            "contains": {
+                                "0": "(a) copies of such appeal and all documents in support of the plea for such interim order are furnished to the party against whom the appeal is preferred; and",
+                                "1": "(b) opportunity is given to such party to be heard in the matter."
+                            }
+                        }
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Power to punish for contempt.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The National Tax Tribunal shall have and exercise the same jurisdiction, powers and authority in respect of contempt of itself as the High Court has and may exercise such power or authority, for this purpose under the provisions of the Contempt of Courts Act, 1971 (70 of 1971), which shall have effect subject to the modification that\u2014",
+                            "contains": {
+                                "0": "(a) any reference therein to a High Court shall be construed as including a reference to the National Tax Tribunal;",
+                                "1": "(b) any reference to the Advocate General in section 15 of the said Act shall be construed as a reference to such law officer as the Central Government may specify in this behalf:"
+                            }
+                        },
+                        "1": "Provided that such matters shall be heard by a Special Bench consisting of five Members constituted by the Chairperson."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Order of National Tax Tribunal.",
+                    "paragraphs": {
+                        "0": "The National Tax Tribunal may, after giving the parties to any proceedings before it, an opportunity of being heard, pass such orders thereon as it thinks fit."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Transfer of pending cases from High Court.",
+                    "paragraphs": {
+                        "0": "(1) On and from such date as the Central Government may, by notification, specify, all matters and proceedings including appeals and references under the direct taxes and indirect taxes pending before any High Court immediately before that date shall stand transferred to the National Tax Tribunal.",
+                        "1": {
+                            "text": "(2) Where any matter or proceeding including appeals and references stand transferred from the High Court to the National Tax Tribunal under sub-section (1),\u2014",
+                            "contains": {
+                                "0": "(a) the High Court shall, as soon as may be after such transfer, forward the records pertaining to such matter or proceeding to the National Tax Tribunal;",
+                                "1": "(b) the National Tax Tribunal shall, on receipt of such records, proceed to deal with such matter or proceeding from the stage at which it is transferred or from an earlier stage or de novo as it may deem fit;",
+                                "2": "(c) the Chairperson shall constitute a Bench consisting of such number of Members as he deems fit for hearing cases transferred under this section."
+                            }
+                        }
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Appeal to Supreme Court.",
+                    "paragraphs": {
+                        "0": "Any person including any department of the Government aggrieved by any decision or order of the National Tax Tribunal may file an appeal to the Supreme Court within sixty days from the date of communication of the decision or order of the National Tax Tribunal to him:",
+                        "1": "Provided that the Supreme Court may, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the said period, allow it to be filed within such time as it may deem fit."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER VI",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 25.": {
+                    "heading": "Members, etc., to be public servants.",
+                    "paragraphs": {
+                        "0": "The Chairperson, Members and other officers and employees of the National Tax Tribunal shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceedings shall lie against the National Tax Tribunal or its Chairperson, Member, officer or other employee in the discharge of any function for any loss or damage caused or likely to be caused by any act which is, in good faith, done or intended to be done in the discharge of any function under this Act."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing the difficulty:",
+                        "1": "Provided that no such order shall be made after the expiry of a period of two years from the commencement of this Act.",
+                        "2": "(2) Every order made under this section shall, as soon as may be, after it is made, be laid before each House of Parliament."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules to carry out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) Without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the procedure under sub-section (4) of section 11 for the investigation of charges of misbehaviour or incapacity against the Chairperson or other Members;",
+                                "1": "(b) the salaries and allowances and other conditions of service of officers and other employees of the National Tax Tribunal under sub-section (2) of section 12;",
+                                "2": "(c) the amount of fees payable under clause (c) of sub-section (2) of section 15;",
+                                "3": "(d) the other matters in respect of which the National Tax Tribunal may exercise the powers of a civil court under clause (f) of sub-section (3) of section 16;",
+                                "4": "(e) any other matter which may be prescribed or in respect of which rules are required to be made by the Central Government."
+                            }
+                        }
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Laying of rules before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule made under this Act by the Central Government shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Consequential amendments.",
+                    "paragraphs": {
+                        "0": "On and from such date as the Central Government may, by notification, specify, the enactments mentioned in the Schedule shall stand amended in the manner specified therein."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "(See section 30)"
+                }
+            },
+            "1": {
+                "text": "AMENDMENT OF CERTAIN ENACTMENTS",
+                "contains": {
+                    "0": "PART I"
+                }
+            },
+            "2": {
+                "text": "AMENDMENTS TO THE INCOME-TAX ACT, 1961",
+                "contains": {
+                    "0": "(43 OF 1961)"
+                }
+            },
+            "3": {
+                "text": "1. In section 2, after clause (29C), the following clause shall be inserted, namely:\u2014",
+                "contains": {
+                    "0": "'(29D) \u201cNational Tax Tribunal\u201d means the National Tax Tribunal established under section 3 of the National Tax Tribunal Act, 2005;\u2019."
+                }
+            },
+            "4": {
+                "text": "2. In Chapter XX,\u2014",
+                "contains": {
+                    "0": "(i) in section 254, in sub-section (4), for the words, figures and letter \u201cSave as provided in section 256 or section 260A\u201d, the words and figures \u201cSave as provided in the National Tax Tribunal Act, 2005\u201d shall be substituted;",
+                    "1": "(ii) sub-heading \u201cC.\u2014Reference to High Court\u201d and sections 256, 258 and 259 shall be omitted;",
+                    "2": {
+                        "text": "(iii) for section 260, the following section shall be substituted, namely:\u2014",
+                        "contains": {
+                            "0": "\u201c260. Effect to the decisions of Supreme Court and of the National Tax Tribunal.\u2014(1) The Supreme Court upon hearing any reference made to it by the Appellate Tribunal under section 257 shall decide the question of law raised therein, and shall deliver its judgment thereon containing the grounds on which such decision is founded, and a copy of the judgment shall be sent under the seal of the Court and the signature of the Registrar to the Appellate Tribunal which shall pass such orders as are necessary to dispose of the case conforming to such judgment.",
+                            "1": "(2) Where the National Tax Tribunal delivers a judgment in an appeal filed before it or in any matter transferred to it under the National Tax Tribunal Act, 2005, effect shall be given to the order of that Tribunal by the assessing officer on the basis of certified copy of the judgment.",
+                            "2": "(3) The cost of any reference to the Supreme Court which shall not include the fee for making the reference shall be at the discretion of the Court.\u201d;"
+                        }
+                    },
+                    "3": "(iv) in section 260A, in sub-section (1), after the words \u201corder passed in appeal by the Appellate Tribunal\u201d, the words \u201cbefore the date of establishment of the National Tax Tribunal\u201d shall be inserted;",
+                    "4": "(v) in section 261, after the words \u201cany judgment of the High Court delivered\u201d, the words \u201cbefore the establishment of the National Tax Tribunal\u201d shall be inserted;",
+                    "5": "(vi) in section 263, in sub-section (3), after the words \u201cthe Appellate Tribunal,\u201d, the words \u201cNational Tax Tribunal,\u201d shall be inserted;",
+                    "6": {
+                        "text": "(vii) in section 264, in sub-section (7), after the words \u201cthe Appellate Tribunal,\u201d, the words \u201cNational Tax Tribunal,\u201d shall be inserted.",
+                        "contains": {
+                            "0": "PART II",
+                            "1": {
+                                "text": "AMENDMENTS TO THE WEALTH-TAX ACT, 1957",
+                                "contains": {
+                                    "0": "(27 OF 1957)"
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "5": {
+                "text": "1. In section 2, after clause (lc), the following clause shall be inserted, namely:\u2014",
+                "contains": {
+                    "0": "'(ld) \u201cNational Tax Tribunal\u201d means the National Tax Tribunal established under section 3 of the National Tax Tribunal Act, 2005;'."
+                }
+            },
+            "6": "2. In section 25, in sub-section (4), after the words \u201cAppellate Tribunal,\u201d the words \u201cNational Tax Tribunal\u201d shall be inserted.",
+            "7": {
+                "text": "3. In section 27A,\u2014",
+                "contains": {
+                    "0": "(i) in sub-section (1), after the words and figures \u201cfile on or after the 1st day of October, 1998\u201d, the words \u201cbut before the date of establishment of the National Tax Tribunal\u201d shall be inserted;",
+                    "1": "(ii) in sub-section (2), after the words \u201cAn appeal shall lie to the High Court\u201d, the words \u201cbefore the date of establishment of the National Tax Tribunal\u201d shall be inserted."
+                }
+            },
+            "8": "4. In section 29, in sub-section (1), after the words \u201cany judgment of the High Court delivered\u201d, the words \u201cbefore the date of establishment of the National Tax Tribunal\u201d shall be inserted.",
+            "9": {
+                "text": "5. In section 29A, after the words \u201cpreferred to the Supreme Court\u201d, the words and figures \u201cunder this Act before the commencement of the National Tax Tribunal Act, 2005\u201d shall be inserted.",
+                "contains": {
+                    "0": "PART III",
+                    "1": {
+                        "text": "AMENDMENTS TO THE EXPENDITURE-TAX ACT, 1987",
+                        "contains": {
+                            "0": "(35 OF 1987)"
+                        }
+                    }
+                }
+            },
+            "10": "1. In section 13, in sub-section (4), for the words \u201cor any order of a High Court\u201d, the words \u201cor any order of the National Tax Tribunal or of a High Court\u201d shall be substituted.",
+            "11": {
+                "text": "2. In section 21, in sub-section (7), after the words \u201cAppellate Tribunal,\u201d, the words \u201cthe National Tax Tribunal,\u201d shall be inserted.",
+                "contains": {
+                    "0": "PART IV",
+                    "1": {
+                        "text": "AMENDMENTS TO THE INTEREST-TAX ACT, 1974",
+                        "contains": {
+                            "0": "(45 OF 1974)"
+                        }
+                    }
+                }
+            },
+            "12": "1. In section 19, in sub-section (3), after the words \u201cthe Appellate Tribunal\u201d, the words \u201cthe National Tax Tribunal\u201d shall be inserted.",
+            "13": {
+                "text": "2. In section 20, in sub-section (7), for the words \u201cAppellate Tribunal, the High Court or the Supreme Court\u201d, the words \u201cAppellate Tribunal, the National Tax Tribunal, the High Court or the Supreme Court\u201d shall be substituted.",
+                "contains": {
+                    "0": "PART V",
+                    "1": {
+                        "text": "AMENDMENT TO THE FINANCE (NO. 2) ACT, 1998",
+                        "contains": {
+                            "0": "(21 OF 1998)"
+                        }
+                    }
+                }
+            },
+            "14": {
+                "text": "In section 76, in sub-section (1), the words, figures, letter and brackets \u201csections 23, 23A, 24, 25, 28 and 29 of the Wealth-tax Act as amended and section 27A as inserted by the Finance (No. 2) Act, 1998\u201d, the words, figures and letter \u201csections 23, 23A, 24 and 25 of the Wealth-tax Act\u201d shall be substituted.",
+                "contains": {
+                    "0": "PART VI",
+                    "1": {
+                        "text": "AMENDMENTS TO THE CUSTOMS ACT, 1962",
+                        "contains": {
+                            "0": "(52 OF 1962)"
+                        }
+                    }
+                }
+            },
+            "15": {
+                "text": "1. In section 2, after clause (30), the following clause shall be inserted, namely:\u2014",
+                "contains": {
+                    "0": "'(30A) \u201cNational Tax Tribunal\u201d means the National Tax Tribunal established under section 3 of the National Tax Tribunal Act, 2005,'."
+                }
+            },
+            "16": "2. In section 27, in sub-section (3), after the words \u201cAppellate Tribunal\u201d, the words \u201c, the National Tax Tribunal\u201d shall be inserted.",
+            "17": "3. In section 27A, in the Explanation, after the words \u201cAppellate Tribunal\u201d, the words \u201c, National Tax Tribunal\u201d shall be inserted.",
+            "18": "4. In section 28AA, in Explanations 1 and 2, after the words \u201cAppellate Tribunal\u201d, the words \u201c, National Tax Tribunal\u201d shall be inserted.",
+            "19": "5. In section 28AB, in Explanations 1 and 2, after the words \u201cAppellate Tribunal\u201d, the words \u201c, National Tax Tribunal\u201d shall be inserted.",
+            "20": "6. In section 28B, in sub-section (1), after the words \u201cAppellate Tribunal\u201d, the words \u201c, National Tax Tribunal\u201d shall be inserted.",
+            "21": "7. Sections 130, 130A, 130B, 130C and 130D shall be omitted.",
+            "22": "8. In section 130E, in clause (b), after the words \u201cany order passed\u201d, the words \u201cbefore the establishment of the National Tax Tribunal\u201d shall be inserted.",
+            "23": "9. In section 131, after the words \u201can appeal has been preferred to the Supreme Court\u201d, the words and figure \u201cunder this Act before the commencement of the National Tax Tribunal Act, 2005\u201d shall be inserted.",
+            "24": {
+                "text": "10. In section 131C, clause (b) shall be omitted.",
+                "contains": {
+                    "0": "PART VII",
+                    "1": {
+                        "text": "AMENDMENTS TO THE CENTRAL EXCISE ACT, 1944",
+                        "contains": {
+                            "0": "(1 OF 1944)"
+                        }
+                    }
+                }
+            },
+            "25": {
+                "text": "1. In section 2, after clause (f), the following clause shall be inserted, namely:\u2014",
+                "contains": {
+                    "0": "'(ff) \u201cNational Tax Tribunal\u201d means the National Tax Tribunal established under section 3 of the National Tax Tribunal Act, 2005;'."
+                }
+            },
+            "26": "2. In section 11AA, in Explanations 1 and 2, after the words \u201cAppellate Tribunal\u201d, the words \u201c, National Tax Tribunal\u201d shall be inserted.",
+            "27": "3. In section 11AB, in Explanations 1 and 2, after the words \u201cAppellate Tribunal\u201d, the words \u201c, National Tax Tribunal\u201d shall be inserted.",
+            "28": "4. In section 11BB, in the Explanation, after the words \u201cAppellate Tribunal\u201d, the words \u201c, National Tax Tribunal\u201d shall be inserted.",
+            "29": "5. In section 35C, in sub-section (4), for the words, figures and letters \u201cSave as provided in section 35G or section 35L\u201d, the words and figures \u201cSave as provided in the National Tax Tribunal Act, 2005\u201d shall be substituted.",
+            "30": "6. Sections 35G, 35H, 35-I and 35J shall be omitted.",
+            "31": {
+                "text": "7. In section 35K,\u2014",
+                "contains": {
+                    "0": "(i) in sub-section (1), the words \u201cHigh Court or the\u201d shall be omitted;",
+                    "1": {
+                        "text": "(ii) in sub-section (2),\u2014",
+                        "contains": {
+                            "0": "(a) the words \u201cthe High Court or\u201d occurring at both the places shall be omitted;",
+                            "1": "(b) the words \u201cas the case may be,\u201d shall be omitted."
+                        }
+                    }
+                }
+            },
+            "32": "8. In section 35L, in clause (b), after the words \u201cany order passed\u201d, the words \u201cbefore the establishment of the National Tax Tribunal\u201d shall be inserted.",
+            "33": "9. In section 35N, after the words \u201can appeal has been preferred to the Supreme Court\u201d, the words and figures \u201cunder this Act before the commencement of the National Tax Tribunal Act, 2005\u201d shall be inserted."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. This Act has been struck down by the Supreme Court\u2019s Order dated 25th September, 2014 in the Madras Bar Association Vs.Union of India.",
+            "1": "2. 28th December, 2005, vide notification No. S.O. 1826(E), dated 28 December, 2005, see Gazette of India, Extraordinary, PartII, sec. 3(ii)."
+        },
+        "Page 3": {
+            "0": "1. The words \u201cin consultation with the Chairperson\u201d omitted by Act 18 of 2007, s. 2 (w.e.f. 29-1-2007).",
+            "1": "2. Ins. by s. 2. ibid. (w.e.f. 29-1-2007)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 18 of 2007, s. 3, for \u201cseven years\u201d (w.e.f. 29-1-2007)."
+        },
+        "Page 5": {
+            "0": "1. The words \u201cor any person duly authorised by him or it\u201d omitted by Act 18 of 2007, s. 4 (w.e.f. 29-1-2007)."
+        }
+    }
+}

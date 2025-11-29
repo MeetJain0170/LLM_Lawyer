@@ -1,0 +1,711 @@
+{
+    "Act Title": "THE DAMODAR VALLEY CORPORATION ACT, 1948",
+    "Act ID": "ACT NO. 14 OF 1948",
+    "Enactment Date": "[27th March, 1948.]",
+    "Act Definition": {
+        "0": "An Act to provide for the establishment and regulation of a Corporation for the development of the Damodar Valley in the Provinces of Bihar and West Bengal.",
+        "1": "WHEREAS it is expedient to provide for the establishment and regulation of a Corporation for the development of the Damodar Valley in the Provinces of Bihar and West Bengal:",
+        "2": "AND WHEREAS in pursuance of section 103 of the Government of India Act, 1935, (26 Geo. 5, c. 2.) resolutions have been passed by all the Chambers of the Provincial Legislatures of the said Provinces to the effect that certain matters dealt with in this Act which are enumerated in the Provincial Legislative List should be regulated in those Provinces by Act of the Dominion Legislature;"
+    },
+    "Parts": {
+        "0": {
+            "ID": "PART I",
+            "Name": "INTRODUCTORY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Damodar Valley Corporation Act, 1948.",
+                        "1": "(2) It extends to the States of Bihar and West Bengal.",
+                        "2": "(3) It shall come into force on such date2 as the Central Government may, by notification in the Official Gazette, appoint in this behalf."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Interpretation.",
+                    "paragraphs": {
+                        "0": "In this Act, unless there is anything repugnant in the subject or context,\u2014",
+                        "1": "(1) \u201cCorporation\u201d means the Damodar Valley Corporation;",
+                        "2": "(2) \u201cDamodar Valley\u201d includes the basin of the Damodar river and its tributaries;",
+                        "3": "(3) \u201cmember\u201d means a member of the Corporation and includes the Chairman;",
+                        "4": "(4) \u201cparticipating Governments\u201d means the Central Government, the State Government of Bihar and the State Government of West Bengal;",
+                        "5": "(5) \u201cprescribed\u201d means prescribed by rules made under section 59;",
+                        "6": "(6) \u201cState Government\u201d means the Government of Bihar or as the case may be of West Bengal, and \u201cState Government\u201d means the Governments of Bihar and West Bengal;",
+                        "7": "(7) \u201cregulations\u201d means the regulations made by the Corporation under section 60."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "PART II",
+            "Name": "ESTABLISHMENT OF THE CORPORATION",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Incorporation.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf, there shall be established a Corporation by the name of the Damodar Valley Corporation.",
+                        "1": "(2) The said Corporation shall be a body corporate having perpetual succession and a common seal, and shall by the said name sue and be sued."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Constitution of the Corporation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "1[(1) The Corporation shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) a Chairman;",
+                                "1": "(b) a member (technical) and a member (finance);",
+                                "2": "(c) one representative from the Central Government;",
+                                "3": "(d) two representatives one each from the State Government of Jharkhand and West Bengal;",
+                                "4": "(e) three independent experts one each from the field of irrigation, water supply and generation or transmission or distribution of electricity; and",
+                                "5": "(f) a Member-Secretary."
+                            }
+                        },
+                        "1": "(1A) The Chairman and members under clauses (a), (b), (d) and (f) of sub-section (1) shall be appointed by the Central Government in consultation with the State Governments concerned while the members under clauses (c) and (e) shall be appointed by the Central Government, by notification in the Official Gazette.",
+                        "2": "(1B) The Chairman and members under clauses (a), (b) and (f) of sub-section (1) shall be whole-time while the members under clauses (c), (d) and (e) shall be part-time.",
+                        "3": "(1C) The Chairman shall be the Chief Executive Officer of the Corporation.",
+                        "4": "(1D) Without prejudice to the provisions contained in sub-section (1C), the Member-Secretary shall be in charge of general administration and business development of the Corporation.]",
+                        "5": {
+                            "text": "(2) A person shall be disqualified for being appointed, or for continuing as, a member of the Corporation\u2014",
+                            "contains": {
+                                "0": "(a) if he is a member of 2[Parliament] or any State Legislature; or",
+                                "1": "(b) if he has, directly or indirectly, any interest in a subsisting contract made with, or in any work being done for, the Corporation except as a shareholder (other than a director) in an incorporated company provided that where he is a shareholder, he shall disclose to the Government the nature and extent of shares held by him in such Company."
+                            }
+                        },
+                        "6": {
+                            "text": "(3) No act or proceeding of the Corporation shall be invalid by reason only of the existence of any vacancy amongst its members or any defect in the appointment of a member thereof.",
+                            "contains": {
+                                "0": "*"
+                            }
+                        }
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Conditions of service of members.",
+                    "paragraphs": {
+                        "0": "3* * * * *",
+                        "1": "(2) The remuneration and other conditions of service of the members shall be such as may be prescribed."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Appointment of officers and servants.",
+                    "paragraphs": {
+                        "0": "4* * * * *",
+                        "1": "(3) The Corporation may appoint such other officers and servants as it considers necessary for the efficient performance of its functions."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Conditions of service of officers and servants.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The pay and other conditions of service of the officers and servants of the Corporation shall\u2014",
+                            "contains": {
+                                "0": "5* * * * *",
+                                "1": "(b) as respects the other officers and servants, be such as may be determined by regulations."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Functions and duties of members.",
+                    "paragraphs": {
+                        "0": "The functions and duties of members shall be such as may be prescribed.]"
+                    }
+                },
+                "Section 9.": {
+                    "heading": "General disqualification of all officers and servants.",
+                    "paragraphs": {
+                        "0": "No person who has directly or indirectly, by himself or his partner or agent, any share or interest in any contract, by or on behalf of the Corporation, or in any employment under, by or on behalf of the Corporation otherwise than as an officer or servant thereof, shall become or remain an officer or servant of the Corporation."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Appointment of Advisory Committee.",
+                    "paragraphs": {
+                        "0": "Subject to any rules made under section 59 the Corporation may from time to time appoint one or more Advisory Committees for the purpose of securing the efficient discharge of the functions of the Corporation, and in particular for the purpose of securing that those functions are exercised with due regard to the circumstances and requirements of particular local areas."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "PART III",
+            "Name": "FUNCTIONS AND POWERS OF THE CORPORATION",
+            "Subheadings": [
+                {
+                    "Name": "General",
+                    "Sections": {
+                        "Section 11.": {
+                            "heading": "Limits of Damodar Valley and area of operations.",
+                            "paragraphs": {
+                                "0": "(1) The Central Government shall, by notification in the Official Gazette, specify the limits of the Damodar Valley.",
+                                "1": "(2) The Corporation shall carry out all or any of its functions and exercise all or any of its powers within the Damodar Valley.",
+                                "2": "(3) The Central Government may, after consultation with the State Governments by notification in the Official Gazette, direct that the Corporation shall carry out such function and exercise such power in such other area as may be specified therein and the area so specified shall be called the \u201carea of operation\u201d of the Corporation."
+                            }
+                        },
+                        "Section 12.": {
+                            "heading": "Functions of the Corporation.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "The functions of the Corporation shall be\u2014",
+                                    "contains": {
+                                        "0": "(a) the promotion and operation of schemes for irrigation, water-supply and drainage,",
+                                        "1": "(b) the promotion and operation of schemes for the generation, transmission and distribution of electrical energy, both hydro-electric and thermal,",
+                                        "2": "(c) the promotion and operation of schemes for flood control in the Damodar river and its tributaries and the channels, if any, excavated by the Corporation in connection with the scheme and for the improvement of flow conditions in the Hooghly river,",
+                                        "3": "(d) the promotion and control of navigation in the Damodar river and its tributaries and channels, if any,",
+                                        "4": "(e) the promotion of afforestation and control of soil erosion in the Damodar Valley, and",
+                                        "5": "(f) the promotion of public health and the agricultural, industrial, economic and general well- being in the Damodar Valley and its area of operation."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "Irrigation and water-supply",
+                    "Sections": {
+                        "Section 13.": {
+                            "heading": "Provision for irrigation and water-supply.",
+                            "paragraphs": {
+                                "0": "The Corporation may, with the approval of the State Government concerned which shall not be unreasonably withheld, construct canals and distributaries and maintain and operate them:",
+                                "1": "Provided that the State Government may, after giving notice and subject to the payment of fair compensation, take over the maintenance and operation of any such canal or distributary."
+                            }
+                        },
+                        "Section 14.": {
+                            "heading": "Rates for supply of water for irrigation.",
+                            "paragraphs": {
+                                "0": "(1) The Corporation may, after consultation with the State Government concerned, determine and levy rates for the bulk supply of water to that Government for irrigation, and fix the minimum quantity of water which shall be made available for such purpose.",
+                                "1": "(2) The rates at which such water shall be supplied by the State Government to the cultivators and other consumers shall be fixed by that Government after consultation with the Corporation."
+                            }
+                        },
+                        "Section 15.": {
+                            "heading": "Rates for supply of water for industrial and domestic purposes.",
+                            "paragraphs": {
+                                "0": "The Corporation may determine and levy rates for bulk supply and retail distribution of water for industrial and domestic purposes and specify the manner of recovery of such rates."
+                            }
+                        },
+                        "Section 16.": {
+                            "heading": "Supply of water to those whose supply has been stopped or reduced.",
+                            "paragraphs": {
+                                "0": "If, with a view to operating its schemes, the Corporation has stopped or reduced the supply of water to any person for agricultural, industrial or domestic purposes which such person was, prior to such stoppage or reduction, enjoying by virtue of any prescriptive right, the Corporation shall arrange such supply of water on the same terms as before."
+                            }
+                        },
+                        "Section 17.": {
+                            "heading": "Construction of dam, etc., prohibited except with the approval of the Corporation.",
+                            "paragraphs": {
+                                "0": "Save as otherwise prescribed, no person shall construct, operate or maintain in the Damodar Valley any dam or other work or any installation for the extraction of water without the consent of the Corporation."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "Supply and generation of electrical energy",
+                    "Sections": {
+                        "Section 18.": {
+                            "heading": "Supply and generation of electrical energy.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "Notwithstanding anything contained in the Indian Electricity Act, 1910 (9 of 1910), or any licence granted thereunder\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(i) No person shall without the permission of the Corporation\u2014",
+                                            "contains": {
+                                                "0": "(a) sell electrical energy to any consumer in the Damodar Valley where the energy is taken by the consumer at a pressure of 30,000 volts or more;",
+                                                "1": "(b) transmit electrical energy in the Damodar Valley at a pressure of 30,000 volts or more;",
+                                                "2": "(c) generate any electrical energy at an installation having an aggregate capacity of more than 10,000 kilowatts in any part of the Damodar Valley lying to the north of a straight line drawn east to west passing through a point at latitude twenty-two degrees, fourteen minutes and forty-seven seconds and longitude eighty-seven degrees, fifty-one minutes and forty-two seconds except such portion of the municipal area of Burdwan as may lie to the north of such straight line:"
+                                            }
+                                        }
+                                    }
+                                },
+                                "1": "Provided that nothing in sub-clause (c) shall apply to any person who was, at the commencement of this Act, generating electrical energy at an installation having an aggregate capacity of more than 10,000 kilowatts, so long as the capacity of such installation is not increased:",
+                                "2": {
+                                    "text": "Provided further that nothing in sub-clause (c) shall apply to the power station installation of the fertiliser factory at Sindri having an aggregate capacity of 80,000 kilowatts so long as the capacity of such installation is not increased beyond 80,000 kilowatts.",
+                                    "contains": {
+                                        "0": "(ii) The Corporation may sell electrical energy to any consumer in the Damodar Valley but no such sale shall, except with the permission of the State Government concerned, be made to any consumer requiring supply at a pressure of less than 30,000 volts.",
+                                        "1": "(iii) The Corporation may, with the permission of the State Government concerned, extend its transmission system to any area beyond the Damodar Valley and sell electrical energy in such area."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 19.": {
+                            "heading": "Effect on existing licences.",
+                            "paragraphs": {
+                                "0": "(1) Where any licence granted under the Indian Electricity Act, 1910 (9 of 1910), becomes inoperative wholly or partly by virtue of the provisions of section 18, the licence shall be deemed to have been revoked or modified so as to be consistent with those provisions.",
+                                "1": "(2) Where a licence is deemed to have been revoked under sub-section (1) the Corporation shall purchase the undertaking of the licencee, and where a licence is modified under that sub-section, the Corporation shall, at the option of the licensee, either purchase the undertaking or pay fair compensation to the licensee.",
+                                "2": "(3) The purchase price or the amount of compensation payable by the corporation under sub-section (2) shall be such as may be agreed to between the Corporation and the licensee or, in the event of disagreement, as may be determined by arbitration."
+                            }
+                        },
+                        "Section 20.": {
+                            "heading": "Charges for supply of electrical energy.",
+                            "paragraphs": {
+                                "0": "The Corporation shall fix the schedule of charges for the supply of electrical energy, including the rates for bulk supply and retail distribution, and specify the manner of recovery of such charges:",
+                                "1": "Provided that the Corporation may in any contract for bulk supply of electrical energy impose such terms and conditions including a retail rate schedule as it may deem necessary or desirable to encourage the use of electrical energy."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "Other activities",
+                    "Sections": {
+                        "Section 21.": {
+                            "heading": "Other activities of the Corporation.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) The Corporation may establish, maintain and operate laboratories, experimental and research stations and farms for conducting experiments and research for\u2014",
+                                    "contains": {
+                                        "0": "(a) utilising the water, electrical energy and other resources in the most economical manner for the development of the Damodar Valley,",
+                                        "1": "(b) determining the effect of its operations on the flow conditions in the Hooghly river,",
+                                        "2": "(c) making improvements in navigation conditions in the port of Calcutta, and",
+                                        "3": "(d) carrying out any other function specified under section 12."
+                                    }
+                                },
+                                "1": "(2) The Corporation may set up its own planning, designing, construction and operating agencies, or make arrangements therefor with the participating Governments, local authorities, educational and research institutions or any person carrying on the business of an architect, an engineer or a contractor."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "Powers",
+                    "Sections": {
+                        "Section 22.": {
+                            "heading": "General powers of the Corporation.",
+                            "paragraphs": {
+                                "0": "(1) The Corporation shall have the power to do anything which may be necessary or expedient for the purposes of carrying out its functions under this Act.",
+                                "1": {
+                                    "text": "(2) Without prejudice to the generality of the foregoing provision, such power shall include the power\u2014",
+                                    "contains": {
+                                        "0": "(i) to acquire and hold such movable and immovable property as it may deem necessary and to lease, sell or otherwise transfer any such property;",
+                                        "1": "(ii) to construct or cause to be constructed such dams, barrages, reservoirs, power houses, power structures, electrical transmission lines and sub-stations, navigation works, irrigation, navigation and drainage canals and such other works and structures as may be required;",
+                                        "2": "(iii) to prevent pollution of any water under its control and to take all measures to prevent discharges into such water effluents which are harmful to water supply, irrigation, public health or fish life;",
+                                        "3": "(iv) to stock its reservoirs or water courses with fish and to regulate or prohibit taking out fish from the water under its control;",
+                                        "4": "(v) to undertake resettlement of the population displaced by the dams, acquisition of land for reservoirs and protection of watersheds;",
+                                        "5": "(vi) to aid in the establishment of co-operative societies and other organisations for the better use of facilities made available by the Corporation;",
+                                        "6": "(vii) to undertake measures for the prevention of malaria."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 23.": {
+                            "heading": "Power to close roads and open spaces.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "(1) The Corporation may, after giving notice to the persons concerned or to the public generally, \u2014",
+                                    "contains": {
+                                        "0": "(a) turn, divert or discontinue the public use of, or permanently close, any road or any part thereof, or",
+                                        "1": "(b) discontinue the public use of, or permanently close, any open space or any part thereof."
+                                    }
+                                },
+                                "1": {
+                                    "text": "(2) Whenever the Corporation discontinues the public use of, or permanently closes, any road or open space the Corporation shall pay reasonable compensation to every person\u2014",
+                                    "contains": {
+                                        "0": "(a) who was entitled, otherwise than as a licensee, to use such road or open space or part thereof as a means of access, or",
+                                        "1": "(b) Whose immovable property was receiving air and light on account of such open space or part,"
+                                    }
+                                },
+                                "2": {
+                                    "text": "and who has suffered damage\u2014",
+                                    "contains": {
+                                        "0": "(i) in any case falling under clause (a) from such discontinuance or closure, and",
+                                        "1": "(ii) in any case falling under clause (b) from the use to which the Corporation has put such open space or part.",
+                                        "2": "(3) In determining the compensation payable to any person under sub-section (2), the Corporation may take into consideration any benefit accruing to such person from the construction, provision or improvement of any other road, or open space at or about the same time that the road or open space or part thereof, on account of which the compensation is to be paid, is discontinued or closed.",
+                                        "3": "(4) When any road or open space or any part thereof is permanently closed under sub-section (1), the Corporation may sell or leave such part of it as is not required for its purposes."
+                                    }
+                                }
+                            }
+                        },
+                        "Section 24.": {
+                            "heading": "Powers under certain other enactments.",
+                            "paragraphs": {
+                                "0": "(1) Notwithstanding anything contained in the Acts specified in column one of Part I of the Schedule, the Corporation may carry out all or any of the functions and exercise all or any of the powers of a State Government in the Damodar Valley under the provisions of such Acts specified in column two thereof against each item of column one.",
+                                "1": "(2) Notwithstanding anything contained in the Acts specified in column one of Part II of the Schedule, any officer authorised by the Corporation may carry out all or any of the functions and exercise all or any of the powers of a Canal Officer, Collector, or Forest Officer, as the case may be, in the Damodar Valley under the provisions of such Acts specified in column two thereof against each item of column one."
+                            }
+                        }
+                    }
+                },
+                {
+                    "Name": "Co-operation and avoidance of submersion",
+                    "Sections": {
+                        "Section 25.": {
+                            "heading": "Co-operation with other authorities to minimise inconvenience caused by submersion.",
+                            "paragraphs": {
+                                "0": "The Corporation shall co-operate with the participating Governments, railway authorities and local authorities and bodies, with a view to minimising the inconvenience likely to be caused by the submersion of roads and communications and shall bear the cost of any realignment thereof or resettlement of any population rendered necessary by such submersion."
+                            }
+                        },
+                        "Section 26.": {
+                            "heading": "Submersion of coal mines to be avoided by the Corporation.",
+                            "paragraphs": {
+                                "0": "The Corporation shall make every endeavour to avoid submersion of coal or mineral deposits and shall co-operate with the coal mining industry and the bodies set up by the participating Governments to ensure the maintenance of supplies of sand for stowing purposes in coal mines and in other ways to minimise the inconvenience to the coal mining industry."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "3": {
+            "ID": "PART IV",
+            "Name": "FINANCE, ACCOUNTS AND AUDIT",
+            "Sections": {
+                "Section 27.": {
+                    "heading": "Expenditure till the Corporation is established.",
+                    "paragraphs": {
+                        "0": "All expenditure incurred by the Central Government for and in connection with the establishment of the Corporation up to the date of its establishment shall be treated as the capital provided by the Central Government to the Corporation and such capital shall be adjusted between the participating Governments in accordance with the provisions of sections 30 to 36."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Vesting of property in the Corporation.",
+                    "paragraphs": {
+                        "0": "All property acquired and works constructed for the purposes of the Damodar Valley scheme before the establishment of the Corporation shall vest in the Corporation and all income derived and expenses incurred in this behalf shall be brought into the books of the Corporation."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Fund of the Corporation.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation shall have its own fund and all receipts of the Corporation shall be carried thereto and all payments by the Corporation shall be made therefrom.",
+                        "1": "(2) Except as otherwise directed by the Central Government, all moneys belonging to that fund shall be deposited in the Reserve Bank of India or the Agents of the Reserve Bank of India or invested in such securities as may be approved by the Central Government."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Liabilities of participating Governments to provide capital to the Corporation.",
+                    "paragraphs": {
+                        "0": "The participating Governments shall, as hereinafter specified, provide the entire capital required by the Corporation for the completion of any project undertaken by it."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Payment by participating Government on specified date.",
+                    "paragraphs": {
+                        "0": "Each participating Government shall provide its share of the capital on the dates specified by the Corporation and if any Government fails to provide such share on such dates the Corporation may raise loan to make up the deficit at the cost of the Government concerned."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Expenditure on objects other than irrigation, power and flood control.",
+                    "paragraphs": {
+                        "0": "The Corporation shall have power to spend such sums as it thinks fit on objects authorised under this Act other than irrigation, power and flood control and such sums shall be treated as common expenditure payable out of the fund of the Corporation before allocation under section 32."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Allocation of expenditure chargeable to project on main objects.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The total capital expenditure chargeable to a project shall be allocated between the three main objects, namely, irrigation, power and flood control as follows, namely:\u2014",
+                            "contains": {
+                                "0": "(1) expenditure solely attributable to any of these objects, including a proportionate share of overhead and general charges, shall be charged to that object, and",
+                                "1": "(2) expenditure common to two or more of the said objects, including a proportionate share of overhead and general charges, shall be allocated to each of such objects in proportion to the expenditure which, according to the estimates of the Corporation, would have been incurred in constructing a separate structure solely for that object, less any amount determined under clause (1) in respect of that object."
+                            }
+                        }
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Capital allocated to irrigation.",
+                    "paragraphs": {
+                        "0": "The total amount of capital allocated to irrigation shall be shared between the State Governments as follows, namely:\u2014",
+                        "1": "(1) the Government concerned shall be responsible for the capital cost of the works constructed exclusively for irrigation in its State; and",
+                        "2": "(2) the balance of capital cost under irrigation for both the States of Bihar and West Bengal shall be shared by the State Governments in the proportion to their guaranteed annual off-takes of water for agricultural purposes:",
+                        "3": "Provided that the divisible capital cost under this clause shall be provisionally shared between them in accordance with their previously declared intentions regarding their respective guaranteed off-takes and any payments made accordingly shall be adjusted after the determination of the guaranteed off-takes."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Capital allocated to power.",
+                    "paragraphs": {
+                        "0": "The total amount of capital allocated to power shall be shared equally between the three participating Governments."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Capital allocated to flood control.",
+                    "paragraphs": {
+                        "0": "The total amount of capital up to fourteen crores of rupees allocated to flood control shall be shared equally between the Central Government and the Government of West Bengal and any amount in excess thereof shall be the liability of the Government of West Bengal."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Disposal of profits and deficits.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of sub-section (2) of section 40, the net profit, if any, attributable to each of the three main objects, namely, irrigation, power and flood control, shall be credited to the participating Governments in proportion to their respective shares in the total capital cost attributed to that object.",
+                        "1": "(2) The net deficit, if any, in respect of any of the objects shall be made good by the Governments concerned in the proportion specified in sub-section (1):",
+                        "2": "Provided that the net deficit in respect of flood control shall be made good entirely by the Government of West Bengal and the Central Government shall have no share in such deficit."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Payment of interest.",
+                    "paragraphs": {
+                        "0": "The Corporation shall pay interest on the amount of capital provided by each participating Government at such rate as may, from time to time, be fixed by the Central Government and such interest shall be deemed to be part of the expenditure of the Corporation."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Interest charge and other expenses to be added to and receipts taken for reduction of capital cost.",
+                    "paragraphs": {
+                        "0": "For a period, not exceeding fifteen years, from the establishment of the Corporation, if the Corporation runs in deficit, the interest 28 charges and all other expenditure shall be added to the capital cost and all receipts shall be taken in reduction of such capital cost."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Provision for depreciation and reserve and other funds.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation shall make provision for depreciation and for reserve and other funds at such rates and on such terms as may be specified by the Auditor-General of India in consultation with the Central Government.",
+                        "1": "(2) The net profit for the purposes of section 37 shall be determined after such provision has been made."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Corporation's share in betterment levy by State Governments.",
+                    "paragraphs": {
+                        "0": "In the event of any betterment levy being imposed by a State Government, the proportionate proceeds thereof in so far as they are attributable to the operations of the corporation shall be credited to the Corporation."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Borrowing of money.",
+                    "paragraphs": {
+                        "0": "The Corporation may, with the approval of the Central Government, borrow money in the open market or otherwise for the purposes of carrying out its functions under this Act."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Liability to pay Central taxes.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation shall be liable to pay any taxes on income levied by the Central Government in the same manner and to the same extent as a company.",
+                        "1": "(2) The State Governments shall not be entitled to any refund of any such taxes paid by the Corporation."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Budget.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation, in consultation with the 1[member (finance)], shall in October each year prepare in such form as may be prescribed a budget for the next financial year showing the estimated receipts and expenditure and the amounts which would be required from each of the three participating Governments during that financial year.",
+                        "1": "(2) Printed copies of the budget shall be made available to each of the three participating Governments by the 15th day of November each year.",
+                        "2": "(3) The budget shall be laid before 1[Parliament] and the State Legislatures concerned as soon as may be after it is prepared."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Annual report.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "t.\u2014(1) The Corporation shall prepare, in such form as may be prescribed, an annual report within six months after the end of each financial year giving a true and faithful account of its activities during the previous financial year, with particular reference to\u2014",
+                            "contains": {
+                                "0": "(i) irrigation;",
+                                "1": "(ii) water supply;",
+                                "2": "(iii) electrical energy;",
+                                "3": "(iv) flood control;",
+                                "4": "(v) navigation;",
+                                "5": "(vi) afforestation;",
+                                "6": "(vii) soil erosion;",
+                                "7": "(viii) use of lands;",
+                                "8": "(ix) resettlement of displaced population;",
+                                "9": "(x) sanitation and public health measures; and",
+                                "10": "(xi) economic and social welfare of the people."
+                            }
+                        },
+                        "1": "(2) The annual report shall also give a true and faithful account of the income and expenditure during the previous financial year, the net amounts attributable to each of the three main objects and the distribution of the capital cost between the three participating Governments and show the progressive totals from the inception of the Corporation and the up-to-date financial results.",
+                        "2": "(3) The payments provisionally made by each of the three participating Governments on the basis of the budget estimates shall be adjusted as soon as possible in accordance with the allocation made in the annual report.",
+                        "3": "(4) Printed copies of the annual report shall be made available to each of the three participating Governments by the 15th day of October each year.",
+                        "4": "(5) The annual report shall be laid before 1[Parliament] and the State Legislatures concerned as soon as may be after it is prepared."
+                    }
+                },
+                "Section 46.": {
+                    "heading": "Other annual financial statements.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation shall also prepare such other annual financial statements in such form and by such dates as may be prescribed.",
+                        "1": "(2) Printed copies of each such annual financial statement shall be made available to each of the three participating Governments by such date as may be prescribed."
+                    }
+                },
+                "Section 47.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "The accounts of the Corporation shall be maintained and audited in such manner as may, in consultation with the Auditor-General of India, be prescribed."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "PART V",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 48.": {
+                    "heading": "Directions by the Central Government.",
+                    "paragraphs": {
+                        "0": "(1) In discharge of its functions the Corporation shall be guided by such instructions on questions of policy as may be given to it by the Central Government.",
+                        "1": "(2) If any dispute arises between the Central Government and the Corporation as to whether a question is or is not a question of policy, the decision of the Central Government shall be final."
+                    }
+                },
+                "Section 49.": {
+                    "heading": "Disputes between the Corporation and Governments.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise expressly provided in this Act, any dispute between the Corporation and any participating Government regarding any matter covered by this Act or touching or arising out of it shall be referred to an arbitrator who shall be appointed by the Chief Justice of India.",
+                        "1": "(2) The decision of the arbitrator shall be final and binding on the parties."
+                    }
+                },
+                "Section 50.": {
+                    "heading": "Compulsory acquisition of land for the Corporation.",
+                    "paragraphs": {
+                        "0": "Any land required by the Corporation for carrying out its functions under this Act shall be deemed to be needed to be needed for a public purpose and such land shall be acquired for the Corporation as if the provisions of Part VII of the Land Acquisition Act, 1894 (1 of 1894), were applicable to it and the Corporation were a company within the meaning of clause (e) of section 3 of the said Act."
+                    }
+                },
+                "Section 51.": {
+                    "heading": "Control of Central Government.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government may remove from the Corporation any member who in its opinion\u2014",
+                            "contains": {
+                                "0": "(a) refuses to act,",
+                                "1": "(b) has become incapable of acting,",
+                                "2": "(c) has so abused his position as a member as to render his continuance on the Corporation detrimental to the interest of the public, or",
+                                "3": "(d) is otherwise unsuitable to continue as member."
+                            }
+                        },
+                        "1": "(2) The Central Government may suspend any member pending an enquiry against him.",
+                        "2": "(3) No order of removal under this section shall be made unless the member concerned has been given an opportunity to submit his explanation to the Central Government, and when such order is passed the seat of the member removed shall be declared vacant and another member may be appointed under section 4 to fill up the vacancy.",
+                        "3": "(4) A member who has been removed shall not be eligible for reappointment as member or in any other capacity to the Corporation.",
+                        "4": "(5) The Central Government may declare void any transaction in connection with which a member has been removed under sub-section (1).",
+                        "5": "(6) If the Corporation fails to carry out its functions, or follow the directions issued by the Central Government under this Act, the Central Government shall have the power to remove the Chairman and the members of the Corporation and appoint a Chairman and members in their places."
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Application of certain provisions of the Indian Forest Act, 1927, to the forests of the Corporation.",
+                    "paragraphs": {
+                        "0": "All acts prohibited in respect of a reserved forest under section 26 of the Indian Forest Act, 1927 (16 of 1927) shall be deemed to be prohibited in respect of any forest owned by or under the supervision or control of the Corporation and all offences in respect of such forest shall be punishable under the said Act as if they were committed in respect of a reserved forest."
+                    }
+                },
+                "Section 53.": {
+                    "heading": "Penalty.",
+                    "paragraphs": {
+                        "0": "Whoever contravenes the provisions of sections 17 and 18 of this Act or any rule made thereunder shall be punished with imprisonment for a term which may extend to six months or with fine or with both."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Procedure for prosecution.",
+                    "paragraphs": {
+                        "0": "No Court shall take cognisance of an offence under this Act except on the complaint of an officer of the Corporation authorised by it in this behalf."
+                    }
+                },
+                "Section 55.": {
+                    "heading": "Power of entry.",
+                    "paragraphs": {
+                        "0": "Any officer or servant of the Corporation generally or specially authorised by the Corporation may at all reasonable times enter upon any land or premises and there do such things as may be reasonably necessary for the purpose of lawfully carrying out any of its works or of making any survey, examination or investigation preliminary or incidental to the exercise of powers or the performance of functions by the Corporation under this Act."
+                    }
+                },
+                "Section 56.": {
+                    "heading": "Members, officers and servants of the Corporation to be public servants.",
+                    "paragraphs": {
+                        "0": "All members, officers and servants of the Corporation, whether appointed by the Central Government or the Corporation, shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 57.": {
+                    "heading": "Protection of action of action taken under the Act.",
+                    "paragraphs": {
+                        "0": "(1) No suit, prosecution, or legal proceeding shall lie against any person in the employment of the Corporation for anything which is in good faith done or purported to be done under this Act.",
+                        "1": "(2) Save as otherwise provided in the Act no suit or other legal proceeding shall lie against the Corporation for any damage caused or likely to be caused by anything in good faith done or purported to be done under this Act."
+                    }
+                },
+                "Section 58.": {
+                    "heading": "Effect of other laws.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act or any rule made thereunder shall have effect notwithstanding anything contained in any enactment other than this Act or any instrument having effect by virtue of any enactment other than this Act."
+                    }
+                },
+                "Section 59.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by notification in the official Gazette, make rules to provide for all or any of the following matters, namely:\u2014",
+                        "1": "(1) the salaries and allowances and conditions of service of members,1***;",
+                        "2": "(2) the functions and duties of the 2[members];",
+                        "3": "(3) the dams or other works or the installations which may be constructed without the approval of the Corporation;",
+                        "4": "(4) the forms of the budget, the annual report and the annual financial statements and the dates by which copies of the annual financial statements shall be made available to the participating Governments;",
+                        "5": "(5) the manner in which the accounts of the Corporation shall be maintained and audited;",
+                        "6": "(6) the appointment of an Advisory Committee; and",
+                        "7": "(7) the punishment for breach of any rule made under this Act."
+                    }
+                },
+                "Section 60.": {
+                    "heading": "Power to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The Corporation may, with the previous sanction of the Central Government, by notification in the Gazette of India, make regulations for carrying out its functions under this Act.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, in such regulation the Corporation may make provision for\u2014",
+                            "contains": {
+                                "0": "(a) making of appointments and promotions of its officers and servants;",
+                                "1": "(b) specifying other conditions of service of its officers and servants;",
+                                "2": "(c) specifying the manner in which water rates and charges for electrical energy shall be recovered;",
+                                "3": "(d) preventing the pollution of water under its control;",
+                                "4": "(e) regulating the taking out of fish from the water under its control;",
+                                "5": "(f) regulating its proceedings and business;",
+                                "6": "(g) prescribing punishment for breach of any regulation."
+                            }
+                        },
+                        "2": "(3) All regulations made under sub-sections (1) and (2) shall, as soon as possible, be published also in the Official Gazettes of the State Governments."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": {
+                        "text": "(See section 24)",
+                        "contains": {
+                            "0": "PART I"
+                        }
+                    }
+                }
+            },
+            "1": {
+                "text": "Acts Provisions of the Acts specified in column (1)",
+                "contains": {
+                    "0": "(1) (2)"
+                }
+            },
+            "2": {
+                "text": "1. The Canals Act, 1864 (Ben. Act 5 of 1864). Section 6 (Power of State Government to fix and alter rates of tolls).",
+                "contains": {
+                    "0": "Section 8 (Power of State Government to appoint persons to collect tolls who may farm collection)."
+                }
+            },
+            "3": {
+                "text": "2. The Indian Forest Act, 1927 (16 of 1927). Section 35 (Protection of forests for special purposes).",
+                "contains": {
+                    "0": "Section 36 (Power to assume management of forests).",
+                    "1": "PART II",
+                    "2": {
+                        "text": "Acts Provisions of the Acts specified in column (1)",
+                        "contains": {
+                            "0": "(1) (2)"
+                        }
+                    }
+                }
+            },
+            "4": {
+                "text": "1. The Bengal Irrigation Act, 1876 (Ben. Act 3 of 1876). Part III (Power of the maintenance of canals).",
+                "contains": {
+                    "0": "Section 41 of Part IV (Power of Canal Officer to issue notice to person causing obstruction).",
+                    "1": "Section 42 of Part IV (Power of Canal Officer to cause obstructions to be removed) ."
+                }
+            },
+            "5": {
+                "text": "2. The Bengal Embankment Act, 1882 (Ben. Act 2 of 1882). Part II (Powers of Collector and procedure thereon).",
+                "contains": {
+                    "0": "Part III (Powers of Collector in cases of imminent danger to life or property)."
+                }
+            },
+            "6": "3.The Indian Forest Act, 1927 (16 of 1927) Section 36 (Power to assume management of forests)."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 4": {
+            "0": "1. This Act has been amended in the State of West Bengal by West Bengal Act 3 of 1956.",
+            "1": "2. 2nd April, 1948, see Gazette of India, Part I."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 1 of 2012, s. 2, for sub-section (1) (w.e.f. 19-8-2013).",
+            "1": "2. Subs. by the A.O. 1950, for \u201cthe Central\u201d.",
+            "2": "3. Sub-section (1) omitted by Act 59 of 1957, s. 2.",
+            "3": "4. Subs-sections (1) and (2) omitted by Act 1 of 2012, s. 3 (w.e.f. 19-8-2013).",
+            "4": "5. Clause (a) omitted by s. 4, ibid. (w.e.f. 19-8-2013).",
+            "5": "6. Subs. by s. 5, ibid., for section 8 (w.e.f. 19-8-2013)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 1 of 2012, s. 6, for \u201cfinancial adviser\u201d (w.e.f. 19-8-2013)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by  the A. O. 1950, for \u201cthe Central\u201d."
+        },
+        "Page 14": {
+            "0": "1. The words \u201cthe secretary and the financial adviser\u201d omitted by Act 1 of 2012, s. 7 (w.e.f. 19-8-2013).",
+            "1": "2. Subs. by s. 7, ibid., for \u201cfinancial adviser\u201d (w.e.f. 19-8-2013)."
+        }
+    }
+}

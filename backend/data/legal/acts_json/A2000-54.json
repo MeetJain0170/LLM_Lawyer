@@ -1,0 +1,349 @@
+{
+    "Act Title": "THE CENTRAL ROAD AND INFRASTRUCTURE FUND ACT, 2000",
+    "Act ID": "ACT NO. 54 OF 2000",
+    "Enactment Date": "[27th December, 2000.]",
+    "Act Definition": {
+        "0": "An Act to give statutory status to 1[the Central Road and Infrastructure Fund for development and maintenance of National Highways, railway projects, improvement of safety in railways, State and rural roads and other infrastructure, and for these purposes to levy and collect by way of cess, a duty of excise and a duty of customs on motor spirit commonly known as petrol and high speed diesel oil] and for other matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the 2[Central Road and Infrastructure] Fund Act, 2000.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) Save as otherwise provided in this Act, it shall be deemed to have come into force on the 1st day of November, 2000."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cappointed day\u201d means the date on which the Fund is established under sub-section (1) of section 6;",
+                                "1": "(b) \u201ccess\u201d means a duty in the nature of duty of excise and customs, imposed and collected on motor spirit commonly known as petrol and high speed diesel oil for the purposes of this Act;",
+                                "2": "(c) \u201cFund\u201d means the Central 3[Road and Infrastructure Fund] established under sub-section (1) of section 6;",
+                                "3": "(d) \u201cnational highways\u201d means the highways specified in the Schedule to the National Highways Act, 1956 (48 of 1956) or any other highway declared as national highway under sub-section (2) of section 2 of the said Act;",
+                                "4": "4* * * * *",
+                                "5": "(f) \u201cprescribed\u201d means prescribed by rules made under this Act."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "CENTRAL ROAD AND INFRASTRUCTURE FUND",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Levy and collection of cess.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) With effect from such date as the Central Government may, by notification in the Official Gazette, specify, there shall be levied and collected, as a cess, a duty of excise and customs for the purposes of this Act, on every item specified in column (2) of the 6[Schedule I], which is produced in or imported into India and\u2014",
+                            "contains": {
+                                "0": "(a) removed from a refinery or a factory or an outlet; or",
+                                "1": "(b) transferred by the person, by whom such item is produced or imported, to another person,"
+                            }
+                        },
+                        "1": {
+                            "text": "at such rates 1*** as the Central Government may, by notification in the Official Gazette, specify:",
+                            "contains": {
+                                "0": "2* * * * *",
+                                "1": "3[Provided that the additional duty of customs and the additional duty of excise on motor spirit commonly known as petrol and on high speed diesel oil levied under sub-section (1) of section 109 and sub-section (1) of section 110, as the case may be, of the Finance Act, 2018 shall be deemed to be the cess for the purposes of this Act from the date of its levy and the proceeds thereof shall be credited to the Fund.]",
+                                "2": "(2) Every cess leviable under sub-section (1) on any item shall be payable by the person by whom such item is produced, and in the case of imports, the cess shall be imposed and collected on items so imported and specified in the Schedule.",
+                                "3": "(3) The cess leviable under sub-section (1) on the items specified in the Schedule shall be in addition to any cess or duty leviable on those items under any other law for the time being in force.",
+                                "4": "(4) The provisions of the Central Excise Act, 1944 (1 of 1944) and the rules made thereunder and the provisions of the Customs Act, 1962 (52 of 1962) and the rules made thereunder, as the case may be, including those relating to refunds and exemptions from duties shall, as far as may be, apply in relation to the levy and collection of cess leviable under this section and for this purpose, the provisions of the Central Excise Act, 1944 and of the Customs Act, 1962, as the case may be, shall have effect as if the aforesaid Acts provided for the levy of cess on all items specified in the Schedule."
+                            }
+                        }
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Crediting of cess to Consolidated Fund of India.",
+                    "paragraphs": {
+                        "0": "The proceeds of the cess levied under section 3 shall first be credited to the Consolidated Fund of India, and the Central Government may, if Parliament by appropriation made by law in this behalf so provides, credit such proceeds to the Fund from time to time, after deducting the expenses of collection, for being utilised exclusively for the purposes of this Act."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Grants and loans by the Central Government.",
+                    "paragraphs": {
+                        "0": "The Central Government may, after due appropriation made by Parliament by law in this behalf, credit by way of grants or loans such sums of money as the Central Government may consider necessary in the Fund."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Establishment of Central Road and Infrastructure Fund.",
+                    "paragraphs": {
+                        "0": "[Road and Infrastructure Fund].\u2014(1) With effect from such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf, there shall be established for the purposes of this Act, a Fund to be called as the Central 4[Road and Infrastructure Fund].",
+                        "1": {
+                            "text": "(2) The Fund shall be under the control of the Central Government and there shall be credited thereto\u2014",
+                            "contains": {
+                                "0": "(a) any sums of money paid under section 4 or section 5;",
+                                "1": "(b) unspent part of the cess, being already levied for the purposes of the development and maintenance of national highways;",
+                                "2": "(c) the sums, if any, realised by the Central Government in carrying out its functions or in the administration of this Act;",
+                                "3": "(d) any fund provided by the Central Government for the development and maintenance of State roads."
+                            }
+                        },
+                        "2": "(3) The balance to the credit of the Fund shall not lapse at the end of the financial year."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Utilisation of the Fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "1[(1)] The Fund shall be utilised for the\u2014",
+                            "contains": {
+                                "0": "(i) development and maintenance of national highways;",
+                                "1": "(ii) development of the rural roads;",
+                                "2": "(iii) development and maintenance of other State roads including roads of inter-State and economic importance;",
+                                "3": "2[(iv) construction of roads either under or over the railways by means of bridges and erection of safety works at unmanned rail-road crossings, new lines, conversion of existing standard lines into gauge lines and electrification of rail lines; and",
+                                "4": "(v) undertaking other infrastructure projects.",
+                                "5": "Explanation.\u2014For the purposes of this Act, the expression \u201cinfrastructure projects\u201d means the category of projects and infrastructure Sub-Sectors specified in Schedule II.]"
+                            }
+                        },
+                        "1": "3[(2) The Central Government may, depending upon the requirement for development of infrastructure projects, and if it considers necessary or expedient to do so, by notification in the Official Gazette, amend Schedule II relating to any Category of projects or Infrastructure Sub-Sectors.",
+                        "2": "(3) Every notification issued under this Act by the Central Government shall be laid, as soon as may be after it is issued, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or both Houses agree that the notification should not be made, the notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification.]"
+                    }
+                },
+                "Section 7A.": {
+                    "heading": "Apportionment of share of fund by Committee.",
+                    "paragraphs": {
+                        "0": "The share of the Fund to be apportioned to each of infrastructure projects shall be finalised by a Committee, constituted by the Central Government by notification published in the Official Gazette, headed by the Finance Minister, depending on the priorities of the project.]"
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "(1) The concerned departments of the Central Government shall maintain proper accounts and other relevant records and prepare an annual statement of accounts, including the profit and loss account and the balance-sheet in respect of allocations of their shares of fund in such form, as may be prescribed by the Central Government in consultation with the Comptroller and Auditor- General of India.",
+                        "1": "(2) The accounts of the Fund shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "MANAGEMENT OF CENTRAL ROAD AND INFRASTRUCTURE FUND",
+            "Sections": {
+                "Section 9.": {
+                    "heading": "Powers of Central Government to administer the Fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) 5[The Central Government shall have the power to administer the Fund and shall\u2014",
+                            "contains": {
+                                "0": "(a) take such decisions regarding investment on projects of roads and other infrastructure as it considers necessary;",
+                                "1": "(b) take such measures as may be necessary to raise funds for the development and maintenance of roads and other infrastructure.]"
+                            }
+                        }
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Functions of the Central Government.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "1[(1)] The Central Government shall be responsible for the\u2014",
+                            "contains": {
+                                "0": "(i) administration and management of the share of Fund allocated to the development and maintenance of the 2[roads and other infrastructure];",
+                                "1": "(ii) co-ordination and complete and timely utilisation of all sums allocated out of the Fund;",
+                                "2": "3* * * * *",
+                                "3": "(iv) formulation of criteria on the basis of which the specific projects of State roads of inter-State and economic importance are to be approved and financed out of share of State roads;",
+                                "4": "4[(v) release of funds to the States for specific projects and monitoring of such projects and expenditure incurred thereon;",
+                                "5": "(vi) formulation of the criteria for allocation of the funds for development and maintenance of national highways and other infrastructure projects;]",
+                                "6": {
+                                    "text": "(vii) allocation of share of funds to each State and Union territory specified in the First Schedule to the Constitution;",
+                                    "contains": {
+                                        "0": "5* * * * *"
+                                    }
+                                }
+                            }
+                        },
+                        "1": "6[(2) Notwithstanding anything contained in clause (viii) of sub-section (1), the Central Government shall, with effect from the 1st day of March, 2005, allocate fifty paise from the amount of rupee two as amended by sections 119 and 120 of the Finance Act, 2005 as the additional duty of customs and the additional duty of excise on petrol, levied under sub-section (1) of section 103 and sub-section (1) of section 111, as the case may be, of the Finance (No. 2) Act, 1998 (21 of 1998) and the additional duty of customs and the additional duty of excise on high speed diesel oil levied under sub-section (1) of section 116 and sub-section (1) of section 133, as the case may be, of the Finance Act, 1999 (27 of 1999), exclusively for the development and maintenance of national highways.]"
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Administration of States\u2019 share of the Fund.",
+                    "paragraphs": {
+                        "0": "7[(1) The share of the Fund to be spent on development and maintenance of roads shall be allocated in such manner as may be decided by the Committee referred to in section 7A].",
+                        "1": "(2) The portion of the Fund allocated for expenditure in the various States and Union territories shall be retained by the Central Government until it is actually required for expenditure.",
+                        "2": {
+                            "text": "(3) If in the opinion of the Central Government, the Government of any State or the administration of any Union territory has at any time\u2014",
+                            "contains": {
+                                "0": "(a) failed to take such steps as the Central Government may recommend for the regulation and control of motor vehicles within the State or the Union territory; or",
+                                "1": "(b) delayed without reasonable cause the application of any portion of the Fund allocated or re- allocated, as the case may be, for expenditure within the State or Union territory,"
+                            }
+                        },
+                        "3": {
+                            "text": "the Central Government may resume the whole or part of any sums which it may have at that time held for expenditure in that State or the Union territory.",
+                            "contains": {
+                                "0": "(4) All sums resumed by the Central Government from the account of any State Government or Union territory administration as aforesaid shall be re-allocated between the credit accounts of the defaulting and other State Governments and Union territory administrations in the ratio of the main allocation for the financial year preceding the year in which the re-allocation is made.",
+                                "1": "(5) The balance to the credit of the Fund in respect of any allocation shall not lapse at the end of the financial year."
+                            }
+                        }
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing powers, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) specify 1[the type of projects] in respect of which the funds may be disbursed under section 7;",
+                                "1": "(b) the manner in which the accounts shall be maintained and the annual statement of accounts may be prepared including the profit and loss account and the balance-sheet under sub-section (1) of section 8;",
+                                "2": "(c) the manner in which the schemes for development and maintenance of State roads of inter-State and economic importance are to be formulated and sanctioned 2***;",
+                                "3": "(d) any other matter for which rule is to be made, or may be, prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Rules made under this Act to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Provisions relating to existing Central Road and Infrastructure Fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "With effect from the appointed day the Central Road Fund governed by the Parliamentary Resolution dated the 13th May, 1988 (hereafter referred to in this section as the existing Fund) shall be deemed to be the Fund established under this Act and,\u2014",
+                            "contains": {
+                                "0": "(a) all schemes relating to development and maintenance of national 4[highways, State roads and other infrastructure] sanctioned under the existing Fund in so far as such schemes are relatable to the schemes under this Act, shall be deemed to be the schemes sanctioned under this Act;",
+                                "1": "(b) all funds accrued under the existing Fund including assets and liabilities shall be transferred to the Fund established under this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Repeal and saving.",
+                    "paragraphs": {
+                        "0": "(1) The Central Road Fund Ordinance, 2000 (Ord. 5 of 2000) is hereby repealed.",
+                        "1": "(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE I": {
+            "0": {
+                "text": "1[THE SCHEDULE I]",
+                "contains": {
+                    "0": "(See section 3)"
+                }
+            },
+            "1": {
+                "text": "Sl. No Name of item 2****",
+                "contains": {
+                    "0": {
+                        "text": "(1) (2) ***",
+                        "contains": {
+                            "0": "1. Motor spirit commonly known as petrol ***",
+                            "1": "2. High speed diesel oil ***"
+                        }
+                    }
+                }
+            }
+        },
+        "THE SCHEDULE II": {
+            "0": "1[SCHEDULE II",
+            "1": "[See section 7 (1)]",
+            "2": "Category of projects and Infrastructure Sub-Sectors",
+            "3": {
+                "text": "Sl. No. Category Infrastructure Sub-Sectors",
+                "contains": {
+                    "0": "(a) Road and bridges; 1. Transport (b) Ports (including Capital Dredging);",
+                    "1": "(c) Shipyards (including a floating or land-based facility with the essential features of waterfront, turning basin, berthing and docking facility, slipways or ship lifts, and which is self- sufficient for carrying on shipbuilding/repair/breaking activities);",
+                    "2": "(d) Inland Waterways;",
+                    "3": "(e) Airports;",
+                    "4": "(f) Railway Track, tunnels, viaducts, bridges, terminal infrastructure including stations and adjoining commercial infrastructure;",
+                    "5": "(g) Urban Public Transport (except rolling stock in case of urban road transport).",
+                    "6": "(a) Electricity Generation; Energy 2. (b) Electricity Transmission;",
+                    "7": "(c) Electricity Distribution;",
+                    "8": "(d) Oil pipelines;",
+                    "9": "(e) Oil / Gas / Liquefied Natural Gas (LNG) storage facility (including strategic storage of crude oil);",
+                    "10": "(f) Gas pipelines (including city gas distribution network).",
+                    "11": {
+                        "text": "Water and Sanitation 3. (a) Solid Waste Management;",
+                        "contains": {
+                            "0": "(b) Water supply pipelines;",
+                            "1": "(c) Water treatment plants;",
+                            "2": "(d) Sewage collection, treatment and disposal system;",
+                            "3": "(e) Irrigation (dams, channels, embankments, etc.);",
+                            "4": "(f) Storm Water Drainage System;",
+                            "5": "(g) Slurry pipelines."
+                        }
+                    }
+                }
+            },
+            "4": "Sl. No. Category Infrastructure Sub-Sectors",
+            "5": {
+                "text": "4. Communication (a) Telecommunication (Fixed network including optic fibre/ wire/cable networks which provide broadband/internet);",
+                "contains": {
+                    "0": "(b) Telecommunication towers; (c) Telecommunications and Telecom Services. (a) Education Institutions (capital 5. Social and Commercial Infra stock);",
+                    "1": "(b) Sports and Infrastructure (including provision of Sports Stadia and Infrastructure for Academies for Training/Research in Sports and Sports-related activities);",
+                    "2": {
+                        "text": "(c) Hospitals (capital stock including Medical Colleges, Para Medical Training Institutes and Diagnostic Centers); (d) Tourism Infrastructure\u2014 (i) three-star or higher",
+                        "contains": {
+                            "0": "category classified hotels",
+                            "1": "located outside cities with",
+                            "2": "population of more than one",
+                            "3": "million;",
+                            "4": "(ii) ropeways and cable cars; (e) Common infrastructure for industrial parks and other parks with industrial activity such as food parks, textile parks, special economic zones, tourism facilities and agriculture markets; (f) Post-harvest storage infrastructure for agriculture and horticulture produce including cold storage; (g) Terminal markets; (h) Soil-testing laboratories; (i) Cold chain (including cold room facility for farm level pre- cooling, for preservation or storage of agriculture and allied produce, marine products and meat); (j) Affordable Housing (including a housing project using at least 50% of the Floor Area Ratio (FAR)/Floor Space Index (FSI) for dwelling units with carpet area of not more than 60 square meters. Explanation.\u2014 For the purposes of the item (j), the term \u201ccarpet area\u201d shall have the meaning assigned to it in clause (k) of section 2 of the Real Estate (Regulation and Development) Act, 2016 (16 of 2016)."
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. Subs. by Act 13 of 2018, s. 206, for long title (w.e.f. 1-4-2018).",
+            "1": "2. Subs. by s. 206, ibid., for \u201cCentral Road\u201d (w.e.f. 1-4-2018).",
+            "2": "3. Subs. by s. 206, ibid., for \u201cRoad Fund\u201d  (w.e.f. 1-4-2018).",
+            "3": "4.  Clause (e) omitted by s. 206, ibid, (w.e.f. 1-4-2018).",
+            "4": "5. Subs. by s. 206, ibid., for Heading (w.e.f. 1-4-2018).",
+            "5": "6. Subs. by s. 206, ibid., for \u201cSchedule\u201d (w.e.f. 1-4-2018)."
+        },
+        "Page 3": {
+            "0": "1. Omitted by Act 13 of 2018, s. 206, for \u201cnot exceeding the rate set forth in the corresponding entry in column (3) of theSchedule\u201d (w.e.f. 1-4-2018).",
+            "1": "2. The first proviso omitted by s. 206, ibid (w.e.f. 1-4-2018).",
+            "2": "3. Subs. by s. 206, ibid, for the second proviso (w.e.f. 1-4-2018).",
+            "3": "4. Subs. by s. 206, ibid, for \u201cRoad Fund\u201d (w.e.f. 1-4-2018)."
+        },
+        "Page 4": {
+            "0": "1. Section 7 renumbered as sub-section (1) thereof by Act 13 of 2018, s. 206 (w.e.f. 1-4-2018).",
+            "1": "2. Subs. by s. 206, ibid., for clauses (iv) and (v) (w.e.f. 1-4-2018).",
+            "2": "3. Ins. by s. 206, ibid (w.e.f.1-4-2018).",
+            "3": "4. Subs. by s. 206, ibid., for heading \u201cMANAGEMENT OF CENTRAL ROAD FUND\u201d (w.e.f. 1-4-2018).",
+            "4": "5. Subs. by s. 206, ibid, for section 9 (w.e.f. 1-4-2018)."
+        },
+        "Page 5": {
+            "0": "1. Section 10 numbered as sub-section (1) thereof by 18 of 2005, s. 121 (w.e.f. 13-5-2005).",
+            "1": "2. Subs. by Act 13 of 2018, s. 206, for \u201cnational highways\u201d (w.e.f. 1-4-2018).",
+            "2": "3. Clause (iii) omitted by s. 206, ibid. (w.e.f. 1-4-2018).",
+            "3": "4. Subs. by s. 206, ibid., for clause (v) and (vi) (w.e.f. 1-4-2018).",
+            "4": "5. Clause (viii) omitted by s. 206, ibid. (w.e.f. 1-4-2018).",
+            "5": "6. Ins. by Act 18 of 2005, s. 121 (w. e. f. 13-5-2005).",
+            "6": "7. Subs. by Act 13 of 2018, s. 206, for sub-section (1) (w.e.f. 1-4-2018)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 13 of 2018, s. 206 for \u201cthe projects\u201d (w.e.f. 1-4-2018)",
+            "1": "2. The words and figures \u201cunder section 10\u201d omitted by s. 206, ibid. (w.e.f. 1-4-2018).",
+            "2": "3. Subs. by Act 13 of 2018, s. 206, for \u201croad Fund\u201d (w.e.f. 1-4-2018).",
+            "3": "4. Subs. by s. 206, ibid, for \u201chighways and State roads\u201d (w.e.f. 1-4-2018)."
+        },
+        "Page 7": {
+            "0": "1. The Schedule numbered as Schedule I thereof by Act 13 of 2018, s. 206 (w.e.f. 1-4-2018).",
+            "1": "2. Colum (3) omitted by s. 206, ibid. (w.e.f. 1-4-2018)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 13 of 2018, s. 206 (w.e.f. 1-4-2018)."
+        }
+    }
+}

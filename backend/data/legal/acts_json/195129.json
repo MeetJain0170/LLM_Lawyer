@@ -1,0 +1,733 @@
+{
+    "Act Title": "THE VISVA-BHARATI ACT, 1951",
+    "Act ID": "ACT NO. 29 OF 1951",
+    "Enactment Date": "[9th May, 1951.]",
+    "Act Definition": {
+        "0": "An Act to declare the institution known as \u201cVisva-Bharati\u201d to be an institution of national importance and to provide for its functioning as a unitary teaching and residential university."
+    },
+    "Chapters": {
+        "0": {
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Visva-Bharati Act, 1951.",
+                        "1": "(2) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Declaration of Visva-Bharati as an institution of national importance.",
+                    "paragraphs": {
+                        "0": "Whereas the late Rabindranath Tagore (Thakur) founded an institution known as Visva-Bharati at Santiniketan in the district of Birbhum in West Bengal the objects of which are such as to make the institution one of national importance, it is hereby declared that the institution known as \u201cVisva-Bharati\u201d aforesaid is an institution of national importance 2[and is as such hereby constituted as a University]."
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, and in all Statutes made hereunder, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cacademic staff\u201d means such categories of staff as are designated as academic staff by the statutes;",
+                                "1": "(b) \u201cAcharya (Chancellor)\u201d and \u201cUpacharya (Vice- Chancellor)\u201d mean, respectively, the Acharya (Chancellor) and the Upacharya (Vice-Chancellor) of the University;",
+                                "2": "(c) \u201cadhyapaka\u201d includes a Professor, Reader, Lecturer and any other person engaged in imparting instruction in relation to any learning process and designated as an adhyapaka by the Ordinances;",
+                                "3": "(d) \u201cAlumni Association\u201d means the Association of the Alumni of the University, constituted under the provisions of this Act and the Statutes;",
+                                "4": "(e) \u201capproved institution\u201d means an institution (not being an institution maintained by the University) of higher learning or studies approved by the University;",
+                                "5": "(f) \u201cBhavana\u201d means an academic institution maintained by the University and named as such;",
+                                "6": "(g) \u201ccampus\u201d means a unit established or constituted by the University for imparting instruction or supervising research, or both;",
+                                "7": "(h) \u201cChatravaso\u201d means a unit of residence, or of corporate life, for the students of the University provided, maintained or recognised by the University;",
+                                "8": "(i) \u201cDepartment\u201d means a Department of Studies and includes a centre of studies established by, or under, the Statutes;",
+                                "9": "(j) \u201cemployee of the University\u201d means any person appointed by the University or any Institution, and includes an employee of a Bhavana;",
+                                "10": "(k) \u201cInstitute Board\u201d means a Board constituted by the University for the management of an Institute;",
+                                "11": "(l) \u201cInstitution\u201d means an institution maintained by the University;",
+                                "12": "(m) \u201cKarma-Samiti (Executive Council)\u201d means the Karma-Samiti (Executive Council) of the University;",
+                                "13": "(n) \u201cPatha-Samiti (Board of Studies)\u201d means a Board constituted by the University for the regulation of studies;",
+                                "14": "(o) \u201cprescribed\u201d means prescribed by the Statutes, Ordinances or Regulations;",
+                                "15": "(p) \u201cSamsad (Court)\u201d means the Samsad (Court) of the University;",
+                                "16": "(q) \u201cSiksha-Samiti (Academic Council)\u201d means the Siksha-Samiti (Academic council) of the University;",
+                                "17": "(r) \u201cStatutes\u201d, \u201cOrdinances\u201d and \u201cRegulations\u201d mean, respectively, such Statutes, Ordinances and Regulations of the University as are for the time being in force;",
+                                "18": "(s) \u201cUniversity\u201d means the institution known as Visva- Bharati and incorporated as a University under this Act.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "Name": "THE UNIVERSITY",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Incorporation.",
+                    "paragraphs": {
+                        "0": "The first Acharya (Chancellor) and Upacharya (Vice-Chancellor) of the University who shall be the persons appointed in this behalf by the Central Government by notification in the Official Gazette, and the first members of the Samsad (Court) and all persons, who may hereafter become or be appointed as such officers or members, so long as they continue to hold such office or membership, are hereby constituted a body corporate 1[as a unitary, teaching and residential University] by the name of Visva-Bharati, and shall have perpetual succession and a common seal, and shall sue and be sued by that name."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Effect of incorporation of the University in certain cases.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "On and from the commencement of this Act,\u2014",
+                            "contains": {
+                                "0": "(i) all references in any enactment to the Society of the name of Visva-Bharati registered on the 16th May, 1922, under the Societies Registration Act, 1860 (21 of 1860), shall be construed as references to the University;",
+                                "1": "2[(ii) all property, assets, rights and liabilities of the said Society shall be the property, assets, rights and liabilities of the University and any will, deed or other document, whether made or executed before or after the commencement of this Act, which contains or purports to contain any bequest, gift, trust, payment of money or transfer or assignment of any right or property, movable or immovable, in favour of the said Society shall be construed as if the University was therein named instead of the said Society;]",
+                                "2": "(iii) subject to the provisions of this Act, every person employed immediately before the commencement of this Act in the said Society shall hold employment in the University by the same tenure and upon the same terms and conditions and with the same rights and privileges as to pension and gratuity as he would have held under the said Society, if this Act had not been passed:"
+                            }
+                        },
+                        "1": "Provided that if the University decides to alter the terms and conditions of service of any such employee, a fresh contract shall be executed for the purpose, and if the employee is not agreeable to serve under the new terms and conditions, his services may be terminated in accordance with his original contract of employment or, if no provision is made therein in this behalf, on payment to him by way of compensation of an amount equal to his salary for six months."
+                    }
+                },
+                "Section 5A.": {
+                    "heading": "The objects of the University.",
+                    "paragraphs": {
+                        "0": "(1) The objects of the University shall be to disseminate and advance knowledge and understanding by providing instructional, extension and research facilities and by the example and influence of its corporate life, and the University shall, in organising its activities, have due regard to the following objects for which the Visva-Bharati at Santiniketan was founded by Rabindranath Tagore, as expressed in his own words, namely:\u2014",
+                        "1": {
+                            "text": "(i) to study the mind of Man in its realisation of different aspects of truth from diverse points of view;",
+                            "contains": {
+                                "0": "(ii) to bring into more intimate relations with one another, through patient study and research, the different cultures of the East on the basis of their underlying unity;",
+                                "1": "(iii) to approach the West from the standpoint of such a unity of the life and thought of Asia;",
+                                "2": "(iv) to seek to realise in a common fellowship of study the meeting of the East and the West, and thus ultimately to strengthen the fundamental conditions of world peace through the establishment of free communication of ideas between the two hemispheres; and",
+                                "3": "(v) with such ideals in view to provide at Santiniketan aforesaid a Centre of Culture where research into and study of the religion, literature, history, science and art of Hindu, Buddhist, Jain, Islamic, Sikh, Christian and other civilisations may be pursued along with the culture of the West, with that simplicity in externals which is necessary for true spiritual realisation in amity, good fellowship and co-operation between the thinkers and scholars of both Eastern and Western countries, free from all antagonisms of race, nationality, creed or caste and in the name of the One Supreme Being who is Shantam, Shivam, Advaitam."
+                            }
+                        },
+                        "2": "(2) The objects of the University shall also include harmonising the cultures of India, the East and the West by, among other things, the admission of students and appointment of adhyapakas from various regions of India and various countries of the world, and by providing incentives therefor."
+                    }
+                },
+                "Section 5B.": {
+                    "heading": "Principles to be followed in organising activities of the University.",
+                    "paragraphs": {
+                        "0": "The University shall, in organising its activities and the implementation of its academic programmes, have due regard to the pattern of education envisaged by Rabindranath Tagore in his writings.]"
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Powers of the University.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The University shall have the following powers, namely:\u2014",
+                            "contains": {
+                                "0": "(1) to provide facilities for studies, instruction, socially useful productive work and community service and research in such branches of learning as may be deemed desirable and found practicable by the University and for the promotion of understanding of cultures between the East and the West and for the advancement of learning and dissemination of knowledge generally;",
+                                "1": "(2) to undertake educational experiments and evolve contents, systems and methods of education for the furtherance of the objects of the University;",
+                                "2": "(3) to make provision for research and advisory services; and for that purpose, to enter into such arrangements with other institutions or bodies as the University may deem necessary;",
+                                "3": "(4) to co-operate, collaborate or associate with any other University, authority or institution of learning in such manner and for such purposes as the University may determine;",
+                                "4": "(5) to approve any institution of higher learning or studies for such purposes as the University may determine, and to withdraw such approval;",
+                                "5": "(6) to establish and maintain such Bhavanas, Schools of Studies and Research, Chatravasas, Gymnasia and such other institutions as are deemed necessary, from time to time, for the development of a healthy corporate life in the University and to abolish any such Bhavana, School, Chatravasa, Gymnasium or other institution;",
+                                "6": "(7) to establish, at any place in India, campuses, special centres, specialised laboratories or other units for research and instruction as are, in the opinion of the University, necessary for the furtherance of its objects;",
+                                "7": "(8) to organise the application of class room, library and laboratory learning to problems of the villages as part of the curriculum;",
+                                "8": "(9) to undertake the promotion of adult education, rural re-construction, co-operative organisations, social welfare, development of cottage industries and all other nation-building activities and works for the benefit of the public;",
+                                "9": "(10) to establish such examination centres and to recognise such certificates as may be necessary to give effect to the provisions of section 7A;",
+                                "10": "(11) to grant, subject to such conditions as the University may determine, diplomas or certificates to, and confer degrees or other academic distinctions (on the basis of examinations, evaluation or other modes of testing) on, persons;",
+                                "11": "(12) to confer honorary degrees or other distinctions in the manner prescribed by the Statutes;",
+                                "12": "(13) to determine the standards for admission and the methods of admission to courses of the University, which methods shall include examinations, evaluation and other modes of testing;",
+                                "13": "(14) to supervise the residences of students of the University and to make arrangements for promoting their health and general welfare;",
+                                "14": "(15) to make such special arrangements in respect of women students as the University may consider desirable;",
+                                "15": "(16) to regulate the conduct of students of the University, and to take such disciplinary measures in this regard as may be deemed necessary;",
+                                "16": "(17) to create such teaching and other academic posts as may be required by the University and to appoint persons to such posts;",
+                                "17": "(18) to appoint Visiting Professors, Emeritus Professors, Fellows, Scholars, Resident Artists, Resident Writers or such other persons who may contribute to the achievement of the objects of the University;",
+                                "18": "(19) to appoint or recognise persons as Professors, Readers or Lecturers or otherwise as adhyapakas of the University;",
+                                "19": {
+                                    "text": "(20) to approve persons working in\u2014",
+                                    "contains": {
+                                        "0": "(a) any institution co-operating, collaborating or associating with the University; or",
+                                        "1": "(b) any approved institution,"
+                                    }
+                                },
+                                "20": "for imparting instruction or supervising research, or both, and to withdraw such approval;",
+                                "21": "(21) to undertake publication of literary, scientific, educational and scholarly works and books on art, aesthetics and other subjects aimed at better understanding of the different cultures of the world and furthering thereby the objectives of the University;",
+                                "22": "(22) to appoint persons working in any other University, institution or organisation as adhyapakas of the University for a specified period;",
+                                "23": "(23) to create administrative, ministerial and other posts in the University and to make appointments thereto;",
+                                "24": "(24) to provide for the terms and conditions of service of employees, whether employed by the University or any institution;",
+                                "25": "(25) to regulate the conduct and duties of the employees of the University;",
+                                "26": "(26) to regulate and enforce discipline among the employees of the University and to take such disciplinary measures in this regard as may be deemed necessary;",
+                                "27": "(27) to make arrangements for promoting the health and general welfare of the employees of the University;",
+                                "28": "(28) to demand and receive payment of fees and other charges;",
+                                "29": "(29) to institute and award fellowships, scholarships, studentships, medals and prizes;",
+                                "30": "(30) to receive benefactions, donations and gifts, and to acquire, hold, manage and dispose of any property, movable or immovable, including trust and endowment properties, for the purposes of the University;",
+                                "31": "(31) to borrow, with the approval of the Central Government, whether on the security of the property of the University or otherwise, money for the purposes of the University;",
+                                "32": "(32) to establish campuses within the territorial limits of the University specified in the Second Schedule;",
+                                "33": "(33) to admit students of any other University or College whether in India or outside to any examination of the University subject to such conditions as the University may lay down for the purpose;",
+                                "34": "(34) to do all such acts and things as may be necessary or incidental to the exercise of all or any of the powers of the University or as are necessary or conducive to the attainment of all or any of the objects of the University.]"
+                            }
+                        }
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Territorial jurisdiction of the University.",
+                    "paragraphs": {
+                        "0": "Save as otherwise provided in this Act, the powers of the University conferred by or under this Act shall be restricted to the area specified in the Second Schedule."
+                    }
+                },
+                "Section 7A.": {
+                    "heading": "Maintenance of examination centres outside territorial limits.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in section 7, the University may establish and maintain, at any place in India examination centres for home study courses conducted by its Loka Shiksha Samsad (People\u2019s Education Council) and recognise, for such purposes as may be provided in the Ordinances, the certificates awarded by the said Loka Shiksha Samsad (People's Education Council) on the results of examinations conducted by it.]"
+                    }
+                },
+                "Section 8.": {
+                    "heading": "University to be open to all races, creeds and classes.",
+                    "paragraphs": {
+                        "0": "The University shall be open to all persons irrespective of sex, nationality, race, creed, caste or class, and no test or condition shall be imposed as to religious belief or profession in admitting or appointing members, students, 2[adhyapakas], workers, or in any other connection whatsoever, except in respect of any particular benefaction accepted by the University of which such test is made a condition by the instrument creating such benefaction:",
+                        "1": "Provided that no benefaction shall hereafter be accepted which in the opinion of the authorities of the University involves conditions or obligations opposed to the spirit and object of this section:",
+                        "2": "Provided further that nothing in this section shall be deemed to prevent religious instruction being given in any manner approved of by the authorities concerned to those who have given their consent thereto by 2[adhyapakas] duly and properly authorised for that purpose."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Teaching at the University.",
+                    "paragraphs": {
+                        "0": "All teaching in the University shall be conducted by and in the name of the University in accordance with the Statutes and Ordinances made in this behalf."
+                    }
+                }
+            }
+        },
+        "2": {
+            "Name": "THE PARIDARSAKA (VISITOR)",
+            "Sections": {
+                "Section 10.": {
+                    "heading": "The Paridarsaka (Visitor).",
+                    "paragraphs": {
+                        "0": "(1) The President of India shall be the Paridarsaka (Visitor) of the University.",
+                        "1": "(2) Subject to the provisions of sub-sections (3) and (4), the Paridarsaka (Visitor) shall have the right to cause an inspection to be made, by such person or persons as he may specify, of the University, its buildings, laboratories and equipment, and of any Bhavana or other Institution, and also of the examinations, teaching and other work conducted or done by the University, Bhavana or other Institution; and to cause an inquiry to be made in like manner in respect of any matter connected with the administration or finances of the University.",
+                        "2": "(3) The Paridarsaka (Visitor) shall give notice to the University of his intention to cause an inspection or inquiry to be made and the University shall, on receipt of such notice, have the right to make, within thirty days or such other period as the Paridarsaka (Visitor) may determine, from the date of receipt of the notice, such representations to the Paridarsaka (Visitor) as it may consider necessary.",
+                        "3": "(4) After considering the representations, if any, made by the University, the Paridarsaka (Visitor) may cause to be made such inspection or inquiry as is referred to in sub-section (2).",
+                        "4": "(5) Where any inspection or inquiry has been caused to be made by the Paridarsaka (Visitor), the University shall be entitled to appoint a representative who shall have the right to be present and to be heard at such inspection or inquiry.",
+                        "5": "(6) The Paridarsaka (Visitor) may address the Upacharya (Vice-Chancellor) with reference to the results of such inspection or inquiry together with such views and advice with regard to the action to be taken thereon as the Paridarsaka (Visitor) may be pleased to offer, and on receipt of the address made by the Paridarsaka (Visitor), the Upacharya (Vice-Chancellor) shall communicate forthwith to the Karma- Samiti (Executive Council) the results of the inspection or inquiry and the views of the Paridarsaka (Visitor) and the advice tendered by him upon the action to be taken thereon.",
+                        "6": "(7) The Karma-Samiti (Executive Council) shall communicate through the Upacharya (Vice- Chancellor) to the Paridarsaka (Visitor) such action, if any, as it proposes to take or has been taken by it upon the results of such inspection or inquiry.",
+                        "7": "(8) Where the Karma-Samiti (Executive Council) does not, within a reasonable time, take action to the satisfaction of the Paridarsaka (Visitor), the Paridarsaka (Visitor) may, after considering any explanation furnished or representation made by the Karma-Samiti (Executive Council), issue such directions as he may think fit and Karma-Samiti (Executive Council) shall be bound to comply with such directions.",
+                        "8": "(9) Without prejudice to the foregoing provisions of this section, the Paridarsaka (Visitor may, be order in writing, annual any proceeding of the University which is not in conformity with this Act, the Statutes or the Ordinances:",
+                        "9": "Provided that before making any such order he shall call upon the University to show cause why such an order should not be made and, if any cause is shown within a reasonable time, he shall consider the same.",
+                        "10": "(10) The Paridarsaka (Visitor) shall have such other powers as may be specified in the Statutes.]"
+                    }
+                }
+            }
+        },
+        "3": {
+            "Name": "THE PRADHANA (RECTOR)",
+            "Sections": {
+                "Section 11.": {
+                    "heading": "The Pradhana (Rector).",
+                    "paragraphs": {
+                        "0": "The Government of West Bengal shall be the Pradhana (Rector) of the University."
+                    }
+                }
+            }
+        },
+        "4": {
+            "Name": "OFFICERS OF THE UNIVERSITY",
+            "Sections": {
+                "Section 12.": {
+                    "heading": "Officers of the University.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The following shall be the officers of the University, namely:\u2014",
+                            "contains": {
+                                "0": "(1) The Acharya (Chancellor);",
+                                "1": "(2) The Upacharya (Vice-Chancellor);",
+                                "2": "(3) The Director of Studies, Educational Innovations and Rural Reconstruction;",
+                                "3": "(4) The Director of Culture and Cultural Relations;",
+                                "4": "(5) The Director of Physical Education, Sports, National Service and Student Welfare;",
+                                "5": "(6) The Karma-Sachiva (Registrar);",
+                                "6": "(7) The Vitta-Adhikari (Finance Officer);",
+                                "7": "(8) Adhyakshas of Bhavanas; and",
+                                "8": "(9) such other officers as may be declared by the Statutes to be officers of the University.]"
+                            }
+                        }
+                    }
+                },
+                "Section 13.": {
+                    "heading": "The Acharya (Chancellor).",
+                    "paragraphs": {
+                        "0": "1[(1) The Acharya (Chancellor) shall, by virtue of his office, be the Head of the University.",
+                        "1": "(2) The Acharya (Chancellor) shall be appointed by the Paridarsaka (Visitor) from out of a panel of persons prepared and recommended by the Karma-Samiti (Executive Council) under sub-section (2A).",
+                        "2": "(2A) The Karma-Samiti (Executive Council) shall prepare and recommend a panel of not less than three persons each of whom shall be a person of eminence in the academic or public life of the country, and is in the opinion of the Karma-Samiti (Executive Council) a fit and proper person to be appointed as the Acharya (Chancellor) of the University:",
+                        "3": "Provided that if the Paridarsaka (Visitor) does not approve of any of the persons specified in the panel prepared and recommended by the Karma-Samiti (Executive Council), he may call upon the Karma-Samiti (Executive Council) to prepare a fresh panel of persons.",
+                        "4": "(2B) The Acharya (Chancellor) shall hold office for a term of three years and shall be eligible for re-appointment:",
+                        "5": "Provided that the Acharya (Chancellor) shall, notwithstanding the expiry of the term of his office, continue to hold such office until his successor is appointed and has entered upon his office.]",
+                        "6": "(3) The Acharya (Chancellor), shall, if present, preside at the Convocation of the University and at meetings of the Samsad (Court) 2[and the Karma Samiti (Executive Council)].",
+                        "7": "(4) Every proposal for the conferment of an honorary degree shall be subject to the confirmation of the Acharya (Chancellor).",
+                        "8": "(5) The Acharya (Chancellor) shall have such other powers as may be conferred on him by this Act or the Statutes."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "The Upacharya (Vice-Chancellor).",
+                    "paragraphs": {
+                        "0": "(1) The Upacharya (Vice- Chancellor) shall be appointed by the Paridarsaka (Visitor) in such manner, for such term and on such emoluments and other conditions of service as may be prescribed by the Statutes.",
+                        "1": "(2) The Upacharya (Vice-Chancellor) shall be the principal executive and academic officer of the University, and shall exercise general supervision and control over the academic affairs of the University and all Bhavanas and other Institutions and give effect to the decisions of all the authorities of the University.",
+                        "2": "(3) The Upacharya (Vice-Chancellor) may, if he is of opinion that immediate action is necessary on any matter, exercise any power conferred on any authority of the University by or under this Act and shall report to such authority the action taken by him on such matter:",
+                        "3": "Provided that if the authority concerned is of opinion that such action ought not to have been taken, it may refer the matter to the Paridarsaka (Visitor) whose decision thereon shall be final:",
+                        "4": "Provided further that an employee of the University, who is aggrieved by the action taken by the Upacharya (Vice-Chancellor) under this sub-section, shall have the right to appeal against such action to the Karma-Samiti (Executive Council) within ninety days from the date on which such action is communicated to him and thereupon the Karma-Samiti (Executive Council) may confirm, modify or reverse the action taken by the Upacharya (Vice-Chancellor).",
+                        "5": "(4) The Upacharya (Vice-Chancellor) shall exercise such other powers and perform such other functions as may be prescribed by the Statutes and the Ordinances.]"
+                    }
+                },
+                "Section 15.": {
+                    "heading": "[Omitted.]",
+                    "paragraphs": {
+                        "0": "[The Arthasachiva (Treasurer).]\u2014Omitted by the Visva-Bharati (Amendment) Act, 1984 (31 of 1984), s. 10 (w.e.f. 8-8-1984)."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "The Karma-Sachiva (Registrar).",
+                    "paragraphs": {
+                        "0": "(1) The Karma-Sachiva (Registrar) shall be appointed in such manner, and on such emoluments and other conditions of service, as may be prescribed by the statutes and the Ordinances.",
+                        "1": "(2) The Karma-Sachiva (Registrar) shall have the power to enter into agreements, sign documents and authenticate records on behalf of the University and shall exercise such other powers and perform such other functions as may be prescribed by the Statutes."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Other officers.",
+                    "paragraphs": {
+                        "0": "(1) All officers of the University, other than the Acharya (Chancellor), the Upacharya (Vice-Chancellor) and the Karma-Sachiva (Registrar), shall be appointed in such manner, for such term and on such emoluments and other conditions of service as may be prescribed by the Statutes.",
+                        "1": "(2) The powers and functions of the officers appointed under sub-section (1) shall be such as may be prescribed by the Statutes.]"
+                    }
+                }
+            }
+        },
+        "5": {
+            "Name": "AUTHORITIES OF THE UNIVERSITY",
+            "Sections": {
+                "Section 18.": {
+                    "heading": "Authorities of the University.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The following shall be authorities of the University:\u2014",
+                            "contains": {
+                                "0": "(1) the Samsad (Court);",
+                                "1": "(2) the Karma-Samiti (Executive Council);",
+                                "2": "(3) the Shiksha Samiti (Academic Council); 2***",
+                                "3": "3[(4) The Artha-Samiti (Finance Committee);",
+                                "4": "(5) The Institute Board; and]",
+                                "5": "4[(6)] such other authorities as may be declared by the Statutes to be authorities of the University."
+                            }
+                        }
+                    }
+                },
+                "Section 19.": {
+                    "heading": "The Samsad (Court).",
+                    "paragraphs": {
+                        "0": "(1) The constitution of the Samsad (Court) and the term or office of its members shall be such as may be prescribed by the Statutes.",
+                        "1": {
+                            "text": "(2) Subject to the other provisions of this Act, the Samsad (Court) shall have the following powers and functions, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to review, from time to time, the broad policies and programmes of the University, including the maintenance of standards and adherence to the objectives of the University and to suggest measures for the development and improvement of the University which shall be considered by the appropriate authorities of the University;",
+                                "1": "(b) to consider and pass resolutions on the annual report and annual accounts of the University and the report of its auditors on such accounts;",
+                                "2": "(c) to advice the Paridarsaka (Visitor) in respect of any matter which may be referred to it for advice; and",
+                                "3": "(d) to exercise such other powers and perform such other functions as may be prescribed by the Statutes.]"
+                            }
+                        }
+                    }
+                },
+                "Section 22.": {
+                    "heading": "The Karma-Samiti (Executive Council).",
+                    "paragraphs": {
+                        "0": "(1) The Karma-Samiti (Executive Council) shall be the principal executive body of the University.",
+                        "1": "(2) The constitution of the Karma-Samiti (Executive Council) and the term of office of its members shall be such as may be prescribed by the Statutes.",
+                        "2": {
+                            "text": "(3) The Karma-Samiti (Executive Council) shall exercise the following powers and perform the following functions, namely:\u2014",
+                            "contains": {
+                                "0": "(a) to manage and administer the revenue and property of the University and to conduct all administrative affairs of the University not otherwise provided for in this act or the Statutes;",
+                                "1": "(b) to create teaching and academic posts and to define the duties and conditions of service of Professor, Readers, Lecturers and other adhyapakas and academic staff employed by the University:",
+                                "2": "Provided that before determining the number, qualifications and emoluments of adhyapakas and other academic staff, the Karma-Samiti (Executive Council) shall consider the recommendations of the Siksha-Samiti (Academic Council);",
+                                "3": "(c) to appoint such Professors, readers, Lecturers and other adhyapakas and academic staff as may be necessary on the recommendation of the Selection Committees constituted for the purpose and to fill up temporary vacancies therein;",
+                                "4": "(d) to provide for the appointment of Visiting Professors, Emeritus Professors, Fellows, Scholars, Resident Artists and Resident Writers and to determine the terms and conditions of such appointment;",
+                                "5": "(e) to manage and regulate the finances, accounts, investments, property, business and all other administrative affairs of the University, and for that purpose, to appoint such agents as it may think fit;",
+                                "6": "(f) to invest any money belonging to the University, including any unapplied income, in such stocks, funds, shares or securities as it thinks fit, or in the purchase of immovable property in India;",
+                                "7": "(g) to exercise such other powers and perform such other functions as may be conferred or specified by this Act or the Statutes.]"
+                            }
+                        }
+                    }
+                },
+                "Section 24.": {
+                    "heading": "The Siksha-Samiti (Academic Council).",
+                    "paragraphs": {
+                        "0": "(1) The Siksha-Samiti (Academic Council) shall be 1[the principal academic body] of the University, and shall, subject to the provisions of this Act, the Statutes and the Ordinances, have the control and general regulation, and be responsible for the maintenance of standards of 2[learning, education, instruction, evaluation and examination] within the University, and shall exercise such other powers and perform such other duties as may be conferred or imposed upon it by the Statutes and shall have the right to advise the Karma-Samiti (Executive Council) on all academic matters.",
+                        "1": "(2) The constitution of the Siksha-Samiti (Academic Council) and the terms of office of its members shall be prescribed by the Statutes."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Other authorities of the University.",
+                    "paragraphs": {
+                        "0": "The constitution, powers and functions of the Artha-Samiti (Finance Committee), the Institute Board and of such other authorities as may be declared by the Statutes to be authorities of the University shall be such as may be prescribed by the Statutes.]"
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Alumni Association.",
+                    "paragraphs": {
+                        "0": "The University shall have an Alumni Association open to past students and past workers of the University, including members of the Asramika Sangha of the former Visva- Bharati Society, on such conditions as may be laid down in the Statutes."
+                    }
+                }
+            }
+        },
+        "6": {
+            "Name": "STATUTES, ORDINANCES AND REGULATIONS",
+            "Sections": {
+                "Section 27.": {
+                    "heading": "Statutes.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the provisions of this Act, the Statutes may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the manner of appointment, of the Upacharya (Vice-Chancellor), the term of his appointments, emoluments and other conditions of his service;",
+                                "1": "(b) the powers that may be exercised and the functions that may be performed by the Upacharya (Vice-Chancellor);",
+                                "2": "(c) the manner of appointment of the Karma-Sachiva (Registrar), the emoluments and other conditions of his service and the powers that may be exercised and the functions that may be performed by him;",
+                                "3": "(d) the manner of appointment of all other officers, the terms of their appointment, emoluments and other conditions of their service and the powers and functions of such officers;",
+                                "4": "(e) the constitution of the Samsad (Court), the term of office of its members and its powers and functions;",
+                                "5": "(f) the constitution of the Karma-Samiti (Executive Council), the term of office of its members and its powers and functions;",
+                                "6": "(g) the constitution of other authorities or bodies of the University, the term of office of their members and their powers and functions;",
+                                "7": "(h) the election and continuance in office of the members the said authorities and bodies, the filling up of vacancies of members and all other matters relating to those authorities and other bodies for which it may be necessary or desirable to provide;",
+                                "8": "(i) the appointment of adhyapakas and other academic staff and other employees of the University and their emoluments and other conditions of service:"
+                            }
+                        },
+                        "1": "Provided that where any person who had held any post and is in receipt of a pension or other form of retirement benefits is appointed as an adhyapaka of the University or to any other academic post, the salary of such person together with the pension and other benefits shall not exceed the salary payable to him in accordance with the Statutes;",
+                        "2": "(j) the appointment of adhyapakas and other academic staff working in any other University, institution or organisation for a specified period for undertaking a joint project;",
+                        "3": "(k) the appointment of Visiting Professors, Emeritus Professors, Fellows, Scholars, Resident Artists and Resident Writers, and terms and conditions of such appointment;",
+                        "4": "(l) the constitution of a pension or provident fund or the establishment of an insurance scheme for the benefit of the employees of the University;",
+                        "5": "(m) the principles governing seniority of service of the employees of the University;",
+                        "6": "(n) the procedure in relation to any appeal or application for review by any employee or student of the University, against the action of any officer or authority of the University, including the time within which such appeal or application for review may be preferred or made;",
+                        "7": "(o) the procedure for the settlement of disputes between employees of the University, or students of the University, and the University;",
+                        "8": "(p) the conferment of honorary degrees;",
+                        "9": "(q) the institution of fellowships, scholarships, studentships, medals and prizes;",
+                        "10": "(r) the maintenance of discipline among the employees and students of the University;",
+                        "11": "(s) the establishment and abolition of Bhavanas, Departments, Chatravasas and other institutions and their management, supervision and inspection;",
+                        "12": "(t) the regulation of the conduct and duties of the employees of the University and the conduct of the students of the University;",
+                        "13": "(u) the establishment of campuses, special centres, specialised laboratories or other units for research and instruction;",
+                        "14": "(v) the administration and regulation of the funds received in trust or otherwise by the University;",
+                        "15": "(w) the delegation of powers vested in the officers or authorities of the University;",
+                        "16": "(x) the constitution and activities of the Alumni Association;",
+                        "17": "(y) the categories of misconduct for which any action may be taken under this Act, or the Statutes or the Ordinances; and",
+                        "18": "(z) all other matters which, by this Act, are to be, or may be, provided for by the Statutes.]"
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Statutes, how made.",
+                    "paragraphs": {
+                        "0": "1[(1) On the commencement of the Visva-Bharati (Amendment) Act, 1984 (31 of 1984), the Statutes in force immediately before such commencement, as amended by that Act, shall be the Statutes of the University.]",
+                        "1": "2[(2) The Statutes may be amended, repealed or added to by Statutes made by the Karma Samiti (Executive Council).",
+                        "2": "(3) The Karma-Samiti (Executive Council) shall not propose the draft of any Statute affecting the status, powers or constitution of any authority of the University until such authority has been given an opportunity of expressing the opinion upon the proposal and any opinion so expressed shall be in writing and shall be submitted to the Paridarsaka (Visitor).",
+                        "3": "(4) Every new Statute or addition to a Statute or any amendment or repeal of a Statute shall be submitted to the Paridarsaka (Visitor) who may assent to it or withhold his assent therefrom or remit it to the Karma-Samiti (Executive Council) for further consideration.",
+                        "4": "(5) A Statute passed by the Karma-Samiti (Executive Council) shall have no validity until it has been assented to by the Paridarsaka (Visitor).]"
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Matters to be provided for in the Ordinances.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the provisions of this Act and the Statutes, the Ordinances may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the admission of students to the University and their enrolment as such;",
+                                "1": "(b) the pattern of learning process, courses of study to be laid down for all degrees, diplomas and certificates of the University;",
+                                "2": "(c) the degrees, diplomas, certificates and other academic distinctions to be awarded by the University, the qualifications for the same and the means to be adopted relating to the granting and obtaining of the same;",
+                                "3": "(d) the purposes for which certificates awarded by the Lok Siksha-Samsad (People's Education Council) of the University may be recognised by the University;",
+                                "4": "(e) the fees to be charged for courses of study in the University and for admission to the examinations, and processes of evaluation, degrees, diplomas and certificates of the University;",
+                                "5": "(f) the conditions of the award of fellowships, scholarships, studentships, medals and prizes;",
+                                "6": "(g) the conduct of tests, evaluations and examinations, including the terms of office and manner of appointment and duties of examining bodies, examiners, moderators and persons entrusted with the responsibility of evaluation;",
+                                "7": "(h) the conditions of residence of the students of the University and the special arrangements, if any, for the residence of women students;",
+                                "8": "(i) the special arrangements, if any, which may be made for the discipline and teaching of women students, and prescribing for them special courses of study;",
+                                "9": "(j) the terms and conditions of service of the employees of the University other than those prescribed by the Statutes (including the emoluments of the non-teaching staff):",
+                                "10": "Provided that where any person who had held any post and is in receipt of a pension or other form of retirement benefits is appointed to a non-teaching post of the University, the salary of such person together with the pension and other benefits shall not exceed the salary payable to him in accordance with the Ordinances;",
+                                "11": "(k) the terms and conditions of approval of institutions of higher learning and its withdrawal;",
+                                "12": "(l) the manner of co-operation or collaboration or association with other Universities, authorities or institutions of learning;",
+                                "13": "(m) the terms and conditions on which persons working in an approved institution, or in any institution co-operating, collaborating or associating with the University, may be approved as adhyapakas and for withdrawing such approval;",
+                                "14": "(n) the educational experimentation and the creation, composition and functioning of any other body which is considered necessary for improving the academic life of the University; and",
+                                "15": "(o) all other matters which, by this Act or the Statutes, are to be, or may be, provided for by the Ordinances."
+                            }
+                        }
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Power to make Ordinances.",
+                    "paragraphs": {
+                        "0": "(1) The Ordinances in force immediately before the commencement of the Visva-Bharati (Amendment) Act, 1984 (31 of 1984), may be amended, repealed or added to, at any time by the Karma-Samiti (Executive Council):",
+                        "1": "Provided that no Ordinance shall be made in respect of matters enumerated in section 29, other than those enumerated in clauses (e), (h), (j), (m) and (o) thereof, unless a draft of such Ordinance has been proposed by the Siksha-Samiti (Academic Council).",
+                        "2": "(2) The Karma-Samiti (Executive Council) shall not have power to amend any draft proposed by the Siksha-Samiti (Academic Council) under the provisions of sub-section (1), but may reject the proposal or return the draft to the Siksha-Samiti (Academic Council) for reconsideration either in whole or in part, together with any amendments which the Karma-Samiti (Executive Council) may suggest.",
+                        "3": "(3) Where the Karma-Samiti (Executive Council) has rejected or returned the draft of an Ordinance proposed by the Siksha-Samiti (Academic Council), the Siksha-Samiti (Academic Council) may consider the question afresh and in case the original draft is reaffirmed by a majority of not less than one-half of the total membership of the Siksha-Samiti (Academic Council) and by a majority of not less than two- thirds of the members of the Siksha-Samiti (Academic Council) present and voting, the draft may be sent back to the Karma-Samiti (Executive Council), which shall either adopt it or refer it to the Paridarsaka (Visitor) whose decision thereon shall be final.",
+                        "4": "(4) Every Ordinance made by the Karma-Samiti (Executive Council) shall come into effect immediately.",
+                        "5": "(5) Every Ordinance made by the Karma-Samiti (Executive Council) shall be submitted to the Paridarsaka (Visitor) within four weeks of the date of the meeting of the Karma-Samiti (Executive Council), and the Paridarsaka (Visitor) shall have the power to direct the University, within six weeks from the date of the receipt of the Ordinance, to suspend the operation of any Ordinance and he shall, as soon as possible, inform the Karma-Samiti (Executive Council) about his objection to the proposed Ordinance.",
+                        "6": "(6) The Paridarsaka (Visitor) may, after receiving the comments of the University, either withdraw the order directing the suspension of the Ordinance or disallow the Ordinance and his decision thereon shall be final.]"
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Regulations.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The authorities of the University may make Regulations consistent with this Act, the Statutes and the Ordinances\u2014",
+                            "contains": {
+                                "0": "(a) laying down the procedure to be observed at their meetings and the number of members required to form a quorum;",
+                                "1": "(b) providing for all matters which by this Act, the Statutes or the Ordinances are to be prescribed by the Regulations; and",
+                                "2": "(c) providing for all other matters solely concerning the authorities or committees appointed by them and not provided for by this Act, the Statutes and the Ordinances."
+                            }
+                        },
+                        "1": "(2) Every authority of the University shall make Regulations providing for the giving of notice to the members of such authority of the dates of meetings and of the business to be considered at meetings and for the keeping of a record of the proceedings of meetings.",
+                        "2": "(3) The Karma-Samiti (Executive Council) may direct the amendment, in such manner as it may specify, of any Regulation made under this section or the amendment of any Regulation made under sub-section (1).",
+                        "3": "1[(4) Every Statute, Ordinance or Regulation made under this Act shall be published in the Official Gazette.",
+                        "4": "(5) Every Statute, Ordinance or Regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days, which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the Statute, Ordinance or Regulation or both Houses agree that the Statute, Ordinance or Regulation should not be made, the Statute, Ordinance or Regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that Statute, Ordinance or Regulation.]"
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Residence.",
+                    "paragraphs": {
+                        "0": "Every student of the University 2[other than a student of its Lok Siksha Samsad (People\u2019s Education Council)] shall reside in a 3[Chatravasa] or under such conditions as may be prescribed by the Statutes and the Ordinances."
+                    }
+                }
+            }
+        },
+        "7": {
+            "Name": "ADMISSIOIN AND EXAMINATIONS",
+            "Sections": {
+                "Section 33.": {
+                    "heading": "Admission.",
+                    "paragraphs": {
+                        "0": "Admission of students to the University shall be made in such manner as may be prescribed by the Ordinances."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Examinations.",
+                    "paragraphs": {
+                        "0": "Subject to the provisions of the Statutes, all arrangements for the conduct of 4[tests, evaluations and examinations] shall be made by the Karma-Samiti (Executive Council) in such manner as may be prescribed by the Ordinances."
+                    }
+                }
+            }
+        },
+        "8": {
+            "Name": "ANNUAL REPORTS AND ACCOUNTS",
+            "Sections": {
+                "Section 35.": {
+                    "heading": "Annual report.",
+                    "paragraphs": {
+                        "0": "(1) The annual report of the University shall be prepared under the directions of the Karma-Samiti (Executive Council) which shall include, among other matters, the steps taken by the University to promote socially relevant research in physical and social sciences, weaker sections\u2019 need oriented extension activities and integration of the community life of the University with that of the wider world.",
+                        "1": "(2) The annual report so prepared shall be submitted to the Samsad (Court) on or before such date as may be prescribed by the Statutes and shall be considered by the Samsad (Court) in its annual meeting.",
+                        "2": "(3) The Samsad (Court) may communicate its comments on the annual report to the Karma-Samiti (Executive Council) and the Paridarsaka (Visitor).",
+                        "3": "(4) A copy of the annual report, as prepared under sub-section (1) shall also be submitted to the Central Government which shall, as soon as may be, cause the same to be laid before both the Houses of Parliament."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Annual Accounts.",
+                    "paragraphs": {
+                        "0": "(1) The annual accounts and balance-sheet of the University shall be prepared under the direction of the Karma-Samiti (Executive Council) and shall once at least every year and at intervals of not more than fifteen months, be audited by the Comptroller and Auditor-General of India or by such person or persons as he may authorise in this behalf.",
+                        "1": "(2) A copy of the accounts together with the audit report shall be submitted to the Samsad (Court) and the Paridarsaka (Visitor) along with the observations of the Karma-Samiti (Executive Council).",
+                        "2": "(3) Any observations made by the Paridarsaka (Visitor) on the annual accounts shall be brought to the notice of the Samsad (Court) and the observations of the Samsad (Court), if any, shall, after being considered by the Karma-Samiti (Executive Council), be submitted to the Paridarsaka (Visitor).",
+                        "3": "(4) A copy of the accounts together with the audit report, as submitted to the Paridarsaka (Visitor), shall also be submitted to the Central Government, which shall, as soon as may be, cause the same to be laid before both the Houses of Parliament.",
+                        "4": "(5) The audited annual accounts, after having been laid before both the Houses of Parliament, shall be published in the Gazette of India.]"
+                    }
+                }
+            }
+        },
+        "9": {
+            "Name": "SUPPLEMENTARY PROVISIONS",
+            "Sections": {
+                "Section 37.": {
+                    "heading": "Adhyapakas of the University to be appointed under a written contract.",
+                    "paragraphs": {
+                        "0": "(1) No adhyapaka of the University shall be appointed to a permanent post, except under a written contract and such contract shall not be inconsistent with the provisions of this Act, the Statutes and the Ordinances.",
+                        "1": "(2) The contract referred to in sub-section (1) shall be lodged with the University and a copy thereof shall be furnished to the adhyapaka concerned.",
+                        "2": "(3) In the case of an adhyapaka appointed by the University before the commencement of the Visva- Bharati (Amendment) Act, 1984 (31 of 1984), the contract in force immediately before such commencement, in relation to his emoluments, shall, to the extent of any inconsistency with the provisions of this Act or the Statutes or the Ordinances, be deemed to have been modified by the said provisions and where there is no such contract and the adhyapaka is a salaries adhyapaka appointed to a permanent post, a written contract shall be executed by, and between, such adhyapaka and the University within a period of six months from the commencement of the Visva-Bharati (Amendment) Act, 1984."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Tribunal of Arbitration.",
+                    "paragraphs": {
+                        "0": "(1) Any dispute arising out of a contract of employment referred to in section 37, including a dispute relating to the non-compliance of the provisions of this Act, the Statutes or the Ordinances, shall, at the request of the adhyapaka, be referred to a Tribunal of Arbitration which shall consist of one member nominated by the Karma-Samiti (Executive Council), one member nominated by the adhyapaka concerned and one member (who shall act as umpire) nominated by the Paridarsaka (Visitor).",
+                        "1": "(2) Every request made under sub-section (1) shall be deemed to be a submission to arbitration upon the terms of this section within the meaning of the Arbitration Act, 1940 (10 of 1940), and all the provisions of that Act, with the exception of section 2 thereof, shall apply accordingly.",
+                        "2": "(3) If, for any reason, a vacancy occurs in the office of a member of the Tribunal of Arbitration, the appropriate body or person concerned shall nominate another person in accordance with the provisions of sub-section (1) to fill the vacancy and the proceedings may be continued before the Tribunal from the stage at which the vacancy is filled.",
+                        "3": "(4) The decision of the Tribunal of Arbitration shall be final and binding on the parties.",
+                        "4": {
+                            "text": "(5) The Tribunal of Arbitration shall have the power\u2014",
+                            "contains": {
+                                "0": "(a) to regulate its own procedure;",
+                                "1": "(b) to order reinstatement of the adhyapaka concerned; and",
+                                "2": "(c) to award salary to the adhyapaka concerned, after deducting therefrom such income, not being income from property, as such adhyapaka might have derived during the period of his suspension or during the period intervening between the date on which he was removed or dismissed from service or, as the case may be, his service was terminated, and the date on which he is reinstated:",
+                                "3": "Provided that the income which could have been derived by the adhyapaka concerned shall not be taken into account if, at the time when the income was derived, he could have derived such income had he not been suspended or removed or dismissed from service or if his service had not been terminated."
+                            }
+                        },
+                        "5": "(6) No suit or other proceedings shall lie in any court in respect of any matter which is required by sub-section (1) to be referred to the Tribunal of Arbitration."
+                    }
+                },
+                "Section 38A.": {
+                    "heading": "Power to suspend adhyapaka or other member of academic staff.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Upacharya (Vice-Chancellor) may, by order in writing, place and adhyapaka or other member of the academic staff under suspension\u2014",
+                            "contains": {
+                                "0": "(a) where a disciplinary proceeding against such adhyapaka or other member is contemplated or is pending; or",
+                                "1": "(b) where a case against him in respect of any criminal offence is under investigation or trial."
+                            }
+                        },
+                        "1": "(2) Where any order of suspension is made under sub-section (1), the circumstances in which such order has been made shall be reported forthwith to the Karma-Samiti (Executive Council).",
+                        "2": "(3) The Karma-Samiti (Executive Council) may, within fifteen days from the date of receipt of the report referred to in sub-section (2), revoke the order of suspension if it is of opinion that the circumstances of the case do not warrant the suspension.",
+                        "3": "(4) Any person aggrieved by an order of suspension, which has not been revoked under sub-section (3), may prefer an appeal to the Karma-Samiti (Executive Council) within thirty days from the date on which such order is communicated to him and the Karma-Samiti (Executive Council) may confirm modify or reverse the order appealed against."
+                    }
+                },
+                "Section 38B.": {
+                    "heading": "Authorities by whom order for removal or dismissal or adhyapaka, etc., may be made and the procedure therefor.",
+                    "paragraphs": {
+                        "0": "(1) No adhyapaka, or other member of the academic staff, appointed by the University shall be dismissed or removed from service or punished in any other manner by any authority other than the Karma-Samiti (Executive Council).",
+                        "1": "(2) No adhyapaka, or other member of the academic staff, appointed by the University shall be dismissed or removed from service or punished in any other manner except after an inquiry in which he has been informed of the charges against him and given a reasonable opportunity of being heard in respect of those charges:",
+                        "2": "Provided that where it is proposed after such inquiry, to impose upon the adhyapaka or other member of the academic staff any punishment, such punishment may be imposed on the basis of the evidence adduced during such inquiry and it shall not be necessary to give such adhyapaka or other member of the academic staff any opportunity of making representation on the punishment proposed.",
+                        "3": {
+                            "text": "(3) The Karma-Samiti (Executive Council) shall be entitled to dismiss or remove from service, without holding any such inquiry as is referred to in sub-section (2), an adhyapaka, or other member of the academic staff, of the University, where the Karma-Samiti (Executive Council), for reasons to be recorded in writing, is satisfied that such adhyapaka or other member of the academic staff\u2014",
+                            "contains": {
+                                "0": "(a) is of unsound mind or is a deaf-mute or suffers from contagious leprosy; or",
+                                "1": "(b) is an undischarged insolvent; or",
+                                "2": "(c) has been convicted, by a court of law, of an offence involving moral turpitude."
+                            }
+                        },
+                        "4": "(4) The dismissal or removal from service of, or any other punishment imposed on, an adhyapaka, or other member of the academic staff, appointed by the University shall take effect from the date on which the order of dismissal or removal from service is made or other punishment is imposed:",
+                        "5": "Provided that, where the adhyapaka or other member of the academic staff is under suspension at the time when the order for his dismissal or removal from service is made or other punishment is imposed, such order may, if the Karma-Samiti (Executive Council) so directs, take effect from the date on which he was placed under suspension.",
+                        "6": {
+                            "text": "(5) Notwithstanding the terms of contract between the University and an adhyapaka, or other member of the academic staff, appointed by the University, such adhyapaka or other member of the academic staff may resign his office\u2014",
+                            "contains": {
+                                "0": "(a) where he is permanent, by giving three months\u2019 notice in writing to the Karma-Samiti (Executive Council) or by paying to the University three months\u2019 salary in lieu of such notice; or",
+                                "1": "(b) where he is not permanent, one month's notice in writing to the Karma-Samiti (Executive Council) or by paying to the University one month's salary in lieu of such notice:",
+                                "2": "Provided that if the Karma-Samiti (Executive Council) so permits, the period of three months' notice or of one month's notice, as the case may be, may be reduced or waived:",
+                                "3": "Provided further that such resignation shall take effect from the date on which it is accepted by the Karma-Samiti (Executive Council).",
+                                "4": "Explanation.\u2014\u201cSuspension\u201d shall not be deemed to be a punishment within the meaning of this section.]"
+                            }
+                        }
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Pension and provident funds.",
+                    "paragraphs": {
+                        "0": "(1) The University shall constitute, for the benefit of its officers [including the Upacharya (Vice-Chancellor)], 1[adhyapakas], and other servants, in such manner and subject to such conditions as may be prescribed by the Statutes, such pension, insurance and provident funds as it may deem fit.",
+                        "1": "(2) Where any such pension, insurance or provident fund has been so constituted, the Central Government may declare that the provisions of the Provident Funds Act, 1925 (17 of 1925), shall apply to such fund as if it were a Government Provident Fund."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Filling of casual vacancies.",
+                    "paragraphs": {
+                        "0": "(1) Subject to any provision in this Act and in the Statutes, the Karma Samiti (Executive Council) shall appoint, with the approval of the Paridarsaka (Visitor), a person to fill a casual vacancy in the office of the Upacharya (Vice-Chancellor), and the person so appointed shall hold office 2[until his successor enters upon his office].",
+                        "1": "(2) All casual vacancies among the members (other than ex officio members) of any authority or other body of the University shall be filled, as soon as conveniently may be, by the person or body who appointed, elected or co-opted the member whose place has become vacant, and the person appointed, clected or co-opted to a casual vacancy shall be member of such authority or body for the residue of the term for which the person whose place he fills would have been a member."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Removal from membership of the University.",
+                    "paragraphs": {
+                        "0": "The Karma Samiti (Executive Council) may, on the recommendation of not less than two-thirds of its members remove any person from the membership of any authority or board of the University if such a person is guilty of a serious offence involving moral turpitude, or if he has been guilty of scandalous conduct and for the same reasons may withdraw any degree or diploma conferred on, or granted to, any person by the University:",
+                        "1": "Provided that no action shall be taken under this section against any person except after giving him a reasonable opportunity of being heard with regard to the proposed action.]"
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Disputes as to constitution of any University authority or body.",
+                    "paragraphs": {
+                        "0": "If any question arises whether any person has been duly elected or appointed as, or is entitled to be, a member of any authority or other body of the University, the matter shall be referred to the Paridarsaka (Visitor), whose decision thereon shall be final."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Constitution of committees.",
+                    "paragraphs": {
+                        "0": "Where any authority of the University is given power by this Act or by the Statutes to appoint committees, such committee shall, unless there is some special provision to the contrary, consist of members of the authority concerned and of such other persons (if any) as the authority in each case may think fit."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Proceedings of the University authorities not invalidated by vacancies.",
+                    "paragraphs": {
+                        "0": "No act or proceeding of any authority or other body of the University shall be invalidated merely by reason of the existence of a vacancy or vacancies among its members."
+                    }
+                },
+                "Section 44A.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit or other legal proceeding shall lie against any officer or employee of the University for anything which is in good faith done or intended to be done, in pursuance of the provisions of this Act, the Statutes or the Ordinances."
+                    }
+                },
+                "Section 44B.": {
+                    "heading": "Mode of proof of University record.",
+                    "paragraphs": {
+                        "0": "A copy of any receipt, application, notice, order, proceeding or resolution of any authority or committee of the University, or other documents in the possession of the University, or any entry in any register duly maintained by the University, if certified by the Karma-Sachiva (Registrar), shall, notwithstanding anything contained in the Indian Evidence Act, 1872 (1 of 1872), or in any other law for the time being in force, be admitted as evidence of the matters and transactions specified therein where the original thereof would, if produced, have been admissible in evidence.]"
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "If any difficulty arises with respect to the establishment of the University or any authority of the University or in connection with the first meeting of any authority of the University, the Paridarsaka (Visitor) in consultation with the Upacharya (Vice-Chancellor) may, by order, make any appointment or do anything which appears to him necessary or expedient for the proper establishment of the University or any authority thereof or for the first meeting of any authority of the University."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE. [Repealed].": {
+            "0": "THE FIRST SCHEDULE",
+            "1": "The First Schedule\u2014Omitted by Act 31 of 1984, s. 25 (w.e.f. 8-8-1984)."
+        },
+        "THE SECOND SCHEDULE": {
+            "0": {
+                "text": "THE SECOND SCHEDULE",
+                "contains": {
+                    "0": "(See section 7)"
+                }
+            },
+            "1": "The territorial limits of the University",
+            "2": "The area known as Santiniketan in the District of Birbhum in West Bengal admeasuring 2[3000 hectares], bounded\u2014",
+            "3": "on the North by the Kopai River\u2014",
+            "4": "on the west by a line running from Ballavpur and Banuri villages to Bandgora.",
+            "5": "on the south by a line running from Bandgora via Bolpur Dak Bungalow to the bridge over the 3[Eastern Railway] cutting, and",
+            "6": "on the east by the 3[Eastern Railway] line."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 14th May, 1951, vide Notification No. F. 40-5/50-G, 3 dated the 10th May, 1951, Gazette of India, 1951, Part I. sec. 1.",
+            "1": "2. Ins. by Act 60 of 1961, s. 2 (w.e.f. 19-12-1961).",
+            "2": "3. Subs. by Act 31 of 1984, s. 3, for section 3 (w.e.f. 8-8-1984)."
+        },
+        "Page 4": {
+            "0": "1. Ins. by Act 60 of 1961, s. 4 (w.e.f. 19-12-1961).",
+            "1": "2. Subs. by s. 5, ibid., for clause (ii) (w.e.f. 19-12-1961).",
+            "2": "3. Ins. by Act 31 of 1984, s. 4 (w.e.f. 8-8-1984)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 31 of 1984, s. 5, for section 6 (w.e.f. 8-8-1984)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 60 of 1961, s. 7 (w.e.f. 19-12-1961).",
+            "1": "2. Subs. by Act 31 of 1984, s. 2, for \u201cteachers\u201d (w.e.f. 8-8-1984).",
+            "2": "3. Subs. by s. 6, ibid for section 10 (w.e.f. 8-8-1984)."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 31 of 1984, s. 7, for section 12 (w.e.f. 8-8-1984)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 31 of 1984, s. 8, for sub-sections (1) and (2) (w.e.f. 8-8-1984).",
+            "1": "2. Ins. by Act 60 of 1961, s. 8 (w.e.f. 19-12-1961).",
+            "2": "3. Subs. by Act 31 of 1984, s. 9, for section 14 (w.e.f. 8-8-1984)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 31 of 1984, s. 11, for sections 16 and 17 (w.e.f. 8-8-1984).",
+            "1": "2. The word \u201cand\u201d omitted by s. 12, ibid. (w.e.f. 8-8-1984).",
+            "2": "3. Ins. by s. 12, ibid. (w.e.f. 8-8-1984).",
+            "3": "4. Clause (4) re-numbered as clause (6) by s.12, ibid. (w.e.f. 8-8-1984).",
+            "4": "5. Subs. by s. 13, ibid., for sections 19, 20 and 21 (w.e.f. 8-8-1984).",
+            "5": "6. Subs. by s. 14, ibid., for sections 22 and 23 (w.e.f. 8-8-1984)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 31 of 1984, s. 15, for \u201cthe academic body\u201d (w..f. 8-8-1984).",
+            "1": "2. Subs. by s. 15, ibid., for \u201cinstruction, education and examination\u201d (w.e.f. 8-8-1984).",
+            "2": "3. Subs. by s. 16, ibid., for section 25 (w.e.f. 8-8-1984).",
+            "3": "4. Subs. by s. 17, ibid., for section 27 (w.e.f. 8-8-1984)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by Act 31 of 1984, s. 18, for sub-section (1) (w.e.f. 8-8-1984).",
+            "1": "2. Subs. by Act 57 of 1971, s. 7, for sub-sections (2) to (8) (w.e.f. 3-11-1971).",
+            "2": "3. Subs. by Act 31 of 1984, s. 19, for sections 29 and 30 (w.e.f. 8-8-1984)."
+        },
+        "Page 15": {
+            "0": "1. Ins. by Act 4 of 2005, s. 2 and the Schedule (w.e.f. 11-1-2005).",
+            "1": "2. Ins. by Act 60 of 1961, s. 13 (w.e.f. 19-12-1961).",
+            "2": "3. Subs. by Act 31 of 1984, s. 20, for \u201cBhavana (College) or Chartavasa (Hostel)\u201d (w.e.f. 8-8-1984).",
+            "3": "4. Subs. by s. 21, ibid., for \u201cexaminations\u201d (w.e.f. 8-8-1984).",
+            "4": "5. Subs. by s.22, ibid., for sections 35 and 36 (w.e.f. 8-8-1984)."
+        },
+        "Page 16": {
+            "0": "1. Subs. by Act 31 of 1984, s. 23, for sections 37 and 38 (w.e.f. 8-8-1984)."
+        },
+        "Page 18": {
+            "0": "1. Subs. by Act 31 of 1984, s. 2, for \u201cteacher\u201d (w.e.f. 8-8-1984).",
+            "1": "2. Subs. by Act 60 of 1961, s. 15, for \u201ctill the next meeting of the Samsad (Court)\u201d (w.e.f. 19-12-1961).",
+            "2": "3. Subs. by Act 57 of 1971, s. 11, for section 41 (w.e.f. 3-11-1971)."
+        },
+        "Page 19": {
+            "0": "1. Ins. by Act 31 of 1984, s. 24 (w.e.f. 8-8-1984).",
+            "1": "2. Subs. by s. 26, ibid., for \u201c11.5 square miles\u201d (w.e.f. 8-8-1984).",
+            "2": "3. Subs. by s. 26, ibid., for \u201cEast Indian Railway\u201d (w.e.f. 8-8-1984)."
+        }
+    }
+}

@@ -1,0 +1,894 @@
+{
+    "Act Title": "THE INDIAN PARTNERSHIP ACT, 1932",
+    "Act ID": "ACT NO. 9 OF 1932",
+    "Enactment Date": "[8th April, 1932.]",
+    "Act Definition": {
+        "0": "An Act to define and amend the law relating to partnership.",
+        "1": "WHEREAS it is expedient to define and amend the law relating to partnership;"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Indian Partnership Act, 1932.",
+                        "1": "1[(2) It extends to the whole of India 2[3***].]",
+                        "2": "(3) It shall come into force on the 1st day of October, 1932, except section 69, which shall come into force on the 1st day of October, 1933."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless there is anything repugnant in the subject or context,\u2014",
+                            "contains": {
+                                "0": "(a) an\u201cact of a firm\u201d means any act or omission by all the partners, or by any partner or agent of the firm which gives rise to a right enforceable by or against the firm;",
+                                "1": "(b) \u201cbusiness\u201d includes every trade, occupation and profession;",
+                                "2": "(c) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "3": "(d) \u201cthird party\u201d, used in relation to a firm or to a partner therein, means any person who is not a partner in the firm; and",
+                                "4": "(e) expressions used but not defined in this Act and defined in the Indian Contract Act, 1872 (9 of 1872), shall have the meanings assigned to them in that Act."
+                            }
+                        }
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Application of provisions of Act 9 of 1872.",
+                    "paragraphs": {
+                        "0": "Theunrepealed provisions of the Indian Contract Act, 1872 (9 of 1872), save in so far as they are inconsistent with the express provisions of this Act, shall continue to apply to firms."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "THENATURE OF PARTNERSHIP",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Definition of \u201cpartnership\u201d, \u201cpartner\u201d, \u201cfirm\u201d and \u201cfirm name\u201d.",
+                    "paragraphs": {
+                        "0": "\u201cPartnership\u201d is the relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all.",
+                        "1": "Persons who have entered into partnership with one another are called individually \u201cpartners\u201d and collectively \u201ca firm\u201d, and the name under which their business is carried on is called the \u201cfirm name\u201d."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Partnership not created by status.",
+                    "paragraphs": {
+                        "0": "The relation of partnership arises from contract and not from status;",
+                        "1": "and, in particular, the members of a Hindu undivided family carrying on a family business as such, or a Burmese Buddhist husband and wife carrying on business as such are not partners in such business"
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Mode of determining existence of partnership.",
+                    "paragraphs": {
+                        "0": "In determining whether a group of personsisor is not a firm, or whether a person is or is not a partner in a firm, regard shall be had to the real relation between the parties, as shown by all relevant facts taken together.",
+                        "1": "Explanation 1.\u2014The sharing of profits or of gross returns arising from property by persons holding a joint or common interest in that property does not of itself make such persons partners.",
+                        "2": "Explanation 2.\u2014The receipt by a person of a share of the profits of a business, or of a payment contingent upon the earning of profits or varying with the profits earned by a business, does not of itself make him a partner with the persons carrying on the business;",
+                        "3": {
+                            "text": "and, in particular, the receipt of such share or payment\u2014",
+                            "contains": {
+                                "0": "(a) by a lender of money to persons engaged or about to engage in any business,",
+                                "1": "(b) by a servant or agent as remuneration,",
+                                "2": "(c) by the widow or child of a deceased partner, as annuity, or",
+                                "3": "(d) by a previous owner or part owner of the business, as consideration for the sale of the goodwill or share thereof,"
+                            }
+                        },
+                        "4": "does not of itself make the receiver a partner with the persons carrying on the business."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Partnership at will.",
+                    "paragraphs": {
+                        "0": "Where no provision is made by contract between the partners for the duration of their partnership or for the determination of their partnership, the partnership is \u201cpartnership at will\u201d."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Particular partnership.",
+                    "paragraphs": {
+                        "0": "A person may become a partner with another person in particular adventures or undertakings."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "RELATIONSOF PARTNERS TO ONE ANOTHER",
+            "Sections": {
+                "Section 9.": {
+                    "heading": "General duties of partners.",
+                    "paragraphs": {
+                        "0": "Partners are bound to carry on the business of the firm to the greatest common advantage, to be just and faithful to each other, and to render true accounts and full information of all things affecting the firm to any partner or his legal representative."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Duty to indemnify for loss caused by fraud.",
+                    "paragraphs": {
+                        "0": "Everypartner shall indemnify the firm for any loss caused to it by his fraud in the conduct of the business of the firm."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Determination of rights and duties of partners by contract between the partners.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, the mutual rights and duties of the partners of a firm may be determined by contract between the partners, and such contract may be expressed or may be implied by a course of dealing.",
+                        "1": "Such contract may be varied by consent of all the partners, and such consent may be expressed or may be implied by a course of dealing.",
+                        "2": "(2) Notwithstanding anything contained in section 27 of the Indian Contract Act, 1872 (9 of 1872), such contracts may provide that a partner shall not carry on any business other than that of the firm while he is a partner."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "The conduct of the business.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to contract between the partners\u2014",
+                            "contains": {
+                                "0": "(a) every partner has a right to take part in the conduct of the business;",
+                                "1": "(b) every partner is bound to attend diligently to his duties in the conduct of the business;",
+                                "2": "(c) any difference arising as to ordinary matters connected with the business may be decided by a majority of the partners, and every partner shall have the right to express his opinion before the matter is decided, but no change may be made in the nature of the business without the consent of all the partners; and",
+                                "3": "(d) every partner has a right to have access to and to inspect and copy any of the books of the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Mutual rights and liabilities.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to contract between the partners\u2014",
+                            "contains": {
+                                "0": "(a) a partner is not entitled to receive remuneration for taking part in the conduct of the business;",
+                                "1": "(b) the partners are entitled to share equally in the profits earned, and shall contribute equally to the losses sustained by the firm;",
+                                "2": "(c) where a partner is entitled to interest on the capital subscribed by him such interest shall be payable only out of profits;",
+                                "3": "(d) a partner making, for the purposes of the business, any payment or advance beyond the amount of capital he has agreed to subscribe, is entitled to interest thereon at the rate of six per cent. per annum;",
+                                "4": {
+                                    "text": "(e) the firm shall indemnify a partner in respect of payments made and liabilities incurred by him\u2014",
+                                    "contains": {
+                                        "0": "(i) in the ordinary and proper conduct of the business, and",
+                                        "1": "(ii) in doing such act, in an emergency, for the purpose of protecting the firm from loss, as would be done by a person of ordinary prudence, in his own case, under similar circumstances; and"
+                                    }
+                                },
+                                "5": "(f) a partner shall indemnify the firm for any loss caused to it by his wilful neglect in the conduct of the business of the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 14.": {
+                    "heading": "The property of the firm.",
+                    "paragraphs": {
+                        "0": "Subject to contract between the partners, the property of the firm includes all property and rights and interests in property originally brought into the stock of the firm, or acquired, by purchase or otherwise, by or for the firm, or for the purposes and in the course of the business of the firm, and includes also the goodwill of the business.",
+                        "1": "Unless the contrary intention appears, property and rights and interests in property acquired with money belonging to the firm are deemed to have been acquired for the firm."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Application of the property of the firm.",
+                    "paragraphs": {
+                        "0": "Subject to contract between the partners, the property of the firm shall be held and used by the partners exclusively for the purposes of the business."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Personal profits earned by partners.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to contract between the partners,\u2014",
+                            "contains": {
+                                "0": "(a) if a partner derives any profits for himself from any transaction of the firm, or from the use of the property or business connection of the firm or the firm name, he shall account for that profit and pay it to the firm;",
+                                "1": "(b) if a partner carries on any business of the same nature as and competing with that of the firm, he shall account for and pay to the firm all profits made by him in that business."
+                            }
+                        }
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Rights and duties of partners\u2014 after a change in the firm, after the expiry of the term of the firm, and where additional undertakings are carried out.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to contract between the partners,\u2014",
+                            "contains": {
+                                "0": "(a) where a change occurs in the constitution of a firm, the mutual rights and duties of the partners in the reconstituted firm remain the same as they were immediately before the change, as far as may be;",
+                                "1": "(b) where a firm constituted for a fixed term continues to carry on business after the expiry of that term, the mutual rights and duties of the partners remain the same as they were before the expiry, so far as they may be consistent with the incidents of partnership at will; and",
+                                "2": "(c) where a firm constituted to carry out one or more adventures or undertakings carries out other adventures or undertakings, the mutual rights and duties of the partners in respect of the other adventures or undertakings are the same as those in respect of the original adventures or undertakings."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "RELATIONS OF PARTNERS TO THIRD PARTIES",
+            "Sections": {
+                "Section 18.": {
+                    "heading": "Partner to be agent of the firm.",
+                    "paragraphs": {
+                        "0": "Subject to the provisions of this Act, a partner is the agent of the firm for the purposes of the business of the firm."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Implied authority of partner as agent of the firm.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of section 22, the act of a partner which is done to carry on, in the usual way, business of the kind carried on by the firm, binds the firm.",
+                        "1": "The authority of a partner to bind the firm conferred by this section is called his \u201cimplied authority\u201d.",
+                        "2": {
+                            "text": "(2) In the absence of any usage or custom of trade to the contrary, the implied authority of a partner does not empower him to\u2014",
+                            "contains": {
+                                "0": "(a) submit a dispute relating to the business of the firm to arbitration,",
+                                "1": "(b) open a banking account on behalf of the firm in his own name,",
+                                "2": "(c) compromise or relinquish any claim or portion of a claim by the firm,",
+                                "3": "(d) withdraw a suit or proceeding filed on behalf of the firm,",
+                                "4": "(e)admit any liability in a suit or proceeding against the firm,",
+                                "5": "(f) acquire immovable property on behalf of the firm,",
+                                "6": "(h) transfer immovable property belonging to the firm, or",
+                                "7": "(g) enter into partnership on behalf of the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Extension and restriction of partner\u2019s implied authority.",
+                    "paragraphs": {
+                        "0": "The partners in a firm may, by contract between the partners, extend or restrict the implied authority of any partner.",
+                        "1": "Notwithstanding any such restriction, any act done by a partner on behalf of the firm which falls within his implied authority binds the firm, unless the person with whom he is dealing knows of the restriction or does not know or believe that partner to be a partner."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Partner\u2019s authority in an emergency.",
+                    "paragraphs": {
+                        "0": "A Partner has authority, in an emergency, to do all such acts for the purpose of protecting the firm from loss as would be done by a person of ordinary prudence, in his own case, acting under similar circumstances, and such acts bind the firm."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Mode of doing act to bind firm.",
+                    "paragraphs": {
+                        "0": "In order to bind a firm, an act or instrument done or executed by a partner or other person on behalf of the firm shall be done or executed in the firm name, or in any other manner expressing or implying an intention to bind the firm."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Effect of admissions by a partner.,.",
+                    "paragraphs": {
+                        "0": "An admission or representation made by a partner concerning the affairs of the firm is evidence against the firm, if it is made in the ordinary course of business."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Effect of notice to acting partner.",
+                    "paragraphs": {
+                        "0": "Notice to a partner who habitually acts in the business of the firm of any matter relating to the affairs of the firm operates as notice to the firm, except in the case of a fraud on the firm committed by or with the consent of that partner."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Liability of a partner for acts of the firm.",
+                    "paragraphs": {
+                        "0": "Every partner is liable, jointly with all the other partners and also severally, for all acts of the firm done while he is a partner."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Liability of the firm for wrongful acts of a partner.",
+                    "paragraphs": {
+                        "0": "Where, by the wrongful act or omission of a partner acting in the ordinary course of the business of a firm, or with the authority of his partners, loss or injury is caused to any third party, or any penalty is incurred, the firm is liable therefor to the same extent as the partner."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Liability of firm for misapplication by partners.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Where\u2014",
+                            "contains": {
+                                "0": "(a) a partner acting within his apparent authority receives money or property from a third party and misapplies it, or",
+                                "1": "(b) a firm in the course of its business receives money or property from a third party, and the money or property is misapplied by any of the partners while it is in the custody of the firm,"
+                            }
+                        },
+                        "1": "the firm is liable to make good the loss."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Holding out.",
+                    "paragraphs": {
+                        "0": "(1) Anyone who by words spoken or written or by conduct represents himself, or knowingly permits himself to be represented, to be a partner in a firm, is liable as a partner in that firm to anyone who has on the faith of any such representation given credit to the firm, whether the person representing himself or represented to be a partner does or does not know that the representation has reached the person so giving credit.",
+                        "1": "(2) Where after a partner\u2019s death the business is continued in the old firm name, the continued use of that name or of the deceased partner\u2019s name as a part thereof shall not itself make his legal representative or his estate liable for any act of the firm done after his death."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Rights of transferee of a partner \u2019s interest.",
+                    "paragraphs": {
+                        "0": "(1) A transfer by a partner of his interest in the firm, either absolute or by mortgage, or by the creation by him of a charge on such interest, does not entitle the transferee, during the continuance of the firm, to interfere in the conduct of the business, or to require accounts, or to inspect the books of the firm, but entitles the transferee only to receive the share of profits of the transferring partner, and the transferee shall accept the account of profits agreed to by the partners.",
+                        "1": "(2) If the firm is dissolved or if the transferring partner ceases to be a partner, the transferee is entitled as against the remaining partners to receive the share of the assetsof the firm to which the transferring partner is entitled, and, for the purpose of ascertaining that share, to an account as from the date of the dissolution."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Minors admitted to the benefits of partnership.",
+                    "paragraphs": {
+                        "0": "(1) A person who is a minor according to the law to which he is subject may not be a partner in a firm, but, with the consent of all the partners for the time being, he may be admitted to the benefits of partnership.",
+                        "1": "(2) Such minor has a right to such share of the property and of the profits of the firm as may be agreed upon, and he may have access to and inspect and copy any of the accounts of the firm.",
+                        "2": "(3) Such minor\u2019s share is liable for the acts of the firm, but the minor is not personally liable for any such act.",
+                        "3": "(4) Such minor may not sue the partners for an account or payment of his share of the property or profits of the firm, save when severing his connection with the firm, and in such case the amount of his share shall be determined by a valuation made as far as possible in accordance with the rules contained in section 48:",
+                        "4": "Provided that all the partners acting together or any partner entitled to dissolve the firm upon notice to other partners may elect in such suit to dissolve the firm, and thereupon the Court shall proceed with the suit as one for dissolution and for settling accounts between the partners, and the amount of the share of the minor shall be determined along with the shares of the partners.",
+                        "5": "(5) At any time within six months of his attaining majority, or of his obtaining knowledge that he had been admitted to the benefits of partnership, whichever date is later, such person may give public notice that he has elected to become or that he has elected not to become a partner in the firm, and such notice shall determine his position as regards the firm:",
+                        "6": "Provided that, if he fails to give such notice, he shall become a partner in the firm on the expiry of the said six months.",
+                        "7": "(6) Where any person has been admitted as a minor to the benefits of partnership in a firm, the burden of proving the fact that such person had no knowledge of such admission until a particular date after the expiry of six months of his attaining majority shall lie on the persons asserting that fact.",
+                        "8": {
+                            "text": "(7) Where such person becomes a partner,\u2014",
+                            "contains": {
+                                "0": "(a) his rights and liabilities as a minor continue up to the date on which he becomes a partner, but he also becomes personally liable to third parties for all acts of the firm done since he was admitted to the benefits of partnership, and",
+                                "1": "(b) his share in the property and profits of the firm shall be the share to which he was entitled as a minor."
+                            }
+                        },
+                        "9": {
+                            "text": "(8)Where such person elects not to become a partner, \u2014",
+                            "contains": {
+                                "0": "(a) his rights and liabilities shall continue to be those of a minor under this section up to the date on which he gives public notice,",
+                                "1": "(b) his share shall not be liable for any acts of the firm done after the date of the notice, and",
+                                "2": "(c) he shall be entitled to sue the partners for his share of the property and profits in accordance with sub-section (4)."
+                            }
+                        },
+                        "10": "(9)Nothing in sub-sections (7) and (8)shall affect the provisions of section 28."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "INCOMING AND OUTGOING PARTNERS",
+            "Sections": {
+                "Section 31.": {
+                    "heading": "Introduction of a partner.",
+                    "paragraphs": {
+                        "0": "(1) Subject to contract between the partners and to the provisions of section 30, no person shall be introduced as a partner into a firm without the consent of all the existing partners.",
+                        "1": "(2)Subject to the provisions of section 30, a person who is introduced as a partner into a firm does not thereby become liable for any act of the firm done before he became a partner."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Retirement of a partner.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) A partner may retire\u2014",
+                            "contains": {
+                                "0": "(a) with the consent of all the other partners,",
+                                "1": "(b) in accordance with an express agreement by the partners, or",
+                                "2": "(c) where the partnership is at will, by giving notice in writing to all the other partners of his intention to retire."
+                            }
+                        },
+                        "1": "(2) A retiring partner may be discharged from any liability to any third party for acts of the firm done before his retirement by an agreement made by him with such third party and the partners of the reconstituted firm, and such agreement may be implied by a course of dealing between such third party and the reconstituted firm after he had knowledge of the retirement.",
+                        "2": "(3) Notwithstanding the retirement of a partner from a firm, he and the partners continue to be liable as partners to third parties for any act done by any of them which would have been an act of the firm if done before the retirement, until public notice is given of the retirement:",
+                        "3": "Provided that a retired partner is not liable to any third party who deals with the firm without knowing that he was a partner.",
+                        "4": "(4) Notices under sub-section (3) may be given by the retired partner or by any partner of the reconstituted firm."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Expulsion of a partner.",
+                    "paragraphs": {
+                        "0": "(1) Apartner may not be expelled from a firm by any majority of the partners, save in the exercise in good faith of powers conferred by contract between the partners.",
+                        "1": "(2)The provisions of sub-sections (2), (3)and (4)of section 32 shall apply to an expelled partner as if he were a retired partner."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Insolvency of a partner.",
+                    "paragraphs": {
+                        "0": "(1) Where a partner in a firm is adjudicated an insolvent he ceases to be a partner on the date on which the order of adjudication is made, whether or not the firm is thereby dissolved.",
+                        "1": "(2)Where under a contract between the partners the firm is not dissolved by the adjudication of a partner as an insolvent, the estate of a partner so adjudicated is not liable for any act of the firm and the firm is not liable for any act of the insolvent, done after the date on which the order of adjudication is made."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Liability of estate of deceased partner.",
+                    "paragraphs": {
+                        "0": "Where under a contract between the partners the firm is not dissolved by the death of a partner, the estate of a deceased partner is not liable for any act of the firm done after his death."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Rights of outgoing partner to carry on competing business.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) An outgoing partner may carry on a business competing with that of the firm and he may advertise such business, but, subject to contract to the contrary, he may not\u2014",
+                            "contains": {
+                                "0": "(a) use the firm name,",
+                                "1": "(b) represent himself as carrying on the business of the firm, or",
+                                "2": "(c) solicit the custom of persons who were dealing with the firm before he ceased to be a partner."
+                            }
+                        },
+                        "1": "(2) A partner may make an agreement with his partners that on ceasing to be a partner he will not carry on any business similar to that of the firm within a specified period or within specified local limits; and, notwithstanding anything contained in section 27 of the Indian Contract Act, 1872 (9 of 1872), such agreement shall be valid if the restrictions imposed are reasonable."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Right of outgoing partner in certain cases to share subsequent profits.",
+                    "paragraphs": {
+                        "0": "Where any member of a firm has died or otherwise ceased to be a partner, and the surviving or continuing partners carry on the business of the firm with the property of the firm without any final settlement of accounts as between them and the outgoing partner or his estate, then, in the absence of a contract to the contrary, the outgoing partner or his estate is entitled at the option of himself or his representatives to such share of the profits made since he ceased to be a partner as may be attributable to the use of his share of the property of the firm or to interest at the rate of six per cent. per annum on the amount of his share in the property of the firm:",
+                        "1": "Provided that whereby contract between the partners an option is given to surviving or continuing partners to purchase the interest of a deceased or outgoing partner, and that option is duly exercised, the estate of the deceased partner, or the outgoing partner or his estate, as the case may be, is not entitled to any further or other share of profits; but if any partner assuming to act in exercise of the option does not in all material respects comply with the terms thereof, he is liable to account under the foregoing provisions of this section."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Revocation of continuing guarantee by change in firm.",
+                    "paragraphs": {
+                        "0": "A continuing guarantee given to a firm, or to a third party in respect of the transactions of a firm, is, in the absence of agreement to the contrary, revoked as to future transactions from the date of any change in the constitution of the firm."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "DISSOLUTION OF A FIRM",
+            "Sections": {
+                "Section 39.": {
+                    "heading": "Dissolution of a firm.",
+                    "paragraphs": {
+                        "0": "The dissolution of partnership between all the partners of a firm is called the \u201cdissolution of the firm\u201d."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Dissolution by agreement.",
+                    "paragraphs": {
+                        "0": "A firm may be dissolved with the consent of all the partners or in accordance with a contract between the partners."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Compulsory dissolution.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "A firm is dissolved\u2014",
+                            "contains": {
+                                "0": "(a) by the adjudication of all the partners or of all the partners but one as insolvent, or",
+                                "1": "(b) by the happening of any event which makes it unlawful for the business of the firm to be carried on or for the partners to carry it on in partnership :"
+                            }
+                        },
+                        "1": "Provided that, where more than one separate adventure or undertaking is carried on by the firm, the illegality of one or more shall not of itself cause the dissolution of the firm in respect of its lawful adventures and undertakings."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Dissolution on the happening of certain contingencies.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to contract between the partners a firm is dissolved\u2014",
+                            "contains": {
+                                "0": "(a) if constituted for a fixed term, by the expiry of that term;",
+                                "1": "(b) if constituted to carry out one or more adventures or undertakings, by the completion thereof;",
+                                "2": "(c) by the death of a partner; and",
+                                "3": "(d) by the adjudication of a partner as an insolvent."
+                            }
+                        }
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Dissolution by notice of partnership at will.",
+                    "paragraphs": {
+                        "0": "(1) Where the partnership is at will, the firm may be dissolved by any partner giving notice in writing to all the other partners of his intention to dissolve the firm.",
+                        "1": "(2) The firm is dissolved as from the date mentioned in the notice as the date of dissolution or, if no date is so mentioned, as from the date of the communication of the notice."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Dissolution by the Court.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "At the suit of a partner, the Court may dissolve a firm on any of the following grounds, namely:\u2014",
+                            "contains": {
+                                "0": "(a) that a partner has become of unsound mind, in which case the suit may be brought as well by the next friend of the partner who has become of unsound mind as by any other partner;",
+                                "1": "(b) that a partner, other than the partner suing, has become in any way permanently incapable of performing his duties as partner;",
+                                "2": "(c) that a partner, other than the partner suing, is guilty of conduct which is likely to affect prejudicially the carrying on of the business, regard being had to the nature of the business;",
+                                "3": "(d) that a partner, other than the partner suing, wilfully or persistently commits breach of agreements relating to the management of the affairs of the firm or the conduct of its business, or otherwise so conducts himself in matters relating to the business that it is not reasonably practicable for the other partners to carry on the business in partnership with hint;",
+                                "4": "(e) that a partner, other than the partner suing, has in any way transferred the whole of his interest in the firm to a third party, or has allowed his share to be charged under the provisions of rule 49 of Order XXI of the First Schedule to the Code of Civil Procedure, 1908 (5 of 1908), or has allowed it to be sold in the recovery of arrears of land-revenue or of any dues recoverable as arrears of land- revenue due by the partner;",
+                                "5": "(f) that the business of the firm cannot be carried on save at a loss; or",
+                                "6": "(g) on any ground which renders it just and equitable that the firm should be dissolved."
+                            }
+                        }
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Liability for acts of partners done after dissolution.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding the dissolution of a firm, the partners continue to be liable as such to third parties for any act done by any of them which would have been an act of the firm if done before the dissolution, until public notice is given of the dissolution:",
+                        "1": "Provided that the estate of a partner who dies, or who is adjudicated an insolvent, or of a partner who, not having been known to the person dealing with the firm to be a partner, retires from the firm, is not liable under this section for acts done after the date on which he ceases to be a partner.",
+                        "2": "(2) Notices under sub-section (1) may be given by any partner."
+                    }
+                },
+                "Section 46.": {
+                    "heading": "Right of partners to have business wound up after dissolution.",
+                    "paragraphs": {
+                        "0": "On the dissolution of a firm every partner or his representative is entitled, as against all the other partners or their representatives, to have the property of the firm applied in payment of the debts and liabilities of the firm, and to have the surplus distributed among the partners or their representatives according to their rights."
+                    }
+                },
+                "Section 47.": {
+                    "heading": "Continuing authority of partners for purposes of winding up.",
+                    "paragraphs": {
+                        "0": "After the dissolution of a firm the authority of each partner to bind the firm, and the other mutual rights and obligations of the partners, continue notwithstanding the dissolution, so far as may be necessary to wind up the affairs of the firm and to complete transactions begun but unfinished at the time of the dissolution, but not otherwise:",
+                        "1": "Provided that the firm is in no case bound by the acts of a partner who has been adjudicated insolvent; but this proviso does not affect the liability of any person who has after the adjudication represented himself or knowingly permitted himself to be represented as a partner of the insolvent."
+                    }
+                },
+                "Section 48.": {
+                    "heading": "Mode of settlement of accounts between partners.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In settling the accounts of a firm after dissolution, the following rules shall, subject to agreement by the partners, be observed: \u2014",
+                            "contains": {
+                                "0": "(a) Losses, including deficiencies of capital, shall be paid first out of profits, next out of capital, and, lastly, if necessary, by the partners individually in the proportions in which they were entitled to share profits.",
+                                "1": {
+                                    "text": "(b) The assets of the firm, including any sums contributed by the partners to make up deficiencies of capital, shall be applied in the following manner and order:\u2014",
+                                    "contains": {
+                                        "0": "(i) in paying the debts of the firm to third parties;",
+                                        "1": "(ii) in paying to each partner rateably what is due to him from the firm for advances as distinguished from capital;",
+                                        "2": "(iii) in paying to each partner rateably what is due to him on account of capital; and",
+                                        "3": "(iv) the residue, if any, shall be divided among the partners in the proportions in which they were entitled to share profits."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 49.": {
+                    "heading": "Payment of firm debts and of separate debts.",
+                    "paragraphs": {
+                        "0": "Where there are joint debts due from the firm, and also separate debts due from any partner, the property of the firm shall be applied in the first instance in payment of the debts of the firm, and, if there is any surplus, then the share of each partner shall be applied in payment of his separate debts or paid to him. The separate property of any partner shall be applied first, in the payment of his separate debts, and the surplus (if any) in the payment of the debts of the firm."
+                    }
+                },
+                "Section 50.": {
+                    "heading": "Personal profits earned after dissolution.",
+                    "paragraphs": {
+                        "0": "Subject to contract between the partners, the provisions of clause (a) of section 16 shall apply to transactions by any surviving partner or by the representatives of a deceased partner, undertaken after the firm is dissolved on account of the death of a partner and before its affairs have been completely wound up:",
+                        "1": "Provided that where any partner or his representative has bought the goodwill of the firm, nothing in this section shall affect his right to use the firm name."
+                    }
+                },
+                "Section 51.": {
+                    "heading": "Return of premium on premature dissolution.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Where a partner has paid a premium on entering into partnership for a fixed term, and the firm is dissolved before the expiration of that term otherwise than by the death of a partner, he shall be entitled to repayment of the premium or of such part thereof as may be reasonable, regard being had to the terms upon which he became a partner and to the length of time during which he was a partner, unless\u2014",
+                            "contains": {
+                                "0": "(a) the dissolution is mainly due to his own misconduct, or",
+                                "1": "(b) the dissolution is in pursuance of an agreement containing no provision for the return of the premium or any part of it."
+                            }
+                        }
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Rights where partnership contract is rescinded for fraud or misrepresentation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Where a contract creating partnership is rescinded on the ground of the fraud or misrepresentationofany of the parties thereto, the party entitled to rescind is, without prejudice to any other right, entitled\u2014",
+                            "contains": {
+                                "0": "(a) to a lien on, or a right of retention of, the surplus or the assets of the firm remaining after the debts of the firm have been paid, for any sum paid by him for the purchase of a share in the firm and for any capital contributed by him;",
+                                "1": "(b) to rank as a creditor of the firm in respect of any payment made by him towards the debts of the firm; and",
+                                "2": "(c) to be indemnified by the partner or partners guilty of the fraud or misrepresentation against all the debts of the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 53.": {
+                    "heading": "Right to restrain from use of firm name or firm property.",
+                    "paragraphs": {
+                        "0": "After a firm is dissolved, every partner or his representative may, in the absence of a contract between the partners to the contrary, restrain any other partner or his representative from carrying on a similar business in the firm name or from using any of the property of the firm for his own benefit, until the affairs of the firm have been completely wound up:",
+                        "1": "Provided that where any partner or his representative has bought the goodwill of the firm, nothing in this section shall affect his right to use the firm name."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Agreements in restraint of trade.",
+                    "paragraphs": {
+                        "0": "Partners may, upon or in anticipation of the dissolution of the firm, make an agreement that some or all of them will not carry on a business similar to that of the firm within a specified period or within specified local limits; and notwithstanding anything contained in section 27 of the Indian Contract Act, 1872 (9 of 1872), such agreement shall be valid if the restrictions imposed are reasonable."
+                    }
+                },
+                "Section 55.": {
+                    "heading": "Sale of goodwill after dissolution.",
+                    "paragraphs": {
+                        "0": "(1) In settling the accounts of a firm after dissolution, the goodwill shall, subject to contract between the partners, be included in the assets, and it may be sold either separately or along with other property of the firm.",
+                        "1": {
+                            "text": "(2) Where the goodwill of a firm is sold after dissolution, a partner may carry on a business competing with that of the buyer and he may advertise such business, but, subject to agreement between him and the buyer, he may not\u2014",
+                            "contains": {
+                                "0": "(a) use the firm name,",
+                                "1": "(c) represent himself as carrying on the business of the firm, or",
+                                "2": "(c) solicit the custom of persons who were dealing with the firm before its dissolution."
+                            }
+                        },
+                        "2": "(3) Any partner may, upon the sale of the goodwill of a firm, make an agreement with the buyer that such partner will not carry on any business similar to that of the firm within a specified period or within specified local limits, and, notwithstanding anything contained in section 27 of the Indian Contract Act, 1872 (9 of 1872), such agreement shall be valid if the restrictions imposed are reasonable."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "REGISTRATION OF FIRMS",
+            "Sections": {
+                "Section 56.": {
+                    "heading": "Power to exempt from application of this Chapter.",
+                    "paragraphs": {
+                        "0": "The1[State Government of any State] may, by notification in the Official Gazette, direct that the provisions of this Chapter shall not apply to 2[that State] or to any part thereof specified in the notification."
+                    }
+                },
+                "Section 57.": {
+                    "heading": "Appointment of Registrars.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may appoint Registrars of Firms for the purposes of this Act, and may define the areas within which they shall exercise their powers and perform their duties.",
+                        "1": "(2) Every Registrar shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 58.": {
+                    "heading": "Application for registration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The registration of a firm may be effected at any time by sending by post or delivering to the Registrar of the area in which any place of business of the firm is situated or proposed to be situated, a statement in the prescribed form and accompanied by the prescribed fee, stating\u2014",
+                            "contains": {
+                                "0": "(a) the firm name,",
+                                "1": "(b) the place or principal place of business of the firm,",
+                                "2": "(c) the names of any other places where the firm carries on business,",
+                                "3": "(d) the date when each partner joined the firm,",
+                                "4": "(e) the names in full and permanent addresses of the partners, and",
+                                "5": "(f) the duration of the firm."
+                            }
+                        },
+                        "1": "The statement shall be signed by all the partners, or by their agents specially authorised in thisbehalf.",
+                        "2": "(2) Each person signing the statement shall also verify it in the manner prescribed.",
+                        "3": {
+                            "text": "(3) A firm name shall not contain any of the following words, namely:\u2014",
+                            "contains": {
+                                "0": "\u201cCrown\u201d, \u201cEmperor\u201d, \u201cEmpress\u201d, \u201cEmpire\u201d, \u201cImperial\u201d, \u201cKing\u201d, \u201cQueen\u201d, \u201cRoyal\u201d, orwords expressing or implying the sanction, approval or patronage of1*** Government 2***,except 3[when the State Government] signifies 4[its] consent to the use of such words as part of the firm name by order in writing 5***"
+                            }
+                        }
+                    }
+                },
+                "Section 59.": {
+                    "heading": "Registration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Where the Registrar is satisfied that the provisions of section 58 have been duly complied with, he shall record an entry of the statement in a register called the Register of Firms, and shall file the statement.",
+                            "contains": {
+                                "0": "STATE AMENDMENTS"
+                            }
+                        },
+                        "1": {
+                            "text": "Karnataka",
+                            "contains": {
+                                "0": "Amendment of section 59A.\u2014In section 59A of the Indian Partnership Act, 1932 (Central Act IX of 1932), in sub-section (1), for the words \u201cby reason of the reorganization of States\u201d, the words, figures and brackets \u201cby reason of the addition of the Bellary District to the State of Mysore under the Andhra State Act, 1953 (Central Act XXX of 1953), or of the reorganization of States under the States Reorganisation Act, 1956 (Central Act 37 of 1956)\u201d shall be substituted.",
+                                "1": "[Vide Karnataka Act 19 of 1961, s. 2]"
+                            }
+                        },
+                        "2": {
+                            "text": "Maharashtra",
+                            "contains": {
+                                "0": "Amendment of section 59A-1 of IX of 1932.-In section 59A-1 of the Indian Partnership Act, 1932 (IX of 1932), in its application to the State of Maharashtra (hereinafter referred to as \"the principal Act\"), for the words \"one hundred rupees\" the words \"one thousand rupees\" shall be substituted."
+                            }
+                        },
+                        "3": "[Vide Maharashtra Act 16 of 2018, s. 2]"
+                    }
+                },
+                "Section 60.": {
+                    "heading": "Recording of alterations in firm name and principal place of business.",
+                    "paragraphs": {
+                        "0": "(1) When an alteration is made in the firm name or in the location of the principal place of business of a registered firm, a statement may be sent to the Registrar accompanied by the prescribed fee, specifying the alteration, and signed and verified in the manner required under section 58.",
+                        "1": "(2) When the Registrar is satisfied that the provisions of sub-section (1) have been duly complied with, he shall amend the entry relating to the firm in the Register of Firms in accordance with the statement, and shall file it along with the statement relating to the firm filed under section 59."
+                    }
+                },
+                "Section 61.": {
+                    "heading": "Noting of closing and opening of branches.",
+                    "paragraphs": {
+                        "0": "When a registered firm discontinues business at any place or begins to carry or business at any place, such place not being its principal place of business, any partner or agent of the firm may send intimation thereof to the Registrar, who shall make a note of such intimation in the entry relating to the firm in the Register of Firms, and shall file the intimation along with the statement relating to the firm filed under section 59."
+                    }
+                },
+                "Section 62.": {
+                    "heading": "Noting of changes in names and addresses of partners.",
+                    "paragraphs": {
+                        "0": "When anypartner in a registered firm alters his name or permanent address, an intimation of the alteration may be sent by any partner or agent of the firm to the Registrar, who shall deal with it in the manner provided in section 61."
+                    }
+                },
+                "Section 63.": {
+                    "heading": "Recording of changes in and dissolution of a firm.",
+                    "paragraphs": {
+                        "0": "(1) When a change occurs in the constitution of a registered firm any incoming, continuing or outgoingpartner, and when a registered firm is dissolved any person who was a partner immediately before the dissolution, or the agent of any such partner or person specially authorised in this behalf, may give notice to the Registrar of such change or dissolution, specifying the date thereof; and the Registrar shall make a record of the notice in theentry relating to the firm in the Register of Firms, and shall file the notice along with the statement relating to the firm filed under section 59.",
+                        "1": "(2) When a minor who has been admitted to the benefits of partnership in a firm attains majority and elects to become or not to become a partner, and the firm is then a registered firm, he, or his agent specially authorised in this behalf, may give notice to the Registrar that he has or has not become a partner, and the Registrar shall deal with the notice in the manner provided in sub-section (1)"
+                    }
+                },
+                "Section 64.": {
+                    "heading": "Rectification of mistakes.",
+                    "paragraphs": {
+                        "0": "(1) The Registrar shill have power at all times to rectify any mistake in order to bring the entry in the Register of Firms relating to any firm into conformity with the documents relating to that firm filed under this Chapter.",
+                        "1": "(2) On application made by all the parties who have signed any document relating to a firm filed under this Chapter, the Registrar may rectify any mistake in such document or in the record or note thereof made in the Register of Firms."
+                    }
+                },
+                "Section 65.": {
+                    "heading": "Amendment of Register by order of Court.",
+                    "paragraphs": {
+                        "0": "A Court deciding any matter relating to a registered firm may direct that the Registrar shall make any amendment in the entry in the Register of Firms relating to such firm which is consequential upon its decision; and the Registrar shall amend the entry accordingly."
+                    }
+                },
+                "Section 66.": {
+                    "heading": "Inspection of Register and filed documents.",
+                    "paragraphs": {
+                        "0": "(1) The Register of Firms shall be open to inspection by any person on payment of such fee as may be prescribed.",
+                        "1": "(2) All statements, notices and intimations filed under this Chapter shall be open to inspection, subject to such conditions and on payment of such fee as may be prescribed."
+                    }
+                },
+                "Section 67.": {
+                    "heading": "Grant of copies.",
+                    "paragraphs": {
+                        "0": "The Registrar shall on application furnish to any person, on payment of such fee as may be prescribed, a copy, certified under his hand, of any entry or portion thereof in the Register of Firms."
+                    }
+                },
+                "Section 68.": {
+                    "heading": "Rules of evidence.",
+                    "paragraphs": {
+                        "0": "(1) Any statement, intimation or notice recorded or noted in the Register of Firms shall, as against any person by whom or on whose behalf such statement, intimation or notice was signed, be conclusive proof of any fact therein stated.",
+                        "1": "(2) A certified copy of an entry relating to a firm in the Register of Firms may be produced in proof of the fact of the registration of such firm, and of the contents of any statement, intimation or notice recorded or noted therein."
+                    }
+                },
+                "Section 69.": {
+                    "heading": "Effect of non-registration.",
+                    "paragraphs": {
+                        "0": "(1) No suit to enforce a right arising from a contract or conferred by this Act shall be institutes in any Court by or on behalf of any person suing as a partner in a firm against the firm or any person alleged to be or to have been a partner in the firm unless the firm is registered and the person suing is or has been shown in the Register of Firms as a partner in the firm.",
+                        "1": {
+                            "text": "(2) No suit to enforce a tight arising from a contract shall be instituted in any Court by or on behalf of a firm against any third party unless the firm is registered and the persons suing are or have been shown in the Register of Firms as partners in the firm. (3) The provisions of sub-sections (1) and (2) shall apply also to a claim of set-off or other proceeding to enforce a right arising from a contract, but shall not affect\u2014 (a) the enforcement of any right to sue for the dissolution of a firm or for accounts of a dissolved firm, or a ay right or power to realise the property of a dissolved firm, or (b) the powers of an official assignee, receiver or Court under the Presidency-towns Insolvency Act, 1909 (2 of 1909), or the Provincial Insolvency Act, 1920 (5 of 1920), to realise the property of an insolvent partner. (4) This section shall not apply\u2014 (a) to firms or to partners in firms which have no place of business in 1[the territories to which this Act extends], or whose places of business in 2[the said territories] are situated in areas to which, by notification under 3[section 56], this Chapter does not apply, or (b) to any suit or claim of set-off not exceeding one hundred rupees in value which, in the Presidency-towns, is not of a kind specified in section 19 of the Presidency Small Cause Courts Act, 1882 (15 of 1882), or, outside the Presidency-towns, is not of a kind specified in the Second Schedule to the Provincial Small Cause Courts Act, 1887 (9 of 1887), or to any proceeding in execution or other proceeding incidental to or arising from any such suit or claim.",
+                            "contains": {
+                                "0": "STATE AMENDMENT"
+                            }
+                        },
+                        "2": {
+                            "text": "Maharashtra",
+                            "contains": {
+                                "0": "Substitution of section 69A of IX of 1932.--For section 69A of the principal Act, the following section shall be substituted, namely:--",
+                                "1": "\"69A. Charges for delay in compliance of section 60, 61, 62 or 63.--If any statement, intimation or notice under section 60, 61, 62 or as the case may be, 63, in respect of any registered firm is not sent or given to the Registrar, within the period specified in that section, the Registrar may, make suitable amendments in the records relating to the firm, upon payment of charges for delay in sending or giving the same, at the rate of rupees two thousand per year or part thereof in respect of the period between the date of expiry of the period specified in that section and the date of making the payment.\u201d.",
+                                "2": "[Vide Maharashtra Act 16 of 2018, s. 3]"
+                            }
+                        }
+                    }
+                },
+                "Section 70.": {
+                    "heading": "Penalty for furnishing false particulars.",
+                    "paragraphs": {
+                        "0": "Any person who signs any statement, amending statement, notice or intimation under this Chapter containing any particular which he knows to be false or does not believe to be true, or containing particulars which he knows to be incomplete or does not believe to be complete, shall be punishable with imprisonment which may extend to three months, or with fine, or with both."
+                    }
+                },
+                "Section 71.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The 4[State Government] 5[may by notification in the Official Gazette make rules] prescribing the fees which shall accompany documents sent to the Registrar of Firms, or which shall be payable for the inspection of documents in the custody of the Registrar of Firms, or for copies from the Register of Firms: Provided that such fees shall not exceed the maximum fees specified in Schedule I. (2) The State Government may 6[also] make rules\u2014",
+                            "contains": {
+                                "0": "(a)prescribing the form of statement submitted under section 58, and of the verification thereof; (b) requiring statements, intimations and notices under sections 60, 61, 62 and 63 to be in prescribed form,and prescribing the form thereof; (c) prescribing the form of the Register of Firms, and the mode in which entries relating to firms are to be made therein, and the mode in which such entries are to be amended or notes made therein; (d) regulating the procedure of the Registrar when disputes arise; (e) regulating the filing of documents received by the Registrar; (f) prescribing conditions for the inspection of original documents; (g) regulating the grant of copies; (h) regulating the elimination of registers and documents; (i) providing for the maintenance and form of an index to the Register of Firms; and (j) generally, to carry out the purposes of this Chapter."
+                            }
+                        },
+                        "1": "(3) All rules made under this section shall be subject to the condition of previous publication.",
+                        "2": "1[(4) Every rule made by the State Government under this section shall be laid, as soon as it is made, before the State Legislature.]"
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VIII",
+            "Name": "SUPPLEMENTAL",
+            "Sections": {
+                "Section 72.": {
+                    "heading": "Mode of giving public notice.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "A public notice under this Act is given\u2014",
+                            "contains": {
+                                "0": "(a) where it relates to the retirement or expulsion of a partner from a registered firm, or to the dissolution of a registered firm, or to the election to become or not to become a partner in a registered firm by a person attaining majority who was admitted as a minor to the benefits of partnership, by notice to the Registrar of Firms under section 63, and by publication in the Official Gazette and in at least one vernacular newspaper circulating in the district where the firm to which it relates has its place or principal place of business, and",
+                                "1": "(b) in any other case, by publication in the Official Gazette and in at least one vernacular newspaper circulating in the district where the firm to which it relates has its place or principal place of business."
+                            }
+                        }
+                    }
+                },
+                "Section 73.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Repeals.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and Schedule."
+                    }
+                },
+                "Section 74.": {
+                    "heading": "Savings.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Nothing in this Act or any repeal effected thereby shall affect or be deemed to affect\u2014",
+                            "contains": {
+                                "0": "(a) any right, title, interest, obligation or liability already acquired, accrued or incurred before the \u2022 commencement of this Act, or",
+                                "1": "(b) any legal proceeding or remedy in respect of any such right, title, interest, obligation or liability, or anything done or suffered before the commencement of this Act, or",
+                                "2": "(c) anything done or suffered before the commencement of this Act, or",
+                                "3": "(d) any enactment relating to partnership not expressly repealed by this Act, or",
+                                "4": "(e) any rule of insolvency relating to partnership, or",
+                                "5": "(f) any rule of law not inconsistent with this Act."
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "SCHEDULE I": {
+            "0": "SCHEDULE I",
+            "1": "MAXIMUM FEES",
+            "2": "[See sub-section (1) of section 71.]",
+            "3": "Document or act in respect of which Maximum fee the fee is payable",
+            "4": "Statement under section 58\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... Three rupees.",
+            "5": "Statement under section 60\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... One rupee.",
+            "6": "Intimation under section 61\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026... One rupee.",
+            "7": "Intimation under section 62 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.. One rupee.",
+            "8": "Notice under section 63\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. One rupee.",
+            "9": "Application under section 64\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 One rupee.",
+            "10": "Inspection of the Register of Firms under Eight annas for inspecting one",
+            "11": "sub-section (1) of section 66\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026 volume of the Register.",
+            "12": "Inspection of documents relating to a firm Eight annas for the inspection",
+            "13": {
+                "text": "under sub-section (2) of section 66\u2026\u2026.\u2026\u2026\u2026\u2026.. of all documents relating to onefirm.",
+                "contains": {
+                    "0": "Four annas for each hundred Copies from the Register of Firms words of part thereof.",
+                    "1": "STATE AMENDMENTS"
+                }
+            },
+            "14": {
+                "text": "Karnataka",
+                "contains": {
+                    "0": "Amendment of Schedule I.\u2014In schedule I to the Indian Partnership Act, 1932 (Central Act 9 of 1932),\u2014",
+                    "1": "(1) for the words \u201cThree rupees\u201d and \u201cFour annas\u201d, where they occur, the words \u201cone hundred rupees\u201d, and \u201cone rupees\u201d, shall respectively be substituted;",
+                    "2": "(2) for the words \u201cOne rupee\u201d appearing against \u201cStatement under section 60\u201d, the words, \u201cfifty rupees\u201d, shall be substituted;",
+                    "3": "(3) for the words \u201cOne rupee\u201d appearing against \u201cIntimation under section 61,\u201d \u201cIntimation under 62\u201d and \u201cNotice under section 63\u201d and \u201capplication under section 64,\u201d the words \u201cTwenty five rupees\u201d shall respectively be substituted.",
+                    "4": "(4) for the words, \u201cEight annas\u201d appearing against \u201cInspection of the Register of Firms under sub- section (1) of section 66\u201d, the words, \u201cTwenty rupees\u201d, shall be substituted;",
+                    "5": "(5) for the words, \u201cEight annas\u201d, appearing against \u201cInspection of documents relating to a firm under sub-section (2) of section 66\u201d, the words \u201cTen rupees\u201d shall be substituted."
+                }
+            },
+            "15": {
+                "text": "[Vide Karnataka Act 1 of 1987, s. 2].",
+                "contains": {
+                    "0": "STATE AMENDMENT Kerala Substitution of new Schedule for Schedule I.-In the Indian Partnership Act, 1932 (Central Act 9 of 1932), for Schedule I, the following Schedule shall be substituted, namely"
+                }
+            }
+        },
+        "SCHEDULE II.\u2014[Repealed.].": {
+            "0": {
+                "text": "\u201cSCHEDULEI MaximumFees [See sub-section (1) of section 71]",
+                "contains": {
+                    "0": "Maximum fee Document or act in respect of which the fee is payable Statement under section 58 Five hundred rupees."
+                }
+            },
+            "1": "Statement under section 60 Two hundred rupees.",
+            "2": "Intimation under section 61 Two hundred rupees.",
+            "3": "Intimation under Section 62 Two hundred rupees",
+            "4": "Notice under section 63 Two hundred rupees",
+            "5": "Application udner section 64 Two hundred rupees",
+            "6": "Inspection of the Register of Firms under sub-section Fifty Rupees for inspecting one volumn of (1) of section 66 theRegister.",
+            "7": "Inspection of documents relating to a firm under sub- One hundred rupees for the inspection of all section (2) of section 66 documents relating to one firm.",
+            "8": "Copies from the Register of Firms One hundred rupees for each hundred words or a part thereof.\u201d",
+            "9": {
+                "text": "[Vide Kerala Act 32 of 2013, s. 2] STATE AMENDMENT Kerala Substitution of new Schedule for Schedule I.-In the Indian Partnership Act, 1932 (Central Act 9 of 1932), for Schedule I, the following Schedule shall be substituted, namely:-",
+                "contains": {
+                    "0": "\u201cSCHEDULEI",
+                    "1": "MaximumFees",
+                    "2": {
+                        "text": "[See sub-section (1) of section 71]",
+                        "contains": {
+                            "0": "Maximum fee Document or act in respect of which the fee is payable Statement under section 58 Fifteen rupees Statement under section 60 Five rupees Intimation under section 61 Five rupees Intimation under section 62 Five rupees Notice under section 63 Five rupees Application under section 64 Five rupees Inspection of the Register of Firms under sub-section Two rupees for inspecting one volume of the (1) of section 66 Register Inspection of documents relating to a firm under sub- Two rupees for the inspection of all section (2) of section 66 documents relating to one firm Copies from the Register of Firms Fifty paise for each hundred words or part thereof.\u201d"
+                        }
+                    }
+                }
+            },
+            "10": {
+                "text": "[Vide kerala Act 25 of 1973, s. 2]",
+                "contains": {
+                    "0": "SCHEDULE II\u2014[Enactments Repealed.] Rep. by Repealing Act, 1938 (1 of 1938),s. 2 and the Schedule."
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 4": {
+            "0": "1. Subs. by the A. O. 1950, for sub-section (2).",
+            "1": "2. Subs. by Act 3 of 1951, s. 3 and the Schedule, for \u201cexcept Part B States\u201d.",
+            "2": "3. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-2019)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by the A.O. 1937, for \u201cG. G. in C.\u201d.",
+            "1": "2. Subs. ibid., for \u201cany province\u201d."
+        },
+        "Page 14": {
+            "0": "1. The words \u201cthe Crown or the Central Government or any Provincial\u201d omitted by the A. O. 1950. The words \u201ctheCentralGovernment or any Provincial Government or the Crown Representative\u201d were subs. by the A. O. 1937 for \u201cthe G. of I. ora L. G.\u201d",
+            "1": "2. The words \u201cor the Crown Representative\u201d omitted by the A.O. 1948.",
+            "2": "3. Subs. by the A.O. 1937, for \u201cwhen the G.G. in C.\u201d.",
+            "3": "4. Subs.ibid. for \u201chis\u201d",
+            "4": "5. The words \u201cunder the hand of one of the Secretaries to the G. of I.\u201d omitted, ibid."
+        },
+        "Page 16": {
+            "0": "1. Subs. by Act 3 of 1951, s. 3 and the Schedule, for \u201cPart A States and Part C States\u201d.",
+            "1": "2. Subs. by s. 3 and the Schedule, ibid.,for \u201csuch States\u201d.",
+            "2": "3. Subs. by Act 24 of 1934, s. 2 and the First Schedule, for \u201csection 55\u201d.",
+            "3": "4. Subs. by the A.O. 1937, for \u201cG.G. in C.\u201d.",
+            "4": "5. Subs. by Act 20 of 1983, s. 2 and the Schedule, for \u201cmay make rules\u201d (w.e.f. 15-3-1984).",
+            "5": "6. Ins. by the A.O. 1937."
+        },
+        "Page 17": {
+            "0": "1. Ins. by Act 20 of 1983, s. 2 and Schedule (w.e.f. 15-3-1984)."
+        }
+    }
+}

@@ -1,0 +1,593 @@
+{
+    "Act Title": "THE ARCHITECTS ACT, 1972",
+    "Act ID": "ACT NO. 20 OF 1972",
+    "Enactment Date": "[31st May, 1972.]",
+    "Act Definition": {
+        "0": "An Act to provide for the registration of architects and for matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Architects Act, 1972.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201carchitect\u201d means a person whose name is for the time being entered in the register;",
+                                "1": "(b) \u201cCouncil\u201d means the Council of Architecture constituted under section 3;",
+                                "2": "(c) \u201cIndian Institute of Architects\u201d means the Indian Institute of Architects registered under the Societies Registration Act, 1860 (21 of 1860);",
+                                "3": "(d) \u201crecognised qualification\u201d means any qualification in architecture for the time being included in the Schedule or notified under section 15;",
+                                "4": "(e) \u201cregister\u201d means the register of architects maintained under section 23;",
+                                "5": "(f) \u201cregulation\u201d means a regulation made under this Act by the Council;",
+                                "6": "(g) \u201crule\u201d means a rule made under this Act by the Central Government."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "COUNCIL OF ARCHITECTURE",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Constitution of Council of Architecture.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, by notification in the Official Gazette, constitute, with effect from such date as may be specified in the notification, a Council to be known as the Council of Architecture, which shall be a body corporate, having perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract, and may by that name sue or be sued.",
+                        "1": "(2) The Head Office of the Council shall be at Delhi or at such other place as the Central Government may, by notification in the Official Gazette, specify.",
+                        "2": {
+                            "text": "(3) The Council shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(a) five architects possessing recognised qualifications elected by the Indian Institute of Architects from among its members;",
+                                "1": "(b) two persons nominated by the All India Council for Technical Education established by the Resolution of the Government of India in the late Ministry of Education No. F.16-10/44-E. III, dated the 30th November, 1945;",
+                                "2": "(c) five persons elected from among themselves by heads of architectural institutions in India imparting full-time instruction for recognised qualifications;",
+                                "3": "(d) the Chief Architects in the Ministries of the Central Government to which the Government business relating to defence and railways has been allotted and the head of the Architectural Organisation in the Central Public Works Department, ex officio;",
+                                "4": "(e) one person nominated by the Central Government;",
+                                "5": "(f) an architect from each State nominated by the Government of that State;",
+                                "6": "(g) two persons nominated by the Institution of Engineers (India) from among its members; and",
+                                "7": "(h) one person nominated by the Institution of Surveyors of India from among its members."
+                            }
+                        },
+                        "3": {
+                            "text": "Explanation.\u2014For the purposes of this sub-section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cInstitution of Engineers (India)\u201d means the Institution of Engineers (India) first registered in 1920 under the Indian Companies Act, 1913 (7 of 1913) and subsequently incorporated by a Royal Charter in 1935;",
+                                "1": "(b) \u201cInstitution of Surveyors of India\u201d means the Institution of Surveyors registered under the Societies Registration Act, 1860 (21 of 1860)."
+                            }
+                        },
+                        "4": "(4) Notwithstanding anything contained in clause (a) of sub-section (3), the Central Government may, pending the preparation of the register, nominate to the first Council, in consultation with the Indian Institute of Architects, persons referred to in the said clause (a) who are qualified for registration under section 25, and the persons so nominated shall hold office for such period as the Central Government may, by notification in the Official Gazette, specify.",
+                        "5": "(5) Notwithstanding anything contained in clause (f) of sub-section (3), the Central Government may, pending the preparation of the register, nominate to the first Council, in consultation with the State Governments concerned, persons referred to in the said clause (f), who are qualified for registration under section 25, and the persons so nominated shall hold office for such period as the Central Government may, by notification in the Official Gazette, specify."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "President and Vice-President of Council.",
+                    "paragraphs": {
+                        "0": "(1) The President and the Vice-President of the Council shall be elected by the members of the Council from among themselves:",
+                        "1": "Provided that on the first constitution of the Council and until the President is elected, a member of the Council nominated by the Central Government in this behalf shall discharge the functions of the President.",
+                        "2": "(2) An elected President or Vice-President of the Council shall hold office for a term of three years or till he ceases to be a member of the Council, whichever is earlier, but subject to his being a member of the Council, he shall be eligible for re-election:",
+                        "3": {
+                            "text": "Provided that\u2014",
+                            "contains": {
+                                "0": "(a) the President or the Vice-President may, by writing under his hand addressed to the Vice-President or the President, as the case may be, resign his office;",
+                                "1": "(b) the President or the Vice-President shall, notwithstanding the expiry of his term of three years, continue to hold office until his successor enters upon office."
+                            }
+                        },
+                        "4": "(3) The President and the Vice-President of the Council shall exercise such powers and discharge such duties as may be prescribed by regulations."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Mode of elections.",
+                    "paragraphs": {
+                        "0": "(1) Elections under this Chapter shall be conducted in such manner as may be prescribed by rules.",
+                        "1": "(2) Where any dispute arises regarding any such election, the matter shall be referred by the Council to a Tribunal appointed by the Central Government by notification in the Official Gazette in this behalf, and the decision of the Tribunal shall be final:",
+                        "2": "Provided that no such reference shall be made except on an application made to the Council by an aggrieved party within thirty days from the date of the declaration of the result of the election.",
+                        "3": "(3) The expenses of the Tribunal shall be borne by the Council."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Terms of office and casual vacancies.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this section, an elected or nominated member shall hold office for a term of three years from the date of his election or nomination or until his successor has been duly elected or nominated, whichever is later.",
+                        "1": "(2) An elected or nominated member may, at any time, resign his membership by writing under his hand addressed to the President, or in his absence, to the Vice-President, and the seat of such member shall thereupon become vacant.",
+                        "2": {
+                            "text": "(3) A member shall be deemed to have vacated his seat\u2014",
+                            "contains": {
+                                "0": "(i) if he is absent without excuse, sufficient in the opinion of the Council, from three consecutive ordinary meetings of the Council; or",
+                                "1": "(ii) if he ceases to be a member of the body referred to in clause (a), clause (g) or clause (h) of sub-section (3) of section 3 by which he was elected or nominated, as the case may be; or",
+                                "2": "(iii) in the case where he has been elected under clause (c) of sub-section (3) of section 3, if he ceases to hold his appointment as the head of an institution referred to in the said clause."
+                            }
+                        },
+                        "3": "(4) A casual vacancy in the Council shall be filled by fresh election or nomination, as the case may be, and the person so elected or nominated to fill the vacancy shall hold office only for the remainder of the term for which the member whose place he takes was elected or nominated.",
+                        "4": "(5) Members of the Council shall be eligible for re-election or re-nomination, but not exceeding three consecutive terms."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Validity of act or proceeding of Council, Executive Committee or other committees not to be invalidated by reason of vacancy, etc.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No act or proceeding of the Council or the Executive Committee or any other committee shall be invalid merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or defect in the constitution of, the Council, the Executive Committee or any other committee, or",
+                                "1": "(b) any defect in the election or nomination of a person acting as a member thereof, or",
+                                "2": "(c) any irregularity in procedure not affecting the merits of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Disabilities.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "A person shall not be eligible for election or nomination as a member of the Council, if he\u2014",
+                            "contains": {
+                                "0": "(a) is an undischarged insolvent; or",
+                                "1": "(b) has been convicted by a court in India for any offence and sentenced to imprisonment for not less than two years, and shall continue to be ineligible for a further period of five years since his release."
+                            }
+                        }
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Meetings of Council.",
+                    "paragraphs": {
+                        "0": "(1) The Council shall meet at least once in every six months at such time and place and shall observe such rules of procedure in regard to the transaction of business at its meetings as may be prescribed by regulations.",
+                        "1": "(2) Unless otherwise prescribed by regulations, nine members of the Council shall form a quorum, and all the acts of the Council shall be decided by a majority of the members present and voting.",
+                        "2": "(3) In the case of an equal division of votes, the President, or in his absence, the Vice-President or, in the absence of both, the member presiding over the meeting, shall have and exercise a second or casting vote."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Executive Committee and other committees.",
+                    "paragraphs": {
+                        "0": "(1) The Council shall constitute from among its members an Executive Committee, and may also constitute other committees for such general or special purposes as the Council deems necessary to carry out its functions under this Act.",
+                        "1": "(2) The Executive Committee shall consist of the President and the Vice-President of the Council who shall be members ex officio and five other members who shall be elected by the Council from among its members.",
+                        "2": "(3) The President and the Vice-President of the Council shall be the Chairman and Vice-Chairman respectively of the Executive Committee.",
+                        "3": "(4) A member of the Executive Committee shall hold office as such until the expiry of his term as a member of the Council but subject to his being a member of the Council, he shall be eligible for re-election.",
+                        "4": "(5) In addition to the powers and duties conferred and imposed on it by this Act, the Executive Committee shall exercise such powers and discharge such duties as may be prescribed by regulations."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Fees and allowances to President, Vice-President and members.",
+                    "paragraphs": {
+                        "0": "The President, the Vice-President and other members of the Council shall be entitled to such fees and allowances as the Council may, with the previous sanction of the Central Government, fix in this behalf."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Officers and other employees.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Council shall\u2014",
+                            "contains": {
+                                "0": "(a) appoint a Registrar who shall act as its Secretary and who may also act, if so decided by the Council, as its treasurer;",
+                                "1": "(b) appoint such other officers and employees as the Council deems necessary to enable it to carry out its functions under this Act;",
+                                "2": "(c) with the previous sanction of the Central Government, fix the pay and allowances and other conditions of service of officers and other employees of the Council."
+                            }
+                        },
+                        "1": "(2) Notwithstanding anything contained in clause (a) of sub-section (1), for the first three years from the first constitution of the Council, the Registrar of the Council shall be a person appointed by the Central Government, who shall hold office during the pleasure of the Central Government.",
+                        "2": "(3) All the persons appointed under this section shall be the employees of the Council."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Finances of Council.",
+                    "paragraphs": {
+                        "0": "(1) There shall be established a Fund under the management and control of the Council into which shall be paid all moneys received by the Council and out of which shall be met all expenses and liabilities properly incurred by the Council.",
+                        "1": "(2) The Council may invest any money for the time being standing to the credit of the Fund in any Government security or in any other security approved by the Central Government.",
+                        "2": "(3) The Council shall keep proper accounts of the Fund distinguishing capital from revenue.",
+                        "3": "(4) The annual accounts of the Council shall be subject to audit by an auditor to be appointed annually by the Council.",
+                        "4": "(5) As soon as may be practicable at the end of each year, but not later than the thirtieth day of September of the year next following, the Council shall cause to be published in the Official Gazette a copy of the audited accounts and the report of the Council for that year and copies of the said accounts and report shall be forwarded to the Central Government.",
+                        "5": {
+                            "text": "(6) The Fund shall consist of\u2014",
+                            "contains": {
+                                "0": "(a) all moneys received from the Central Government by way of grant, gift or deposit;",
+                                "1": "(b) any sums received under this Act whether by way of fee or otherwise."
+                            }
+                        },
+                        "6": "(7) All moneys standing at the credit of Council which cannot immediately be applied shall be deposited in the State Bank of India or in any other bank specified in column 2 of the First Schedule to the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970 (5 of 1970)."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Recognition of qualifications granted by authorities in India.",
+                    "paragraphs": {
+                        "0": "(1) The qualifications included in the Schedule or notified under section 15 shall be recognised qualifications for the purposes of this Act.",
+                        "1": "(2) Any authority in India which grants an architectural qualification not included in the Schedule may apply to the Central Government to have such qualification recognised, and the Central Government, after consultation with the Council, may, by notification in the Official Gazette, amend the Schedule so as to include such qualification therein, and any such notification may also direct that an entry shall be made in the Schedule against such architectural qualification declaring that it shall be a recognised qualification only when granted after a specified date:",
+                        "2": "Provided that until the first Council is constituted, the Central Government shall, before issuing any notification as aforesaid, consult an expert committee consisting of three members to be appointed by the Central Government by notification in the Official Gazette."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Recognition of architectural qualifications granted by authorities in foreign countries.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, after consultation with the Council, direct, by notification in the Official Gazette, that an architectural qualification granted by any university or other institution in any country outside India in respect of which a scheme of reciprocity for the recognition of architectural qualification is not in force, shall be a recognised qualification for the purposes of this Act or, shall be so only when granted after a specified date or before a specified date:",
+                        "1": "Provided that until the first Council is constituted the Central Government shall, before issuing any notification as aforesaid, consult the expert committee set up under the proviso to sub-section (2) of section 14.",
+                        "2": "(2) The Council may enter into negotiations with the authority in any State or country outside India, which by the law of such State or country is entrusted with the maintenance of a register of architects, for settling of a scheme of reciprocity for the recognition of architectural qualifications, and in pursuance of any such scheme, the Central Government may, by notification in the Official Gazette, direct that such architectural qualification as the Council has decided should be recognised, shall be deemed to be a recognised qualification for the purposes of this Act, and any such notification may also direct that such architectural qualification shall be so recognised only when granted after a specified date or before a specified date."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Power of Central Government to amend Schedule.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in sub-section (2) of section 14, the Central Government, after consultation with the Council, may, by notification in the Official Gazette, amend the Schedule by directing that an entry be made therein in respect of any architectural qualification."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Effect of recognition.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in any other law, but subject to the provisions of this Act, any recognised qualification shall be a sufficient qualification for enrolment in the register."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Power to require information as to courses of study and examinations.",
+                    "paragraphs": {
+                        "0": "Every authority in India which grants a recognised qualification shall furnish such information as the Council may, from time to time, require as to the courses of study and examinations to be undergone in order to obtain such qualification, as to the ages at which such courses of study and examinations are required to be undergone and such qualification is conferred and generally as to the requisites for obtaining such qualification."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Inspection of examinations.",
+                    "paragraphs": {
+                        "0": "(1) The Executive Committee shall, subject to regulations, if any, made by the Council, appoint such number of inspectors as it may deem requisite to inspect any college or institution where architectural education is given or to attend any examination held by any college or institution for the purpose of recommending to the Central Government recognition of architectural qualifications granted by that college or institution.",
+                        "1": "(2) The inspectors shall not interfere with the conduct of any training or examination, but shall report to the Executive Committee on the adequacy of the standards of architectural education including staff, equipment, accommodation, training and such other facilities as may be prescribed by regulations for giving such education or on the sufficiency of every examination which they attend.",
+                        "2": "(3) The Executive Committee shall forward a copy of such report to the college or institution and shall also forward copies with remarks, if any, of the college or institution thereon, to the Central Government."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Withdrawal of recognition.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) When upon report by the Executive Committee it appears to the Council\u2014",
+                            "contains": {
+                                "0": "(a) that the courses of study and examination to be undergone in, or the proficiency required from the candidates at any examination held by, any college or institution, or",
+                                "1": "(b) that the staff, equipment, accommodation, training and other facilities for staff and training provided in such college or institution,"
+                            }
+                        },
+                        "1": {
+                            "text": "do not conform to the standards prescribed by regulations, the Council shall make a representation to that effect to appropriate Government.",
+                            "contains": {
+                                "0": "(2) After considering such representation the appropriate Government shall forward it along with such remarks as it may choose to make to the college or institution concerned, with an intimation of the period within which the college or institution, as the case may be, may submit its explanation to the appropriate Government.",
+                                "1": "(3) On receipt of the explanation or where no explanation is submitted within the period fixed, then on the expiry of that period, the State Government, in respect of the college or institution referred to in clause (b) of sub-section (5), shall make its recommendations to the Central Government.",
+                                "2": {
+                                    "text": "(4) The Central Government\u2014",
+                                    "contains": {
+                                        "0": "(a) after making such further enquiry, if any, as it may think fit, in respect of the college or institution referred to in sub-section (3), or",
+                                        "1": "(b) on receipt of the explanation from a college or institution referred to in clause (a) of sub-section (5), or where no explanation is submitted within the period fixed, then on the expiry of that period,"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "text": "may, by notification in the Official Gazette, direct that an entry shall be made in the Schedule against the architectural qualification awarded by such college or institution, as the case may be, declaring that it shall be a recognised qualification only when granted before a specified date and the Schedule shall be deemed to be amended accordingly.",
+                            "contains": {
+                                "0": {
+                                    "text": "(5) For the purposes of this section, \u201cappropriate government\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(a) in relation to any college or institution established by an Act of Parliament or managed, controlled or financed by the Central Government, the Central Government, and",
+                                        "1": "(b) in any other case, the State Government."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Minimum standard of architectural education.",
+                    "paragraphs": {
+                        "0": "The Council may prescribe the minimum standards of architectural education required for granting recognised qualifications by colleges or institutions in India."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Professional conduct.",
+                    "paragraphs": {
+                        "0": "(1) The Council may by regulations prescribe standards of professional conduct and etiquette and a code of ethics for architects.",
+                        "1": "(2) Regulations made by the Council under sub-section (1) may specify which violations thereof shall constitute infamous conduct in any professional respect, that is to say, professional misconduct, and such provision shall have effect notwithstanding anything contained in any law for the time being in force."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "REGISTRATION OF ARCHITECTS",
+            "Sections": {
+                "Section 23.": {
+                    "heading": "Preparation and maintenance of register.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, as soon as may be, cause to be prepared in the manner hereinafter provided a register of architects for India.",
+                        "1": "(2) The Council shall upon its constitution assume the duty of maintaining the register in accordance with the provisions of this Act.",
+                        "2": {
+                            "text": "(3) The register shall include the following particulars, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the full name with date of birth, nationality and residential address of the architect;",
+                                "1": "(b) his qualification for registration, and the date on which he obtained that qualification and the authority which conferred it;",
+                                "2": "(c) the date of his first admission to the register;",
+                                "3": "(d) his professional address; and",
+                                "4": "(e) such further particulars as may be prescribed by rules."
+                            }
+                        }
+                    }
+                },
+                "Section 24.": {
+                    "heading": "First preparation of register.",
+                    "paragraphs": {
+                        "0": "(1) For the purposes of preparing the register of architects for the first time, the Central Government shall, by notification in the Official Gazette, constitute a Registration Tribunal consisting of three persons who have, in the opinion of the Central Government, the knowledge of, or experience in, architecture; and the Registrar appointed under section 12 shall act as Secretary of the Tribunal.",
+                        "1": "(2) The Central Government shall, by the same or a like notification, appoint a date on or before which application for registration, which shall be accompanied by such fee as may be prescribed by rules, shall be made to the Registration Tribunal.",
+                        "2": "(3) The Registration Tribunal shall examine every application received on or before the appointed day and if it is satisfied that the applicant is qualified for registration under section 25, shall direct the entry of the name of the applicant in the register.",
+                        "3": "(4) The first register so prepared shall thereafter be published in such manner as the Central Government may direct and any person aggrieved by a decision of the Registration Tribunal expressed or implied in the register so published may, within thirty days from the date of such publication, appeal against such decision to an authority appointed by the Central Government in this behalf by notification in the Official Gazette.",
+                        "4": "(5) The authority appointed under sub-section (4) shall, after giving the person affected an opportunity of being heard and after calling for relevant records, make such order as it may deem fit.",
+                        "5": "(6) The Registrar shall amend, where necessary, the register in accordance with the decisions of the authority appointed under sub-section (4).",
+                        "6": "(7) Every person whose name is entered in the register shall be issued a certificate of registration in such form as may be prescribed by rules.",
+                        "7": "(8) Upon the constitution of the Council, the register shall be given into its custody, and the Central Government may direct that the whole or any specified part of the application fees for registration in the first register shall be paid to the credit of the Council."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Qualification for entry in register.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "A person shall be entitled on payment of such fee as may be prescribed by rules to have his name entered in the register, if he resides or carries on the profession of architect in India and\u2014",
+                            "contains": {
+                                "0": "(a) holds a recognised qualification, or",
+                                "1": "(b) does not hold such a qualification but, being a citizen of India, has been engaged in practice as an architect for a period of not less than five years prior to the date appointed under sub-section (2) of section 24, or",
+                                "2": "(c) possesses such other qualifications as may be prescribed by rules:"
+                            }
+                        },
+                        "1": {
+                            "text": "Provided that no person other than a citizen of India shall be entitled to registration by virtue of a qualification\u2014",
+                            "contains": {
+                                "0": "(a) recognised under sub-section (1) of section 15 unless by the law and practice of a country outside India to which such person belongs, citizens of India holding architectural qualification registrable in that country are permitted to enter and practise the profession of architect in such country, or",
+                                "1": "(b) unless the Central Government has, in pursuance of a scheme of reciprocity or otherwise, declared that qualification to be a recognised qualification under sub-section (2) of section 15."
+                            }
+                        }
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Procedure for subsequent registration.",
+                    "paragraphs": {
+                        "0": "(1) After the date appointed for the receipt of applications for registration in the first register of architects, all applications for registration shall be addressed to the Registrar of the Council and shall be accompanied by such fee as may be prescribed by rules.",
+                        "1": "(2) If upon such application the Registrar is of opinion that the applicant is entitled to have his name entered in the register he shall enter thereon the name of the applicant:",
+                        "2": "Provided that no person, whose name has under the provisions of this Act been removed from the register, shall be entitled to have his name re-entered in the register except with the approval of the Council.",
+                        "3": "(3) Any person whose application for registration is rejected by the Registrar may, within three months of the date of such rejection, appeal to the Council.",
+                        "4": "(4) Upon entry in the register of a name under this section, the Registrar shall issue a certificate of registration in such form as may be prescribed by rules."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Renewal fees.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette, direct that for the retention of a name in the register after the 31st day of December of the year following the year in which the name is first entered in the register, there shall be paid annually to the Council such renewal fee as may be prescribed by rules and where such direction has been made, such renewal fee shall be due to be paid before the first day of April of the year to which it relates.",
+                        "1": "(2) Where the renewal fee is not paid before the due date, the Registrar shall remove the name of the defaulter from the register:",
+                        "2": "Provided that a name so removed may be restored to the register on, such conditions as may be prescribed by rules.",
+                        "3": "(3) On payment of the renewal fee, the Registrar shall, in such manner as may be prescribed by rules, endorse the certificate of registration accordingly."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Entry of additional qualification.",
+                    "paragraphs": {
+                        "0": "An architect shall, on payment of such fee as may be prescribed by rules, be entitled to have entered in the register any further recognised qualification which he may obtain."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Removal from register.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Council may, by order, remove from the register the name of any architect\u2014",
+                            "contains": {
+                                "0": "(a) from whom a request has been received to that effect, or",
+                                "1": "(b) who has died since the last publication of the register."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) Subject to the provisions of this section, the Council may order that the name of any architect shall be removed from the register where it is satisfied, after giving him a reasonable opportunity of being heard and after such further inquiry, if any, as it may think fit to make,\u2014",
+                            "contains": {
+                                "0": "(a) that his name has been entered in the register by error or on account of misrepresentation or suppression of a material fact; or",
+                                "1": "(b) that he has been convicted of any offence which, in the opinion of the Council, involves moral turpitude; or",
+                                "2": "(c) that he is an undischarged insolvent; or",
+                                "3": "(d) that he has been adjudged by a competent court to be of unsound mind."
+                            }
+                        },
+                        "2": "(3) An order under sub-section (2) may direct that any architect whose name is ordered to be removed from the register shall be ineligible for registration under this Act for such period as may be specified.",
+                        "3": "(4) An order under sub-section (2) shall not take effect until the expiry of three months from the date thereof."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Procedure in inquiries relating to misconduct.",
+                    "paragraphs": {
+                        "0": "(1) When on receipt of a complaint made to it, the Council is of opinion that any architect has been guilty of professional misconduct which, if proved, will render him unfit to practice as an architect, the Council may hold an inquiry in such manner as may be prescribed by rules.",
+                        "1": "(2) After holding the inquiry under sub-section (1) and after hearing the architect, the Council may, by order, reprimand the said architect or suspend him from practice as an architect or remove his name from the register or pass such other order as it thinks fit."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Surrender of certificates.",
+                    "paragraphs": {
+                        "0": "A person whose name has been removed from the register under sub-section (2) of section 27, sub-section (1) or sub-section (2) of section 29 or sub-section (2) of section 30, or where such person is dead, his legal representative, as defined in clause (11) of section 2 of the Code of Civil Procedure, 1908 (5 of 1908), shall forthwith surrender his certificate of registration to the Registrar, and the name so removed shall be published in the Official Gazette."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Restoration to register.",
+                    "paragraphs": {
+                        "0": "The Council may, at any time, for reasons appearing to it to be sufficient and subject to the approval of the Central Government, order that upon payment of such fee as may be prescribed by rules, the name of the person removed from the register shall be restored thereto."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Issue of duplicate certificates.",
+                    "paragraphs": {
+                        "0": "Where it is shown to the satisfaction of the Registrar that a certificate of registration has been lost or destroyed, the Registrar may, on payment of such fee as may be prescribed by rules, issue a duplicate certificate in the form prescribed by rules."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Printing of register.",
+                    "paragraphs": {
+                        "0": "As soon as may be after the 1st day of April in each year, the Registrar shall cause to be printed copies of the register as it stood on the said date and such copies shall be made available to persons applying therefor on payment of such fee as may be prescribed by rules and shall be evidence that on that said date the persons whose names are entered therein were architects."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Effect of registration.",
+                    "paragraphs": {
+                        "0": "(1) Any reference in any law for the time being in force to an architect shall be deemed to be a reference to an architect registered under this Act.",
+                        "1": "(2) After the expiry of two years from the date appointed under sub-section (2) of section 24, a person who is registered in the register shall get preference for appointment as an architect under the Central or State Government or in any other local body or institution which is supported or aided from the public or local funds or in any institution recognised by the Central or State Government."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 36.": {
+                    "heading": "Penalty for falsely claiming to be registered.",
+                    "paragraphs": {
+                        "0": "If any person whose name is not for the time being entered in the register falsely represents that it is so entered, or uses in connection with his name or title any words or letters reasonably calculated to suggest that his name is so entered, he shall be punishable with fine which may extend to one thousand rupees."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Prohibition against use of title.",
+                    "paragraphs": {
+                        "0": "(1) After the expiry of one year from the date appointed under sub-section (2) of section 24, no person other than a registered architect, or a firm of architects shall use the title and style of architect:",
+                        "1": {
+                            "text": "Provided that the provisions of this section shall not apply to\u2014",
+                            "contains": {
+                                "0": "(a) practice of the profession of an architect by a person designated as a \u201clandscape architect\u201d or \u201cnaval architect\u201d;",
+                                "1": "(b) a person who, carrying on the profession of an architect in any country outside India, undertakes the function as a consultant or designer in India for a specific project with the prior permission of the Central Government."
+                            }
+                        },
+                        "2": {
+                            "text": "Explanation.\u2014For the purposes of clause (a),\u2014",
+                            "contains": {
+                                "0": "(i) \u201clandscape architect\u201d means a person who deals with the design of open spaces relating to plants, trees and landscape;",
+                                "1": "(ii) \u201cnaval architect\u201d means an architect who deals with design and construction of ships."
+                            }
+                        },
+                        "3": "(2) If any person contravenes the provisions of sub-section (1), he shall be punishable on first conviction with fine which may extend to five hundred rupees and on any subsequent conviction with imprisonment which may extend to six months or with fine not exceeding one thousand rupees or with both."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Failure to surrender certificate of registration.",
+                    "paragraphs": {
+                        "0": "If any person whose name has been removed from the register fails without sufficient cause forthwith to surrender his certificate of registration, he shall be punishable with fine which may extend to one hundred rupees, and, in the case of a continuing failure, with an additional fine which may extend to ten rupees for each day after the first during which he has persisted in the failure."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Cognizance of offences.",
+                    "paragraphs": {
+                        "0": "(1) No court shall take cognizance of any offence punishable under this Act, except upon complaint made by order of the Council or a person authorised in this behalf by the Council.",
+                        "1": "(2) No Magistrate other than a Presidency Magistrate or a Magistrate of the first class shall try any offence punishable under this Act."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Information to be furnished by Council and publication thereof.",
+                    "paragraphs": {
+                        "0": "(1) The Council shall furnish such reports, copies of its minutes, and other information to the Central Government as that Government may require.",
+                        "1": "(2) The Central Government may publish, in such manner as it may think fit, any report, copy or other information furnished to it under this section."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against the Central Government, the Council or any member of the Council, the Executive Committee or any other committee or officers and other employees of the Council for anything which is in good faith done or intended to be done under this Act or any rule or regulation made thereunder."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Members of Council and officers and employees to be public servants.",
+                    "paragraphs": {
+                        "0": "The members of the Council and officers and other employees of the Council shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions, not inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing the difficulty:",
+                        "1": "Provided that no such order shall be made under this section after the expiry of two years from the date of commencement of this Act.",
+                        "2": "(2) Every order made under this section shall, as soon as may be after it is made, be laid before each House of Parliament and the provisions of sub-section (3) of section 44 shall apply in respect of such order as it applies in respect of a rule made under this Act."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Power of Central Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the manner in which elections under Chapter II shall be conducted, the terms and conditions of service of the member of the Tribunal appointed under sub-section (2) of section 5 and the procedure to be followed by the Tribunal; (b) the procedure to be followed by the expert committee constituted under the proviso to sub-section (2) of section 14 in the transaction of its business and the powers and duties of the expert committee and the travelling and daily allowances payable to the members thereof; (c) the particulars to be included in the register of architects under sub-section (3) of section 23;",
+                                "1": "(d) the form in which a certificate of registration is to be issued under sub-section (7) of section 24, sub-section (4) of section 26 and section 33;",
+                                "2": "(e) the fee to be paid under sections 24, 25, 26, 27, 28, 32 and 33;",
+                                "3": "(f) the conditions on which name may be restored to the register under the proviso to sub-section (2) of section 27;",
+                                "4": "(g) the manner of endorsement under sub-section (3) of section 27;",
+                                "5": "(h) the manner in which the Council shall hold an enquiry under section 30;",
+                                "6": "(i) the fee for supplying printed copies of the register under section 34;",
+                                "7": "(j) any other matter which is to be or may be provided by rules under this Act."
+                            }
+                        },
+                        "2": "(3) Every rule made under this section shall be laid, as soon as may, be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification to the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Power of Council to make regulations.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Council may, with the approval of the Central Government, 1[by notification in the Official Gazette,] make regulations not inconsistent with the provisions of this Act, or the rules made thereunder, to carry out the purposes of this Act. (2) In particular and without prejudice to the generality of the foregoing power, such regulations may provide for\u2014 (a) the management of the property of the Council;",
+                            "contains": {
+                                "0": "(b) the powers and duties of the President and the Vice-President of the Council;",
+                                "1": "(c) the summoning and holding of meetings of the Council and the Executive Committee or any other committee constituted under section 10, the times and places at which such meetings shall be held, the conduct of business thereat and the number of persons necessary to constitute a quorum;",
+                                "2": "(d) the functions of the Executive Committee or of any other committee constituted under section 10;",
+                                "3": "(e) the courses and periods of study and of practical training, if any, to be undertaken, the subjects of examinations and standards of proficiency therein to be obtained in any college or institution for grant of recognised qualifications;",
+                                "4": "(f) the appointment, powers and duties of inspector;",
+                                "5": "(g) the standards of staff, equipment, accommodation, training and other facilities for architectural education;",
+                                "6": "(h) the conduct of professional examinations, qualifications of examiners and the conditions of admission to such examinations; (i) the standards of professional conduct and etiquette and code of ethics to be observed by architects; (j) any other matter which is to be or may be provided by regulations under this Act and in respect of which no rules have been made."
+                            }
+                        },
+                        "1": "1[(3) Every regulation made under this section shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the regulation or both Houses agree that the regulation should not be made, the regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that regulation.]"
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "(See section 14)",
+                    "1": "QUALIFICATIONS"
+                }
+            },
+            "1": "1. Bachelor Degree in Architecture awarded by Indian Universities established by an Act of the Central or State Legislature.",
+            "2": "2. National Diploma (formerly All India Diploma) in Architecture awarded by the All India Council for Technical Education.",
+            "3": "3. Degree of Bachelor of Architecture (B. Arch.) awarded by the Indian Institute of Technology, Kharagpur.",
+            "4": "4. Five-Year full-time diploma in Architecture of the Sir J. J. School of Art, Bombay, awarded after 1941.",
+            "5": "5. Diploma in Architecture awarded by the State Board of Technical Education and Training of the Government of Andhra Pradesh with effect from 1960 (for the students trained at the Government College of Arts and Architecture, Hyderabad).",
+            "6": "6. Diploma in Architecture awarded by the Government College of Arts and Architecture, Hyderabad till 1959, subject to the condition that the candidates concerned have subsequently passed a special final examination in architecture held by the State Board of Technical Education, Andhra Pradesh and obtained a special certificate.",
+            "7": "7. Diploma in Architecture awarded by the University of Nagpur with effect from 1965 to the students trained at the Government Polytechnic, Nagpur.",
+            "8": "8. Government Diploma in Architecture awarded by the Government of Maharashtra (or the former Government of Bombay).",
+            "9": "9. Diploma in Architecture of Kalabhavan Technical Institute, Baroda.",
+            "10": "10. Diploma in Architecture awarded by the School of Architecture, Ahmedabad.",
+            "11": "11. Membership of the Indian Institute of Architects.",
+            "12": "1[12. Diploma in Architecture awarded by the University of Nagpur during the period 1962-1964.]",
+            "13": "2[13. Bachelor Degree in Architecture awarded by the School of Planning and Architecture, New Delhi (an Institution deemed to be a University) with effect from 3-12-1979.]",
+            "14": "3[14. Diploma in Architecture awarded by the Centre for Environmental Planning and Technology (CEPT), Ahmedabad, with effect from 16-10-1980.]",
+            "15": "4[15. Diploma in Architecture awarded by the Institute of Environment Design with effect from 1985 to the students trained at the D.C. Patel School of Architecture, Vallabh Vidya Nagar (Gujarat).]",
+            "16": "5[16. 5 years Diploma in Architecture awarded by the Sushant School of Art and Architecture, Gurgaon (Haryana) with effect from 1-6-1994 to the students trained at the Sushant School of Art and Architecture, Gurgaon (Haryana).]",
+            "17": "6[17. 5 years Diploma in Architecture awarded by the TVB School of Habitat Studies, Sector-D, Vasant Kunj, New Delhi with effect from 1-8-1995 to the students trained at the TVB School of Habitat Studies, Sector-D, Vasant Kunj, New Delhi.]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1.  2nd  April, 1973,  vide  notification  No.  G.S.R.  400(E), dated  16th March,  1973,  see  Gazette  of  India,  Extraordinary,  Part  II,sec. 3(i)."
+        },
+        "Page 13": {
+            "0": "1. Ins. by Act 21 of 1982, s. 2 (w.e.f. 18-5-1982)."
+        },
+        "Page 14": {
+            "0": "1. Added by G.S.R. 780(E), dated 4th July, 1973.",
+            "1": "2. Added by G.S.R. 790, dated 28th August, 1982.",
+            "2": "3. Added by G.S.R. 866, dated 30th September, 1982.",
+            "3": "4. Added by G.S.R. 361, dated 6th July, 1995.",
+            "4": "5. Added by G.S.R. 482, dated 12th September, 1994.",
+            "5": "6. Added by G.S.R. 72, dated 25th January, 1996."
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Act Title": "THE SPECIAL CRIMINAL COURTS (JURISDICTION) ACT, 1950",
+    "Act ID": "ACT NO. 18 OF 1950",
+    "Enactment Date": "[10th March, 1950.]",
+    "Act Definition": {
+        "0": "An Act to confer upon special criminal Courts, constituted by or under certain State laws, jurisdiction to try offences against laws with respect to any of the matters enumerated in the Union List."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Special Criminal Courts (Jurisdiction) Act, 1950.",
+                "1": "(2) It extends to the whole of India except 1 [the territories which, immediately before the 1st November, 1956, were comprised in Part B States]."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definition.",
+            "paragraphs": {
+                "0": "In this Act, \u201cspecial Criminal Court\u201d means any special Court of criminal jurisdiction constituted by or under any law included in the Schedule."
+            }
+        },
+        "Section 3.": {
+            "heading": "Jurisdiction of special Criminal Courts to try offences with respect to matters in the Union List.",
+            "paragraphs": {
+                "0": "Notwithstanding anything contained in law for the time being in force, it shall be lawful for any special Criminal Court to try offences against laws with respect to any of the matters enumerated in List I in the Seventh Schedule to the Constitution, if such court is otherwise competent to try such offence under the law constituting it."
+            }
+        },
+        "Section 4.": {
+            "heading": "Power to add to Schedule.",
+            "paragraphs": {
+                "0": "The Central Government may, by notification in the Official Gazette, add to the Schedule any other State law providing for the trial of offences by special Criminal Courts, and any such addition shall take effect as if such law had been included in the Schedule by this Act."
+            }
+        },
+        "Section 5.": {
+            "heading": "Repeal of Ordinance.",
+            "paragraphs": {
+                "0": "(1) The Special Criminal Courts (Jurisdiction) Ordinance, 1950 (7 of 1950), is hereby repealed.",
+                "1": "(2) Notwithstanding such repeal, anything done or any action taken in the exercise of any power conferred by or under the said Ordinance shall be deemed to have been done or taken in the exercise of the powers conferred by or under this Act as if this Act were in force on the day on which such thing was done or action was taken."
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "(See section 2)"
+                }
+            },
+            "1": "Year No. Short title",
+            "2": "1947 6 The Bombay Public Security Measures Act, 1947",
+            "3": "1948 62 The Central Provinces and Berar Public Safety Act, 1948.",
+            "4": "1949 3 The West Bengal Special Courts Ordinance, 1949",
+            "5": "1[1950 10 The West Bengal Special Courts Act, 1950]",
+            "6": "2[1950 19 The Assam Special Courts Act, 1950.]",
+            "7": "3[1949 21 The West Bengal Criminal Law Amendment (Special Courts) Act, 1949.]",
+            "8": "4[1952 1 The Tribunals of Criminal Jurisdiction Ordinance, 952 (West Bengal Ordinance. (1 of 1952).]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. Subs. by the Adaptation of Laws (No. 3) Order, 1956, for \u201cPart B States\u201d."
+        },
+        "Page 3": {
+            "0": "1. Ins. by notification No. S.R.O. 12, dated 18th April, 1950, see Gazette of India, Part II, s. 3.",
+            "1": "2. Ins. by notification No. S.R.O. 29, dated 29th April, 1950, see Gazette of India, Part II, s. 3.",
+            "2": "3. Ins. by notification No. S.R.O. 117, dated 6th April, 1949, see Gazette of India, Part II, s. 3.",
+            "3": "4. Ins. by notification No. S.R.O. 672, dated 15th April, 1952, see Gazette of India, Part II, s. 3."
+        }
+    }
+}

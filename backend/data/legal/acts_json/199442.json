@@ -1,0 +1,579 @@
+{
+    "Act Title": "THE TRANSPLANTATION OF HUMAN ORGANS AND TISSUES ACT, 1994",
+    "Act ID": "ACT NO. 42 OF 1994",
+    "Enactment Date": "[8th July, 1994.]",
+    "Act Definition": {
+        "0": "An Act to provide for the regulation of removal, storage and transplantation of 1[human organs and tissues for therapeutic purposes and for the prevention of commercial dealings in human organs and tissues] and for matters connected therewith or incidental thereto.",
+        "1": "WHEREAS it is expedient to provide for the regulation of removal, storage and transplantation of 2[human organs or tissues or both] for therapeutic purposes and for the prevention of commercial dealings in 2[human organs or tissues or both];",
+        "2": "AND WHEREAS in Parliament has no power to make laws for the States with respect to any of the matters aforesaid except as provided in articles 249 and 250 of the Constitution;",
+        "3": "AND WHEREAS in pursuance of clause (1) of article 252 of the Constitution, resolutions have been passed by all the Houses of the Legislatures of the States of Goa, Himachal Pradesh and Maharashtra to the effect that the matters aforesaid should be regulated in those States by Parliament by law;"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, application and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Transplantation of 3[Human Organs and Tissues] Act, 1994.",
+                        "1": "(2) It applies, in the first instance, to the whole of the States of Goa, Himachal Pradesh and Maharashtra and to all the Union territories and it shall also apply to such other State which adopts this Act by resolution passed in that behalf under clause (1) of article 252 of the Constitution.",
+                        "2": "(3) It shall come into force in the States of Goa, Himachal Pradesh and Maharashtra and in all the Union territories on such date4 as the Central Government may, by notification, appoint and in any other State which adopts this Act under clause (1) of article 252 of the Constitution, on the date of such adoption; and any reference in this Act to the commencement of this Act shall, in relation to any State or Union territory, means the date on which this Act comes into force in such State or Union territory."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cadvertisement\u201d includes any form of advertising whether to the public generally or to any section of the public or, individually to selected persons;",
+                                "1": "(b) \u201cAppropriate Authority\u201d means the Appropriate Authority appointed under section 13;",
+                                "2": "(c) \u201cAuthorisation Committee\u201d means the committee constituted under clause (a) or clause (b) of sub-section (4) of section 9;",
+                                "3": "(d) \u201cbrain-stem death\u201d means the stage at which all functions of the brain-stem have permanently and irreversibly ceased and is so certified under sub-section (6) of section 3;",
+                                "4": "(e) \u201cdeceased person\u201d means a person in whom permanent disappearance of all evidence of life occurs, by reason of brain-stem death or in a cardio-pulmonary sense, at any time after live birth has taken place;",
+                                "5": "(f) \u201cdonor\u201d means any person, not less than eighteen years of age, who voluntarily authorises the removal of any of his human organs for therapeutic purposes under sub-section (1) or sub-section (2) of section 3;",
+                                "6": "(g) \u201chospital\u201d includes a nursing home, clinic, medical centre, medical or teaching institution for therapeutic purposes and other like institution;",
+                                "7": "(h) \u201chuman organ\u201d means any part of a human body consisting of a structured arrangement of tissues which, if wholly, removed, cannot be replicated by the body;",
+                                "8": {
+                                    "text": "1[(ha) \u201cHuman Organ Retrieval Centre\u201d means a hospital,\u2014",
+                                    "contains": {
+                                        "0": "(i) which has adequate facilities for treating seriously ill patients who can be potential donours of organs in the event of death; and",
+                                        "1": "(ii) which is registered under sub-section (1) of section 14 for retrieval of human organs;"
+                                    }
+                                },
+                                "9": "(hb) \u201cminor\u201d means a person who has not completed the age of eighteen years;]"
+                            }
+                        },
+                        "1": {
+                            "text": "2[(i) \u201cnear relative\u201d means spouse, son, daughter, father, mother, brother, sister, grandfather, grandmother, grandson or granddaughter;]",
+                            "contains": {
+                                "0": "(j) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "1": {
+                                    "text": "(k) \u201cpayment\u201d means payment in money or money\u2019s worth but does not include any payment for defraying or reimbursing\u2014",
+                                    "contains": {
+                                        "0": "(i) the cost of removing, transporting or preserving the 3[human organ or tissue or both] to be supplied; or",
+                                        "1": "(ii) any expenses or loss of earnings incurred by a person so far as reasonably and directly attributable to his supplying any human organ from his body;"
+                                    }
+                                },
+                                "2": "(l) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "3": "(m) \u201crecipient\u201d means a person into whom any 3[human organ or tissue or both] is, or is proposed to be, transplanted;",
+                                "4": "(n) \u201cregistered medical practitioner\u201d means a medical practitioner who possesses any recognised medical qualification as defined in clause (h) of section 2 of the Indian Medical Council Act, 1956 (102 of 1956), and who is enrolled on a State Medical Register as defined in clause (k) of that section;",
+                                "5": "(o) \u201ctherapeutic purposes\u201d means systematic treatment of any disease or the measures to improve health according to any particular method or modality; 4*** 5[(oa) \u201ctissue\u201d means a group of cells, except blood, performing a particular function in the human body; (ob) \u201cTissue Bank\u201d means a facility registered under section 14A for carrying out any activity relating to the recovery, screening, testing, processing, storage and distribution of tissues, but does not to include a Blood Bank;] (p) \u201ctransplantation\u201d means the grafting of any human organ from any living person or deceased person to some other living person for therapeutic purposes;",
+                                "6": "5[(q) \u201ctransplant co-ordinator\u201d means a person appointed by the hospital for co-ordinating all matters relating to removal or transplantation of human organs or tissues or both and for assisting the authority for removal of human organs in accordance with the provisions of sections 3.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "AUTHORITY FOR THE REMOVAL OF HUMAN ORGANS OR TISSUES OR BOTH",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Authority for removal of human organs or tissues or both.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "1[human organs or tissues or both].\u2014(1) Any donor may, in such manner and subject to such conditions as may be prescribed, authorise the removal, before his death, of any 2[human organ or tissue or both] of his body for therapeutic purposes. 3[(1A) For the purpose of removal, storage or transplantation of such human organs or tissues or both, as may be prescribed, it shall be the duty of the registered medical practitioner working in a hospital, in consultation with transplant co-ordinator, if such transplant co-ordinator is available,\u2014 (i) to ascertain from the person admitted to the Intensive Care Unit or from his near relative that such person had authorised at any time before his death the removal of any human organ or tissue or both of his body under sub-section (2), then the hospital shall proceed to obtain the documentation for such authorisation; (ii) where no such authority as referred to in sub-section (2) was made by such person, to make aware to that person or near relative for option to authorise or decline for donation of human organs or tissues or both;",
+                            "contains": {
+                                "0": "(iii) to require the hospital to inform in writing to the Human Organ Removal Centre for removal, storage or transplantation of human organs or tissues or both of the donor identified in clauses (i) and (ii) in such manner as may be prescribed"
+                            }
+                        },
+                        "1": {
+                            "text": "(1B) The duties mentioned under clauses (i) to (iii) of sub-section (1A) from such date, as may be prescribed, shall also apply in the case of a registered medical practitioner working in an Intensive Care Unit in a hospital which is not registered under this Act for the purpose of removal, storage or transplantation of human organs or tissues or both.] (2) If any donor had, in writing and in the presence of two or more witnesses (at least one of whom is a near relative of such person), unequivocally authorised at any time before his death, the removal of any human organ of his body, after his death, for therapeutic purposes, the person lawfully in possession of the dead body of the donor shall, unless he has any reason to believe that the donor had subsequently revoked the authority aforesaid, grant to a registered medical practitioner all reasonable facilities for the removal, for therapeutic purposes, of that 2[human organ or tissue or both] from the dead body of the donor. (3) Where no such authority as is referred to in sub-section (2), was made by any person before his death but no objection was also expressed by such person to any of his 1[human organs or tissues or both] being used after his death for therapeutic purposes, the person lawfully in possession of the dead body of such person may, unless he has reason to believe that any near relative of the deceased person has objection to any of the deceased person\u2019s 1[human organs or tissues or both] being used for therapeutic purposes, authorise the removal of any 2[human organ or tissue or both] of the deceased person for its use for therapeutic purposes. (4) The authority given under sub-section (1) or sub-section (2) or, as the case may be, sub-section (3) shall be sufficient warrant for the removal, for therapeutic purposes, of the 2[human organ or tissue or both]; but no such removal shall be made by any person other than the registered medical practitioner: 3[Provided that a technician possessing such qualifications and experience, as may be prescribed, may enucleate a cornea.] (5) Where any 2[human organ or tissue or both] is to be removed from the body of a deceased person, the registered medical practitioner shall satisfy himself, before such removal, by a personal examination of the body from which any 2[human organ or tissue or both] is to be removed, that life is extinct in such body or, where it appears to be a case of brain-stem death, that such death has been certified under sub-section (6). (6) Where any 2[human organ or tissue or both] is to be removed from the body of a person in the event of his brain-stem death, no such removal shall be undertaken unless such death is certified, in such form and in such manner and on satisfaction of such conditions and requirements as may be prescribed, by a Board of medical experts consisting of the following, namely:\u2014",
+                            "contains": {
+                                "0": "(i) the registered medical practitioner in charge of the hospital in which brain-stem death has occurred;",
+                                "1": "(ii) an independent registered medical practitioner, being a specialist, to be nominated by the registered medical practitioner specified in clause (i), from the panel of names approved by the Appropriate Authority;",
+                                "2": "(iii) a neurologist or a neurosurgeon to be nominated by the registered medical practitioner specified in clause (i), from the panel of names approved by the Appropriate Authority: 1***",
+                                "3": "2[Provided that where a neurologist or a neurosurgeon is not available, the registered medical practitioner may nominate an independent registered medical practitioner, being a surgeon or a physician and an anaesthetist or intensivist subject to the condition that they are not members of the transplantation team for the concerned recipient and to such conditions as may be prescribed;]",
+                                "4": "(iv) the registered medical practitioner treating the person whose brain-stem death has occurred."
+                            }
+                        },
+                        "2": "(7) Notwithstanding anything contained in sub-section (3), where brain-stem death of any person, less than eighteen years of age, occurs and is certified under sub-section (6), any of the parents of the deceased person may give authority, in such form and in such manner as may be prescribed, for the removal of any 3[human organ or tissue or both] from the body of the deceased person."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Removal of human organs or tissues or both not to be authorised in certain cases.",
+                    "paragraphs": {
+                        "0": "(1) No facilities shall be granted under sub-section (2) of section 3 and no authority shall be given under sub-section (3) of that section for the removal of any 3[human organ or tissue or both] from the body of a deceased person, if the person required to grant such facilities, or empowered to give such authority, has reason to believe that an inquest may be required to be held in relation to such body in pursuance of the provisions of any law for the time being in force.",
+                        "1": "(2) No authority for the removal of any 3[human organ or tissue or both] from the body of a deceased person shall be given by a person to whom such body has been entrusted solely for the purpose of interment, cremation or other disposal."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Authority for removal of human organs or tissues or both in case of unclaimed bodies in hospital or prison.",
+                    "paragraphs": {
+                        "0": "4[human organs or tissues or both] in case of unclaimed bodies in hospital or prison.\u2014(1) In the case of a dead body lying in a hospital or prison and not claimed by any of the near relatives of the deceased person within forty-eight hours from the time of the death of the concerned person, the authority for the removal of any 3[human organ or tissue or both] from the dead body which so remains unclaimed may be given, in the prescribed form, by the person in charge, for the time being, of the management or control of the hospital or prison, or by an employee of such hospital or prison authorised in this behalf by the person in charge of the management or control thereof.",
+                        "1": "(2) No authority shall be given under sub-section (1) if the person empowered to give such authority has reason to believe that any near relative of the deceased person is likely to claim the dead body even though such near relative has not come forward to claim the body of the deceased person within the time specified in sub-section (1)."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Authority for removal of human organs or tissues or both from bodies sent for post-mortem examination for medico-legal or pathological purposes.",
+                    "paragraphs": {
+                        "0": "4[human organs or tissues or both] from bodies sent for post-mortem examination for medico-legal or pathological purposes.\u2014Where the body of a person has been sent for post-mortem examination\u2014",
+                        "1": "(a) for medico-legal purposes by reason of the death of such person having been caused by accident or any other unnatural cause; or",
+                        "2": "(b) for pathological purposes, the person competent under this Act to give authority for the removal of any 1[human organ or tissue or both] from such dead body may, if he has reason to believe that such 1[human organ or tissue or both] will not be required for the purpose for which such body has been sent for post-mortem examination, authorise the removal, for therapeutic purposes, of that 1[human organ or tissue or both] of the deceased person provided that he is satisfied that the deceased person had not expressed, before his death, any objection to any of his 2[human organs or tissues or both] being used, for therapeutic purposes after his death or, where he had granted an authority for the use of any of his 2[human organs or tissues or both] for therapeutic purposes, after his death, such authority had not been revoked by him before his death."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Preservation of human organs or tissue or both.",
+                    "paragraphs": {
+                        "0": "2[human organs or tissues or both].\u2014After the removal of any 1[human organ or tissue or both] from the body of any person, the registered medical practitioner shall take such steps for the preservation of the 1[human organ or tissue or both] so removed as may be prescribed."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Savings.",
+                    "paragraphs": {
+                        "0": "(1) Nothing in the foregoing provisions of this Act shall be construed as rendering unlawful any dealing with the body or with any part of the body of a deceased person if such dealing would have been lawful if this Act had not been passed. (2) Neither the grant of any facility or authority for the removal of any 1[human organ or tissue or both] from the body of a deceased person in accordance with the provisions of this Act nor the removal oil any 1[human organ or tissue or both] from the body of a deceased person in pursuance of such authority shall be deemed to be an offence punishable under section 297 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Restrictions on removal and transplantation of human organs or tissues or both.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided in sub-section (3), no 1[human organ or tissue or both] removed from the body of a donor before his death shall be transplanted into a recipient unless the donor is a near relative of the recipient. 3[(1A) Where the donor or the recipient being near relative is a foreign national, prior approval of the Authorisation Committee shall be required before removing or transplanting human organ or tissue or both: Provided that the Authorisation Committee shall not approve such removal or transplantation if the recipient is a foreign national and the donor is an Indian national unless they are near relatives. (1B) No human organs or tissues or both shall be removed from the body of a minor before his death for the purpose of transplantation except in the manner as may be prescribed. (1C) No human organs or tissues or both shall be removed from the body of a mentally challenge person before his death for the purpose of transplantation. Explanation.\u2014For the purpose of this sub-section,\u2014 (i) the expression \u201cmentally challenged person\u201d includes a person with mental illness or mental retardation, as the case may be; (ii) the expression \u201cmental illness\u201d includes dementia, schizophrenia and such other mental condition that makes a person intellectually disables; (iii) the expression \u201cmental retardation\u201d shall have the same meaning as assigned to it in clause (r) of section 2 of the Persons With Disabilities (Equal Opportunities, Protection of Right and Full Participation) Act, 1995 (1 of 1996).] (2) Where any donor authorises the removal of any of his 2[human organs or tissues or both] after his death under sub-section (2) of section 3 or any person competent or empowered to give authority for the removal of any 1[human organ or tissue or both] from the body of any deceased person authorises such removal, the 1[human organ or tissue or both] may be removed and transplanted into the body of any recipient who may be in need of such 1[human organ or tissue or both]. (3) If any donor authorises the removal of any of his 2[human organs or tissues or both] before his death under sub-section (1) of section 3 for transplantation into the body of such recipient, not being a near relative, as is specified by the donor by reason of affection or attachment towards the recipient or for any other special reasons, such 1[human organ or tissue or both] shall not be removed and transplanted without the prior approval of the Authorisation Committee.",
+                        "1": {
+                            "text": "2[(3A) Notwithstanding anything contained in sub-section (3), where\u2014",
+                            "contains": {
+                                "0": "(a) any donor has agreed to make a donation of his human organ or tissue or both before his death to a recipient, who is his near relative, but such donor is not compatible biologically as a donor for the recipient; and",
+                                "1": "(b) the second donor has agreed to make a donation of his human organ or tissue or both before his death to such recipient, who is his near relative, but such donor is not compatible biologically as a donor for such recipient; then",
+                                "2": "(c) the first donor who is compatible biologically as a donor for the second recipient and the second donor is compatible biologically as a donor of a human organ or tissue or both for the first recipient and both donors and both recipients in the aforesaid group of donor and recipient have entered into a single agreement to donate and receive such human organ or tissue or both according to such biological compatibility in the group,"
+                            }
+                        },
+                        "2": {
+                            "text": "the removal and transplantation of the human organ or tissue or both, as per the agreement referred to above, shall not be done without prior approval of the Authorisation Committee.]",
+                            "contains": {
+                                "0": "3[(4) (a) The composition of the Authorisation Committee shall be such as may be prescribed by the Central Government from time to time.",
+                                "1": "(b) The State Government and the Union territories shall constitute, by notification, one or more Authorisation Committee consisting of such members as may be nominated by the State Government and the Union territories on such terms and conditions as may be specified in the notification for the purposes of this section.]",
+                                "2": "(5) On an application jointly made, in such form and in such manner as may be prescribed, by the donor and the recipient, the Authorisation Committee shall, after holding an inquiry and after satisfying itself that the applicants have complied with all the requirements of this Act and tile rules made thereunder, grant to the applicants approval for the removal and transplantation of the human organ.",
+                                "3": "(6) If, after the inquiry and after giving an opportunity to the applicants of being heard, the Authorisation Committee is satisfied that the applicants have not complied with the requirements of this Act and the rules made thereunder, it shall, for reasons to be recorded in writing, reject the application for approval."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "REGULATION OF HOSPITALS",
+            "Sections": {
+                "Section 10.": {
+                    "heading": "Regulation of hospital conducting the removal, storage or transplantation of human organs or tissue or both.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) On and from the commencement of this Act,\u2014",
+                            "contains": {
+                                "0": "(a) no hospital, unless registered under this Act, shall conduct, or associate with, or help in, the removal, storage or transplantation of any 1[human organ or tissue or both;]",
+                                "1": "(b) no medical practitioner or any other person shall conduct, or cause to be conducted, or aid in conducting by himself or through any other person, any activity relating to the removal, storage or transplantation of any 1[human organ or tissue or both] at a place other than a place registered under this Act; 5***",
+                                "2": "(c) no place including a hospital registered under sub-section (1) of section 15 shall be used or cause to be used by any person for the removal, storage or transplantation of any 1[human organ or tissue or both] except for therapeutic purposes; 2[and]",
+                                "3": "3[(d) no Tissues Bank, unless registered under this Act, shall carry out any activity relating to the recovery, screening, testing, processing, storage and distribution of tissues.]"
+                            }
+                        },
+                        "1": "(2) Notwithstanding anything contained in sub-section (1), the eyes or the ears may be removed at any place from the dead body of any donor, for therapeutic purposes, by a registered medical practitioner.",
+                        "2": "Explanation.\u2014For the purposes of this sub-section, \u201cears\u201d includes ear drums and ear bones."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Prohibition of removal or transplantation of human organs or tissues or both for any purpose other than therapeutic purpose.",
+                    "paragraphs": {
+                        "0": "No donor and no person empowered to give authority for the removal of any human organ shall authorise the removal of any 1[human organ or tissue or both] for any purpose other than therapeutic purposes."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Explaining effects, etc., to donor and recipient.",
+                    "paragraphs": {
+                        "0": "No registered medical practitioner shall undertake the removal or transplantation of any 1[human organ or tissue or both] unless he has explained, in such manner as may be prescribed, all possible effects, complications and hazards connected with the removal and transplantation to the donor and the recipient respectively."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "APPROPRIATE AUTHORITY",
+            "Sections": {
+                "Section 13.": {
+                    "heading": "Appropriate Authority.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall appoint, by notification, one or more officers as Appropriate Authorities for each of the Union territories for the purposes of this Act.",
+                        "1": "(2) The State Government shall appoint, by notification, one or more officers as Appropriate Authorities for the purposes of this Act.",
+                        "2": {
+                            "text": "(3) The Appropriate Authority shall perform the following functions, namely:\u2014",
+                            "contains": {
+                                "0": "(i) to grant registration under sub-section (1) of section 15 or renew registration under sub-section (3) of that section;",
+                                "1": "(ii) to suspend or cancel registration under sub-section (2) of section 16;",
+                                "2": {
+                                    "text": "5[(iii) to enforce such standards, as may be prescribed,\u2014",
+                                    "contains": {
+                                        "0": "(A) for hospitals engaged in the removal, storage or transplantation of any human organ:",
+                                        "1": "(B) for Tissue Banks engaged in recovery, screening, testing, processing, storage and distribution of tissues;]"
+                                    }
+                                },
+                                "3": "(iv) to investigate any complaint of breach of any of the provisions of this Act or any of the rules made thereunder and take appropriate action;",
+                                "4": "6[(iva) to inspect Tissue Banks periodically;]",
+                                "5": "(v) to inspect hospitals periodically for examination of the quality of transplantation and the follow-up medical care to persons who have undergone transplantation and persons from whom organs are removed; and",
+                                "6": "(vi) to undertake such other measures as may be prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 13A.": {
+                    "heading": "Advisory Committees to advise Appropriate Authority.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government and the State Governments, as the case may be, by notification, shall constitute an Advisory Committee for a period of two years to aid and advise the Appropriate Authority to discharge its functions.",
+                            "contains": {
+                                "0": {
+                                    "text": "(2) The Advisory Committee shall consist of\u2014",
+                                    "contains": {
+                                        "0": "(a) one administrative expert not below the rank of Secretary to the State Government, to be nominated as Chairperson of the Advisory Committee;",
+                                        "1": "(b) two medical experts having such qualifications as may be prescribed;",
+                                        "2": "(c) one officer not below the rank of a Joint Director to represent the Ministry or Department of Health and Family Welfare, to be designated as Member-Secretary;",
+                                        "3": "(d) two eminent social workers of high social standing and integrity, one of whom shall be from amongst representatives of women\u2019s organisation;",
+                                        "4": "(e) one legal expert who has held the position of an Additional District Judge or equivalent;",
+                                        "5": "(f) one person to represent non-governmental organisations or associations which are working in the field of organ or tissue donations or human rights;",
+                                        "6": "(g) one specialist in the field of human organ transplantation, provided he is not a member of the transplantation team."
+                                    }
+                                }
+                            }
+                        },
+                        "1": "(3) The terms and conditions for appointment to the Advisory Committee shall be such as may be prescribed by the Central Government."
+                    }
+                },
+                "Section 13B.": {
+                    "heading": "Powers of Appropriate Authority.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Appropriate Authority shall for the purposes of this Act have all the powers of a civil court trying a suit under the Code of Civil Procedure, 1908 (5 of 1908) and, in particular, in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) summoning of any person who is in possession of any information relating to violation of the provisions of this Act or the rules made thereunder;",
+                                "1": "(b) discovery and production of any document or material object;",
+                                "2": "(c) issuing search warrant for any place suspected to be indulging in unauthorised removal, procurement or transplantation of human organs or tissues or both; and",
+                                "3": "(d) any other matter which may be prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 13C.": {
+                    "heading": "National Human Organs or tissues or both and Tissues Removal and Storage Network.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by notification, establish a National Human Organs and Tissues Removal and Storage Network at one or more places and Regional Network in such manner and to perform such functions, as may be prescribed."
+                    }
+                },
+                "Section 13D.": {
+                    "heading": "National registry.",
+                    "paragraphs": {
+                        "0": "The Central Government shall maintain a national registry of the donors and recipients of human organs and tissues and such registry shall have such information as may be prescribed to an ongoing evaluation of the scientific and clinical status of human organs and tissue.]"
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "REGISTRATION OF HOSPITALS",
+            "Sections": {
+                "Section 14.": {
+                    "heading": "Registration of hospitals engaged in removal, storage or transplantation of human organs or tissues or both.",
+                    "paragraphs": {
+                        "0": "s or tissues or both].\u2014(1) 2[No hospital (including Human Organ Retrieval Centre)] shall commence any activity relating to the removal, storage or transplantation of any 3[human organ or tissue or both] for therapeutic purposes after the commencement of this Act unless such hospital is duly registered under this Act: Provided that every hospital engaged, either partly or exclusively, in any activity relating to the removal, storage or transplantation of any 3[human organ or tissue or both] for therapeutic purposes immediately before the commencement of this Act, shall apply for registration within sixty days from the date of such commencement:",
+                        "1": "Provided further that every hospital engaged in any activity relating to the removal, storage or transplantation of any 3[human organ or tissue or both] shall cease to engage in any such activity on the expiry of three months from the date of commencement of this Act unless such hospital has applied for registration and is go registered or till such application is disposed of, whichever is earlier.",
+                        "2": "(2) Every application for registration under sub-section (1) shall be made to the Appropriate Authority in such form and in such manner and shall be accompanied by such fees as may be prescribed.",
+                        "3": "(3) No hospital shall be registered under this Act unless the Appropriate Authority is satisfied that such hospital is in a position to provide such specialised services and facilities, possess) such skilled manpower and equipments and maintain such standards as may be prescribed.",
+                        "4": "1[(4) No hospital shall be registered under this Act, unless the Appropriate Authority is satisfied that such hospital has appointed a transplant coordinator having such qualifications and experience as may be prescribed.]"
+                    }
+                },
+                "Section 14A.": {
+                    "heading": "Registration of Tissue Bank.",
+                    "paragraphs": {
+                        "0": "(1) No Tissue Bank shall, after the commencement of the Transplantation of Human Organs (Amendment) Act, 2011 (16 of 2011), commence any activity relating to the recovery, screening, testing, processing, storage and distribution of tissues unless it is duly registered under this Act:",
+                        "1": "Provided that any facility engaged, either party or exlusively, in any activity relating to the recovery, screening, testing, processing, storage and distribution of tissues immediately before the commencement of the Transplantation of Human Organs (Amendment) Act, 2011 (16 of 2011), shall apply for registration as Tissues Bank within sixty days from the date of such commencement:",
+                        "2": "Provided further that such facility shall cease to engage in any such activity on the expiry of three months from the date of commencement of the Transplantation of Human Organs (Amendement) Act, 2011 (16 of 2011), unless such Tissue Bank has applied for registration and is so registered, or till such application is disposed of, whichever is earlier.",
+                        "3": "(2) Every application for registration under sub-section (1) shall be made to the Appropriate Authority in such form and in such manner and shall be accompanied by such fees as may be prescribed.",
+                        "4": "(3) No Tissue Bank shall be registered under this Act unless the Appropriate Authority is satisfied that such Tissue Bank is in a position to provide such specialised service and facilities, possess such skilled manpower and equipments and maintain such standards as may be prescribed.]"
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Certificate of registration.",
+                    "paragraphs": {
+                        "0": "(1) The Appropriate Authority shall, after holding an inquiry and after satisfying itself that the applicant has complied with all the requirements of this Act and the rules made thereunder, 3[grant to the hospital or to the tissue Bank, as the case may be,] a certificate of registration in such form, for such period and subject to such conditions as may be prescribed.",
+                        "1": "(2) If, after the inquiry and after giving an opportunity to the applicant of being heard, the Appropriate Authority is satisfied that the applicant has not complied with the requirement of this Act and the rules made thereunder, it shall, for reasons to be recorded in writing, reject the application for registration.",
+                        "2": "(3) Every certificate of registration shall be renewed in such manner and on payment of such fees as may be prescribed."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Suspension or cancellation of registration.",
+                    "paragraphs": {
+                        "0": "(1) The Appropriate Authority may, suo motu or on complaint, issue a notice to any 4[hospital or Tissue Bank, as the case may be,] to show cause why its registration under this Act should not be suspended or cancelled for the reasons mentioned in the notice.",
+                        "1": "(2) If, after giving a reasonable opportunity of being heard to the 4[hospital or Tissue Bank, as the case may be,] the Appropriate Authority is satisfied that there has been a breach of any of the provisions of this Act or the rules made thereunder, it may, without prejudice to any criminal action that it may take against such 4[hospital or Tissue Bank, as the case may be,] suspend its registration for such period as it may think fit or cancel its registration:",
+                        "2": "Provided that where the Appropriate Authority is of the opinion that it is necessary or expedient so to do in the public interest, it may, for reasons to be recorded in writing, suspend the registration of any 1[hospital or Tissue Bank, as the case may be,] without issuing any notice."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Appeals.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any person aggrieved by an order of the Authorisation Committee rejecting an application for approval under sub-section (6) of section 9, or any hospital 2[or Tissue Bank, as the case may be,] aggrieved by an order of the Appropriate Authority rejecting an application for registration under sub-section (2) of section 15 or an order of suspension or cancellation of registration under sub-section (2) of section 16, may, within thirty days from the date of the receipt of the order, prefer an appeal, in such manner as may be prescribed, against such order to\u2014",
+                            "contains": {
+                                "0": "(i) the Central Government where the appeal is against the order of the Authorisation Committee constituted under clause (a) of sub-section (4) of section 9 or against the order of the Appropriate Authority appointed under sub-section (1) of section 13; or",
+                                "1": "(ii) the State Government, where the appeal is against the order of the Authorisation Committee constituted under clause (b) of sub-section (4) of section 9 or against the order of the Appropriate Authority appointed under sub-section (2) of section 13."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "OFFENCES AND PENALTIES",
+            "Sections": {
+                "Section 18.": {
+                    "heading": "Punishment for removal of human organ without authority.",
+                    "paragraphs": {
+                        "0": "(1) Any person who renders his services to or at any hospital and who, for purposes of transplantation, conducts, associates with, or helps in any manner in, the removal of any human organ without authority, shall be punishable with imprisonment for a term which may extend to 3[ten years and with fine which may extend to twenty lakh rupees].",
+                        "1": "(2) Where any person convicted under sub-section (1) is a registered medical practitioner, his name shall be reported by the Appropriate Authority to the respective State Medical Council for taking necessary action including the removal of his name from the register of the Council for a period of 4[three years] for the first offence and permanently for the subsequent offence.",
+                        "2": "5[(3) Any person who renders his services to or at any hospital and who conducts, or associates with or helps in any manner in the removal of human tissue without authority, shall be punishable with imprisonment for a term which may extend to three years and with fine which may extend to five lakh rupees.]"
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Punishment for commercial dealings in human organs.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Whoever\u2014",
+                            "contains": {
+                                "0": "(a) makes or receives any payment for the supply of, or for an offer to supply, any human organ;",
+                                "1": "(b) seeks to find a person willing to supply for payment any human organ;",
+                                "2": "(c) offers to supply any human organ for payment; or",
+                                "3": "(d) initiates or negotiates any arrangement involving the making of any payment for the supply of, or for an offer to supply, any human organ;",
+                                "4": "(e) takes part in the management or control of a body of persons, whether a society, firm or company, whose activities consist of or include the initiation or negotiation of any arrangement referred to in clause (d); or",
+                                "5": {
+                                    "text": "(f) publishes or distributes or causes to be published or distributed any advertisement,\u2014",
+                                    "contains": {
+                                        "0": "(a) inviting persons to supply for payment of any human organ;",
+                                        "1": "(b) offering to supply any human organ for payment; or",
+                                        "2": "(c) indicating that the advertiser is willing to initiate or negotiate any arrangement referred to in clause (d);"
+                                    }
+                                },
+                                "6": "1[(g) abets in the preparation or submission of false documents including giving false affidavits to establish that the donor is making the donation of the human organs, as a near relative or by reason of affection or attachment towards the recipient,"
+                            }
+                        },
+                        "1": {
+                            "text": "shall be punishable with imprisonment for a term which shall not be less than 2[five years but which may extend to ten years and shall be liable to fine which shall not be less than twenty lakh rupees but may extend to one crore rupees].",
+                            "contains": {
+                                "0": "3* * * * *"
+                            }
+                        }
+                    }
+                },
+                "Section 19A.": {
+                    "heading": "Punishment for illegal dealings in human tissues.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Whoever\u2014",
+                            "contains": {
+                                "0": "(a) makes or receives any payment for the supply of, or for an offer to supply, any human tissue; or",
+                                "1": "(b) seeks to find a person willing to supply for payment and human tissue; or",
+                                "2": "(c) offers to supply any human tissue for payment; or",
+                                "3": "(d) initiates or negotiates any arrangement involving the making of any payment for the supply of, or for an offer to supply, any human tissue; or",
+                                "4": "(e) takes part in the management or control of a body of persons, whether a society, firm or company, whose activities consist of or include the initiation or negotiation of any arrangement referred to in clause (d); or",
+                                "5": {
+                                    "text": "(f) publishes or distributes or causes to be published or distributed any advertisement\u2014",
+                                    "contains": {
+                                        "0": "(i) inviting persons to supply for payment of any human tissue; or",
+                                        "1": "(ii) offering to supply any human tissue for payment; or",
+                                        "2": "(iii) indicating that the advertiser is willing to initiate or negotiate any arrangement referred to in clause (d); or"
+                                    }
+                                },
+                                "6": "(g) abets in the preparation or submission of false documents including giving false affidavits to establish that the donor is making the donation of the human tissues as a near relative or by reason of affection or attachment towards the recipient,"
+                            }
+                        },
+                        "1": "shall be punishable with imprisonment for a term which shall not be less than one year but which may extend to three years and shall be liable to fine which shall not be less than five lakh rupees but which may extend to twenty-five lakh rupees.]"
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Punishment for contravention of any other provision of this Act.",
+                    "paragraphs": {
+                        "0": "Whoever contravenes any provision of this Act or any rule made, or any condition of the registration granted, thereunder for which no punishment is separately provided in this Act, shall be punishable with imprisonment for a term which may extend to 5[five years or with fine which may extend to twenty lakh rupees]."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where any offence punishable under this Act has been committed by a company, every person who, at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly: Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that be had exercised all due diligence to prevent the commission of such offence. (2) Notwithstanding anything contained in sub-section (1), where any offence punishable under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                        "1": {
+                            "text": "Explanation.\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                                "1": "(b) \u201cdirector\u201d in relation to a firm, means a partner in the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Cognizance of offences.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) No court shall take cognizance of an offence under this Act except on a complaint made by\u2014",
+                            "contains": {
+                                "0": "(a) the Appropriate Authority concerned, or any officer authorised in this behalf by the Central Government or the State Government or, as the case may be, the Appropriate Authority; or;",
+                                "1": "(b) a person who has given notice of not less than sixty days, in such manner as may be prescribed, to the Appropriate Authority concerned, of the alleged offence and of his intention to make a complaint to the court."
+                            }
+                        },
+                        "1": "(2) No court other than that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under this Act.",
+                        "2": "(3) Where a complaint has been made under clause (b) of sub-section (1), the court may, on demand by such person, direct the Appropriate Authority to make available copies of the relevant records in its possession to such person."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 23.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "(1) No suit, prosecution or other legal proceeding shall lie against any person for anything which is in good faith done or intended to be done in pursuance of the provisions of this Act.",
+                        "1": "(2) No suit or other legal proceeding shall lie against the Central Government or the State Government for any damage caused or likely to be caused for anything which is in good faith done or intended to be done in pursuance of the provisions of this Act."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government may, by notification, make rules for carrying out the purposes of this Act.",
+                            "contains": {
+                                "0": {
+                                    "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                                    "contains": {
+                                        "0": "(a) the manner in which and the conditions subject to which any donor may authorise removal, before his death, of any 1[human organ or tissue or both] of his body under sub-section (1A) of section 3;",
+                                        "1": "2[(aa) the human organ or tissues or both in respect of which duty is cast on registered medical pracitioner the manner of obtaining documentation of authoirsation under clause (i) of sub-section 3;",
+                                        "2": "(ab) the manner of informing the Human Organ Retrieval Centre under clause (iii) of sub-section (1A) of section 3;",
+                                        "3": "(ac) the date from which duties mentioned in sub-section (1A) are applicable to registered medical practitioner working a unregistered hospital under sub-section (1B) of section 3;",
+                                        "4": "(ae) the qualification and experience of a technician under the proviso to sub-section (4) of section 3;]",
+                                        "5": "(b) the form and the manner in which a brain-stem death is to be certified and the conditions and requirements which are to be satisfied for that purpose under sub-section (6) of section 3;",
+                                        "6": "1[(ba) the conditions for nomination of a surgeon or a physician and an anaesthetist or intensivist to be included in the Board of medical experts under the proviso to clause (iii) of sub-section (6) of section 3;]",
+                                        "7": "(c) the form and the manner in which any of the parents may give authority, in the case of brain-stem death of a minor, for the removal of any 2[human organ or tissue or both] under sub-section (7) of section 3;",
+                                        "8": "(d) the form in which authority for the removal of any 2[human organ or tissue or both] from an, unclaimed dead body may be given by the person incharge of the management or control of the hospital or prison under sub-section (1) of section 5;",
+                                        "9": "(e) the steps to be taken for the preservation of the 2[human organ or tissue or both] removed from the body of any person, under section 7;",
+                                        "10": "1[(ea) the manner of removal of human organs or tissues or both from the body of a minor before his death for transplantation under sub-section (1B) of section 9;",
+                                        "11": "(eb) the composition of the Authorisation Committees under sub-section (4) of section 9;]",
+                                        "12": "(f) the form and the manner in which an application may be jointly made by the donor and the recipient under sub-section (5) of section 9;",
+                                        "13": "(g) the manner in which all possible effects, complications and hazards connected with the removal and transplantation is to be explained by the registered medical practitioner to the donor and the recipient under section 12;",
+                                        "14": "(h) the standards as are to be enforced by the Appropriate Authority for hospitals engaged in the removal, storage or transplantation of any 2[human organ or tissue or both] under clause (iii) of sub-section (3) of section 13;",
+                                        "15": "(i) the other measures as the Appropriate Authority shall undertake in performing its functions under clause (vi) of sub-section (3) of section 13;",
+                                        "16": "1[(ia) the qualifications of medical experts and the terms and conditions for appointment to Advisory committee under sub-sections (2) and (3) of section 13A;",
+                                        "17": "(ib) the power of the Appropriate Authority in any other matter under clause (d) of section 13B;",
+                                        "18": "(ic) the manner of establishment of a National Human Organs and Tissues Removal and Storage Network and Regional Network and functions to be performed by them under section 13C;",
+                                        "19": "(id) the information in the national registry of the donors and recipients of human organs and tissues and all information under section 13D;]",
+                                        "20": "(j) the form and the manner in which an application for registration shall be made and the fee which shall be accompanied, under sub-section (2) of section 14;",
+                                        "21": "(k) the specialised services and the facilities to be provided, skilled manpower and the equipments to be possessed and the standards to be maintained by a hospital for registration, under sub-section (3) of section 14;",
+                                        "22": "1[(ka) the qualifications and experience of a transplant co-ordinator under sub-section (4) of section 14;",
+                                        "23": "(kb) the form and the manner in which an application for registration shall be made and the fee which shall be accompanied, under sub-section (2) of section 14A;",
+                                        "24": "(kc) the specialised service and the facilities to be provided, skilled manpower and the equipment to be possessed and the standards to be maintained by a Tissue Bank, under sub-section (3) of section 14A;]",
+                                        "25": "(l) the form in which, the period for which and the conditions subject to which certificate of registration is to be granted to a 1[hospital or Tissue Bank], under sub-section (1) of section 15;",
+                                        "26": "(m) the manner in which and the fee on payment of which certificate of registration is to be renewed under sub-section (3) of section 15;",
+                                        "27": "(n) the manner in which an appeal may be preferred under section 17;",
+                                        "28": "(o) the manner in which a person is required to give notice to the Appropriate Authority of the alleged offence and of his intention to make a complaint to the court, under clause (b) of sub-section (1) of section 22; and",
+                                        "29": "(p) any other matter which is required to be, or may be, prescribed."
+                                    }
+                                },
+                                "1": "(3) Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                            }
+                        }
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Repeal and savings.",
+                    "paragraphs": {
+                        "0": "(1) The Ear Drums and Ear Bones (Authority for Use for Therapeutic Purposes) Act, 1982 (28 of 1982) and the Eyes (Authority for Use for Therapeutic Purposes) Act, 1982 (29 of 1982) are hereby repealed.",
+                        "1": "(2) The repeal shall, however, not affect the previous operation of the Acts so repealed or anything duly done or suffered thereunder."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. Subs. by Act 16 of 2011, s. 2, for \u201chuman  organs for therapeutic purposes and for the prevention of commercial dealings inhuman organs\u201d (w.e.f. 10-1-2014).",
+            "1": "2. Subs. by s. 4, ibid., for \u201chuman organs\u201d (w.e.f. 10-1-2014).",
+            "2": "3. Subs. by s. 3, ibid., for \u201cHuman Organs\u201d (w.e.f. 10-1-2014).",
+            "3": "4. 4th February, 1995, vide Notification No. S.O. 80(E), dated the 4th February, 1995, see Gazette of India, Extraordinary, Part II,sec.3(ii).Extended to the Union territory of Jammu and Kashmir and Union territory of Ladakh by Act 34 of 2019, s. 95 and the FifthSchedule (w.e.f. 31-10-2019)."
+        },
+        "Page 4": {
+            "0": "1. Ins. by Act 16 of 2011, s. 5 (w.e.f. 10-1-2014).",
+            "1": "2. Subs. by s. 5, ibid., for clause (i) (w.e.f. 10-1-2014).",
+            "2": "3. Subs. by s. 4, ibid., for \u201chuman organ\u201d (w.e.f. 10-1-2014).",
+            "3": "4. The word \u201cand\u201d omitted by s. 5, ibid. (w.e.f. 10-1-2014).",
+            "4": "5. Ins. by s. 5, ibid. (w.e.f. 10-1-2014)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act of 16 of 2011, s. 4, for \u201chuman organs\u201d (w.e.f. 10-1-2014).",
+            "1": "2. Subs. by s. 4, ibid., for \u201chuman organ\u201d (w.e.f. 10-1-2014).",
+            "2": "3. Ins. by s. 6, ibid. (w.e.f. 10-1-2014)."
+        },
+        "Page 6": {
+            "0": "1. The word \u201cand\u201d omitted by Act 16 of 2011, s. 6 (w.e.f. 10-1-2014).",
+            "1": "2. Ins. by s. 6, ibid. (w.e.f. 10-1-2014).",
+            "2": "3. Subs. by s. 4, ibid., for \u201chuman organ\u201d (w.e.f. 10-1-2014).",
+            "3": "4. Subs. by s. 4, ibid., for \u201chuman organs\u201d (w.e.f. 10-1-2014)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 16 of 2011, s. 4 for \u201chuman organ\u201d (w.e.f. 10-1-2014).",
+            "1": "2. Subs. by s. 4, ibid., for \u201chuman organs\u201d (w.e.f. 10-1-2014).",
+            "2": "3. Ins. by s. 7, ibid. (w.e.f. 10-1-2014)."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 16 of 2011, s. 4, for \u201chuman organ\u201d (w.e.f. 10-1-2014).",
+            "1": "2. Ins. by s. 7, ibid. (w.e.f. 10-1-2014).",
+            "2": "3. Subs. by s. 7, ibid., for sub-section (4) (w.e.f. 10-1-2014).",
+            "3": "4. Subs. by s. 4, ibid., for \u201chuman organs\u201d (w.e.f. 10-1-2014).",
+            "4": "5. The word \u201cand\u201d omitted by s. 8, ibid. (w.e.f. 10-1-2014)"
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 16 of 2011, s. 4, for \u201chuman organ\u201d (w.e.f. 10-1-2014).",
+            "1": "2. The word \u201cand\u201d ins by s. 8, ibid. (w.e.f. 10-1-2014).",
+            "2": "3. Ins. by s. 8, ibid. (w.e.f. 10-1-2014).",
+            "3": "4. Subs. by s. 4, ibid., for \u201chuman organs\u201d (w.e.f. 10-1-2014).",
+            "4": "5. Subs. by s. 9, ibid., for clause (iii) (w.e.f. 10-1-2014).",
+            "5": "6. Ins. by s. 9, ibid. (w.e.f. 10-1-2014).",
+            "6": "7. Ins. by s. 10, ibid. (w.e.f. 10-1-2014)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act of 16 of 2011, s. 4, for \u201chuman organs\u201d (w.e.f. 10-1-2014).",
+            "1": "2. Subs. by s. 11, ibid., for \u201cNo hospital\u201d (w.e.f. 10-1-2014).",
+            "2": "3. Subs. by s. 4,  ibid., for \u201chuman organ\u201d (w.e.f. 10-1-2014)."
+        },
+        "Page 11": {
+            "0": "1. Ins. by Act 16 of 2011, s. 11 (w.e.f. 10-1-2014).",
+            "1": "2. Ins. by s. 12, ibid. (w.e.f. 10-1-2014).",
+            "2": "3. Subs. by s. 13, ibid., for \u201cgrant to the hospital\u201d (w.e.f. 10-1-2014).",
+            "3": "4. Subs. by s. 14, ibid., for \u201chospital\u201d (w.e.f. 10-1-2014)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 16 of 2011, s. 14, for \u201chospital\u201d (w.e.f. 10-1-2014).",
+            "1": "2. Ins. by s. 15, ibid. (w.e.f. 10-1-2014).",
+            "2": "3. Subs. by s. 16, ibid., for \u201cfive years and with fine which may extend to ten thousand rupees\u201d (w.e.f. 10-1-2014).",
+            "3": "4. Subs. by s. 16, ibid., for \u201ctwo years\u201d (w.e.f. 10-1-2014).",
+            "4": "5. Ins. by s. 16, ibid. (w.e.f. 10-1-2014)."
+        },
+        "Page 13": {
+            "0": "1. Ins. by Act 16 of 2011, s. 17 (w.e.f. 10-1-2014).",
+            "1": "2. Subs. by s. 17, ibid., for \u201ctwo years but which may extend to seven years and shall be liable to fine which shall not be less thanten thousand rupees but may extend to twenty thousand rupees\u201d (w.e.f. 10-1-2014).",
+            "2": "3. The proviso omitted by s. 17, ibid. (w.e.f. 10-1-2014).",
+            "3": "4. Ins. by s. 18, ibid. (w.e.f. 10-1-2014).",
+            "4": "5. Subs. by s. 19, ibid., for \u201cthree years or with fine which may extend to five thousand rupees\u201d (w.e.f. 10-1-2014)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act of 16 of 2011, s. 4 for \u201chuman organ\u201d (w.e.f. 10-1-2014).",
+            "1": "2. Ins. by s. 20, ibid. (w.e.f. 10-1-2014)."
+        },
+        "Page 15": {
+            "0": "1. Ins. by Act 16 of 2011, s. 20 (w.e.f. 10-1-2014).",
+            "1": "2. Subs. by s. 4, ibid., for \u201chuman organ\u201d (w.e.f. 10-1-2014)."
+        },
+        "Page 16": {
+            "0": "1. Subs. by Act 16 of 2011, s. 20, for \u201chospital\u201d (w.e.f. 10-1-2014)."
+        }
+    }
+}

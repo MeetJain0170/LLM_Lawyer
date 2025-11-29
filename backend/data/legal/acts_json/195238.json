@@ -1,0 +1,731 @@
+{
+    "Act Title": "THE DELHI AND AJMER RENT CONTROL ACT, 1952",
+    "Act ID": "ACT NO. 38 OF 1952",
+    "Enactment Date": "[15th April, 1952.]",
+    "Act Definition": {
+        "0": "An Act to provide for the control of rents and evictions, and for the lease of vacant premises to Government, in certain areas in the States of Delhi and Ajmer."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Delhi and Ajmer Rent Control Act, 1952.",
+                        "1": "(2) It extends to the areas specified in the First Schedule and may be extended by the Central Government, by notification in the Official Gazette, to such other areas in the State of Delhi or Ajmer as may, from time to time, be specified in the notification:",
+                        "2": "Provided that the Central Government may, at any time, by a like notification direct that it shall cease to be in force in any such area, and with effect from such date, as may be specified in the notification.",
+                        "3": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cfair rate\u201d means the fair rate fixed under section 24 and includes the rate as revised under section 25;",
+                                "1": "(b) \u201chotel or lodging house\u201d means a building or part of a building where lodging with or without board or other services is provided for a monetary consideration;",
+                                "2": "(c) \u201clandlord\u201d means a person who, for the time being is receiving, or is entitled to receive, the rent of any premises, whether on his own account or on account of, or on behalf of, or for the benefit of, any other person or as a trustee, guardian or receiver for any other person or who would so receive the rent or be entitled to receive the rent, if the premises were let to a tenant;",
+                                "3": "(d) \u201clawful increase\u201d means an increase in rent permitted under the provisions of this Act;",
+                                "4": "(e) \u201cmanager of a hotel\u201d includes any person in charge of the management of the hotel;",
+                                "5": "(f) \u201cowner of a lodging house\u201d means a person who receives or is entitled to receive whether on his own account or on behalf of himself and others or as an agent or a trustee for any other person, any monetary consideration from any person on account of board, lodging or other services;",
+                                "6": {
+                                    "text": "(g) \u201cpremises\u201d means any building or part of a building which is, or is intended to be, let separately for use as a residence or for commercial use or for any other purpose, and includes\u2014",
+                                    "contains": {
+                                        "0": "(i) the garden, grounds and outhouses, if any, appertaining to such building or part of a building;",
+                                        "1": "(ii) any furniture supplied by the landlord for use in such building or part of a building;"
+                                    }
+                                }
+                            }
+                        },
+                        "1": {
+                            "text": "but does not include a room in a hotel or lodging house;",
+                            "contains": {
+                                "0": "(h) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "1": {
+                                    "text": "(i) \u201cstandard rent\u201d, in relation to any premises, means,\u2014",
+                                    "contains": {
+                                        "0": "(i) where the standard rent has been fixed by the court under section 8, the rent so fixed; or",
+                                        "1": "(ii) where the standard rent has not been fixed under section 8, the standard rent of the premises as determined in accordance with the provisions of the Second Schedule;"
+                                    }
+                                },
+                                "2": "(j) \u201ctenant\u201d means any person by whom or on whose account rent is payable for any premises and includes such sub-tenants and other persons as have derived title under a tenant under the provisions of any law before the commencement of this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Act not to apply to certain premises.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Nothing in this Act shall apply\u2014",
+                            "contains": {
+                                "0": "(a) to any premises belonging to the Government; or",
+                                "1": "(b) to any tenancy or other like relationship created by a grant from the Government in respect of the premises taken on lease, or requisitioned, by the Government."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "STANDARD RENT AND PROVISIONS RELATING TO OTHER CHARGES BY THE LANDLORD",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Rent in excess of standard rent not recoverable.",
+                    "paragraphs": {
+                        "0": "(1) Except where rent is liable to periodical increase by virtue of an agreement entered into before the 1st day of January, 1939 or where rent is payable under a lease entered into before the 1st day of January, 1939, which has not expired before the first day of the period for which the rent is claimed, no tenant shall, notwithstanding any agreement to the contrary, be liable to pay to his landlord for the occupation of any premises any amount in excess of the standard rent of the premises unless such amount is a lawful increase of the standard rent in accordance with the provisions of this Act.",
+                        "1": "(2) Subject to the provisions of sub-section (1), any agreement for the payment of rent in excess of the standard rent shall be null and void and shall be construed as if it were an agreement for the payment of the standard rent only."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Unlawful charges not to be claimed or received.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, no person shall claim or receive any rent in excess of the standard rent, notwithstanding any agreement to the contrary.",
+                        "1": "(2) No person shall, in consideration of the grant, continuance or renewal of a tenancy or sub-tenancy of any premises, claim or receive the payment of any premium, pugree, fine, advance or any other like sum in addition to the rent.",
+                        "2": "Explanation.\u2014Receipt of rent in advance for a period not exceeding one month shall not be deemed to be an advance within the meaning of this section.",
+                        "3": "(3) It shall not be lawful for the tenant or any other person acting or purporting to act on behalf of the tenant or a sub-tenant to claim or receive any payment in consideration of the relinquishment of his tenancy or sub-tenancy, as the case may be, of any premises.",
+                        "4": {
+                            "text": "(4) Nothing in this section shall apply\u2014",
+                            "contains": {
+                                "0": "(a) to any payment made in pursuance of an agreement entered into before the 1st day of November, 1939; or",
+                                "1": "(b) to any payment made under an agreement by any person to a landlord for the purpose of financing the construction of the whole or part of any premises on the land belonging to the landlord, if one of the conditions of the agreement is that the landlord is to let to such person the whole or part of the premises when completed for the use of such person or any member of his family:"
+                            }
+                        },
+                        "5": "Provided that such payment does not exceed the amount of agreed rent for a period of five years of the whole or part of the premises to be let to such person.",
+                        "6": "Explanation.\u2014For the purposes of clause (b) of this sub-section, a \u201cmember of the family\u201d means, in the case of an undivided Hindu family, any member of such family and in the case of any other family, the husband, wife, son, daughter, father, mother, brother, sister or any other person dependent on him."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Lawful increases of standard rent.",
+                    "paragraphs": {
+                        "0": "(1) Where a landlord has at any time, whether before or after the commencement of this Act, incurred expenditure for any improvement, addition or structural alteration in the premises , not being expenditure on decoration or tenantable repairs necessary or usual for such premises, and the cost of that improvement, addition or alteration has not been taken into account in determining the standard rent of the premises, the landlord may lawfully increase the standard rent per year by an amount not exceeding seven and a half per cent. of such cost.",
+                        "1": "(2) Where a landlord pays in respect of the premises any charge for electricity or water consumed in the premises or any other charge levied by a local authority having jurisdiction in the area which is ordinarily payable by the tenant, he may recover from the tenant any amount so paid by him; but no landlord shall recover from the tenant whether by means of an increase in rent or otherwise the amount of any tax on building or land imposed in respect of the premises occupied by the tenant:",
+                        "2": "Provided that nothing in this sub-section shall affect the liability of any tenant under an agreement entered into before the 1st day of January, 1952, whether express or implied, to pay from time to time the amount of any such tax as aforesaid.",
+                        "3": {
+                            "text": "(3) Where a part of the premises let for use to a tenant has been sub-let by him\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) the landlord may lawfully increase the rent payable by the tenant\u2014",
+                                    "contains": {
+                                        "0": "(i) in the case of any premises let for residential purposes, by an amount not exceeding twelve and one-half per cent. of the standard rent of the part sub-let;",
+                                        "1": "(ii) in the case of any premises let for other purposes, by an amount not exceeding twenty- five per cent. of the standard rent of the part sub-let;"
+                                    }
+                                },
+                                "1": {
+                                    "text": "(b) the tenant may lawfully increase the rent payable by the sub-tenant\u2014",
+                                    "contains": {
+                                        "0": "(i) in the case of any premises let for residential purposes, by an amount not exceeding twenty-five per cent. of the standard rent of the part sub-let; and",
+                                        "1": "(ii) in the case of any premises let for other purposes, by an amount not exceeding fifty per cent. of the standard rent of the part sub-let;"
+                                    }
+                                },
+                                "2": "(c) the tenant shall, on being so requested in writing by the landlord, supply, within fourteen days of such request being made, a statement in writing giving full particulars of any sub-letting including the rent charged."
+                            }
+                        }
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Notice of increase of, or addition to, rent.",
+                    "paragraphs": {
+                        "0": "(1) Where a landlord wishes to increase the rent of any premises, he shall give the tenant notice of his intention to make the increase and in so far as such increase is lawful under this Act, it shall be due and recoverable only in respect of the period of the tenancy after the end of the month in which the notice is given.",
+                        "1": "(2) Every notice under sub-section (1) shall be in writing signed by or on behalf of the landlord and given in the manner provided in section 106 of the Transfer of Property Act, 1882 (4 of 1882).",
+                        "2": "(3) For the avoidance of doubt, it is hereby declared that the provisions of this section apply equally to any increase in rent payable by the sub-tenant."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Cases in which standard rent may be fixed by court.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In any of the following cases, namely:\u2014",
+                            "contains": {
+                                "0": "(a) where, for any reason whatsoever, any dispute arises between a landlord and the tenant regarding the amount of standard rent payable in respect of any premises in accordance with the provisions of the Second Schedule; or",
+                                "1": "(b) where, at any time on or after the 2nd day of June, 1944, any premises are first let and the rent at which they are let is, in the opinion of the court, unreasonable;"
+                            }
+                        },
+                        "1": {
+                            "text": "the court may, on an application made to it for the purpose or in any suit or proceeding, fix the standard rent at such an amount as, having regard to the provisions of this Act and the circumstances of the case, the court deems just.",
+                            "contains": {
+                                "0": "(2) Where there is any dispute between the landlord and the tenant regarding the amount which is a lawful increase of the standard rent, the court may determine such amount.",
+                                "1": "(3) Where for any reason it is not possible to determine the standard rent of any premises on the principles set forth in the Second Schedule, the court may, on an application made to it for the purpose, determine the standard rent, and in so doing, shall have regard to the standard rent of similar premises in the same locality and other circumstances of the case.",
+                                "2": "(4) Infixing the standard rent of any premises under clause (b) of sub-section (1), the court shall fix an amount which appears to it to be reasonable and no standard rent so fixed shall exceed seven and one-half per cent. of the reasonable cost of construction of such premises.",
+                                "3": "Explanation.\u2014For the purposes of this sub-section, the \u201ccost of construction\u201d, in respect of any premises, includes the market value of the land comprised in the premises at the time of the completion of such construction.",
+                                "4": "(5) The standard rent shall in all cases be fixed as for a tenancy of twelve months:",
+                                "5": "Provided that where any premises are let or re-let for a period of less than twelve months, the standard rent for such tenancy shall bear the same proportion to the annual standard rent as the period of tenancy bears to twelve months.",
+                                "6": "(6) Where the court determines the standard rent of any premises under this section, the court shall determine the standard rent of the premises in an unfurnished state, and may also determine an additional charge to be payable on account of any fittings or furniture supplied by the landlord and it shall be lawful for the landlord to recover such additional charge from the tenant.",
+                                "7": "(7) In every case in which the court determines the standard rent of any premises under this section, it shall specify a date from which the standard rent so determined shall be deemed to have effect:",
+                                "8": "Provided that in no case, the date so specified shall be earlier than six months prior to the date of filing of the application for the determination of the standard rent or, as the case may be, of the institution of the suit or proceeding in which the standard rent is determined."
+                            }
+                        }
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Fixation of interim rent by the court.",
+                    "paragraphs": {
+                        "0": "If an application for fixing the standard rent or for determining the lawful increase of such rent is made under section 8, the court shall, as expeditiously as possible, make an order specifying the amount of the rent or the lawful increase to be paid by the tenant to the landlord pending the final decision of the application and shall appoint a date from which the rent or lawful increase so specified shall be deemed to have effect."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Limitation of liability of middleman.",
+                    "paragraphs": {
+                        "0": "No collector of rents or middleman shall be liable to pay to his principal, in respect of any premises, any sum by way of rental charges which exceeds the amount which he is entitled under this Act to realise from the tenant or tenants of the premises."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Limitation for applications for fixation of standard rent.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any landlord or tenant may file an application to the court for fixing the standard rent of the premises or for determining the lawful increase of such rent\u2014",
+                            "contains": {
+                                "0": "(a) in the case of any premises which were let, or in which the cause of action for lawful increase of rent arose, before the commencement of this Act, within six months from such commencement;",
+                                "1": "(b) in the case of any premises let after the commencement of this Act, within six months from the date on which it is so let; and",
+                                "2": "(c) in the case of any premises in which the cause of action for lawful increase of rent arises after the commencement of this Act, within six months from that date:",
+                                "3": "Provided that the court may entertain the application after the expiry of the said period of six months if it is satisfied that the applicant was prevented by sufficient cause from filing the application in time."
+                            }
+                        }
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Refund of rent, premium, etc., not recoverable under this Act.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Where any amount has been paid by any person whether before or after the commencement of this Act,\u2014",
+                            "contains": {
+                                "0": "(a) on account of rent, being an amount which is by reason of the provisions of this Act, not recoverable, or",
+                                "1": "(b) as premium, pugree, fine, advance or other like sum in addition to the rent, the receiving of which is prohibited under this Act,"
+                            }
+                        },
+                        "1": "the court may, on an application made to it in this behalf at any time within a period of six months from the date of such payment, direct the landlord by whom or on whose behalf the amount was received to refund the amount to such person or, if such person is a tenant, direct that the amount so paid shall be deducted from the rent payable by the tenant to the landlord."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "CONTROL OF EVICTION OF TENANTS",
+            "Sections": {
+                "Section 13.": {
+                    "heading": "Protection of a tenant against eviction.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything to the contrary contained in any other law or any contract, no decree or order for the recovery of possession of any premises shall be passed by any court in favour of the landlord against any tenant (including a tenant whose tenancy is terminated):",
+                        "1": {
+                            "text": "Provided that nothing in this sub-section shall apply to any suit or other proceeding for such recovery of possession if the court is satisfied\u2014",
+                            "contains": {
+                                "0": "(a) that the tenant has neither paid nor tendered the whole of the arrears of rent due within one month of the date on which a notice of demand for the arrears of rent has been served on him by the landlord in the manner provided in section 106 of the Transfer of Property Act, 1882 (4 of 1882); or",
+                                "1": {
+                                    "text": "(b) that the tenant without obtaining the consent of the landlord in writing has, after the commencement of this Act,\u2014",
+                                    "contains": {
+                                        "0": "(i) sub-let, assigned or otherwise parted with the possession of, the whole or any part of the premises; or",
+                                        "1": "(ii) used the premises for a purpose other than that for which they were let; or"
+                                    }
+                                },
+                                "2": {
+                                    "text": "(c) that the tenant, without obtaining the consent of the landlord had, before the commencement of this Act,\u2014",
+                                    "contains": {
+                                        "0": "(i) sub-let, assigned or otherwise parted with the possession of, the whole or any part of the premises; or",
+                                        "1": "(ii) used the premises for a purpose other than that for which they were let; or"
+                                    }
+                                },
+                                "3": "(d) that the premises were let for use as a residence and neither the tenant nor any member of his family has been residing therein for a period of six months immediately before the date of the institution of any suit or proceeding for recovery of possession; or",
+                                "4": "(e) that the premises let for residential purposes are required bona fide by the landlord who is the owner of such premises for occupation as a residence for himself or his family and that he has no other suitable accommodation:",
+                                "5": "Explanation.\u2014For the purposes of this clause, \u201cresidential premises\u201d include any premises which having been let for use as a residence are, without the consent of the landlord, used incidentally for commercial or other purposes; or",
+                                "6": "(f) that the premises have become unsafe or unfit for human habitation and are bona fide required by the landlord for carrying out repairs which cannot be carried out without the premises being vacated; or",
+                                "7": "(g) that the premises are bona fide required by the landlord for the purpose of re-building the premises or for the replacement of the premises by any building or for the erection of other buildings and that such building or re-building cannot be carried out without the premises being vacated; or",
+                                "8": "(h) that the tenant has, whether before or after the commencement of this Act, built, acquired vacant possession of, or been allotted, a suitable residence; or",
+                                "9": "(i) that the premises were let to the tenant for use as a residence by reason of his being in the service or employment of the landlord, and that the tenant has ceased, whether before or after the commencement of this Act, to be in such service or employment; or",
+                                "10": "(j) that the conduct of the tenant is such that it is a nuisance or that it causes annoyance to the occupiers of the neighbouring premises or other occupiers of the same premises; or",
+                                "11": "(k) that the tenant has, whether before or after the commencement of this Act, caused or permitted to be caused substantial damage to the premises, or notwithstanding previous notice has used or dealt with the premises in a manner contrary to any condition imposed on the landlord by the Government or the Delhi Improvement Trust while giving him a lease of the land on which the premises are situated; or",
+                                "12": "(l) that the landlord requires the premises in order to carry out any building work at the instance of the Government or the Delhi Improvement Trust in pursuance of any improvement scheme or development scheme."
+                            }
+                        },
+                        "2": "(2) No decree or order for recovery of possession shall be passed on the ground specified in clause (a) of the proviso to sub-section (1), if, on the first day of the hearing of the suit or within such further time as may be allowed by the court, the tenant pays in court the arrears of rent then due together with the costs of the suit.",
+                        "3": "(3) For the purposes of clause (b) or clause (c) of the proviso to sub-section (1), a court may presume that the premises let for use as a residence were or are sub-let by a tenant in whole or in part to another person, if it is satisfied that such person not being a servant of the tenant or a member of the family of such servant was or has been residing in the premises or any part thereof for a period exceeding one month otherwise than in commonality with the tenant.",
+                        "4": "(4) Where a decree for recovery of possession is passed on the grounds specified in clause (e) of the proviso to sub-section (1), the landlord shall not be entitled to obtain possession of the premises by an order of the court before the expiration of a period of three months from the date of the decree.",
+                        "5": "(5) If the tenant contests the suit as regards the claim for ejectment, the plaintiff-landlord may make an application at any stage of the suit for an order on the tenant-defendant to deposit month by month rent at a rate at which it was last paid and also the arrears of rent, if any, and the court, after giving an opportunity to the parties to be heard, may make an order for the deposit of rent at such rate month by month as it thinks fit and the arrears of rent, if any, and on the failure of the tenant to deposit the arrears of rent within fifteen days of the date of the order or to deposit the rent at such rate for any month by the 15th of the next following month, the court shall order the defence against ejectment to be struck out and the tenant to be placed in the same position as if he had not defended the claim to ejectment; and the landlord may withdraw the amount of money in deposit without prejudice to his claim to any decree or order for recovery of possession of the premises.",
+                        "6": "(6) For avoidance of doubts it is hereby declared that nothing in this section shall apply to any decree or order for recovery of possession of any premises passed before the commencement of this Act."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Recovery of possession for occupation and re-entry.",
+                    "paragraphs": {
+                        "0": "Where a landlord recovers possession of any premises from the tenant by virtue of any decree or order made on the grounds specified in clause (e) of the proviso to sub-section (1) of section 13 and the premises are not occupied by the landlord as a residence for himself or his family within two months of obtaining such possession or the premises having been so occupied, are, at any time within eight months of such occupation, re-let in whole or in part to any person other than the evicted tenant, the court may, on the application of such evicted tenant, place him in vacant possession of the premises and award such damages to him as it thinks fit against the landlord."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Recovery of possession for repairs and re-building and re-entry.",
+                    "paragraphs": {
+                        "0": "(1) The court shall, when passing any decree or order on the grounds specified in clause (f) or clause (g) of the proviso to sub-section (1) of section 13, ascertain from the tenant whether he elects to be placed in occupation of the premises or part thereof from which he is to be evicted and if the tenant so elects, shall record the fact of the election in the decree or order and specify therein the date on or before which he shall deliver possession so as to enable the landlord to commence the work of repairs or building or re-building, as the case may be.",
+                        "1": "(2) If the tenant delivers possession on or before the date specified in the decree or order, the landlord shall, on the completion of the work of repairs or building or re-building place the tenant in occupation of the premises or part thereof.",
+                        "2": "(3) If, after the tenant has delivered possession on or before the date specified in the decree or order, the landlord fails to commence the work of repairs or building or re-building within one month of the specified date or fails to complete the work in a reasonable time or having completed the work, fails to place the tenant in occupation of the premises in accordance with sub-section (2), the court may, on the application of the tenant made within one year from the specified date, order the landlord to place the tenant in occupation of the premises or part thereof on the original terms and conditions or to pay to such tenant such compensation as may be fixed by the court."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Recovery of possession in case of tenancies for limited period.",
+                    "paragraphs": {
+                        "0": "Where a landlord does not require the whole or any part of any premises for a particular period and he lets the premises or part thereof as a residence for such period as may be agreed to in writing between himself and the tenant and the tenant does not, on the expiry of the said period, vacate such premises, the court may, on an application of such landlord, place him in vacant possession of the premises or part thereof by evicting the tenant and every other person who may be in occupation of such premises."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Special provision for recovery of possession in certain cases.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Where the landlord in respect of any premises is any company or other body corporate or any local authority, or any public institution and the premises are required for the use of employees of such landlord or in the case of a public institution, for the furtherance of its activities then, notwithstanding anything contained in section 13, the court may, on an application of such landlord, place him in vacant possession of such premises by evicting the tenant and every other person who may be in occupation thereof, if the court is satisfied\u2014",
+                            "contains": {
+                                "0": "(a) that the tenant, to whom such premises were let for use as a residence at a time when he was in the service or employment of the landlord, has ceased to be in such service or employment; or",
+                                "1": "(b) that the tenant has acted in contravention of the terms, express or implied, under which he was authorised to occupy such premises; or",
+                                "2": "(c) that any person is in unauthorised occupation of such premises; or",
+                                "3": "(d) that the premises are bona fide required by the public institution or the furtherance of its activities."
+                            }
+                        },
+                        "1": "Explanation.\u2014For the purposes of this section, public institution includes any educational institution, library, hospital and charitable dispensary."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Permission to construct additional structures.",
+                    "paragraphs": {
+                        "0": "Where the landlord proposes to make any improvement in, or construct any additional structure on, any building which has been let to a tenant and the tenant refuses to allow the landlord to make such improvement or construct such additional structure, the landlord may apply to the court and the court may, if it is satisfied that the landlord is ready and willing to commence the work and that such work will not cause any undue hardship to the tenant, permit the landlord to do such work and may make such other orders as it thinks fit in the circumstances of the case."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Special provision regarding vacant building sites.",
+                    "paragraphs": {
+                        "0": "(1) The provisions of this section shall apply notwithstanding anything contained in section 13, but only in relation to premises in such areas as the Central Government may, from time to time, specify by notification in the Official Gazette.",
+                        "1": {
+                            "text": "(2) Where any premises which have been let comprise vacant grounds upon which it is permissible under the building regulations or other municipal bye-laws for the time being in force to erect any building, whether for use as a residence or any other purpose and the landlord proposing to erect such building is unable to obtain possession of these grounds from the tenant by agreement with him, the landlord may apply to the court, and the court may, if it is satisfied that the landlord is ready and willing to commence the work and that the severance of the vacant grounds from the rest of the premises will not cause undue hardship to the tenant,\u2014",
+                            "contains": {
+                                "0": "(a) direct such severance,",
+                                "1": "(b) place the landlord in possession of the vacant grounds,",
+                                "2": "(c) determine the rent payable by the tenant thereafter in respect of the rest of the premises, and",
+                                "3": "(d) make such other orders as it thinks fit in the circumstances of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Sub-tenant to become tenant on determination of tenancy.",
+                    "paragraphs": {
+                        "0": "Where the interest of a tenant of any premises is determined for any reason, any sub-tenant to whom the whole or any part of such premises has been lawfully sub-let whether before or after the commencement of this Act shall, subject to the provisions of this Act, be deemed to become the tenant of the landlord on the same terms and conditions on which he would have held from the tenant if the tenancy had continued."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Vacant possession to the landlord.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in any other law, where the interest of a tenant in any premises is determined for any reason whatsoever and any decree or order is passed by a court under this Act for the recovery of possession of such premises, the decree or order shall, subject to the provisions of section 20, be binding on all persons who may be in occupation of the premises and vacant possession thereof shall be given to the landlord by evicting all such persons therefrom:",
+                        "1": "Provided that nothing in this section shall apply to any person who has an independent title to such premises."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "HOTELS AND LODGING HOUSES",
+            "Sections": {
+                "Section 22.": {
+                    "heading": "Application of this Chapter.",
+                    "paragraphs": {
+                        "0": "The provisions of this Chapter shall apply to all hotels and lodging houses within the Municipalities of New Delhi and Delhi and the Notified Area of the Civil Station, Delhi and may be applied by the Central Government, by notification in the Official Gazette, to such other areas in the State of Delhi or Ajmer as may be specified in the notification."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Appointment of Controller.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by notification in the Official Gazette, appoint any person to be a Controller for the purpose of performing the functions assigned to him by this Chapter."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Fixing of fair rate.",
+                    "paragraphs": {
+                        "0": "(1) Where the Controller, on a written complaint or otherwise, has reason to believe that the charges made for board or lodging or any other service provided in any hotel or lodging house are excessive, he may fix a fair rate to be charged for board, lodging or other services provided in the hotel or lodging house and in fixing such fair rate, specify separately the rate for lodging, board or other services.",
+                        "1": "(2) In determining the fair rate under sub-section (1), the Controller shall have regard to the circumstances of the case and to the prevailing rate of charges for the same or similar accommodation, board and service, during the twelve months immediately preceding the 1st day of September, 1939 and to any general increase in the cost of living after that date."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Revision of fair rate.",
+                    "paragraphs": {
+                        "0": "On a written application from the manager of a hotel or the owner of a lodging house or otherwise, the Controller may, from time to time, revise the fair rate to be charged for board, lodging or other service, and fix such rate as he may deem fit having regard to any general rise or fall in the cost of living which may have occurred after the fixing of the fair rate."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Charges in excess of fair rate not recoverable.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "When the Controller has determined the fair rate of charges\u2014",
+                            "contains": {
+                                "0": "(a) the manager of the hotel or the owner of the lodging house, as the case may be, shall not charge any amount in excess of the fair rate and shall not, except with the previous written consent of the Controller, withdraw from the lodgers any concession or service allowed at the time when the Controller determined the fair rate;",
+                                "1": "(b) any agreement for the payment of any charges in excess of such fair rate shall be void in respect of such excess and shall be construed as if it were an agreement for payment of the said fair rate;",
+                                "2": "(c) any sum paid by a lodger in excess of the fair rate shall be recoverable by him at any time within a period of six months from the date of the payment from the manager of the hotel or the owner of the lodging house or his legal representatives and may, without prejudice to any other mode of recovery, be deducted by such lodger from any amount payable by him to such manager or owner."
+                            }
+                        }
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Provisions relating to inquiries by Controller.",
+                    "paragraphs": {
+                        "0": "(1) No fair rate under this Chapter shall be fixed by the Controller except after holding an inquiry.",
+                        "1": "(2) Every such inquiry shall be made summarily in the prescribed manner.",
+                        "2": "(3) For the purposes of holding any inquiry under sub-section (1), the Controller may require the manager of a hotel or the owner of a lodging house to produce before him any books of account, documents or other information relating to the hotel or lodging house concerned which he may consider necessary and may himself enter, or authorise any person subordinate to him to enter, upon any premises to which the inquire relates."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Recovery of possession by manager of a hotel or the owner of a lodging house.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in this Act, a manager of a hotel or owner of a lodging house shall be entitled to recover possession of the accommodation provided by him on obtaining a certificate from the Controller certifying\u2014",
+                            "contains": {
+                                "0": "(a) that the lodger has been guilty of conduct which is a nuisance or which causes annoyance to any adjoining or neighbouring lodger;",
+                                "1": "(b) that the accommodation is reasonably and bona fide required by the owner of the hotel or lodging house, as the case may be, either for his own occupation or for the occupation of any person for whose benefit the accommodation is held, or any other cause which may be deemed satisfactory by the Controller;",
+                                "2": "(c) that the lodger has failed to vacate the accommodation on the termination of the period of the agreement in respect thereof;",
+                                "3": "(d) that the lodger has done any act which is inconsistent with the purpose for which the accommodation was given to him or which is likely to affect adversely or substantially the owner's interest therein;",
+                                "4": "(e) that the lodger has failed to pay the rent due from him."
+                            }
+                        }
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Appeals.",
+                    "paragraphs": {
+                        "0": "(1) Any person aggrieved by the order of the Controller under this Chapter may, within fifteen days on which the order is communicated to him, prefer an appeal in writing to the Chief Commissioner.",
+                        "1": "(2) The Chief Commissioner shall call for the record of the Controller and after examining the record and after making such further inquiry as he thinks fit either personally or through the Controller, shall decide the appeal.",
+                        "2": "(3) The decision of the Chief Commissioner and subject only to such decision, the order of the Controller shall, for the purposes of this Chapter, be final."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Penalty.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any manager of a hotel or owner of a lodging house who\u2014",
+                            "contains": {
+                                "0": "(i) fails or refuses to produce before the Controller any books of account or document or other information which the Controller may require him to produce under sub-section (3) of section 27, or refuses to allow the Controller or any person authorised by him under the said sub-section access to the premises to which the inquiry relates; or",
+                                "1": "(ii) charges any amount in excess of the fair rate in contravention of section 26,"
+                            }
+                        },
+                        "1": "shall be punishable with imprisonment for a term which may extend to three years or with fine or with both."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Controller to be deemed to be public servant.",
+                    "paragraphs": {
+                        "0": "A controller appointed under this Act shall be deemed to be a public servant within the meaning of section 21 of the Indian Penal Code (Act XLV of 1860)."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Protection of action taken under this Chapter.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against a Controller in respect of anything which is in good faith done or intended to be done under this Chapter."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "JURISDICTION OF COURTS APPEALS, REVIEW AND REVISION",
+            "Sections": {
+                "Section 33.": {
+                    "heading": "Jurisdiction of courts.",
+                    "paragraphs": {
+                        "0": "(1) Any civil court in the State of Delhi or Ajmer which has jurisdiction to hear and decide a suit for recovery of possession of any premises shall have jurisdiction to hear and decide any case under this Act relating to such premises if it has pecuniary jurisdiction and is otherwise competent to hear and decide such a case under any law for the time being in force.",
+                        "1": "(2) The value of any case under this Act, for the purposes of the pecuniary jurisdiction of the court, shall be determined by the amount of rent which is or would be payable for a period of twelve months, calculated according to the highest amount claimed in the case:",
+                        "2": "Provided that in the case of any proceeding based on the certificate of the Controller under section 28, such value shall be determined by the amount of rent which is or would be payable for a period of one month.",
+                        "3": "(3) If any question arises whether any suit, application or other proceeding is a case under this Act, the question shall be determined by the court.",
+                        "4": "(4) For the purposes of this Chapter, a case under this Act, includes any suit, application or other proceeding under this Act and also includes any claim or question arising out of this Act or any of its provisions but does not include any proceeding which a Controller is empowered to decide under Chapter IV."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Appeals.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) any person aggrieved by any decree or order of a court passed under this Act may, in such manner as may be prescribed, prefer an appeal\u2014",
+                            "contains": {
+                                "0": "(a) to the court of the senior subordinate judge, if any, where the value of the case does not exceed two thousand rupees:",
+                                "1": "Provided that here there is no senior subordinate judge, the appeal shall lie to the district judge;",
+                                "2": "(b) to the court of the district judge, where the value of the case exceeds two thousand rupees but does not exceed ten thousand rupees; and",
+                                "3": "(c) to the High Court, where the value of the case exceeds ten thousand rupees.",
+                                "4": "(2) No second appeal shall lie from any decree or order passed in any case under this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Revision and review.",
+                    "paragraphs": {
+                        "0": "(1) The High Court may, at any time, call for the record of any case under this Act for the purpose of satisfying itself that a decision made therein is according to law and may pass such order in relation thereto as it thinks fit.",
+                        "1": "(2) Any court may, after giving notice to the parties, review its own order."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Limitation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the provisions of Part II and Part III of the Indian Limitation Act, 1908 (IX of 1908), any person aggrieved by a decree or an order passed in any case under this Act may prefer an appeal\u2014",
+                            "contains": {
+                                "0": "(a) where it lies to any court other than the High Court within thirty days from the date of such decree or order; and",
+                                "1": "(b) where it lies to the High Court, within sixty days from the date of such decree or order."
+                            }
+                        }
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Procedure before courts.",
+                    "paragraphs": {
+                        "0": "Subject to any rules that may be made under this Act, the court may hold a summary inquiry into any case under this Act (other than a suit for eviction under section 13 in which the question of title is involved) and the practice and the procedure of a court of small causes shall, as far as may be, apply to such cases as if they were suits and other proceedings cognizable by a court of small causes."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 38.": {
+                    "heading": "Act to over-ride other laws.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act and of the rules made thereunder shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force or in any instrument having effect by virtue of any such law."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Exemption of certain premises from the operation of the Act.",
+                    "paragraphs": {
+                        "0": "All premises, the construction of which is completed after the 1st day of June, 1951, but before the expiry of three years from the commencement of this Act, shall be exempt from the operation of all the provisions of this Act for a period of seven years from the date of such completion."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Landlord\u2019s duty to keep the premises in good repair.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in any law for the time being in force, and in the absence of agreement to the contrary by the tenant, every landlord shall be bound to keep the premises in good and tenantable repair.",
+                        "1": "(2) If the landlord neglects or fails to make within a reasonable time, after notice in writing any repairs which he is bound to make under sub-section (1), the tenant may make the same himself and deduct the expenses of such repairs from the rent or otherwise recover them from the landlord:",
+                        "2": "Provided that the amount so deducted or recoverable in any year shall not exceed one-twelfth of the rent payable by the tenant for that year.",
+                        "3": "(3) Where any repairs without which the premises are not habitable or useable except with undue inconvenience are to be made and the landlord neglects or fails to make them after notice in writing, the tenant may apply to the court for permission to make such repairs himself, provided that the cost of such repairs does not exceed rent for a period of two years payable by that tenant and where such repairs are made with the permission of the court, the limitation as to the amount deductible or recoverable as provided in sub-section (2) shall not apply."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Cutting off or withholding essential supply or service.",
+                    "paragraphs": {
+                        "0": "(1) No landlord either himself or through any person purporting to act on his behalf shall without just or sufficient cause cut off or withhold any essential supply or service enjoyed by the tenant in respect of the premises let to him.",
+                        "1": "(2) If a landlord contravenes the provisions of sub-section (1), the tenant may make an application to the court complaining of such contravention.",
+                        "2": "(3) If the court is satisfied that the essential supply or service was cut off or withheld by the landlord with a view to compel the tenant to vacate the premises or to pay an enhanced rent, the court may pass an order directing the landlord to restore the amenities immediately pending the inquiry referred to in sub-section (4).",
+                        "3": {
+                            "text": "Explanation.\u2014An interim order may be passed under this sub-section without giving notice to the landlord.",
+                            "contains": {
+                                "0": "(4) If the court on inquiry finds, that the essential supply or service enjoyed by the tenant in respect of the premises was cut off or withheld by the landlord without just or sufficient cause, he shall make an order directing the landlord to restore such supply or service.",
+                                "1": {
+                                    "text": "(5) The court may in its discretion direct that compensation not exceeding fifty rupees\u2014",
+                                    "contains": {
+                                        "0": "(a) be paid to the landlord by the tenant, if the application under sub-section (2) was made frivolously or vaxatiously;",
+                                        "1": "(b) be paid to the tenant by the landlord if the landlord had cut off or withheld the supply or service without just or sufficient cause."
+                                    }
+                                }
+                            }
+                        },
+                        "4": "Explanation.\u2014In this section, \u201cessential supply or service\u201d includes supply of water, electricity, lights in passages and on staircases, conservancy and sanitary services."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Landlord\u2019s duty to give notice of new constructions to Government.",
+                    "paragraphs": {
+                        "0": "Whenever, after the commencement of this Act, any premises are constructed, the landlord shall, within thirty days of the completion of such construction, give intimation thereof in writing to the Estate Officer to the Government of India or to such other officer as may be specified in this behalf by the Government."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Leases of vacant premises to Government.",
+                    "paragraphs": {
+                        "0": "(1) The provisions of this section shall apply only in relation to premises within the Municipality of New Delhi which are, or are intended to be let for use as a residence.",
+                        "1": {
+                            "text": "(2) Whenever any premises the standard rent of which is not less than two thousand and four hundred rupees per year becomes vacant, either by the landlord ceasing to occupy the premises or by the termination of a tenancy or by the eviction of a tenant or by the release of the premises from requisition or otherwise,\u2014",
+                            "contains": {
+                                "0": "(a) the landlord shall, within seven days of the premises becoming vacant, give intimation thereof in writing to the Estate Officer to the Government of India;",
+                                "1": {
+                                    "text": "(b) whether or not such intimation is given, the Estate Officer may serve on the landlord by post or otherwise a notice\u2014",
+                                    "contains": {
+                                        "0": "(i) informing him that the premises are required by the Government for such period as may be specified in the notice, and",
+                                        "1": "(ii) requiring him, and every person claiming under him, to deliver possession of the premises forthwith to such officer or person as may be specified in the notice:"
+                                    }
+                                }
+                            }
+                        },
+                        "2": "Provided that where the landlord has given the intimation required by clause (a) no notice shall be issued by the Estate Officer under clause (b) more than seven days after the delivery to him of the intimation:",
+                        "3": "Provided further that nothing in this sub-section shall apply in respect of any premises the possession of which has been obtained by the landlord on the basis of any decree or order made on the grounds set forth in clause (e) of the proviso to sub-section (1) of section 13 or in respect of any premises which have been released from requisition for the use and occupation of the landlord himself.",
+                        "4": "(3) Upon the service of a notice under clause (b) of sub-section (2), the premises shall be deemed to have been leased to the Government for the period specified in the notice, as from the date of the delivery of the intimation under clause (a) of sub-section (2) or in a case where no such intimation has been given, as from the date on which possession of the premises is delivered in pursuance of the notice, and the other terms of the lease shall be such as may be agreed upon between the Government and the landlord or in default of agreement, as may be determined by the court, in accordance with the provisions of this Act.",
+                        "5": "(4) In every case where the landlord has in accordance with the provisions of sub-section (2) given intimation of any premises becoming vacant and the premises are not taken on lease by the Government under this section, the Government shall pay to the landlord a sum equal to one-fifty-second of the standard rent per year of the premises.",
+                        "6": "(5) Any premises taken on lease by the Government under this section may be put to any such use as the Government thinks fit, and in particular the Government may permit the use of the premises for the purposes of any public institution or any foreign embassy, legation or consulate or any High Commissioner or Trade Commissioner, or as a residence by any officer in the service of the Government or of a foreign embassy, legation or consulate or of a High Commissioner or Trade Commissioner."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Penalties.",
+                    "paragraphs": {
+                        "0": "(1) If any person receives any payment in contravention of the provisions of section 5, he shall be punishable with simple imprisonment for a term which may extend to three months, or with fine which may extend to an amount exceeding one thousand rupees by the amount of unlawful charges so received by him, or with both.",
+                        "1": "(2) If any tenant fails to comply with the provisions of clause (c) of sub-section (3) of section 6, or supplies under that clause, a statement which is false in any material particular, he shall be punishable with fine which may extend to one thousand rupees.",
+                        "2": "(3) If any tenant sub-lets the whole or part of any premises in contravention of the provisions of clause (b) of the proviso to sub-section (1) of section 13, he shall be punishable with fine which may extend to one hundred rupees.",
+                        "3": "(4) If any landlord contravenes the provisions of section 41, he shall be punishable with imprisonment for a term which may extend to three months or with fine, or with both.",
+                        "4": "(5) If any landlord fails to comply with the provisions of section 42, he shall be punishable with fine which may extend to one hundred rupees.",
+                        "5": "(6) If any person contravenes the provisions of clause (a) of sub-section (2) of section 43, or fails to comply with a requirement under clause (b) thereof, he shall be punishable with simple imprisonment for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.",
+                        "6": "(7) No court shall take cognizance of an offence punishable under sub-section (1) unless the complaint in respect of the offence has been made within three months from the date of the commission of the offence.",
+                        "7": "(8) Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (Act 5 of 1898), any magistrate of the first class may pass a sentence of fine exceeding one thousand rupees on a person convicted of an offence punishable under sub-section (1)."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette, make rules to carry out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the manner of service of notice under this Act;",
+                                "1": "(b) the procedure to be followed by courts for hearing suits, applications or other legal proceedings and in executing decrees or order is passed by such courts;",
+                                "2": "(c) the manner in which courts may hold summary inquiry under this Act;",
+                                "3": "(d) levy of court-fees and other fees for suits, applications and other proceedings under this Act;",
+                                "4": "(e) the manner in which a controller may hold enquiry under Chapter IV;",
+                                "5": "(f) any other matter which has to be, or may be, prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 46.": {
+                    "heading": "Repeals and savings.",
+                    "paragraphs": {
+                        "0": "(1) The Delhi and Ajmer-Merwara Rent Control Act, 1947 (19 of 1947) is hereby repealed.",
+                        "1": "(2) Notwithstanding such repeal, all suits and other proceedings pending at the commencement of this Act, whether before any court or the Rent Controller appointed under the Fourth Schedule to the said Act, shall be disposed of in accordance with the provisions of the said Act as if the said Act had continued in force and this Act had not been passed:",
+                        "2": "Provided that the procedure laid down in this Act shall, as far as may be, apply to suits and other proceedings pending before any court.",
+                        "3": "(3) Part IV of the Bombay Rents, Hotel Rates and Lodging House Rates (Control) Act, 1944 (Bombay Act VII of 1944) as extended to the Municipality of New Delhi, the Notified Area of the Civil Station, Delhi and the Municipality of Delhi by a notification of the Government of India in the late Department of Works, Mines and Power No.1884-W.II/47, dated the 18th March, 1947 shall cease to have effect in the said areas; and for the removal of doubts; it is hereby declared that section 6 of the General Clauses Act, 1897 (X of 1897) shall apply in relation to such cesser as it applies in relation to the repeal of an enactment by a Central Act."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": {
+                "text": "THE FIRST SCHEDULE",
+                "contains": {
+                    "0": "[See section 1(2)]"
+                }
+            },
+            "1": "AREAS TO WHICH THE ACT EXTENDS",
+            "2": {
+                "text": "A. The State of Delhi\u2014",
+                "contains": {
+                    "0": "1. The Municipality of Delhi;",
+                    "1": "2. The Municipality of New Delhi;",
+                    "2": "3. The Cantonment of Delhi;",
+                    "3": "4. The Notified Area of the Civil Station, Delhi;",
+                    "4": "5. The Municipality of Shahdara;",
+                    "5": "6. The Notified Area, Red Fort;",
+                    "6": "7. The West Notified Area, Delhi."
+                }
+            },
+            "3": {
+                "text": "B. The State of Ajmer\u2014",
+                "contains": {
+                    "0": "1. The Municipality of Ajmer and all land within one mile of the limits of that Municipality;",
+                    "1": "2. The Municipality of Beawar and all land within one mile of the limits of that Municipality;",
+                    "2": "3. The Cantonment of Nasirabad and all land within one mile of the limits of that Cantonment."
+                }
+            }
+        },
+        "THE SECOND SCHEDULE": {
+            "0": {
+                "text": "THE SECOND SCHEDULE",
+                "contains": {
+                    "0": {
+                        "text": "[See section 2 (i)]",
+                        "contains": {
+                            "0": "PART A"
+                        }
+                    }
+                }
+            },
+            "1": {
+                "text": "PROVISIONS FOR DETERMINING THE STANDARD RENT OF PREMISES",
+                "contains": {
+                    "0": "IN THE STATE OF DELHI"
+                }
+            },
+            "2": {
+                "text": "1. In this Part of this Schedule, \u201cbasic rent\u201d in relation to any premises means\u2014",
+                "contains": {
+                    "0": "(a) where the fair rent of the premises has been determined or redetermined under the provisions of the New Delhi House Rent Control Order, 1939 the rent as so determined or, as the case may be, redetermined;",
+                    "1": "(b) where the standard rent of the premises has been fixed by the court under section 7 of the Delhi Rent Control Ordinance, 1944 (XXV of 1944), the rent as so fixed;",
+                    "2": {
+                        "text": "(c) in any other case,",
+                        "contains": {
+                            "0": "(i) the rent at which the premises were let on the 1st day of November, 1939, or",
+                            "1": "(ii) if the premises were not let on that date, the rent at which they were first let at any time after that date but before the 2nd day of June, 1944."
+                        }
+                    }
+                }
+            },
+            "3": {
+                "text": "2. Where the premises in respect of which rent is payable were let, for whatever purpose, on or after the 2nd day of June, 1944, the standard rent of the premises shall be\u2014",
+                "contains": {
+                    "0": "(a) where the standard rent of the premises has been fixed by the Rent Controller under the provisions of the Fourth Schedule to the Delhi and Ajmer-Merwara Rent Control Act, 1947 (19 of 1947), such standard rent; or",
+                    "1": "(b) where the standard rent has been fixed by the court under clause (b) of sub-section (1) of section 8, such standard rent; or",
+                    "2": "(c) in any other case, so long as the standard rent is not fixed by the court, the rent at which the premises were first let."
+                }
+            },
+            "4": {
+                "text": "3. Where the premises in respect of which rent is payable not being premises to which paragraph 2 applies, are let for the purpose of being used as a residence or for any of the purposes of a public hospital, an educational institution, a public library or reading-room or an orphanage, the standard rent of the premises shall be the basic rent increased by\u2014",
+                "contains": {
+                    "0": "(a) 12\u00bd per cent. thereof, if the basic rent per annum is not more than Rs. 300;",
+                    "1": "(b) 15\u215d per cent. thereof, if the basic rent per annum is more than Rs. 300, but not more than Rs. 600;",
+                    "2": "(c) 18\u00be per cent. thereof, if the basic rent per annum is more than Rs. 600, but not more than Rs. 1,200; or",
+                    "3": "(d) 25 per cent. thereof, if the basic rent per annum is more than Rs. 1,200."
+                }
+            },
+            "5": "4. Where the premises in respect of which rent is payable, not being premises to which paragraph 2 applies, are let for any purpose other than those mentioned in paragraph 3, the standard rent of the premises shall be the basic rent increased by twice the amount by which it would be increased under paragraph 3 if the premises were let for a purpose mentioned in that paragraph.",
+            "6": {
+                "text": "5. Where the premises in respect of which rent is payable, not being premises to which paragraph 2 applies, are used mainly as a residence and incidentally for business or profession, the standard rent of the premises shall be the mean of the rent as calculated under paragraphs 3 and 4.",
+                "contains": {
+                    "0": "PART B",
+                    "1": "PROVISIONS FOR DETERMINING THE STANDARD RENT OF PREMISES IN THE STATE OF AJMER"
+                }
+            },
+            "7": {
+                "text": "1. In this Part of this Schedule, \u201cbasic rent\u201d in relation to any premises means\u2014",
+                "contains": {
+                    "0": "(a) where the fair rent of the premises has been determined or predetermined under the provisions of the Ajmer House Rent Control Order, 1943, the rent as so determined or, as the case may be, predetermined;",
+                    "1": {
+                        "text": "(b) in any other case,\u2014",
+                        "contains": {
+                            "0": "(i) the rent at which the premises were let on the 1st day of September, 1939, or",
+                            "1": "(ii) if the premises were not let on that date, the rent at which they were first let at any time after that date but before the 2nd day of June, 1944."
+                        }
+                    }
+                }
+            },
+            "8": {
+                "text": "2. Where the premises in respect of which rent is payable were let, for whatever purpose on or after the 2nd day of June, 1944, the standard rent of the premises shall be\u2014",
+                "contains": {
+                    "0": "(a) where the standard rent has been fixed by the court under clause (b) of sub-section (1) of section 8, such standard rent; or",
+                    "1": "(b) in any other case, so long as the standard rent is not fixed by the court, the rent at which the premises were first let."
+                }
+            },
+            "9": {
+                "text": "3. Where the premises in respect of which rent is payable are let for use as a residence, not being premises to which paragraph 2 applies, the standard rent of the premises shall be the basic rent increased by\u2014",
+                "contains": {
+                    "0": "(a) 8\u00bd per cent. thereof, if the basic rent per annum is not more than Rs. 300;",
+                    "1": "(b) 12\u00bd per cent. thereof, if the basic rent per annum is more than Rs. 300 but not more than Rs. 600;",
+                    "2": "(c) 18\u00be per cent. thereof, if the basic rent per annum is more than Rs. 600, but not more than Rs. 1,200; or",
+                    "3": "(d) 25 per cent. thereof, if the basic rent per annum is more than Rs. 1,200."
+                }
+            },
+            "10": {
+                "text": "4. Where the premises in respect of which rent is payable are let for any purpose other than use as a residence, not being premises to which paragraph 2 applied, the standard rent of the premises shall be the basic rent increased by\u2014",
+                "contains": {
+                    "0": "(a) 25 per cent. thereof, if the basic rent per annum is not more than Rs. 600;",
+                    "1": "(b) 37\u00bd per cent. thereof, if the basic rent per annum is more than Rs. 600, but not more than Rs. 1,200; or",
+                    "2": "(c) 50 per cent. thereof, if the basic rent per annum is more than Rs. 1,200."
+                }
+            },
+            "11": "5. Where the premises in respect of which rent is payable, not being premises to which paragraph 2 applies, are used mainly as a residence and incidentally for business or profession, the standard rent of the premises shall be the mean of the rent as calculated under paragraphs 3 and 4."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 9th June, 1952, vide Notification No. S. R. O. 1016, dated 3rd June 1952, see Gazette of India, Part II, s. 3."
+        }
+    }
+}

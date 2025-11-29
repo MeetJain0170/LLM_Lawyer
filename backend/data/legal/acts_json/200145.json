@@ -1,0 +1,644 @@
+{
+    "Act Title": "THE ADVOCATES\u2019 WELFARE FUND ACT, 2001",
+    "Act ID": "ACT NO. 45 OF 2001",
+    "Enactment Date": "[14th, September, 2001.]",
+    "Act Definition": {
+        "0": "An Act to provide for the constitution of a welfare fund for the benefit of advocates and for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Advocates\u2019 Welfare Fund Act, 2001.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification, appoint; and different dates may be appointed for different provisions of this Act and for different States, and any reference in any such provision to the commencement of this Act shall be construed in relation to any State as a reference to the coming into force of that provision in that State."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cadvocate\u201d means an advocate whose name has been entered in the State roll prepared and maintained by a State Bar Council under section 17 of the Advocates Act, 1961 (25 of 1961) and who is a member of a State Bar Association or State Advocates\u2019 Association;",
+                                "1": {
+                                    "text": "(b) \u201cappropriate Government\u201d means,\u2014",
+                                    "contains": {
+                                        "0": "(i) in the case of advocates admitted on the roll of a Bar Council of a State, the State Government;",
+                                        "1": "(ii) in the case of advocates admitted on the roll of a Bar Council of a Union territory, the Central Government;"
+                                    }
+                                },
+                                "2": "(c) \u201ccessation of practice\u201d means removal of the name of an advocate from the State roll under section 26A of the Advocates Act, 1961 (25 of 1961);",
+                                "3": "(d) \u201cChairperson\u201d means the Chairperson of the Trustee Committee referred to in clause (a) of sub-section (3) of section 4;",
+                                "4": "(e) \u201cchartered accountant\u201d means a chartered accountant as defined in clause (b) of sub-section (1) of section 2 of the Chartered Accountants Act, 1949 (38 of 1949) and who has obtained a certificate of practice under sub-section (1) of section 6 of that Act;",
+                                "5": "(f) \u201cdependants\u201d means the spouse, parents or minor children of a member of the Fund;",
+                                "6": "(g) \u201cFund\u201d means the Advocates\u2019 Welfare Fund constituted under sub-section (1) of section 3;",
+                                "7": "(h) \u201cinsurer\u201d shall have the meaning assigned to it in clause (9) of section 2 of the Insurance Act, 1938 (4 of 1938);",
+                                "8": "(i) \u201cmember of the Fund\u201d means an advocate admitted to the benefits of the Fund and who continues to be a member thereof under the provisions of this Act;",
+                                "9": "(j) \u201cnotification\u201d means a notification published in the Official Gazette of the appropriate Government and the expression \u201cnotified\u201d shall be construed accordingly;",
+                                "10": "(k) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "11": "(l) \u201cSchedule\u201d means a Schedule to this Act;",
+                                "12": "(m) \u201cscheduled bank\u201d shall have the meaning assigned to it in clause (e) of section 2 of the Reserve Bank of India Act, 1934 (2 of 1934);",
+                                "13": "(n) \u201cstamp\u201d means the Advocates\u2019 Welfare Fund Stamp printed and distributed under section 26;",
+                                "14": "(o) \u201cState\u201d means a State specified in the First Schedule to the Constitution and shall include a Union territory;",
+                                "15": "(p) \u201cState Advocates\u2019 Association\u201d means an association of advocates in a State recognised by the Bar Council of that State under section 16;",
+                                "16": "(q) \u201cState Bar Association\u201d means an association of advocates recognised by the Bar Council of that State under section 16;",
+                                "17": "(r) \u201cState Bar Council\u201d means a Bar Council referred to in section 3 of the Advocates Act, 1961 (25 of 1961);",
+                                "18": "(s) \u201csuspension of practice\u201d means voluntary suspension of practice as an advocate or suspension of an advocate by a State Bar Council for misconduct;",
+                                "19": "(t) \u201cTrustee Committee\u201d means the Advocates\u2019 Welfare Fund Trustee Committee established under sub-section (1) of section 4;",
+                                "20": "(u) \u201cVakalatnama\u201d includes memorandum of appearance or any other document by which an advocate is empowered to appear or plead before any court, tribunal or other authority;",
+                                "21": "(v) words and expressions used and not defined in this Act but defined in the Advocates Act, 1961 (25 of 1961) shall have the meanings respectively assigned to them in that Act."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "CONSTITUTION OF ADVOCATES\u2019 WELFARE FUND",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Advocates\u2019 Welfare Fund.",
+                    "paragraphs": {
+                        "0": "(1) The appropriate Government shall constitute a fund to be called the \u201cAdvocates\u2019 Welfare Fund\u201d.",
+                        "1": {
+                            "text": "(2) There shall be credited to the Fund\u2014",
+                            "contains": {
+                                "0": "(a) all amounts paid by a State Bar Council under section 15;",
+                                "1": "(b) any other contribution made by a State Bar Council;",
+                                "2": "(c) any voluntary donation or contribution made to the Fund by the Bar Council of India, any State Bar Association, any State Advocates\u2019 Association or other association or institution, or any advocate or other person;",
+                                "3": "(d) any grant which may be made by the Central Government or a State Government to the Fund after due appropriation made in this behalf;",
+                                "4": "(e) any sums borrowed under section 12;",
+                                "5": "(f) all sums collected under section 18;",
+                                "6": "(g) all sums received from the Life Insurance Corporation of India or any other insurer on the death of any member of the Fund under any Group Insurance Policy;",
+                                "7": "(h) any profit or dividend or refund received from the Life Insurance Corporation of India or any other insurer in respect of policies of Group Insurance of the members of the Fund;",
+                                "8": "(i) any interest or dividend or other return on any investment made out of any part of the Fund;",
+                                "9": "(j) all sums collected by way of sale of stamps under section 26."
+                            }
+                        },
+                        "2": "(3) The sums specified in sub-section (2) shall be paid to, or collected by, such agencies, at such intervals and in such manner, as may be prescribed."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "ESTABLISHMENT OF TRUSTEE COMMITTEE",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Establishment of Trustee Committee.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the appropriate Government may, by notification, appoint in this behalf, there shall be established a Trustee Committee to be called the \u201cAdvocates\u2019 Welfare Fund Trustee Committee\u201d.",
+                        "1": "(2) The Trustee Committee shall be a body corporate having perpetual succession and a common seal with power to acquire, hold and dispose of property and shall, by the said name, sue and be sued.",
+                        "2": {
+                            "text": "(3) The Trustee Committee shall consist of\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) the Advocate-General of a State - Chairperson, ex officio:",
+                                    "contains": {
+                                        "0": "Provided that where there is no Advocate-General of a State, the appropriate Government shall nominate a senior advocate to be a chairperson;",
+                                        "1": "(b) the Secretary to the appropriate Government in - Member, ex officio; its Law Department or Ministry",
+                                        "2": "(c) the Secretary to the appropriate Government in - Member, ex officio; its Home Department or Ministry",
+                                        "3": {
+                                            "text": "(d) the Chairman of the State Bar Council - Member, ex officio;",
+                                            "contains": {
+                                                "0": "(e) the Government Pleader or the Public - Member; Prosecutor, as may be nominated by the appropriate Government"
+                                            }
+                                        },
+                                        "4": "(f) two advocates to be nominated by the State Bar - Member; Council",
+                                        "5": "(g) the Secretary of the State Bar Council - Secretary, ex officio."
+                                    }
+                                }
+                            }
+                        },
+                        "3": "(4) The Chairperson nominated under the proviso to clause (a) of sub-section (3) shall hold office for a period not exceeding three years from the date on which he enters upon his office.",
+                        "4": "(5) Every Member of the Trustee Committee nominated under clause (e) or clause (f) of sub-section (3) shall hold office for a period not exceeding three years from the date on which he enters upon his office."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Disqualifications and removal of Chairperson of Member of Trustee Committee.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The appropriate Government shall remove from office the Chairperson or any Member of the Trustee Committee, who\u2014",
+                            "contains": {
+                                "0": "(a) is, or at any time has been, adjudged as an insolvent; or",
+                                "1": "(b) has become physically or mentally incapable of acting as the Chairperson or a Member of the Trustee Committee; or",
+                                "2": "(c) has been convicted of an offence which, in the opinion of the appropriate Government, involves moral turpitude; or",
+                                "3": "(d) has acquired such financial or other interest as is likely to affect prejudicially his functions as the Chairperson or a Member of the Trustee Committee; or",
+                                "4": "(e) has so abused his position as to render his continuation in office detrimental to the public interest; or",
+                                "5": "(f) is, or at any time has been, absent without leave of the Trustee Committee for more than three consecutive meetings of the Trustee Committee:"
+                            }
+                        },
+                        "1": "Provided that the Trustee Committee may, on sufficient ground, condone the absence of such Chairperson or Member.",
+                        "2": "(2) No such Chairperson or Member of the Trustee Committee shall be removed under clause (d) or clause (e) of sub-section (1) unless he has been given a reasonable opportunity of being heard."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Resignation by nominated Chairperson and Members of Trustee Committee and filling up of casual vacancy.",
+                    "paragraphs": {
+                        "0": "(1) The Chairperson referred to in sub-section (4) of section 4 or a Member nominated under clause (e) of sub-section (3) of that section may resign his office by giving three months\u2019 notice in writing to the appropriate Government and on such resignation being accepted by the appropriate Government such Chairperson or Member shall vacate his office.",
+                        "1": "(2) A Member nominated under clause (f) of sub-section (3) of section 4 may resign his office by giving three months\u2019 notice in writing to the State Bar Council and on such resignation being accepted by the State Bar Council such Member shall vacate his office.",
+                        "2": "(3) A casual vacancy in the office of the Chairperson or a Member referred to in sub-section (1) who has resigned may be filled up, as soon as may be, by the appropriate Government and the Chairperson or a Member so nominated shall hold office only so long as the Chairperson or the Member in whose place he is nominated would have been entitled to hold office if the vacancy did not occur.",
+                        "3": "(4) A casual vacancy in the office of a Member referred to in sub-section (2) who has resigned may be filled up, as soon as may be, by the State Bar Council and a Member so nominated shall hold office only so long as the Member in whose place he is nominated would have been entitled to hold office if the vacancy did not occur."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Vacancies, etc., not to invalidate proceedings of Trustee Committee.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No act or proceeding of the Trustee Committee shall be invalid merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or any defect in the constitution of, the Trustee Committee; or",
+                                "1": "(b) any defect or irregularity in the nomination of a person acting as the Chairperson or a Member of the Trustee Committee; or",
+                                "2": "(c) any irregularity in the procedure of the Trustee Committee not affecting the merits of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Meetings of Trustee Committee.",
+                    "paragraphs": {
+                        "0": "(1) The Trustee Committee shall meet at least once in every three calendar months and at least four such meetings shall be held in every year to transact business under this Act and the rules made thereunder.",
+                        "1": "(2) Three Members of the Trustee Committee shall form the quorum for a meeting of the Trustee Committee.",
+                        "2": "(3) The Chairperson of the Trustee Committee or, if for any reason, he is unable to attend a meeting of the Trustee Committee, any other Member chosen by the Members of the Trustee Committee present from amongst themselves at the meeting shall preside at the meeting.",
+                        "3": "(4) All questions which come up in a meeting of the Trustee Committee shall be decided by a majority vote of the Members of the Trustee Committee present and voting, and, in the event of an equality of votes, the Chairperson, or in his absence, the Member of the Trustee Committee presiding, shall have a second or casting vote."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Travelling daily allowances to nominated Chairperson and Members of Trustee Committee.",
+                    "paragraphs": {
+                        "0": "The Chairperson referred to in sub-section (4) of section 4 and Members of the Trustee Committee referred to in clauses (e) and (f) of sub-section (3) of that section shall be entitled to be paid such travelling and daily allowances as are admissible to the members of the State Bar Council."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Vesting and application of Fund.",
+                    "paragraphs": {
+                        "0": "The Fund shall vest in, and be held and applied by, the Trustee Committee subject to the provisions, and for the purposes, of this Act."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Functions of Trustee Committee.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act and any other law for the time being in force, the Trustee Committee shall administer the Fund.",
+                        "1": {
+                            "text": "(2) Without prejudice to the generality of the provisions contained in sub-section (1), the Trustee Committee shall\u2014",
+                            "contains": {
+                                "0": "(a) hold the amounts and assets belonging to the Fund in trust;",
+                                "1": "(b) receive applications for admission or re-admission as members to the Fund, and dispose of such applications within ninety days from the date of receipt thereof;",
+                                "2": "(c) receive applications from the members of the Fund, their nominees or legal heirs, as the case may be, for payment out of the Fund, conduct such enquiry as it deems necessary and dispose of the applications within five months from the date of receipt thereof;",
+                                "3": "(d) record in the minutes book of the Trustee Committee, its decisions on the applications;",
+                                "4": "(e) pay to the members of the Fund or their nominees or legal heirs, as the case may be, the amounts at the rates specified in Schedule I;",
+                                "5": "(f) send such periodical and annual reports as may be prescribed, to the appropriate Government and the State Bar Council;",
+                                "6": "(g) communicate to the applicants, by registered post with acknowledgment due or through electronic mode, the decisions of the Trustee Committee in respect of applications for admission or re-admission as members to the Fund or claims to the benefit of the Fund;",
+                                "7": "(h) do such other acts as are, or may be, required to be done under this Act and the rules made thereunder."
+                            }
+                        }
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Borrowing and investment.",
+                    "paragraphs": {
+                        "0": "(1) The Trustee Committee may, with the prior approval of the appropriate Government and the State Bar Council, borrow, from time to time, any sum required for carrying out the purposes of this Act.",
+                        "1": "(2) The Trustee Committee shall deposit all monies and receipts forming part of the Fund in any scheduled bank or invest the same in debt instruments of any corporation owned or controlled by the appropriate Government or in loans floated by the appropriate Government or in any other manner as the State Bar Council may, from time to time, direct with the prior approval of the appropriate Government.",
+                        "2": "(3) All amounts due and payable under this Act and all expenditure relating to the management and administration of the Fund shall be paid out of the Fund."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "(1) The Trustee Committee shall maintain proper accounts and other relevant records and prepare an annual statement of accounts and annual report in such form and in such manner as may be prescribed.",
+                        "1": "(2) The accounts of the Trustee Committee shall be audited annually by a chartered accountant appointed by the State Bar Council.",
+                        "2": "(3) The accounts of the Trustee Committee as audited by the chartered accountant together with his audit report shall be forwarded to the State Bar Council by that Committee and the State Bar Council may issue such directions, as it deems fit, to the Trustee Committee in respect thereof.",
+                        "3": "(4) The Trustee Committee shall comply with the directions issued by the State Bar Council under sub-section (3).",
+                        "4": "(5) The Trustee Committee shall pay from the Fund the charges for the audit as may be fixed by the State Bar Council."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Powers and duties of Secretary.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Secretary of the Trustee Committee shall\u2014",
+                            "contains": {
+                                "0": "(a) be the chief executive authority of the Trustee Committee and responsible for carrying out its decisions;",
+                                "1": "(b) represent the Trustee Committee in all suits and proceedings for and against the Trustee Committee;",
+                                "2": "(c) authenticate by his signature all decisions and instruments of the Trustee Committee;",
+                                "3": "(d) operate bank account of the Trustee Committee jointly with the Chairperson;",
+                                "4": "(e) convene meetings of the Trustee Committee and prepare minutes of such meetings;",
+                                "5": "(f) attend meetings of the Trustee Committee with all the necessary records and information;",
+                                "6": "(g) maintain such forms, registers and other records as may be prescribed from time to time and do all correspondence relating to the Trustee Committee;",
+                                "7": "(h) prepare an annual statement of business transacted by the Trustee Committee during a financial year;",
+                                "8": "(i) do such other acts as are or may be directed by the Trustee Committee and the State Bar Council."
+                            }
+                        }
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Payment of certain monies to Fund by State Bar Council.",
+                    "paragraphs": {
+                        "0": "The State Bar Council shall pay to the Fund annually an amount equal to twenty per cent. of the enrolment fee received by it under clause (f) of section 24 of the Advocates Act, 1961 (25 of 1961)."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "RECOGNITION OF ANY ASSOCIATION OF ADVOCATES",
+            "Sections": {
+                "Section 16.": {
+                    "heading": "Recognition by a State Bar Council of any association of advocates.",
+                    "paragraphs": {
+                        "0": "(1) Any association of advocates known by any name which is registered as an association before the date of commencement of this Act may, before the date to be notified by a State Bar Council in this behalf, apply for recognition to the State Bar Council in such form as may be prescribed.",
+                        "1": "(2) Any association of advocates known by any name which is registered as an association on or after the date of commencement of this Act may, within three months from the date of its registration as an association, apply for recognition to the State Bar Council in such form as may be prescribed.",
+                        "2": {
+                            "text": "(3) Every application for recognition under sub-section (1) or sub-section (2) shall be accompanied by,\u2014",
+                            "contains": {
+                                "0": "(a) a copy of the rules or bye-laws of the association;",
+                                "1": "(b) names and addresses of office bearers of the association;",
+                                "2": "(c) a list of members of the association containing the name, address, age, enrolment number and date of enrolment with the State Bar Council and the ordinary place of practice of each member."
+                            }
+                        },
+                        "3": "(4) The State Bar Council may, after such enquiry as it deems necessary, recognise the association and issue a certificate of recognition in such form as may be prescribed.",
+                        "4": "(5) The decision of the State Bar Council on any matter regarding recognition of an association under sub-section (4) shall be final.",
+                        "5": "Explanation.\u2014In this section, \u201cregistered\u201d means registered or deemed to be registered under the Societies Registration Act, 1860 (21 of 1860), or any other law for the time being in force."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Duties of State Bar Associations and State Advocates\u2019 Associations.",
+                    "paragraphs": {
+                        "0": "(1) Every State Bar Association and State Advocates\u2019 Association shall, on or before the 15th day of April of every year, furnish to the State Bar Council a list of its members as on the 31st day of March of that year.",
+                        "1": {
+                            "text": "(2) Every State Bar Association and State Advocates\u2019 Association shall inform the State Bar Council of\u2014",
+                            "contains": {
+                                "0": "(a) any change in the membership including admissions and re-admissions within thirty days of such change;",
+                                "1": "(b) the death or other cessation of practice or voluntary suspension of practice of any of its members within thirty days from the date of occurrence thereof;",
+                                "2": "(c) such other matters as may be required by the State Bar Council from time to time."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "MEMBERSHIP AND PAYMENT OUT OF ADVOCATES\u2019 WELFARE FUND",
+            "Sections": {
+                "Section 18.": {
+                    "heading": "Membership in Fund.",
+                    "paragraphs": {
+                        "0": "(1) Every advocate practising, before the commencement of this Act, in any court, tribunal or other authority in a State and being a member of a State Bar Association or a State Advocates\u2019 Association in that State, shall apply, within six months of the commencement of this Act, to the Trustee Committee for admission as a member of the Fund, in such form as may be prescribed.",
+                        "1": {
+                            "text": "(2) Every person,\u2014",
+                            "contains": {
+                                "0": "(a) admitted as an advocate on the roll of a State Bar Council, after the commencement of this Act;",
+                                "1": "(b) practising in any court, tribunal or other authority in a State and being a member of a State Bar Association or a State Advocates\u2019 Association in that State,"
+                            }
+                        },
+                        "2": {
+                            "text": "shall apply, within six months of his enrolment as an advocate, to the Trustee Committee, for admission as a member of the Fund in such form as may be prescribed.",
+                            "contains": {
+                                "0": "(3) On receipt of an application under sub-section (1) or sub-section (2), the Trustee Committee shall make such enquiry as it deems fit and either admit the applicant to the Fund or, for reasons to be recorded in writing, reject the application:",
+                                "1": "Provided that no order rejecting an application shall be passed unless the applicant has been given an opportunity of being heard.",
+                                "2": "(4) Every applicant shall pay an application fee of two hundred rupees along with the application to the account of the Trustee Committee.",
+                                "3": "(5) Every advocate, being a member of the Fund, shall pay an annual subscription of fifty rupees to the Fund on or before the 31st day of March of every year:",
+                                "4": "Provided that every advocate, who makes an application under sub-section (1) or sub-section (2), shall pay his first annual subscription within three months of his becoming a member of the Fund:",
+                                "5": "Provided further that a senior advocate shall pay an annual subscription of one thousand rupees.",
+                                "6": "(6) Any member of the Fund, who fails to pay the annual subscription for any year before the 31st day of March of that year, shall be liable to be removed from the membership in the Fund.",
+                                "7": "(7) A member of the Fund removed from the membership in the Fund under sub-section (6) may be re-admitted to the Fund, on payment of arrears along with re-admission fee of ten rupees, within six months from the date of such removal.",
+                                "8": "(8) Every member of the Fund shall, at the time of admission to the membership in the Fund, make nomination conferring on one or more of his dependants the right to receive, in the event of his death, any amount payable to the member under this Act.",
+                                "9": "(9) If a member of the Fund nominates more than one person under sub-section (8), he shall specify in the nomination, the amount or share payable to each of the nominees.",
+                                "10": "(10) A member of the Fund may, at any time, cancel a nomination by sending a notice in writing to the Trustee Committee.",
+                                "11": "(11) Every member of the Fund, who cancels his nomination under sub-section (10), shall make a fresh nomination along with registration fee of five rupees.",
+                                "12": "(12) Every member of the Fund, whose name has been removed from the State roll under section 26A of the Advocates Act, 1961 (25 of 1961), or who voluntarily suspends practice, shall, within fifteen days of such removal or suspension, intimate such removal or suspension to the Trustee Committee and if any member of the Fund fails to do so without sufficient reason, the Trustee Committee may reduce, in accordance with such principles as may be prescribed, the amount payable to that member under this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Ex gratia grant to a member of Fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Trustee Committee on an application made to it by a member of the Fund, and after being satisfied about the genuineness of the claim, may allow ex gratia grant to such member from the Fund\u2014",
+                            "contains": {
+                                "0": "(a) in the case of his hospitalisation or involving major surgical operation; or",
+                                "1": "(b) if he is suffering from tuberculosis, leprosy, paralysis, cancer, unsoundness of mind or from such other serious disease or disability."
+                            }
+                        }
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Review.",
+                    "paragraphs": {
+                        "0": "The Trustee Committee may, on its own motion or on an application received from any person interested, within ninety days of the passing of any order by it under the provisions of this Act, review such order, if it was passed under any mistake, whether of fact or of law or in ignorance of any material fact:",
+                        "1": "Provided that the Trustee Committee shall not pass any order under this section adversely affecting any person unless such person has been given an opportunity of being heard."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Payment of amount on cessation of practice.",
+                    "paragraphs": {
+                        "0": "(1) Every advocate who has been a member of the Fund for a period of not less than five years shall, on his cessation of practice, be paid an amount at the rate specified in Schedule I:",
+                        "1": "Provided that where the Trustee Committee is satisfied that a member of the Fund ceases to practice within a period of five years from the date of his admission as a member of such Fund as a result of any permanent disability, the Trustee Committee may pay such member an amount at the rate specified in Schedule I.",
+                        "2": "(2) Where a member of the Fund dies before receiving the amount payable under sub-section (1), his nominee or legal heir, as the case may be, shall be paid the amount payable to the deceased member of the Fund."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Restriction on alienation, attachment, etc., of interest of member in Fund.",
+                    "paragraphs": {
+                        "0": "(1) The interest of any member in the Fund, or the right of a member of the Fund or his nominee or legal heir to receive any amount from the Fund, shall not be assigned, alienated, or charged and shall not be liable to attachment under any decree or order of any court, tribunal or other authority.",
+                        "1": "(2) No creditor shall be entitled to proceed against the Fund or the interest therein of any member of the Fund or his nominee or legal heir.",
+                        "2": "Explanation.\u2014For the purposes of this section, \u201ccreditor\u201d includes the State or an official assignee or official receiver appointed under the law relating to insolvency for the time being in force."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Exemption from income-tax.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in the Income-tax Act, 1961 (43 of 1961) or any other enactment for the time being in force relating to tax on income, profits or gains, the income accrued to the Fund constituted under sub-section (1) of section 3 shall be exempt from income-tax."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Group Life Insurance for members of Fund and other benefits.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Trustee Committee may, for the welfare of the members of the Fund,\u2014",
+                            "contains": {
+                                "0": "(a) obtain, from the Life Insurance Corporation of India or any other insurer, policies of Group Insurance on the life of the members of the Fund; or",
+                                "1": "(b) provide, in such manner as may be prescribed, for medical and educational facilities for the members of the Fund and their dependants; or",
+                                "2": "(c) provide monies to the members of the Fund for purchase of books; or",
+                                "3": "(d) provide monies to construct or maintain common facilities for the members of the Fund:",
+                                "4": "Provided that the Trustee Committee shall spend ten per cent. of the total annual subscription received under sub-section (5) of section 18 on the construction or maintenance of common facilities for the members of the Fund practising in the subordinate courts; or",
+                                "5": "(e) provide funds for any other purpose which the Trustee Committee may specify; or",
+                                "6": "(f) provide for such other benefits as may be prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Appeal against decision or order of Trustee Committee.",
+                    "paragraphs": {
+                        "0": "(1) An appeal against any decision or order of the Trustee Committee shall lie to the State Bar Council.",
+                        "1": {
+                            "text": "(2) The appeal shall be in the prescribed form and shall be accompanied by\u2014",
+                            "contains": {
+                                "0": "(a) a copy of the decision or order appealed against;",
+                                "1": "(b) a receipt evidencing payment of twenty-five rupees to the credit of the State Bar Council in any of the branches of a scheduled bank."
+                            }
+                        },
+                        "2": "(3) The appeal shall be filed within thirty days from the date of receipt of the decision or order appealed against.",
+                        "3": "(4) The decision of the State Bar Council on such appeal shall be final."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "PRINTING, DISTRIBUTION AND CANCELLATION OF STAMPS",
+            "Sections": {
+                "Section 26.": {
+                    "heading": "Printing and distribution of Advocates\u2019 Welfare Fund Stamps by State Bar Council.",
+                    "paragraphs": {
+                        "0": "(1) The appropriate Government shall, on a request made by the State Bar Council in this behalf, cause to be printed and distributed Advocates\u2019 Welfare Fund Stamps of the value of five rupees or such other value, which may be prescribed, inscribing therein \u201cAdvocates\u2019 Welfare Fund Stamp\u201d, in such design as may be prescribed.",
+                        "1": "(2) Every stamp referred to in sub-section (1) shall be of the size 2.54 c.m. by 5.08 c.m. and sold to the advocates.",
+                        "2": "(3) The custody of the stamps shall be with the State Bar Council.",
+                        "3": "(4) The State Bar Council shall control the distribution and sale of the stamps through the State Bar Associations and the State Advocates\u2019 Associations.",
+                        "4": "(5) The State Bar Council, the State Bar Associations and the State Advocates\u2019 Associations shall keep proper accounts of the stamps in such form and manner as may be prescribed.",
+                        "5": "(6) The State Bar Associations and State Advocates\u2019 Associations shall purchase the stamps from the State Bar Council after paying the value thereof as reduced by ten per cent. of such value towards incidental expenses."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Vakalatnama to bear stamps.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Every advocate shall affix stamp of a value of\u2014",
+                            "contains": {
+                                "0": "(a) five rupees on every Vakalatnama filed by him in a District Court or a court subordinate to the District Court;",
+                                "1": "(b) ten rupees on every Vakalatnama filed by him in a tribunal or other authority or a High Court or the Supreme Court:"
+                            }
+                        },
+                        "1": "Provided that the appropriate Government may prescribe the value of the stamps not exceeding twenty-five rupees to be affixed under this sub-section:",
+                        "2": "Provided further that the appropriate Government may prescribe different value of the stamps to be affixed on every Vakalatnama to be filed in a District Court, or a court subordinate to the District Court or a tribunal or other authority or a High Court or the Supreme Court.",
+                        "3": "(2) The value of the stamp shall neither be the cost in a case nor be collected in any event from the client.",
+                        "4": "(3) Any contravention of the provisions of sub-section (1) or sub-section (2) by any advocate shall disentitle him either in whole or in part to the benefits of the Fund and the Trustee Committee shall report such contravention to the State Bar Council for appropriate action.",
+                        "5": "(4) Every stamp affixed on every Vakalatnama filed before a District Court or a court subordinate to the District Court or a tribunal or other authority or a High Court or the Supreme Court shall be cancelled in such manner as may be prescribed."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 28.": {
+                    "heading": "Certain persons not to be eligible for benefits.",
+                    "paragraphs": {
+                        "0": "No senior advocate, or a person in receipt of pension from the Central Government or a State Government, shall be entitled to ex gratia grant under section 19 or payment of amount on his cessation of practice under section 21 or any benefit under clause (a) or clause (b) or clause (c) of section 24."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceedings shall lie against the appropriate Government or the Trustee Committee or the Chairperson or a Member or the Secretary of the Trustee Committee or the State Bar Council or any person for anything which is in good faith done or intended to be done under this Act or the rules made thereunder."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Bar of jurisdiction of civil courts.",
+                    "paragraphs": {
+                        "0": "No civil court shall have jurisdiction to settle, decide or deal with any question or to determine any matter which is by or under this Act required to be settled, decided or dealt with or to be determined by the Trustee Committee or the State Bar Council."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Power to summon witnesses and take evidence.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Trustee Committee and the State Bar Council shall, for the purpose of any enquiry under this Act, have the same powers as are vested in a civil court while trying a suit under the Code of Civil Procedure, 1908 (5 of 1908), in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) enforcing the attendance of any person or examining him on oath;",
+                                "1": "(b) requiring the discovery and production of documents;",
+                                "2": "(c) receiving evidence on affidavit;",
+                                "3": "(d) issuing commissions for the examination of witnesses;",
+                                "4": "(e) any other matter which may be prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Power to amend Schedules I and II.",
+                    "paragraphs": {
+                        "0": "(1) The appropriate Government may, on the recommendation of the Trustee Committee, by notification, and having due regard to the availability of the amount in the Fund, amend the rates specified in Schedule I.",
+                        "1": "(2) The Central Government may, as and when considered necessary, by notification, amend Schedule II."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Power of appropriate Government to issue directions.",
+                    "paragraphs": {
+                        "0": "(1) Without prejudice to the generality of the foregoing provisions of this Act, the Trustee Committee shall, in exercise of the powers or the performance of its functions under this Act, be bound by such directions on questions of policy, other than those relating to professional and administrative matters, as the appropriate Government may give in writing to it from time to time:",
+                        "1": "Provided that the Trustee Committee shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.",
+                        "2": "(2) The decision of the appropriate Government, whether a question is one of policy or not, shall be final."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Power of appropriate Government to supersede Trustee Committee.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) If at any time the appropriate Government is of the opinion\u2014",
+                            "contains": {
+                                "0": "(a) that, on account of circumstances beyond the control of the Trustee Committee, it is unable to discharge the functions or perform the duties imposed on it by or under the provisions of this Act; or",
+                                "1": "(b) that the Trustee Committee has persistently defaulted in complying with any direction given by the appropriate Government under this Act or in the discharge of the functions or performance of the duties imposed on it by or under the provisions of this Act; or",
+                                "2": "(c) that circumstances exist which render it necessary in the public interest so to do,"
+                            }
+                        },
+                        "1": {
+                            "text": "the appropriate Government may, by notification and for reasons to be specified therein, supersede the Trustee Committee for such period, not exceeding six months, as may be specified in the notification and appoint, in consultation with the Chief Justice of the High Court having jurisdiction, a Judge of the High Court to be the Controller of the Trustee Committee:",
+                            "contains": {
+                                "0": "Provided that before issuing any such notification, the appropriate Government shall give a reasonable opportunity to the Trustee Committee to make representations against the proposed supersession and shall consider the representations, if any, of the Trustee Committee.",
+                                "1": {
+                                    "text": "(2) Upon the publication of a notification under sub-section (1) superseding the Trustee Committee,\u2014",
+                                    "contains": {
+                                        "0": "(a) the Chairperson, Members and the Secretary of the Trustee Committee shall, as from the date of supersession, vacate their offices as such;",
+                                        "1": "(b) all powers, functions and duties which may, by or under the provisions of this Act, be exercised or discharged by or on behalf of the Trustee Committee shall, until the Trustee Committee is reconstituted under sub-section (3), be exercised and discharged by the Controller of the Trustee Committee; and",
+                                        "2": "(c) all properties and Fund owned or controlled by the Trustee Committee shall, until the Trustee Committee is reconstituted under sub-section (3), vest in the appropriate Government."
+                                    }
+                                },
+                                "2": "(3) On or before the expiration of the period of supersession specified in the notification issued under sub-section (1), the appropriate Government shall reconstitute the Trustee Committee by a fresh appointment of its Chairperson, Members and Secretary of such Committee and in such case a person who had vacated his office under clause (a) of sub-section (2) shall not be deemed to be disqualified for reappointment.",
+                                "3": "(4) The appropriate Government shall cause a copy of the notification issued under sub-section (1) and a full report of any action taken under this section and the circumstances leading to such action to be laid before each House of Parliament or before each House of the State Legislature, where it consists of two Houses or where such Legislature consists of one House, before that House, as the case may be, at the earliest."
+                            }
+                        }
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Power of Central Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government, being the appropriate Government, may, by notification, make rules for carrying out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the periodical and annual reports to be sent under clause (f) of section 11;",
+                                "1": "(b) the form and the manner in which the annual statement of accounts and annual report shall be prepared under sub-section (1) of section 13;",
+                                "2": "(c) the forms, registers and other records to be maintained under clause (g) of section 14;",
+                                "3": "(d) the form in which an association of advocates may apply for recognition to the State Bar Council under sub-section (1) or sub-section (2) of section 16;",
+                                "4": "(e) the form in which a certificate of recognition shall be issued by the State Bar Council under sub-section (4) of section 16;",
+                                "5": "(f) the form in which an advocate shall apply for admission as a member of the Fund under sub-section (1) or sub-section (2) of section 18;",
+                                "6": "(g) the principles in accordance with which the amount payable to a member of the Fund be reduced under sub-section (12) of section 18;",
+                                "7": "(h) the manner of providing medical and educational facilities for the members of the Fund and their dependants under clause (b) of section 24;",
+                                "8": "(i) the other benefits to be provided under clause (f) of section 24;",
+                                "9": "(j) the form of appeal under sub-section (2) of section 25;",
+                                "10": "(k) the value and design of stamps to be printed and distributed under sub-section (1) of section 26;",
+                                "11": "(l) the form and the manner in which accounts of the stamps shall be kept under sub-section (5) of section 26;",
+                                "12": "(m) the value of stamps not exceeding twenty-five rupees as may be prescribed under the first proviso to sub-section (1) of section 27;",
+                                "13": "(n) the value of stamps to be affixed on every Vakalatnama under the second proviso to sub-section (1) of section 27;",
+                                "14": "(o) the manner of cancellation of stamps under sub-section (4) of section 27;",
+                                "15": "(p) any other matter which is to be, or may be, prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Power of State Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The State Government, being the appropriate Government, may, by notification, make rules for carrying out the provisions of this Act and not inconsistent with the rules, if any, made by the Central Government.",
+                        "1": {
+                            "text": "(2) In particular and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the periodical and annual reports to be sent under clause (f) of section 11;",
+                                "1": "(b) the form and the manner in which the annual statement of accounts and annual report shall be prepared under sub-section (l) of section 13;",
+                                "2": "(c) the forms, registers and other records to be maintained under clause (g) of section 14;",
+                                "3": "(d) the form in which an association of advocates may apply for recognition to the State Bar Council under sub-section (1) or sub-section (2) of section 16;",
+                                "4": "(e) the form in which a certificate of recognition shall be issued by the State Bar Council under sub-section (4) of section 16;",
+                                "5": "(f) the form in which an advocate shall apply for admission as a member of the Fund under sub-section (1) or sub-section (2) of section 18;",
+                                "6": "(g) the principles in accordance with which the amount payable to a member of the Fund be reduced under sub-section (12) of section 18;",
+                                "7": "(h) the manner of providing medical and educational facilities for the members of the Fund and their dependants under clause (b) of section 24;",
+                                "8": "(i) the other benefits to be provided under clause (f) of section 24;",
+                                "9": "(j) the form of appeal under sub-section (2) of section 25;",
+                                "10": "(k) the value and design of stamps to be printed and distributed under sub-section (1) of section 26;",
+                                "11": "(l) the form and the manner in which accounts of the stamps shall be kept under sub-section (5) of section 26;",
+                                "12": "(m) the value of stamps not exceeding twenty-five rupees as may be prescribed under the first proviso to sub-section (1) of section 27;",
+                                "13": "(n) the value of stamps to be affixed on every Vakalatnama under the second proviso to sub-section (1) of section 27;",
+                                "14": "(o) the manner of cancellation of stamps under sub-section (4) of section 27;",
+                                "15": "(p) any other matter which is to be or may be prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Rules and notifications to be laid before Parliament or State Legislature.",
+                    "paragraphs": {
+                        "0": "(1) Every rule made under this Act by the Central Government and every notification issued under section 32, shall be laid, as soon as may be after it is made or issued, before each House of Parliament, while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or notification or both Houses agree that the rule or notification should not be made or issued, the rule or notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or notification.",
+                        "1": "(2) Every rule made under this Act by a State Government and every notification issued under section 32 shall be laid, as soon as may be after it is made, before each House of State Legislature where it consists of two Houses, or where such Legislature consists of one House, before that House."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Saving.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall not apply to the States in which the enactments specified in Schedule II are applicable."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "SCHEDULE I": {
+            "0": "SCHEDULE I",
+            "1": "[See sections 21(1) and 32(1)]",
+            "2": {
+                "text": "Number of years as member of the Fund Rate at which amount payable",
+                "contains": {
+                    "0": {
+                        "text": "(1) (2)",
+                        "contains": {
+                            "0": "30 \u2026 Rs. 30,000",
+                            "1": "29 \u2026 Rs. 29,000",
+                            "2": "28 \u2026 Rs. 28,000",
+                            "3": "27 \u2026 Rs. 27,000",
+                            "4": "26 \u2026 Rs. 26,000",
+                            "5": "25 \u2026 Rs. 25,000",
+                            "6": "24 \u2026 Rs. 24,000",
+                            "7": "23 \u2026 Rs. 23,000",
+                            "8": "22 \u2026 Rs. 22,000",
+                            "9": "21 \u2026 Rs. 21,000",
+                            "10": "20 \u2026 Rs. 20,000",
+                            "11": "19 \u2026 Rs. 19,000",
+                            "12": "18 \u2026 Rs. 18,000",
+                            "13": "17 \u2026 Rs. 17,000",
+                            "14": "16 \u2026 Rs. 16,000",
+                            "15": "15 \u2026 Rs. 15,000",
+                            "16": "14 \u2026 Rs. 14,000",
+                            "17": "13 \u2026 Rs. 13,000",
+                            "18": "12 \u2026 Rs. 12,000",
+                            "19": "11 \u2026 Rs. 11,000",
+                            "20": {
+                                "text": "10 \u2026 Rs. 10,000",
+                                "contains": {
+                                    "0": "9 \u2026 Rs. 9,000",
+                                    "1": "8 \u2026 Rs. 8,000",
+                                    "2": "7 \u2026 Rs. 7,000",
+                                    "3": "6 \u2026 Rs. 6,000",
+                                    "4": "5 \u2026 Rs. 5,000",
+                                    "5": "4 \u2026 Rs. 4,000",
+                                    "6": "3 \u2026 Rs. 3,000",
+                                    "7": "2 \u2026 Rs. 2,000",
+                                    "8": "1 \u2026 Rs. 1,000"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "SCHEDULE II": {
+            "0": "SCHEDULE II",
+            "1": "[See sections 32(2) and 38]",
+            "2": "1. The Uttar Pradesh Advocates\u2019 Welfare Fund Act, 1974 (6 of 1974). 2. The Bihar State Advocates\u2019 Welfare Fund Act, 1983 (16 of 1983). 3. The Madhya Pradesh Adhivakata Kalyan Nidhi Adhiniyam, 1982 (9 of 1982). 4. The Andhra Pradesh Advocates\u2019 Welfare Fund Act, 1987 (33 of 1987). 5. The Orissa Advocates\u2019 Welfare Fund Act, 1987 (18 of 1987). 6. The Rajasthan Advocates\u2019 Welfare Fund Act, 1987 (15 of 1987). 7. The Tamil Nadu Advocates\u2019 Welfare Fund Act, 1987 (49 of 1987). 8. The Gujarat Advocates\u2019 Welfare Fund Act, 1991 (14 of 1991). 9. The Goa Advocates\u2019 Welfare Fund Act, 1995 (2 of 1997). 10. The Assam Advocates\u2019 Welfare Fund Act, 1998 (XVIII of 1999). 11. The Maharashtra Advocates\u2019 Welfare Fund Act, 1981 (LXI of 1981). 12. The Himachal Pradesh Advocates\u2019 Fund Act, 1996 (14 of 1996). 13. The Kerala Advocates\u2019 Welfare Fund Act, 1980 (21 of 1980). 14. The Karnataka Advocates\u2019 Welfare Fund Act, 1983 (2 of 1985). 15. The West Bengal Advocates\u2019 Welfare Fund Act, 1991 (XIII of 1991). 16. The Jammu and Kashmir Advocates\u2019 Welfare Fund Act, 1997 (XXVI of 1997)."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 1st November, 2001 (whole of India except certain States), vide notification No. S.O. 946(E), dated 26th September, 2001, seeGazette of India, Extraordinary, Part II, sec. 3(ii)."
+        }
+    }
+}

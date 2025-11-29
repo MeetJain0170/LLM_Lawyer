@@ -1,0 +1,58 @@
+{
+    "Act Title": "THE ECONOMIC OFFENCES (IN APPLICABILITY OF LIMITATION) ACT, 1974",
+    "Act ID": "ACT NO. 12 OF 1974",
+    "Enactment Date": "[27th March, 1974.]",
+    "Act Definition": {
+        "0": "An Act to provide for the inapplicability of the provisions of Chapter XXXVI of the Code of Criminal Procedure, 1973 to certain economic offences."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title, extent and commencement.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Economic Offences (Inapplicability of Limitation) Act, 1974.",
+                "1": "(2) It extends to the territories to which the Code of Criminal Procedure, 1973 (2 of 1974) applies.",
+                "2": "(3) It shall come into force on the 1st day of April, 1974."
+            }
+        },
+        "Section 2.": {
+            "heading": "Chapter XXXVI of the Code of Criminal Procedure, 1973 not to apply to certain offences.",
+            "paragraphs": {
+                "0": {
+                    "text": "Nothing in Chapter XXXVI of the Code of Criminal Procedure, 1973 (2 of 1974) shall apply to\u2014",
+                    "contains": {
+                        "0": "(i) any offence punishable under any of the enactments 1[or provisions, if any, thereof] specified in the Schedule; or",
+                        "1": "(ii) any other offence, which under the provisions of that Code, may be tried along with such offence,"
+                    }
+                },
+                "1": "and every offence referred to in clause (i) or clause (ii) may be taken cognizance of by the Court having jurisdiction as if the provisions of that Chapter were not enacted."
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "(See section 2)"
+                }
+            },
+            "1": "1. The Indian Income Tax Act, 1922 (11 of 1922). 1[1A. Clause (a) of section 63 of the Copyright Act, 1957 (14 of 1957).] 2. The Income Tax Act, 1961 (43 of 1961). 2[2A. The Interest-tax Act, 1974 (45 of 1974).] 3[2B. The Hotel-Receipts Tax Act, 1980 (54 of 1980).] 4[2C. The Expenditure-tax Act, 1987 (35 of 1987).] 3. The Companies (Profits) Surtax Act, 1964 (7 of 1964). 4. The Wealth-Tax Act, 1957 (27 of 1957). 5. The Gift-Tax Act, 1958 (18 of 1958). 6. The Central Sales Tax Act, 1956 (74 of 1956). 7. The Central Excises and Salt Act, 1944 (1 of 1944). 5[7A. Chapter V of the Finance Act, 1994 (32 of 1994).] 8. The Medicinal and Toilet Preparations (Excise Duties) Act, 1955 (16 of 1955). 9. The Customs Act, 1962 (52 of 1962). 10. The Gold (Control) Act, 1968 (45 of 1968). 11. The Imports and Exports (Control) Act, 1947 (18 of 1947). 12. The Foreign Exchange Regulation Act, 1947 (7 of 1947). 13. The Foreign Exchange Regulation Act, 1973 (46 of 1973). 14. The Capital Issues (Control) Act, 1947 (29 of 1947). 15. The Indian Stamp Act, 1899 (2 of 1899). 16. The Emergency Risks (Goods) Insurance Act, 1962 (62 of 1962). 17. The Emergency Risks (Factories) Insurance Act, 1962 (63 of 1962). 18. The Emergency Risks (Goods) Insurance Act, 1971 (50 of 1971). 19. The Emergency Risks (Undertakings) Insurance Act, 1971 (51 of 1971). 20. The General Insurance Business (Nationalisation) Act, 1972 (57 of 1972). 6[21. The Industries (Development and Regulation) Act, 1951 (65 of 1951).]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. Ins. by Act 65 of 1984, s. 10 (w.e.f. 8-10-1984)."
+        },
+        "Page 3": {
+            "0": "1. Ins. by Act 65 of 1984, s. 10 (w.e.f. 8-10-1984).",
+            "1": "2. Ins. by Act 45 of 1974, s. 30 (w.e.f. 23-9-1974).",
+            "2": "3. Ins. by Act 54 of 1980, s. 37 (w.e.f. 9-12-1980).",
+            "3": "4. Ins. by Act 35 of 1987, s. 33 (w.e.f. 1-11-1987).",
+            "4": "5. Ins. by Act 32 of 1994, s. 96 (w.e.f. 13-5-1994).",
+            "5": "6. Ins. by Act 46 of 1981, s. 2 (w.e.f. 15-12-1981)."
+        }
+    }
+}

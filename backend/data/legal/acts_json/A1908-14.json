@@ -1,0 +1,232 @@
+{
+    "Act Title": "THE INDIAN CRIMINAL LAW AMENDMENTACT, 1908",
+    "Act ID": "ACT NO. 14 OF 1908",
+    "Enactment Date": "[11th December, 1908.]",
+    "Act Definition": {
+        "0": "An Act to provide for the more speedy trial of certain offences, and for the prohibition of associations dangerous to the public peace.",
+        "1": "WHEREAS it is expedient to provide for the more speedy trial of certain offences, and for the prohibition .of associations dangerous to the public peace"
+    },
+    "Parts": {
+        "Sections": {
+            "Section 1.": {
+                "heading": "Short title, extent and commencement.",
+                "paragraphs": {
+                    "0": "(1) This Act may be called the Indian Criminal Law Amendment Act, 1908.",
+                    "1": "1 [(2) It extends to the whole of India except the territories which, immediately before the 1st November, 1956, were comprised in Part B States.",
+                    "2": "(3) It applies to Assam and to the territories which, immediately before the 1st November, 1956, were comprised in the State of West Bengal; but the State Government of any State may, at any time, by notification2 in the Official Gazette, bring the whole or any part thereof into force in the territories under its administration to which this Act extends.]",
+                    "3": "3* * * * *"
+                }
+            }
+        },
+        "0": {
+            "ID": "PART I",
+            "Name": "[SPECIAL PROCEDURE]. [Repealed.].",
+            "Sections": {
+                "Section 2.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Application of Part.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 3.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Inquiry by Magistrate.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Inquiry to be ex parte.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[When accused person to be discharged.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Power to send accused for trial.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Joinder of charges.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Charge, etc., to be forwarded to High Court.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Power to summon supplementary witnesses.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Witnesses for defence.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Procedure in High Court.] Rep. by s.3, ibid."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Bail.] Rep. by the Indian criminal law Amendment Repealing Act, 1922 (5 of 1922), s. 3."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Special rules of evidence.] Rep. by the Indian criminal law Amendment Repealing Act, 1922 (5 of 1922), s. 3."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Procedure] Rep. by s.3, ibid."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "PART II",
+            "Name": "UNLAWFUL ASSOCIATIONS",
+            "Sections": {
+                "Section 15.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this part\u2014",
+                            "contains": {
+                                "0": "(1) \u201cassociation\u201d means any combination or body of persons, whether the same be known by any distinctive name or not; and",
+                                "1": {
+                                    "text": "(2) \u201cunlawful association\u201d means an association\u2014",
+                                    "contains": {
+                                        "0": "(a) which encourages or aids persons to commit acts of violence or intimidation or of which the members habitually commit such acts, or",
+                                        "1": "(b) which has been declared to be unlawful by the State Government under the powers hereby conferred."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Power to declare association unlawfull.",
+                    "paragraphs": {
+                        "0": "[(1)] If the State Government is of opinion that any association interferes or has for its object interference with the administration of the law or with the maintenance of law and order, or that it constitutes a danger to the public peace, the State Government may, by notification in the Official Gazette, declare such association to be unlawful.",
+                        "1": "2* * * * *"
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Penalties.",
+                    "paragraphs": {
+                        "0": "(1) Whoever is a member of an unlawful association, or takes part in meetings of any such association, or contributes or receives or solicits any contribution for the purpose of any such association, or in any way assists the operations of any such association, shall be punished with imprisonment for a term which may extend to six months, or with fine, or with both.",
+                        "1": "(2) Whoever manages or assists in the management of an unlawful association, or promotes, or assists in promoting a meeting of any such association, or of any members thereof as such members, shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both.",
+                        "2": "3[(3) An offence under sub-section (1) shall be cognizable by the police, and notwithstanding anything contained in the Code of Criminal Procedure, 1898 (5 of 1898), shall be non-bailable.]"
+                    }
+                },
+                "Section 17A.": {
+                    "heading": "Power to notify and take possession of places used for the purposes of an unlawful association.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may, by notification in the Official Gazette, notify any place which in its opinion is used for the purposes of an unlawful association.",
+                        "1": "Explanation.\u2014For the purposes of this section \u201cplace\u201d includes a house or building, or part thereof or a tent or vessel.",
+                        "2": "(2) The District Magistrate or in a presidency-town the Commissioner of Police, or any officer authorised in this behalf in writing by the District Magistrate or Commissioner of Police, as the case may be, may thereupon take possession of the notified place and evict therefrom any person found therein, and shall forthwith make a report of the taking possession to the State Government:",
+                        "3": "Provided that where such place contains any apartment occupied by women or children, reasonable time and facilities shall be afforded for their withdrawal with the least possible inconvenience.",
+                        "4": "(3) A notified place whereof possession is taken under sub-section (2) shall be deemed to remain in the possession of Government so long as the notification under sub-section (1) in respect thereof remains in force."
+                    }
+                },
+                "Section 17B.": {
+                    "heading": "Movable property found in a notified place.",
+                    "paragraphs": {
+                        "0": "(1) The District Magistrate, Commissioner of Police or officer taking possession of a notified place shall also take possession of all movable property found therein, and shall make a list thereof in the presence of two respectable witnesses.",
+                        "1": "(2) If, in the opinion of the District Magistrate, or in a presidency-town the Commissioner of Police, any articles specified in the list are or may be used for the purposes of the unlawful association, he may proceed subject to the provisions hereafter contained in this section to order such articles to be forfeited to Government.",
+                        "2": "(3) All other articles specified in the list shall be delivered to the person whom he considers to be entitled to possession' thereof, or, if no such person is found, shall be disposed of in such manner as the District Magistrate or Commissioner of Police, as the case may be, may direct.",
+                        "3": "(4) The District Magistrate or Commissioner of Police shall publish, as nearly as may be in the manner provided in section 87 of the Code of Criminal Procedure, 1898 (5 of 1898), for the publication of a proclamation, a notice specifying the articles which it is proposed to forfeit and calling upon any person claiming that any article is not liable to forfeiture to submit in writing within fifteen days any representation he desires to make against the forfeiture of the article.",
+                        "4": "(5) Where any such representation is accepted by the District Magistrate or Commissioner of Police, he shall deal with the article concerned in accordance with the provisions of sub-section (3).",
+                        "5": "(6) Where any such representation is rejected, the representation, with the decision thereon, shall be forwarded to the District Judge, in the case of a decision by a District Magistrate, or, to the Chief Judge of the Small Cause Court, in the case of a decision by the Commissioner of Police, and no order or forfeiture shall be made until the District Judge or Chief Judge of the Small Cause Court, as the case may be, has adjudicated upon the representation. Where the decision is not confirmed the articles shall be dealt with in accordance with the provisions of sub-section (3).",
+                        "6": "(7) In making an adjudication under sub-section (6) the procedure to be followed shall be the procedure laid down in the Code of Civil Procedure, 1908 (5 of 1908), for the investigation of claims so far as it can be made to apply, and the decision of the District Judge or Chief Judge of the Small Cause Court, as the case may be, shall be final.",
+                        "7": "(8) If the article seized is livestock or is of a perishable nature, the District Magistrate or Commissioner of Police may, if he thinks it expedient, order the immediate sale thereof, and the proceeds of the sale shall be disposed of in the manner herein provided for the disposal of other articles."
+                    }
+                },
+                "Section 17C.": {
+                    "heading": "Trespass upon notified places.",
+                    "paragraphs": {
+                        "0": "Any person who enters or remains upon a notified place without the permission of the District Magistrate, or of an officer authorized by him in this behalf, shall be deemed to commit criminal trespass."
+                    }
+                },
+                "Section 17D.": {
+                    "heading": "The relinquishment of property.",
+                    "paragraphs": {
+                        "0": "Before a notification under sub-section (1) of section 17A is cancelled, the State Government shall give such general or special directions as it may deem requisite regulating the relinquishment by Government of possession of notified places."
+                    }
+                },
+                "Section 17E.": {
+                    "heading": "Power to forfeit funds of an unlawful association.",
+                    "paragraphs": {
+                        "0": "(1) Where the State Government is satisfied, after such inquiry as it may think fit, that any monies, securities or credits are being used or are intended to be used for the purposes of an unlawful association, the State Government may, by order in writing, declare such monies, securities or credits to be forfeited to Government.",
+                        "1": "(2) A copy of an order under sub-section (1) may be served on the person having custody of the monies, securities or credits, and on the service of such copy such person shall pay or deliver the monies, securities or credits to the order of the State Government:",
+                        "2": "Provided that, in the case of monies or securities, a copy of the order may be endorsed for execution to such officer as the State Government may select, and such officer shall have power to enter upon and search for such monies and securities in any premises where they may reasonably be suspected to be, and to seize the same.",
+                        "3": "(3) Before an order of forfeiture is made under sub-section (1) the State Government shall give written notice to the person (if any) in whose custody the monies, securities or credits are found of its intention to forfeit, and any person aggrieved thereby may within fifteen days from the issue of such notice file an application to the District Judge in a district, or to the Chief Judge of the Small Cause Court in a presidency-town, to establish that the monies, securities or credits or any of them are not liable to forfeiture, and if any such application is made, no order of forfeiture shall be passed in respect of the monies, securities or credits concerned until such application has been disposed of, and unless the District Judge or Chief Judge of the Small Cause Court has decided that the monies, securities or credits are liable to forfeiture.",
+                        "4": "(4) In disposing of an application under sub-section (3) the procedure to be followed shall be the procedure laid down in the Code of Civil Procedure, 1908 (5 of 1908), for the investigation of claims so far as it can be made to apply, and the decision of the District Judge or Chief Judge of the Small Cause Court, as the case may be, shall be final.",
+                        "5": "(5) Where the State Government has reason to believe that any person has custody of any monies, securities or credits which are being used or arc intended to be used for the purposes of an unlawful association, the State Government may, by order in writing, prohibit such person from paying, delivering, transferring or otherwise dealing in any manner whatsoever with the same, save in accordance with the written orders of the State Government. A copy of such order shall be served upon the person to whom it is directed.",
+                        "6": "(6) The State Government may endorse a copy of an order under 1[Sub-section (5)] for investigation to any officer it may select, and such copy shall be warrant where under such officer may enter upon any premises of the person to whom the order is directed, examine the books of such person search for monies and securities, and make inquiries from such person, or any officer, agent or servant of such person, touching the origin of and dealings in any monies securities or credits which the investigating officer may suspect arc being used or are intended to be used for the purposes of an unlawful association.",
+                        "7": "(7) A copy of an order under this section may be served in the-manner provided in the Code of Criminal Procedure, 1898 (5 of 1898), for the service of a summons, or, where the person to be served is a corporation, company, bank or association of persons, it may be served on any secretary, director or other officer or person concerned with the management thereof, or by leaving it or sending it by post addressed to the corporation, company, bank or association at its registered office, or, where there is no registered office, at the place' where it carries on business.",
+                        "8": "(8) Where an order of forfeiture is made under sub-section (1) in respect of any monies, securities or credits in respect of which a prohibitory order has been made under 1[sub-section (5)], such order of forfeiture shall have effect from the date of the prohibitory order, and the person to whom the prohibitory order was directed shall pay or deliver the whole of the monies, securities, or credits forfeited, to the order of the State Government.",
+                        "9": "(9) Where any person liable under this section to pay or deliver any monies, securities, or credits to the order of the State Government refuses or fails to comply with any direction of the State Government in this behalf, the State Government may recover from such person, as arrears of land-revenue or as a fine, the amount of such monies or credits or the market value of such securities.",
+                        "10": "(10) In this section, \u201csecurity\u201d includes a document whereby any person acknowledges that he is under a legal liability to pay money, or where under any person obtains a legal right to the payment of money; and the market value of any security means the value as fixed by any officer or person deputed by the State Government in this behalf.",
+                        "11": "(11) Except so far as is necessary for the purposes of any proceeding under this section, no information obtained in the course of any investigation made under sub-section (6) shall be divulged by any officer of Government, without the consent of the State Government."
+                    }
+                },
+                "Section 17F.": {
+                    "heading": "Jurisdiction barred.",
+                    "paragraphs": {
+                        "0": "Every report of the taking possession of property and every declaration of forfeiture made, or purporting to be made under this Act, shall, as against all persons, be conclusive proof that the property specified therein has been taken possession of by Government or has been forfeited, as the case may be, and save as provided in sections 17B and 17E no proceeding purporting to be taken under section 17A, 17B, 17C, 17D or 17E shall be called in question by any Court, and no civil or criminal proceedings shall be instituted against any person for anything in good faith done or intended to be done under the said sections or against Government or any person acting on behalf of or by authority of Government for any loss or damage caused to or in respect of any property whereof possession has been taken by Government under this Act.]"
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Continuance of association.",
+                    "paragraphs": {
+                        "0": "An association shall not be deemed to have ceased to exist by reasons only of any formal act of dissolution or change of title, but shall be deemed to continue so long as any actual combination for the purposes of such association continues between any members thereof."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE. [Repealed.].": {
+            "0": "THE SCHEDULE.\u2014Rep. by the Indian Criminal Law Amendment Repealing Act, 1922 (5 of 1922), s. 3."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1 . Sub s. b y th e Ad ap tatio n  o f La ws (No . 2 ) Ord er, 1 9 56 , fo r su b -sectio n  (2 ).2 .Th e Act h as b een  ext en d ed  u nd er th is p ro visio n  to \u2014Bombay Presidency, see Gazette of India, Extraordinary, dated 4th January, 1910:Madras  Presidency,  the  U.P.,  the  Punjab,  and  the  C.P.,  see  ibid.,  dated  13th  January,  1910  and  ibid.,  1910,Pt. I,p . 9 5 ;Punjab, see Punjab Gazette, Extraordinary, dated 23rd June, 1930;The  State  of  Delhi  see  Gazette  of  India,  Extraordinary,  dated  9th  December,  1920;  Ajmer-Merwara,  seeGazette of India, 1930, Pt. II-A, p. 515;Coorg, see Coorg Gazette, Extraordinary, dated 11th January, 1932.It has been extended to Berar by the Berar  Laws  Act, 1941 (4 of 1941) and has also been declared to be inforce  in  the  Sonthal  Parganas  by  notification  under  the  Sonthal  Parganas  Settlement  Regulation,  1872  (3  of1872),  s.  3  (3)  (a),  see  Calcutta  Gazette,  1909,  Pt.  I,  p.  649;  in  the  Khondmals  District,  by  the  KhondmalsLaws  Regulation,  1936  (4  of  1936),  s.  3  and  Sch.;  and  the  Angul  District  by  the  Angul  Laws  Regulation.1936 (5 of 1936), s. and the Schedule.The  Act  has  also  been  extended  to  the  new  Provinces  and  merged  States  by  the  Merged  States  (Laws)Act.  1949  (59  of  1949);  to  the  States  of  Manipur,  Tripura  and  Vindhya  Pradesh  by  the  Union  Territories(Laws) Act, 1950 (30 of 1950); and to Pondicherry on 1-10-1963; vide Reg. 7 of 1963, s. 3 and Sch. I.",
+            "1": "3. Sub-section (3) rep. by Act 5 of 1922, s. 3."
+        },
+        "Page 3": {
+            "0": "1. The original s. 16 renumbered as sub-section (1) of that section by Act 23 of 1932, s. 11.",
+            "1": "2. Sub-section (2) rep. by the A.O. 1937. Earlier it was inserted by s. 11, ibid.,",
+            "2": "3. Ins. by s. 12, ibid.",
+            "3": "4.  Ins. by s. 13, ibid."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 24 of 1934, s. 2 and the First Schedule, for \u201csub-section (3)\u201d."
+        }
+    }
+}

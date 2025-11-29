@@ -1,0 +1,476 @@
+{
+    "Act Title": "THE REHABILITATION COUNCIL OF INDIA ACT, 1992",
+    "Act ID": "ACT NO. 34 OF 1992",
+    "Enactment Date": "[1st September, 1992.]",
+    "Act Definition": {
+        "0": "An Act to provide for the constitution of the Rehabilitation Council of India for regulating 1[and monitoring the training of rehabilitation professionals and personnel, promoting research in rehabilitation and special education,] the maintenance of a Central Rehabilitation Register and for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Rehabilitation Council of India Act, 1992.",
+                        "1": "(2) It shall come into force on such date2 as the Central Government may, by notification in the Official Gazette, appoint."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cChairperson\u201d means the Chairperson of the Council appointed under sub-section (3) of section 3;",
+                                "1": "(b) \u201cCouncil\u201d means the Rehabilitation Council of India constituted under section 3;",
+                                "2": "3[(c) \u201chandicapped\u201d means a person suffering from any disability referred to in clause (i) of section 2 of the Persons With Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996);]",
+                                "3": "4* * * * *",
+                                "4": "(f) \u201cmember\u201d means a member appointed under sub-section (3) of section 3 and includes the Chairperson;",
+                                "5": "(g) \u201cMember-Secretary\u201d means the Member-Secretary appointed under sub-section (1) of section 8;",
+                                "6": "(h) \u201cmental retardation\u201d means a condition of arrested or incomplete development of mind of a person which is specially characterised by sub-normality of intelligence;",
+                                "7": "(i) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "8": "(j) \u201cprescribed\u201d means prescribed by regulations;",
+                                "9": "(k) \u201crecognised rehabilitation qualifications\u201d means any of the qualifications included in the Schedule;",
+                                "10": "(l) \u201cRegister\u201d means the Central Rehabilitation Register maintained under sub-section (1) of section 23;",
+                                "11": "(m) \u201cregulations\u201d means regulations made under this Act;",
+                                "12": "5[(ma) \u201crehabilitation\u201d refers to a process aimed at enabling persons with disabilities to reach and maintain their optimal physical, sensory, intellectual, psychiatric or social functional levels;]",
+                                "13": {
+                                    "text": "(n) \u201crehabilitation professionals\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(i) audiologists and speech therapists;",
+                                        "1": "(ii) clinical psychologists;",
+                                        "2": "(iii) hearing aid and ear mould technicians;",
+                                        "3": "(iv) rehabilitation engineers and technicians;",
+                                        "4": "(v) special teachers for educating and training the handicapped;",
+                                        "5": "(vi) vocational counsellors, employment officers and placement officers dealing with handicapped;",
+                                        "6": "(vii) multi-purpose rehabilitation therapists, technicians; or",
+                                        "7": "(viii) such other category of professionals as the Central Government may, in consultation with the Council, notify from time to time;",
+                                        "8": "1* * * * *"
+                                    }
+                                }
+                            }
+                        },
+                        "1": "2[(1A) Words and expressions used and not defined in this Act but defined in the Persons With Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 (1 of 1996) shall have the meanings respectively assigned to them in that Act.]",
+                        "2": "(2) Any reference in this Act to any enactment or any provision thereof shall, in relation to an area in which such enactment or such provision is not in force, be construed as a reference to the corresponding law or the relevant provision of the corresponding law, if any, in force in that area."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "THE REHABILITATION COUNCIL OF INDIA",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Constitution and incorporation of Rehabilitation Council of India.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification, appoint in this behalf, there shall be constituted for the purposes of this Act a Council to be called the Rehabilitation Council of India.",
+                        "1": "(2) The Council shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power, subject to the provisions of this Act, to acquire, hold and dispose of property, both movable and immovable, and to contract and shall by the said name sue and be sued.",
+                        "2": {
+                            "text": "(3) The Council shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "3[(a) a Chairperson, from amongst the persons having experience in administration with professional qualification in the field of rehabilitation, disabilities, and special education, to be appointed by the Central Government;",
+                                "1": "(b) such number of members not exceeding seven, as may be nominated by the Central Government, to represent the Ministries of the Central Government dealing with matters relating to persons with disabilities;]",
+                                "2": "(c) one member to be appointed by the Central Government to represent the University Grants Commission;",
+                                "3": "(d) one member to be appointed by the Central Government to represent the Directorate General of Indian Council of Medical Research;",
+                                "4": "(e) two members to be appointed by the Central Government to represent the Ministry or department of the States or the Union territories dealing with Social Welfare by rotation in alphabetical order;",
+                                "5": "(f) such number of members not exceeding six as may be appointed by the Central Government from amongst the rehabilitation professionals working in voluntary organisations;",
+                                "6": "(g) such number of members not exceeding four as may be appointed by the Central Government from amongst the medical practitioners enrolled under the Indian Medical Council Act, 1956 (102 of 1956) and engaged in rehabilitation of the handicapped;",
+                                "7": "(h) three Members of Parliament of whom two shall be elected by the House of the People and one by the Council of States;",
+                                "8": "(i) such number of members not exceeding three as may be nominated by the Central Government from amongst the social workers who are actively engaged in assisting the disabled;",
+                                "9": "(j) the Member-Secretary, ex officio."
+                            }
+                        },
+                        "3": "(4) The office of member of the Board shall not disqualify its holder for being chosen as, or for being, a Member of either House of Parliament."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Term of office of Chairperson and members.",
+                    "paragraphs": {
+                        "0": "(1) The Chairperson or a member shall hold office for a term of two years from the date of his appointment or until his successor shall have been duly appointed, whichever is longer.",
+                        "1": "(2) A casual vacancy in the Council shall be filled in accordance with the provisions of section 3 and the person so appointed shall hold office only for the remainder of the term for which the member in whose place he was appointed would have held that office.",
+                        "2": "(3) The Council shall meet at least once in each year at such time and place as may be appointed by the Council and shall observe such rules of procedure in the transaction of business at a meeting as may be prescribed.",
+                        "3": "(4) The Chairperson or, if for any reason, he is unable to attend the meeting of the Council, any member elected by the members present from amongst themselves at the meeting, shall preside at the meeting.",
+                        "4": "(5) All questions which come up before any meeting of the Council shall be decided by a majority of votes of the members present and voting, and in the event of an equality of votes, the Chairperson, or in his absence, the person presiding shall have a second or casting vote."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Disqualifications.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No person shall be a member if he\u2014",
+                            "contains": {
+                                "0": "(a) is, or becomes, of unsound mind or is so declared by a competent court; or",
+                                "1": "(b) is, or has been, convicted of any offence which, in the opinion of the Central Government, involves moral turpitude; or",
+                                "2": "(c) is, or at any time has been, adjudicated as insolvent."
+                            }
+                        }
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Vacation of office by members.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "If a member\u2014",
+                            "contains": {
+                                "0": "(a) becomes subject to any of the disqualifications mentioned in section 5; or",
+                                "1": "(b) is absent without excuse, sufficient in the opinion of the Council, from three consecutive meetings of the Council; or",
+                                "2": "(c) ceases to be enrolled on the Indian Medical Register in the case of a member referred to in clause (g) of sub-section (3) of section 3,"
+                            }
+                        },
+                        "1": "his seat shall thereupon become vacant."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Executive Committee and other committees.",
+                    "paragraphs": {
+                        "0": "(1) The Council shall constitute from amongst its members an Executive Committee and such other committees for general or special purposes as the Council deems necessary to carry out the purposes of this Act.",
+                        "1": "(2) The Executive Committee shall consist of the Chairperson who shall be member ex officio and not less then seven and not more than ten members who shall be nominated by the Council from amongst its members.",
+                        "2": "(3) The Chairperson shall be the Chairperson of the Executive Committee.",
+                        "3": "(4) In addition to the powers and duties conferred and imposed upon it by this Act, the Executive Committee or any other committee shall exercise and discharge such powers and duties as the Council may confer or impose upon it by any regulations which may be made in this behalf."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Member-Secretary and employees of Council.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall appoint the Member-Secretary of the Council to exercise such powers and perform such duties under the direction of the Council as may be prescribed or as may be delegated to him by the Chairperson.",
+                        "1": "(2) The Council shall, with the previous sanction of the Central Government, employ such officers and other employees as it deems necessary to carry out the purpose of this Act.",
+                        "2": "(3) The Council shall, with the previous sanction of the Central Government, fix the allowances to be paid to the Chairperson and other members and determine the conditions of service of the Member-Secretary, officers and other employees of the Council."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Vacancies in the Council not to invalidate acts, etc.",
+                    "paragraphs": {
+                        "0": "No act or proceeding of the Council or any committee thereof shall be called in question on the ground merely of the existence of any vacancy in, or any defect in the constitution of, the Council or a committee thereof, as the case may be."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Dissolution of Rehabilitation Council and transfer of rights, liabilities and employees of Rehabilitation Council to Council.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) On and from the date of the constitution of the Council, the Rehabilitation Council shall stand dissolved and on such dissolution,\u2014",
+                            "contains": {
+                                "0": "(a) all properties and assets, movable and immovable, of, or belonging to, the Rehabilitation Council shall vest in the Council;",
+                                "1": "(b) all the rights and liabilities of the Rehabilitation Council shall be transferred to, and be the rights and liabilities of, the Council;",
+                                "2": "(c) without prejudice to the provisions of clause (b), all liabilities incurred, all contracts entered into and all matters and things engaged to be done by, with or for the Rehabilitation Council immediately before that date, for or in connection with the purposes of the said Rehabilitation Council shall be deemed to have been incurred, entered into, or engaged to be done by, with or for, the Council;",
+                                "3": "(d) all sums of money due to the Rehabilitation Council immediately before that date shall be deemed to be due to the Council;",
+                                "4": "(e) all suits and other legal proceedings instituted or which could have been instituted by or against the Rehabilitation Council immediately before that date may be continued or may be instituted by or against the Council; and",
+                                "5": "(f) every employee holding any office under the Rehabilitation Council immediately before that date shall hold his office in the Council by the same tenure and upon the same terms and conditions of service as respects remuneration, leave, provident fund, retirement and other terminal benefits as he would have held such office as if the Council had not been constituted and shall continue to do so as an employee of the Council or until the expiry of a period of six months from that date if such employee opts not to be the employee of the Council within such period."
+                            }
+                        },
+                        "1": "(2) Notwithstanding anything contained in the Industrial Disputes Act, 1947 (14 of 1947) or any other law for the time being in force, absorption of any employee by the Council in its regular service under this section shall not entitle such employee to any compensation under that Act or other law and no such claim shall be entertained by any court, tribunal or other authority.",
+                        "2": "Explanation.\u2014In this section, \u201cRehabilitation Council\u201d means the Rehabilitation Council, a society formed and registered under the Societies Registration Act, 1860 (21 of 1860) and functioning as such immediately before the constitution of the Council."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "FUNCTIONS OF THE COUNCIL",
+            "Sections": {
+                "Section 11.": {
+                    "heading": "Recognition of qualifications granted by University, etc., in India for rehabilitation professionals.",
+                    "paragraphs": {
+                        "0": "(1) The qualifications granted by any University or other institution in India which are included in the Schedule shall be recognised qualifications for rehabilitation professionals.",
+                        "1": "(2) Any University or other institution which grants qualification for the rehabilitation professionals not included in the Schedule may apply to the Central Government to have any such qualification recognised, and the Central Government, after consulting the Council may, by notification, amend the Schedule so as to include such qualification therein and any such notification may also direct that an entry shall be made in the last column of the Schedule against such qualification only when granted after a specified date."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Recognition of qualifications granted by institutions outside India.",
+                    "paragraphs": {
+                        "0": "The Council may enter into negotiations with the authority in any country outside India for settling of a scheme of reciprocity for the recognition of qualifications, and in pursuance of any such scheme, the Central Government may, by notification, amend the Schedule so as to include therein any qualification which the Council has decided should be recognised, and by such notification may also direct that an entry shall be made in the last column of the Schedule declaring that it shall be the recognised qualification only when granted after a specified date."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Rights of persons possessing qualifications included in the Schedule to be enrolled.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the other provisions contained in this Act, any qualification included in the Schedule shall be sufficient qualification for enrolment on the Register.",
+                        "1": {
+                            "text": "(2) No person, other than the rehabilitation professional who possesses a recognised rehabilitation qualification and is enrolled on the Register,\u2014",
+                            "contains": {
+                                "0": "(a) shall hold office as rehabilitation professional or any such office (by whatever designation called) in Government or in any institution maintained by a local or other authority;",
+                                "1": "(b) shall practice as rehabilitation professional anywhere in India;",
+                                "2": "(c) shall be entitled to sign or authenticate any certificate required by any law to be signed or authenticated by a rehabilitation professional;",
+                                "3": "(d) shall be entitled to give any evidence in any court as an expert under section 45 of the Indian Evidence Act, 1872 (1 of 1872) on any matter relating to the handicapped:"
+                            }
+                        },
+                        "2": "Provided that if a person possesses the recognised rehabilitation professional qualifications on the date of commencement of this Act, he shall be deemed to be an enrolled rehabilitation professional for a period of six months from such commencement, and if he has made an application for enrolment on the Register within said period of six months, till such application is disposed of.",
+                        "3": "1[(2A) Notwithstanding anything contained in sub-section (2), any person being a doctor or a paramedic in the field of physical medicine and rehabilitation, orthopaedics, ear, nose or throat (ENT), ophthalmology or psychiatry, employed or working in any hospital or establishment owned or controlled by the Central Government or a State Government or any other body funded by the Central or a State Government and notified by the Central Government, may discharge the functions referred to in clauses (a) to (d) of that sub-section.]",
+                        "4": "(3) Any person who acts in contravention of any provision of sub-section (2) shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Power to require information as to courses of study and examinations.",
+                    "paragraphs": {
+                        "0": "Every University or institution in India which grants a recognised qualification shall furnish such information as the Council may, from time to time, require as to the courses of study and examinations to be undergone in order to obtain such qualification, as to the ages at which such courses of study and examinations are required to be undergone and such qualification is conferred and generally as to the requisites for obtaining such qualification."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Inspectors as examinations.",
+                    "paragraphs": {
+                        "0": "(1) The Council shall appoint such number of Inspectors as it may deem requisite to inspect any University or institution where education for practising as rehabilitation professionals is given or to attend any examination held by any University or institution for the purpose of recommending to the Central Government recognition of qualifications granted by that University or institution as recognised rehabilitation qualifications.",
+                        "1": "(2) The Inspectors appointed under sub-section (1) shall not interfere with the conduct of any training or examination but shall report to the Council on the adequacy of the standards of education including staff, equipment, accommodation, training and other facilities prescribed for giving such education or of the sufficiency of every examination which they attend.",
+                        "2": "(3) The Council shall forward a copy of the report of the Inspector under sub-section (2) to the University or institution concerned and shall also forward a copy, with the remarks of the University or the institution thereon, to the Central Government."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Visitors at examinations.",
+                    "paragraphs": {
+                        "0": "(1) The Council may appoint such number of Visitors as it may deem requisite to inspect any University or institution wherein education for rehabilitation professionals is given or attend any examination for the purpose of granting recognised rehabilitation qualifications.",
+                        "1": "(2) Any person, whether he is a member of the Council or not, may be appointed as a Visitor under sub-section (1) but a person who is appointed as an Inspector under sub-section (1) of section 15 for any inspection or examination shall not be appointed as a Visitor for the same inspection or examination.",
+                        "2": "(3) The Visitor shall not interfere with the conduct of any training or examination but shall report to the Chairperson on the adequacy of the standards of education including staff, equipment, accommodation, training and other facilities prescribed for giving education to the rehabilitation professionals or on sufficiency of every examination which they attend.",
+                        "3": "(4) The report of a Visitor shall be treated as confidential unless in any particular case the Chairperson otherwise, directs:",
+                        "4": "Provided that if the Central Government requires a copy of the report of a Visitor, the Council shall furnish the same."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Withdrawal of recognition.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) When upon report by the Inspector or the Visitor it appears to the Council\u2014",
+                            "contains": {
+                                "0": "(a) that the courses of study and examination to be undergone in or the proficiency required from candidates at any examination held by any University or institution, or",
+                                "1": "(b) that the staff, equipment, accommodation, training and other facilities for instruction and training provided in such University or institution,"
+                            }
+                        },
+                        "1": {
+                            "text": "do not conform to the standard prescribed by the Council, the Council shall make a representation to that effect to the Central Government.",
+                            "contains": {
+                                "0": "(2) After considering such representation, the Central Government may send it to the University or institution with an intimation of the period within which the University or institution may submit its explanation to that Government.",
+                                "1": "(3) On the receipt of the explanation or where no explanation is submitted within the period fixed then, on the expiry of that period, the Central Government after making such further inquiry, if any, as it may think fit, may, by notification, direct that an entry shall be made in the Schedule against the said recognised rehabilitation qualification declaring that it shall be the recognised rehabilitation qualification only when granted before a specified date or that the said recognised rehabilitation qualification if granted to students of a specified University or institution shall be recognised rehabilitation qualification only when granted before a specified date, or as the case may be, that the said recognised rehabilitation qualification shall be recognised rehabilitation qualification in relation to a specified University or institution only when granted after a specified date."
+                            }
+                        }
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Minimum standards of education.",
+                    "paragraphs": {
+                        "0": "The Council may prescribe the minimum standards of education required for granting recognised rehabilitation qualification by Universities or institutions in India."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Registration in Register.",
+                    "paragraphs": {
+                        "0": "The Member-Secretary of the Council may, on receipt of an application made by any person in the prescribed manner enter his name in the Register provided that the Member-Secretary is satisfied that such person possesses the recognised rehabilitation qualification:",
+                        "1": "1[Provided that the Council shall register vocational instructors and other personnel working in the vocational rehabilitation centres under the Ministry of Labour on recommendation of that Ministry and recognise the vocational rehabilitation centres as manpower development centres:",
+                        "2": "Provided further that the Council shall register personnel working in national institutes and apex institutions on disability under the Ministry of Social Justice and Empowerment on recommendation of that Ministry and recognise the national institutes and apex institutions on disability as manpower development centres.]"
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Privileges of persons who are registered on Register.",
+                    "paragraphs": {
+                        "0": "Subject to the conditions and restrictions laid down in this Act regarding engagement in the area of rehabilitation of the handicapped by persons possessing the recognised rehabilitation qualifications, every person whose name is for the time being borne on the Register shall be entitled to practise as a rehabilitation professional in any part of India and to recover in due course of law in respect of such practice any expenses, charges in respect of medicaments or other appliances or any fees to which he may be entitled."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Professional conduct and removal of names from Register.",
+                    "paragraphs": {
+                        "0": "(1) The Council may prescribe standards of professional conduct and etiquette and a code of ethics for rehabilitation professionals.",
+                        "1": "(2) Regulations made by the Council under sub-section (1) may specify which violations thereof shall constitute infamous conduct in any professional respect, that is to say, professional misconduct, and such provision shall have effect notwithstanding anything contained in any other law for the time being in force.",
+                        "2": {
+                            "text": "(3) The Council may order that the name of any person shall be removed from the Register where it is satisfied, after giving that person a reasonable opportunity of being heard, and after such further inquiry, if any, as it may deem fit to make,\u2014",
+                            "contains": {
+                                "0": "(i) that his name has been entered in the Register by error or on account of misrepresentation or suppression of a material fact;",
+                                "1": "(ii) that he has been convicted of any offence or has been guilty of any infamous conduct in any professional respect, or has violated the standards of professional conduct and etiquette or the code of ethics prescribed under sub-section (1) which, in the opinion of the Council, renders him unfit to be kept in the Register."
+                            }
+                        },
+                        "3": "(4) An order under sub-section (3) may direct that any person whose name is ordered to be removed from the Register shall be ineligible for registration under this Act either permanently or for such period of years as may be specified."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Appeal against order of removal from Register.",
+                    "paragraphs": {
+                        "0": "(1) Where the name of any person has been removed from the Register on any ground other than that he is not possessed of the requisite rehabilitation qualifications, he may appeal, in the prescribed manner and subject to such conditions, including conditions as to the payment of a fee, as may be prescribed to the Central Government whose decision thereon shall be final.",
+                        "1": "(2) No appeal under sub-section (1) shall be admitted if it is preferred after the expiry of a 1[period of sixty days] from the date of the order under sub-section (3) of section 21:",
+                        "2": "Provided that an appeal may be admitted after the expiry of the said 1[period of sixty days] if the appellant satisfies the Central Government that he had sufficient cause for not preferring the appeal within the said period."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Register.",
+                    "paragraphs": {
+                        "0": "(1) It shall be the duty of the Member-Secretary to keep and maintain the Register in accordance with the provisions of this Act and any order made by the Council and from time to time to revise the Register and publish it in the Official Gazette.",
+                        "1": "(2) The Register shall be deemed to be a public document within the meaning of the Indian Evidence Act, 1872 (1 of 1872) and may be proved by a copy thereof."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Information to be furnished by Council and publication thereof.",
+                    "paragraphs": {
+                        "0": "(1) The Council shall furnish such reports, copies of its minutes, abstracts of its accounts, and other information to the Central Government as that Government may require.",
+                        "1": "(2) The Central Government may publish in such manner as it may think fit, any report, copy, abstract or other information furnished to it by the Council under this section or under section 16."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Cognizance of offences.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), no court shall take cognizance of an offence punishable under this Act except upon a complaint, in writing, made by any person authorised in this behalf by the Council."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against the Central Government, Council, Chairperson, members, Member-Secretary or any officer or other employee of the Council for anything which is in good faith done or intended to be done under this Act."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Employees of Council to be public servants.",
+                    "paragraphs": {
+                        "0": "The Chairperson, members, Member-Secretary, officers and other employees of the Council shall, while acting or purporting to act in pursuance of the provisions of this Act or of any rule and regulation made thereunder, be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by notification, make rules to carry out the purposes of this Act."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Power to make regulations.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Council may, with the previous sanction of the Central Government, make, by notification, regulations generally to carry out the purposes of this Act, and without prejudice to the generality of the foregoing power, such regulations may provide for\u2014",
+                            "contains": {
+                                "0": "(a) the management of the property of the Council;",
+                                "1": "(b) the maintenance and audit of the accounts of the Council;",
+                                "2": "(c) the resignation of members of the Council;",
+                                "3": "(d) the powers and duties of the Chairperson;",
+                                "4": "(e) the rules of procedure in the transaction of business under sub-section (3) of section 4;",
+                                "5": "(f) the function of the Executive Committee and other committees, constituted under section 7;",
+                                "6": "(g) the powers and duties of the Member-Secretary under sub-section (1) of section 8;",
+                                "7": "(h) the qualifications, appointment, powers and duties of, and procedure to be followed by, Inspectors and Visitors;",
+                                "8": "(i) the courses and period of study or of training, to be undertaken, the subjects of examination and standards of proficiency therein to be obtained in any University or any institution for grant of recognised rehabilitation qualification;",
+                                "9": "(j) the standards of staff, equipment, accommodation, training and other facilities for study or training of the rehabilitation professionals;",
+                                "10": "(k) the conduct of examinations, qualifications of examiners, and the condition of the admission to such examinations;",
+                                "11": "(l) the standards of professional conduct and etiquette and code of ethics to be observed by rehabilitation professionals under sub-section (1) of section 21;",
+                                "12": "(m) the particulars to be stated, and proof of qualifications to be given, in application for registration under this Act;",
+                                "13": "(n) the manner in which and the conditions subject to which an appeal may be preferred under sub-section (1) of section 22;",
+                                "14": "(o) the fees to be paid on applications and appeals under this Act;",
+                                "15": "(p) any other matter which is to be, or may be, prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Laying of rules and regulations before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "(See section 11)"
+                }
+            },
+            "1": "RECOGNISED REHABILITATION QUALIFICATIONS GRANTED BY UNIVERSITIES OR INSTITUTIONS IN INDIA",
+            "2": {
+                "text": "University/Institution Name of Course Qualification Remarks",
+                "contains": {
+                    "0": {
+                        "text": "1 2 3 4",
+                        "contains": {
+                            "0": "I.\u2014Rehabilitation engineers/technicians"
+                        }
+                    }
+                }
+            },
+            "3": "National Institute for the Diploma in Prosthetic & Diploma Orthopaedically Handicapped, Orthotic Engineering B.T. Road, Bonhooghly, (2 Years) Calcutta-700 090",
+            "4": "Department of Rehabilitation, Course in Prosthetics & Diploma Safdarjang Hospital, New Delhi Orthotics (3 years)",
+            "5": "Govt. Institute of Rehabilitation of Diploma in Orthotics & Diploma Medicine, K. K. Nagar, Prosthetics Madras-600 083",
+            "6": "National Institute of Rehabilitation Diploma in Prosthetic & Diploma Training and Research, Olatpur, Orthotic Engineering P.O. : Bairoi Distt. Cuttack (2 years) (Orissa)",
+            "7": "All India Institute of Physical B. Sc. (P&O) Degree Medicine & Rehabilitation, Haji Ali, Khadye Marg, Mahalaxmi, Bombay-400 034",
+            "8": "School of Prosthetics & Orthotics, Diploma in Prosthetic & Diploma K. K. Nagar, Madras-600 083 Orthotics Engineering (2 Years duration)",
+            "9": {
+                "text": "Schieffelin Leprosy Research and Prosthetic Technician Course Diploma Training Centre, Karigiri, SLR (18 months) Sanatorium, P.O. North Arcot Distt. (S. India)",
+                "contains": {
+                    "0": "II.\u2014Audiologists and speech therapists"
+                }
+            },
+            "10": "All India Institute of Speech and B.Sc. (Speech & Hearing) Degree Hearing, Manasa Gangothri, (3 Years duration) Mysore-576 006",
+            "11": "Ali Yavar Jung National Institute B.Sc. (A. & S.T.) Degree for the Hearing Handicapped, (3 Years duration) Bandra (W.), Bombay-400 050",
+            "12": "Post-Graduate Institute of Medical B.Sc. (Speech & Hearing) Degree Education and Research, (3 Years duration) Chandigarh-160 012",
+            "13": "Topiwala National Medical College Diploma in Audiology & Diploma and BYL Nair Charitable Speech Therapy (B.Sc.) Hospital, Dr. A. L. Nair Road, Bombay-400 008",
+            "14": {
+                "text": "All India Institute of Medical B.Sc. (Hons.) in Speech & Degree Sciences, Ansari Nagar, Hearing New Delhi",
+                "contains": {
+                    "0": "1 2 3 4",
+                    "1": "III.\u2014Teachers of special schools and integrated schools for the disabled"
+                }
+            },
+            "15": "Shri K. L. Institute for the Deaf, 51, Teachers Training for the Diploma Vidyanagar, Bhavnagar-364 002 Deaf (Gujarat) (1 Year duration)",
+            "16": "The Educational Audiology and Certificate Course for Certificate Research Centre School for the Teachers of the Deaf Deaf \u201cPONAM\u201d, 67, Napean Sea (10 months duration) Road, Bombay-400 006",
+            "17": "V. R. Ruia Mook-Badhir Vidyalaya, Teachers Training Diploma Diploma Pune-30 Course for Deaf Students (1 Year duration)",
+            "18": "Little Flower Convent Higher Sec. (i) Junior Diploma in Diploma School for the Deaf, 127, G.N. Teaching the Deaf Road, Cathedral P.O., (ii) Senior Diploma in Diploma Madras-600 006 Teaching the Deaf (10 months duration)",
+            "19": "The Blind Relief Association One Year Diploma Course for Diploma Lal Bahadur Shastri Marg, Training of Teachers of the New Delhi-110003 Blind",
+            "20": "The Clarke School for the Deaf, (i) Teachers Training for the Diploma \u201cSADHANA\u201d, No. 3, Third Deaf Street, Dr. Radhakrishnan Road, (ii) Teachers Training for the Diploma Mylapore, Madras-600 004 Mentally Retarded",
+            "21": {
+                "text": "Ramakrishna Mission, Blind Boy\u2019s (i) In-Service Primary Level Diploma Academy, Harendrapur-743 508, Teachers of the Visually West Bengal Handicapped (18 months duration)",
+                "contains": {
+                    "0": "(ii) Secondary Level Teachers Diploma of the Visually Handicapped (10 months duration)"
+                }
+            },
+            "22": {
+                "text": "Govt. Higher Secondary School for (i) Diploma in Teaching the Diploma the Blind, Poonamallee, Blind Madras-600 056 (6 months at School + 12 months by Correspondence)",
+                "contains": {
+                    "0": "(ii) Special Examination in Certificate Teaching the Blind (10 months course)"
+                }
+            },
+            "23": {
+                "text": "Ali Yavar Jung National Institute (i) B.Ed. (Deaf) P.G. Diploma for the Hearing Handicapped, (ii) D.Ed. (Deaf) in Regional Diploma Bandra (W.), Bombay-400 050 Languages",
+                "contains": {
+                    "0": "IV.\u2014Multipurpose rehabilitation therapists technicians/assistant/worker"
+                }
+            },
+            "24": {
+                "text": "Department of Rehabilitation, One Year Certificate Course Certificate Safdarjang Hospital, for Multi-Rehabilitation New Delhi- 110 029 Worker",
+                "contains": {
+                    "0": {
+                        "text": "1 2 3 4",
+                        "contains": {
+                            "0": "V.\u2014Vocational counsellors"
+                        }
+                    }
+                }
+            },
+            "25": "National Council of Education Diploma Course in Education Diploma Research and Training, and Vocational Guidance Sri Aurobindo Marg, (9 months duration) New Delhi-110 016",
+            "26": {
+                "text": "All India Institute of Physical PGDR (Vocational Guidance) Diploma Medicine & Rehabilitation, Haji Ali, Khadye Marg, Mahalaxmi, Bombay-400 034",
+                "contains": {
+                    "0": "VI.\u2014Diploma in communication disorders"
+                }
+            },
+            "27": "Ali Yavar Jung National Institute Diploma in Communication Diploma for the Hearing Handicapped, Disorders Bandra (W.), Bombay-400 050 (1 Year)"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. Subs. by Act 38 of 2000, s. 2, for \u201cthe training of rehabilitation professionals and\u201d (w.e.f. 4-9-2000).",
+            "1": "2.  31st  July,  1993,  vide  notification  No.  S.O.  288(E),  dated  28th  April,  1993,  see  Gazette  of  India,  Extraordinary,  Part  II,sec. 3(ii).",
+            "2": "3. Subs. by Act 38 of 2000, s. 3, for clause (c) (w.e.f. 4-9-2000).",
+            "3": "4. Clauses (d) and (e) omitted by s. 3, ibid. (w.e.f. 4-9-2000).",
+            "4": "5. Ins. by s. 3, ibid. (w.e.f. 4-9-2000)."
+        },
+        "Page 3": {
+            "0": "1. Clause (o) omitted by Act 38 of 2000, s. 3 (w.e.f. 4-9-2000).",
+            "1": "2. Ins. by s. 3, ibid. (w.e.f. 4-9-2000).",
+            "2": "3. Subs. by s. 4, ibid., for clauses (a) and (b) (w.e.f. 4-9-2000)."
+        },
+        "Page 6": {
+            "0": "1. Ins. by Act 38 of 2000, s. 5 (w.e.f. 4-9-2000)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 38 of 2000, s. 6 (w.e.f. 4-9-2000)."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 38 of 2000, s. 7, for \u201cperiod of thirty days\u201d (w.e.f. 4-9-2000)."
+        }
+    }
+}

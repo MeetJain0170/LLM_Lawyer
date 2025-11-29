@@ -1,0 +1,301 @@
+{
+    "Act Title": "THE NATIONAL SECURITY ACT, 1980",
+    "Act ID": "ACT NO. 65 OF 1980",
+    "Enactment Date": "[27th December, 1980.]",
+    "Act Definition": {
+        "0": "An Act to provide for preventive detention in certain cases and for matters connected therewith."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the National Security Act, 1980.",
+                "1": "(2) It extends to the whole of India 1***."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act, unless the context otherwise requires,\u2014",
+                    "contains": {
+                        "0": "(a) \u201cappropriate Government\u201d means, as respects a detention order made by the Central Government or a person detained under such order, the Central Government, and as respects a detention order made by a State Government or by an officer subordinate to a State Government or as respects a person detained under such order, the State Government;",
+                        "1": "(b) \u201cdetention order\u201d means an order made under section 3;",
+                        "2": "(c) \u201cforeigner\u201d has the same meaning as in the Foreigners Act, 1946 (31 of 1946);",
+                        "3": "(d) \u201cperson\u201d includes a foreigner;",
+                        "4": "(e) \u201cState Government\u201d, in relation to a Union territory, means the administrator thereof."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Power to make orders detaining certain persons.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) The Central Government or the State Government may,\u2014",
+                    "contains": {
+                        "0": "(a) if satisfied with respect to any person that with a view to preventing him from acting in any manner prejudicial to the defence of India, the relations of India with foreign powers, or the security of India, or",
+                        "1": "(b) if satisfied with respect to any foreigner that with a view to regulating his continued presence in India or with a view to making arrangements for his expulsion from India,"
+                    }
+                },
+                "1": {
+                    "text": "it is necessary so to do, make an order directing that such person be detained.",
+                    "contains": {
+                        "0": "(2) The Central Government or the State Government may, if satisfied with respect to any person that with a view to preventing him from acting in any manner prejudicial to the security of the State or from acting in any manner prejudicial to the maintenance of Public order or from acting in any manner prejudicial to the maintenance of supplies and services essential to the community it is necessary so to do, make an order directing that such person be detained.",
+                        "1": "Explanation.\u2014For the purposes of this sub-section, \u201cacting in any manner prejudicial to the maintenance of supplies and services essential to the community\u201d does not include \u201cacting in any manner prejudicial to the maintenance of supplies of commodities essential to the community\u201d as defined in the Explanation to sub-section (1) of section 3 of the Prevention of Black marketing and Maintenance of Supplies of Essential Commodities Act, 1980 (7 of 1980), and accordingly, no order of detention shall be made under this Act on any ground on which an order of detention may be made under that Act.",
+                        "2": "(3) If, having regard to the circumstances prevailing or likely to prevail in any area within the local limits of the jurisdiction of a District Magistrate or a Commissioner of Police, the State Government is satisfied that it is necessary so to do, it may, by order in writing, direct, that during such period as may be specified in the order, such District Magistrate or Commissioner of Police may also, if satisfied as provided in sub-section (2), exercise the powers conferred by the said sub-section:",
+                        "3": "Provided that the period specified in an order made by the State Government under this sub-section shall not, in the first instance, exceed three months, but the State Government may, if satisfied as aforesaid that it is necessary so to do, amend such order to extend such period from time to time by any period not exceeding three months at any one time.",
+                        "4": "(4) When any order is made under this section by an officer mentioned in sub-section (3), he shall forthwith report the fact to the State Government to which he is subordinate together with the grounds on which the order has been made and such other particulars as, in his opinion, have a bearing on the matter, and no such order shall remain in force for more than twelve days after the making thereof unless, in the meantime, it has been approved by the State Government:",
+                        "5": "Provided that where under section 8 the grounds of detention are communicated by the officer making the order after five days but not later than 1[fifteen days] from the date of detention, this sub-section shall apply subject to the modification that, for the words \u201ctwelve days\u201d, the words \u201c2[twenty days]\u201d shall be substituted.",
+                        "6": "(5) When any order is made or approved by the State Government under this section, the State Government shall, within seven days, report the fact to the Central Government together with the grounds on which the order has been made and such other particulars as, in the opinion of the State Government, have a bearing on the necessity for the order."
+                    }
+                }
+            }
+        },
+        "Section 4.": {
+            "heading": "Execution of detention orders.",
+            "paragraphs": {
+                "0": "A detention order may be executed at any place in India in the manner provided for the execution of warrants of arrest under the Code of Criminal Procedure, 1973 (2 of 1974)."
+            }
+        },
+        "Section 5.": {
+            "heading": "Power to regulate place and conditions of detention.",
+            "paragraphs": {
+                "0": {
+                    "text": "Every person in respect of whom a detention order has been made shall be liable\u2014",
+                    "contains": {
+                        "0": "(a) to be detained in such place and under such conditions, including conditions as to maintenance, discipline and punishment for breaches of discipline, as the appropriate Government may, by general or special order, specify; and",
+                        "1": "(b) to be removed from one place of detention to another place of detention, whether within the same State or in another State, by order of the appropriate Government:"
+                    }
+                },
+                "1": "Provided that no order shall be made by a State Government under clause (b) for the removal of a person from one State to another State except with the consent of the Government of that other State."
+            }
+        },
+        "Section 5A.": {
+            "heading": "Grounds of detention severable.",
+            "paragraphs": {
+                "0": {
+                    "text": "Where a person has been detained in pursuance of an order of detention [whether made before or after the commencement of the National Security (Second Amendment) Act, 1984 (60 of 1984)] under section 3 which has been made on two or more grounds, such order of detention shall be deemed to have been made separately on each of such grounds and accordingly\u2014",
+                    "contains": {
+                        "0": {
+                            "text": "(a) such order shall not be deemed to be invalid or inoperative merely because one or some of the grounds is or are\u2014",
+                            "contains": {
+                                "0": "(i) vague,",
+                                "1": "(ii) non-existent,",
+                                "2": "(iii) not relevant,",
+                                "3": "(iv) not connected or not proximately connected with such person, or",
+                                "4": "(v) invalid for any other reason whatsoever, and it is not, therefore, possible to hold that the Government or officer making such order would have been satisfied as provided in section 3 with reference to the remaining ground or grounds and made the order of detention;"
+                            }
+                        },
+                        "1": "(b) the Government or officer making the order of detention shall be deemed to have made the order of detention under the said section after being satisfied as provided in that section with reference to the remaining ground or grounds.]"
+                    }
+                }
+            }
+        },
+        "Section 6.": {
+            "heading": "Detention orders not to be invalid or inoperative on certain grounds.",
+            "paragraphs": {
+                "0": {
+                    "text": "No detention order shall be invalid or inoperative merely by reason\u2014",
+                    "contains": {
+                        "0": "(a) that the person to be detained thereunder is outside the limits of the territorial jurisdiction of the Government or officer making the order, or",
+                        "1": "(b) that the place of detention of such person is outside the said limits."
+                    }
+                }
+            }
+        },
+        "Section 7.": {
+            "heading": "Powers in relation to absconding persons.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) If the Central Government or the State Government or an officer mentioned in sub-section (3) of section 3, as the case may be, has reason to believe that a person in respect of whom a detention order has been made has absconded or is concealing himself so that the order cannot be executed, that Government or officer may\u2014",
+                    "contains": {
+                        "0": "(a) make a report in writing of the fact to a Metropolitan Magistrate or a Judicial Magistrate of the first class having jurisdiction in the place where the said person ordinarily resides;",
+                        "1": "(b) by order notified in the Official Gazette direct the said person to appear before such officer, at such place and within such period as may be specified in the order."
+                    }
+                },
+                "1": "(2) Upon the making of a report against any person under clause (a) of sub-section (1), the provisions of sections 82, 83, 84 and 85 of the Code of Criminal Procedure, 1973 (2 of 1974), shall apply in respect of such person and his property as if the detention order made against him were a warrant issued by the Magistrate.",
+                "2": "(3) If any person fails to comply with an order issued under clause (b) of sub-section (1), he shall, unless he proves that it was not possible for him to comply therewith and that he had, within the period specified in the order, informed the officer mentioned in the order of the reason which rendered compliance therewith impossible and of his whereabouts, be punishable with imprisonment for a term which may extend to one year, or with fine, or with both.",
+                "3": "(4) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), every offence under sub-section (3) shall be cognizable."
+            }
+        },
+        "Section 8.": {
+            "heading": "Grounds of order of detention to be disclosed to persons affected by the order.",
+            "paragraphs": {
+                "0": "(1) When a person is detained in pursuance of a detention order, the authority making the order shall, as soon as may be, but ordinarily not later than five days and in exceptional circumstances and for reasons to be recorded in writing, not later than 1[fifteen days] from the date of detention, communicate to him the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order to the appropriate Government.",
+                "1": "(2) Nothing in sub-section (1) shall require the authority to disclose facts which it considers to be against the public interest to disclose."
+            }
+        },
+        "Section 9.": {
+            "heading": "Constitution of Advisory Boards.",
+            "paragraphs": {
+                "0": "(1) The Central Government and each State Government shall, whenever necessary, constitute one or more Advisory Boards for the purposes of this Act.",
+                "1": "(2) Every such Board shall consist of three persons who are, or have been, or are qualified to be appointed as, Judges of a High Court, and such persons shall be appointed by the appropriate Government.",
+                "2": "(3) The appropriate Government shall appoint one of the members of the Advisory Board who is, or has been, a Judge of a High Court to be its Chairman, and in the case of a Union territory, the appointment to the Advisory Board of any person who is a Judge of the High Court of a State shall be with the previous approval of the State Government concerned."
+            }
+        },
+        "Section 10.": {
+            "heading": "Reference to Advisory Boards.",
+            "paragraphs": {
+                "0": "Save as otherwise expressly provided in this Act, in every case where a detention order has been made under this Act, the appropriate Government shall, within three weeks from the date of detention of a person under the order, place before the Advisory Board constituted by it under section 9, the grounds on which the order has been made and the representation, if any, made by the person affected by the order, and in case where the order has been made by an officer mentioned in sub-section (3) of section 3, also the report by such officer under sub-section (4) of that section."
+            }
+        },
+        "Section 11.": {
+            "heading": "Procedure of Advisory Boards.",
+            "paragraphs": {
+                "0": "(1) The Advisory Board shall, after considering the materials placed before it and, after calling for such further information as it may deem necessary from the appropriate Government or from any person called for the purpose through the appropriate Government or from the person concerned, and if, in any particular case, it considers it essential so to do or if the person concerned desires to be heard, after hearing him in person, submit its report to the appropriate Government within seven weeks from the date of detention of the person concerned.",
+                "1": "(2) The report of the Advisory Board shall specify in a separate part thereof the opinion of the Advisory Board as to whether or not there is sufficient cause for the detention of the person concerned.",
+                "2": "(3) When there is a difference of opinion among the members forming the Advisory Board, the opinion of the majority of such members shall be deemed to be the opinion of the Board.",
+                "3": "(4) Nothing in this section shall entitle any person against whom a detention order has been made to appear by any legal practitioner in any matter connected with the reference to the Advisory Board; and the proceedings of the Advisory Board and its report, excepting that part of the report in which the opinion of the Advisory Board is specified, shall be confidential."
+            }
+        },
+        "Section 12.": {
+            "heading": "Action upon the report of the Advisory Board.",
+            "paragraphs": {
+                "0": "(1) In any case where the Advisory Board has reported that there is, in its opinion, sufficient cause for the detention of a person, the appropriate Government may confirm the detention order and continue the detention of the person concerned for such period as it thinks fit.",
+                "1": "(2) In any case where the Advisory Board has reported that there is, in its opinion, no sufficient cause for the detention of a person, the appropriate Government shall revoke the detention order and cause the person concerned to be released forthwith."
+            }
+        },
+        "Section 13.": {
+            "heading": "Maximum period of detention.",
+            "paragraphs": {
+                "0": "The maximum period for which any person may be detained in pursuance of any detention order which has been confirmed under section 12 shall be twelve months from the date of detention:",
+                "1": "Provided that nothing contained in this section shall affect the power of the appropriate Government to revoke or modify the detention order at any earlier time."
+            }
+        },
+        "Section 14.": {
+            "heading": "Revocation of detention orders.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Without prejudice to the provisions of section 21 of the General Clauses Act, 1897 (10 of 1897), a detention order may, at any time, be revoked or modified,\u2014",
+                    "contains": {
+                        "0": "(a) notwithstanding that the order has been made by an officer mentioned in sub-section (3) of section 3, by the State Government to which that officer is subordinate or by the Central Government;",
+                        "1": "(b) notwithstanding that the order has been made by a State Government, by the Central Government."
+                    }
+                },
+                "1": "1[(2) The expiry or revocation of a detention order (hereafter in this sub-section referred to as the earlier detention order) shall not [whether such earlier detention order has been made before or after the commencement of the National Security (Second Amendment) Act, 1984 (60 of 1984)] bar the making of another detention order (hereafter in this sub-section referred to as the subsequent detention order) under section 3 against the same person:",
+                "2": "Provided that in a case where no fresh facts have arisen after the expiry or revocation of the earlier detention order made against such person, the maximum period for which such person may be detained in pursuance of the subsequent detention order shall, in no case, extend beyond the expiry of a period of twelve months from the date of detention under the earlier detention order.]"
+            }
+        },
+        "Section 14A.": {
+            "heading": "Circumstances in which persons may be detained for periods longer than three months without obtaining the opinion of Advisory Boards.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Nothwithstanding anything contained in the foregoing provisions of this Act, or in any judgment, decree or order of any court or other authority, any person in respect of whom an order of detention has been made under this Act at any time before the2[8th day of June, 1989] may be detained without obtaining the opinion of the Advisory Board for a period longer than three months, but not exceeding six months, from the date of his detention where such person had been detained with a view to preventing him, in any disturbed area\u2014",
+                    "contains": {
+                        "0": "(i) from interfering with the efforts of Government in coping with the terrorist and disruptive activities; and",
+                        "1": {
+                            "text": "(ii) from acting in any manner prejudicial to\u2014",
+                            "contains": {
+                                "0": "(a) the defence of India; or",
+                                "1": "(b) the security of India; or",
+                                "2": "(c) the security of the State; or",
+                                "3": "(d) the maintenance of public order; or",
+                                "4": "(e) the maintenance of supplies and services essential to the community."
+                            }
+                        }
+                    }
+                },
+                "1": "Explanation 1.\u2014The provisions of the Explanation to sub-section (2) of section 3 shall apply for the purposes of this sub-section as they apply for the purposes of that sub-section.",
+                "2": "Explanation 2.\u2014In this sub-section, \u201cdisturbed area\u201d means any area which is for the time being declared by notification under section 3 of the Punjab Disturbed Areas Act, 1983 (32 of 1983), or under section 3 of the Chandigarh Disturbed Areas Act, 1983 (33 of 1983), to be a disturbed area.",
+                "3": "Explanation 3.\u2014In this sub-section, \u201cterrorist and disruptive activities\u201d means \u201cterrorist acts\u201d and \u201cdisruptive activities\u201d within the meaning of the Terrorist and Disruptive Activities (Prevention) Ordinance, 1987 (Ord. 2 of 1987).",
+                "4": {
+                    "text": "(2) In the case of any person to whom sub-section (1) applies, sections 3, 8 and 10 to 14 shall have effect subject to the following modifications, namely:\u2014",
+                    "contains": {
+                        "0": {
+                            "text": "(a) in section 3,\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(i) in sub-section (4), in the proviso,\u2014",
+                                    "contains": {
+                                        "0": "(A) for the words \u201cten days\u201d, the words \u201cfifteen days\u201d shall be substituted;",
+                                        "1": "(B) for the words \u201cfifteen days\u201d the words \u201ctwenty days\u201d shall be substituted;"
+                                    }
+                                },
+                                "1": "(ii) in sub-section (5), for the words \u201cseven days\u201d, the words \u201cfifteen days\u201d shall be substituted;"
+                            }
+                        },
+                        "1": "(b) in section 8, in sub-section (1), for the words \u201cten days\u201d, the words \u201cfifteen days\u201d shall be substituted;",
+                        "2": "(c) in section 10, for the words \u201cshall, within three weeks\u201d, the words \u201cshall, within four months and two weeks\u201d shall be substituted;",
+                        "3": {
+                            "text": "(d) in section 11,\u2014",
+                            "contains": {
+                                "0": "(i) in sub-section (1), for the words \u201cseven weeks\u201d, the words \u201cfive months and three weeks\u201d shall be substituted;",
+                                "1": "(ii) in sub-section (2), for the words \u201cdetention of the person concerned\u201d, the words \u201ccontinued detention of the person concerned\u201d shall be substituted;"
+                            }
+                        },
+                        "4": "(e) in section 12, for the words \u201cfor the detention\u201d, at both the places where they occur, the words \u201cfor the continued detention\u201d shall be substituted;",
+                        "5": "(f) in section 13, for the words \u201ctwelve months\u201d, the words \u201ctwo years\u201d shall be substituted:",
+                        "6": "(g) in section 14, in the proviso to sub-section (2), for the words \u201ctwelve months\u201d the words \u201ctwo years\u201d shall be substituted.]"
+                    }
+                }
+            }
+        },
+        "Section 15.": {
+            "heading": "Temporary release of persons detained.",
+            "paragraphs": {
+                "0": "(1) The appropriate Government may, at any time, direct that any person detained in pursuance of a detention order may be released for any specified period either without conditions or upon such conditions specified in the direction as that person accepts, and may, at any time, cancel his release.",
+                "1": "(2) In directing the release of any person under sub-section (1), the appropriate Government may require him to enter into a bond with or without sureties for the due observance of the conditions specified in the direction.",
+                "2": "(3) Any person released under sub-section (1) shall surrender himself at the time and place, and to the authority, specified in the order directing his release or cancelling his release, as the case may be.",
+                "3": "(4) If any person fails without sufficient cause to surrender himself in the manner specified in sub-section (3), he shall be punishable with imprisonment for a term which may extend to two years, or with fine, or with both.",
+                "4": "(5) If any person released under sub-section (1) fails to fulfil any of the conditions imposed upon him under the said sub-section or in the bond entered into by him, the bond shall be declared to be forfeited and any person bound thereby shall be liable to pay the penalty thereof."
+            }
+        },
+        "Section 16.": {
+            "heading": "Protection of action taken in good faith.",
+            "paragraphs": {
+                "0": "No suit or other legal proceeding shall lie against the Central Government or a State Government, and no suit, prosecution or other legal proceeding shall lie against any person, for anything in good faith done or intended to be done in pursuance of this Act."
+            }
+        },
+        "Section 17.": {
+            "heading": "Act not to have effect with respect to detentions under State laws.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Nothing in this Act shall apply or have any effect with respect to orders of detention, made under any State law, which are in force immediately before the commencement of the National Security Ordinance, 1980 (11 of 1980), and accordingly every person in respect of whom an order of detention made under any State law is in force immediately before such commencement, shall be governed with respect to such detention by the provisions of such State law or where the State law under which such order of detention is made is an Ordinance (hereinafter referred to as the State Ordinance) promulgated by the Governor of that State and the State Ordinance has been replaced\u2014",
+                    "contains": {
+                        "0": "(i) before such commencement, by an enactment passed by the Legislature of that State, by such enactment; or",
+                        "1": "(ii) after such commencement, by an enactment which is passed by the Legislature of that State and the application of which is confined to orders of detention made before such commencement under the State Ordinance, by such enactment,"
+                    }
+                },
+                "1": {
+                    "text": "as if this Act had not been enacted.",
+                    "contains": {
+                        "0": "(2) Nothing in this section shall be deemed to bar the making under section 3, of a detention order against any person referred to in sub-section (1) after the detention order in force in respect of him as aforesaid immediately before the commencement of the National Security Ordinance, 1980 (11 of 1980), ceases to have effect for any reason whatsoever.",
+                        "1": "Explanation.\u2014For the purposes of this section, \u201cState law\u201d means any law providing for preventive detention on all or any of the grounds on which an order of detention may be made under sub-section (2) of section 3 and in force in any State immediately before the commencement of the said Ordinance."
+                    }
+                }
+            }
+        },
+        "Section 18.": {
+            "heading": "Repeal and saving.",
+            "paragraphs": {
+                "0": "(1) The National Security Ordinance, 1980 (11 of 1980), is hereby repealed.",
+                "1": "(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act, as if this Act had come into force on the 23rd day of September, 1980, and, in particular, any reference made under section 10 of the said Ordinance and pending before any Advisory Board immediately before the date on which this Act receives the assent of the President may continue to be dealt with by that Board after that date as if such Board had been constituted under section 9 of this Act."
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-2019)."
+        },
+        "Page 3": {
+            "0": "1. Subs. by Act 24 of 1984, s. 3, for \u201cten days\u201d (w.e.f. 5-4-1984).",
+            "1": "2. Subs. by s. 3, ibid., for \u201cfifteen days\u201d (w.e.f. 5-4-1984).",
+            "2": "3. Ins. by Act 60 of 1984, s. 2 (w.e.f. 21-6-1984)."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 24 of 1984, s. 4, for \u201cten days\u201d (w.e.f. 5-4-1984)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 60 of 1984, s. 3, for sub-section (2) (w.e.f. 21-6-1984)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 27 of 1987, s. 3 (w.e.f. 9-6-1987) earlier section 14A was inserted vide the National Security (Amendment) Act,1984 (24 of 1984), s. 5 and subsequently the said section was repealed by the National Security (Amendment) Act, 1987 (27 of1987), s. 4.",
+            "1": "2. Subs. by Act 43 of 1988, s. 2, for \u201c8th day of June, 1988\u201d (w.e.f. 26-5-1988)."
+        }
+    }
+}

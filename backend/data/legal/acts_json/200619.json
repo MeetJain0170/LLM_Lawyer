@@ -1,0 +1,965 @@
+{
+    "Act Title": "THE PETROLEUM AND NATURAL GAS REGULATORY BOARD ACT, 2006",
+    "Act ID": "ACT NO. 19 OF 2006",
+    "Enactment Date": "[31st March, 2006.]",
+    "Act Definition": {
+        "0": "An Act to provide for the establishment of Petroleum and Natural Gas Regulatory Board to regulate the refining, processing, storage, transportation, distribution, marketing and sale of petroleum, petroleum products and natural gas excluding production of crude oil and natural gas so as to protect the interests of consumers and entities engaged in specified activities relating to petroleum, petroleum products and natural gas and to ensure uninterrupted and adequate supply of petroleum, petroleum products and natural gas in all parts of the country and to promote competitive markets and for matters connected therewith or incidental thereto."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent, commencement and application.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Petroleum and Natural Gas Regulatory Board Act, 2006.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint:",
+                        "3": "Provided that different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.",
+                        "4": "(4) It applies to refining, processing, storage, transportation, distribution, marketing and sale of petroleum, petroleum products and natural gas excluding production of crude oil and natural gas."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201caffiliate code of conduct\u201d means the code of conduct governing entities engaged in storage, transmission, distribution, marketing and sale of natural gas under sub-section (1) of section 21;",
+                                "1": "(b) \u201cAppellate Tribunal\u201d means the Appellate Tribunal referred to in section 30;",
+                                "2": "(c) \u201cappointed day\u201d means the date on which the Board is established under sub-section (1) of section 3;",
+                                "3": {
+                                    "text": "(d) \u201cauthorised entity\u201d means an entity\u2014",
+                                    "contains": {
+                                        "0": {
+                                            "text": "(A) registered by the Board under section 15\u2014",
+                                            "contains": {
+                                                "0": "(i) to market any notified petroleum, petroleum products or natural gas, or",
+                                                "1": "(ii) to establish and operate liquefied natural gas terminals, or"
+                                            }
+                                        },
+                                        "1": {
+                                            "text": "(B) authorised by the Board under section 16\u2014",
+                                            "contains": {
+                                                "0": "(i) to lay, build, operate or expand a common carrier or contract carrier, or",
+                                                "1": "(ii) to lay, build, operate or expand a city or local natural gas distribution network;"
+                                            }
+                                        }
+                                    }
+                                },
+                                "4": "(e) \u201cauto liquefied petroleum gas\u201d means a mixture of certain light hydrocarbons derived from petroleum, which are gaseous at normal ambient temperature and atmospheric pressure but may be condensed to the liquid state at normal ambient temperature by the application of moderate pressure, and which conform to such specifications for use as fuel in vehicles, as the Central Government may, in consultation with the Bureau of Indian Standards, notify from time to time;",
+                                "5": "(f) \u201e\u201eBoard\u201d means the Petroleum and Natural Gas Regulatory Board established under sub- section (1) of section 3;",
+                                "6": "(g) \u201cBureau of Indian Standards\u201d means the Bureau of Indian Standards established under section 3 of the Bureau of Indian Standards Act, 1986 (63 of 1986);",
+                                "7": "(h) \u201cChairperson\u201d means the Chairperson of the Board appointed under sub-section (1) of section 4;",
+                                "8": "(i) \u201ccity or local natural gas distribution network\u201d means an inter-connected network of gas pipelines and the associated equipment used for transporting natural gas from a bulk supply high pressure transmission main to the medium pressure distribution grid and subsequently to the service pipes supplying natural gas to domestic, industrial or commercial premises and CNG stations situated in a specified geographical area.",
+                                "9": "Explanation.\u2014For the purposes of this clause, the expressions \u201chigh pressure\u201d and \u201cmedium pressure\u201d shall mean such pressure as the Central Government may, by notification, specify to be high pressure or, as the case may be, medium pressure;",
+                                "10": {
+                                    "text": "(j) \u201ccommon carrier\u201d means such pipelines for transportation of petroleum, petroleum products and natural gas by more than one entity as the Board may declare or authorise from time to time on a non-discriminatory open access basis under sub-section (3) of section 20, but does not include pipelines laid to supply\u2014",
+                                    "contains": {
+                                        "0": "(i) petroleum products or natural gas to a specific consumer; or",
+                                        "1": "(ii) crude oil;"
+                                    }
+                                },
+                                "11": {
+                                    "text": "Explanation.\u2014For the purposes of this clause, a contract carrier shall be treated as a common carrier, if\u2014",
+                                    "contains": {
+                                        "0": "(i) such contract carrier has surplus capacity over and above the firm contracts entered into; or",
+                                        "1": "(ii) the firm contract period has expired."
+                                    }
+                                },
+                                "12": "(k) \u201cCNG station\u201d means filling station where one or more dispensing units are provided for sale of compressed natural gas;",
+                                "13": "(l) \u201ccompressed natural gas or CNG\u201d means natural gas used as fuel for vehicles, typically compressed to the pressure ranging from 200 to 250 bars in the gaseous state;",
+                                "14": "(m) \u201ccontract carrier\u201d means such pipelines for transportation of petroleum, petroleum products and natural gas by more than one entity pursuant to firm contracts for at least one year as may be declared or authorised by the Board from time to time under sub-section (3) of section 20;",
+                                "15": "(n) \u201cdealer\u201d means a person, association of persons, firm, company or co-operative society, by whatsoever name called or referred to, and appointed by an oil company to purchase, receive, store and sell motor spirit, high speed diesel, superior kerosene oil, auto liquefied petroleum gas or natural gas;",
+                                "16": "(o) \u201cdistributor\u201d means a person, association of persons, firm, company or co-operative society, by whatsoever name called or referred to, and appointed by an oil company to purchase, receive, store and sell to consumers liquefied petroleum gas in cylinders;",
+                                "17": "(p) \u201centity\u201d means a person, association of persons, firm, company or co-operative society, by whatsoever name called or referred to, other than a dealer or distributor, and engaged or intending to be engaged in refining, processing, storage, transportation, distribution, marketing, import and export of petroleum, petroleum products and natural gas including laying of pipelines for transportation of petroleum, petroleum products and natural gas, or laying, building, operating or expanding city or local natural gas distribution network or establishing and operating a liquefied natural gas terminal;",
+                                "18": "(q) \u201cexchange of products\u201d shall mean giving and receiving of a petroleum product in accordance with an agreement entered into by the concerned entities;",
+                                "19": "(r) \u201chigh speed diesel\u201d means any hydrocarbon oil (excluding mineral colza oil and turpentine substitute), which conforms to such specifications for use as fuel in compression ignition engines, as the Central Government may, in consultation with the Bureau of Indian Standards, notify from time to time;",
+                                "20": "(s) \u201ckerosene or superior kerosene oil\u201d means a middle distillate mixture of hydrocarbons which conforms to such specifications, as the Central Government may, in consultation with the Bureau of Indian Standards, notify from time to time;",
+                                "21": {
+                                    "text": "(t) \u201cliquefied natural gas terminal\u201d means the facilities and infrastructure required to\u2014",
+                                    "contains": {
+                                        "0": "(i) receive liquefied natural gas;",
+                                        "1": "(ii) store liquefied natural gas;",
+                                        "2": "(iii) enable regasification of liquefied natural gas; and",
+                                        "3": "(iv) transport regasified liquefied natural gas till the outside boundaries of the facility;"
+                                    }
+                                },
+                                "22": "(u) \u201cliquefied petroleum gas\u201d means a mixture of light hydrocarbons containing propane, isobutene, normal butane, butylenes, or such other substance which is gaseous at normal ambient temperature and atmospheric pressure but may be condensed to liquid state at normal ambient temperature by the application of pressure and conforms to such specifications, as the Central Government may, in consultation with the Bureau of Indian Standards, notify from time to time;",
+                                "23": "(v) \u201clocal distribution entity\u201d means an entity authorised by the Board under section 20 to lay, build, operate or expand a city or local natural gas distribution network;",
+                                "24": {
+                                    "text": "(w) \u201cmarketing service obligations\u201d means obligations\u2014",
+                                    "contains": {
+                                        "0": "(i) to set up marketing infrastructure and retail outlets in remote areas in respect of notified petroleum and petroleum products;",
+                                        "1": "(ii) to maintain minimum stock of notified petroleum and petroleum products;",
+                                        "2": "(iii) of a local distribution entity to supply natural gas to consumers; and",
+                                        "3": "(iv) such other obligations as may be specified by regulations;"
+                                    }
+                                },
+                                "25": "(x) \u201cmaximum retail price\u201d means the maximum price fixed by an entity at which the petroleum, petroleum products and natural gas may be sold to the retail consumers and includes all taxes, cess and levies, local or otherwise and freight or commission payable to the dealers;",
+                                "26": "(y) \u201cmember\u201d means a member of the Board appointed under sub-section (1) of section 4 and includes the Member (Legal) and the Chairperson;",
+                                "27": "(z) \u201cmotor spirit\u201d means any hydrocarbon oil (excluding crude mineral oil) used as fuel in spark ignition engines which conforms to such specifications, as the Central Government may, in consultation with the Bureau of Indian Standards, notify from time to time;",
+                                "28": {
+                                    "text": "(za) \u201cnatural gas\u201d means gas obtained from bore-holes and consisting primarily of hydrocarbons and includes\u2014",
+                                    "contains": {
+                                        "0": "(i) gas in liquid state, namely, liquefied natural gas and regasified liquefied natural gas,",
+                                        "1": "(ii) compressed natural gas,",
+                                        "2": "(iii) gas imported through transnational pipelines, including CNG or liquefied natural gas,",
+                                        "3": "(iv) gas recovered from gas hydrates as natural gas,",
+                                        "4": "(v) methane obtained from coal seams, namely, coal bed methane,"
+                                    }
+                                }
+                            }
+                        },
+                        "1": {
+                            "text": "but does not include helium occurring in association with such hydrocarbons;",
+                            "contains": {
+                                "0": "(zb) \u201cnotification\u201d means a notification published in the Official Gazette and the expression \u201cnotified\u201d with its cognate meanings and grammatical variations, shall be construed accordingly;",
+                                "1": "(zc) \u201cnotified petroleum, petroleum products and natural gas\u201d means such petroleum, petroleum products and natural gas as the Central Government may notify from time to time, after being satisfied that it is necessary or expedient so to do for maintaining or increasing their supplies or for securing their equitable distribution or ensuring adequate availability;",
+                                "2": "(zd) \u201coil company\u201d means a company registered under the Companies Act, 1956 (1 of 1956) and includes an association of persons, society or firm, by whatsoever name called or referred to, for carrying out an activity relating to petroleum, petroleum products and natural gas;",
+                                "3": "(ze) \u201cpetroleum\u201d means any liquid hydrocarbon or mixture of hydrocarbons, and any inflammable mixture (liquid, viscous or solid) containing any liquid hydrocarbon, including crude oil and liquefied petroleum gas, and the expression \u201epetroleum product\u201f shall mean any product manufactured from petroleum;",
+                                "4": "(zf) \u201cpipeline access code\u201d means the code to establish a framework for third party access to pipelines under sub-clause (i) of clause (e) of section 11;",
+                                "5": "(zg) \u201cprescribed\u201d means prescribed by rules made by the Central Government under this Act;",
+                                "6": "(zh) \u201cregulations\u201d means regulations made by the Board under this Act;",
+                                "7": {
+                                    "text": "(zi) \u201crestrictive trade practice\u201d means a trade practice which has, or may have, the effect of preventing, distorting or restricting competition in any manner and in particular,\u2014",
+                                    "contains": {
+                                        "0": "(i) which tends to obstruct the flow of capital or resources into the stream of production, or",
+                                        "1": "(ii) which tends to bring about manipulation of prices, or conditions of delivery or to affect the flow of supplies in the market relating to petroleum, petroleum products or natural gas or services in such manner as to impose on the consumers unjustified costs or restrictions;"
+                                    }
+                                },
+                                "8": "(zj) \u201cretail outlet\u201d means filling station where one or more dispensing pumps have been provided for sale of motor spirit, high speed diesel, auto-liquefied petroleum gas or natural gas and includes distributorship for liquefied petroleum gas or dealership for superior kerosene oil or CNG stations;",
+                                "9": "(zk) \u201cretail service obligations\u201d means obligations of dealers and distributors for maintaining supplies to consumers throughout the specified working hours and of specified quality, quantity and display of maximum retail price of notified petroleum, petroleum products and natural gas including CNG and such other obligations, as may be specified by regulations;",
+                                "10": "(zl) \u201crules\u201d means rules made by the Central Government under this Act;",
+                                "11": "(zm) \u201cSecretary\u201d means the Secretary of the Board;",
+                                "12": "(zn) \u201ctransportation rate\u201d, in relation to common carrier or contract carrier or a city or local natural gas distribution network, means such rate for moving each unit of petroleum, petroleum products or natural gas as may be fixed by regulations."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "PETROLEUM AND NATURAL GAS REGULATORY BOARD",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Establishment and incorporation of the Board.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification, appoint, there shall be established, for the purposes of this Act, a Board to be called the Petroleum and Natural Gas Regulatory Board.",
+                        "1": "(2) The Board shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power, subject to the provisions of this Act, to acquire, hold and dispose of property, both movable and immovable, and to contract, and shall, by the said name, sue or be sued.",
+                        "2": "(3) The Board shall consist of a Chairperson, a Member (Legal) and three other members to be appointed by the Central Government.",
+                        "3": "(4) The head office of the Board shall be at New Delhi and regional offices at such places as the Board may deem necessary having regard to public interest and magnitude of the work."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Qualifications for appointment of Chairperson and other members.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall appoint the Chairperson and other members of the Board from amongst persons of eminence in the fields of petroleum and natural gas industry, management, finance, law, administration or consumer affairs:",
+                        "1": {
+                            "text": "Provided that no person shall be appointed as Member (Legal) unless he\u2014",
+                            "contains": {
+                                "0": "(a) is qualified to be a Judge of a High Court; or",
+                                "1": "(b) has been a member of the Indian Legal Service and has held a post in Grade I of that Service for at least three years."
+                            }
+                        },
+                        "2": {
+                            "text": "(2) The Central Government shall, for the purposes of selecting the Chairperson and other members of the Board and for preparing a panel of persons to be considered for appointment as the Technical Member (Petroleum and Natural Gas) of the Appellate Tribunal, constitute a Search Committee consisting of\u2014",
+                            "contains": {
+                                "0": "(i) Member, Planning Commission in charge of the energy sector-Chairperson;",
+                                "1": "(ii) Secretary to the Government of India, Ministry of Petroleum and Natural Gas-Member;",
+                                "2": "(iii) Secretary to the Government of India, Ministry of Finance, Department of Economic Affairs- Member;",
+                                "3": "(iv) Secretary to the Government of India in charge of Commerce, Ministry of Commerce and Industry-Member; and",
+                                "4": "(v) Secretary to the Government of India, Department of Legal Affairs, Ministry of Law and Justice-Member."
+                            }
+                        }
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Term of office, conditions of service, etc., of Chairperson and other members.",
+                    "paragraphs": {
+                        "0": "(1) Before appointing any person as the Chairperson or other member, the Central Government shall satisfy itself that such person does not have any financial or other interest which is likely to affect prejudicially his functions as Chairperson or such other member.",
+                        "1": "(2) The Chairperson and other members shall hold office for a term of five years from the date on which they enter upon their offices or until they attain the age of sixty-five years, whichever is earlier:",
+                        "2": "Provided that the Chairperson and other members shall not be eligible for re-appointment.",
+                        "3": "Explanation.\u2014For the purposes of this section, appointment of a member as Chairperson shall not be deemed to be re-appointment.",
+                        "4": "(3) A person in the service of the Central Government, a State Government or an undertaking, corporation or company owned or controlled by the Central Government or a State Government or from any other non-Governmental or corporate body shall resign or retire from such service before joining as the Chairperson or other member, as the case may be.",
+                        "5": "(4) The salaries and allowances payable to and the other terms and conditions of service of the Chairperson and the other members shall be such as may be prescribed:",
+                        "6": "Provided that neither the salary and allowances nor the other terms and conditions of service of the Chairperson or any other member shall be varied to his disadvantage after appointment.",
+                        "7": "(5) The Chairperson or other member may resign his office by giving notice thereof in writing to the Central Government and on such resignation being accepted, the Chairperson or such other member shall be deemed to have vacated his office.",
+                        "8": {
+                            "text": "(6) The Chairperson or any other member, upon ceasing to hold office as such, shall\u2014",
+                            "contains": {
+                                "0": "(a) be ineligible for further employment under the Central Government or any State Government; and",
+                                "1": "(b) not accept any commercial employment for a period of two years from the date he ceases to hold such office."
+                            }
+                        },
+                        "9": "Explanation.\u2014For the purposes of this section, \u201ccommercial employment\u201d means employment in any capacity under, or agency of, a person engaged in trading, commercial, industrial or financial business in any field and includes also a director of a company or partner of a firm or setting up practice either independently or as partner of a firm or as an advisor or a consultant."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Powers of Chairperson.",
+                    "paragraphs": {
+                        "0": "The Chairperson shall have the powers of general superintendence and directions in the conduct of the affairs of the Board and shall, in addition to presiding over the meetings of the Board, exercise and discharge such other powers and functions of the Board, as may be assigned to him by the Board."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Removal of Chairperson or any other member from office.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Central Government may remove from office the Chairperson or any other member, who\u2014",
+                            "contains": {
+                                "0": "(a) has been adjudged as insolvent; or",
+                                "1": "(b) has been convicted of an offence which, in the opinion of the Central Government, involves moral turpitude; or",
+                                "2": "(c) has become physically or mentally incapable of acting as a member; or",
+                                "3": "(d) has acquired such financial or other interest as is likely to affect prejudicially his functions as a member; or",
+                                "4": "(e) has so abused his position as to render his continuance in office prejudicial to the public interest:"
+                            }
+                        },
+                        "1": "Provided that no Chairperson or other member shall be removed from office under clause (d) or clause (e) unless the Central Government, after holding an inquiry by any person appointed or authority constituted for the purpose and in accordance with such procedure as may be prescribed in this behalf, is satisfied that such person ought on such ground or grounds to be removed."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Meetings of the Board.",
+                    "paragraphs": {
+                        "0": "(1) The Board shall meet at such times and places, and shall observe such procedure in regard to the transaction of business at its meetings (including the quorum at such meetings) as may be provided by regulations.",
+                        "1": "(2) The Chairperson or, if he is unable to attend a meeting of the Board, the senior-most member present, reckoned from the date of appointment to the Board, shall preside at the meeting:",
+                        "2": "Provided that in case of common date of appointment of members, the member senior in age shall be considered as senior to the other members.",
+                        "3": "(3) All questions which come up before any meeting of the Board shall be decided by a majority of the members present and voting, and in the event of an equality of votes, the Chairperson or in his absence, the person presiding shall have a second or casting vote.",
+                        "4": "(4) All orders and decisions of the Board shall be authenticated by the Secretary or any other officer of the Board duly authorised by the Chairperson in this behalf."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Vacancies, etc., not to invalidate proceedings of the Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No act or proceeding of the Board shall be invalid merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or any defect in the constitution of, the Board; or",
+                                "1": "(b) any defect in the appointment of a person acting as a member of the Board; or",
+                                "2": "(c) any irregularity in the procedure of the Board not affecting the merits of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Officers and other employees of the Board.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, in consultation with the Board, appoint a Secretary to exercise and perform such powers and duties, under the control of the Chairperson as may be specified by regulations:",
+                        "1": "Provided that no such consultation shall be necessary for appointment of the first Secretary of the Board.",
+                        "2": "(2) The Board may, with the approval of the Central Government, determine the number, nature and categories of other officers and employees required to assist the Board in the efficient discharge of its functions.",
+                        "3": "(3) The salaries and allowances payable to and the other terms and conditions of service of the Secretary, the other officers and employees of the Board shall be such as may be prescribed.",
+                        "4": "(4) The Board may appoint consultants required to assist in the discharge of its functions on such terms and conditions as may be determined by regulations."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "FUNCTIONS AND POWERS OF THE BOARD",
+            "Sections": {
+                "Section 11.": {
+                    "heading": "Functions of the Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Board shall\u2014",
+                            "contains": {
+                                "0": "(a) protect the interest of consumers by fostering fair trade and competition amongst the entities;",
+                                "1": {
+                                    "text": "(b) register entities to\u2014",
+                                    "contains": {
+                                        "0": "(i) market notified petroleum and petroleum products and, subject to the contractual obligations of the Central Government, natural gas;",
+                                        "1": "(ii) establish and operate liquefied natural gas terminals;",
+                                        "2": "(iii) establish storage facilities for petroleum, petroleum products or natural gas exceeding such capacity as may be specified by regulations;"
+                                    }
+                                },
+                                "2": {
+                                    "text": "(c) authorise entities to\u2014",
+                                    "contains": {
+                                        "0": "(i) lay, build, operate or expand a common carrier or contract carrier;",
+                                        "1": "(ii) lay, build, operate or expand city or local natural gas distribution network;"
+                                    }
+                                },
+                                "3": "(d) declare pipelines as common carrier or contract carrier;",
+                                "4": {
+                                    "text": "(e) regulate, by regulations,\u2014",
+                                    "contains": {
+                                        "0": "(i) access to common carrier or contract carrier so as to ensure fair trade and competition amongst entities and for that purpose specify pipeline access code;",
+                                        "1": "(ii) transportation rates for common carrier or contract carrier;",
+                                        "2": "(iii) access to city or local natural gas distribution network so as to ensure fair trade and competition amongst entities as per pipeline access code;"
+                                    }
+                                },
+                                "5": {
+                                    "text": "(f) in respect of notified petroleum, petroleum products and natural gas\u2014",
+                                    "contains": {
+                                        "0": "(i) ensure adequate availability;",
+                                        "1": "(ii) ensure display of information about the maximum retail prices fixed by the entity for consumers at retail outlets;",
+                                        "2": "(iii) monitor prices and take corrective measures to prevent restrictive trade practice by the entities;",
+                                        "3": "(iv) secure equitable distribution for petroleum and petroleum products;",
+                                        "4": "(v) provide, by regulations, and enforce, retail service obligations for retail outlets and marketing service obligations for entities;",
+                                        "5": "(vi) monitor transportation rates and take corrective action to prevent restrictive trade practice by the entities;"
+                                    }
+                                },
+                                "6": "(g) levy fees and other charges as determined by regulations;",
+                                "7": "(h) maintain a data bank of information on activities relating to petroleum, petroleum products and natural gas;",
+                                "8": "(i) lay down, by regulations, the technical standards and specifications including safety standards in activities relating to petroleum, petroleum products and natural gas, including the construction and operation of pipeline and infrastructure projects related to downstream petroleum and natural gas sector;",
+                                "9": "(j) perform such other functions as may be entrusted to it by the Central Government to carry out the provisions of this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Powers regarding complaints and resolution of disputes by the Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Board shall have jurisdiction to\u2014",
+                            "contains": {
+                                "0": "(a) adjudicate upon and decide any dispute or matter arising amongst entities or between an entity and any other person on issues relating to refining, processing, storage, transportation, distribution, marketing and sale of petroleum, petroleum products and natural gas according to the provisions of Chapter V, unless the parties have agreed for arbitration;",
+                                "1": {
+                                    "text": "(b) receive any complaint from any person and conduct any inquiry and investigation connected with the activities relating to petroleum, petroleum products and natural gas on contravention of\u2014",
+                                    "contains": {
+                                        "0": "(i) retail service obligations;",
+                                        "1": "(ii) marketing service obligations;",
+                                        "2": "(iii) display of retail price at retail outlets;",
+                                        "3": "(iv) terms and conditions subject to which a pipeline has been declared as common carrier or contract carrier or access for other entities was allowed to a city or local natural gas distribution network, or authorisation has been granted to an entity for laying, building, expanding or operating a pipeline as common carrier or contract carrier or authorisation has been granted to an entity for laying, building, expanding or operating a city or local natural gas distribution network;",
+                                        "4": "(v) any other provision of this Act or the rules or the regulations or orders made thereunder."
+                                    }
+                                }
+                            }
+                        },
+                        "1": "(2) While deciding a complaint under sub-section (1), the Board may pass such orders and issue such directions as it deems fit or refer the matter for investigation according to the provisions of Chapter V."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Procedure of the Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Board shall have, for the purposes of discharging its functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) summoning and enforcing the attendance of any person and examining him on oath;",
+                                "1": "(b) subject to the provisions of sections 123 and 124 of the Indian Evidence Act, 1872 (1 of 1872), requisitioning any public record or document or a copy of such record or document, from any office and production of such documents;",
+                                "2": "(c) receiving evidence on affidavits;",
+                                "3": "(d) issuing commissions for the examination of witnesses or documents;",
+                                "4": "(e) dismissing an application for default or deciding it, ex parte;",
+                                "5": "(f) setting aside any order of dismissal of any application for default or any order passed by it, ex parte;",
+                                "6": "(g) granting interim relief;",
+                                "7": "(h) reviewing its decision; and",
+                                "8": "(i) any other matter which may be prescribed."
+                            }
+                        },
+                        "1": "(2) Every proceeding before the Board shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228, and for the purposes of section 196, of the Indian Penal Code (45 of 1860) and the Board shall be deemed to be a civil court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).",
+                        "2": "(3) The Board shall be guided by the principles of natural justice and subject to other provisions of this Act and of any rules made thereunder, shall have powers to regulate its own procedure including the places at which it shall conduct its business."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "REGISTRATION AND AUTHORISATION",
+            "Sections": {
+                "Section 14.": {
+                    "heading": "Register.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) For the purposes of this Act, a register to be called the Petroleum and Natural Gas Register shall be kept at the head office of the Board containing such details of entities\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) registered for\u2014",
+                                    "contains": {
+                                        "0": "(i) marketing notified petroleum, petroleum products or natural gas, or",
+                                        "1": "(ii) establishing and operating liquefied natural gas terminals, or",
+                                        "2": "(iii) establishing storage facilities for petroleum, petroleum products or natural gas exceeding such capacity as may be specified by regulations, or"
+                                    }
+                                },
+                                "1": {
+                                    "text": "(b) authorised for\u2014",
+                                    "contains": {
+                                        "0": "(i) laying, building, operating or expanding a common carrier, or",
+                                        "1": "(ii) laying, building, operating or expanding a city or local natural gas distribution network, as may be provided by the Board by regulations."
+                                    }
+                                }
+                            }
+                        },
+                        "1": "(2) A copy of any entry in the register purporting to be maintained by the Board and certified as such by an officer authorised by the Board, shall be admitted in evidence in all courts and in all proceedings without further proof or production of the original.",
+                        "2": "(3) The register shall be open to public inspection at the head office of the Board.",
+                        "3": "(4) Any person may, on application to the Board, and on payment of such fee as may be determined by the Board, by regulations, obtain a certified copy of any entry in the register."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Registration of entities.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Every entity desirous of\u2014",
+                            "contains": {
+                                "0": "(a) marketing any notified petroleum or petroleum products or natural gas; or",
+                                "1": "(b) establishing or operating a liquefied natural gas terminal; or",
+                                "2": "(c) establishing storage facilities for petroleum, petroleum products or natural gas exceeding such capacity as may be specified by regulations,"
+                            }
+                        },
+                        "1": {
+                            "text": "and fulfilling the eligibility conditions as may be prescribed shall make an application to the Board for its registration under this Act:",
+                            "contains": {
+                                "0": "Provided that no registration under this Act shall be required for any entity carrying on any activity referred to in clause (a) or clause (b) or clause (c) immediately before the appointed day but shall inform the Board about such activity within six months from the appointed day.",
+                                "1": "(2) Every application for registration under sub-section (1) shall be made in such form and in such manner and shall be accompanied by such fee as may be determined by the Board by regulations.",
+                                "2": "(3) The Board may, after making such enquiry and subject to such terms and conditions as it may specify, grant a certificate of registration to the entity allowing to commence and carry on the activity referred to in clause (a) or clause (b) or clause (c), as the case may be, of sub-section (1).",
+                                "3": "(4) The Board may, by order, suspend or cancel a certificate of registration granted under sub-section (3) in such manner as may be determined by regulations:",
+                                "4": "Provided that no order under this sub-section shall be made unless the entity concerned has been given a reasonable opportunity of being heard."
+                            }
+                        }
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Authorisation.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No entity shall\u2014",
+                            "contains": {
+                                "0": "(a) lay, build, operate or expand any pipeline as a common carrier or contract carrier,",
+                                "1": "(b) lay, build, operate or expand any city or local natural gas distribution network, without obtaining authorisation under this Act:"
+                            }
+                        },
+                        "1": {
+                            "text": "Provided that an entity,\u2014",
+                            "contains": {
+                                "0": "(i) laying, building, operating or expanding any pipeline as common carrier or contract carrier; or",
+                                "1": "(ii) laying, building, operating or expanding any city or local natural gas distribution network,"
+                            }
+                        },
+                        "2": "immediately before the appointed day shall be deemed to have such authorisation subject to the provisions of this Chapter, but any change in the purpose or usage shall require separate authorisation granted by the Board."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Application for authorisation.",
+                    "paragraphs": {
+                        "0": "(1) An entity which is laying, building, operating or expanding, or which proposes to lay, build, operate or expand, a pipeline as a common carrier or contract carrier shall apply in writing to the Board for obtaining an authorisation under this Act:",
+                        "1": "Provided that an entity laying, building, operating or expanding any pipeline as common carrier or contract carrier authorised by the Central Government at any time before the appointed day shall furnish the particulars of such activities to the Board within six months from the appointed day.",
+                        "2": "(2) An entity which is laying, building, operating or expanding, or which proposes to lay, build, operate or expand, a city or local natural gas distribution network shall apply in writing for obtaining an authorisation under this Act:",
+                        "3": "Provided that an entity laying, building, operating or expanding any city or local natural gas distribution network authorised by the Central Government at any time before the appointed day shall furnish the particulars of such activities to the Board within six months from the appointed day.",
+                        "4": "(3) Every application under sub-section (1) or sub-section (2) shall be made in such form and in such manner and shall be accompanied with such fee as the Board may, by regulations, specify.",
+                        "5": "(4) Subject to the provisions of this Act and consistent with the norms and policy guidelines laid down by the Central Government, the Board may either reject or accept an application made to it, subject to such amendments or conditions, if any, as it may think fit.",
+                        "6": "(5) In the case of refusal or conditional acceptance of an application, the Board shall record in writing the grounds for such rejection or conditional acceptance, as the case may be."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Publicity of applications.",
+                    "paragraphs": {
+                        "0": "When an application for registration for marketing notified petroleum, petroleum products and natural gas, or for establishing and operating a liquefied natural gas terminal, or for establishing storage facilities for petroleum, petroleum products or natural gas exceeding such capacity as may be specified by regulations, is accepted whether absolutely or subject to conditions or limitations, the Board shall, as soon as may be, cause such acceptance to be known to the public in such form and manner as may be provided by regulations."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Grant of authorisation.",
+                    "paragraphs": {
+                        "0": "(1) When, either on the basis of an application for authorisation for laying, building, operating or expanding a common carrier or contract carrier or for laying, building, operating or expanding a city or local natural gas distribution network is received or on suo motu basis, the Board forms an opinion that it is necessary or expedient to lay, build, operate or expand a common carrier or contract carrier between two specified points, or to lay, build, operate or expand a city or local natural gas distribution network in a specified geographic area, the Board may give wide publicity of its intention to do so and may invite applications from interested parties to lay, build, operate or expand such pipelines or city or local natural gas distribution network.",
+                        "1": "(2) The Board may select an entity in an objective and transparent manner as specified by regulations for such activities."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Declaring, laying, building, etc., of common carrier or contract carrier and city or local natural gas distribution network.",
+                    "paragraphs": {
+                        "0": "(1) If the Board is of the opinion that it is necessary or expedient, to declare an existing pipeline for transportation of petroleum, petroleum products and natural gas or an existing city or local natural gas distribution network, as a common carrier or contract carrier or to regulate or allow access to such pipeline or network, it may give wide publicity of its intention to do so and invite objections and suggestions within a specified time from all persons and entities likely to be affected by such decision.",
+                        "1": "(2) For the purposes of sub-section (1), the Board shall provide the entity owning, the pipeline or network an opportunity of being heard and fix the terms and conditions subject to which the pipeline or network may be declared as a common carrier or contract carrier and pass such orders as it deems fit having regard to the public interest, competitive transportation rates and right of first use.",
+                        "2": {
+                            "text": "(3) The Board may, after following the procedure as specified by regulations under section 19 and sub-sections (1) and (2), by notification,\u2014",
+                            "contains": {
+                                "0": "(a) declare a pipeline or city or local natural gas distribution network as a common carrier or contract carrier; or",
+                                "1": "(b) authorise an entity to lay, build, operate or expand a pipeline as a common carrier or contract carrier; or",
+                                "2": "(c) allow access to common carrier or contract carrier or city or local natural gas distribution network; or",
+                                "3": "(d) authorise an entity to lay, build, operate or expand a city or local natural gas distribution network."
+                            }
+                        },
+                        "3": "(4) The Board may decide on the period of exclusivity to lay, build, operate or expand a city or local natural gas distribution network for such number of years as it may by order, determine in accordance with the principles laid down by the regulations made by it, in a transparent manner while fully protecting the consumer interests.",
+                        "4": "(5) For the purposes of this section, the Board shall be guided by the objectives of promoting competition among entities, avoiding infructuous investment, maintaining or increasing supplies or for securing equitable distribution or ensuring adequate availability of petroleum, petroleum products and natural gas throughout the country and follow such principles as the Board may, by regulations, determine in carrying out its functions under this section."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Right of first use, etc.",
+                    "paragraphs": {
+                        "0": "(1) The entity laying, building, operating or expanding a pipeline for transportation of petroleum and petroleum products or laying, building, operating or expanding a city or local natural gas distribution network shall have right of first use for its own requirement and the remaining capacity shall be used amongst entities as the Board may, after issuing a declaration under section 20, determine having regard to the needs of fair competition in marketing and availability of petroleum and petroleum products throughout the country:",
+                        "1": "Provided that in case of an entity engaged in both marketing of natural gas and laying, building, operating or expanding a pipeline for transportation of natural gas on common carrier or contract carrier basis, the Board shall require such entities to comply with the affiliate code of conduct as may be specified by regulations and may require such entity to separate the activities of marketing of natural gas and the transportation including ownership of the pipeline within such period as may be allowed by the Board and only within the said period, such entity shall have right of first use.",
+                        "2": "(2) An entity other than an entity authorised to operate shall pay transportation rate for use of common carrier or contract carrier to the entity operating it as an authorised entity.",
+                        "3": "(3) An entity authorised to lay, build, operate or expand a pipeline as common carrier or contract carrier or to lay, build, operate or expand a city or local natural gas distribution network shall be entitled to institute proceedings before the Board to prevent, or to recover damages for, the infringement of any right relating to authorisation.",
+                        "4": "Explanation.\u2014For the purposes of this sub-section, \u201cinfringement of any right\u201d means doing of any act by any person which interferes with common carrier or contract carrier or causes prejudice to the authorised entity."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Transportation tariff.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, the Board shall lay down, by regulations, the transportation tariffs for common carriers or contract carriers or city or local natural gas distribution network and the manner of determining such tariffs.",
+                        "1": {
+                            "text": "(2) For the purposes of sub-section (1), the Board shall be guided by the following, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the factors which may encourage competition, efficiency, economic use of the resources, good performance and optimum investments;",
+                                "1": "(b) safeguard the consumer interest and at the same time recovery of cost of transportation in a reasonable manner;",
+                                "2": "(c) the principles rewarding efficiency in performance;",
+                                "3": "(d) the connected infrastructure such as compressors, pumps, metering units, storage and the like connected to the common carriers or contract carriers;",
+                                "4": "(e) benchmarking against a reference tariff calculated based on cost of service, internal rate of return, net present value or alternate mode of transport;",
+                                "5": "(f) policy of the Central Government applicable to common carrier, contract carrier and city or local distribution natural gas network."
+                            }
+                        }
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Suspension or cancellation of authorisation.",
+                    "paragraphs": {
+                        "0": "If the Board, on an application of an affected party or on its own motion, is satisfied that the entity in favour of which authorisation has been granted under section 19 has failed to comply with any conditions of authorisation, it may, after giving an opportunity to such entity of being heard, either suspend the authorisation for such period as the Board may think fit or cancel the authorisation:",
+                        "1": "Provided that where the Board is of the opinion that an authorised entity persistently acts in a manner prejudicial to the interests of consumers, it may take action for the suspension of the authorisation immediately subject to the opportunity of hearing being given subsequently, after which action so taken may be confirmed or revoked."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "SETTLEMENT OF DISPUTES",
+            "Sections": {
+                "Section 24.": {
+                    "heading": "Board to settle disputes.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided for arbitration in the relevant agreements between entities or between an entity or any other person, as the case may be, if any dispute arises, in respect of matters referred to in sub-section (2) among entities or between an entity and any other person, such dispute shall be decided by a Bench consisting of the Member (Legal) and one or more members nominated by the Chairperson:",
+                        "1": "Provided that if the members of the Bench differ on any point or points, they shall state the point or points on which they differ and refer the same to a member other than a member of the Bench for hearing on such point or points and such point or points shall be decided according to the opinion of that member.",
+                        "2": {
+                            "text": "(2) The Bench constituted under sub-section (1) shall exercise, on and from the appointed day, all such jurisdiction, powers and authority as were exercisable by a civil court on any matter relating to\u2014",
+                            "contains": {
+                                "0": "(a) refining, processing, storage, transportation and distribution of petroleum, petroleum products and natural gas by the entities;",
+                                "1": "(b) marketing and sale of petroleum, petroleum products and natural gas including the quality of service and security of supply to the consumers by the entities; and",
+                                "2": "(c) registration or authorisation issued by the Board under section 15 or section 19."
+                            }
+                        },
+                        "3": "(3) Notwithstanding anything contained in the Code of Civil Procedure, 1908 (5 of 1908), the Board shall have the power to decide matters referred to in sub-section (2) on or after the appointed day."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Filing of complaints.",
+                    "paragraphs": {
+                        "0": "(1) A complaint may be filed before the Board by any person in respect of matters relating to entities or between entities on any matter arising out of the provisions of this Act:",
+                        "1": "Provided that the complaints of individual consumers maintainable before a consumer disputes redressal forum under the Consumer Protection Act, 1986 (68 of 1986) shall not be taken up by the Board but shall be heard and disposed of by such forum.",
+                        "2": "Explanation.\u2014For the purposes of this sub-section, the expression \u201cconsumer disputes redressal forum\u201d shall mean the district forum, State Commission or, the National Commission, as the case may be, constituted under the provisions of the Consumer Protection Act, 1986 (68 of 1986).",
+                        "3": "(2) Every complaint made under sub-section (1) shall be filed within sixty days from the date on which any act or conduct constituting a contravention took place and shall be in such form and shall be accompanied by such fee as may be provided by regulations:",
+                        "4": "Provided that the Board may entertain a complaint after the expiry of the said period if it is satisfied that there was sufficient cause for not filing the complaint within that period.",
+                        "5": "(3) On receipt of a complaint under sub-section (1), the Board shall decide within thirty days whether there is a prima facie case against the entity or entities concerned and may either conduct enquiry on its own or refer the matter for investigation under this Chapter, to an Investigating Officer having jurisdiction; and, where the matter is referred to such Investigating Officer, on receipt of a report from such Investigating Officer, the Board may, hear and dispose of the complaint as a dispute if it falls under sub-section (2) of section 27 and in any other case, it may pass such orders and issue such directions as it deems fit.",
+                        "6": "(4) Where the Central Government considers that a matter arising out of the provisions of this Act is required to be investigated, it shall make a reference to the Board and the provisions of this Act shall apply as if such reference were a complaint made to the Board."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Power to investigate.",
+                    "paragraphs": {
+                        "0": "(1) For the purposes of provisions of section 25, the Board shall, subject to the provisions of sub-section (3), appoint by general or special order, an officer of the Board as an Investigating Officer for holding an investigation in the manner provided by regulations:",
+                        "1": "Provided that where the Board considers it necessary that the matter should be investigated by any investigating agency of the State or Central Government including the special police force constituted under section 2 of the Delhi Special Police Establishment Act, 1946 (25 of 1946), the Board may request the concerned Government for directing or authorising such agency to investigate and the agency so directed or authorised shall, then, be competent to exercise the powers and to discharge the duties of an Investigating Officer under this Act.",
+                        "2": "(2) No person shall be appointed as an Investigating Officer unless he possesses such qualifications and experience as may be determined by the Board by regulations.",
+                        "3": "(3) Where more than one Investigating Officer is appointed, the Board shall specify, by order, the matters and the local limits of jurisdiction with respect to which each such officer shall exercise his jurisdiction."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Factors to be taken into account by the Board.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Board shall, while deciding a dispute under this Chapter, have due regard to the provisions of this Act and to the following factors, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the amount of disproportionate gain made or unfair advantage derived, wherever quantifiable, as a result of the default;",
+                                "1": "(b) the amount of loss caused to an entity as a result of the default;",
+                                "2": "(c) the repetitive nature of the default."
+                            }
+                        }
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Civil penalty for contravention of directions given by the Board.",
+                    "paragraphs": {
+                        "0": "In case any complaint is filed before the Board by any person or if the Board is satisfied that any person has contravened a direction issued by the Board under this Act to provide access to, or to adhere to the transportation rate in respect of a common carrier, or to display maximum retail price at retail outlets, or violates the terms and conditions subject to which registration or authorisation has been granted under section 15 or section 19 or the retail service obligations or marketing service obligations, or does not furnish information, document, return of report required by the Board, it may, after giving such person an opportunity of being heard in the matter, by order in writing, direct that, without prejudice to any other penalty to which he may be liable under this Act, such person shall pay, by way of civil penalty an amount which shall not exceed one crore rupees for each contravention and in case of a continuing failure with additional penalty which may extend to ten lakh rupees for every day during which the failure continues after contravention of the first such direction:",
+                        "1": "Provided that in the case of a complaint on restrictive trade practice, the amount of civil penalty may extend to five times the unfair gains made by the entity or ten crore rupees, whichever is higher."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Orders passed by Board deemed to be decrees.",
+                    "paragraphs": {
+                        "0": "Every order made by the Board under this Act shall, on a certificate issued by an officer of the Board, shall be executable in the same manner as if it were a decree of a civil court:",
+                        "1": "Provided that where an appeal lies against an order of the Board and no appeal is preferred then the order of the Board shall be deemed to be a final decree under this section on the expiry of the period allowed for preferring an appeal against such order before the Appellate Tribunal."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "APEALS TO APPELLATE TRIBUNAL",
+            "Sections": {
+                "Section 30.": {
+                    "heading": "Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, the Appellate Tribunal established under section 110 of the Electricity Act, 2003 (36 of 2003) shall be the Appellate Tribunal for the purposes of this Act and the said Appellate Tribunal shall exercise the jurisdiction, powers and authority conferred on it by or under this Act:",
+                        "1": "Provided that the Technical Member of the Appellate Tribunal for the purposes of this Act shall be called the Technical Member (Petroleum and Natural Gas) and shall have the qualifications specified in sub-section (2) of section 31.",
+                        "2": "(2) Notwithstanding anything contained in the Electricity Act, 2003 (36 of 2003), the Central Government may, for the purposes of this Act, appoint one or more Technical Members (Petroleum and Natural Gas) on the Appellate Tribunal for Electricity or designate a Technical Member of the said Tribunal having the qualifications specified in sub-section (2) of section 31 and when a Technical Member (Petroleum and Natural Gas) is appointed, he shall be in addition to the three other members appointed under the said Act."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Technical Member (Petroleum and Natural Gas).",
+                    "paragraphs": {
+                        "0": "(1) The Technical Member (Petroleum and Natural Gas) shall be appointed from the panel prepared by the Search Committee constituted under sub- section (2) of section 4.",
+                        "1": {
+                            "text": "(2) A person shall not be qualified for appointment as a Technical Member (Petroleum and Natural Gas) of the Appellate Tribunal unless he\u2014",
+                            "contains": {
+                                "0": "(i) is, or has been, a Secretary for at least one year in the Ministry or Department of the Central Government having adequate experience in energy sector, especially in matters relating to Petroleum and Natural Gas sector; or",
+                                "1": "(ii) is, or has been, a person of ability and standing, having adequate knowledge or experience in dealing with matters relating to exploration, production, transmission pipelines, marketing or regulation of petroleum, petroleum products or natural gas, economics, commerce, law or management."
+                            }
+                        }
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Terms and conditions of service of Technical Member (Petroleum and Natural Gas).",
+                    "paragraphs": {
+                        "0": "The term of office, the salaries and allowances payable to and the other terms and conditions of service of the Technical Member (Petroleum and Natural Gas) shall be the same as applicable to the other members of the Appellate Tribunal."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Appeals to Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) Any person aggrieved by an order or decision made by the Board under this Act may prefer an appeal to the Appellate Tribunal:",
+                        "1": "Provided that any person preferring an appeal against an order or decision of the Board levying any penalty shall, while filing the appeal, deposit the amount of such penalty:",
+                        "2": "Provided further that where in any particular case, the Appellate Tribunal is of the opinion that deposit of such penalty would cause undue hardship to such person, it may dispense with such deposit subject to such conditions as it may deem fit to impose so as to safeguard the realisation of penalty.",
+                        "3": "(2) Every appeal under sub-section (1) shall be filed within a period of thirty days from the date on which a copy of the direction or order of decision made by the Board is received by the aggrieved person and it shall be in such form, verified in such manner and be accompanied by such fee as may be prescribed:",
+                        "4": "Provided that the Appellate Tribunal may entertain an appeal after the expiry of the said period of thirty days if it is satisfied that there was sufficient cause for not filing it within that period.",
+                        "5": "(3) On receipt of an appeal under sub-section (1), the Appellate Tribunal may, after giving the parties an opportunity of being heard, pass such orders thereon as it thinks fit.",
+                        "6": "(4) The Appellate Tribunal shall send a copy of every order made by it to the parties to the appeal and to the Board.",
+                        "7": "(5) The appeal filed under sub-section (1) shall be dealt with by the Appellate Tribunal as expeditiously as possible and endeavor shall be made by it to dispose of the appeal finally within ninety days from the date of receipt of appeal:",
+                        "8": "Provided that where any such appeal could not be disposed of within the said period of ninety days, the Appellate Tribunal shall record its reasons in writing for not disposing of the appeal within the said period.",
+                        "9": "(6) The Appellate Tribunal may, for the purpose of examining the legality or propriety or correctness of any order or decision of the Board referred to in the appeal filed under sub-section (1), either on its own motion or otherwise, call for the records relevant to disposing of such appeal and make such orders as it thinks fit."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Procedure and powers of the Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "The provisions of sections 120 to 124 (both inclusive) of the Electricity Act, 2003 (36 of 2003) shall mutatis mutandis apply to the Appellate Tribunal in the discharge of its functions under this Act as they apply to it in the discharge of its functions under the Electricity Act, 2003."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Power of Appellate Tribunal to make rules.",
+                    "paragraphs": {
+                        "0": "The Appellate Tribunal may, by notification, make rules consistent with the provisions of this Act as to the conduct and procedure in respect of all proceedings before it under this Act."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Orders passed by Appellate Tribunal to be executable as a decree.",
+                    "paragraphs": {
+                        "0": "(1) Every order made by the Appellate Tribunal under this Act shall be executable by the Appellate Tribunal as a decree of a civil court, and for this purpose, the Appellate Tribunal shall have all the powers of a civil court.",
+                        "1": "(2) Notwithstanding anything contained in sub-section (1), the Appellate Tribunal may transmit any order made by it to a civil court having jurisdiction and such civil court shall execute the order as if it were a decree made by that court."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Appeal to Supreme Court.",
+                    "paragraphs": {
+                        "0": "(1) Notwithstanding anything contained in the Code of Civil Procedure, 1908 (5 of 1908) or in any other law, an appeal shall lie against any order, not being an interlocutory order, of the Appellate Tribunal to the Supreme Court on one or more of the grounds specified in section 100 of that Code.",
+                        "1": "(2) No appeal shall lie against any decision or order made by the Appellate Tribunal with the consent of the parties.",
+                        "2": "(3) Every appeal under this section shall be preferred within a period of ninety days from the date of the decision or order appealed against:",
+                        "3": "Provided that the Supreme Court may entertain the appeal after the expiry of the said period of ninety days, if it is satisfied that the appellant was prevented by sufficient cause from preferring the appeal in time."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "FINANCE, ACCOUNTS AND AUDIT",
+            "Sections": {
+                "Section 38.": {
+                    "heading": "Grants by Central Government.",
+                    "paragraphs": {
+                        "0": "The Central Government may, after due appropriation made by Parliament by law in this behalf, make to the Board grants of such sums of money as are required to pay salaries and allowances payable to the Chairperson and the other members and the administrative expenses including the salaries, allowances and pensions payable to the officers and employees of the Board."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) There shall be constituted a Fund to be called the Petroleum and Natural Gas Regulatory Board Fund and there shall be credited thereto\u2014",
+                            "contains": {
+                                "0": "(i) all grants, fees, penalties and charges received by the Board under this Act;",
+                                "1": "(ii) all sums received by the Board from such other sources as may be approved by the Central Government."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) The Fund shall be applied for making payments towards\u2014",
+                            "contains": {
+                                "0": "(i) the salaries and allowances payable to the Chairperson and other members and the administrative expenses including the salaries, allowances and pensions payable to the officers and employees of the Board;",
+                                "1": "(ii) the expenses incurred or to be incurred in carrying out the provisions of this Act."
+                            }
+                        },
+                        "2": {
+                            "text": "(3) The Central Government shall\u2014",
+                            "contains": {
+                                "0": "(i) constitute a committee consisting of such persons as it thinks fit to recommend to that Government the budgetary requirements of the Board for salaries, allowances and all other expenses; and",
+                                "1": "(ii) fix the budgetary ceiling of the Board on the basis of the recommendations of the committee."
+                            }
+                        }
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "(1) The Board shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.",
+                        "1": "(2) The accounts of the Board shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Board to the Comptroller and Auditor-General of India.",
+                        "2": "Explanation.\u2014For the removal of doubts, it is hereby declared that the decisions of the Board taken in the discharge of its functions under this Act, being matters appealable to the Appellate Tribunal, shall not be subject to audit under this section.",
+                        "3": "(3) The Comptroller and Auditor-General of India or any other person appointed by him in connection with the audit of the accounts of the Board shall have the same rights and privileges and authority in connection with the audit of the Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and inspection of offices of the Board.",
+                        "4": "(4) The accounts of the Board as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Annual report and its laying before Parliament.",
+                    "paragraphs": {
+                        "0": "(1) The Board shall prepare once every year in such form and at such time as may be prescribed, an annual report giving a summary of its activities including information relating to the proceedings and policies during the previous years and such report shall also contain statements of annual accounts of the Board.",
+                        "1": "(2) A copy of the report shall be forwarded to the Central Government and the Central Government shall cause such report to be laid, as soon as may be after it is received, before each House of Parliament."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VIII",
+            "Name": "POWER OF CENTRAL GOVERNMENT",
+            "Sections": {
+                "Section 42.": {
+                    "heading": "Power of Central Government to issue directions.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, from time to time, by writing issue to the Board such directions as it may think necessary in the interest of the sovereignty and integrity of India, the security of the State, friendly relations with foreign States or public order.",
+                        "1": "(2) Without prejudice to the foregoing provision, the Central Government may, if it finds necessary or expedient so to do in public interest or for maintaining or increasing supplies of petroleum, petroleum products or natural gas or all or any of them or for securing their equitable distribution and ensuring adequate availability, issue policy directives to the Board in writing and such policy directives shall be binding upon the Board:",
+                        "2": "Provided that no such directive shall relate to any day-to-day affairs of the Board:",
+                        "3": "Provided further that the Board shall, as far as practicable, be given an opportunity of expressing its views before any directive is issued under this sub-section.",
+                        "4": "(3) The decision of the Central Government whether a question is one of policy or not shall be final."
+                    }
+                },
+                "Section 43.": {
+                    "heading": "Taking over control and management of facilities and business premises of any entity and retail outlets in public interest.",
+                    "paragraphs": {
+                        "0": "(1) In the event of war or natural calamity or such other similar circumstances leading to disruption of supply of petroleum, petroleum products or natural gas, the Central Government may, for ensuring the continuous supply of petroleum, petroleum products or natural gas, by notification, either take over the control and management of any storage site, facilities and business premises of any entity and retail outlets or suspend its operations or entrust, to any agency of the Central or State Government for such time and manage it in such manner, as may be specified in that notification:",
+                        "1": "Provided that the affected entities shall be given an opportunity of being heard before issuing orders to take over the control and management of retail outlets and other business premises:",
+                        "2": "Provided further that in case of any urgency or in cases where the circumstances do not permit serving of notice for want of sufficient time or otherwise upon the entity against whom the order is directed, the opportunity of hearing may be dispensed with in public interest in order to maintain the uninterrupted supply of petroleum, petroleum products or natural gas for a specified period.",
+                        "3": "(2) The collector of the revenue district in which the property referred to in the notification issued under sub-section (1) is situated shall determine the amount of compensation payable for taking over of the property.",
+                        "4": "(3) The form and manner in which an application for claiming compensation under this section shall be made, the procedure for determining the compensation and the time within which such compensation shall be payable, shall be such as may be prescribed."
+                    }
+                }
+            }
+        },
+        "8": {
+            "ID": "CHAPTER IX",
+            "Name": "OFFENCES AND PUNISHMENT",
+            "Sections": {
+                "Section 44.": {
+                    "heading": "Punishment for contravention of directions of the Board.",
+                    "paragraphs": {
+                        "0": "If a person contravenes the directions of the Board, such person shall be punishable with fine which may extend to twenty-five crore rupees and in case of continuing contravention with additional fine which may extend to ten lakh rupees for every day during which the contravention continues."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Penalty for wilful failure to comply with orders of Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "If any person willfully fails to comply with the order of the Appellate Tribunal, he shall be punishable with fine which may extend to one crore rupees and in case of a second or subsequent offence with fine which may extend to two crore rupees and in the case of continuing contravention with additional fine which may extend to twenty lakh rupees for every day during which such default continues."
+                    }
+                },
+                "Section 46.": {
+                    "heading": "Punishment for unauthorised activities.",
+                    "paragraphs": {
+                        "0": "If any person, being an entity, markets any notified petroleum, petroleum products or natural gas without a valid registration, or authorisation such person shall be punishable with imprisonment which may extend to three years or with fine which may extend to twenty-five crore rupees or with both, and in case of continuing contravention with additional fine which may extend to ten lakh rupees for every day during which the contravention continues."
+                    }
+                },
+                "Section 47.": {
+                    "heading": "Punishment for establishing or operating a liquefied natural gas terminal without registration.",
+                    "paragraphs": {
+                        "0": "If a person establishes or operates a liquefied natural gas terminal without registration as required under section 15, such person shall be liable for punishment with an imprisonment for a term which may extend to three years or penalty of twenty-five crore rupees or with both, and in case of continuing contravention with additional fine which may extend to ten lakh rupees for every day during which the contravention continues."
+                    }
+                },
+                "Section 48.": {
+                    "heading": "Punishment for laying, building, operating or expanding a common carrier or contract carrier without authorisation.",
+                    "paragraphs": {
+                        "0": "If a person lays, builds, operates or expands a common carrier or contract carrier or a city or local natural gas distribution network without obtaining authorisation required under section 19, such person shall be liable for punishment with an imprisonment for a term which may extend to three years or penalty of twenty-five crore rupees or with both, and in case of continuing contravention with additional fine which may extend to ten lakh rupees for every day during which the contravention continues."
+                    }
+                },
+                "Section 49.": {
+                    "heading": "Punishment for wilful damages to common carrier or contract carrier.",
+                    "paragraphs": {
+                        "0": "Every person who willfully removes, destroys or damages any pipeline or city or local natural gas distribution network or other work of the common carrier or contract carrier for supplying petroleum, petroleum products or natural gas shall for each such offence be punishable with imprisonment which may extend to three years or with fine which may extend to twenty-five crore rupees or with both, and, in case of continuing contravention with additional fine which may extend to ten lakh rupees for every day during which such contravention continues."
+                    }
+                },
+                "Section 50.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company, as well as the company, shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment provided in this Act, if he proves that the offence was committed without his knowledge or that he has exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved `that the offence has been committed with the consent or connivance of, or is attributable to, any neglect on the part of any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purpose of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                                "1": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "9": {
+            "ID": "CHAPTER X",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 51.": {
+                    "heading": "Maintenance of data bank and information.",
+                    "paragraphs": {
+                        "0": "(1) The Board shall maintain a data bank and information system relating to activities of entities dealing with petroleum, petroleum products and natural gas in such form and manner as may be provided by regulations.",
+                        "1": "(2) The Board shall have power to verify the data supplied by the entities and appoint any person or persons for the purpose and take such measures as it may consider necessary."
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Obligations of entities.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Every entity shall\u2014",
+                            "contains": {
+                                "0": "(a) maintain such documentary records as may be specified by the Board by regulations;",
+                                "1": "(b) allow inspection of such facilities and documentary records, as may be specified by the Board, by any person authorised by the Board;",
+                                "2": "(c) commence operation of activities for which authorisation has been granted within such period as may be specified by the Board in the document of authorisation;",
+                                "3": {
+                                    "text": "(d) register\u2014",
+                                    "contains": {
+                                        "0": "(i) agreements with the Board relating to use of pipelines for supply of petroleum, petroleum products and natural gas; or",
+                                        "1": "(ii) any other document which the Board may determine by regulations;"
+                                    }
+                                },
+                                "4": "(e) comply with marketing service obligations and retail service obligations."
+                            }
+                        },
+                        "1": "(2) The Board may call for any information from any entity including information which is considered necessary for ensuring transparency or ascertaining true ownership of the entity.",
+                        "2": "(3) The Board or any officer authorised by the Board shall have the power to inspect and obtain information, wherever necessary, from the entities.",
+                        "3": "(4) For the effective enforcement of the terms and conditions of authorisation, the Board or any officer authorised by it for that purpose, shall have all the powers of an inspecting officer as provided under section 209A of the Companies Act, 1956 (1 of 1956).",
+                        "4": "(5) It shall be the duty of every entity to carry out the directions of the Board given under this section.",
+                        "5": "(6) The Board shall maintain confidentiality in respect of any information and record received by it from the entities and shall not disclose information contained therein to any person or authority except on the grounds of public interest."
+                    }
+                },
+                "Section 53.": {
+                    "heading": "Furnishing of returns, etc., to Central Government.",
+                    "paragraphs": {
+                        "0": "The Board shall furnish to the Central Government at such time and in such form and manner as may be prescribed or as the Central Government may direct, such returns and statements and such particulars in regard to any matter in connection with proposed or existing activities under this Act, as the Central Government may, from time to time, require."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Chairperson, members, etc., to be public servants.",
+                    "paragraphs": {
+                        "0": "The Chairperson, Members, Officers and other employees of the Board and Technical Member (Petroleum and Natural Gas) of the Appellate Tribunal shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this Act, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 55.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceeding shall lie against the Central Government, Board, Technical Authority or Appellate Tribunal or any officer of the Central Government or any Chairperson, Member, officer or other employee of the Board or Technical Member (Petroleum and Natural Gas) of the Appellate Tribunal for anything which is in good faith done or intended to be done under this Act or the rules or regulations made thereunder."
+                    }
+                },
+                "Section 56.": {
+                    "heading": "Civil courts not to have jurisdiction.",
+                    "paragraphs": {
+                        "0": "No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which the Board or the Appellate Tribunal is empowered by or under this Act to determine, and no injunction shall be granted by any court or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act."
+                    }
+                },
+                "Section 57.": {
+                    "heading": "Cognizance of certain offences.",
+                    "paragraphs": {
+                        "0": "(1) No court shall take cognizance of any offence punishable under Chapter IX save on a complaint made by the Board or by any investigating agency directed by the Central Government.",
+                        "1": "(2) No court inferior to that of a Chief Metropolitan Magistrate or of a Chief Judicial Magistrate shall try any offence punishable under Chapter IX.",
+                        "2": "(3) Every offence punishable under sections 44, 45, 46 and 47 shall be cognizable."
+                    }
+                },
+                "Section 58.": {
+                    "heading": "Delegation.",
+                    "paragraphs": {
+                        "0": "The Board may, by general or special order in writing, delegate to any member or officer of the Board subject to such conditions, if any, as may be specified in the order, such of its powers and functions under this Act (except the power to settle a dispute under Chapter VI and to make regulations under section 61), as it may deem necessary."
+                    }
+                },
+                "Section 59.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as it may deem necessary for removing the difficulty:",
+                        "1": "Provided that no order shall be made under this section after the expiry of two years from the date of commencement of this Act.",
+                        "2": "(2) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament."
+                    }
+                },
+                "Section 60.": {
+                    "heading": "Power of Central Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules for carrying out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the salaries and allowances payable to and the other conditions of service of the Chairperson and the other members under sub-section (4) of section 5;",
+                                "1": "(b) the procedure for appointment of any person or constitution of any authority and conducting inquiry under section 7;",
+                                "2": "(c) the salaries and allowances payable to and the other terms and conditions of service of the Secretary, officers and other employees of the Board, under sub-section (3) of section 10;",
+                                "3": "(d) any other matter in respect of which the Board may exercise the powers of a civil court under clause (i) of sub-section (1) of section 13;",
+                                "4": "(e) the eligibility conditions which an entity shall fulfill for registration under sub-section (1) of section 15;",
+                                "5": "(f) the form of appeal and the manner of verifying such form, and the fee which shall accompany such form, under sub-section (2) of section 33;",
+                                "6": "(g) the manner in which the accounts of the Board shall be maintained under sub-section (1) of section 40;",
+                                "7": "(h) the time and manner in which the annual report of the Board shall be prepared under sub-section (1) of section 41;",
+                                "8": "(i) the form and manner in which applications for claiming compensation shall be made, the procedure for determining the compensation and the time within which such compensation shall be payable, under sub-section (3) of section 43;",
+                                "9": "(j) the time and manner in which returns and statements are to be furnished by the Board to the Central Government under section 53;",
+                                "10": "(k) any other matter which is to be, or may be, prescribed, or in respect of which provision is to be made, by rules."
+                            }
+                        }
+                    }
+                },
+                "Section 61.": {
+                    "heading": "Power of Board to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The Board may, by notification, make regulations consistent with this Act and the rules made thereunder to carry out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the time and places of meetings of the Board and the procedure (including quorum necessary for the transaction of business) to be followed at such meetings under sub-section (1) of section 8;",
+                                "1": "(b) the powers and duties of the Secretary under sub-section (1) of section 10;",
+                                "2": "(c) the terms and conditions of the consultants appointed under sub-section (4) of section 10;",
+                                "3": "(d) the capacity of storage facilities for petroleum, petroleum products or natural gas requiring registration under sub-clause (iii) of clause (b) of section 11;",
+                                "4": "(e) regulating open access to and transportation rate for the common carrier or contract carrier or city or local natural gas distribution network and other matters referred to in clause (e) of section 11;",
+                                "5": "(f) marketing service obligations for entities and retail service obligations for retail outlets under sub-clause (v) of clause (f) of section 11;",
+                                "6": "(g) levy of fees and other charges under clause (g) of section 11;",
+                                "7": "(h) the technical standards and specifications including safety standards in activities relating to petroleum, petroleum products and natural gas under clause (i) of section 11;",
+                                "8": "(i) the procedure to be followed by the Board including the places at which it shall conduct its business under sub-section (3) of section 13;",
+                                "9": "(j) the manner of maintaining the Petroleum and Natural Gas Register under sub-section (1) of section 14;",
+                                "10": "(k) the form and manner of making application for obtaining certified copy of any entry in the register and the fee which shall accompany such application, under sub-section (4) of section 14;",
+                                "11": "(l) the form and manner in which an application under sub-section (1) of section 15 shall be made and the fee which shall accompany such application under sub-section (2) of section 15;",
+                                "12": "(m) the manner by which a certificate of registration granted under sub-section (3) of section 15 may be suspended or cancelled under sub-section (4) of section 15;",
+                                "13": "(n) the form and manner in which an application under sub-section (1) or sub-section (2) of section 17 shall be made and the fee which shall accompany such application under sub-section (3) of section 17;",
+                                "14": "(o) the form and manner in which publicity of acceptance of applications for registration shall be made under section 18;",
+                                "15": "(p) the manner of selection of an entity under sub-section (2) of section 19;",
+                                "16": "(q) the principles for determining the number of years for which a city or local natural gas distribution network shall be excluded from the purview of a common carrier or contract carrier under sub-section (4) of section 20;",
+                                "17": "(r) the guiding principles to be followed by the Board and the objectives for declaring, or authorising to lay, build, operate or expand a common carrier or contract carrier for declaring, or authorising to lay, build, operate or expand a city or local natural gas distribution network, under sub-section (5) of section 20;",
+                                "18": "(s) the affiliate code of conduct under which the entities are required to comply with under the proviso to sub-section (1) of section 21;",
+                                "19": "(t) the transportation tariffs for common carriers or contract carriers or city or local natural gas distribution network and the manner of determining such tariffs under sub-section (1) of section 22;",
+                                "20": "(u) the form in which a complaint may be made and the fee which shall accompany such complaint, under sub-section (2) of section 25;",
+                                "21": "(v) the manner of holding an investigation by an Investigating Officer under sub-section (1) of section 26;",
+                                "22": "(w) the qualifications and experience which any person for appointment as an Investigating Officer shall possess, under sub-section (2) of section 26;",
+                                "23": "(x) the form and manner of maintaining data bank and information system by the Board under sub-section (1) of section 51;",
+                                "24": "(y) maintenance of documentary records by an entity, under clause (a) of sub-section (1) of section 52;",
+                                "25": "(z) any other type of documents which are to be registered with the Board under sub-clause (ii) of clause (d) of sub-section (1) of section 52;",
+                                "26": "(za) any other matter which is required to be, or may be, specified by regulations or in respect of which provision is to be or may be made by regulations."
+                            }
+                        }
+                    }
+                },
+                "Section 62.": {
+                    "heading": "Rules and regulations to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule made by the Central Government and every regulation made by the Board under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation or both Houses agree that the rule or regulation should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation."
+                    }
+                },
+                "Section 63.": {
+                    "heading": "Transitional arrangements.",
+                    "paragraphs": {
+                        "0": "(1) Where, before the commencement of this Act, an agreement or agreements have been entered into between one oil company and another for the purpose of sharing of petroleum products or sharing of infrastructure facilities among the oil companies and such agreements have been approved by the Central Government, the Board may monitor the implementation of such agreements for the transition period.",
+                        "1": "(2) The Board shall monitor setting up of dealerships and distributorships of motor spirit, high speed diesel, superior kerosene oil, liquefied petroleum gas and CNG stations for natural gas during transition period by the entities without encroaching on the retail network of the existing entities.",
+                        "2": "Explanation I.\u2014For the purposes of this section, the expression \u201ctransition period\u201d shall mean a period of three years from the date of commencement of this Act.",
+                        "3": "Explanation II.\u2014For the purposes of this section, \u201cinfrastructure facilities\u201d shall mean facilities at ports, refineries, terminals, depots and aviation fuelling stations including hydrant lines and shall include loading and unloading facilities.",
+                        "4": "Explanation III.\u2014For the purposes of this section \u201cencroaching\u201d includes taking over of retail outlet of one entity by another."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 4": {
+            "0": "1.  1st  October,  2007  (except  s.  16),  vide  notification  No.  G.S.R.  637(E)  dated  1st  October,  2007,  see  Gazette  of  India,Extraordinary, Part II, sec. 3(ii)."
+        }
+    }
+}

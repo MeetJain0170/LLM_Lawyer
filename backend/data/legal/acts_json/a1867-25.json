@@ -1,0 +1,620 @@
+{
+    "Act Title": "THE PRESS AND REGISTRATION OF BOOKS ACT, 1867",
+    "Act ID": "ACT NO. 25 OF 1867",
+    "Enactment Date": "[22nd March, 1867.]",
+    "Act Definition": {
+        "0": "Preamble.\u2014WHEREAS it is expedient to provide for the regulation of printing-presses and of 4[newspapers], for the preservation of 5*** copies of 6[every book and newspaper printed in India and for the registration of such books and newspapers];"
+    },
+    "Parts": {
+        "0": {
+            "ID": "",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Interpretation-clause.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "[(1)] In this Act, unless there shall be something repugnant in the subject or context,\u2014",
+                            "contains": {
+                                "0": "\u201cBook\u201d includes every volume, part or division of a volume, and pamphlet, in any language and every sheet of music, map, chart or plan separately printed 1***. 2* * * * * 3 [\u201ceditor\u201dmeans the person who controls the selection of the matter that is publishedin a newspaper;] 4* * * * * \u201cMagistrate\u201d means any person exercising the full powers of a 5Magistrate, and includes a 6Magistrate of police 7***. 8[\u201cnewspaper\u201dmeans any printed periodical work containing public news or comments on public news;] 9* * * * * 10[\u201cpaper\u201dmeans any document, including a newspaper, other than a book; \u201cprescribed\u201dmeans prescribed by rules made by the Central Government under section 20A; \u201cPress Registrar\u201d means the Registrar of newspapers for India appointed by the Central Government under section 19A and includes any other person appointed by the Central Government to perform all or any of the functions of the Press Registrar; \u201cprinting\u201d includes cyclostyling and printing by lithography; \u201cRegister\u201d means the Register of newspapers maintained under section 198.] 11[(2) Any reference in this Act to any law which is not in force in the State of Jammu and Kashmir shall, in relation to that State, be construed as a reference to the corresponding law in force in that State.] STATE AMENDMENT KARNATAKA In section 1, for the words, \u201cMagistrate of means any person exercising full powers of a magistrate and includes as magistrate of Police\u201d the words, \u201cMagistrate\u201d means Judicial Magistrate shall be substituted. [Vide Karnataka Act 13 of 1956, s. 67 and Schedule]"
+                            }
+                        }
+                    }
+                },
+                "Section 2.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Repeal ofAct 11 of 1835.] Rep. by the Repealing Act, 1870 (14 of 1870), s. 1 and the Second Schedule."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "PART II",
+            "Name": "OF PRINTING-PRESSESAND NEWSPAPERS",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Particulars to be printed on books and papers.",
+                    "paragraphs": {
+                        "0": "Everybook or paper printed within 12[India] shall have printed legibly on it the name of the printer and the place of printing, and (if the book or paper be published) 13[the name] of the publisher, and the place of publication."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Keeper of printing-press to make declaration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "14[(1)] No person shall within \u201c[India], keep in his possession any press for the printing of books or papers, who shall not have made and subscribed the following declaration before 15[the District, Presidency or Sub-divisional Magistrate] within whose local jurisdiction such press may be:",
+                            "contains": {
+                                "0": "\u201cI, A. B., declare that I have a press for printing at,\u2014\u201d"
+                            }
+                        },
+                        "1": "And this last blank shall be filled up with a true and precise description of the place where such press may be situate.",
+                        "2": "1[(2) As often as the place where a press is kept is changed, a new declaration shall be necessary:",
+                        "3": {
+                            "text": "Provided that where the change is for a period not exceeding sixty days and the place where the press is kept after the chan ge is within the local jurisdiction of the Magistrate referred to in sub-section (1),no new declaration shall be necessary if \u2014",
+                            "contains": {
+                                "0": "(a) a statement relating to the change is furnished to the said Magistrate within twenty-four hours thereof; and",
+                                "1": "(b) the keeper of the press continues to be the same.]"
+                            }
+                        }
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Rules as to publication of newspapers.",
+                    "paragraphs": {
+                        "0": "No 2[newspaper] shall be published in 3[India] except except in conformity with the rules hereinafter laid down:",
+                        "1": "4[(1)Without prejudice to the provisions of section 3, every copy of every such newspaper newspaper shall contain the names of the owner and editor thereof printed clearly on such copy and also the date of its publication.]",
+                        "2": "5[(2)]The printer and the publisher of every such 6[newspaper] shall appear 7[in person or by agent authorised in this behalf in accordance with rules made under section 20, before a District, Presidency or Sub-divisional Magistrate within whose local jurisdiction such newspaper shall be printed or published 8***] and shall make and subscribe, in duplicate, the following declaration:",
+                        "3": "\u201cI, A. B., declare that I am the printer (or publisher, or printer and publisher) of the6[newspaper]9[and to be printed or published, or to be printed and published], asthe case may be at\u2014.\u201d",
+                        "4": "And the last blank in this form of declaration shall be filled up with a true and precise account of the premises where the printing or publication is conducted.",
+                        "5": "10[(2A)Every declaration under rule (2)shall specify the title of the newspaper, the language in which it is to be published and the periodicity of its publication and shall contain such other particulars as may be prescribed.]",
+                        "6": "11[(2B)Where the printer or publisher of a newspaper making a declaration under rule ( 2)is not the owner thereof, the declaration shall specify the name of the ow ner and shall also be accompanied by an authority in writing from the owner authorising such person to make and subscribe such declaration.",
+                        "7": "(2C)A declaration in respect of a newspaper made under rule ( 2)and authenticated under section 6 shall be necessary before the newspaper can be published.",
+                        "8": "(2D)Where the title of any newspaper or its language or the periodicity of its publication is changed, the declaration shall cease to have effect and a new declaration shall be necessary before the publication of the newspaper can be continued.",
+                        "9": "(2E)As often as the ownership of a newspaper is changed, a new declaration shall be necessary.]",
+                        "10": "1[(3] As often as the place of printing or publication is changed, a new declaration shall be necessary:",
+                        "11": {
+                            "text": "2[Provided that where the change is for a period not exceeding thirty days and the place of printing or publication after the change is within the local jurisdiction of the Magistrate referred to in rule (2),no new declaration shall be necessary if \u2014",
+                            "contains": {
+                                "0": "(a) a statement relating to the change is furnished to the said Magistrate within twenty-four hours thereof; and",
+                                "1": "(b)the printer or publisher or the printer and publisher of the newspaper continues to be the same.]"
+                            }
+                        },
+                        "12": "3[(4) As often as the printer or the publisher who shall have made such declaration as is aforesaid shall leave India for a period exceeding ninety days or where such printer or publisher is by infirmity or otherwise rendered incapable of carrying out his duties for a period exceeding ninety days in circumstances not involving the vacation of his appointment, a new declaration shall be necessary.]",
+                        "13": {
+                            "text": "2[(5) Every declaration made in respect of a newspaper shall be void, where the newspaper does not commence publication\u2014",
+                            "contains": {
+                                "0": "(a) within six weeks 4[of the authentication of the declaration under section 6], in the case of a newspaper to be published once a week or oftener; and",
+                                "1": "(b) within three months 4[of the authentication of the declaration under section 6], in the case of any other newspaper,"
+                            }
+                        },
+                        "14": {
+                            "text": "and in every such case, a new declaration sh all be necessary before the newspaper can be published.",
+                            "contains": {
+                                "0": "(6) Where, in any period of three months, any daily, tri -weekly, biweekly, weekly or fortnightly newspaper publishes issues the number of which is less than half of what should have been published in accordance with the declaration made in respect thereof, the declaration shall cease to have effect and a new declaration shall be necessary before the publication of the newspaper can be continued.",
+                                "1": "(7) Where any other newspaper has ceased publication for a period, exceeding twelve, months, every declaration made in respect thereof shall cease to have effect, and a new declaration shall be necessary before the newspaper can be republished.",
+                                "2": "(8) Every existing declaration in respect of a newspaper shall be cancelled by the Magistrate before whom a new declaration is made and subscribed in respect of the same]:",
+                                "3": "5 [Provided that no person 6 [who does not ordinarily reside in India, or] who has not attained majority in accordance with the provisions of the Indian Majority Act, 1875 (19 of 1875), or of the law to which he is subject in respect of the attainment of majority, shall be permitted to make the declaration prescribed by this section, nor shall any suc h person edit a newspaper.]"
+                            }
+                        }
+                    }
+                },
+                "Section 5A.": {
+                    "heading": "Keepers of printing-presses and printers and publishers of newspapers in Jammu and Kashmir to make and subscribe fresh declarations withinspecified period.",
+                    "paragraphs": {
+                        "0": "(1) No person who has made and subscribed a declaration in resp ect of any press under section 4 of the Jammu and Kashmir State Press and Publications Act, S. 1989 (Jammu and Kashmir Act No. I of S. 1989) shall keep the press in his possession for the printing of books or papers 2[after the 31st day of December, 1968 u nless before the expiry of that date], he makes and subscribes a fresh declaration in respect of thatpress under section 4 of this Act.",
+                        "1": "(2)Every person who has subscribed toany declaration in respect of a newspaper under section 5 of the Jammu and Kashmir State Press and Publications Act, S. 1989, Jammu and Kashmir Act, No. I S. 1 shall cease to be the editor, printer or publisher of the newspaper mentioned in such declaration 2[after the 31st day of December, 1968, unless before the expiry of that date] he makes and subscribes a fresh declaration in respect of that newspaper under rule (2) of the rules laid down in section 5 of this Act.]"
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Authentication of declaration.",
+                    "paragraphs": {
+                        "0": "Eachof the two originals of every declaration so made and subscribed as is aforesaid, shall be authenticated by the signature and official seal of the Magistrate before whom the said declaration shall have been made:",
+                        "1": "3[Provided that where any declaration is made and subscribed under section 5 in respect of anewspaper, the declaration shall not, save in the case of newspapers owned by the same person, be so authenticated unless the Magistrate 4[is, on inquiry from the Press Registrar, satisfied] that thenewspaper proposed to be published does not bear a title which is the same as, or similar to that of any other newspaper published either in the same language or in the same State.]",
+                        "2": "Deposit.\u2014One of the said originals shall be deposited among the records of the office of the Magistrate, and the other shall be deposited among the records of th e High Court of Judicature, or 5[other principal Civil Court of original jurisdiction for the place where] the said declaration shall have been made.",
+                        "3": "Inspection and supply of copies.\u2014The Officer-in-charge of each original shall allow any person to inspect that original on payment of a fee of one rupee, and shall give to any person applying a copy of the said declaration, attested by the seal of the Court which has the custody of the original, on payment of a fee of two rupees.",
+                        "4": "6[A copy of the declaration attested by the official seal of the Magistrate, or a copy of the order refusing to authenticate the declaration, shall be forwarded as soon as possible to the person making and subscribing the declaration and also to the Press Registrar.]"
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Office copy of declaration to be prima facie evidence.",
+                    "paragraphs": {
+                        "0": "In any legal proceeding whatever, as well civil as criminal, the production of a copy of such declaration as is aforesaid, attested by the seal of some Court empowered by this Act to have the custody of such declarations, 7[or, in the case of the editor, editor, a copy of the newspaper containing his name printed on it as that of the editor] shall be held (unless the contrary be proved) to be sufficient evidence, as against theperson whose name shall be subscribed to such declaration,7[or printed on suchnewspaper,as the case may be] that the said person was printer or publisher, or printer and publisher (according as the words of the said declaration may be) of every portion of every 1[newspaper] whereof the title shall correspond with the title of the 1[newspaper] mentioned in the declaration,2[or the editor of every portion of that issue of the newspaper of which a copy is produced]."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "New declaration by persons who have signed a declaration and subsequently ceased to be printers or publishers.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "3[If any person has subscribed to any declaration in respect of a newspaper under section 5 and the declaration has been authenticated by a Magistrate under section 6 and subsequently that person ceases to be the printer or publisher of the newspaper mentioned in such declaration, he shall appear before any District, Presidency or Sub-divisional Magistrate, and make and subscribe in duplicate the following declaration:\u2014",
+                            "contains": {
+                                "0": "\u201cI, A. B., declare that I have ceased to be the printer or publisher or printer and publisher of the newspaper entitled \u2014\u201d.]"
+                            }
+                        },
+                        "1": "Authentication and fling.\u2014Each original of the latter declaration shall be authenticated by the signature and seal of the Magistrate before whom the said latter declaration shall have been made, and one original of the said latter declaration shall be filed alongwith each original of the former declaration.",
+                        "2": "Inspection and supply of copies.\u2014The Officer-in-charge of each original of the latter declaration shall allow any person applying to inspect that original on payment of a fee of one rupee, and shall give to any person applying a copy of the said latter declaration, attested by the seal of the Court having custody of the original, on payment of a fee of two rupees.",
+                        "3": "Putting copy in evidence.\u2014In all trials in which a copy, attested as is aforesaid, of the former declaration shall have been put in evidence, it shall be lawful to put in evidence a copy, attested as is aforesaid, of the latter declaration, and the former declaration shall not be taken to be evidence that the declaration was, at any period subsequent to the date of the latter declaration, printer or publisher of the 1[newspaper] therein mentioned.",
+                        "4": "4[A copy of the latter declaration attested by the official seal of the Magistrate shall be forwarded to the Press Registrar.]"
+                    }
+                },
+                "Section 8A.": {
+                    "heading": "Person whose name has been incorrectly published as editor may make a declaration before a Magistrate.",
+                    "paragraphs": {
+                        "0": "If any person, whose name has appeared as editor on a copy of a newspaper, claims that he was not the editor of the issue on which his name has so appeared, he may, within two weeks of his becoming aware that his name has been so published, appear before a District, Presidency or Sub-divisional Magistrate and make a declaration that his name was incorrectlypublished in that issue as that of the editor thereof, and if the Magistrate after making such inquiry or causing such inquiry to be made as he may consider necessary is satisfied that such declaration is true, he shall certify accordingly, and on that certificate being given the provisions of section 7shall not apply to that person in respect of that issue of the newspaper.",
+                        "1": "The Magistrate may extend the period allowed by this section in any case where he is satisfied that such person was prevented by sufficient cause from appearing and making the declaration within that period.]"
+                    }
+                },
+                "Section 8B.": {
+                    "heading": "Cancellation of declaration.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "If, on an application made to him by the Press Registrar or any other person or otherwise, the Magistrate empowered to authenticate a declaration under this Act, is of opinion that any declaration made in respect of a newspaper should be cancelled, he may, after giving the person concerned an opportunity of showing cause against the action proposed to be taken, hold an inquiry into the matter and if, after considering the cause, if any, shown by such person and after giving him an opportunity of being heard, he is satisfied that\u2014",
+                            "contains": {
+                                "0": "(i) the newspaper, in respect of which the declaration has been made is being published in contravention of the provisions of this Act or rules made thereunder; or",
+                                "1": "(ii) the newspaper mentioned in the declaration bears a title which is the same as, or similar to, that of any other newspaper published e ither in the same language or in the same State; or",
+                                "2": "(iii) the printer or publisher has ceased to be the printer or publisher of the newspaper mentioned in such declaration; or",
+                                "3": "(iv) the declaration was made on false representation or on the concealment of a ny material fact or in respect of a periodical work which is not a newspaper;"
+                            }
+                        },
+                        "1": "the Magistrate may, by order, cancel the decl aration and shall forward as soon as possible a copy of the order to the person making or sub scribing the declaration and also to the Press Registrar."
+                    }
+                },
+                "Section 8C.": {
+                    "heading": "Appeal.",
+                    "paragraphs": {
+                        "0": "(1) Any person aggrieved by an order of a Magistrate refusing to authenticate a declaration under section 6 or cancelling a declaration under section 8B may, within sixty days from the date on which such order is communicated to him, prefer an appeal to the Appellate Board to be called the Press and Registration Appellate Board 1[consisting of a Chairman and another member to be nominated by the Press Council of India, established under section 4 of the Press Council Act, 1978 (37 of 1978), from among its members]:",
+                        "1": "Provided that the Appellate Board may entertain an appeal after the expiry of the saidperiod, if it is satisfied that the appellant was prevented by sufficient cause from preferring the appeal in time.",
+                        "2": "(2) On receipt of an appeal under this section, the Appellate Board may, after calling for the records from the Magistrate and after making such further inquiries as it thinks fit, confirm, modify or set aside the order appealed against.",
+                        "3": "(3) Subject to the provisions contained in sub-section (2),the Appellate Board may, by order, regulate its practice and procedure.",
+                        "4": "(4) The decision of the Appellate Board shall be final.]"
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "PART III",
+            "Name": "DELIVERYOF BOOKS",
+            "Sections": {
+                "Section 9.": {
+                    "heading": "Copies of books printed after commencement of Act to be delivered gratisto Government.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Printed 3*** copies of the whole of every book which shall be printed 4***in 4[India] after this Act shall come into force, together with all maps, prints or other engravings belonging thereto, finished and coloured in the same manner as the best copies of the same, shall, notwithstanding any agreement (if the book be published) between the printer and publisher thereof, be delivered by the printer at such place and to such officer as the State Government shall, by notification in the Official Gazette, from time to time direct, and free of expense to the Government, as follows, that is to say :\u2014",
+                            "contains": {
+                                "0": "(a)in any case, within one calendar month after the day on which any such book shall first be delivered out of the press, one such copy, and",
+                                "1": "(b)if within one calendar year from such day the State Government shall require the printer to deliver other such copies not exceeding two in number, then within one calendar month after the day on which any such requisition shall be made by the State Government on the printer, another such copy, or two other such copies, as the State Government may direct,"
+                            }
+                        },
+                        "1": {
+                            "text": "the copies so delivered being bound, sewed or stitched together and upon the best paper on which any copies of the book shall be printed 1***.",
+                            "contains": {
+                                "0": "The publisher or other person employing the printer shall, at a reasonable time before the expiration of the said month, supply him with all maps, prints and engravings finished and coloured as aforesaid, which may be necessary to enable him to comply with the requirements aforesaid.",
+                                "1": {
+                                    "text": "Nothing in the former part of this section shall apply to\u2014",
+                                    "contains": {
+                                        "0": "(i) any second or subsequent edition of a book in which edition no additions or alterations either in the letter-press or in the maps, prints or other engravings belonging to the book have been made, and a copy of the first or some preceding edition of which book has been delivered under this Act, or",
+                                        "1": "(ii) any2[newspaper] published in conformity with the rules laid down in section 5 of this Act."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Receipt for copies delivered under section 9.",
+                    "paragraphs": {
+                        "0": "The officer to whoma copy of a book is delivered under the last foregoing section shall give to the printer a receipt in writing therefor."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Disposal of copies delivered under section 9.",
+                    "paragraphs": {
+                        "0": "Thecopy delivered pursuant to clause (a)of the first paragraph of section 9 of this Act shall be disposed of as the State Government shall from time to time determine.",
+                        "1": "Any copy or copies delivered pursuant to clause (b)of the said paragraph shall be3[transmitted to the Central Government].]"
+                    }
+                },
+                "Section 11A.": {
+                    "heading": "Copies of newspaper printed in India to be delivered gratis to Government.",
+                    "paragraphs": {
+                        "0": "The printer of every newspaper in 5[India] shall deliver at such place and to such officer as the State Government may, by notification in the Official Gazette, direct, and free of expense to the Government, two copies of each issue of such newspaper as soon as it is published.]"
+                    }
+                },
+                "Section 11B.": {
+                    "heading": "Copies of newspapers to be delivered to Press Registrar.",
+                    "paragraphs": {
+                        "0": "Subject to -any rules that may be be made under this Act, the publisher of every newspaper in India shall deliver free of expense to thePress Registrar one copy of each issue of such newspaper as soon as it is published.]"
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "PART IV",
+            "Name": "PENALTIES",
+            "Sections": {
+                "Section 12.": {
+                    "heading": "Penalty for printing contrary to rule in section 3.",
+                    "paragraphs": {
+                        "0": "Whoevershall print or publish any book or paper otherwise than in conformity with the rule contained in section 3 of this Act, shall, on conviction before a Magistrate,be punished by fine not exceeding7[two thousand] rupees, or by simple imprisonment imprisonment for a term not exceeding 8[six months], or by both."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Penalty for keeping press without making declaration required by section 4.",
+                    "paragraphs": {
+                        "0": "Whoevershall keep in his possession any such press as aforesaid, 9[in contravention of any of the provisions contained in section 4 of this Act], shall, on conviction before a Magistrate, be punished by fine not exceeding 1[two thousand] rupees, of by simple imprisonment for a term not exceeding 2[six months], or by both."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Punishment for making false statement.",
+                    "paragraphs": {
+                        "0": "Any person who shall, in making 3[any declaration or or other statement] under the authority of this Act, make a statement which is false, and which he either knows or believes to be false, or does not believe to be true, shall, on convictionbefore a Magistrate, be punished by fine not exceeding 1[two thousand] rupees, and imprisonment for a term not exceeding 2[six months]."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Penalty for printing or publishing newspaper without conforming to rules.",
+                    "paragraphs": {
+                        "0": "[(1)] Whoever shall 5 [edit], print or publish any 6 [newspaper] without conforming to the rules hereinbefore laid down, or whoever shall 5[edit], print or publish, or shall cause to be 5[edited], printed or published, any 7[newspaper], knowing that the said rules have not been observed with respect to 8[that newspaper], shall, on conviction before a Magistrate, be punished with fine not exceeding 1[two thousand] rupees, or imprisonment for a term not exceeding 2[six months] or both.",
+                        "1": "9[(2) Where an offence is committed in relation to a newspaper under sub -section (1),the Magistrate may, in addition to the punishment imposed under the said sub -section, also cancel the declaration in respect of the newspaper.]"
+                    }
+                },
+                "Section 15A.": {
+                    "heading": "Penalty for failure to make a declaration under section 8.",
+                    "paragraphs": {
+                        "0": "If any person who has ceased to be a printer or publisher of. any newspaper fails or neglects to make a declaration in compliance with section 8, he shall, on conviction before a Magistrate, be punishable by fine not exceeding two hundred rupees.]"
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Penalty for not delivering books or not supplying printer with maps.",
+                    "paragraphs": {
+                        "0": "Ifany printer of any such book as is referred to in section 9 of this Act shall neglect to deliver copies of the same pursuant to that section, he shall for every such default forfeit to the Government such sum not exceeding fifty rupees as a Magistrate having jurisdiction in the place where the book was printed may, on the application of the officer to whom the copies should have been delivered or of any person authorised by that officer in this behalf, determine to be in the circumstances a reasonable penalty for the default, and, in addition to such sum, such further sum as the Magistrate may determine to be the value of the copies which the printer ought to have delivered.",
+                        "1": "If any publisher or other person employing any such printer shall neglect to supply him, in the manner prescribed in the second paragraph of section 9 of this Act, with the maps, prints or engravings which may be necessary to enable him to comply with the provisions of that section, such publisher or other person shall for every such default forfeit to the Government such sum not exceeding fifty rupees as such a Magistrate as aforesaid may, on such an application as aforesaid, determine to be in the circums tances a reasonable penalty for the default, and, in addition to such sum, such further sum as the Magistrate may determine to be the value of the maps, prints or engravings which such publisher or other person ought to have supplied.]"
+                    }
+                },
+                "Section 16A.": {
+                    "heading": "Penalty for failure to supply copies of newspapers gratis to Government.",
+                    "paragraphs": {
+                        "0": "If any any printer of any newspaper published in 2[India] neglects to deliver copies of the same in compliance with section 11A, he shall, on the complaint of the officer to whom copies should have been delivered or of any person authorised by that officer in this behalf, be punishable, on conviction by a Magistrate having jurisdiction in the place where the newspaper was printed, with fine which may extend to fifty rupees for every defaul t.]"
+                    }
+                },
+                "Section 16B.": {
+                    "heading": "Penalty for failure to supply copies of newspapers to Press Registrar.",
+                    "paragraphs": {
+                        "0": "If any publisher of any newspaper published in India neglects to deliver copies of the same in compliance with section 11 B, he shall, on the complaint of the Press Registrar, be punisha ble, on conviction by a Magistrate having jurisdiction in the place where the newspaper was printed, by fine which may extend to fifty rupees for every default.]"
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Recovery of forfeitures and disposal thereof and of fines.",
+                    "paragraphs": {
+                        "0": "Anysum forfeited to the Government under 4[section 16] may be recovered, under the warrant of the Magistrate determining the sum, or of his successor in office, in the manner authorised by the 5Code of Criminal Procedure (10 of 1882) for the time being in force, and within the period prescribed by the Indian Penal Code (45 of 1860), for the levy of a fine.",
+                        "1": "6* * * * * ]"
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "PART V",
+            "Name": "REGISTRATIONOF BOOKS",
+            "Sections": {
+                "Section 18.": {
+                    "heading": "Registration of memoranda of books.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "There shall be kept at such office,and by such officer as the State Government shall appoint in this behalf, a book to be called a Catalogue of Books printed in 2[India], wherein shall be registered a memorandum of every book which shall have been delivered 7[pursuant to clause (a)of the first paragraph of section 9] of this Act. Such memorandum shall (so far as may be practicable) contain the following particulars (that is tosay) :\u2014",
+                            "contains": {
+                                "0": "(1) the title of the book and the contents of the title-page, with a translation into English of such title and contents, when the same are not in the English language;",
+                                "1": "(2) the language in which the book is written;",
+                                "2": "(3) the name of the author, translator or editor of the book or any part thereof;",
+                                "3": "(4) the subject;",
+                                "4": "(5) the place of printing and the place of publication;",
+                                "5": "(6) the name or firm of the printer and the name or firm of the publisher;",
+                                "6": "(7) the date of issue from the press or of the publication;",
+                                "7": "(8) the number of sheets, leaves or pages;",
+                                "8": "(9) the size;",
+                                "9": "(10) the first, second or other number of the edition;",
+                                "10": "(11) the number of copies of which the edition consists;",
+                                "11": "(12) whether the book is printed 8[cyclostyled or lithographed];",
+                                "12": "(13) the price at which the book is sold to the public; and",
+                                "13": "(14) the name and residence of the proprietor of the copyright or of any portion of suchcopyright."
+                            }
+                        },
+                        "1": "Such memorandum shall be made and registered in the case of each book as soon as practicable after the delivery of the 1[copy thereof pursuant to clause (a)of the first paragraph ofsection 9]2***."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Publication of memoranda registered.",
+                    "paragraphs": {
+                        "0": "Thememoranda registered during each quarter in the said Catalogue shall be published in the Official Gazette, as soon as may be after the end of such quarter, and a copy of the memoranda so published shall be sent 3* * * to the Central Government 4***."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "PART VA",
+            "Name": "REGISTRATIONOF NEWSPAPERS",
+            "Sections": {
+                "Section 19A.": {
+                    "heading": "Appointment of Press Registrar and other officers.",
+                    "paragraphs": {
+                        "0": "TheCentral Government may appoint a Registrar of newspapers for India and such other officers under the general superintendence and control of the Press Registrar as may be necessary for the purpose of performing the functions assigned to them by or under this Act, and may, by general or special order, provide for the distribution or allocation of functions to be performed by them under this Act."
+                    }
+                },
+                "Section 19B.": {
+                    "heading": "Register of newspapers.",
+                    "paragraphs": {
+                        "0": "(1) The Press Registrar shall maintain in the prescribedmanner a Register of newspapers.",
+                        "1": {
+                            "text": "(2)The Register shall, as far as may be practicable, contain the following par ticulars aboutevery newspaper published in India, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the title of the newspaper;",
+                                "1": "(b) the language in which the newspaper is published;",
+                                "2": "(c) periodicity of the publication of the newspaper;",
+                                "3": "( d) t h e na me of t he e di t or , p r i nt er a nd pu bl i s her of t he n ew spa per ;",
+                                "4": "(e) the place of printing and publication;",
+                                "5": "(f) the average number of pages per week;",
+                                "6": "(g) the number of days of publication in the year;",
+                                "7": "(h) the average number of copies printed, the average number of copies sold to the public and the average number of copies distributed free to the public, the average being calculated with reference to such period as may be prescribed;",
+                                "8": "(i) retail selling price per copy;",
+                                "9": "(j) the names and addresses of the owners of the newspaper andsuch other particulars relating to ownership as may be prescribed;",
+                                "10": "(k) any other particulars which may be prescribed."
+                            }
+                        },
+                        "2": "(3) On receiving information from time to time about the aforesaid particulars, the Press Registrar shall cause relevant entries to be made in the Register and may make such necessary alterations or corrections therein as may be required for keeping the Register up -to-date."
+                    }
+                },
+                "Section 19C.": {
+                    "heading": "Certificates of registration.",
+                    "paragraphs": {
+                        "0": "Onreceiving from the Magistrate under section 6 a copy of the declaration in respect of a newspaper 6[and on the publication of such newspaper, the Press Registrar shall], as soon as practicable thereafter, issue a certificate of registration in respect of that newspaper to the publisher thereof."
+                    }
+                },
+                "Section 19D.": {
+                    "heading": "Annual statement, etc., to be furnished by newspapers.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "It shall be the duty of the publisher of every newspaper\u2014",
+                            "contains": {
+                                "0": "(a) to furnish to the Press Registrar an annual statement in respect of the newspaper at such time and containing such ofparticulars referred to in sub-section (2) of section19B as may be prescribed;",
+                                "1": "(b) to publish in the newspaper at such times and such of the particulars relating to the newspaper referred to in sub-section (2) of section 19B as may be specified in this behalf by the Press Registrar."
+                            }
+                        }
+                    }
+                },
+                "Section 19E.": {
+                    "heading": "Returns and reports to be furnished by 'newspapers.",
+                    "paragraphs": {
+                        "0": "Thepublisher of every newspaper shall furnish to the Press Registrar such returns, statistics and other information with respect to any of the particulars referred to in sub-section (2) of section 1913 as the Press Registrar may from time to time require."
+                    }
+                },
+                "Section 19F.": {
+                    "heading": "Right of access to records and documents.",
+                    "paragraphs": {
+                        "0": "The Press Registrar or any gazetted officer authorised by him in writing, in this behalf shall, for the purpose of the collection of any information relating to a newspaper under this Act, have access to any relevant record or document relating to the newspaper in the possession of the publisher thereof, and may enter at any reasonable time any premises where he believes such record or document to be and may inspect or take copies of the relevant records or documents or ask any question necessary for obtaining any information required to be furnished under this Act."
+                    }
+                },
+                "Section 19G.": {
+                    "heading": "Annual report.",
+                    "paragraphs": {
+                        "0": "The Press Registrar shall prepare, in such form and at such time each year as may be prescribed, an annual report containing a summary of the information obtained by him during the previous year in respect of the newspapers in India and giving an account of the working of such newspapers, and copies thereof shall be forwarded to the Central Government."
+                    }
+                },
+                "Section 19H.": {
+                    "heading": "Furnishing of copies of extracts from Register.",
+                    "paragraphs": {
+                        "0": "On the application of any person for the supply of the copy of any extract from the Register and on payment of such fee as may be prescribed, the Press Registrar shall furnish such copy to the applicant in such form and manner as may be prescribed."
+                    }
+                },
+                "Section 19-I.": {
+                    "heading": "Delegation of powers.",
+                    "paragraphs": {
+                        "0": "Subject to the provisions of this Act and regulations made thereunder, the Press Registrar may delegate all or any of his powers under this Act to any officer subordinate to him."
+                    }
+                },
+                "Section 19J.": {
+                    "heading": "Press Registrar and other officers to be public servants.",
+                    "paragraphs": {
+                        "0": "The Press Registrar and all officers appointed under this Act shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 19K.": {
+                    "heading": "Penalty for contravention of section 19D or section 19E, etc.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "If the publisher of any newspaper\u2014",
+                            "contains": {
+                                "0": "(a)refuses or neglects to comply with the provisions of section 19D or section 19E; or",
+                                "1": "1* * * * *",
+                                "2": "(c)publishes in the newspaper in pursuance of clause (b)of section 19D any particulars relating to the newspaper which he has reason to believe to be false,"
+                            }
+                        },
+                        "1": "he shall be punishable with fine which may extend to five hundred rupees."
+                    }
+                },
+                "Section 19L.": {
+                    "heading": "Penalty for improper disclosure of information.",
+                    "paragraphs": {
+                        "0": "If any person engaged in connection with the collection of information under this Act wilfully discloses any information or the contents of any return given or furnished under this Act otherwise than in the execution of his duties under t his Act or for the purposes of the prosecution of an offence under this Act or under the Indian Penal Code (45 of 1860), he shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.]"
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "PART VI",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 20.": {
+                    "heading": "Power of State Government to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The State Government may, by notification in the Official Gazette, make such rules (not inconsistent with the rules made by the Central Government under section 20A) as may be necessary or desirable for carrying out the objects of this Act.",
+                        "1": "(2) Every rule made by the State Government under this section shall be laid, as soon as may be after it is made, before the State Legislature.]"
+                    }
+                },
+                "Section 20A.": {
+                    "heading": "Power of Central Government to make rules.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government may, by notification in the Official Gazette, make rules\u2014",
+                            "contains": {
+                                "0": "(a) prescribing the particulars which a declaration made and subscribed under section 5 may contain 3[and the form and manner in which the names of the printer, publisher, owner and editor of a newspaper and the place of its printing and publication may be printed on every copy of such newspaper];",
+                                "1": "4[(b) prescribing the manner in which copies of any declaration attested by the official seal of a Magistrate or copies of any order refusing to authenticate any declaration may be forwarded to the person making and subscribing the decimation and to the Press Registrar;]",
+                                "2": "(c) prescribing the manner in which copies of any newspaper may be sent to the Press Registrar under section 11B;",
+                                "3": "(d) prescribing the manner in which a Register may be maintained under section 19B and the particulars which it may contain;",
+                                "4": "(e) prescribed the particulars in which an annual statement to be furnished by the publisher of a newspaper to the Press Registrar may contain;",
+                                "5": "(f) prescribing the form and manner in which an annual statement under clause (a) of section 19D, or any returns, statistics or other information under section 19E, may be furnished to the Press Registrar;",
+                                "6": "(g) prescribing the fees for furnishing copies of extracts from the Register and the manner in which such copies may be furnished;",
+                                "7": "(h) prescribing the manner in which a certificate of registration may be issued in respect of a newspaper;",
+                                "8": "(i) prescribing the form in which, and the time within which, annual reports may be prepared by the Press Registrar and forwarded to the Central Government."
+                            }
+                        },
+                        "1": "5[(2) Every rule made under this section shall be laid as soon as may be after it is made before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or 6[in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid] both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so however that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.]]"
+                    }
+                },
+                "Section 20B.": {
+                    "heading": "Rules made under this Act may provide that contravention thereof shall be punishable.",
+                    "paragraphs": {
+                        "0": "Any rule made under any provision of this Act may provide that any contravention thereof shall be punishable with fine which may extend to one hundred rupees.]"
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Power to exclude any class of books from operation of Act.",
+                    "paragraphs": {
+                        "0": "2[The State Government may, by notification in the Official Gazette], exclude any class of books 3[or papers] from the operation of the whole or any part or parts of this Act:",
+                        "1": "4[Provided that no such notification in respect of any class of newspapers shall be issued without consulting the Central Government.]"
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Extent.",
+                    "paragraphs": {
+                        "0": "[This Act extends to the whole of India 6***.]"
+                    }
+                },
+                "Section 23.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Commencement of Act.] Rep. by the Repealing Act, 1870 (14 of 1870), s. 1 and Schedule, Pt. II."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. Short title given by the Indian Short Titles Act, 1897 (14 o f 1897).For  Statement  of  Objects  and  Reasons,  see  Gazette  of  India,  1867,  p.  191;  and  for  Proceedings  in  Council,  seeibid.,Supplement, pp. 72, 156 and 299.This Act was declared by the Laws Local Extent Act, 1874 (15 of 1874), s. 3 to be in force in all the Provines of India,except the Scheduled Districts.It has heen applied to the SanthalParganas by the SanthalParganas Settlement  Regulation  (3 of 1872 ), s,3; tothe  Khondmals  District  by  the  Khondmals  Laws  Regulation,  1936  (4  of  1936),  s.  3  and  Sch.;  and  to  the  AngulDistrict by the Angul Laws Regulation, 1936 (5 of 1936), s. 3 and Sch.It has been extended to Goa, Daman and Diu with modifications by Reg. 12 of 1962, s.3 and Sch.; to Dadra and NagarHaveli by Reg. 6 of 1963, s. 2 and Sch. I (w.e.f. 1-7-1965) and to Pondicherry by Reg. 7 of 1963, s, 3 and Sch.I (w.e.f. 1-10-1963).It  has  been  applied,  by  notification  under  s.  3(a)  of  the  Scheduled  Districts  Act,  1874  (14  of  1874),  to  the  followingScheduled Districts, namely: \u2014the Territory of Peint, see Gazette of India, 1887, Pt. I, p.144 (Peint is now no longer a Scheduled  District,and  all  the  enactments  in  force  in  the  Nasik  District  of  the  Bombay  Presidency,  among  them  Act  25  of  1867,are now in force in this territory), see the Peint Laws Act, 1894 (Bom. Act 2 of 1894).the Island of Perim, see Gazette of India, 1887, Pt. I, p. 5;that portion of  the  Jalpaiguri District  which  was  formerly  the  Jalpaiguri  Sub -division  and  now  form\u2019s  thewestern  portion  of  the  District  of  Jalpaiguri  and  extends  as  far  east  as  the  Teesta  River,  the  hills  west  of  theTeesta River in the District of Darjiling, the DarjilingTarai, the Damson Sub-division of the Darjiling District,the Districts of Hazaribagh [Lohardaga now called the Ranchi District,  see Calcutta Gazette, 1899, Pt. I,p. 44]and Manbhum, and ParganaDhalbhum and the Kolhan in the District of Singhbhum,  see Gazette of India, 1881,Pt. I, pp. 74 and 504; the Western Duars of the Jalpaiguri District,  see ibid.,1910, Pt. I, p,1160;the Districts of Kumaon and Garhwal, see Gazette of India, 1876, Pt. I, p. 605;the scheduled portion of the Mirzapur District, see Gazette of India, 1879, Pt.. I, P. 383;ParganaJaunsarBawar in the Dehra Dun District, see Gazette of India, 1897, Pt. I, p. 382;the Districts of Kamrup, Nowgong, Darrang, Sibsagar, Lakimpur, Goalpara (excluding the EasternDuars and Cacharexcluding the North Cachar Hills), see Gazette of India, 1878, Pt. I, p. 533;theGaro  Hills,  the  Khasi  and  Jaintia  Hills,  the  Naga  Hills,  the  North  Cachar  Hills  in  theCacharDistrict and the Eastern Duars in the Goalpara District,  see Gazette of India, 1897, Pt. I, p.299.It has been declared by notification under s. 3(b) of the Scheduled Districts Act, 1874 (14 of 1874) not to be in force inthe Scheduled District of Lahaul in the Punjab, see Gazette of India, 1886, Pt. I, p. 301.It has been extended, by notification under s. 5 of the Scheduled D istricts Act, 1874 (14 of 1874), to the TaraDistrict of  the Province of  Agra,  see  Gazette  of  India, 1876, Pt.  I, p. 506,  to the  District  of  Coorg,  see  ibid.  1918,Pt.II, p. 1730.It has also been extended to Berar by the Berar Laws Act, 1941 (4 of 1941).It  has  been  amended  in  its  application  to  Andhra  by  Andhra  Act  8  of  1960;  Madras  by  Madras  Act s  24  of1948 and 14 of 1960; Punjab by Punjab Acts 14 of 1942, 25 of 1950 and 15 of 1957; Mysore by Mysore Act 10of 1972; and Himachal Pradesh by Himachal Pradesh Act 17 of 1974.",
+            "1": "2. Ins. by Act 55 of 1955, s. 2 (w.e.f. 1-7-1956).",
+            "2": "3. Subs. by Act 3 of 1951, s. 3 and Schedule, for \u201cthe whole of India except Part BStates\u201d.",
+            "3": "4. Subs. by Act 35 of 1950, s. 3 and the Second Schedule, for \u201cperiodicals containing news\u201d.",
+            "4": "5. The word \u201cthree\u201d omitted by Act 10 of 1890, s. 1.",
+            "5": "6. Subs by Act 55 of 1955, s. 3, for \u201cevery book printed or lithographed in India and for the registration of such books\u201d(w.e.f. 1-7-1956).",
+            "6": "7.Section 1 re-numbered as sub-section (1) thereof by Act 16 of 1965, s. 2 (w.e.f. 1-11-1965)."
+        },
+        "Page 4": {
+            "0": "1.  The words \u201cor lithographed\u201d omitted by Act 55 of 1955, s. 4 (w.e.f. 1-7-1956).",
+            "1": "2.  Definition of \u201cBritish India\u201d rep. by the A.O. 1937, see now the definition in s. 3(5) of the General Clauses Act, 1897 (10 of1897).",
+            "2": "3.  Ins. by Act 14 of 1922, s. 3 and the First Schedule.",
+            "3": "4.  Definition of \u201cIndia\u201d omitted by Act 16 of 1965, s. 2 (w.e.f. 1-11-1965).",
+            "4": "5.  Now Magistrate of the first class, see the Code of Criminal Procedure, 1973 (2 of 1974).",
+            "5": "6.  Now Presidency Magistrate, seeibid.",
+            "6": "7.  The words \u201cand a Justice ofthe Peace\u201d rep. by Act 10 of 1890, s. 2.",
+            "7": "8.  Ins. by Act 14 of 1922, s. 3and the First Schedule.",
+            "8": "9.  Paragraphs relating to the definitions of \u201cNumber\u201d and \u201cGender\u201d rep. by Act 10 of 1914, s. 3 and Sch. II; definition of \u201cLocalGovernment\u201d  rep.  by  the  A.O.  1937  and  the  definition  of  \u201cStates\u201d  ins.  by  the  A.O.  1950  was  rep.  by  Act  3  of  1951,  s.  3andSch.10. Ins. by Act 55 of 1955, s. 4 (w.e.f. 1-7-1956).11. Ins. by Act 16 of 1965, s. 2 (w.e.f. 1-11-1965).12. Subs. by Act 3 of 1951, s. 3 and Schedule, for \u201cthe States\u201d.13. Ins. by Act 12 of1891, s. 2 and the Second Schedule.14. Section 4 re-numbered as sub-section (1) thereof by Act 55 of 1955, s. 5 (w.e.f. 1-7-1956).15. Subs. by Act 56 of 1951, s. 36, for\u201cthe Magistrate\u201d (w.e.f. 1-2-1952)."
+        },
+        "Page 5": {
+            "0": "1.  Added byAct 55 of 1955, s. 5 (w.e.f. 1-7-1956).",
+            "1": "2.  Subs. by Act 14 of 1922, s. 3 and the First Schedule, for \u201cprinted periodical work containing public news or comments on publicnews,\u201d.",
+            "2": "3.  Subs. by Act 3 of 1951, s. 3 and Schedule, for \u201cthe States\u201d.4  Subs. by Act 26 of 1960, s. 2, for rule (1)(w.e.f.1-10-1960) which was ins. by Act 14 of 1922, s. 3 and the First Schedule.",
+            "3": "5.  Rule (1)re-numbered as rule (2)by Act 14 of 1922, s. 3 and the First Schedule.",
+            "4": "6. Subs. by s. 2 and the First Schedule, ibid., for \u201cperiodical work\u201d.",
+            "5": "7.  Subs. by s. 3 and the First Schedule, ibid., for \u201cperiodical work\u201d.",
+            "6": "8.  The words \u201c, or such printer or publisher resides,\u201d omitted by Act 26 of 1960, s. 2 (w.e.f. 1-10-1960).",
+            "7": "9.  Subs. by Act 55 of 1955, s. 6, for certain words (w.e.f. 1-7-1956).10. Ins. by s. 6, ibid.11. Ins. by Act 26 of 1960, s. 2 (w.e.f. 1-10-1960)."
+        },
+        "Page 6": {
+            "0": "1. Rule (2) re-numbered as rule (3) by Act 14 of 1922, s. 3 and the First Schedule.",
+            "1": "2. Ins. by Act 55 of 1955, s. 6(w.e.f. 1-7-1956).",
+            "2": "3. Subs. by Act 26 of 1960, s. 2 for rule (4) (w.e.f. 1-10-1960) which had been re-numbered for the original rule(3) by Act 14 of 1922,s. 3 and the First Schedule.",
+            "3": "4. Subs. by s.2,ibid. for \u201cof the declaration\u201d (w.e.f. 1-10-1960).",
+            "4": "5. Ins. by Act 14 of 1922, s. 3 and the First Schedule.",
+            "5": "6. Ins. by Act 26 of 1960, s. 2 (w.e.f. 1-10-1960)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 16 of 1965, s. 3 (w.e.f. 1-10-1965).",
+            "1": "2. Subs. by Act 30 of 1968, s. 2, for certain words, brackets and figures (retrospectively).",
+            "2": "3. Ins. by Act 55of 1955, s. 7 (w.e.f. 1-7-1956).",
+            "3": "4. Subs.by Act 26 of 1960, s. 3, for certain words (w.e.f. 1-10-1960).",
+            "4": "5. Subs. by Act 10 of 1890, s. 3, for certain words.",
+            "5": "6. Subs. by Act 26 of 1960, s. 3, for the fourth paragraph (w.e.f. 1-10-1960) which was ins, by Act 55 of 1955, s. 7 (w.e.f. 1-7-1956).",
+            "6": "7. Ins. by Act 14 of 1922, s. 3 and the First Schedule."
+        },
+        "Page 8": {
+            "0": "1. Subs. by Act 14 of 1922, s. 3 and the First Schedule, ibid.,for \u201cperiodical work\u201d.",
+            "1": "2. Ins. by s. 3 and the First Schedule, ibid.",
+            "2": "3. Subs. by Act 55 of 1955, s. 8, for the first paragraph (w,e.f. 1-7-1956).",
+            "3": "4. Ins. by s. 8, ibid. (w.e.f. 1-7-1956).",
+            "4": "5. Ins. by Act 26 of 1960, s. 4 (w.e.f. 1-10-1960)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 37 of 1978, s. 27, for certain words.",
+            "1": "2. Subs. by Act 10 of 1890, s. 4, for Part III.3  The words \u201cor lithographed\u201d omitted by Act 55 of 1955, s. 9 (w.e.f. 1-7-1956).",
+            "2": "4. Subs. by Act 3 of 1951, s. 3 and the Schedule, for \u201cthe States\u201d."
+        },
+        "Page 10": {
+            "0": "1. The words \u201cor lithographed\u201d omitted by Act 55 of 1955, s. 9. (w.e.f. 1-7-1956).",
+            "1": "2. Subs. by Act 14 of 1922, s.3 and the First Schedule, for \u201cperiodical work\u201d.",
+            "2": "3. Subs. by the A.O. 1948, for certain words.",
+            "3": "4. Ins. by Act 14 of 1922, s. 3 and the First Schedule.",
+            "4": "5. Subs. by Act 3 of 1951, s. 3 and the Schedule, for \u201cthe States\u201d.",
+            "5": "6. Ins. by Act 55 of 1955, s. 10 (w.e.f. 1-7-1956).",
+            "6": "7. Subs. by Act 14 of 1922, s. 3 and the First Schedule, for \u201cfive thousand\u201d.",
+            "7": "8. Subs. by s. 3 and the First Schedule, ibid., for \u201ctwo years\u201d.",
+            "8": "9. Subs. by Act 55 of 1955, s. 11, for \u201cwithout making such a declaration as is required by section 4 of this Act\u201d (w.e.f.1-7-1956)."
+        },
+        "Page 11": {
+            "0": "1.   Subs. by Act 14 of 1922, s. 3 and the First Schedule, for \u201cfive thousand\u201d.",
+            "1": "2.   Subs. by s. 3 and the First Schedule, ibid., for \u201ctwo years\u201d.",
+            "2": "3.  Subs. by Act 55 of 1955 s. 12, for \u201cany declaration\u201d (w.e.f. 1-7-1956).",
+            "3": "4.  Section 15re-numbered as sub-section (1)of that section by Act 26 of 1960, s. 5 (w.e.f. 1-10-1960).",
+            "4": "5.  Ins. by Act 14 of 1922, s. 3 and the First Schedule.",
+            "5": "6.  Subs. by s. 3 and the First Schedule, ibid.,for \u201csuch periodical work as is hereinbefore described,\u201d.",
+            "6": "7.  Subs, by s, 3 and the First Schedule, ibid., for \u201csuch periodical work,\u201d",
+            "7": "8.  Subs. by s. 3 and the First Schedule, ibid.,for \u201cthat work ,\u201d.",
+            "8": "9.  Ins. by Act 26 of 1960, s. 5 (w.e.f. 1-10-1960).10.  Ins. by Act 55 of 1955, s. 13 (w.e.f. 1-7-1956).11. Subs. by Act 10 of 1890, s. 5,for  sections 16 and 17."
+        },
+        "Page 12": {
+            "0": "1. Ins. by Act 14 of 1922, s. 3 and the First Schedule.",
+            "1": "2. Subs. by Act 3 of 1951, s. 3 and the Schedule, for \u201cthe States\u201d.",
+            "2": "3. Ins. by Act 55 of 1955, s. 14 (w.e. f. 1-7-1956).",
+            "3": "4. Subs. by Act 11 of 1923, s. 2 and the First Schedule, for \u201cthe last foregoing section\u201d.",
+            "4": "5. See now the Codeof Criminal Procedure, 1973 (2 of 1974).",
+            "5": "6. The second paragraph of section 17 rep. by the A.O.1937.",
+            "6": "7. Subs. by Act 10 of 1890, s. 6, for \u201cpursuant to section 9\u201d.8  Subs. by Act 55 of 1955, s. 15, for \u201cor lithographed\u201d (w.e.f. 1-7-1956)."
+        },
+        "Page 13": {
+            "0": "1. Subs. by Act 10 of 1890, s. 6, for \u201ccopies thereof in manner aforesaid\u201d.",
+            "1": "2. Last sentence of section 18 rep. by Act 3 of 1914, s. 15 and the Second Schedule.3  The words \u201cto the said Secretary of State, and\u201d rep. by the A.O. 1948.",
+            "2": "4. The word \u201crespectively\u201d omitted, ibid.",
+            "3": "5. Ins. by Act 55 of 1955, s. 16 (w.e.f. 1-7-1956).",
+            "4": "6. Subs. by Act 26 of 1960, s. 6, for certain words (w.e.f. 1-10-1960)."
+        },
+        "Page 14": {
+            "0": "1.Clause(b)omitted by Act 26 of 1960, s. 7 (w.e.f. 1-10-1960)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 20 of 1983, s. 2 and Schedule, for section 20 (w.e.f. 15-3-1984).",
+            "1": "2. Ins. by Act 55 of 1955, s. 18 (w.e.f. 1-7-1956).",
+            "2": "3. Ins. by Act 26 of 1960, s. 8 (w.e.f. 1-10-1960).",
+            "3": "4. Subs. by s. 8, ibid.,for clause(b)(w.e.f. 1-10-1960).",
+            "4": "5. Subs. by s. 8, ibid., for sub-section (2) (w.e.f. 1-10-1960).",
+            "5": "6. Subs. by Act 20 of 1983, s. 2 and Schedule, for certain words (w.e.f. 15-3-1984)."
+        },
+        "Page 16": {
+            "0": "1. Ins. by Act 26 of 1960, s. 9 (w.e.f. 1-10-1960).",
+            "1": "2. Subs. by the A.O. 1937, for certain words.",
+            "2": "3. Ins. by Act 11 of 1915, s. 2 and Sch. I.",
+            "3": "4. Added by Act 26 of 1960, s. 10 (w.e.f. 1-10-1960).",
+            "4": "5. Ins. by Act 55 of 1955, s. 19.Original s. 22rep. by Act 10 of 1890, s. 7. (w.e.f. 1-7-1956).",
+            "5": "6. The words \u201cexcept the State of Jammu and Kashmir\u201d omitted by Act 16 of 1965, s. 4 (w.e.f. 1-11-1965)."
+        }
+    }
+}

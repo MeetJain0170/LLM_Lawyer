@@ -1,0 +1,425 @@
+{
+    "Act Title": "THE CATTLE-TRESPASS ACT, 1871",
+    "Act ID": "ACT NO. 1 OF 1871",
+    "Enactment Date": "[13th January, 1871.]",
+    "Act Definition": {
+        "0": "An Act to consolidate and amend the law relating to Trespasses by Cattle",
+        "1": "Preamble.\u2014 WHEREAS it is expedient to consolidate and amend the law relating to trespasses by cattle"
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Title and extent.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Cattle-trespass Act, 1871; and",
+                        "1": "(2) It extends to the whole of India except 3 [the territories which, immediately before the 1st November, 1956, were comprised in Part B States], and the presidency-towns and such local areas as the State Government, by notification in the Official Gazette, may from time to time exclude from its operation.",
+                        "2": "4[* * * * *]"
+                    }
+                },
+                "Section 2.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Repeal of Acts. References to repealed Acts.] Rep. by the Repealing Act, 1938 (1 of 1938)."
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Interpretation clause.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act,\u2014",
+                            "contains": {
+                                "0": "\u201cofficer of police\u201d includes also village-watchman, and",
+                                "1": "\u201ccattle\u201d includes also elephants, camels, buffaloes, horses, mares, geldings, ponies, colts, fillies, mules, asses, pigs, rams, ewes, sheep, lambs, goats and kids 5[, and",
+                                "2": "6\u201clocal authority\u201d means any body of persons for the time being invested by law with the control and administration of any matters within a specified local area, and",
+                                "3": "\u201clocal fund\u201d means any fund under the control or management of a local authority.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "POUNDS AND POUND-KEEPERS",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Establishment of pounds.",
+                    "paragraphs": {
+                        "0": "Pounds shall be established at such places as the Magistrate of the District, subject to the general control of the State Government, from time to time directs.",
+                        "1": "The village by which every pound is to be used shall be determined by the Magistrate of the District."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Control of pounds.",
+                    "paragraphs": {
+                        "0": "The pounds shall be under the control of the Magistrate of the District; and he shall fix, and may from time to time alter, the rates of charge for feeding and watering impounded cattle."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Appointment of pound-keepers. Pound-keepers may hold other offices. Pound-keepers to be public servants.",
+                    "paragraphs": {
+                        "0": "The State Government shall appoint a pound-keeper for every pound.",
+                        "1": "Any pound-keeper may hold simultaneously any other office under the Government.",
+                        "2": "Every pound-keeper shall be deemed to be a public servant within the meaning of the Indian Penal Code (45 of 1860).]"
+                    }
+                }
+            },
+            "Subheadings": [
+                {
+                    "Name": "DUTIES OF POUND-KEEPERS",
+                    "Sections": {
+                        "Section 7.": {
+                            "heading": "To keep registers and furnish returns.",
+                            "paragraphs": {
+                                "0": "Every pound-keeper shall keep such registers and furnish such returns as the State Government from time to time directs."
+                            }
+                        },
+                        "Section 8.": {
+                            "heading": "To register seizures.",
+                            "paragraphs": {
+                                "0": {
+                                    "text": "When cattle are brought to a pound, the pound-keeper shall enter in his register,\u2014",
+                                    "contains": {
+                                        "0": "(a) the number and description of the animals,",
+                                        "1": "(b) the day and hour on and at which they were so brought,",
+                                        "2": "(c) the name and residence of the seizer, and",
+                                        "3": "(d) the name and residence of the owner, if known,"
+                                    }
+                                },
+                                "1": "and shall give the seizer or his agent a copy of the entry."
+                            }
+                        },
+                        "Section 9.": {
+                            "heading": "To take charge of and feed cattle.",
+                            "paragraphs": {
+                                "0": "The pound-keeper shall take charge of, feed and water the cattle until they are disposed of as hereinafter directed."
+                            }
+                        }
+                    }
+                }
+            ]
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "IMPOUNDING CATTLE",
+            "Sections": {
+                "Section 10.": {
+                    "heading": "Cattle damaging land.",
+                    "paragraphs": {
+                        "0": "The cultivator or occupier of any land,",
+                        "1": "or any person who has advanced cash for the cultivation of the crop or produce on any land,",
+                        "2": "or the vendee or mortgagee of such crop or produce or any part thereof,",
+                        "3": "may seize or cause to be seized any cattle trespassing on such land and doing damage thereto or to any crop or produce thereon, and 2[send them or cause them to be sent within twenty-four hours] to the pound established for the village in which the land is situate.",
+                        "4": "Police to aid seizures.\u2014All officers of police shall, when required, aid in preventing (a) resistance to such seizures, and (b) rescues from persons making such seizures."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Cattle damaging public roads, canals and embankments.",
+                    "paragraphs": {
+                        "0": "Persons in charge of public roads, pleasure-grounds, plantations, canals, drainage-works, embankments and the like and officers of police, may seize or cause to be seized any cattle doing damage to such roads, grounds, plantations, canals, drainage-works, embankments and the like, or the sides or slopes of such roads, canals, drainage-works or embankments or found straying thereon,",
+                        "1": "and shall 1[send them or cause them to be sent within twenty-four hours] to the nearest pound."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Fines for cattle impounded.",
+                    "paragraphs": {
+                        "0": "For every head of cattle impounded as aforesaid, the pound- keepers shall levy a fine in accordance with the scale for the time being prescribed by the State Government in this behalf by notification in the Official Gazette. Different scales may be prescribed for different local areas.",
+                        "1": "All fines so levied shall be sent to the Magistrate of the District through such; officer as the State Government may direct.",
+                        "2": "List of fines and charges for feeding.\u2014A list of the fines and of the rates of charge for feeding and watering cattle shall be posted in a conspicuous place on or near to every pound.]"
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "DELIVERY OR SALE OF CATTLE",
+            "Sections": {
+                "Section 13.": {
+                    "heading": "Procedure when owner claims the cattle and pays fines and charges.",
+                    "paragraphs": {
+                        "0": "If the owner of the impounded cattle or his agent appear and claim the cattle, the pound-keeper shall deliver them to him on payment of the fines and charges incurred in respect of such cattle.",
+                        "1": "The owner or his agent, on taking back the cattle, shall sign a receipt for them in the register kept by the pound-keeper."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Procedure if cattle be not claimed within a week.",
+                    "paragraphs": {
+                        "0": "If the cattle be not claimed within seven days from the date of their being impounded, the pound-keeper shall report the fact to the officer in charge of the nearest police-station, or to such other officer as the Magistrate of the District appoints in this behalf.",
+                        "1": {
+                            "text": "Such officer shall thereupon stick up in a conspicuous part of his office a notice stating\u2014",
+                            "contains": {
+                                "0": "(a) the number and description of the cattle,",
+                                "1": "(b) the place where they were seized,",
+                                "2": "(c) the place where they are impounded,"
+                            }
+                        },
+                        "2": {
+                            "text": "and shall cause proclamation of the same to be made by beat of drum in the village and at the market- place nearest to the place of seizure.",
+                            "contains": {
+                                "0": "If the cattle be not claimed within seven days from the date of the notice, they shall be sold by public auction by the said officer, or an officer of his establishment deputed for that purpose, at such place and time and subject to such conditions as the Magistrate of the District by general or special order from time to time direct:",
+                                "1": "Provided that, if any such cattle are, in the opinion of the Magistrate of the District, not likely to fetch a fair price if sold as aforesaid, they may be disposed of in such manner as he thinks fit."
+                            }
+                        }
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Delivery to owner disputing legality of seizure but making deposit.",
+                    "paragraphs": {
+                        "0": "If the owner or his agent appear and refuse to pay the said fines and expenses, on the ground that the seizure was illegal and that the owner is about to make a complaint under section 20, then , upon deposit of the fines and charges incurred in respect of the cattle, the to him."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Procedure when owner refuses or omits to pay the fines and expenses.",
+                    "paragraphs": {
+                        "0": "If the owner or his agent appear and refuse or omit to pay or (in the case mentioned in section 15) to deposit the said fines and expenses, the cattle, or as many of them as may be necessary, shall be sold by public auction by such officer at such place and time, and subject to such conditions, as are referred to in section 14.",
+                        "1": "Deduction of fines and expenses.\u2014The fines leviable and the expenses of feeding and watering, together with the expenses of sale, if any, shall be deducted from the proceeds of the sale.",
+                        "2": {
+                            "text": "Delivery of unsold cattle and balance of proceeds.\u2014The remaining cattle and the balance of the purchase-money, if any, shall be delivered to the owner or his agent, together with an account showing\u2014",
+                            "contains": {
+                                "0": "(a) the number of cattle seized,",
+                                "1": "(b) the time during which they have been impounded,",
+                                "2": "(c) the amount of fines and charges incurred,",
+                                "3": "(d) the number of cattle sold,",
+                                "4": "(e) the proceeds of sale, and",
+                                "5": "(f) the manner in which those proceeds have been disposed of."
+                            }
+                        },
+                        "3": "Receipts.\u2014The owner or his agent shall give a receipt for the cattle delivered to him and for the balance of the purchase-money (if any) paid to him according to such account."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Disposal of fines, expenses and surplus proceeds of sale.",
+                    "paragraphs": {
+                        "0": "The officer by whom the sale was made shall send to the Magistrate of the District the fines so deducted.",
+                        "1": "The charges for feeding and watering deducted under section 16 shall be paid over to the pound- keeper, who shall also retain and appropriate all sums received by him on account of such charges under section 13.",
+                        "2": "The surplus unclaimed proceeds of the sale of cattle shall be sent to the Magistrate of the District, who shall hold them in deposit for three months, and, if no claim thereto be preferred and established within that period, shall, at its expiry, 1[be deemed to hold them as part of the revenues of the State]."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "[Repealed.].",
+                    "paragraphs": {
+                        "0": "[Application of fines and unclaimed proceeds of sale.] Rep. by the A.O. 1937."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Officers and pound-keepers not to purchase cattle at sales under Act.",
+                    "paragraphs": {
+                        "0": "No officer of police or other officer or pound-keeper appointed under the provisions herein contained shall, directly or indirectly, purchase any cattle at a sale under this Act.",
+                        "1": "Pound-keepers when not to release impounded cattle.\u2014No pound-keeper shall release or deliver any impounded cattle otherwise than in accordance with the former part of this Chapter unless such release or delivery is ordered by a Magistrate or Civil Court."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "COMPLAINTS OF ILLEGAL SEIZURE OR DETENTION",
+            "Sections": {
+                "Section 20.": {
+                    "heading": "Power to make complaints.",
+                    "paragraphs": {
+                        "0": "Any person whose cattle have been seized under this Act, or having been so seized, have been detained in contravention of this Act, may, at any time within ten days from the date of the seizure, make a complaint to the Magistrate of the District or any Magistrate authorised to receive and try charges without reference by the Magistrate of the District."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Procedure on complaint.",
+                    "paragraphs": {
+                        "0": "The complaint shall be made by the complainant in person or by an agent personally acquainted with the circumstances. It may be either in writing or verbal. If it be verbal, the substance of it shall be taken down in writing by the Magistrate.",
+                        "1": "If the Magistrate, on examining the complainant or his agent, sees reason to believe the complaint to be well founded, he shall summon the person complained against, and make an enquiry into the case."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Compensation for illegal seizure or detention.",
+                    "paragraphs": {
+                        "0": "If the seizure or detention be adjudged illegal, the Magistrate shall award to the complainant, for the loss caused by the seizure or detention, reasonable compensation, not exceeding one hundred rupees, to be paid by the person who made the seizure or detained the cattle together with all fines paid and expenses incurred by the complainant in procuring the release of the cattle,",
+                        "1": "Release of cattle.\u2014and, if the cattle have not been released, the Magistrate shall, besides awarding such compensation, order their release and direct that the fines and expenses leviable under this Act shall be paid by the person who made the seizure or detained the cattle."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Recovery of compensation.",
+                    "paragraphs": {
+                        "0": "The compensation, fines and expenses mentioned in section 22 may be recovered as if they were fines imposed by the Magistrate.]1"
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "PENALTIES",
+            "Sections": {
+                "Section 24.": {
+                    "heading": "Penalty for forcibly opposing the seizure of cattle or rescuing the same.",
+                    "paragraphs": {
+                        "0": "Whoever forcibly opposes the seizure of cattle liable to be seized under this Act,",
+                        "1": "and whoever rescues the same after seizure, either from a pound, or from any person taking or about to take them to a pound, such person being near at hand and acting under the powers conferred by this Act,",
+                        "2": "shall, on conviction before a Magistrate, be punished with imprisonment for a period not exceeding six months, or with fine not exceeding five hundred rupees, or with both."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Recovery of penalty for mischief committed by causing cattle to trespass.",
+                    "paragraphs": {
+                        "0": "Any fine imposed 21 3[under the next following section or] for the offence of mischief by causing cattle to trespass on any land may be recovered by sale of all or any of the cattle by which the trespass was committed, whether they were seized in the act of trespassing or not, and whether they are the property of the person convicted of the offence, or were only in his charge when the trespass was committed."
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Penalty for damage caused to land or crops or public roads by pigs.",
+                    "paragraphs": {
+                        "0": "Any owner or keeper of pigs who, through neglect or otherwise, damages or causes or permits to be damaged any land, or any crop or produce of land, or any public road, by allowing such pigs to trespass thereon, shall, on conviction before a Magistrate, be punished with fine not exceeding ten rupees.",
+                        "1": "4[The 5[State Government], by notification in the Official Gazette, may from time to time with respect to any local area specified in the notification, direct that the foregoing portion of this section shall be read as if it had reference to cattle generally, or to cattle of a kind described in the notification, instead of to pigs only, or as if the words \u201cfifty rupees\u201d were substituted for the words \u201cten rupees,\u201d or as if there were both such reference and such substitution.]",
+                        "2": {
+                            "text": "6* * * * *",
+                            "contains": {
+                                "0": "STATE AMENDMENTS"
+                            }
+                        },
+                        "3": {
+                            "text": "Assam",
+                            "contains": {
+                                "0": "Substitution of Section 26.\u2014In the principal Act, for section 26, the following section shall be substituted, namely: \u2014",
+                                "1": "\u201c26. Penalty for damage caused to land or crops or public roads or for injury caused to any person by cattle or for cattle on public roads.\u2014",
+                                "2": "(1) Any owner or keeper or attendant of cattle who through neglect or criminal motive or otherwise damages or causes or permits to be damaged any land or any crop or produce of land or any public road or anything or causes injury to any person or persons by allowing such cattle to trespass thereon, or lets loose any cattle to stray on any public road and thereby causes obstruction to traffic shall, on conviction before a judicial magistrate, be punishable with fine which shall not be less than five hundred rupees but which may extend to one thousand rupees and in default of payment of fine, simple imprisonment for a term not exceeding one month for the first offence and for the subsequent offences, fine not less than one thousand rupees but which may extend to two thousand rupees or to simple imprisonment for a term which may extend to three months.",
+                                "3": "(2) While convicting such person under sub-section (1), the magistrate may order him to pay the person whose land, or crop or produce of land or anything has been damaged or the person who is injured, such compensation depending upon the value of the loss or expenses so incurred for the medical treatment, as may be considered reasonable and in default of payment, the cattle in respect of which the offence has been committed shall be forfeited and sold on auction in order to compensate the person so aggrieved.\u201d",
+                                "4": "[Vide Assam Act 15 of 2002, s. 2.]",
+                                "5": "Insertion of section 26A.\u2014 In the principal Act, after section 26, the following new section 26A shall be inserted namely: \u2014",
+                                "6": "\u201c26A. Cognizance of offence.\u2014No Court shall take cognizance of any offence punishable under section 26 except on a report in writing of the facts constituting such offence made by the person aggrieved by such offence or by person who is a public servant as defined in section 21 of the Indian Penal Code, 1860 (Act 45 of 1860).\u201d",
+                                "7": "[Vide Assam Act 15 of 2002, s. 3.]"
+                            }
+                        },
+                        "4": {
+                            "text": "Uttar Pradesh",
+                            "contains": {
+                                "0": "Uttar Pradesh Amendment of section 26 of Act (1 of 1971).\u2014For section 26 of the Cattle Trespass Act, 1871, (hereafter called the principal Act), the following shall be substituted\u2014",
+                                "1": "\u201c26. Penalty for damage caused to land by cattle.\u2014Any owner, keeper or attendant of cattle, who though neglect or otherwise, damages or causes or permits to be damaged any land, or any crop or produce of land by allowing such cattle to trespass thereon, shall on conviction before a Magistrate, beliable to a fine not less than Rs. 10 but not exceeding Rs. 250 or to imprisonment for a term not exceeding three months or to both.\u201d",
+                                "2": "[Vide Uttar Pradesh Act 7 of 1954, s. 2]"
+                            }
+                        }
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Penalty on pound-keeper failing to perform duties.",
+                    "paragraphs": {
+                        "0": "Any pound-keeper releasing or purchasing or delivering cattle contrary to the provisions of section 19, or omitting to provide any impounded cattle with sufficient food and water, or failing to perform any of the other duties imposed upon him by this Act, shall, over and above any other penalty to which he may be liable, be punished, on conviction before a Magistrate, with fine not exceeding fifty rupees.",
+                        "1": "Such fines may be recovered by deductions from the pound-keeper\u2019s salary."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Application of fines recovered under section 25, 26 or 27.",
+                    "paragraphs": {
+                        "0": "All fines recovered under section 25, section 26 or section 27 may be appropriated in whole or in part as compensation for loss or damage proved to the satisfaction of the convicting Magistrate."
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "SUITS FOR COMPENSATION",
+            "Sections": {
+                "Section 29.": {
+                    "heading": "Saving of right to sue for compensation.",
+                    "paragraphs": {
+                        "0": "Nothing herein contained prohibits any person whose crops or other produce of land have been damaged by trespass of cattle from suing for compensation in any competent Court."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Set-off.",
+                    "paragraphs": {
+                        "0": "Any compensation paid to such person under this Act by order of the convicting Magistrate shall be set-off and deducted from any sum claimed by or awarded to him as compensation in such suit."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VIII",
+            "Name": "SUPPLEMENTAL",
+            "Sections": {
+                "Section 31.": {
+                    "heading": "Power for State Government to transfer certain functions to local authority.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The State Government may, from time to time by notification in the Official Gazette,\u2014",
+                            "contains": {
+                                "0": "(a) transfer to any local authority within any part of the territories under its administration in which this Act is in operation, all or any of the functions of the State Government or the Magistrate of the District under this Act, within the local area subject to the jurisdiction of the local authority.",
+                                "1": "2* * * * *]"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "SCHEDULE.\u2014[Repealed.].": {
+            "0": {
+                "text": "[SCHEDULE.] Rep. by the Repealing Act, 1938 (1 of 1938).",
+                "contains": {
+                    "0": "STATE AMENDMENT",
+                    "1": {
+                        "text": "Uttar Pradesh Amendment of section 26 and 28 of Act (1 of 1971).\u2014The State Government may, by notification in the official Gazette, with respect to any local area specified in the notification declare that section 26 of the Principal Act, as amended by this Act and section 28 of the Principal Act, shall stand further amended and modified as specified in the Schedule and with effect from the date of the said declaration the Principal Act shall stand amended accordingly.",
+                        "contains": {
+                            "0": "SCHEDULE"
+                        }
+                    },
+                    "2": {
+                        "text": "1. For section 26 of the Principal Act, amended by this Act, the following shall be substituted\u2014",
+                        "contains": {
+                            "0": {
+                                "text": "\u201c26. Penalty for damage caused by land by cattle.\u2014Any owner, keeper or attendant of cattle, who through neglect or otherwise, damage or causes or permits to be damaged any land or any crop or produce of land by allowing such cattle to trespass thereon, shall, on conviction before a Magistrate, be liabel\u2014",
+                                "contains": {
+                                    "0": "(a) for first offences to a fine not less than Rs. 10 bot not exceeding Rs. 250 or to imprisonment for a term not exceeding three months or of both.",
+                                    "1": "(b) for the second or subsequent offence to an imprisonment for a term not exceeding three months and fine not exceeding Rs. 500."
+                                }
+                            }
+                        }
+                    },
+                    "3": {
+                        "text": "2. Application of fines recovered under section 25, 26 or 27.\u2014For section 28 of the Principal Act, the following shall be substitute---",
+                        "contains": {
+                            "0": "\u201c28. Application of fines recovered under sections 25, 26 or 27.\u2014All fines recovered under section 25, clause (a) of section 26 or section 27 may be appropriated in whole or in part as compensation for loss or damage proved to the satisfaction of the Convicting Magistrate.\u201d"
+                        }
+                    }
+                }
+            },
+            "1": "[Vide Uttar Pradesh Act 7 of 1954, s. 3]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. Th is   Act  ha s b e en  a me nded  loc a ll y \u2014in Ajmer by Ajmer Act 5 of 1954;in Assam by Assam Act 1 of 1936;in Bombay by Bombay Acts 9 of 1924, 4 of 1926, 5 of 1931 and 13 of 1959;in Madhya Pradesh by C. P. Acts 12 of 1935, 22 of 1937, C. P. & B. Act 27 of 1948 and Madhya Pradesh Act 11 of 1960;in Orissa by Orissa Acts 15 of 1948 and 23 of 1950;in Punjab by Punjab Acts 24 of 1952 and 18 of 1959;in Sambalpur District by Orissa Act 6 of 1939;in U.P. by U.P. Act 7 of 1954;in West Bengal by Bengal Act 5 of 1934 and rep. in pt. by Ben. Act 14 of 1947, West Ben. Acts 7 of 1948 and 4 of 1956;in Madras by Madras Act 20 of 1957;in Andhra Pradesh by Andhra Pradesh Act 3 of 1961;in Himachal Pradesh by Himachal Pradesh Act 7 of 1974.The Act has been extended to the whole of Madhya Pradesh by Madhya Pradesh Act 23 of 1958 (when notified), to theNEFA by Reg. 3 of 1960, s. 3  and Sch., subject to certain  modifications (w.e.f. 1 -11-1960), extended to and brought intoforce in Dadra  and Nagar Haveli by Reg. 6 of 1963, s. 2 and  the  First  Schedule (w.e.f. 1-7-1965) and to the whole of theUnion territory of Lakshadweep by Reg. 8 of 1965, s. 3 and the Schedule (w.e.f. 1-10-1967).The Act came into force in Pondicherry on 1-10-1963 vide Reg. 7 of 1963, s. 3 and the First ScheduleThe Act has been repealed in its application to Ballery District by Mysore Act 5 of 1955 and to Malabar District of Kerala byKerala Act 26 of 1961.",
+            "1": "2. Subs. by Act 1 of 1891, s. 1, for section 1.",
+            "2": "3. Subs. by the Adaptation of Laws (No. 2) Order, 1956, for \u201cPart B States\u201d.",
+            "3": "4. Sub-section (3) rep. by Act 10 of 1914, s. 3 and the Second Schedule.",
+            "4": "5. Added by Act 1 of 1891, s. 2.",
+            "5": "6. Cf. definition ins. 3 (28) of the General Clauses Act, 1897 (10 of 1897), which applies to all Act, passed after the 14 January,1887."
+        },
+        "Page 4": {
+            "0": "1. Subs. by the A.O. 1937, for s. 6.",
+            "1": "2. Subs. by Act 1 of 1891, s. 3, for \u201c'take them or cause them to be taken without unnecessary delay\u201d.",
+            "2": "3. As to the application of s. 11 to forests, see the Indian Forest Act, 1927 (16 of 1927), s. 70; to railways see the Indian RailwaysAct, 1890 (9 of 1890), s. 125 (f)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 1 of 1891, s. 4, for \u201ctake them without unnecessary delay\u201d.",
+            "1": "2. Subs. by Act 17 of 1921, s. 2, for section 12. See section 71 of the Indian Forest Act, 1927 (16 of 1927) under which the StateGovernment may fix a different scale of fines for cattle impounded under s, 70 of that Act."
+        },
+        "Page 6": {
+            "0": "1. Subs. by the A.O. 1937, for \u201cdispose of them as hereinafter provided\u201d.",
+            "1": "2. Subs. by Act 1 of 1891, s. 6, for Chapter V."
+        },
+        "Page 7": {
+            "0": "1. See ss. 63 to 70 of the Indian Penal Code (45 of 1860), and s. 421 of the Cede of Criminal Procedure, 1973 (2 of 1974); cf.also. s. 25 of the General Clauses Act, 1897 (10 of 1897).",
+            "1": "2. As to the application of s. 25 in the case of cattle-trespassing on a railway, see the Indian Railways Act, 1390 (9 of 1890),s. 125 (3).",
+            "2": "3. Ins. by Act 1 of 1891, s. 7.",
+            "3": "4. Added by s. 8, ibid.",
+            "4": "5. Subs. by the A.O. 1950, for \u201cProvincial Government\u201d.",
+            "5": "6. The last paragraph of section 26 rep. by Act 10 of 1914."
+        },
+        "Page 9": {
+            "0": "1. Chapter VIII added by Act 1 of 1891, s. 9.",
+            "1": "2. Clause (b) rep. partially by Act 10 of 1914 and partially by the A.O. 1937."
+        }
+    }
+}

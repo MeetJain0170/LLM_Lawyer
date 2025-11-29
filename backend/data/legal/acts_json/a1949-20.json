@@ -1,0 +1,116 @@
+{
+    "Act Title": "THE WEST GODAVARI DISTRICT (ASSIMILATION OF LAWS ON FEDERAL SUBJECTS) ACT, 1949",
+    "Act ID": "ACT NO. 20 OF 1949",
+    "Enactment Date": "[14th April, 1949.]",
+    "Act Definition": {
+        "0": "An Act to assimilate certain laws in force in different parts of the West Godavari District of the Province of Madras.",
+        "1": "WHEREAS by virtue of the Madras Partially Excluded Area (Cesser) Order, 1948, made under section 91 of the Government of India Act, 1935, the area comprised in the villages specified in Article 2 of the said Order ceased, as from the 1st day of July, 1948, to be part of a partially excluded area in the West Godavari District of the Province of Madras;",
+        "2": "AND WHEREAS it is expedient that the laws in force in the said area with respect to the matters enumerated in List I in the Seventh Schedule to the Government of India Act, 1935 (25 and 26 Geo. 5, c. 2), should be assimilated to the laws in force with respect to the said matters in the rest of the said district;"
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and commencement.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the West Godavari District (Assimilation of Laws on Federal Subjects) Act, 1949.",
+                "1": "(2) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint."
+            }
+        },
+        "Section 2.": {
+            "heading": "Interpretation.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act\u2014",
+                    "contains": {
+                        "0": "(a) \u201cappointed day\u201d means the date appointed under sub-section (2) of section 1 for the coming into force of this Act;",
+                        "1": "(b) \u201cEluru Taluk\u201d means the taluk of that name in the West Godavari district of the State of Madras;",
+                        "2": "(c) \u201claw\u201d means any Act, Ordinance, Regulation, rule, order or bye-law, relating to any of the matters enumerated in List I in the Seventh Schedule to the Government of India Act, 1935 (25 and 26 Geo. 5, c. 2); and",
+                        "3": "(d) \u201cScheduled area\u201d means the area comprised in the villages which are specified in the Schedule to this Act"
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Assimilation of laws.",
+            "paragraphs": {
+                "0": "(1) All laws which immediately before the appointed day extend to, or are in force in, the Eluru Taluk, but not in the scheduled area, shall, as from that day, extend to, or as the case may be, come into force in, the scheduled area.",
+                "1": "(2) All laws which immediately before the appointed day are in force in the scheduled area, but not in the Eluru Taluk, shall on that day cease to be in force in the scheduled area, except as respects things done or omitted to be done before that day."
+            }
+        },
+        "Section 4.": {
+            "heading": "Provision for removal of difficulties.",
+            "paragraphs": {
+                "0": "If any difficulty arises in relation to the transition from the laws mentioned in sub-section (2) of section 3 to the laws mentioned in sub-section (1) thereof, the Central Government may, by order notified in the Official Gazette, make such provision as it considers necessary for the removal of such difficulty."
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": "[See section 2(d)]"
+                }
+            },
+            "1": {
+                "text": "A. Villages in Polavaram Firka\u2014",
+                "contains": {
+                    "0": "1. Gangole.",
+                    "1": "2. Dondapudi.",
+                    "2": "3. Sagipadu.",
+                    "3": "4. Karakapadu.",
+                    "4": "5. Mangiparthi Devipeta.",
+                    "5": "6. Kannapuram.",
+                    "6": "7. Mahadevapuram.",
+                    "7": "8. Dippakayalapadu.",
+                    "8": "9. Venkatayipalem.",
+                    "9": "10. Cherukumilli.",
+                    "10": "11. Ballipadu.",
+                    "11": "12 Pattisam.",
+                    "12": "13. Gutala.",
+                    "13": "14. Tadipudi. (Gutala part).",
+                    "14": "15. Tadipudi (Pattisam part).",
+                    "15": "16. Ragolapalli (Gutala part).",
+                    "16": "17. Ragolapalli (Pattisam part).",
+                    "17": "18. Pochavaram.",
+                    "18": "19. Tupakulagudem.",
+                    "19": "20. Bayyavaram.",
+                    "20": "21. Venkatapuram.",
+                    "21": "22. Suggonda."
+                }
+            },
+            "2": {
+                "text": "B. Villages in Zangareddigudem Firka\u2014",
+                "contains": {
+                    "0": "1. Saripalli (Zamindari).",
+                    "1": "2. Zangareddigudem (Zamindari).",
+                    "2": "3. Vedantapuram (Inam).",
+                    "3": "4. Ramanujapuram (Inam).",
+                    "4": "5. Parimpudi",
+                    "5": "6. Bayyangudem (Zamindari).",
+                    "6": "7. Akkampeta.",
+                    "7": "8. Sreenivasapuram (Inam).",
+                    "8": "9. Pullepudi (Inam).",
+                    "9": "10. Pattenapalem."
+                }
+            },
+            "3": {
+                "text": "C. Villages in Jeelugumilli Firka\u2014",
+                "contains": {
+                    "0": "1. Mysenagudem.",
+                    "1": "2. Peddipalli.",
+                    "2": "3. Taduvayi.",
+                    "3": "4. Matanagudem.",
+                    "4": "5. Ayyavari (Polavaram) (Inam)."
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. 1st July, 1949, see Gazette of India, 1949, Extraordinary."
+        }
+    }
+}

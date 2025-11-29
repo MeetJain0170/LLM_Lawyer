@@ -1,0 +1,522 @@
+{
+    "Act Title": "THE AGRICULTURAL AND PROCESSED FOOD PRODUCTS EXPORT DEVELOPMENT AUTHORITY ACT, 1985",
+    "Act ID": "ACT NO. 2 OF 1986",
+    "Enactment Date": "[8th January, 1986.]",
+    "Act Definition": {
+        "0": "An Act to provide for the establishment of an Authority for the development and promotion of exports of certain agricultural and processed food products and for matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Agricultural and Processed Food Products Export Development Authority Act, 1985.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Act."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cAuthority\u201d means the Agricultural and Processed Food Products Export Development Authority established under section 4;",
+                                "1": "(b) \u201cChairman\u201d means the Chairman of the Authority;",
+                                "2": "(c) \u201cexport\u201d means taking out of India by land, sea or air;",
+                                "3": "(d) \u201cexporter\u201d means a person registered as an exporter of Scheduled products under section 12;",
+                                "4": "(e) \u201cmember\u201d means a member of the Authority and includes the Chairman;",
+                                "5": "(f) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "6": "(g) \u201cprocessing\u201d in relation to 2[Scheduled products or, as the case may be, Special products] includes the process of preservation of such products such as canning, freezing, drying, salting, smoking, peeling or filleting and any other method of processing which the Authority may, by notification in the Official Gazette, specify in this behalf;",
+                                "7": "(h) \u201cregulations\u201d means regulations made under this Act;",
+                                "8": "(i) \u201cScheduled product\u201d means any of the agricultural or processed food products included in 3[the First Schedule];",
+                                "9": "4[(j) \u201cSpecial product\u201d means any of the agricultural or processed food products included in the Second Schedule.]"
+                            }
+                        }
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Power to amend Schedule.",
+                    "paragraphs": {
+                        "0": "The Central Government may, having regard to the objects to this Act, and if it considers necessary or expedient so to do, by notification in the Official Gazette, add to, or, as the case may be, omit from, the First Schedule or the Second Schedule any agricultural or processed food product and on such addition, or as the case may be, omission, such product shall be, or shall cease to be, a Scheduled product or Special product as the case may be.]"
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "AGRICULTURAL AND PROCESSED FOOD PRODUCTS EXPORT DEVELOPMENT AUTHORITY",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Establishment and constitution of the Authority.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification in the Official Gazette, appoint in this behalf, there shall be established for the purposes of this Act, an Authority to be called the Agricultural and Processed Food Products Export Development Authority.",
+                        "1": "(2) The Authority shall be a body corporate by the name aforesaid, having perpetual succession and a common seal, with power to acquire, hold and dispose of property, both movable and immovable, and to contract, and shall by the said name sue and be sued.",
+                        "2": "(3) The head office of the Authority shall be at Delhi and the Authority may, with the previous approval of the Central Government, establish offices or agencies at other places in or outside India.",
+                        "3": {
+                            "text": "(4) The Authority shall consist of the following members, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a Chairman, to be appointed by the Central Government;",
+                                "1": "(b) the Agricultural Marketing Adviser to the Government of India, ex officio;",
+                                "2": "(c) one member to be appointed by the Central Government to represent the Planning Commission;",
+                                "3": "(d) three members of Parliament of whom two shall be elected by the House of the People and one by the Council of States;",
+                                "4": {
+                                    "text": "(e) eight members to be appointed by the Central Government to represent, respectively, the Ministries of the Central Government dealing with\u2014",
+                                    "contains": {
+                                        "0": "(i) agriculture and rural development;",
+                                        "1": "(ii) commerce;",
+                                        "2": "(iii) finance;",
+                                        "3": "(iv) industry;",
+                                        "4": "(v) food;",
+                                        "5": "(vi) civil supplies;",
+                                        "6": "(vii) civil aviation;",
+                                        "7": "(viii) shipping and transport;"
+                                    }
+                                },
+                                "5": "(f) five members to be appointed by the Central Government by rotation in the alphabetical order to represent the States and the Union territories:",
+                                "6": "Provided that an appointment under this clause shall be made on the recommendation of the Government of the State, or as the case may be, the Union territory concerned;",
+                                "7": {
+                                    "text": "(g) seven members to be appointed by the Central Government to represent,\u2014",
+                                    "contains": {
+                                        "0": "(i) the Indian Council of Agricultural Research;",
+                                        "1": "(ii) the National Horticulture Board;",
+                                        "2": "(iii) the National Agricultural Co-operative Marketing Federation;",
+                                        "3": "(iv) the Central Food Technological Research Institute;",
+                                        "4": "(v) the Indian Institute of Packaging;",
+                                        "5": "(vi) the Spices Export Promotion Council; and",
+                                        "6": "(vii) the Cashewnut Export Promotion Council;"
+                                    }
+                                },
+                                "8": {
+                                    "text": "(h) twelve members to be appointed by the Central Government to represent,\u2014",
+                                    "contains": {
+                                        "0": "(i) fruit and vegetable products industries;",
+                                        "1": "(ii) meat, poultry and dairy products industries;",
+                                        "2": "1[(iii) other Scheduled products or Special products industries;]",
+                                        "3": "(iv) packaging industry:"
+                                    }
+                                },
+                                "9": "Provided that the number of members appointed to represent any of the groups of industries specified in sub-clauses (i) to (iii) or the industry specified in sub-clause (iv) shall in no case be less than two;",
+                                "10": "(i) two members to be appointed by the Central Government from amongst specialists and scientists in the field of agriculture, economics and marketing of Scheduled products."
+                            }
+                        },
+                        "4": "(5) The term of office of the members, other than the member referred to in clause (b) of sub-section (4) and the manner of filling vacancies among, and the procedure to be followed in the discharge of their functions by, the members shall be such as may be prescribed.",
+                        "5": "(6) Any officer of the Central Government, not being a member of the Authority, when deputed by that Government in this behalf, shall have the right to attend meetings of the Authority and take part in the proceedings thereof but shall not be entitled to vote.",
+                        "6": {
+                            "text": "(7) No act or proceeding of the Authority or any committee appointed by it under section 9 shall be invalid merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or any defect in the constitution of, the Authority or such committee; or",
+                                "1": "(b) any defect in the appointment of a person acting as a member of the Authority or such committee; or",
+                                "2": "(c) any irregularity in the procedure of the Authority or such committee not affecting the merits of the case."
+                            }
+                        },
+                        "7": "(8) The Authority shall meet at such times and places and shall observe such rules of procedure in regard to the transaction of business at its meetings (including the quorum at its meetings) as may be provided by the regulations."
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Salary and Allowances and other conditions of service of Chairman and allowances of members.",
+                    "paragraphs": {
+                        "0": "(1) The Chairman shall be entitled to such salary and allowances and shall be subject to such conditions of service in respect of leave, pension, provident fund and other matters as may, from time to time, be fixed by the Central Government.",
+                        "1": "(2) The other members of the Authority shall receive such allowances as may be fixed by the Central Government.",
+                        "2": "(3) A member, other than the ex officio member, may resign his office by giving notice thereof in writing to the Central Government and on such resignation being accepted, he shall be deemed to have vacated his office."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Chairman to be chief executive.",
+                    "paragraphs": {
+                        "0": "The Chairman shall be the chief executive of the Authority and shall exercise such powers and perform such duties as may be prescribed."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Secretary of the Authority and other staff.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall appoint a Secretary to the Authority who shall exercise such powers and perform such duties as may be prescribed or as may be delegated to him by the Chairman.",
+                        "1": "(2) The Secretary shall be entitled to such salary and allowances and shall be subject to such conditions of service in respect of leave, pension, provident fund and such other matters as may, from time to time, be fixed by the Central Government.",
+                        "2": "(3) Subject to such control and restrictions as may be prescribed, the Authority may appoint such other officers and employees, as may be necessary, for the efficient performance of its functions and the method of appointment, the scale of pay and allowances and other conditions of service of such other officers and employees of the Authority shall be such as may be provided by the Authority by regulations.",
+                        "3": "(4) The Chairman, the Secretary and other officers and employees of the Authority shall not undertake any work unconnected with their duties under this Act except with the permission of the Central Government."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Special provision for transfer of employees to the Authority.",
+                    "paragraphs": {
+                        "0": "(1) On the establishment of the Authority, it shall be lawful for the Central Government to transfer to the Authority, by order, and with effect from such date or dates as may be specified in the order, any officer or other employee holding office as such in the Processed Foods Export Promotion Council (hereafter in this section referred to as the Council) immediately before the date on which the Authority is established:",
+                        "1": "Provided that the scale of pay of the post in the Authority to which such officer or other employee is transferred shall not be lower than the scale of pay of the post he was holding immediately before such transfer and the other terms and conditions of service (including pension, leave, provident fund and medical benefits) of the post to which he is transferred shall not be less favourable than the terms and conditions of service in relation to the post held by him immediately before such transfer.",
+                        "2": "(2) An order under sub-section (1) may be made so as to have retrospective effect from a date not earlier than the date of the commencement of this Act.",
+                        "3": "(3) Before any order is issued under sub-section (1), all officers and employees of the Council shall be given an option to express, in such form as may be prescribed, and within such time as may be specified in that behalf by the Central Government, their willingness or otherwise to become employees of the Authority and such option once exercised shall be final:",
+                        "4": "Provided that no order under sub-section (1) shall be made in relation to any officer or other employees of the Council who has intimated his intention of not becoming an employee of the Authority within the time specified in that behalf:",
+                        "5": "Provided further that such of the officers and employees of the Council who do not express, within the time specified in that behalf, their intention of becoming the employees of the Authority, shall be dealt with in the same manner and in accordance with the same laws and standing orders as would have applied immediately before the commencement of this Act to the employees of the Council in the event of the reduction of the strength of the officers and employees of the Council.",
+                        "6": "(4) An officer or other employee transferred by an order made under sub-section (1) shall, on and from the date of transfer, cease to be an employee of the Council and become an officer or other employee of the Authority with such designation as the Authority may determine and shall, subject to the provisions of the proviso to sub-section (1), be governed by the regulations made by the Authority under this Act in respect of remuneration and other conditions of service (including pension, leave, provident fund and medical benefits) and shall continue to be an officer or other employee of the Authority unless and until his employment is duly terminated by the Authority:",
+                        "7": "Provided that till such time as the regulations referred to above governing the conditions of service of its officers or other employees are framed by the Authority, the relevant laws and standing orders applicable to the officers and employees of the Council shall continue to be applicable to them.",
+                        "8": "(5) If a question arises whether the terms and conditions of service prescribed in the regulations framed by the Authority in respect of any matter, including remuneration, pension, leave, provident fund and medical benefits, are less favourable than those attached to the post held by an officer or other employee immediately before his transfer to the Authority, the decision of the Central Government in the matter shall be final."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Committees of the Authority.",
+                    "paragraphs": {
+                        "0": "(1) The Authority may appoint such committees as may be necessary for the efficient discharge of its duties and performance of its functions under this Act.",
+                        "1": "(2) The Authority shall have the power to co-opt as members of any committee appointed under sub-section (1) such number of persons, who are not members of the Authority as it may think fit and the persons so co-opted shall have the right to attend the meetings of the committee and take part in its proceedings but shall not have the right to vote.",
+                        "2": "(3) The persons co-opted as members of a committee under sub-section (2) shall be entitled to receive such allowances for attending meetings of the committee as may be fixed by the Central Government."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Functions of the Authority.",
+                    "paragraphs": {
+                        "0": "(1) It shall be the duty of the Authority to undertake, by such measures as it thinks fit, the development and promotion, under the control of the Central Government, of export of Scheduled products.",
+                        "1": {
+                            "text": "(2) Without prejudice to the generality of the provisions of sub-section (1), the measures referred to therein may provide for\u2014",
+                            "contains": {
+                                "0": "(a) the development of industries relating to the Scheduled products for export by way of providing financial assistance or otherwise for undertaking surveys and feasibility studies, participation in the equity capital through joint ventures and other reliefs and subsidy schemes;",
+                                "1": "(b) the registration of persons as exporters of the Scheduled products on payment of such fees as may be prescribed;",
+                                "2": "(c) the fixing of standards and specifications for the Scheduled products for the purposes of export;",
+                                "3": "(d) the carrying out of inspection of meat and meat products in any slaughterhouse, processing plant, storage premises, conveyances or other places where such products are kept or handled for the purpose of ensuring the quality of such products;",
+                                "4": "(e) the improving of packaging of the Scheduled products;",
+                                "5": "(f) the improving of the marketing of the Scheduled products outside India;",
+                                "6": "(g) the promotion of export oriented production and development of the Scheduled products;",
+                                "7": "(h) the collection of statistics from the owners of factories or establishments engaged in the production, processing, packaging, marketing or export of the Scheduled products or from such other persons as may be prescribed on any matter relating to the Scheduled products; and the publication of the statistics so collected, or of any portions thereof or extracts therefrom;",
+                                "8": "(i) the training in various aspects of the industries connected with the Scheduled products;",
+                                "9": "(j) such other matters as may be prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 10A.": {
+                    "heading": "Functions in respect of Special products, etc.",
+                    "paragraphs": {
+                        "0": "Without prejudice to any law for the time being in force, it shall be the duty of the Authority to undertake, by such measures as may be prescribed by the Central Government for registration and protection of the Intellectual Property rights in respect of Special products in India or outside India.",
+                        "1": "Explanation.\u2014For the purpose of this section \u201cIntellectual Property\u201d means any right to intangible property, namely, trade marks, designs, patents, geographical indications or any other similar intangible property, under any law for the time being in force.]"
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Power to supersede the Authority.",
+                    "paragraphs": {
+                        "0": "(1) If the Central Government is of the opinion that the Authority is unable to perform, or has persistently made default in the performance of, the duty imposed on it by or under this Act or has exceeded or abused its powers, or has wilfully or without sufficient cause, failed to comply with any direction issued by the Central Government under section 20, the Central Government may, by notification in the Official Gazette, supersede the Authority for such period as may be specified in the notification:",
+                        "1": "Provided that before issuing a notification under this sub-section, the Central Government shall give reasonable time to the Authority to show cause why it should not be superseded and shall consider the explanation and objections, if any, of the Authority.",
+                        "2": {
+                            "text": "(2) Upon the publication of a notification under sub-section (1) superseding the Authority,\u2014",
+                            "contains": {
+                                "0": "(a) all the members of the Authority shall, notwithstanding that their term of office has not expired as from the date of supersession, vacate their offices as such members;",
+                                "1": "(b) all the powers and duties which may, by or under the provisions of this Act, be exercised or performed by or on behalf of the Authority shall, during the period of supersession, be exercised and performed by such person or persons as the Central Government may direct;",
+                                "2": "(c) all property vested in the Authority shall, during the period of supersession, vest in the Central Government."
+                            }
+                        },
+                        "3": {
+                            "text": "(3) On the expiration of the period of supersession specified in the notification issued under sub-section (1), the Central Government may\u2014",
+                            "contains": {
+                                "0": "(a) extend the period of supersession for such further period as it may consider necessary; or",
+                                "1": "(b) reconstitute the Authority in the manner provided in section 4."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "REGISTRATION",
+            "Sections": {
+                "Section 12.": {
+                    "heading": "Registration of exporters.",
+                    "paragraphs": {
+                        "0": "(1) Every person exporting any one or more of the Scheduled products shall, before the expiration of one month from the date on which he undertakes such export or before the expiration of three months from the date of coming into force of this section, whichever is later, apply to the Authority to be registered as an exporter of the Scheduled product or Scheduled products:",
+                        "1": "Provided that the Authority may, for sufficient reason, extend the time-limit for registration by such period as it thinks fit.",
+                        "2": "(2) Registration once made shall continue to be in force until it is cancelled by the Authority."
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Application, cancellation, fee payable and other matters relating to registration.",
+                    "paragraphs": {
+                        "0": "The form of application for registration under section 12 and for the cancellation of such registration, the fee payable on such applications, the particulars to be included in such applications, the procedure to be followed in granting and cancelling registration and the registers to be kept by the Authority shall be such as may be prescribed."
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Returns to be made by exporters.",
+                    "paragraphs": {
+                        "0": "(1) Every exporter, referred to in sub-section (1) of section 12, shall furnish to the Authority at the prescribed time and in the prescribed manner such returns as may be prescribed.",
+                        "1": "(2) The Authority may authorise a member or any of its officers to inspect any processing plant or any other establishment of the exporter at any time to verify the accuracy of any return made under this section."
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "FINANCE, ACCOUNTS AND AUDIT",
+            "Sections": {
+                "Section 15.": {
+                    "heading": "Grants or loans by the Central Government.",
+                    "paragraphs": {
+                        "0": "The Central Government may, after due appropriation made by Parliament by law in this behalf, pay to the Authority by way of grants or loans such sums of money as the Central Government may think fit for being utilised for the purposes of this Act."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Constitution of Agricultural and Processed Food Products Export Development Fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) There shall be formed a Fund to be called the Agricultural and Processed Food Products Export Development Fund and there shall be credited thereto\u2014",
+                            "contains": {
+                                "0": "(a) any sums of money which the Central Government may, after due appropriation made by Parliament by law in this behalf, provide from and out of the proceeds of the cess credited under section 4 of the Agricultural and Processed Food Products Export Cess Act, 1985, after deducting therefrom the expenses of collection of the cess and the amount, if any, refunded;",
+                                "1": "(b) all fees levied and collected in respect of registration and other matters under this Act or the rules made thereunder;",
+                                "2": "(c) any grants or loans that may be made by the Central Government for the purposes of this Act under section 15; and",
+                                "3": "(d) any grants or loans that may be made by any State Government, voluntary organisation or other institution for the purposes of this Act:"
+                            }
+                        },
+                        "1": "Provided that no such grant, loan or donation shall be credited to the Fund except with the prior approval of the Central Government.",
+                        "2": {
+                            "text": "(2) The Fund shall be applied for\u2014",
+                            "contains": {
+                                "0": "(a) meeting the cost of the measures referred to in section 10;",
+                                "1": "(b) meeting the salaries, allowances and other remuneration of the members, officers and other employees, as the case may be, of the Authority;",
+                                "2": "(c) meeting the other administrative expenses of the Authority and any other expenses authorised by or under this Act; and",
+                                "3": "(d) repayment of any loan."
+                            }
+                        }
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Borrowing powers of the Authority.",
+                    "paragraphs": {
+                        "0": "Subject to such rules as may be made in this behalf, the Authority shall have power to borrow on the security of the Agricultural and Processed Food Products Export Development Fund or any other asset for carrying out the purposes of this Act."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "1) The Authority shall maintain proper accounts and other relevant records and prepare an annual statement of accounts, in such form as may be prescribed by the Central Government in consultation with the Comptroller and Auditor-General of India.",
+                        "1": "(2) The accounts of the Authority shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Authority to the Comptroller and Auditor-General.",
+                        "2": "(3) The Comptroller and Auditor-General of India and any person appointed by him in connection with the audit of the accounts of the Authority shall have the same rights and privileges and the authority in connection with such audit as the Comptroller and Auditor-General generally has in connection with the audit of Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Authority.",
+                        "3": "(4) The accounts of the Authority as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament."
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "CONTROL BY THE CENTRAL GOVERNMENT",
+            "Sections": {
+                "Section 19.": {
+                    "heading": "Power to prohibit or control imports and exports of Scheduled products.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by order published in the Official Gazette, make provision for prohibiting, restricting or otherwise controlling the import or export of the Scheduled products, either generally or in specified classes of cases.",
+                        "1": "(2) All Scheduled products to which any order under sub-section (1) applies, shall be deemed to be goods of which the export has been prohibited under section 11 of the Customs Act, 1962 (52 of 1962), and all the provisions of that Act shall have effect accordingly.",
+                        "2": "(3) If any person contravenes any order made under sub-section (1), he shall, without prejudice to any confiscation or penalty to which he may be liable under the provisions of the Customs Act, 1962 (52 of 1962), as applied by sub-section (2), be punishable with imprisonment for a term which may extend to one year, or with fine, or with both."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Directions by the Central Government.",
+                    "paragraphs": {
+                        "0": "The Authority shall carry out such directions as may be issued to it from time to time by the Central Government for the efficient administration of this Act."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Returns and reports.",
+                    "paragraphs": {
+                        "0": "(1) The Authority shall furnish to the Central Government at such time and in such form and manner as may be prescribed or as the Central Government may direct, such returns and statements and such particulars in regard to any proposed or existing programme for the promotion and development of the export of the Scheduled products, as the Central Government may, from time to time, require.",
+                        "1": "(2) Without prejudice to the provisions of sub-section (1), the Authority shall, as soon as possible, after the end of each financial year, submit to the Central Government a report in such form and before such date, as may be prescribed, giving a true and full account of its activities, policy and programmes during the previous financial year.",
+                        "2": "(3) A copy of the report received under sub-section (2) shall be laid, as soon as may be, after it is received, before each House of Parliament."
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 22.": {
+                    "heading": "Penalty for making false reports.",
+                    "paragraphs": {
+                        "0": "Any person who, being required by or under this Act to furnish any return, fails to furnish such return or furnishes a return containing any particular which is false and which he knows to be false or does not believe to be true shall be punishable with fine which may extend to five hundred rupees."
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Penalties for obstructing a member or officer of the Authority in the discharge of his duty and for failure to produce books and records.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any person who\u2014",
+                            "contains": {
+                                "0": "(a) obstructs any member authorised by the Chairman in writing or any officer or other employee of the Authority authorised in this behalf by the Central Government or by the Authority, in the exercise of any power conferred, or in the discharge of any duty imposed on him by or under this Act; or",
+                                "1": "(b) having control over or custody of any account book or other record fails to produce such book or record when required to do so by or under this Act,"
+                            }
+                        },
+                        "1": "shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Other penalties.",
+                    "paragraphs": {
+                        "0": "Whoever contravenes or attempts to contravene or abets the contravention of the provisions of this Act or of any rules made hereunder other than the provisions, the punishment for the contravention whereof has been provided for in sections 19, 22 and 23, shall be punishable with imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both and in the case of a continuing contravention with an additional fine which may extend to fifty rupees for every day during which such contravention continues after conviction for the first such contravention."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where an offence under this Act has been committed by a company, every person who at the time the offence was committed was in charge of, and was responsible to, the company for the conduct of the business of the company as well as the company shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment, if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of such offence.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a company and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the company, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation.\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                                "1": "(b) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                            }
+                        }
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Jurisdiction of court.",
+                    "paragraphs": {
+                        "0": "No court inferior to that of a Metropolitan Magistrate or a Magistrate of the first class shall try any offence punishable under this Act."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Previous sanction of the Central Government.",
+                    "paragraphs": {
+                        "0": "No prosecution for any offence punishable under this Act shall be instituted except with previous sanction of the Central Government."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Protection of action taken in good faith.",
+                    "paragraphs": {
+                        "0": "No suit, prosecution or other legal proceedings shall lie against the Central Government, or the Authority or any committee appointed by it, or any member of the Authority or such committee, or any officer or other employee of the Central Government or of the Authority or any other person authorised by the Central Government or the Authority, for anything which is in good faith done or intended to be done under this Act or the rules made thereunder."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Power to delegate.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by order published in the Official Gazette, direct that any power exercisable by it under this Act (not being the power to make rules under section 32) may also be exercised in such cases and subject to such conditions, if any, as may be specified in the order, by such officer or authority as may be specified therein."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Suspension of operation of this Act.",
+                    "paragraphs": {
+                        "0": "(1) If the Central Government is satisfied that circumstances have arisen rendering it necessary that certain of the restrictions imposed by this Act should cease to be imposed or if it considers necessary or expedient so to do in the public interest, it may, by notification in the Official Gazette, suspend or relax to such extent and either indefinitely or for such period as may be specified in the notification, the operation of all or any of the provisions of this Act.",
+                        "1": "(2) Where the operation of any provision of this Act has under sub-section (1) been suspended or relaxed indefinitely, such suspension or relaxation may, at any time while this Act remains in force, be removed by the Central Government by notification in the Official Gazette."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "Application of other laws not barred.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall be in addition to and not in derogation of the provisions of any other law for the time being in force."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the term of office of the members [other than the member referred to in clause (b) of sub-section (4) of section 4], the manner of filling vacancies among, and the procedure to be followed in the discharge of their functions by the members, under sub-section (5) of section 4;",
+                                "1": "(b) the powers which may be exercised and the duties which may be performed by the Chairman as the chief executive of the Authority under section 6;",
+                                "2": "(c) the powers which may be exercised and the duties which shall be performed by the Secretary of the Authority under sub-section (1) of section 7;",
+                                "3": "(d) the control and restrictions subject to which other officers and employees may be appointed by the Authority under sub-section (3) of section 7;",
+                                "4": "(e) the form in which and the time within which option may be given by the officers and employees of the Processed Foods Export Promotion Council under sub-section (3) of section 8;",
+                                "5": "(f) payment of fees for the registration of exporters of Scheduled products under clause (b) of sub-section (2) of section 10;",
+                                "6": "(g) persons other than the owners from whom the collection of statistics in respect of any matter relating to Scheduled products may be made under clause (h) of sub-section (2) of section 10;",
+                                "7": "(h) the additional matters in respect of which the Authority may undertake measures in the discharge of its functions under clause (j) of sub-section (2) of section 10;",
+                                "8": "1[(ha) the measures for registration and protection of the Intellectual Property rights under section 10A;]",
+                                "9": "(i) the form and the manner of making application for registration and for cancellation of registration, the fee payable on such application and the procedure to be followed in granting and cancelling registration and the conditions governing such registration, under section 13;",
+                                "10": "(j) the time at which and the manner in which an exporter shall furnish returns to the Authority under sub-section (1) of section 14;",
+                                "11": "(k) the form in which the accounts of the Authority shall be maintained under sub-section (1) of section 18;",
+                                "12": "(l) the form and manner in which and the time at which the Authority shall furnish returns and statements to the Central Government under sub-section (1) of section 21;",
+                                "13": "(m) the form in which and the date before which the Authority shall furnish to the Central Government the report of its activities and programme under sub-section (2) of section 21;",
+                                "14": "(n) any other matter which is to be or may be prescribed under this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Power to make regulations.",
+                    "paragraphs": {
+                        "0": "(1) The Authority may, with the previous sanction of the Central Government, by notification in the Official Gazette, make regulations not inconsistent with the provisions of this Act and the rules made thereunder, to provide for all matters for which provision is necessary or expedient for the purposes of giving effect to the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing powers, such regulations may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the times and places at which meetings of the Authority or any committee thereof, shall be held and the procedure to be followed thereat and the number of members which shall form a quorum at a meeting under sub-section (8) of section 4;",
+                                "1": "(b) the method of appointment, the conditions of service and the scales of pay and allowances of any of the officers and other employees of the Authority under sub-section (3) of section 7;",
+                                "2": "(c) generally for the efficient conduct of the affairs of the Authority."
+                            }
+                        },
+                        "2": "(3) The Central Government may, by notification in the Official Gazette, modify or rescind any regulation sanctioned by it and the regulation so modified or rescinded shall have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or rescission shall be without prejudice to the validity of anything done under the regulation before its modification or rescission."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Rules and regulations to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule and every regulation made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or regulation, as the case may be, or both Houses agree that the rule or regulation, as the case may be, should not be made, the rule or regulation shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule or regulation."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Validation.",
+                    "paragraphs": {
+                        "0": "All things done, or, omitted to be done, and all actions or measures taken, or, not taken, during the period beginning on or after the 13th day of October, 2008 and ending immediately before the date of commencement of the Agricultural and Processed Food Products Export Development Authority (Amendment) Act, 2009 (20 of 2009), shall, in so far as they are in conformity with the provisions of this Act, as amended by the Agricultural and Processed Food Products Export Development Authority (Amendment) Act, 2009, be deemed to have been done, or, omitted to be done, or, taken, or, not taken, under the provisions of this Act, as amended by the Agricultural and Processed Food Products Export Development Authority (Amendment) Act, 2009, as if such provisions were in force at the time such things were done or omitted to be done and actions or measures taken or not taken during the said period.]"
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE FIRST SCHEDULE": {
+            "0": {
+                "text": "1[THE FIRST SCHEDULE]",
+                "contains": {
+                    "0": "[See section 2(i)]"
+                }
+            },
+            "1": "1. Fruits, vegetables and their products.",
+            "2": "2. Meat and meat products.",
+            "3": "3. Poultry and poultry products.",
+            "4": "4. Dairy products.",
+            "5": "5. Confectionary, biscuits and bakery products.",
+            "6": "6. Honey, jaggery and sugar products.",
+            "7": "7. Cocoa and its products, chocolates of all kinds.",
+            "8": "8. Alcoholic and non-alcoholic beverages.",
+            "9": "9. Cereal products.",
+            "10": "10. Cashewnuts, groundnuts, peanuts and walnuts.",
+            "11": "11. Pickles, chutneys and papads.",
+            "12": "12. Guar Gum.",
+            "13": "13. Floriculture and floriculture products.",
+            "14": "14. Herbal and medicinal plants."
+        },
+        "THE SECOND SCHEDULE": {
+            "0": {
+                "text": "1[THE SECOND SCHEDULE",
+                "contains": {
+                    "0": "[See section 2(j)]"
+                }
+            },
+            "1": "Basmati rise.]"
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 13th February, 1986, vide notification No. S.O. 55(E), dated 13th February, 1986, see Gazette of India, 1986, Extraordinary,Part II, sec. 3(ii).",
+            "1": "2. Subs. by Act 20 of 2009, s. 2, for \u201cScheduled products\u201d (w.e.f. 13-10-2008).",
+            "2": "3. Subs. by s. 2, ibid.,  for \u201cthe Schedule\u201d (w.e.f. 13-10-2008).",
+            "3": "4. Ins. by s. 2, ibid. (w.e.f. 13-10-2008).",
+            "4": "5. Subs. by s. 3. ibid., for section 3 (w.e.f. 13-10-2008)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 20 of 2009, s. 4, for sub-clause (iii) (w.e.f. 13-10-2008)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 20 of 2009, s. 5 (w.e.f. 13-10-2008)."
+        },
+        "Page 12": {
+            "0": "1. Ins. by Act 20 of 2009, s. 6 (w.e.f. 13-10-2008)."
+        },
+        "Page 13": {
+            "0": "1. Ins. by Act 20 of 2009, s. 7 (w.e.f. 13-10-2008)."
+        },
+        "Page 14": {
+            "0": "1. The Schedule numbered as the First Schedule by Act 20 of 2009, s. 8 (w.e.f. 13-10-2008)."
+        },
+        "Page 15": {
+            "0": "1. Ins. by Act 20 of 2009, s. 8 (w.e.f. 13-10-2008)."
+        }
+    }
+}

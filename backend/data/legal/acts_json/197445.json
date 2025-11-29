@@ -1,0 +1,558 @@
+{
+    "Act Title": "THE INTEREST-TAX ACT, 1974",
+    "Act ID": "ACT NO. 45 OF 1974",
+    "Enactment Date": "[23rd September, 1974.]",
+    "Act Definition": {
+        "0": "An Act to impose a special tax on interest in certain cases."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Interest-tax Act, 1974.",
+                "1": "(2) It extends to the whole of India."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": "In this Act, unless the context otherwise requires,\u2014",
+                "1": {
+                    "text": "(1) \u201cassessee\u201d means a person by whom interest-tax or any other sum of money is payable under this Act and includes\u2014",
+                    "contains": {
+                        "0": "(a) every person in respect of whom any proceeding under this Act has been taken for the assessment of his chargeable interest or of the amount of refund due to him or of the chargeable interest of any other person in respect of which he is assessable or of the amount of refund due to such other person;",
+                        "1": "(b) every person who is deemed to be an assessee in default under any provision of this Act;"
+                    }
+                },
+                "2": "(2) \u201cassessment\u201d includes re-assessment;",
+                "3": "(3) \u201cassessment year\u201d means the period of twelve months commencing on the 1st day of April, every year;",
+                "4": "(4) \u201cBoard\u201d means the Central Board of Direct Taxes constituted under the Central Boards of Revenue Act, 1963 (54 of 1963);",
+                "5": "(5) \u201cchargeable interest\u201d means the total amount of interest referred to in section 5, computed in the manner laid down in section 6;",
+                "6": {
+                    "text": "1[(5A) \u201ccredit institution\u201d means,\u2014",
+                    "contains": {
+                        "0": "(i) a banking company to which the Banking Regulation Act, 1949 (10 of 1949), applies (including any bank or banking institution referred to in section 51 of that Act) 2***;",
+                        "1": "(ii) a public financial institution as defined in section 4A of the Companies Act, 1956 (1 of 1956);",
+                        "2": "(iii) a State financial corporation established under section 3 or section 3A or an institution notified under section 46 of the State Financial Corporations Act, 1951 (63 of 1951); and",
+                        "3": "(iv) any other financial company;"
+                    }
+                },
+                "7": {
+                    "text": "(5B) \u201cfinancial company\u201d means a company, other than a company referred to in sub-clause (i), (ii) or (iii) of clause (5A), being\u2014",
+                    "contains": {
+                        "0": "(i) a hire-purchase finance company, that is to say, a company which carries on, as its principal business, hire-purchase transactions or the financing of such transactions;",
+                        "1": "(ii) an investment company, that is to say, a company which carries on, as its principal business, the acquisition of shares, stock, bonds, debentures, debenture stock or securities issued by the Government or a local authority, or other marketable securities of a like nature;",
+                        "2": "(iii) a housing finance company, that is to say, a company which carries on, as its principal business, the business of financing of acquisition or construction of houses, including acquisition or development of land in connection therewith;",
+                        "3": "(iv) a loan company, that is to say, a company [not being a company referred to in sub-clauses (i) to (iii)] which carries on, as its principal business, the business of providing finance, whether by making loans or advances or otherwise;",
+                        "4": "(v) a mutual benefit finance company, that is to say, a company which carries on, as its principal business, the business of acceptance of deposits from its members and which is declared by the Central Government under section 620A of the Companies Act, 1956 (1 of 1956), to be a Nidhi or Mutual Benefit Society; 1***",
+                        "5": "2[(va) a residuary non-banking company [other than a financial company referred to in sub-clause (i), (ii), (iii), (iv) or (v)] that is to say, a company which receives any deposit under any scheme or arrangement, by whatever name called, in one lumpsum or in instalments by way of contributions or subscriptions or by sale of units or certificates or other instruments or in any other manner; or]",
+                        "6": "(vi) a miscellaneous finance company, that is to say, a company which carries on exclusively, or almost exclusively, two or more classes of business referred to in the preceding sub-clauses;]"
+                    }
+                },
+                "8": "(6) \u201cIncome-tax Act\u201d means the Income-tax Act, 1961(43 of 1961);",
+                "9": {
+                    "text": "3[(7) '\u201cinterest\u201d means interest on loans and advances made in India and includes\u2014",
+                    "contains": {
+                        "0": "(a) commitment charges on unutilised portion of any credit sanctioned for being availed of in India; and",
+                        "1": "(b) discount on promissory notes and bills of exchange drawn or made in India,"
+                    }
+                },
+                "10": {
+                    "text": "but does not include\u2014",
+                    "contains": {
+                        "0": "(i) interest referred to in sub-section (1B) of section 42 of the Reserve Bank of India Act, 1934 (2 of 1934);",
+                        "1": "(ii) discount on treasury bills;]",
+                        "2": "(8) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                        "3": "4* * * * *;",
+                        "4": "(10) all other words and expressions used herein but not defined and defined in the Income-tax Act shall have the meanings respectively assigned to them in that Act."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Tax authorities.",
+            "paragraphs": {
+                "0": "5[(1) The income-tax authorities specified in section 116 of the Income-tax Act shall be the interest-tax authorities for the purposes of this Act.",
+                "1": "(1A) Every such authority shall exercise the powers and perform the functions of an interest-tax authority under this Act in respect of any person within his jurisdiction.",
+                "2": "(1B) The jurisdiction of an interest-tax authority under this Act shall be the same as he has under the Income-tax Act by virtue of orders or directions issued under section 120 of that Act (including orders or directions assigning the concurrent jurisdiction) or under any other provision of that Act.",
+                "3": "(1C) The interest-tax authority having jurisdiction in relation to a credit institution which has no income assessable to income-tax under the Income-tax Act shall be the interest-tax authority having jurisdiction in respect of the area in which that institution carries on its business or has its principal place of business. (1D) Section 118 of the Income-tax Act and any notification issued thereunder shall apply in relation to the control of interest-tax authorities as they apply in relation to the control of the corresponding income-tax authorities, except to the extent to which the Board may, by notification in the Official Gazette, otherwise direct in respect of any interest-tax authority.] (2) All officers and persons employed in the execution of this Act shall observe and follow the orders, instructions and directions of the Board: Provided that no such orders, instructions or directions shall be issued\u2014 (a) so as to require any tax authority to make a particular assessment or to dispose of a particular case in a particular manner; or (b) so as to interfere with the discretion of the Appellate Assistant Commissioner in the exercise of his appellate functions. (3) Every Income-tax Officer 1[or Assistant Commissioner 2[ or Deputy Commissioner]] employed in the execution of this Act shall observe and follow the orders, instructions and directions issued for his guidance by the 3[Director] or by the Commissioner or by the 4[Additional Commissioner of Income-tax or the 5[Joint Commissioner]] within whose jurisdiction he performs his functions."
+            }
+        },
+        "Section 4.": {
+            "heading": "Charge of tax.",
+            "paragraphs": {
+                "0": "6[(1)] Subject to the provisions of this Act, there shall be charged on every scheduled bank for every assessment year commencing on or after the 1st day of April, 1975, a tax (in this Act referred to as interest-tax) in respect of its chargeable interest of the previous year at the rate of seven per cent. of such chargeable interest: 7[Provided that the rate at which interest-tax shall be charged in respect of any chargeable interest accruing or arising after the 31st day of March, 1983 shall be three and a half per cent. of such chargeable interest.] 8[(2) Notwithstanding anything contained in sub-section (1) but subject to the other provisions of this Act, there shall be charged on every credit institution for every assessment year commencing on and from the 1st day of April, 1992, interest-tax in respect of its chargeable interest of the previous year at the rate of three per cent. of such chargeable interest.] 9[Provided that the rate at which interest-tax shall be charged in respect of any chargeable interest accruing or arising after the 31st day of March, 1997 shall be two per cent. of such chargeable interest.] 10[(3) Notwithstanding anything contained in sub-sections (1) and (2), no interest-tax shall be charged in respect of any chargeable interest accruing or arising after the 31st day of March, 2000.]"
+            }
+        },
+        "Section 5.": {
+            "heading": "Scope of chargeable interest.",
+            "paragraphs": {
+                "0": "Subject to the provisions of this Act, the chargeable interest of any previous year of a credit institution shall be the total amount of interest (other than interest on loans and advances made to other credit institutions 12[or to any co-operative society engaged in carrying on the business of banking]) accruing or arising to the credit institution in that previous year: Provided that any interest in relation to categories of bad or doubtful debts referred to in section 43D of the Income-tax Act shall be deemed to accrue or arise to the credit institution in the previous year in which it is credited by the credit institution to its profit and loss account for that year or, as the case may be, in which it is actually received by the credit institution, whichever is earlier.]"
+            }
+        },
+        "Section 6.": {
+            "heading": "Computation of chargeable interest.",
+            "paragraphs": {
+                "0": "(1) Subject to the provisions of sub-section (2), in computing the chargeable interest of a previous year, there shall be allowed from the total amount of interest (other than interest on loans and advances made to 13[credit institutions] accruing or arising to the assessee in the previous year, a deduction in respect of the amount of interest which is established to have become a bad debt during the previous year:",
+                "1": "Provided that such interest has been taken into account in computing the chargeable interest of the assessee of an earlier previous year and the amount has been written off as irrecoverable in the accounts of the assessee for the previous year during which it is established to have become a bad debt.",
+                "2": "Explanation.\u2014For the removal of doubts, it is hereby declared that in computing the chargeable interest of a previous year, no deduction, other than the deduction specified in this sub-section, shall be allowed from the total amount of interest accruing or arising to the assessee.",
+                "3": "(2) In computing the chargeable interest of a previous year, the amount of interest which accrues or arises to the assesse 1[before the 1st day of August, 1974 or 2[during the period commencing on the 1st day of April, 1985 and ending with the 30th day of September, 1991] shall not be taken into account."
+            }
+        },
+        "Section 7.": {
+            "heading": "Return of chargeable interest.",
+            "paragraphs": {
+                "0": "3[(I) In the case of every credit institution, its principal officer, or where in the case of a non-resident, credit institution any person has been treated as its agent under section 163 of the Income-tax Act, such person, shall furnish a return of the chargeable interest of the credit institution of the previous year in the prescribed form and verified in the prescribed manner and setting forth such other particulars as may be prescribed, before the 31st day of December of the assessment year.",
+                "1": "(2) Without prejudice to the provisions of sub-section (1), the Assessing Officer may, before the end of the relevant assessment year, serve a notice upon the principal officer of any credit institution, or where in the case of a non-resident credit institution any person has been treated as its agent under section 163 of the Income-tax Act, upon such person, requiring him to furnish within thirty days from the date of service of the notice a return of the chargeable interest of the credit institution of the previous year in the prescribed form and verified in the prescribed manner and setting forth such other particulars as may be prescribed.]",
+                "2": "(3) Any assessee who has not furnished a return within the time allowed under sub-section (1) or sub-section (2), or having furnished a return under sub-section (1) or sub-section (2) discovers any omission or wrong statement therein, may furnish a return or a revised return, as the case may be, at any time 4[before the expiry of one year from the end of the relevant assessment year or before the completion of the assessment, whichever is earlier.]"
+            }
+        },
+        "Section 8.": {
+            "heading": "Assessment.",
+            "paragraphs": {
+                "0": "(1) For the purposes of making an assessment under this Act, the 5[Assessing Officer] may serve on any person who has furnished a return under section 7 or upon whom a notice has been served under sub-section (2) of section 7 (whether a return has been furnished or not) a notice requiring him on a date therein to be specified, to produce or cause to be produced such accounts or documents or evidence as the 1[Assessing Officer] may require for the purposes of this Act and may, from time to time, serve further notices requiring the production of such further accounts or documents or other evidence as he may require.",
+                "1": "(2) The 5[Assessing Officer], after considering such accounts, documents or evidence, if any, as he has obtained under sub-section (1) and after taking into account any relevant material which he has gathered, shall, by an order in writing assess the chargeable interest and the amount of the interest-tax payable on the basis of such assessment.",
+                "2": {
+                    "text": "6[(3) If any person\u2014",
+                    "contains": {
+                        "0": "(a) fails to make a return as required under sub-section (1) of section 7 and has not made a return or a revised return under sub-section (3) of that section, or",
+                        "1": "(b) fails to comply with all the terms of notice under sub-section (2) of that section, the Assessing Officer shall, after taking into account all the relevant material which he has gathered and after giving the assessee an opportunity of being heard, make the assessment of the total chargeable interest to the best of his judgment and determine the sum payable by the assessee on the basis of such assessment:"
+                    }
+                },
+                "3": "Provided that such opportunity shall be given by the Assessing Officer by serving a notice calling upon the assessee to show cause, on a date and time to be specified in the notice, why the assessment should not be completed to the best of his judgment:",
+                "4": "Provided further that it shall not be necessary to give such opportunity in a case where a notice under sub-section (1) has been issued prior to the making of an assessment under this section.]"
+            }
+        },
+        "Section 9.": {
+            "heading": "Self-assessment.",
+            "paragraphs": {
+                "0": "(1) Where interest-tax is payable on the basis of any return required to be furnished under section 7 or section 10, after taking into account the amount of interest-tax, if any, already paid under any provision of this Act, the assessee shall be liable to pay such interest-tax, together with interest payable under any provision of this Act for any delay in furnishing the return or any default or delay in payment of advance interest-tax, before furnishing the return and the return shall be accompanied by proof of payment of such interest-tax and interest.",
+                "1": "Explanation.\u2014Where the amount paid by the assessee under this sub-section falls short of the aggregate of the interest-tax and interest as aforesaid, the amount so paid shall first be adjusted towards the interest payable as aforesaid and the balance, if any, shall be adjusted towards the interest-tax payable.",
+                "2": "(2) After the assessment under section 8 has been made, any amount paid under sub-section (1) shall be deemed to have been paid towards such assessment.",
+                "3": "(3) If any assessee fails to pay the whole or any part of interest-tax or interest or both in accordance with the provisions of sub-section (1), he shall, without prejudice to any other consequences which he may incur, be deemed to be an assessee in default in respect of the interest-tax or interest; or both remaining unpaid, and all the provisions of this Act shall apply accordingly.]"
+            }
+        },
+        "Section 10.": {
+            "heading": "Interest escaping assessment.",
+            "paragraphs": {
+                "0": {
+                    "text": "If\u2014",
+                    "contains": {
+                        "0": "(a) the 2[Assessing Officer] has reason to believe that by reason of the omission or failure on the part of the assessee to make a return under section 7 for any assessment year or to disclose fully and truly all material facts necessary for his assessment for any assessment year, chargeable interest for that year has escaped assessment or has been under-assessed or has been made the subject of excessive, relief under this Act, or",
+                        "1": "(b) notwithstanding that there has been no omission or failure as mentioned in clause (a) on the part of the assessee, the 2[Assessing Officer] has, in consequence of information in his possession, reason to believe that chargeable interest assessable for any assessment year has escaped assessment or has been under-assessed or has been made the subject of excessive relief under this Act"
+                    }
+                },
+                "1": "he may, in cases falling under clause (a), at any time, and in cases falling under clause (b), at any time within four years of the end of that assessment year, serve on the assesee a notice containing all or any of the requirements which may be included in a notice under section 7, and may proceed to assess or re-assess the amount chargeable to interest-tax, and the provisions of this Act shall, so far as may be, apply, as if the notice were a notice issued under that section."
+            }
+        },
+        "Section 10A.": {
+            "heading": "Time limit for completion of assessments and re-assessments.",
+            "paragraphs": {
+                "0": "(1) No order of assessment shall be made under section 8 at any time after the expiry of two years from the end of the assessment year in which the interest was first assessable.",
+                "1": "(2) No order of assessment or re-assessment shall be made under section 10 after the expiry of two years from the end of the financial year in which the notice under that section was served.",
+                "2": "(3) Notwithstanding anything contained in sub-sections (1) and (2), and order of fresh assessment in pursuance of an order passed under section 15, section 16, section 19 or section 20, setting aside or cancelling an assessment may be made at any time before the expiry of two years from the end of the financial year in which the order under section 15 of section 16 is received by the Commissioner or, as the case may be, the order under section 19 or section 20 is passed by the Commissioner.",
+                "3": "(4) The provisions of sub-sections (1) and (2) shall not apply to the assessment or re-assessment made in consequence of, or to give effect to, any finding or direction contained in an order under section 15 or section 16 or section 19 or section 20 of this Act or section 256 or section 260 of the Income-tax Act as applicable to this Act by virtue of section 21 of this Act or in an order of any court in a proceeding otherwise than by way of appeal or reference under this Act and such assessment or re-assessment may, subject to the provisions of sub-section (3), be completed at any time.",
+                "4": {
+                    "text": "Explanation 1.\u2014In computing the period of limitation for the purposes of this section\u2014",
+                    "contains": {
+                        "0": "(i) the time taken in reopening the whole or any part of the proceeding; or",
+                        "1": "(ii) the period during which the assessment proceeding is stayed by an order or injunction of any Court,"
+                    }
+                },
+                "5": {
+                    "text": "shall be excluded.",
+                    "contains": {
+                        "0": "Explanation 2.\u2014Where, by an order referred to in sub-section (4), any interest is excluded from the chargeable interest for an assessment year in respect of an assessee, then, an assessment of such interest for another assessment year shall, for the purposes of section 10 and this section, be deemed to be one made in consequence of, or to give effect to, any finding or direction contained in the said order.]"
+                    }
+                }
+            }
+        },
+        "Section 11.": {
+            "heading": "Advance payment of interest-tax.",
+            "paragraphs": {
+                "0": "(1) Interest-tax shall be payable in advance during the financial year in respect of the chargeable interest for the assessment year immediately following that financial year in accordance with the provision of this section.",
+                "1": {
+                    "text": "(2) Interest-tax shall be payable in advance in three instalments during each financial year, the due date of, and the amount payable in, each such instalment being as specified in the following Table:",
+                    "contains": {
+                        "0": "TABLE",
+                        "1": "Due date of instalment Amount payable",
+                        "2": "On or before the 15th September Not less than twenty per cent. of such interest-tax Payable in advance.",
+                        "3": "On or before the 15th December Not less than fifty per cent. of such interest-tax payable in advance, as reduced by the amount, if any, paid in the earlier instalment.",
+                        "4": "On or before the 15th March The whole amount of such interest-tax payable in advance as reduced by the amount or amounts, if any, paid in the earlier instalment or instalments:"
+                    }
+                },
+                "2": "Provided that any amount paid by way of interest-tax payable in advance on or before the 31st day of March shall also be treated as interest-tax paid in advance during the financial year ending on that day for all the purposes of this Act."
+            }
+        },
+        "Section 12.": {
+            "heading": "Interest for default in furnishing return of chargeable interest.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Where the return of chargeable interest for any assessment year under sub-section (1) of section 7, or in response to a notice under sub-section (2), of that section is furnished after the due date, or is not furnished, the assessee shall be liable to pay simple interest at the rate of two per cent. for every month or part of a month comprised in the period commencing on the date immediately following the due date, and,\u2014",
+                    "contains": {
+                        "0": "(a) where the return is furnished after the due date, ending on the date of the furnishing of the return; or",
+                        "1": "(b) where no return has been furnished, ending on the date of completion of assessment under sub-section (3) of section 8, on the amount of the interest-tax on the chargeable interest as determined under sub-section (2) or sub-section (3) of section 8 as reduced by the interest-tax paid in advance."
+                    }
+                },
+                "1": "Explanation 1.\u2014 In this section, \u201cdue date\u201d means the 31st day of December of the relevant assessment year or, as the case may be, the date on which return in response to a notice under sub-section (2) of section 7 is due to be filed.",
+                "2": "Explanation 2.\u2014Where in relation an assessment year, an assessment is made for the first time under section 10, the assessment so made shall be regarded as assessment made under sub-section (2), or, as the case may be, sub-section (3) of section 8.",
+                "3": "Explanation 3.\u2014For the purposes of computing the interest payable under section 9, interest-tax on the chargeable interest declared in the return shall be deemed to be the interest-tax on total chargeable interest determined under sub-section (2) or sub-section (3) of section 8.",
+                "4": "(2) The interest payable under sub-section (1) shall be reduced by the interest, if any, paid under section 9 towards the interest chargeable under this section.",
+                "5": {
+                    "text": "(3) Where the return of chargeable interest for any assessment year, required by a notice under section 10 issued after the completion of assessment under sub-section (2) or sub-section (3) of section 8 or section 10 is furnished after the expiry of the time allowed under such notice or is not furnished, the assessee shall be liable to pay simple interest at the rate of two per cent. for every month or part of a month comprised in the period commencing on the date immediately following the expiry of time allowed as aforesaid, and,\u2014",
+                    "contains": {
+                        "0": "(a) where the return is furnished after the expiry of the time aforesaid, ending on the date of furnishing the return; or",
+                        "1": "(b) where no return has been furnished, ending on the day of completion of the re-assessment under section 10,"
+                    }
+                },
+                "6": {
+                    "text": "on the amount by which the interest-tax on the chargeable interest as determined on the basis of such reassessment exceeds the interest-tax on chargeable interest on the basis of earlier assessment aforesaid.",
+                    "contains": {
+                        "0": {
+                            "text": "(4) Where, as a result of an order under section 15 or section 17 of this Act or section 254 or section 260 or section 262 of the Income-tax Act, as applicable to this Act by virtue of section 21 of this Act, the amount on which interest was payable under sub-section (1) or sub-section (3) has been increased or reduced, as the case may be, the interest shall be increased or reduced accordingly, and\u2014",
+                            "contains": {
+                                "0": "(i) in a case where the interest is increased, the Assessing Officer shall serve on the assessee a notice of demand in the prescribed form specifying the sum payable and such notice of demand shall be deemed to be a notice under section 156 of the Income-tax Act as applicable to this Act by virtue of Section 21, and the provisions of this Act shall apply accordingly;",
+                                "1": "(ii) in a case where the interest is reduced, the excess interest paid, if any, shall be refunded."
+                            }
+                        },
+                        "1": "(5) The provisions of this section shall apply in respect of assessments for the assessment year commencing on the 1st day of April, 1992 and subsequent years."
+                    }
+                }
+            }
+        },
+        "Section 12A.": {
+            "heading": "Interest for default in payment of interest-tax in advance.",
+            "paragraphs": {
+                "0": "(1) Subject to the other provisions of this section, where in any financial year, an assessee, who is liable to pay interest-tax in advance under section 11 has failed to pay such tax, or where the interest-tax paid in advance by such assessee is less than ninety per cent. of the assessed interest-tax, the assessee shall be liable to pay simple interest at the rate of two per cent. for every month or part of a month comprised in the period from the 1st day of April next following such financial year to the date of determination of chargeable interest under sub-section (2) or, as the case may be, sub-section (3) of section 8 on an amount equal to the assessed interest-tax, or, as the case may be, on the amount by which the interest-tax payable in advance falls short of the assessed interest-tax.",
+                "1": {
+                    "text": "Explanation 1.\u2014In this section \u201cassessed interest-tax\u201d means, \u2014",
+                    "contains": {
+                        "0": "(a) for the purpose of computing the interest payable under section 9, the interest-tax on the chargeable interest as declared in the return referred to in that section;",
+                        "1": "(b) in any other case, interest-tax on chargeable interest as determined under sub-section (2) or, as the case may be, sub-section (3) of section 8."
+                    }
+                },
+                "2": "Explanation 2.\u2014Where, in relation to an assessment year, an assessment is made for the first time under section 10, the assessment so made shall be regarded as assessment made under sub-section (2) or, as the case may be, sub-section (3) of section 8.",
+                "3": {
+                    "text": "(2) Where, before the date of completion of assessment under sub-section (2) or sub-section (3) of section 8, interest-tax is paid by the assessee under section 9 or otherwise,\u2014",
+                    "contains": {
+                        "0": "(i) interest shall be calculated in accordance with the foregoing provisions of this section up to the date on which the tax is so paid, and reduced by the interest, if any, paid under section 9 towards the interest chargeable under this section;",
+                        "1": "(ii) thereafter, interest shall be calculated at the rate aforesaid on the amount by which the tax so paid together with interest-tax paid in advance falls short of the assessed interest-tax."
+                    }
+                },
+                "4": "(3) Where, as a result of an order of reassessment under section 10, the amount on which the interest was payable under sub-section (1) is increased, the assessee shall be liable to pay simple interest at the rate of two per cent. for every month or part of a month comprised in the period commencing on the day following the completion of the assessment under sub-section (2) or, as the case may be, sub-section (3) of section 8 referred to in sub-section (1) and ending on the date of reassessment under section 10, on the amount by which the interest-tax on the basis of the reassessment exceeds the interest-tax on the chargeable interest determined on the basis of assessment under sub-section (2) or, as the case may be, sub-section (3) of section 8.",
+                "5": {
+                    "text": "(4) Where, as a result of an order under section 15 or section 17 of this Act or section 254 or section 260 or section 262 of the Income-tax Act as applicable to this Act by virtue of section 21 of this Act, the amount on which interest was payable under sub-section (1) or sub-section (3) has been increased or reduced, as the case may be, the interest shall be increased or reduced accordingly, and\u2014",
+                    "contains": {
+                        "0": "(i) in a case where the interest is increased, the Assessing Officer shall serve on the assessee a notice of demand in the prescribed form specifying the sum payable and such notice of demand shall be deemed to be a notice under section 156 of the Income-tax Act as applicable to this Act by virtue of section 21 of this Act, and provisions of this Act shall apply accordingly;",
+                        "1": "(ii) in a case where the interest is reduced, the excess interest paid, if any, shall be refunded."
+                    }
+                },
+                "6": "(5) The provisions of this section shall apply in respect of assessments for the assessment year commencing on the 1st day of April, 1992 and subsequent assessment years."
+            }
+        },
+        "Section 12B.": {
+            "heading": "Interest for deferment of interest-tax payable in advance.",
+            "paragraphs": {
+                "0": "(1) Where in any financial year, the assessee who is liable to pay interest-tax in advance under section 11 has failed to pay the interest-tax and where such tax paid by the assessee on his chargeable interest on or before the 15th day of September is less than twenty per cent. of the interest-tax due on the returned chargeable interest or the amount of such interest-tax paid on or before the 15th day of December is less than fifty per cent. of the tax due on the returned chargeable interest then, the assessee shall be liable to pay simple interest at the rate of one and one-half per cent. per month of the shortfall for a period of three months on the amount of shortfall from twenty per cent. or; as the case may be, fifty per cent. of the interest-tax due on the returned chargeable interest.",
+                "1": "(2) The provisions of this section shall apply in respect of assessments for the assessment year commencing on the 1st day of April, 1992 and subsequent assessment years."
+            }
+        },
+        "Section 13.": {
+            "heading": "Penalty for concealment of chargeable interest.",
+            "paragraphs": {
+                "0": "If the Assessing Officer or the Commissioner (Appeals) in the course of any proceeding under this Act, is satisfied that any person has concealed the particulars of chargeable interest or has furnished inaccurate particulars of such interest, he may direct that such person shall pay by way of penalty, in addition to any interest-tax payable by him, a sum which shall not be less than, but shall not exceed three times, the amount of interest-tax sought to be evaded by reason of the concealment of particulars of his chargeable interest or the furnishing of inaccurate particulars of such chargeable interest.]"
+            }
+        },
+        "Section 14.": {
+            "heading": "Opportunity of being heard.",
+            "paragraphs": {
+                "0": "No order imposing a penalty under section 12 or section 13 shall be made unless the assessee has been heard, or has been given a reasonable opportunity of being heard."
+            }
+        },
+        "Section 15.": {
+            "heading": "Appeals to the Commissioner (Appeals).",
+            "paragraphs": {
+                "0": "(1) Any person objecting to the amount of interest-tax for which he is assessed by the 2[Assessing Officer] or denying his liability to be assessed under this Act, or objecting to any penalty or fine imposed by the 2[Assessing Officer], or to the amount allowed by the 2[Assessing Officer] by way of any relief under any provision of this Act, or to any refusal by the 2[Assessing Officer] to grant relief or to an order of rectification having the effect of enhancing the assessment or reducing the refund, or to an order refusing to allow the claim made by the assessee for a rectification under section 17, may appeal to the 1[Commissioner (Appeals)].",
+                "1": "3[(2) Every appeal filed on or after the 1st day of October, 1998 shall be in the prescribed form and shall be verified in the prescribed manner and shall be accompanied by a fee of two hundred and fifty rupees.]",
+                "2": {
+                    "text": "(3) An appeal shall be presented within thirty days of the following date, that is to say,\u2014",
+                    "contains": {
+                        "0": "(a) where the appeal relates to assessment or penalty or fine, the date of service of the notice of the demand relating to the assessment or penalty or fine, or",
+                        "1": "(b) in any other case, the date on which the intimation of the order sought to be appealed against is served:"
+                    }
+                },
+                "3": "Provided that the 1[Commissioner (Appeals)] may admit an appeal after the expiration of the said period if he is satisfied that the appellant had sufficient cause for not presenting it within that period.",
+                "4": "(4) The 1[Commissioner (Appeals)] shall hear and determine the appeal and, subject to the provisions of this Act, pass such orders as he thinks fit and such orders may include an order enhancing the assessment or penalty:",
+                "5": "Provided that an order enhancing the assessment or penalty shall not be made unless the person affected thereby has been given a reasonable opportunity of showing cause against such enhancement.",
+                "6": "(5) The procedure to be adopted in the hearing and determination of the appeals shall, with any necessary modification, be in accordance with the procedure applicable in relation to income-tax."
+            }
+        },
+        "Section 15A.": {
+            "heading": "[Omitted.]",
+            "paragraphs": {
+                "0": "[Appeal to the Commissioner (Appeals).] Omitted by Finance (No. 2) Act, 1991 (49 of 1991), s. 103 (w.e.f. 1-10-1991)."
+            }
+        },
+        "Section 16.": {
+            "heading": "Appeals to Appellate Tribunal.",
+            "paragraphs": {
+                "0": "(1) Any assessee aggrieved by an order passed by a Commissioner under section 19, or an order passed by 4[a Commissioner (Appeals)] under any provision of this Act, may appeal to the Appellate Tribunal against such order.",
+                "1": "(2) The Commissioner may, if he objects to any order passed by the 1[Commissioner (Appeals)] under any provision of this Act, direct the 5[Assessing Officer] to appeal to the Appellate Tribunal against the order.",
+                "2": "(3) Every appeal under sub-section (1) or sub-section (2) shall be filed within sixty days of the date on which the order sought to be appealed against is communicated to the assessee or to the Commissioner, as the case may be.",
+                "3": "(4) The 1[Assessing Officer] or the assessee, as the case may be, on receipt of notice that an appeal against the order of the 2[Commissioner (Appeals)] has been preferred under sub-section (1) or sub-section (2) by the other party may, notwithstanding that he may not have appealed against such order or any part thereof, within thirty days of the receipt of the notice, file a memorandum of cross-objections, verified in the prescribed manner, against any part of the order of the 2[Commissioner (Appeals)], and such memorandum shall be disposed of by the Appellate Tribunal as if it were an appeal presented within the time specified in sub-section (3).",
+                "4": "(5) The Appellate Tribunal may admit an appeal or permit the filing of a memorandum of cross-objections after the expiry of the relevant period referred to in sub-section (3) or sub-section (4), if it is satisfied that there was sufficient cause for not presenting it within that period.",
+                "5": "(6) An appeal to the Appellate Tribunal shall be in the prescribed form and shall be verified in the prescribed manner and, shall, except in the case of an appeal referred to in sub-section (2) or a memorandum of cross-objections referred to in sub-section (4), be accompanied by a fee of 3[one thousand rupees in the case of an appeal filed on or after the 1st day of October, 1998].",
+                "6": "(7) Subject to the provisions of this Act, in hearing and making an order on any appeal under this section, the Appellate Tribunal shall exercise the same powers and follow the same procedure as it exercises and follows in hearing and making an order on any appeal under the Income-tax Act."
+            }
+        },
+        "Section 17.": {
+            "heading": "Rectification of mistakes.",
+            "paragraphs": {
+                "0": "(1) With a view to rectifying any mistake apparent from the record, the Commissioner, the 4[Assessing Officer], the 2[Commissioner (Appeals)] and the Appellate Tribunal may, of his, or its, own motion or on an application by the assessee in this behalf, amend any order passed by him or it in any proceeding under this Act 5[within four years from the end of the financial year in which such order was passed].",
+                "1": "(2) An amendment which has the effect of enhancing the assessment or reducing a refund or otherwise increasing the liability of the assessee shall not be made under this section unless the authority concerned has given notice to the assessee of its intention so to do and has allowed the assessee a reasonable opportunity of being heard.",
+                "2": "(3) Where an amendment is made under this section, the order shall be passed in writing by the authority concerned.",
+                "3": "(4) Subject to the other provisions of this Act, where any such amendment has the effect of reducing the assessment, the 4[Assessing Officer] shall make any refund which may be due to such assessee.",
+                "4": "(5) Where any such amendment has the effect of enhancing the assessment or reducing the refund already made, the 4[Assessing Officer] shall serve on the assessee a notice of demand in the prescribed form specifying the sum payable."
+            }
+        },
+        "Section 18.": {
+            "heading": "Interest-tax deductible in computing total income under the Income-tax Act.",
+            "paragraphs": {
+                "0": "Notwithstanding anything contained in the Income-tax Act, in computing the income of a credit institution chargeable to income-tax under the head \u201cProfits and gains of business or profession\u201d or under the head \u201cIncome from other sources\u201d, the interest-tax payable by the credit institution for any assessment year shall be deductible from the income, under the respective heads, of the credit institution assessable for that assessment year.]"
+            }
+        },
+        "Section 19.": {
+            "heading": "Revision of order prejudicial to revenue.",
+            "paragraphs": {
+                "0": "(1) The Commissioner may call for and examine the record of any proceeding under this Act, and if he considers that any order passed therein by the 7[Assessing Officer] is erroneous in so far as it is prejudicial to the interests of the revenue, he may, after giving the assessee an opportunity of being heard and after making or causing to be made such enquiry as he deems necessary, pass such order thereon as the circumstances of the case justify, including an order enhancing or modifying the assessment, or cancelling the assessment and directing a fresh assessment.",
+                "1": {
+                    "text": "1[Explanation.\u2014For the removal of doubts, it is hereby declared that, for the purposes of this sub-section,\u2014",
+                    "contains": {
+                        "0": "(a) \u201crecord\u201d shall include and shall be deemed always to have included all records relating to any proceeding under this Act available at the time of examination by the Commissioner;",
+                        "1": "(b) where any order referred to in this sub-section is the subject matter of any appeal, the power of the Commissioner under this sub-section shall extend to all such matters as had not been considered and decided in such appeal.]"
+                    }
+                },
+                "2": "2[(2) No order shall be made under in sub-section (1) after the expiry of two years from the end of the financial year in which the order sought to be revised was passed.]",
+                "3": "(3) Notwithstanding anything contained sub-section (2), an order-in revision under this section may be passed at anytime in the case of an order which has been passed in consequence of, or to give effect to, any finding or direction contained in an order of the Appellate Tribunal 3[the National Tax Tribunal], the High Court or the Supreme Court.",
+                "4": "Explanation.\u2014In computing the period of limitation for the purposes of sub-section (2), 4[the time taken in giving an opportunity to the assessee to be reheard under the proviso to section 129 of the Income-tax Act, as applicable to this Act by virtue of section 21 of this Act, and] any period during which any proceeding under this section is stayed by an order or injunction of any court shall be excluded."
+            }
+        },
+        "Section 20.": {
+            "heading": "Revision of orders by Commissioner.",
+            "paragraphs": {
+                "0": "(1) The Commissioner may, either of his own motion or on an application by the assessee for revision, call for the record of any proceeding under this Act which has been taken by an 5[Assessing Officer] 6*** subordinate to him and may make such enquiry or cause such enquiry to be made and, subject to the provisions of this Act, may pass such order thereon, not being an order prejudicial to the assessee, as he thinks fit.",
+                "1": "(2) The Commissioner shall not of his own motion revise any order under this section if the order has been made more than one year previously.",
+                "2": "(3) In the case of an application for revision under this section by the assessee, the application shall be made within one year from the date on which the order in question was communicated to him or the date on which he otherwise came to know of it, whichever is earlier:",
+                "3": "Provided that the Commissioner may, if he is satisfied that the assessee was prevented by sufficient cause from making the application within that period, admit an application made after the expiry of that period.",
+                "4": {
+                    "text": "(4) The Commissioner shall not revise any order under this section in the following cases\u2014",
+                    "contains": {
+                        "0": "7[(a) where an appeal against the order lies to the Commissioner (Appeals) but has not been made and the time within which such appeal may be made has not expired, or the assessee has not waived his right of appeals; or",
+                        "1": "(b) where the order has been made the subject of an appeal to the Commissioner (Appeals).]"
+                    }
+                },
+                "5": "(5) Every application by an assessee for revision under this section shall be accompanied by a fee of twenty-five rupees.",
+                "6": "1[(6) On every application by an assessee for revision under this sub-section, made on or after the 1st day of October, 1998, an order shall be passed within one year from the end of the financial year in which such application is made by the assesse for revision.",
+                "7": "Explanation.\u2014In computing the period of limitation for the purposes of this sub-section, the time taken in giving an opportunity to the assessee to be re-heard under the proviso to section 21 and any period during which any proceeding under this section is stayed by an order or injunction of any court shall be excluded.",
+                "8": "(7) Notwithstanding anything contained in sub-section (6), an order in revision under sub-section (6) may be passed at any time in consequence of or to give effect to any finding or direction contained in an order of the 2[Appellate Tribunal, the National Tax Tribunal, the High Court or the Supreme Court].]",
+                "9": "Explanation.\u2014An order by the Commissioner declining to interfere shall, for the purposes of this section be deemed not to be an order prejudicial to the assessee.",
+                "10": "3* * * * *"
+            }
+        },
+        "Section 21.": {
+            "heading": "Application of provisions of Income-tax Act.",
+            "paragraphs": {
+                "0": "The provisions of the following sections and Schedules of the Income-tax Act and the Income-tax (Certificate Proceedings) Rules, 1962, as in force from time to time, shall apply with necessary modifications as if the said provisions and the rules referred to interest-tax instead of to income-tax:\u2014",
+                "1": "4[2(44) 5[,119],129,131,132,132A, 132B, 133 to 136 (both inclusive), 138,140,145, 156, 160, 161, 162, 163, 166, 167, 170, 173, 175, 176, 178, 179, 220 to 227 (both inclusive), 228A, 229, 232, 237 to 245 (both inclusive), 254 to 262 (both inclusive), 265, 266, 268, 269, 281, 281B, 282, 284, 287, 288, 288A, 288B, 289 to 293 (both inclusive), the Second Schedule and the Third Schedule:]",
+                "2": "Provided that references in the said provisions and the rules to the \u201cassessee\u201d shall be construed as references to an assessee as defined in this Act."
+            }
+        },
+        "Section 22.": {
+            "heading": "Income-tax papers to be available for the purposes of this Act.",
+            "paragraphs": {
+                "0": "(1) Notwithstanding anything contained in the Income-tax Act, all information contained in any statement or return made or furnished under the provisions of that Act or obtained or collected for the purposes of that Act may be used for the purposes of this Act.",
+                "1": "(2) All information contained in any statement or return made or furnished under the provisions of this Act or obtained or collected for the purposes of this Act may be used for the purposes of the Income-tax Act."
+            }
+        },
+        "Section 23.": {
+            "heading": "Failure to comply with notices.",
+            "paragraphs": {
+                "0": "If any person fails, without reasonable cause, to produce or cause to be produced, any accounts or documents required to be produced under section 8, he shall pay by way of penalty, a sum which shall not be less than one thousand rupees, but which may extend to twenty-five thousand rupees, for each such failure."
+            }
+        },
+        "Section 24.": {
+            "heading": "False statements.",
+            "paragraphs": {
+                "0": "If a person makes a statement in any verification under this Act or any rule made thereunder, or delivers an account or statement which is false, and which he either knows or believes to be false or does not believe to be true, he shall be punishable with rigorous imprisonment for a term which shall not be less than three months but which may extend to seven years and with fine."
+            }
+        },
+        "Section 25.": {
+            "heading": "Wilful attempt to evade tax, etc.",
+            "paragraphs": {
+                "0": "If a person wilfully attempts in any manner whatsoever to evade any interest-tax, penalty or interest chargeable or imposable under this Act, he shall, without prejudice to any penalty that may be imposable on him under any other provision of this Act, be punishable with rigorous imprisonment for a term which shall not be less than three months but which may extend to seven years and with fine.",
+                "1": {
+                    "text": "Explanation.\u2014For the purposes of this section, a wilful attempt to evade any interest-tax, penalty or interest chargeable or imposable under this Act or the payment thereof shall include a case where any person\u2014",
+                    "contains": {
+                        "0": "(i) has in his possession or control any books of account or other documents (being books of account or other documents relevant to any proceeding under this Act) containing a false entry or statement; or",
+                        "1": "(ii) makes or causes to be made any false entry or statement in such books of account or other documents; or",
+                        "2": "(iii) wilfully omits or causes to be omitted any relevant entry or statement in such books of account or other documents; or",
+                        "3": "(iv) causes any other circumstances to exist which will have the effect of enabling such person to evade any interest-tax, penalty or interest chargeable or imposable under this Act or the payment thereof."
+                    }
+                }
+            }
+        },
+        "Section 26.": {
+            "heading": "Abetment of false returns, etc.",
+            "paragraphs": {
+                "0": "If a person abets or induces in any manner another person to make and deliver any account or a statement or declaration relating to any chargeable interest which is false and which he either knows or believes to be false or does not believe to be true or to commit an offence under section 25, he shall be punishable with rigorous imprisonment for a term which shall not be less than three months but which may extend to seven years and with fine."
+            }
+        },
+        "Section 26A.": {
+            "heading": "Offences by credit institutions.",
+            "paragraphs": {
+                "0": "(1) Where an offence under this Act has been committed by a credit institution every person who, at the time the offence was committed, was in charge of, and was responsible to, the credit institution or the conduct of the business of the credit institution as well as the credit institution shall be deemed to be guilty of the offence and shall be liable to be proceeded against and punished accordingly:",
+                "1": "Provided that nothing contained in this sub-section shall render any such person liable to any punishment if he proves that the offence was committed without his knowledge or that he had exercised all due diligence to prevent the commission of such offence.",
+                "2": "(2) Notwithstanding anything contained in sub-section (1), where an offence under this Act has been committed by a credit institution and it is proved that the offence has been committed with the consent or connivance of, or is attributable to any neglect on the part of, any director, manager, secretary or other officer of the credit institution, such director, manager, secretary or other officer shall also be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.",
+                "3": "Explanation.\u2014For the purposes of this section, \u201cdirector\u201d, in relation to a co-operative society, means any member controlling the affairs thereof."
+            }
+        },
+        "Section 26B.": {
+            "heading": "Institution of proceedings and composition of offences.",
+            "paragraphs": {
+                "0": "(1) A person shall not be proceeded against for any offence under section 24 or section 25 or section 26 or for any offence under the Indian Penal Code (45 of 1860), except with the previous sanction of the Commissioner or Commissioner (Appeals):",
+                "1": "Provided that the Chief Commissioner or, as the case may be, Director General may issue such instructions or directions to the aforesaid interest-tax authorities as he may deem fit for institution of proceedings under this sub-section.",
+                "2": "(2) Any offence under the sections referred to in sub-section (1) may, either before or after the institution of proceedings, be compounded by the Chief Commissioner or Director General.",
+                "3": "Explanation.\u2014For the removal of doubts, it is hereby declared that the power of the Board to issue orders, instructions or directions under this Act shall include the power to issue instructions or directions (including instructions or directions to obtain the previous approval of the Board) to other interest-tax authorities for the proper composition of offences under this section."
+            }
+        },
+        "Section 26C.": {
+            "heading": "Power of credit institutions to vary certain agreements.",
+            "paragraphs": {
+                "0": "Notwithstanding anything contained in any agreement under which any term loan has been sanctioned by the credit institution before the 1st day of October, 1991, it shall be lawful for the credit institution to vary the agreement, so as to increase the rate of interest stipulated therein to the extent to which such institution is liable to pay the interest-tax under this Act in relation to the amount of interest on the term loan which is due to the credit institution.",
+                "1": "Explanation.\u2014For the purposes of this section, \u201cterm loan\u201d means a loan which is not repayable on demand.]"
+            }
+        },
+        "Section 27.": {
+            "heading": "Power to make rules.",
+            "paragraphs": {
+                "0": "(1) The Board may, subject to the control of the Central Government, by notification in the Official Gazette, make rules for carrying out the purposes of this Act.",
+                "1": {
+                    "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                    "contains": {
+                        "0": "(a) the form in which returns under section 7 may be furnished and the manner in which they may be verified;",
+                        "1": "(b) the form in which appeals under section 15 or section 16 may be filed and the manner in which they may be verified;",
+                        "2": "(c) the procedure to be followed on applications for rectification of mistakes and applications for refunds;",
+                        "3": "(d) any other matter which by this Act is to be, or may be, prescribed."
+                    }
+                },
+                "2": "(3) The power to make rules conferred by this section shall on the first occasion of the exercise thereof include the power to give retrospective effect to the rules or any of them from a date not earlier than the date of commencement of this Act.",
+                "3": "(4) The Central Government shall cause every rule made under this section to be laid, as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+            }
+        },
+        "Section 28.": {
+            "heading": "Power to exempt.",
+            "paragraphs": {
+                "0": "Where the Central Government is of the opinion that it is necessary or expedient so to do either in the public interest or having regard to the peculiar circumstances of the case, it may, by notification, and subject to conditions, if any, as may be specified in the notification, exempt 1[any credit institution or any class of credit institutions or any interest on any category of loans or advances] from the levy of interest-tax:",
+                "1": "Provided that no such exemption shall be made except on the recommendation of the Reserve Bank of India."
+            }
+        },
+        "Section 29.": {
+            "heading": "Power to remove difficulty.",
+            "paragraphs": {
+                "0": "2[(1)] If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, not inconsistent with the provisions of this Act, remove the difficulty:",
+                "1": "Provided that no such order shall be made after the expiry of a period of two years from the commencement of this Act.",
+                "2": "3[(2) If any difficulty arises in giving effect to the provisions of this Act, as amended by the Finance (No.2) Act, 1991(49 of 1991), the Central Government may, by order, do anything not inconsistent with such provisions for the purpose of removing the difficulty:",
+                "3": "Provided that no such order shall be made after the expiry of two years from the 1st day of October, 1991.",
+                "4": "(3) Every order made under sub-section (2) shall be laid before each House of Parliament.]"
+            }
+        },
+        "Section 30.": {
+            "heading": "[Repealed.]",
+            "paragraphs": {
+                "0": "[Repeal.] Rep. by Repealing and Amending Act, 1978 (38 of 1978), s. 2 and the First Schedule (w.e.f. 26-11-1978)."
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. Ins. by Act 49 of 1991, s. 91 (w.e.f. 1-10-1991).",
+            "1": "2.  The  words  \u201cor  a  co-operative  society  engaged  in  carrying  on  the  business  of  banking  not  being  a  co-operative  societyproviding credit facilities to farmers or village artisans\u201d omitted by Act 18 of 1992, s. 103 (w.e.f. 1-4-1993)."
+        },
+        "Page 3": {
+            "0": "1. The word \u201cor\u201d omitted by Act 18 of 1992, s. 103 (w.e.f 1-4-1993).",
+            "1": "2. Ins. by s. 103, ibid. (w.e.f. 1-4-1993).",
+            "2": "3. Subs. by Act 49 of 1991, s. 91, for clause (7) (w.e.f. 1-10-1991).",
+            "3": "4. Clause (9) omitted by s. 91, ibid. (w.e.f. 1-10-1991).",
+            "4": "5. Subs. by s. 92, ibid., for sub-section (1) (w.e.f. 1-10-1991)."
+        },
+        "Page 4": {
+            "0": "1. Ins. by Act 32 of 1994, s. 56 (w.e.f. 1-6-1994).",
+            "1": "2.  Ins. by Act 21 of 1998, s. 77 (w.e.f. 1-4-1998).",
+            "2": "3. Subs. by Act 32 of 1994, s. 56, for \u201cDirector of Inspection\u201d (w.e.f. 1-6-1994).",
+            "3": "4. Subs. by s. 56, ibid., for \u201cInspecting Assistant Commissioner\u201d (w.e.f. 1-6-1994).",
+            "4": "5. Subs. by Act 21 of 1998, s. 77, for \u201cDeputy Commissioner\u201d (w.e.f. 1-4-1998).",
+            "5": "6. Section 4 renumbered as sub-section (1) thereof by Act 49 of 1991, s. 93 (w.e.f. 1-10-1991).",
+            "6": "7. Ins. by Act 11 of 1983, s. 43 (w.e.f. 1-4-1983).",
+            "7": "8. Ins. by Act 49 of 1991, s. 93 (w.e.f. 1-10-1991).",
+            "8": "9. Ins. by Act 26 of 1997, s. 59 (w.e.f. 1-4-1998).10. Ins. by Act 10 of 2000, s. 77 (w.e.f. 1-4-2001).11. Subs. by Act 49 of 1991, s. 94, for section 5 (w.e.f. 1-10-1991).12. Ins. by Act 18 of 1992, s. 104 (w.r.e.f. 1-10-91).13. Subs. by Act   49 of 1991, s. 95, for \u201cscheduled banks\u201d (w.e.f. 1-10-1991)."
+        },
+        "Page 5": {
+            "0": "1. Subs. by Act 19 of 1978, s. 33, for \u201cbefore the 1st day of August, 1974\u201d (1-4-1978).",
+            "1": "2. Subs. by Act 49 of 1991, s. 95, for \u201cafter the 31st day of March, 1985\u201d (w.e.f. 1-10-1991).",
+            "2": "3. Subs. by s. 96, ibid., for sub-sections (1) and (2) (w.e.f. 1-10-1991).",
+            "3": "4. Subs. by s. 96, ibid., for  \u201cbefore the assessment is made\u201d  (w.e.f. 1-10-1991).",
+            "4": "5. Subs. by s. 97, ibid., for  \u201cIncome-tax Officer\u201d  (w.e.f. 1-10-1991).",
+            "5": "6. Ins. by s. 97, ibid. (w.e.f. 1-10-1991)."
+        },
+        "Page 6": {
+            "0": "1. Subs. by Act 49 of 1991, s. 98, for section 9 (w.e.f. 1-10-1991).",
+            "1": "2. Subs. by s. 99, ibid., for \u201cIncome-Tax Officer\u201d (w.e.f. 1-10-1991).",
+            "2": "3. Ins. by s.100, ibid. (w.e.f 1-10-1991)."
+        },
+        "Page 7": {
+            "0": "1. Subs. by Act 49 of 1991, s. 101, for sections 11 to 13 (w.e.f. 1-10-1991)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 29 of 1977, s. 39 and the Fifth Schedule, for \u201c Appellate Assistant Commissioner\u201d (w.e.f. 1-4-1977).",
+            "1": "2. Subs. by Act 49 of 1991, s. 102, for \u201cIncome-tax Officer\u201d (w.e.f. 1-10-1991).",
+            "2": "3. Subs. by Act 21 of 1998, s. 78, for sub-section ( 2) (w.e.f. 1-10-1998).",
+            "3": "4. Subs. by Act 29 of 1977, s. 39 and the Fifth Schedule, for \u201can Appellate Assistant Commissioner\u201d (w.e.f. 1-4-1977).",
+            "4": "5. Subs. by Act 49 of 1991, s. 104, for \u201cIncome-tax Officer\u201d (w.e.f. 1-10-1991)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 49 of 1991, s. 104,  for \u201cIncome-tax Officer\u201d (w.e.f. 1-10-1991",
+            "1": "2. Subs. by Act 29 of 1977, s. 39 and the Fifth Schedule, for \u201cAppellate Assistant Commissioner\u201d (w.e.f. 1-4-1977).",
+            "2": "3. Subs. by Act 21 of 1998, s. 79, for \u201ctwo hundred rupees\u201d (w.e.f. 1-10-1998).",
+            "3": "4. Subs. by Act 49 of 1991, s. 105,  for \u201cIncome-tax Officer\u201d (w.e.f. 1-10-1991).",
+            "4": "5. Subs. by Act 67 of 1984, s. 82, for \u201cwithin four years of the date on which such order was passed\u201d (w.e.f. 1-10-1984).",
+            "5": "6. Subs. by Act 49 of 1991, s. 106, for section 18 (w.e.f. 1-10-1991).",
+            "6": "7. Subs. by s. 107, ibid., for \u201cIncome-tax Officer\u201d (w.e.f. 1-10-1991)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by  Act 49 of 1991,  s. 107, for the Explanation (w.e.f. 1-10-1991).",
+            "1": "2. Subs. by Act 67 of 1984, s. 83, for sub-section (2) (w.e.f. 1-10-1984).",
+            "2": "3. Ins. by Act 49 of 2005, s. 30 and the Schedule (w.e.f. 28-12-2005).",
+            "3": "4. Ins. by Act 49 of 1991, s. 107 (w.e.f. 1-10-1991).",
+            "4": "5. Subs. by s. 108, ibid., for \u201cIncome-tax Officer\u201d (w.e.f. 1-10-1991).",
+            "5": "6. The words \u201cor Appellate Assistant Commissioner\u201d omitted by Act 29 of 1977, s. 39 and  the Fifth Schedule (w.e.f. 8-8-1977).",
+            "6": "7. Subs. by s. 39 and the Fifth Schedule, ibid., for clauses (a), (b) and (c) (w.e.f. 8-8-1977)."
+        },
+        "Page 13": {
+            "0": "1. Ins. by Act 21 of 1998, s. 80 (w.e.f. 1-10-1998).",
+            "1": "2. Subs. by Act 49 of 2005, s. 30 and the Schedule (w.e.f. 28-12-2005).",
+            "2": "3. The Explanation 2 omitted by 29 of 1977, s. 39 and the Fifth Schedule (w.e.f. 8-8-1977).",
+            "3": "4. Subs. by Act 49 of 1991, s. 109, for certain figures, brackets, letters and words (w.e.f. 1-10-1991).",
+            "4": "5. Ins. by Act 26 of 1997, s. 60 (w.e.f. 1-10-1991).",
+            "5": "6. Subs. by Act 49 of 1991, s. 110, for sections 23 to 26 (w.e.f 1-10-1991)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 49 of 1991, s.111, for \u201cany scheduled bank or any class of scheduled banks\u201d (w.e.f. 1-10-1991).",
+            "1": "2. Section 29 renumbered as sub-section (1) thereof by s. 112, ibid. (w.e.f. 1-10-1991).",
+            "2": "3. Ins. by s. 112, ibid. (w.e.f. 1-10-1991)."
+        }
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "Act Title": "THE COMMERCIAL DOCUMENTS EVIDENCE ACT, 1939",
+    "Act ID": "ACTNO. 30OF 1939",
+    "Enactment Date": "[26th September, 1939.]",
+    "Act Definition": {
+        "0": "An Act to amend the Law of Evidence with respect to certain commercial documents.",
+        "1": "WHEREAS it is expedient to amend the Law of Evidence with respect to certain commercial documents;"
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Commercial Documents Evidence Act, 1939.",
+                "1": {
+                    "text": "(2) It extends to the whole of India except 2[the territories which, immediately before the 1st November, 1956, were comprised in Part B States].",
+                    "contains": {
+                        "0": "STATE AMENDMENTS"
+                    }
+                },
+                "2": {
+                    "text": "Karnataka",
+                    "contains": {
+                        "0": "Amendment of Central Act XXX of 1939.\u2013\u2013In sub-section (2) of section 1 of the Commercial Documents Evidence Act, 1939 (Central Act XXX of 1939), after the words and letter \u201cin Part B States\u201d the words, brackets, figures and letters \u201cother than the territories specified in clause (a) and clause (c) of sub-section (1) of section 7 of the [States Re-organisation Act, 1956 (Central Act XXXVII of 1956)\u201d] shall be added."
+                    }
+                },
+                "3": "[Vide Karnataka Act 33 of 1978, s. 7]."
+            }
+        },
+        "Section 2.": {
+            "heading": "Statements of relevant facts in scheduled documents to be themselves relevant facts.",
+            "paragraphs": {
+                "0": "Notwithstanding anything contained in the Indian Evidence Act, 1872 (1 of 1872), statements of facts in issue or of relevant fact made in any document included in the Schedule as to matters usually stated in such document shall be themselves relevant facts within the meaning of that Act."
+            }
+        },
+        "Section 3.": {
+            "heading": "Presumption as to genuineness of documents.",
+            "paragraphs": {
+                "0": {
+                    "text": "For the purposes of the Indian Evidence Act, 1872 (1 of 1872), and notwithstanding anything contained therein, a Court\u2014",
+                    "contains": {
+                        "0": "(a) shall presume, within the meaning of that Act, in relation to documents included in Part I of the Schedule, and",
+                        "1": "(b) may presume, within the meaning of that Act, in relation to documents included in Part II of the Schedule,\u2014 that any document purporting to be a document included in Part I or Part II of the Schedule, as the case may be, and to have been duly made by or under the appropriate authority, was so made and that the statements contained therein are accurate."
+                    }
+                }
+            }
+        },
+        "Section 4.": {
+            "heading": "Definition.",
+            "paragraphs": {
+                "0": "In the Schedule the expression \u201crecognised Chamber of Commerce\u201d means a Chamber of Commerce recognised by the Government of its country as being competent to issue certificates of origin, and includes any other association similarly recognised."
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": "THE SCHEDULE",
+            "1": {
+                "text": "(See sections 2 and 3)",
+                "contains": {
+                    "0": "PART I"
+                }
+            },
+            "2": "Documents in relation to which the Court \u201cSHALL presume\u201d.",
+            "3": "1. Lloyd\u2019s Register of Shipping.",
+            "4": "2. Lloyd\u2019s Daily Shipping Index.",
+            "5": "3. Lloyd\u2019s Loading List.",
+            "6": "4. Lloyd\u2019s Weekly Casually Reports.",
+            "7": "5. Certificate of delivery of goods to the Manchester Ship Canal Company.",
+            "8": "6. Official log book, supplementary official log book and official wireless log kept by a British ship.",
+            "9": "7. Certificate of Registry, Safety Certificate, Safety Radio-Telegraphy Certificate, Exemption Certificate, Certificate of Survey, Declaration of Survey, International Load Line Certificate, 1[Indian Load Line Certificate], Report of Survey of a ship provisionally detained as unsafe, Report of Survey to be served upon the master of a ship declared unsafe upon survey, Docking Certificate, Memorandum issued under Article 56 of the International Convention for the Safety of Life at Sea, 1929.",
+            "10": "8. Certificates A and B issued under the Indian Merchant Shipping Act, 1923.",
+            "11": "9. The following documents relating to marine insurance, namely, insurance policy, receipt for premium, certificate of insurance and insurance cover note.",
+            "12": "10. Certificate concerning the loss of country craft issued by the appropriate authority under Department of Commerce, Mercantile Marine Department Circular No. 2 of 1938.",
+            "13": "11. Protest made before a Notary Public or other duly authorised official by a master of a ship relating to circumstances calculated to affect the liability of the ship-owner.",
+            "14": "12. Licence or permit for radio-telegraph apparatus carried in ships or aircraft.",
+            "15": "13. Certificate of registration of an aircraft granted by the Government of the country to which the aircraft belongs.",
+            "16": "14. Certificate of airworthiness of an aircraft granted or validated by, or under the authority of, the Government of the country to which the aircraft belongs.",
+            "17": "15. Licences and certificates of competency of aircraft personnel granted or validated by, or under the authority of, the Government of the country to which the personnel belongs.",
+            "18": "16. Ground Engineer\u2019s licence issued by a competent authority authorised in this behalf by Government.",
+            "19": "17. Consular Certificate in respect of goods shipped or shut out, consular certificates of origin, and consular invoice.",
+            "20": "18. Certificate of originof goods issued (but not merely attested) by a recognised Chamber of Commerce, or by 1[an Indian or British Consular officer, or by an Indian or British] Trade Commissioner or Agent.",
+            "21": "19. Receipt for payment of customs duty issued by a customs authority.",
+            "22": "20. Schedule issued by a port, dock, harbor, wharfage or warehouse authority, or by a Railway company, showing fees, dues, freights or other charges for the storage, transport of other services in connection with goods.",
+            "23": "21. Tonnage schedule and schedule of fees, commission or other charges for services rendered, issued by a recognised Chamber of Commerce.",
+            "24": "22. The publication known as the Indian Railway Conference Association Coaching and Goods Tariffs.",
+            "25": "23. Copy, certified by the Registrar of Companies, of the Memorandum or the articles of association of a company, files under the Indian Companies Act, 19132.",
+            "26": {
+                "text": "24. Protest, nothing and certifying the dishonor of a bill of exchange, made before a Notary Public or other duly authorised official.",
+                "contains": {
+                    "0": "PART II",
+                    "1": "Documents in relation to which the Court \u201cMAY presume\u201d"
+                }
+            },
+            "27": {
+                "text": "1. Survey report issued by a competent authority \u2014",
+                "contains": {
+                    "0": "(i) in respect of cargo loaded; or",
+                    "1": "(ii) certifying the quantity of coal loaded; or",
+                    "2": "(iii) in respect of the security of hatches."
+                }
+            },
+            "28": "2. Official log book, supplementary official log book and official wireless log kept by a foreign ship.",
+            "29": "3. Dock certificate, dock chalan, dock receipt or warrant, port warehouse certificate or warrant, issued by, or under the authority of, a port, dock, harbour or wharfage authority.",
+            "30": "4. Certificate issued by a port, dock, harbour, wharfage or other authority having control of acceptance of goods for shipping, transport or delivery, relating to the date or time of shipment of goods, arrival of goods for acceptance, arrival of vessels or acceptance or delivery of goods, or to the allocation of berthing accommodation to vessels.",
+            "31": "5. Export application issued by a port authority showing dues paid, weight and measurement and the shutting out of a consignment.",
+            "32": "6. Certificate or receipt showing the weight or measurement of a consignment issued by the official measurer of the Conference Lines, or by a sworn or licensed measurer, or by a recognised Chamber of Commerce.",
+            "33": "7. Reports and publications issued by a port authority showing the movement of vessels and certificates issued by such authority relating to such movements.",
+            "34": "8. Certificate of safety for flight signed by a licensed Ground Engineer.",
+            "35": "9. Aircraft log book, journey log book and log book, maintained by the owner or operator in respect of aircraft.",
+            "36": "10. Passenger list or manifest of goods carried in public transport aircraft.",
+            "37": "11. Passenger ticket issued by a steamship company or air transport company.",
+            "38": "12. Air consignment note and baggage check, issued by an air transport company in respect of goods carried by air, and the counterfoil or duplicate thereof retained by the carrier.",
+            "39": "13. Aircraft load sheet.",
+            "40": "14.Storage warrant of a warehouse recognised by a customs, excise, port, dock, harbour, wharfage or warehouse authority.",
+            "41": "15. Acknowledgment receipt for goods granted by a port, dock, harbour, wharfage or warehouse authority or by a Railway or Steamship company.",
+            "42": "16. Customs or excise pass and customs or excise permit or certificate, issued by a customs or excise authority.",
+            "43": "17. Force majeure certificate issued by a recognised Chamber of Commerce.",
+            "44": "18. Receipt of a Railway or Steamship company granted to a consignor in acknowledgment of goods entrusted to the company for transport.",
+            "45": "19. Receipt granted by the Posts and Telegraphs Department.",
+            "46": "20. Certificate or survey award issued by a recognised Chamber of Commerce relating to the Quality, size, weight or valuation of any goods, count of yarn or percentage of moisture in yarn and other goods.",
+            "47": "21. Copy, certified by the Registrar of Companies, of the balancesheet, profit and loss account, and audit report of a company, filled with the said Registrar under the Indian Companies Act, 19131, and the rules made thereunder."
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. This Act has been applied to the Darjeeling district, w.e.f. the 8th February, 1940, by the late Bengal Government notificationNo. 361-J., dated the 31st January, 1940.The Act has been extended in its application to: \u2014(1) the whole of the Union territory of Lakshadweep (w.e.f. 15-10-1970); vide Reg. 2 of 1970, s. 2 and Sch. and(2) the Union territory of Pondicherry by Act 26 of 1968, s. 3 and Sch.",
+            "1": "2. Subs. by the A.O. (No. 3) 1956, for \u201cPart B States\u201d."
+        },
+        "Page 4": {
+            "0": "1. Subs. by Act 35 of 1950, s. 3 and the Sch. II, for \u201cBritish India Load Line Certificate\u201d."
+        },
+        "Page 5": {
+            "0": "1. Subs. by the A.O. 1948 for \u201ca British Consular officer or British or Indian\u201d.",
+            "1": "2. See now the Companies Act, 1956 (1 of 1956)."
+        },
+        "Page 6": {
+            "0": "1. See now the Companies Act, 1956 (1 of 1956)."
+        }
+    }
+}

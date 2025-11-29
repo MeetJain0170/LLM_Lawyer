@@ -1,0 +1,67 @@
+{
+    "Act Title": "THE TRANSFER OF PRISONERS ACT, 1950",
+    "Act ID": "ACT NO. 29 OF 1950",
+    "Enactment Date": "[12th April, 1950.]",
+    "Act Definition": {
+        "0": "An Act to provide for the removal from one State to another of persons confined in a prison."
+    },
+    "Sections": {
+        "Section 1.": {
+            "heading": "Short title and extent.",
+            "paragraphs": {
+                "0": "(1) This Act may be called the Transfer of Prisoners Act, 1950.",
+                "1": "(2) It extends to the whole of India 2* * *."
+            }
+        },
+        "Section 2.": {
+            "heading": "Definitions.",
+            "paragraphs": {
+                "0": {
+                    "text": "In this Act,\u2014",
+                    "contains": {
+                        "0": "(a) \u201ccourt\u201d includes any officer lawfully exercising civil, criminal or revenue jurisdiction;",
+                        "1": "3[(b) \u201cGovernment\u201d or \u201cState Government\u201d, in relation to a Part C State, means the administrator thereof;]",
+                        "2": "(c) \u201cprison\u201d includes any place which has been declared by State Government, by general or special order, to be a subsidiary jail."
+                    }
+                }
+            }
+        },
+        "Section 3.": {
+            "heading": "Removal of prisoners from one State to another.",
+            "paragraphs": {
+                "0": {
+                    "text": "(1) Where any person is confined in a prison in a State,\u2014",
+                    "contains": {
+                        "0": "(a) under sentence of death, or",
+                        "1": "(b) under, or in lieu of, a sentence of imprisonment or transportation, or",
+                        "2": "(c) in default of payment of a fine, or",
+                        "3": "(d) in default of giving security for keeping the peace or for maintaining good behaviour;"
+                    }
+                },
+                "1": {
+                    "text": "the Government of that State may, with the consent of the Government of any other State, by order, provide for the removal of the prisoner from that prison to any prison in the other State.",
+                    "contains": {
+                        "0": "(2) The officer in charge of the prison to which any person is removed under sub-section (1) shall receive and detain him, so far as may be, according to the exigency of any writ, warrant or order of the court by which such person has been committed, or until such person is discharged or removed in due course of law."
+                    }
+                }
+            }
+        },
+        "Section 4.": {
+            "heading": "[Repealed.]",
+            "paragraphs": {
+                "0": "[Amendment of section 29, Act III of 1900.]\u2014Rep. by the Repealing and Amending Act, 1957 (36 of 1957), s. 2 and Schedule I."
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 2": {
+            "0": "1. The Act has been extended to\u2014Kohima and Mokakchung Districts by Reg. 7 of 1961;Dadra and Nagar Haveli by Reg. 6 of 1963;Goa, Daman and Diu by notification No. GSR 430, dated 9-3-1965, see Gazette of India, Part II, s. 3(i).",
+            "1": "2. The words \u201cextends to the State of Jammu and Kashmir\u201d omitted by Act 25 of 1968, s. 2 and the Schedule (w.e.f. 15-8-1968).",
+            "2": "3. Subs. by the Adaptation of Laws (No. 3) Order, 1956, for clause (b) (w.e.f. 1-11-1956)."
+        }
+    }
+}

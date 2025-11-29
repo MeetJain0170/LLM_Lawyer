@@ -1,0 +1,1797 @@
+{
+    "Act Title": "THE PREVENTION OF MONEY-LAUNDERING ACT, 2002",
+    "Act ID": "ACT NO. 15 OF 2003",
+    "Enactment Date": "[17th January, 2003.]",
+    "Act Definition": {
+        "0": "An Act to prevent money-laundering and to provide for confiscation of property derived from, or involved in, money-laundering and for matters connected therewith or incidental thereto.",
+        "1": "WHEREAS the Political Declaration and Global Programme of Action, annexed to the resolution S-17/2 was adopted by the General Assembly of the United Nations at its seventeenth special session on the twenty-third day of February, 1990;",
+        "2": "AND WHEREAS the Political Declaration adopted by the Special Session of the United Nations General Assembly held on 8th to 10th June, 1998 calls upon the Member States to adopt national money-laundering legislation and programme;",
+        "3": "AND WHEREAS it is considered necessary to implement the aforesaid resolution and the Declaration."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title, extent and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the Prevention of Money- laundering Act, 2002.",
+                        "1": "(2) It extends to the whole of India.",
+                        "2": "(3) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cAdjudicating Authority\u201d means an Adjudicating Authority appointed under sub-section (1) of section 6;",
+                                "1": "(b) \u201cAppellate Tribunal\u201d means the Appellate Tribunal 2[referred to in] section 25;",
+                                "2": "(c) \u201cAssistant Director\u201d means an Assistant Director appointed under sub-section (1) of section 49;",
+                                "3": "(d) \u201cattachment\u201d means prohibition of transfer, conversion, disposition or movement of property by an order issued under Chapter III;",
+                                "4": "3[(da) \u201cauthorised person\u201d means an authorised person as defined in clause (c) of section 2 of the Foreign Exchange Management Act, 1999 (42 of 1999);]",
+                                "5": "(e) \u201cbanking company\u201d means a banking company or a co-operative bank to which the Banking Regulation Act, 1949 (10 of 1949) applies and includes any bank or banking institution referred to in section 51 of that Act;",
+                                "6": "(f) \u201cBench\u201d means a Bench of the Appellate Tribunal;",
+                                "7": "4[(fa)\u201cbeneficial owner\u201d means an individual who ultimately owns or controls a client of a reporting entity or the person on whose behalf a transaction is being conducted and includes a person who exercises ultimate effective control over a juridical person;]",
+                                "8": "(g) \u201cChairperson\u201d means the Chairperson of the Appellate Tribunal;",
+                                "9": "(h) \u201cchit fund company\u201d means a company managing, conducting or supervising, as foreman, agent or in any other capacity, chits as defined in section 2 of the Chit Funds Act, 1982 (40 of 1982);",
+                                "10": "1[(ha)\u201cclient\u201d means a person who is engaged in a financial transaction or activity with a reporting entity and includes a person on whose behalf the person who engaged in the transaction or activity, is acting;]",
+                                "11": "(i) \u201cco-operative bank\u201d shall have the same meaning as assigned to it in clause (dd) of section 2 of the Deposit Insurance and Credit Guarantee Corporation Act, 1961 (47 of 1961);",
+                                "12": {
+                                    "text": "1[(ia)\u201ccorresponding law\u201d means any law of any foreign country corresponding to any of the provisions of this Act or dealing with offences in that country corresponding to any of the scheduled offences;",
+                                    "contains": {
+                                        "0": "(ib)\u201cdealer\u201d has the same meaning as assigned to it in clause (b) of section 2 of the Central Sales Tax Act, 1956 (74 of 1956);]"
+                                    }
+                                },
+                                "13": "(j) \u201cDeputy Director\u201d means a Deputy Director appointed under sub-section (1) of section 49;",
+                                "14": "2* * * * *",
+                                "15": "(k) \u201cDirector\u201d or \u201cAdditional Director\u201d or \u201cJoint Director\u201d means a Director or Additional Director or Joint Director, as the case may be, appointed under sub-section (1) of section 49;",
+                                "16": "3[(l) \u201cfinancial institution\u201d means a financial institution as defined in clause (c) of section 45-1 of the Reserve Bank of India Act, 1934 (2 of 1934) and includes a chit fund company, a housing finance institution, an authorised person, a payment system operator, a non-banking financial company and the Department of Posts in the Government of India;]",
+                                "17": "(m) \u201chousing finance institution\u201d shall have the meaning as assigned to it in clause (d) of section 2 of the National Housing Bank Act, 1987 (53 of 1987);",
+                                "18": {
+                                    "text": "4[(n) \u201cintermediary\u201d means,\u2014",
+                                    "contains": {
+                                        "0": "(i) a stock-broker, sub-broker, share transfer agent, banker to an issue, trustee to a trust deed, registrar to an issue, merchant banker, underwriter, portfolio manager, investment adviser or any other intermediary associated with securities market and registered under section 12 of the Securities and Exchange Board of India Act, 1992 (15 of 1992); or",
+                                        "1": "(ii) an association recognised or registered under the Forward Contracts (Regulation) Act, 1952 (74 of 1952) or any member of such association; or",
+                                        "2": "(iii) intermediary registered by the Pension Fund Regulatory and Development Authority; or",
+                                        "3": "(iv) a recognised stock exchange referred to in clause (f) of section 2 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);]"
+                                    }
+                                },
+                                "19": "5[(na)\u201cinvestigation\u201d includes all the proceedings under this Act conducted by the Director or by an authority authorised by the Central Government under this Act for the collection of evidence;]",
+                                "20": "(o) \u201cMember\u201d means a Member of the Appellate Tribunal and includes the Chairperson;",
+                                "21": "(p) \u201cmoney-laundering\u201d has the meaning assigned to it in section 3;",
+                                "22": "(q) \u201cnon-banking financial company\u201d shall have the same meaning as assigned to it in clause (f) of section 45-I of the Reserve Bank of India Act, 1934 (2 of 1934)6***;",
+                                "23": "(r) \u201cnotification\u201d means a notification published in the Official Gazette;",
+                                "24": {
+                                    "text": "1[(ra) \u201coffence of cross border implications\u201d, means\u2014",
+                                    "contains": {
+                                        "0": "(i) any conduct by a person at a place outside India which constitutes an offence at that place and which would have constituted an offence specified in Part A, Part B or Part C of the Schedule, had it been committed in India and if such person 2[transfers in any manner] the proceeds of such conduct or part thereof to India; or",
+                                        "1": "(ii) any offence specified in Part A, Part B or Part C of the Schedule which has been committed in India and the proceeds of crime, or part thereof have been transferred to a place outside India or any attempt has been made to transfer the proceeds of crime, or part thereof from India to a place outside India.",
+                                        "2": "Explanation.\u2014Nothing contained in this clause shall adversely affect any investigation, enquiry, trial or proceeding before any authority in respect of the offences specified in Part A or Part B of the Schedule to the Act before the commencement of the Prevention of Money- laundering (Amendment) Act, 2009 (21 of 2009);"
+                                    }
+                                },
+                                "25": {
+                                    "text": "(rb)\u201cpayment system\u201d means a system that enables payment to be effected between a payer and a beneficiary, involving clearing, payment or settlement service or all of them.",
+                                    "contains": {
+                                        "0": "Explanation.\u2014For the purposes of this clause, \u201cpayment system\u201d includes the systems enabling credit card operations, debit card operations, smart card operations, money transfer operations or similar operations;"
+                                    }
+                                },
+                                "26": {
+                                    "text": "(rc) \u201cpayment system operator\u201d means a person who operates a payment system and such person includes his overseas principal.",
+                                    "contains": {
+                                        "0": "Explanation.\u2014For the purposes of this clause, \u201coverseas principal\u201d means,\u2014",
+                                        "1": "(A) in the case of a person, being an individual, such individual residing outside India, who owns or controls or manages, directly or indirectly, the activities or functions of payment system in India;",
+                                        "2": "(B) in the case of a Hindu undivided family, Karta of such Hindu undivided family residing outside India who owns or controls or manages, directly or indirectly, the activities or functions of payment system in India;",
+                                        "3": "(C) in the case of a company, a firm, an association of persons, a body of individuals, an artificial juridical person, whether incorporated or not, such company, firm, association of persons, body of individuals, artificial juridical person incorporated or registered outside India or existing as such and which owns or controls or manages, directly or indirectly, the activities or functions of payment system in India;]"
+                                    }
+                                },
+                                "27": {
+                                    "text": "(s) \u201cperson\u201d includes\u2014",
+                                    "contains": {
+                                        "0": "(i) an individual,",
+                                        "1": "(ii) a Hindu undivided family,",
+                                        "2": "(iii) a company,",
+                                        "3": "(iv) a firm,",
+                                        "4": "(v) an association of persons or a body of individuals, whether incorporated or not,",
+                                        "5": "(vi) every artificial juridical person not falling within any of the preceding sub-clauses, and",
+                                        "6": "(vii) any agency, office or branch owned or controlled by any of the above persons mentioned in the preceding sub-clauses;"
+                                    }
+                                },
+                                "28": {
+                                    "text": "1[(sa) \u201cperson carrying on designated business or profession\u201d means,\u2014",
+                                    "contains": {
+                                        "0": "(i) a person carrying on activities for playing games of chance for cash or kind, and includes such activities associated with casino;",
+                                        "1": "(ii) a Registrar or Sub-Registrar appointed under section 6 of the Registration Act, 1908 (16 of 1908), as may be notified by the Central Government;",
+                                        "2": "(iii) real estate agent, as may be notified by the Central Government;",
+                                        "3": "(iv) dealer in precious metals, precious stones and other high value goods, as may be notified by the Central Government;",
+                                        "4": "(v) person engaged in safekeeping and administration of cash and liquid securities on behalf of other persons, as may be notified by the Central Government; or",
+                                        "5": "(vi) person carrying on such other activities as the Central Government may, by notification, so designate, from time to time;"
+                                    }
+                                },
+                                "29": "(sb)\u201cprecious metal\u201d means gold, silver, platinum, palladium or rhodium or such other metal as may be notified by the Central Government;",
+                                "30": "(sc)\u201cprecious stone\u201d means diamond, emerald, ruby, sapphire or any such other stone as may be notified by the Central Government;]",
+                                "31": "(t) \u201cprescribed\u201d means prescribed by rules made under this Act;",
+                                "32": "(u) \u201cproceeds of crime\u201d means any property derived or obtained, directly or indirectly, by any person as a result of criminal activity relating to a scheduled offence or the value of any such property 2[or where such property is taken or held outside the country, then the property equivalent in value held within the country] 3[or abroad];",
+                                "33": "(v) \u201cproperty\u201d means any property or assets of every description, whether corporeal or incorporeal, movable or immovable, tangible or intangible and includes deeds and instruments evidencing title to, or interest in, such property or assets, wherever located;",
+                                "34": "1[Explanation.\u2014For the removal of doubts, it is hereby clarified that the term \u201cproperty\u201d includes property of any kind used in the commission of an offence under this Act or any of the scheduled offences;",
+                                "35": "(va) \u201creal estate agent\u201d means a real estate agent as defined in clause (88) of section 65 of the Finance Act, 1994 (32 of 1994);]",
+                                "36": "(w) \u201crecords\u201d include the records maintained in the form of books or stored in a computer or such other form as may be prescribed;",
+                                "37": "1[(wa) \u201creporting entity\u201d means a banking company, financial institution, intermediary or a person carrying on a designated business or profession;]",
+                                "38": "(x) \u201cSchedule\u201d means the Schedule to this Act;",
+                                "39": {
+                                    "text": "(y) \u201cscheduled offence\u201d means\u2014",
+                                    "contains": {
+                                        "0": "(i) the offences specified under Part A of the Schedule; or",
+                                        "1": "4[(ii) the offences specified under Part B of the Schedule if the total value involved in such offences is 5[one crore rupees] or more; or",
+                                        "2": "(iii) the offences specified under Part C of the Schedule.]"
+                                    }
+                                },
+                                "40": "(z) \u201cSpecial Court\u201d means a Court of Session designated as Special Court under sub-section (1) of section 43;",
+                                "41": "(za) \u201ctransfer\u201d includes sale, purchase, mortgage, pledge, gift, loan or any other form of transfer of right, title, possession or lien;",
+                                "42": "(zb) \u201cvalue\u201d means the fair market value of any property on the date of its acquisition by any person, or if such date cannot be determined, the date on which such property is possessed by such person."
+                            }
+                        },
+                        "1": "(2) Any reference, in this Act or the Schedule, to any enactment or any provision thereof shall, in relation to an area in which such enactment or such provision is not in force, be construed as a reference to the corresponding law or the relevant provisions of the corresponding law, if any, in force in that area."
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "OFFENCE OF MONEY-LAUNDERING",
+            "Sections": {
+                "Section 3.": {
+                    "heading": "Offence of money-laundering.",
+                    "paragraphs": {
+                        "0": "Whosoever directly or indirectly attempts to indulge or knowingly assists or knowingly is a party or is actually involved in any process or activity connected with the 1[proceeds of crime including its concealment, possession, acquisition or use and projecting or claiming] it as untainted property shall be guilty of offence of money-laundering."
+                    }
+                },
+                "Section 4.": {
+                    "heading": "Punishment for money-laundering.",
+                    "paragraphs": {
+                        "0": "Whoever commits the offence of money-laundering shall be punishable with rigorous imprisonment for a term which shall not be less than three years but which may extend to seven years and shall also be liable to fine2***:",
+                        "1": "Provided that where the proceeds of crime involved in money-laundering relates to any offence specified under paragraph 2 of Part A of the Schedule, the provisions of this section shall have effect as if for the words \u201cwhich may extend to seven years\u201d, the words \u201cwhich may extend to ten years\u201d had been substituted."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "ATTACHMENT, ADJUDICATION AND CONFISCATION",
+            "Sections": {
+                "Section 5.": {
+                    "heading": "Attachment of property involved in money-laundering.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "[(1)Where the Director or any other officer not below the rank of Deputy Director authorised by the Director for the purposes of this section, has reason to believe (the reason for such belief to be recorded in writing), on the basis of material in his possession, that\u2014",
+                            "contains": {
+                                "0": "(a) any person is in possession of any proceeds of crime; and",
+                                "1": "(b) such proceeds of crime are likely to be concealed, transferred or dealt with in any manner which may result in frustrating any proceedings relating to confiscation of such proceeds of crime under this Chapter,"
+                            }
+                        },
+                        "1": {
+                            "text": "he may, by order in writing, provisionally attach such property for a period not exceeding one hundred and eighty days from the date of the order, in such manner as may be prescribed:",
+                            "contains": {
+                                "0": "Provided that no such order of attachment shall be made unless, in relation to the scheduled offence, a report has been forwarded to a Magistrate under section 173 of the Code of Criminal Procedure, 1973 (2 of 1974), or a complaint has been filed by a person authorised to investigate the offence mentioned in that Schedule, before a Magistrate or court for taking cognizance of the scheduled offence, as the case may be, or a similar report or complaint has been made or filed under the corresponding law of any other country:",
+                                "1": "Provided further that, notwithstanding anything contained in 1[first proviso], any property of any person may be attached under this section if the Director or any other officer not below the rank of Deputy Director authorised by him for the purposes of this section has reason to believe (the reasons for such belief to be recorded in writing), on the basis of material in his possession, that if such property involved in money-laundering is not attached immediately under this Chapter, the non-attachment of the property is likely to frustrate any proceeding under this Act.]",
+                                "2": "2[Provided also that for the purposes of computing the period of one hundred and eighty days, the period during which the proceedings under this section is stayed by the High Court, shall be excluded and a further period not exceeding thirty days from the date of order of vacation of such stay order shall be counted.];",
+                                "3": "(2) The Director, or any other officer not below the rank of Deputy Director, shall, immediately after attachment under sub-section (1), forward a copy of the order, along with the material in his possession, referred to in that sub-section, to the Adjudicating Authority, in a sealed envelope, in the manner as may be prescribed and such Adjudicating Authority shall keep such order and material for such period as may be prescribed.",
+                                "4": "(3) Every order of attachment made under sub-section (1) shall cease to have effect after the expiry of the period specified in that sub-section or on the date of an order made under 3[sub-section (3)] of section 8, whichever is earlier.",
+                                "5": "(4) Nothing in this section shall prevent the person interested in the enjoyment of the immovable property attached under sub-section (1) from such enjoyment.",
+                                "6": "Explanation.\u2014For the purposes of this sub-section, \u201cperson interested\u201d, in relation to any immovable property, includes all persons claiming or entitled to claim any interest in the property.",
+                                "7": "(5) The Director or any other officer who provisionally attaches any property under sub-section (1) shall, within a period of thirty days from such attachment, file a complaint stating the facts of such attachment before the Adjudicating Authority."
+                            }
+                        }
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Adjudicating Authorities, composition, powers, etc.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall, by notification, appoint 4[an Adjudicating Authority] to exercise jurisdiction, powers and authority conferred by or under this Act.",
+                        "1": "(2) An Adjudicating Authority shall consist of a Chairperson and two other Members:",
+                        "2": "Provided that one Member each shall be a person having experience in the field of law, administration, finance or accountancy.",
+                        "3": {
+                            "text": "(3) A person shall, however, not be qualified for appointment as Member of an Adjudicating Authority,\u2014",
+                            "contains": {
+                                "0": {
+                                    "text": "(a) in the field of law, unless he\u2014",
+                                    "contains": {
+                                        "0": "(i) is qualified for appointment as District Judge; or",
+                                        "1": "(ii) has been a member of the Indian Legal Service and has held a post in Grade I of that service;"
+                                    }
+                                },
+                                "1": "(b) in the field of finance, accountancy or administration unless he possesses such qualifications, as may be prescribed."
+                            }
+                        },
+                        "4": "(4) The Central Government shall appoint a Member to be the Chairperson of the Adjudicating Authority.",
+                        "5": {
+                            "text": "(5) Subject to the provisions of this Act,\u2014",
+                            "contains": {
+                                "0": "(a) the jurisdiction of the Adjudicating Authority may be exercised by Benches thereof;",
+                                "1": "(b) a Bench may be constituted by the Chairperson of the Adjudicating Authority with one or two Members as the Chairperson of the Adjudicating Authority may deem fit;",
+                                "2": "(c) the Benches of the Adjudicating Authority shall ordinarily sit at New Delhi and at such other places as the Central Government may, in consultation with the Chairperson, by notification, specify;",
+                                "3": "(d) the Central Government shall, by notification, specify the areas in relation to which each Bench of the Adjudicating Authority may exercise jurisdiction."
+                            }
+                        },
+                        "6": "(6) Notwithstanding anything contained in sub-section (5), the Chairperson may transfer a Member from one Bench to another Bench.",
+                        "7": "(7) If at any stage of the hearing of any case or matter it appears to the Chairperson or a Member that the case or matter is of such a nature that it ought to be heard by a Bench consisting of two Members, the case or matter may be transferred by the Chairperson or, as the case may be, referred to him for transfer, to such Bench as the Chairperson may deem fit.",
+                        "8": "(8) The Chairperson and every Member shall hold office as such for a term of five years from the date on which he enters upon his office:",
+                        "9": "Provided that no Chairperson or other Member shall hold office as such after he has attained the age of 1[sixty-five] years.",
+                        "10": "(9) The salary and allowances payable to and the other terms and conditions of service of the Member shall be such as may be prescribed:",
+                        "11": "Provided that neither the salary and allowances nor the other terms and conditions of service of the Member shall be varied to his disadvantage after appointment.",
+                        "12": "(10) If, for reasons other than temporary absence, any vacancy occurs in the office of the Chairperson or any other Member, then, the Central Government shall appoint another person in accordance with the provisions of this Act to fill the vacancy and the proceedings may be continued before the Adjudicating Authority from the stage at which the vacancy is filled.",
+                        "13": "(11) The Chairperson or any other Member may, by notice in writing under his hand addressed to the Central Government, resign his office:",
+                        "14": "Provided that the Chairperson or any other Member shall, unless he is permitted by the Central Government to relinquish his office sooner, continue to hold office until the expiry of three months from the date of receipt of such notice or until a person duly appointed as his successor enters upon his office or until the expiry of his term of office, whichever is the earliest.",
+                        "15": "(12) The Chairperson or any other Member shall not be removed from his office except by an order made by the Central Government after giving necessary opportunity of hearing. (13) In the event of the occurrence of any vacancy in the office of the Chairperson by reason of his death, resignation or otherwise, the senior-most Member shall act as the Chairperson of the Adjudicating Authority until the date on which a new Chairperson, appointed in accordance with the provisions of this Act to fill such vacancy, enters upon his office. (14) When the Chairperson of the Adjudicating Authority is unable to discharge his functions owing to absence, illness or any other cause, the senior-most Member shall discharge the functions of the Chairperson of the Adjudicating Authority until the date on which the Chairperson of the Adjudicating Authority resumes his duties. (15) The Adjudicating Authority shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other provisions of this Act, the Adjudicating Authority shall have powers to regulate its own procedure."
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Staff of Adjudicating Authorities.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government shall provide each Adjudicating Authority with such officers and employees as that Government may think fit. (2) The officers and employees of the Adjudicating Authority shall discharge their functions under the general superintendence of the Chairperson of the Adjudicating Authority. (3) The salaries and allowances and other conditions of service of the officers and employees of the Adjudicating Authority shall be such as may be prescribed."
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Adjudication.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) On receipt of a complaint under sub-section (5) of section 5, or applications made under sub-section (4) of section 17 or under sub-section (10) of section 18, if the Adjudicating Authority has reason to believe that any person has committed an 1[offence under section 3 or is in possession of proceeds of crime], it may serve a notice of not less than thirty days on such person calling upon him to indicate the sources of his income, earning or assets, out of which or by means of which he has acquired the property attached under sub-section (1) of section 5, or, seized 2[or frozen] under section 17 or section 18, the evidence on which he relies and other relevant information and particulars, and to show cause why all or any of such properties should not be declared to be the properties involved in money-laundering and confiscated by the Central Government: Provided that where a notice under this sub-section specifies any property as being held by a person on behalf of any other person, a copy of such notice shall also be served upon such other person: Provided further that where such property is held jointly by more than one person, such notice shall be served to all persons holding such property. (2) The Adjudicating Authority shall, after\u2014 (a) considering the reply, if any, to the notice issued under sub-section (1); (b) hearing the aggrieved person and the Director or any other officer authorised by him in this behalf; and (c) taking into account all relevant materials placed on record before him, by an order, record a finding whether all or any of the properties referred to in the notice issued under sub-section (1) are involved in money-laundering: Provided that if the property is claimed by a person, other than a person to whom the notice had been issued, such person shall also be given an opportunity of being heard to prove that the property is not involved in money-laundering. (3) Where the Adjudicating Authority decides under sub-section (2) that any property is involved in money-laundering, he shall, by an order in writing, confirm the attachment of the property made under sub-section (1) of section 5 or retention of property or 3[record seized or frozen under section 17 or section 18 and record a finding to that effect, whereupon such attachment or retention or freezing of the seized or frozen property] or record shall\u2014",
+                            "contains": {
+                                "0": "(a) continue during 1[investigation for a period not exceeding 2[three hundred and sixty-five days] or] the pendency of the proceedings relating to any 3[offence under this Act before a court or under the corresponding law of any other country, before the competent court of criminal jurisdiction outside India, as the case may be; and] 4[(b) become final after an order of confiscation is passed under sub-section (5) or sub-section (7) of section 8 or section 58B or sub-section (2A) of section 60 by the 5[Special Court];] 6[Explanation.\u2014For the purposes of computing the period of three hundred and sixty-five days under clause (a), the period during which the investigation is stayed by any court under any law for the time being in force shall be excluded.] (4) Where the provisional order of attachment made under sub-section (1) of section 5 has been confirmed under sub-section (3), the Director or any other officer authorised by him in this behalf shall forthwith take the 7[possession of the property attached under section 5 or frozen under sub-section (1A) of section 17, in such manner as may be prescribed: Provided that if it is not practicable to take possession of a property frozen under sub-section (1A) of section 17, the order of confiscation shall have the same effect as if the property had been taken possession of.] 8[(5) Where on conclusion of a trial of an offence under this Act, the Special Court finds that the offence of money-laundering has been committed, it shall order that such property involved in the money- laundering or which has been used for commission of the offence of money-laundering shall stand confiscated to the Central Government. (6) Where on conclusion of a trial under this Act, the Special Court finds that the offence of money- laundering has not taken place or the property is not involved in money-laundering, it shall order release of such property to the person entitled to receive it. (7) Where the trial under this Act cannot be conducted by reason of the death of the accused or the accused being declared a proclaimed offender or for any other reason or having commenced but could not be concluded, the Special Court shall, on an application moved by the Director or a person claiming to be entitled to possession of a property in respect of which an order has been passed under sub-section (3) of section 8, pass appropriate orders regarding confiscation or release of the property, as the case may be, involved in the offence of money-laundering after having regard to the material before it.] 9[(8) Where a property stands confiscated to the Central Government under sub-section (5), the Special Court, in such manner as may be prescribed, may also direct the Central Government to restore such confiscated property or part thereof of a claimant with a legitimate interest in the property, who may have suffered a quantifiable loss as a result of the offence of money laundering: Provided that the Special Court shall not consider such claim unless it is satisfied that the claimant has acted in good faith and has suffered the loss despite having taken all reasonable precautions and is not involved in the offence of money laundering:] 1[Provided further that the Special Court may, if it thinks fit, consider the claim of the claimant for the purposes of restoration of such properties during the trial of the case in such manner as may be prescribed.]"
+                            }
+                        }
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Vesting of property in Central Government.",
+                    "paragraphs": {
+                        "0": "Where an order of confiscation has been made under 10[sub-section (5) or sub-section (7) of section 8 or section 58B or sub-section (2A) of section 60] in respect of any property of a person, all the rights and title in such property shall vest absolutely in the Central Government free from all encumbrances:",
+                        "1": "Provided that where the 1[Special Court or the Adjudicating Authority, as the case may be,] after giving an opportunity of being heard to any other person interested in the property attached under this Chapter, or seized 2[or frozen] under Chapter V, is of the opinion that any encumbrance on the property or lease-hold interest has been created with a view to defeat the provisions of this Chapter, it may, by order, declare such encumbrance or lease-hold interest to be void and thereupon the aforesaid property shall vest in the Central Government free from such encumbrances or lease-hold interest:",
+                        "2": "Provided further that nothing in this section shall operate to discharge any person from any liability in respect of such encumbrances which may be enforced against such person by a suit for damages."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Management of properties confiscated under this Chapter.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by order published in the Official Gazette, appoint as many of its officers (not below the rank of a Joint Secretary to the Government of India) as it thinks fit to perform the functions of an Administrator.",
+                        "1": "(2) The Administrator appointed under sub-section (1) shall receive and manage the property in relation to which an order has been made under 3[sub-section (5) or sub-section (6) or sub-section (7) of section 8 or section 58B or sub-section (2A) of section 60] in such manner and subject to such conditions as may be prescribed.",
+                        "2": "(3) The Administrator shall also take such measures, as the Central Government may direct, to dispose of the property which is vested in the Central Government under section 9."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Power regarding summons, production of documents and evidence, etc.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Adjudicating Authority shall, for the purposes of this Act, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) discovery and inspection;",
+                                "1": "(b) enforcing the attendance of any person, including any officer of a banking company or a financial institution or a company, and examining him on oath;",
+                                "2": "(c) compelling the production of records;",
+                                "3": "(d) receiving evidence on affidavits;",
+                                "4": "(e) issuing commissions for examination of witnesses and documents; and",
+                                "5": "(f) any other matter which may be prescribed."
+                            }
+                        },
+                        "1": "(2) All the persons so summoned shall be bound to attend in person or through authorised agents, as the Adjudicating Authority may direct, and shall be bound to state the truth upon any subject respecting which they are examined or make statements, and produce such documents as may be required.",
+                        "2": "(3) Every proceeding under this section shall be deemed to be a judicial proceeding within the meaning of section 193 and section 228 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 11A.": {
+                    "heading": "Verification of identity by reporting entity.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Every Reporting Entity shall verify the identity of its clients and the beneficial owner, by\u2014",
+                            "contains": {
+                                "0": "(a) authentication under the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016) if the reporting entity is a banking company; or",
+                                "1": "(b) offline verification under the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016); or",
+                                "2": "(c) use of passport issued under section 4 of the Passports Act, 1967 (15 of 1967); or",
+                                "3": "(d) use of any other officially valid document or modes of identification as may be notified by the Central Government in this behalf:"
+                            }
+                        },
+                        "1": "Provided that the Central Government may, if satisfied that a reporting entity other than banking company, complies with such the standards of privacy and security under the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016), and it is necessary and expedient to do so, by notification, permit such entity to perform authentication under clause (a):",
+                        "2": "Provided further that no notification under the first proviso shall be issued without consultation with the Unique Identification Authority of India established under sub-section (1) of section 11 of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016) and the appropriate regulator.",
+                        "3": "(2) If any reporting entity performs authentication under clause (a) of sub-section (1), to verify the identity of its client or the beneficial owner it shall make the other modes of identification under clauses (b), (c) and (d) of sub-section (1) also available to such client or the beneficial owner.",
+                        "4": "(3) The use of modes of identification under sub-section (1) shall be a voluntary choice of every client or beneficial owner who is sought to be identified and no client or beneficial owner shall be denied services for not having an Aadhaar number.",
+                        "5": "(4) If, for identification of a client or beneficial owner, authentication or offline verification under clause (a) or clause (b) of sub-section (1) is used, neither his core biometric information nor his Aadhaar number shall be stored.",
+                        "6": "(5) Nothing in this section shall prevent the Central Government from notifying additional safeguards on any reporting entity in respect of verification of the identity of its client or beneficial owner.",
+                        "7": "Explanation.\u2014The expressions \u201cAadhaar number\u201d and \u201ccore biometric information\u201d shall have the same meanings as are respectively assigned to them in clauses (a) and (j) of section 2 of the Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 (18 of 2016).]"
+                    }
+                }
+            }
+        },
+        "3": {
+            "ID": "CHAPTER IV",
+            "Name": "OBLIGATIONS OF BANKING COMPANIES, FINANCIAL INSTITUTIONS AND INTERMEDIARIES",
+            "Sections": {
+                "Section 12.": {
+                    "heading": "Reporting entity to maintain records.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Every reporting entity shall\u2014 (a) maintain a record of all transactions, including information relating to transactions covered under clause (b), in such manner as to enable it to reconstruct individual transactions;",
+                            "contains": {
+                                "0": "(b) furnish to the Director within such time as may be prescribed, information relating to such transactions, whether attempted or executed, the nature and value of which may be prescribed;",
+                                "1": "2* * * * *",
+                                "2": "(e) maintain record of documents evidencing identity of its clients and beneficial owners as well as account files and business correspondence relating to its clients."
+                            }
+                        },
+                        "1": "(2) Every information maintained, furnished or verified, save as otherwise provided under any law for the time being in force, shall be kept confidential.",
+                        "2": "(3) The records referred to in clause (a) of sub-section (1) shall be maintained for a period of five years from the date of transaction between a client and the reporting entity.",
+                        "3": "(4) The records referred to in clause (e) of sub-section (1) shall be maintained for a period of five years after the business relationship between a client and the reporting entity has ended or the account has been closed, whichever is later. (5) The Central Government may, by notification, exempt any reporting entity or class of reporting entities from any obligation under this Chapter.]"
+                    }
+                },
+                "Section 12A.": {
+                    "heading": "Access to information.",
+                    "paragraphs": {
+                        "0": "(1) The Director may call for from any reporting entity any of the records referred to in sub-section (1) of section 12 and any additional information as he considers necessary for the purposes of this Act. (2) Every reporting entity shall furnish to the Director such information as may be required by him under sub-section (1) within such time and in such manner as he may specify. (3) Save as otherwise provided under any law for the time being in force, every information sought by the Director under sub-section (1), shall be kept confidential.]"
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Powers of Director to impose fine.",
+                    "paragraphs": {
+                        "0": "(1) The Director may, either of his own motion or on an application made by any authority, officer or person, 2[make such inquiry or cause such inquiry to be made, as he thinks fit to be necessary, with regard to the obligations of the reporting entity, under this Chapter]. 3[(1A) If at any stage of inquiry or any other proceedings before him, the Director having regard to the nature and complexity of the case, is of the opinion that it is necessary to do so, he may direct the concerned reporting entity to get its records, as may be specified, audited by an accountant from amongst a panel of accountants, maintained by the Central Government for this purpose. (1B)The expenses of, and incidental to, any audit under sub-section (1A) shall be borne by the Central Government.] 4[(2) If the Director, in the course of any inquiry, finds that a reporting entity or its designated director on the Board or any of its employees has failed to comply with the obligations under this Chapter, then, without prejudice to any other action that may be taken under any other provisions of this Act, he may\u2014 (a) issue a warning in writing; or (b) direct such reporting entity or its designated director on the Board or any of its employees, to comply with specific instructions; or (c) direct such reporting entity or its designated director on the Board or any of its employees, to send reports at such interval as may be prescribed on the measures it is taking; or (d) by an order, impose a monetary penalty on such reporting entity or its designated director on the Board or any of its employees, which shall not be less than ten thousand rupees but may extend to one lakh rupees for each failure.] (3) The Director shall forward a copy of the order passed under sub-section (2) to every banking company, financial institution or intermediary or person who is a party to the proceedings under that sub-section. 5[Explanation.\u2014For the purpose of this section, \u201caccountant\u201d shall mean a chartered accountant within the meaning of the Chartered Accountants Act, 1949 (38 of 1949).]"
+                    }
+                },
+                "Section 14.": {
+                    "heading": "No civil or criminal proceedings against reporting entity, its directors and employees in certain cases.",
+                    "paragraphs": {
+                        "0": "Save as otherwise provided in section 13, the reporting entity, its directors and employees shall not be liable to any civil or criminal proceedings against them for furnishing information under clause (b) of sub-section (1) of section 12.]"
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Procedure and manner of furnishing information by reporting entities.",
+                    "paragraphs": {
+                        "0": "The Central Government may, in consultation with the Reserve Bank of India, prescribe the procedure and the manner of maintaining and furnishing information by a reporting entity under sub-section (1) of section 12 for the purpose of implementing the provisions of this Act.]"
+                    }
+                }
+            }
+        },
+        "4": {
+            "ID": "CHAPTER V",
+            "Name": "SUMMONS, SEARCHES AND SEIZURES, ETC.",
+            "Sections": {
+                "Section 16.": {
+                    "heading": "Power of survey.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Notwithstanding anything contained in any other provisions of this Act, where an authority, on the basis of material in his possession, has reason to believe (the reasons for such belief to be recorded in writing) that an offence under section 3 has been committed, he may enter any place\u2014",
+                            "contains": {
+                                "0": "(i) within the limits of the area assigned to him; or",
+                                "1": "(ii) in respect of which he is authorised for the purposes of this section by such other authority, who is assigned the area within which such place is situated,"
+                            }
+                        },
+                        "1": {
+                            "text": "at which any act constituting the commission of such offence is carried on, and may require any proprietor, employee or any other person who may at that time and place be attending in any manner to, or helping in, such act so as to,\u2014",
+                            "contains": {
+                                "0": "(i) afford him the necessary facility to inspect such records as he may require and which may be available at such place;",
+                                "1": "(ii) afford him the necessary facility to check or verify the proceeds of crime or any transaction related to proceeds of crime which may be found therein; and",
+                                "2": "(iii) furnish such information as he may require as to any matter which may be useful for, or relevant to, any proceedings under this Act.",
+                                "3": "Explanation\u2014For the purposes of this sub-section, a place, where an act which constitutes the commission of the offence is carried on, shall also include any other place, whether any activity is carried on therein or not, in which the person carrying on such activity states that any of his records or any part of his property relating to such act are or is kept.",
+                                "4": "(2) The authority referred to in sub-section (1) shall, after entering any place referred to in that sub-section immediately after completion of survey, forward a copy of the reasons so recorded along with material in his possession, referred to in that sub-section, to the Adjudicating Authority in a sealed envelope, in the manner as may be prescribed and such Adjudicating Authority shall keep such reasons and material for such period as may be prescribed.",
+                                "5": {
+                                    "text": "(3) An authority acting under this section may\u2014",
+                                    "contains": {
+                                        "0": "(i) place marks of identification on the records inspected by him and make or cause to be made extracts or copies there from,",
+                                        "1": "(ii) make an inventory of any property checked or verified by him, and",
+                                        "2": "(iii) record the statement of any person present in the place which may be useful for, or relevant to, any proceeding under this Act."
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Search and seizure.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Where 1[the Director or any other officer not below the rank of Deputy Director authorised by him for the purposes of this section,] on the basis of information in his possession, has reason to believe (the reason for such belief to be recorded in writing) that any person\u2014",
+                            "contains": {
+                                "0": "(i) has committed any act which constitutes money-laundering, or",
+                                "1": "(ii) is in possession of any proceeds of crime involved in money-laundering, or",
+                                "2": "(iii) is in possession of any records relating to money-laundering,1[or]",
+                                "3": "1[(iv) is in possession of any property related to crime,]"
+                            }
+                        },
+                        "1": {
+                            "text": "then, subject to the rules made in this behalf, he may authorise any officer subordinate to him to\u2014",
+                            "contains": {
+                                "0": "(a) enter and search any building, place, vessel, vehicle or aircraft where he has reason to suspect that such records or proceeds of crime are kept;",
+                                "1": "(b) break open the lock of any door, box, locker, safe, almirah or other receptacle for exercising the powers conferred by clause (a) where the keys thereof are not available;",
+                                "2": "(c) seize any record or property found as a result of such search;",
+                                "3": "(d) place marks of identification on such record or 1[property, if required or] make or cause to be made extracts or copies therefrom;",
+                                "4": "(e) make a note or an inventory of such record or property;",
+                                "5": "(f) examine on oath any person, who is found to be in possession or control of any record or property, in respect of all matters relevant for the purposes of any investigation under this Act:",
+                                "6": "2[Provided that no search shall be conducted unless, in relation to the scheduled offence, a report has been forwarded to a Magistrate under section 157 of the Code of Criminal Procedure, 1973 (2 of 1974), or a complaint has been filed by a person, authorised to investigate the offence mentioned in the Schedule, before a Magistrate or court for taking cognizance of the scheduled offence, as the case may be, or in cases where such report is not required to be forwarded, a similar report of information received or otherwise has been submitted by an officer authorised to investigate a scheduled offence to an officer not below the rank of Additional Secretary to the Government of India or equivalent being head of the office or Ministry or Department or Unit, as the case may be, or any other officer who may be authorised by the Central Government, by notification, for this purpose.]",
+                                "7": "3[(1A) Where it is not practicable to seize such record or property, the officer authorised under sub-section (1), may make an order to freeze such property whereupon the property shall not be transferred or otherwise dealt with, except with the prior permission of the officer making such order, and a copy of such order shall be served on the person concerned:",
+                                "8": "Provided that if, at any time before its confiscation under sub-section (5) or sub-section (7) of section 8 or section 58B or sub-section (2A) of section 60, it becomes practical to seize a frozen property, the officer authorised under sub-section (1) may seize such property.]",
+                                "9": "(2) The authority, who has been authorised under sub-section (1) shall, immediately after search and seizure 3[or upon issuance of a freezing order], forward a copy of the reasons so recorded along with material in his possession, referred to in that sub-section, to the Adjudicating Authority in a sealed envelope, in the manner, as may be prescribed and such Adjudicating Authority shall keep such reasons and material for such period, as may be prescribed.",
+                                "10": "(3) Where an authority, upon information obtained during survey under section 16, is satisfied that any evidence shall be or is likely to be concealed or tampered with, he may, for reasons to be recorded in writing, enter and search the building or place where such evidence is located and seize that evidence:",
+                                "11": "Provided that no authorisation referred to in sub-section (1) shall be required for search under this sub-section.",
+                                "12": "1[(4) The authority seizing any record or property under sub-section (1) or freezing any record or property under sub-section (1A) shall, within a period of thirty days from such seizure or freezing, as the case may be, file an application, requesting for retention of such record or property seized under sub-section (1) or for continuation of the order of freezing served under sub-section (1A), before the Adjudicating Authority.]"
+                            }
+                        }
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Search of persons.",
+                    "paragraphs": {
+                        "0": "(1) If an authority, authorised in this behalf by the Central Government by general or special order, has reason to believe (the reason for such belief to be recorded in writing) that any person has secreted about his person or in anything under his possession, ownership or control, any record or proceeds of crime which may be useful for or relevant to any proceedings under this Act, he may search that person and seize such record or property which may be useful for or relevant to any proceedings under this Act:",
+                        "1": "2[Provided that no search of any person shall be made unless, in relation to the scheduled offence, a report has been forwarded to a Magistrate under section 157 of the Code of Criminal Procedure, 1973 (2 of 1974) or a complaint has been filed by a person, authorised to investigate the offence mentioned in the Schedule, before a Magistrate or court for taking cognizance of the scheduled offence, as the case may be, or in cases where such report is not required to be forwarded, a similar report of information received or otherwise has been submitted by an officer authorised to investigate a scheduled offence to an officer not below the rank of Additional Secretary to the Government of India or equivalent being head of the office or Ministry or Department or Unit, as the case may be, or any other officer who may be authorised by the Central Government, by notification, for this purpose.]",
+                        "2": "(2) The authority, who has been authorised under sub-section (1) shall, immediately after search and seizure, forward a copy of the reasons so recorded along with material in his possession, referred to in that sub-section, to the Adjudicating Authority in a sealed envelope, in the manner, as may be prescribed and such Adjudicating Authority shall keep such reasons and material for such period, as may be prescribed.",
+                        "3": "(3) Where an authority is about to search any person, he shall, if such person so requires, take such person within twenty-four hours to the nearest Gazetted Officer, superior in rank to him, or a Magistrate:",
+                        "4": "Provided that the period of twenty-four hours shall exclude the time necessary for the journey undertaken to take such person to the nearest Gazetted Officer, superior in rank to him, or Magistrate\u2019s Court.",
+                        "5": "(4) If the requisition under sub-section (3) is made, the authority shall not detain the person for more than twenty-four hours prior to taking him before the Gazetted Officer, superior in rank to him, or the Magistrate referred to in that sub-section:",
+                        "6": "Provided that the period of twenty-four hours shall exclude the time necessary for the journey from the place of detention to the office of the Gazetted Officer, superior in rank to him, or the Magistrate\u2019s Court.",
+                        "7": "(5) The Gazetted Officer or the Magistrate before whom any such person is brought shall, if he sees no reasonable ground for search, forthwith discharge such person but otherwise shall direct that search be made.",
+                        "8": "(6) Before making the search under sub-section (1) or sub-section (5), the authority shall call upon two or more persons to attend and witness the search, and the search shall be made in the presence of such persons.",
+                        "9": "(7) The authority shall prepare a list of record or property seized in the course of the search and obtain the signatures of the witnesses on the list.",
+                        "10": "(8) No female shall be searched by any one except a female.",
+                        "11": {
+                            "text": "(9) The authority shall record the statement of the person searched under sub-section (1) or sub-section (5) in respect of the records or proceeds of crime found or seized in the course of the search:",
+                            "contains": {
+                                "0": "1* * * * *"
+                            }
+                        },
+                        "12": "(10) The authority, seizing any record or property under sub-section (1) shall, within a period of thirty days from such seizure, file an application requesting for retention of such record or property, before the Adjudicating Authority."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Power to arrest.",
+                    "paragraphs": {
+                        "0": "(1) If the Director, Deputy Director, Assistant Director or any other officer authorised in this behalf by the Central Government by general or special order, has on the basis of material in his possession, reason to believe (the reason for such belief to be recorded in writing) that any person has been guilty of an offence punishable under this Act, he may arrest such person and shall, as soon as may be, inform him of the grounds for such arrest.",
+                        "1": "(2) The Director, Deputy Director, Assistant Director or any other officer shall, immediately after arrest of such person under sub-section (1), forward a copy of the order along with the material in his possession, referred to in that sub-section, to the Adjudicating Authority in a sealed envelope, in the manner, as may be prescribed and such Adjudicating Authority shall keep such order and material for such period, as may be prescribed.",
+                        "2": "(3) Every person arrested under sub-section (1) shall, within twenty-four hours, be taken to a 2[Special Court or] Judicial Magistrate or a Metropolitan Magistrate, as the case may be, having jurisdiction:",
+                        "3": "Provided that the period of twenty-four hours shall exclude the time necessary for the journey from the place of arrest to the 2[Special Court or] Magistrate\u2019s Court."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Retention of property.",
+                    "paragraphs": {
+                        "0": "(1) Where any property has been seized under section 17 or section 18 or frozen under sub-section (1A) of section 17 and the officer authorised by the Director in this behalf has, on the basis of material in his possession, reason to believe (the reason for such belief to be recorded by him in writing) that such property is required to be retained for the purposes of adjudication under section 8, such property may, if seized, be retained or if frozen, may continue to remain frozen, for a period not exceeding one hundred and eighty days from the day on which such property was seized or frozen, as the case may be.",
+                        "1": "(2) The officer authorised by the Director shall, immediately after he has passed an order for retention or continuation of freezing of the property for purposes of adjudication under section 8, forward a copy of the order along with the material in his possession, referred to in sub-section (1), to the Adjudicating Authority, in a sealed envelope, in the manner as may be prescribed and such Adjudicating Authority shall keep such order and material for such period as may be prescribed.",
+                        "2": "(3) On the expiry of the period specified in sub-section (1), the property shall be returned to the person from whom such property was seized or whose property was ordered to be frozen unless the Adjudicating Authority permits retention or continuation of freezing of such property beyond the said period.",
+                        "3": "(4) The Adjudicating Authority, before authorising the retention or continuation of freezing of such property beyond the period specified in sub-section (1), shall satisfy himself that the property is prima facie involved in money-laundering and the property is required for the purposes of adjudication under section 8.",
+                        "4": "(5) After passing the order of confiscation under sub-section (5) or sub-section (7) of section 8, 1[Special Court], shall direct the release of all property other than the property involved in money-laundering to the person from whom such property was seized or the persons entitled to receive it.",
+                        "5": "(6) Where an order releasing the property has been made by the 2[Special Court] under sub-section (6) of section 8 or by the Adjudicating Authority under section 58B or sub-section (2A) of section 60, the Director or any officer authorised by him in this behalf may withhold the release of any such property for a period of ninety days from the date of3[receipt of] such order, if he is of the opinion that such property is relevant for the appeal proceedings under this Act."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Retention of records.",
+                    "paragraphs": {
+                        "0": "(1) Where any records have been seized, under section 17 or section 18 or frozen under sub-section (1A) of section 17 and the Investigating Officer or any other officer authorised by the Director in this behalf has reason to believe that any of such records are required to be retained for any inquiry under this Act, such records may if seized, be retained or if frozen, may continue to remain frozen, for a period not exceeding one hundred and eighty days from the day on which such records were seized or frozen, as the case may be.",
+                        "1": "(2) The person, from whom records seized or frozen, shall be entitled to obtain copies of records.",
+                        "2": "(3) On the expiry of the period specified under sub-section (1), the records shall be returned to the person from whom such records were seized or whose records were ordered to be frozen unless the Adjudicating Authority permits retention or continuation of freezing of such records beyond the said period.",
+                        "3": "(4) The Adjudicating Authority, before authorising the retention or continuation of freezing of such records beyond the period specified in sub-section (1), shall satisfy himself that the records are required for the purposes of adjudication under section 8.",
+                        "4": "(5) After passing of an order of confiscation 4[or release under sub-section (5) or sub-section (6) or sub-section (7) of section 8 or section 58B or sub-section (2A) of section 60], the Adjudicating Authority shall direct the release of the records to the person from whom such records were seized.",
+                        "5": "(6) Where an order releasing the records has been made by the Court 5[Adjudicating Authority under sub-section (5) of section 21], the Director or any other officer authorised by him in this behalf may withhold the release of any such record for a period of ninety days from the date of 6[receipt of] such order, if he is of the opinion that such record is relevant for the appeal proceedings under this Act.]"
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Presumption as to records or property in certain cases.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Where any records or property are or is found in the possession or control of any person in the course of a survey or a search7[or where any record or property is produced by any person or has been resumed or seized from the custody or control of any person or has been frozen under this Act or under any other law for the time being in force,] it shall be presumed that\u2014",
+                            "contains": {
+                                "0": "(i) such records or property belong or belongs to such person;",
+                                "1": "(ii) the contents of such records are true; and",
+                                "2": "(iii) the signature and every other part of such records which purport to be in the handwriting of any particular person or which may reasonably be assumed to have been signed by, or to be in the handwriting of, any particular person, are in that person\u2019s handwriting, and in the case of a record, stamped, executed or attested, that it was executed or attested by the person by whom it purports to have been so stamped, executed or attested."
+                            }
+                        },
+                        "1": {
+                            "text": "(2) Where any records have been received from any place outside India, duly authenticated by such authority or person and in such manner as may be prescribed, in the course of proceedings under this Act, the Special Court, the Appellate Tribunal or the Adjudicating Authority, as the case may be, shall\u2014",
+                            "contains": {
+                                "0": "(a) presume, that the signature and every other part of such record which purports to be in the handwriting of any particular person or which the court may reasonably assume to have been signed by, or to be in the handwriting of, any particular person, is in that person\u2019s handwriting; and in the case of a record executed or attested, that it was executed or attested by the person by whom it purports to have been so executed or attested;",
+                                "1": "(b) admit the document in evidence, notwithstanding that it is not duly stamped, if such document is otherwise admissible in evidence."
+                            }
+                        }
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Presumption in inter-connected transactions.",
+                    "paragraphs": {
+                        "0": "Where money-laundering involves two or more inter-connected transactions and one or more such transactions is or are proved to be involved in money-laundering, then for the purposes of adjudication or confiscation 1[under section 8 or for the trial of the money-laundering offence, it shall unless otherwise proved to the satisfaction of the Adjudicating Authority or the Special Court], be presumed that the remaining transactions from part of such inter- connected transactions."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Burden of proof.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In any proceeding relating to proceeds of crime under this Act,\u2014",
+                            "contains": {
+                                "0": "(a) in the case of a person charged with the offence of money-laundering under section 3, the Authority or Court shall, unless the contrary is proved, presume that such proceeds of crime are involved in money-laundering; and",
+                                "1": "(b) in the case of any other person the Authority or Court, may presume that such proceeds of crime are involved in money-laundering.]"
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "5": {
+            "ID": "CHAPTER VI",
+            "Name": "APPELLATE TRIBUNAL",
+            "Sections": {
+                "Section 25.": {
+                    "heading": "Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "The Appellate Tribunal constituted under sub-section (1) of section 12 of the Smugglers and Foreign Exchange Manipulators (Forfeiture of Property) Act, 1976 (13 of 1976) shall be the Appellate Tribunal for hearing appeals against the orders of the Adjudicating Authority and the other authorities under this Act.]"
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Appeal to Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided in sub-section (3), the Director or any person aggrieved by an order made by the Adjudicating Authority under this Act, may prefer an appeal to the Appellate Tribunal.",
+                        "1": "(2) Any 4[reporting entity] aggrieved by any order of the Director made under sub-section (2) of section 13, may prefer an appeal to the Appellate Tribunal.",
+                        "2": "(3) Every appeal preferred under sub-section (1) or sub-section (2) shall be filed within a period of forty-five days from the date on which a copy of the order made by the Adjudicating Authority or Director is received and it shall be in such form and be accompanied by such fee as may be prescribed:",
+                        "3": "Provided that the Appellate Tribunal may, after giving an opportunity of being heard, entertain an appeal after the expiry of the said period of forty-five days if it is satisfied that there was sufficient cause for not filing it within that period.",
+                        "4": "(4) On receipt of an appeal under sub-section (1) or sub-section (2), the Appellate Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such orders thereon as it thinks fit, confirming, modifying or setting aside the order appealed against.",
+                        "5": "(5) The Appellate Tribunal shall send a copy of every order made by it to the parties to the appeal and to the concerned Adjudicating Authority or the Director, as the case may be.",
+                        "6": "(6) The appeal filed before the Appellate Tribunal under sub-section (1) or sub-section (2) shall be dealt with by it as expeditiously as possible and endeavour shall be made by it to dispose of the appeal finally within six months from the date of filing of the appeal."
+                    }
+                },
+                "Section 27.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Compositions, etc., of Appellate Tribunal.] Omitted by the Finance Act, 2016 (28 of 2016), s. 232 (w.e.f. 1-6-2016)."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Qualifications for appointment.] Omitted by s. 232, ibid. (w.e.f. 1-6-2016)."
+                    }
+                },
+                "Section 29.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Term of office.] Omitted by the Prevention of Money-laundering (Amendment) Act, 2005 (20 of 2005), s. 4 (w.e.f. 1-7-2005)."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Conditions of service.] Omitted by the Finance Act, 2016 (28 of 2016), s. 232 (w.e.f. 1-6-2016)."
+                    }
+                },
+                "Section 31.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Vacancies.] Omitted by s. 232, ibid. (w.e.f. 1-6-2016)."
+                    }
+                },
+                "Section 32.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Resignation and removal.] Omitted by s. 232, ibid. (w.e.f. 1-6-2016)."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Member to act as Chairperson in certain circumstances.] Omitted by s. 232, ibid. (w.e.f. 1-6-2016)."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "[Omitted.].",
+                    "paragraphs": {
+                        "0": "[Staff of Appellate Tribunal.] Omitted by s. 232, ibid. (w.e.f. 1-6-2016)."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Procedure and powers of Appellate Tribunal.",
+                    "paragraphs": {
+                        "0": "(1) The Appellate Tribunal shall not be bound by the procedure laid down by the Code of Civil Procedure, 1908 (5 of 1908), but shall be guided by the principles of natural justice and, subject to the other Provisions of this Act, the Appellate Tribunal shall have powers to regulate its own procedure.",
+                        "1": {
+                            "text": "(2) The Appellate Tribunal shall have, for the purposes of discharging its functions under this Act, the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit, in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) summoning and enforcing the attendance of any person and examining him on oath;",
+                                "1": "(b) requiring the discovery and production of documents;",
+                                "2": "(c) receiving evidence on affidavits;",
+                                "3": "(d) subject to the provisions of sections 123 and 124 of the Indian Evidence Act, 1872 (1 of 1872), requisitioning any public record or document or copy of such record or document from any office;",
+                                "4": "(e) issuing commissions for the examination of witnesses or documents;",
+                                "5": "(f) reviewing its decisions;",
+                                "6": "(g) dismissing a representation for default or deciding it ex parte;",
+                                "7": "(h) setting aside any order of dismissal of any representation for default or any order passed by it ex parte; and",
+                                "8": "(i) any other matter, which may be, prescribed by the Central Government."
+                            }
+                        },
+                        "2": "(3) An order made by the Appellate Tribunal under this Act shall be executable by the Appellate Tribunal as a decree of civil court and, for this purpose, the Appellate Tribunal shall have all the powers of a civil court.",
+                        "3": "(4) Notwithstanding anything contained in sub-section (3), the Appellate Tribunal may transmit any order made by it to a civil court having local jurisdiction and such civil court shall execute the order as if it were a decree made by that court.",
+                        "4": "(5) All proceedings before the Appellate Tribunal shall be deemed to be judicial proceedings within the meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860) and the Appellate Tribunal shall be deemed to be a civil court for the purposes of sections 345 and 346 of the Code of Criminal Procedure, 1973 (2 of 1974)."
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Distribution of business amongst Benches.",
+                    "paragraphs": {
+                        "0": "Where any Benches are constituted, the 1[Chairman] may, from time to time, by notification, make provisions as to the distribution of the business of the Appellate Tribunal amongst the Benches and also provide for the matters which may be dealt with by each Bench."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Power of Chairperson to transfer cases.",
+                    "paragraphs": {
+                        "0": "On the application of any of the parties and after notice to the parties, and after hearing such of them as he may desire to be heard, or on his own motion without such notice, the 1[Chairman] may transfer any case pending before one Bench, for disposal, to any other Bench."
+                    }
+                },
+                "Section 38.": {
+                    "heading": "Decision to be by majority.",
+                    "paragraphs": {
+                        "0": "If the Members of a Bench consisting of two Members differ in opinion on any point, they shall state the point or points on which they differ, and make a reference to the 1[Chairman] who shall either hear the point or points himself or refer the case for hearing on such point or points by 2[third Member] of the Appellate Tribunal and such point or points shall be decided according to the opinion of the majority of the Members of the Appellate Tribunal who have heard the case, including those who first heard it."
+                    }
+                },
+                "Section 39.": {
+                    "heading": "Right of appellant to take assistance of authorised representative and of Government to appoint presenting officers.",
+                    "paragraphs": {
+                        "0": "(1) A person preferring an appeal to the Appellate Tribunal under this Act may either appear in person or take the assistance of an authorised representative of his choice to present his case before the Appellate Tribunal.",
+                        "1": "Explanation.\u2014For the purposes of this sub-section, the expression \u201cauthorised representative\u201d shall have the same meaning as assigned to it under sub-section (2) of section 288 of the Income-tax Act, 1961 (43 of 1961).",
+                        "2": "(2) The Central Government or the Director may authorise one or more authorised representatives or any of its officers to act as presenting officers and every person so authorised may present the case with respect to any appeal before the Appellate Tribunal."
+                    }
+                },
+                "Section 40.": {
+                    "heading": "Members, etc., to be public servants.",
+                    "paragraphs": {
+                        "0": "The 1[Chairman], Members and other officers and employees of the Appellate Tribunal, the Adjudicating Authority, Director and the officers subordinate to him shall be deemed to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860)."
+                    }
+                },
+                "Section 41.": {
+                    "heading": "Civil court not to have jurisdiction.",
+                    "paragraphs": {
+                        "0": "No civil court shall have jurisdiction to entertain any suit or proceeding in respect of any matter which the Director, an Adjudicating Authority or the Appellate Tribunal is empowered by or under this Act to determine and no injunction shall be granted by any court",
+                        "1": "or other authority in respect of any action taken or to be taken in pursuance of any power conferred by or under this Act."
+                    }
+                },
+                "Section 42.": {
+                    "heading": "Appeal to High Court.",
+                    "paragraphs": {
+                        "0": "Any person aggrieved by any decision or order of the Appellate Tribunal may file an appeal to the High Court within sixty days from the date of communication of the decision or order of the Appellate Tribunal to him on any question of law or fact arising out of such order:",
+                        "1": "Provided that the High Court may, if it is satisfied that the appellant was prevented by sufficient cause from filing the appeal within the said period, allow it to be filed within a further period not exceeding sixty days.",
+                        "2": {
+                            "text": "Explanation.\u2014For the purposes of this section, \u201cHigh Court\u201d means\u2014",
+                            "contains": {
+                                "0": "(i) the High Court within the jurisdiction of which the aggrieved party ordinarily resides or carries on business or personally works for gain; and",
+                                "1": "(ii) where the Central Government is the aggrieved party, the High Court within the jurisdiction of which the respondent, or in a case where there are more than one respondent, any of the respondents, ordinarily resides or carries on business or personally works for gain."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "6": {
+            "ID": "CHAPTER VII",
+            "Name": "SPECIAL COURTS",
+            "Sections": {
+                "Section 43.": {
+                    "heading": "Special Courts.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government, in consultation with the Chief Justice of the High Court, shall, for trial of offence punishable under section 4, by notification, designate one or more Courts of Session as Special Court or Special Courts or such area or areas or for such case or class or group of cases as may be specified in the notification.",
+                        "1": "Explanation.\u2014In this sub-section, \u201cHigh Court\u201d means the High Court of the State in which a Sessions Court designated as Special Court was functioning immediately before such designation.",
+                        "2": "(2) While trying an offence under this Act, a Special Court shall also try an offence, other than an offence referred to in sub-section (1), with which the accused may, under the Code of Criminal Procedure, 1973 (2 of 1974), be charged at the same trial."
+                    }
+                },
+                "Section 44.": {
+                    "heading": "Offences triable by Special Courts.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),\u2014",
+                            "contains": {
+                                "0": "1[(a) an offence punishable under section 4 and any scheduled offence connected to the offence under that section shall be triable by the Special Court constituted for the area in which the offence has been committed:",
+                                "1": "Provided that the Special Court, trying a scheduled offence before the commencement of this Act, shall continue to try such scheduled offence; or];",
+                                "2": "(b) a Special Court may, 2*** upon a complaint made by an authority authorised in this behalf under this Act take 3[cognizance of offence under section 3, without the accused being committed to it for trial];",
+                                "3": "4[(c) if the court which has taken cognizance of the scheduled offence is other than the Special Court which has taken cognizance of the complaint of the offence of money-laundering under sub-clause (b), it shall, on an application by the authority authorised to file a complaint under this"
+                            }
+                        },
+                        "1": {
+                            "text": "Act, commit the case relating to the scheduled offence to the Special Court and the Special Court shall, on receipt of such case proceed to deal with it from the stage at which it is committed.",
+                            "contains": {
+                                "0": "(d) a Special Court while trying the scheduled offence or the offence of money-laundering shall hold trial in accordance with the provisions of the Code of Criminal Procedure, 1973 ( 2 of 1974) as it applies to a trial before a Court of Session.]"
+                            }
+                        },
+                        "2": "(2) Nothing contained in this section shall be deemed to affect the special powers of the High Court regarding bail under section 439 of the Code of Criminal Procedure, 1973 (2 of 1974) and the High Court may exercise such powers including the power under clause (b) of sub-section (1) of that section as if the reference to \u201cMagistrate\u201d in that section includes also a reference to a \u201cSpecial Court\u201d designated under section 43."
+                    }
+                },
+                "Section 45.": {
+                    "heading": "Offences to be cognizable and non-bailable.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) 1[Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), no person accused of an offence 2[under this Act] shall be released on bail or on his own bond unless\u2014]",
+                            "contains": {
+                                "0": "(i) the Public Prosecutor has been given a opportunity to oppose the application for such release; and",
+                                "1": "(ii) where the Public Prosecutor opposes the application, the court is satisfied that there are reasonable grounds for believing that he is not guilty of such offence and that he is not likely to commit any offence while on bail:"
+                            }
+                        },
+                        "1": "Provided that a person, who, is under the age of sixteen years, or is a woman or is sick or infirm, 3[or is accused either on his own or along with other co-accused of money-laundering a sum of less than one crore rupees] may be released on bail, if the Special Court so directs:",
+                        "2": {
+                            "text": "Provided further that the Special Court shall not take cognizance of any offence punishable under section 4 except upon a complaint in writing made by\u2014",
+                            "contains": {
+                                "0": "(i) the Director; or",
+                                "1": "(ii) any officer of the Central Government or a State Government authorised in writing in this behalf by the Central Government by a general or special order made in this behalf by that Government."
+                            }
+                        },
+                        "3": "4[(1A) Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974), or any other provision of this Act, no police officer shall investigate into an offence under this Act unless specifically authorised, by the Central Government by a general or special order, and, subject to such conditions as may be prescribed.]",
+                        "4": "(2) The limitation on granting of bail specified in 5*** sub-section (1) is in addition to the limitations under the Code of Criminal Procedure, 1973 (2 of 1974) or any other law for the time being in force on granting of bail."
+                    }
+                },
+                "Section 46.": {
+                    "heading": "Application of Code of Criminal Procedure, 1973 to proceedings before Special Court.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided in this Act, the provisions of the Code of Criminal Procedure, 1973 (2 of 1974) (including the provisions as to bails or bonds), shall apply to the proceedings before a Special Court and for the purposes of the said provisions, the Special Court shall be deemed to be a Court of Session and the persons conducting the prosecution before the Special Court, shall be deemed to be a Public Prosecutor:",
+                        "1": "Provided that the Central Government may also appoint for any case or class or group of cases a Special Public Prosecutor.",
+                        "2": "(2) A person shall not be qualified to be appointed as a Public Prosecutor or a Special Public Prosecutor under this section unless he has been in practice as an advocate for not less than seven years, under the Union or a State, requiring special knowledge of law.",
+                        "3": "(3) Every person appointed as a Public Prosecutor or a Special Public Prosecutor under this section shall be deemed to be a Public Prosecutor within the meaning of clause (u) of section 2 of the Code of Criminal Procedure, 1973 (2 of 1974) and the provisions of that Code shall have effect accordingly."
+                    }
+                },
+                "Section 47.": {
+                    "heading": "Appeal and revision.",
+                    "paragraphs": {
+                        "0": "The High Court may exercise, so far as may be applicable, all the powers conferred by Chapter XXIX or Chapter XXX of the Code of Criminal Procedure, 1973 (2 of 1974), on a High Court, as if a Special Court within the local limits of the jurisdiction of the High Court were a Court of Session trying cases within the local limits of the jurisdiction of the High Court."
+                    }
+                }
+            }
+        },
+        "7": {
+            "ID": "CHAPTER VIII",
+            "Name": "AUTHORITIES",
+            "Sections": {
+                "Section 48.": {
+                    "heading": "Authorities under Act.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "There shall be the following classes of authorities for the purposes of this Act, namely:\u2014",
+                            "contains": {
+                                "0": "(a) Director or Additional Director or Joint Director,",
+                                "1": "(b) Deputy Director,",
+                                "2": "(c) Assistant Director, and",
+                                "3": "(d) such other class of officers as may be appointed for the purposes of this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 49.": {
+                    "heading": "Appointment and powers of authorities and other officers.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may appoint such persons as it thinks fit to be authorities for the purposes of this Act.",
+                        "1": "(2) Without prejudice to the provisions of sub-section (1), the Central Government may authorise the Director or an Additional Director or a Joint Director or a Deputy Director or an Assistant Director appointed under that sub-section to appoint other authorities below the rank of an Assistant Director.",
+                        "2": "(3) Subject to such conditions and limitations as the Central Government may impose, an authority may exercise the powers and discharge the duties conferred or imposed on it under this Act."
+                    }
+                },
+                "Section 50.": {
+                    "heading": "Powers of authorities regarding summons, production of documents and to give evidence, etc.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Director shall, for the purposes of section 13, have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 (5 of 1908) while trying a suit in respect of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) discovery and inspection;",
+                                "1": "(b) enforcing the attendance of any person, including any officer of a 1[reporting entity] and examining him on oath;",
+                                "2": "(c) compelling the production of records;",
+                                "3": "(d) receiving evidence on affidavits;",
+                                "4": "(e) issuing commissions for examination of witnesses and documents; and",
+                                "5": "(f) any other matter which may be prescribed."
+                            }
+                        },
+                        "1": "(2) The Director, Additional Director, Joint Director, Deputy Director or Assistant Director shall have power to summon any person whose attendance he considers necessary whether to give evidence or to produce any records during the course of any investigation or proceeding under this Act.",
+                        "2": "(3) All the persons so summoned shall be bound to attend in person or through authorised agents, as such officer may direct, and shall be bound to state the truth upon any subject respecting which they are examined or make statements, and produce such documents as may be required.",
+                        "3": "(4) Every proceeding under sub-sections (2) and (3) shall be deemed to be a judicial proceeding within the meaning of section 193 and section 228 of the Indian Penal Code (45 of 1860).",
+                        "4": "(5) Subject to any rules made in this behalf by the Central Government, any officer referred to in sub-section (2) may impound and retain in his custody for such period, as he thinks fit, any records produced before him in any proceedings under this Act:",
+                        "5": {
+                            "text": "Provided that an Assistant Director or a Deputy Director shall not\u2014",
+                            "contains": {
+                                "0": "(a) impound any records without recording his reasons for so doing; or",
+                                "1": "(b) retain in his custody any such records for a period exceeding three months, without obtaining the previous approval of the 1[Joint Director]."
+                            }
+                        }
+                    }
+                },
+                "Section 51.": {
+                    "heading": "Jurisdiction of authorities.",
+                    "paragraphs": {
+                        "0": "(1) The authorities shall exercise all or any of the powers and perform all or any of the functions conferred on, or, assigned, as the case may be, to such authorities by or under this Act or the rules framed thereunder in accordance with such directions as the Central Government may issue for the exercise of powers and performance of the functions by all or any of the authorities. (2) In issuing the directions or orders referred to in sub-section (1), the Central Government may have regard to any one or more of the following criteria, namely:\u2014 (a) territorial area; (b) classes of persons; (c) classes of cases; and (d) any other criterion specified by the Central Government in this behalf."
+                    }
+                },
+                "Section 52.": {
+                    "heading": "Power of Central Government to issue directions, etc.",
+                    "paragraphs": {
+                        "0": "The Central Government may, from time to time, issue such orders, instructions and directions to the authorities as it may deem fit for the proper administration of this Act and such authorities and all other persons employed in execution of this Act shall observe and follow such orders, instructions and directions of the Central Government: Provided that no such orders, instructions or directions shall be issued so as to\u2014 (a) require any authority to decide a particular case in a particular manner; or (b) interfere with the discretion of the Adjudicating Authority in exercise of his functions."
+                    }
+                },
+                "Section 53.": {
+                    "heading": "Empowerment of certain officers.",
+                    "paragraphs": {
+                        "0": "The Central Government may, by a special or general order, empower an officer not below the rank of Director of the Central Government or of a State Government to act as an authority under this Act: Provided that the Central Government may empower an officer below the rank of Director if the officer of the rank of the Director or above are not available in a particular area."
+                    }
+                },
+                "Section 54.": {
+                    "heading": "Certain officers to assist in inquiry etc.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The following 1[officers and others] are hereby empowered and required to assist the authorities in the enforcement of this Act, namely:\u2014 (a) officers of the Customs and Central Excise Departments; (b) officers appointed under sub-section (1) of section 5 of the Narcotic Drugs and Psychotropic Substances Act, 1985 (61 of 1985); (c) income-tax authorities under sub-section (1) of section 117 of the Income-tax Act, 1961 (43 of 1961);",
+                            "contains": {
+                                "0": "2[(d) members of the recognised stock exchange referred to in clause (f) of section 2 and the officers of the stock exchanges recognised under section 4 of the Securities Contracts (Regulation) Act, 1956 (42 of 1956);]",
+                                "1": "(e) officers of the Reserve Bank of India constituted under sub-section (1) of section 3 of the Reserve Bank of India Act, 1934 (2 of 1934);",
+                                "2": "(f) officers of Police;",
+                                "3": "(g) officers of enforcement appointed under sub-section (1) of section 36 of the Foreign Exchange Management Act, 1999 (40 of 1999);",
+                                "4": "(h) officers of the Securities and Exchange Board of India established under section 3 of the Securities and Exchange Board of India Act, 1992 (15 of 1992);",
+                                "5": "3[(ha) officers of the Insurance Regulatory and Development Authority established under section 3 of the Insurance Regulatory and Development Authority Act, 1999 (41 of 1999);",
+                                "6": "(hb) officers of the Forward Markets Commission established under section 3 of the Forward Contracts (Regulation) Act, 1952 (74 of 1952);",
+                                "7": "(hc) officers and members of the recognised association recognised under section 6 of the Forward Contracts (Regulation) Act, 1952 (74 of 1952);",
+                                "8": "(hd) officers of the Pension Fund Regulatory and Development Authority;",
+                                "9": "(he) officers of the Department of Posts in the Government of India;",
+                                "10": "(hf) Registrars or Sub-Registrars appointed by the State Governments under section 6 of the Registration Act, 1908 (16 of 1908);",
+                                "11": "(hg) registering authority empowered to register motor vehicles under Chapter IV of the Motor Vehicles Act, 1988 (59 of 1988);",
+                                "12": "(hh) officers and members of the Institute of Chartered Accountants of India constituted under section 3 of the Chartered Accountants Act, 1949 (38 of 1949);",
+                                "13": "(hi) officers and members of the Institute of Cost and Works Accountants of India constituted under section 3 of the Cost and Works Accountants Act, 1959 (23 of 1959);",
+                                "14": "(hj) officers and members of the Institute of Company Secretaries of India constituted under section 3 of the Company Secretaries Act, 1980 (56 of 1980);]",
+                                "15": "(i) officers of any other body corporate constituted or established under a Central Act or a State Act;",
+                                "16": "(j) such other officers of the Central Government, State Government, local authorities or 1[reporting entities] as the Central Government may, by notification, specify, in this behalf."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "8": {
+            "ID": "CHAPTER IX",
+            "Name": "RECIPROCAL ARRANGEMENT FOR ASSISTANCE IN CERTAIN MATTERS AND PROCEDURE FOR ATTACHMENT AND CONFISCATION OF PROPERTY",
+            "Sections": {
+                "Section 55.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Chapter, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201ccontracting State\u201d means any country or place outside India in respect of which arrangements have been made by the Central Government with the Government of such country through a treaty or otherwise;",
+                                "1": "(b) \u201cidentifying\u201d includes establishment of a proof that the property was derived from, or used in the commission of an offence under section 3;",
+                                "2": "(c) \u201ctracing\u201d means determining the nature, source, disposition, movement, title or ownership of property."
+                            }
+                        }
+                    }
+                },
+                "Section 56.": {
+                    "heading": "Agreements with foreign countries.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Central Government may enter into an agreement with the Government of any country outside India for\u2014",
+                            "contains": {
+                                "0": "(a) enforcing the provisions of this Act;",
+                                "1": "(b) exchange of information for the prevention of any offence under this Act or under the corresponding law in force in that country or investigation of cases relating to any offence under this Act,"
+                            }
+                        },
+                        "1": {
+                            "text": "and may, by notification in the Official Gazette, make such provisions as may be necessary for implementing the agreement.",
+                            "contains": {
+                                "0": "(2) The Central Government may, by notification in the Official Gazette, direct that the application of this Chapter in relation to a contracting State with which reciprocal arrangements have been made, shall be subject to such conditions, exceptions or qualifications as are specified in the said notification."
+                            }
+                        }
+                    }
+                },
+                "Section 57.": {
+                    "heading": "Letter of request to a contracting State in certain cases.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Notwithstanding anything contained in this Act or the Code of Criminal Procedure, 1973 (2 of 1974) if, in the course of an investigation into an offence or other proceedings under this Act, an application is made to a Special Court by the Investigating Officer or any officer superior in rank to the Investigating Officer that any evidence is required in connection with investigation into an offence or proceedings under this Act and he is of the opinion that such evidence may be available in any place in a contracting State, and the Special Court, on being satisfied that such evidence is required in connection with the investigation into an offence or proceedings under this Act, may issue a letter of request to a court or an authority in the contracting State competent to deal with such request to\u2014",
+                            "contains": {
+                                "0": "(i) examine facts and circumstances of the case,",
+                                "1": "(ii) take such steps as the Special Court may specify in such letter of request, and",
+                                "2": "(iii) forward all the evidence so taken or collected to the Special Court issuing such letter of request."
+                            }
+                        },
+                        "1": "(2) The letter of request shall be transmitted in such manner as the Central Government may specify in this behalf.",
+                        "2": "(3) Every statement recorded or document or thing received under sub-section (1) shall be deemed to be the evidence collected during the course of investigation."
+                    }
+                },
+                "Section 58.": {
+                    "heading": "Assistance to a contracting State in certain cases.",
+                    "paragraphs": {
+                        "0": "Where a letter of request is received by the Central Government from a court or authority in a contracting State requesting for investigation into an offence or proceedings under this Act and forwarding to such court or authority any evidence connected therewith, the Central Government may forward such letter of request to the Special Court or to any authority under the Act as it thinks fit for execution of such request in accordance with the provisions of this Act or, as the case may be, any other law for the time being in force."
+                    }
+                },
+                "Section 58A.": {
+                    "heading": "Special Court to release the property.",
+                    "paragraphs": {
+                        "0": "Where on closure of the criminal case or conclusion of a trial in a criminal court outside India under the corresponding law of any other country, such court finds that the offence of money-laundering has not taken place or the property in India is not involved in money-laundering, the Special Court may, on an application moved by the concerned person or the Director, after notice to the other party, order release of such property to the person entitled to receive it."
+                    }
+                },
+                "Section 58B.": {
+                    "heading": "Letter of request of a contracting State or authority for confiscation or release the property.",
+                    "paragraphs": {
+                        "0": "Where the trial under the corresponding law of any other country cannot be conducted by reason of the death of the accused or the accused being declared a proclaimed offender or for any other reason or having commenced but could not be concluded, the Central Government shall, on receipt of a letter of request from a court or authority in a contracting State requesting for confiscation or release of property, as the case may be, forward the same to the Director to move an application before the Special Court and upon such application the Special Court shall pass appropriate orders regarding confiscation or release of such property involved in the offence of money-laundering.]"
+                    }
+                },
+                "Section 59.": {
+                    "heading": "Reciprocal arrangements for processes and assistance for transfer of accused persons.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Where a Special Court, in relation to an offence punishable under section 4, desires that\u2014",
+                            "contains": {
+                                "0": "(a) a summons to an accused person, or",
+                                "1": "(b) a warrant for the arrest of an accused person, or",
+                                "2": "(c) a summons to any person requiring him to attend and produce a document or other thing or to produce it, or",
+                                "3": "(d) a search warrant,"
+                            }
+                        },
+                        "1": {
+                            "text": "issued by it shall be served or executed at any place in any contracting State, it shall send such summons or warrant in duplicate in such form, to such Court, Judge or Magistrate through such authorities, as the Central Government may, by notification, specify in this behalf and that Court, Judge or Magistrate, as the case may be, shall cause the same to be executed.",
+                            "contains": {
+                                "0": {
+                                    "text": "(2) Where a Special Court, in relation to an offence punishable under section 4 has received for service or execution\u2014",
+                                    "contains": {
+                                        "0": "(a) a summons to an accused person, or",
+                                        "1": "(b) a warrant for the arrest of an accused person, or",
+                                        "2": "(c) a summons to any person requiring him to attend and produce a document or other thing, or to produce it, or",
+                                        "3": "(d) a search warrant, issued by a Court, Judge or Magistrate in a contracting State, it shall, cause the same to be served or executed as if it were a summons or warrant received by it from another Court in the said territories for service or execution within its local jurisdiction; and where\u2014",
+                                        "4": "(i) a warrant of arrest has been executed, the person arrested shall be dealt with in accordance with the procedure specified under section 19;",
+                                        "5": "(ii) a search warrant has been executed, the things found in this search shall, so far as possible, be dealt with in accordance with the procedure specified under sections 17 and 18:"
+                                    }
+                                },
+                                "1": "Provided that in a case where a summon or search warrant received from a contracting State has been executed, the documents or other things produced or things found in the search shall be forwarded to the Court issuing the summons or search-warrant through such authority as the Central Government may, by notification, specify in this behalf.",
+                                "2": "(3) Where a person transferred to a contracting State pursuant to sub-section (2) is a prisoner in India, the Special Court or the Central Government may impose such conditions as that Court or Government deems fit.",
+                                "3": "(4) Where the person transferred to India pursuant to sub-section (1) is a prisoner in a contracting State, the Special Court in India shall ensure that the conditions subject to which the prisoner is transferred to India are complied with and such prisoner shall be kept in such custody subject to such conditions as the Central Government may direct in writing."
+                            }
+                        }
+                    }
+                },
+                "Section 60.": {
+                    "heading": "Attachment, seizure and confiscation, etc., of property in a contracting State or India.",
+                    "paragraphs": {
+                        "0": "(1) Where the Director has made an order for attachment of any 1[property under section 5 or for freezing under sub-section (1A) of section 17 or where an Adjudicating Authority has made an order relating to a property under section 8 or where a Special Court has made an order of confiscation relating to a property under sub-section (5) or sub section (6) of section 8] and such property is suspected to be in a contracting State, the Special Court, on an application by the Director or the Administrator appointed under sub-section (1) of section 10, as the case may be , may issue a letter of request to a court or an authority in the contracting State for execution of such order.",
+                        "1": "(2) Where a letter of request is received by the Central Government from a court or an authority in a contracting State requesting 2[attachment, seizure, freezing or confiscation] of the property in India, derived or obtained, directly or indirectly, by any person from the commission of an offence under 3[a corresponding law] committed in that contracting State, the Central Government may forward such letter of request to the Director, as it thinks fit, for execution in accordance with the provisions of this Act.",
+                        "2": "4[(2A) Where on closure of the criminal case or conclusion of trial in a criminal court outside India under the corresponding law of any other country, such court finds that the offence of money-laundering under the corresponding law of that country has been committed, the 1[Special Court] shall, on receipt of an application from the Director for execution of confiscation under sub-section (2), order, after giving notice to the affected persons, that such property involved in money-laundering or which has been used for commission of the offence of money-laundering stand confiscated to the Central Government.]",
+                        "3": "(3) The Director shall, on receipt of a letter of request under section 58 or section 59, direct any authority under this Act to take all steps necessary for tracing and identifying such property.",
+                        "4": "(4) The steps referred to in sub-section (3) may include any inquiry, investigation or survey in respect of any person, place, property, assets, documents, books of account in any bank or public financial institutions or any other relevant matters.",
+                        "5": "(5) Any inquiry, investigation or survey referred to in sub-section (4) shall be carried out by an authority mentioned in sub-section (3) in accordance with such directions issued in accordance with the provisions of this Act.",
+                        "6": "(6) The provisions of this Act relating to attachment, adjudication, confiscation and vesting of property in the Central Government contained in Chapter III and survey, searches and seizures contained in Chapter V shall apply to the property in respect of which letter of request is received from a court or contracting State for attachment or confiscation of property.",
+                        "7": "2[(7) When any property in India is confiscated as a result of execution of a request from a contracting State in accordance with the provisions of this Act, the Central Government may either return such property to the requesting State or compensate that State by disposal of such property on mutually agreed terms that would take into account deduction for reasonable expenses incurred in investigation, prosecution or judicial proceedings leading to the return or disposal of confiscated property.]"
+                    }
+                },
+                "Section 61.": {
+                    "heading": "Procedure in respect of letter of request.",
+                    "paragraphs": {
+                        "0": "Every letter of request, summons or warrant, received by the Central Government from, and every letter of request, summons or warrant, to be transmitted to a contracting State under this Chapter shall be transmitted to a contracting State or, as the case may be, sent to the concerned Court in India and in such form and in such manner as the Central Government may, by notification, specify in this behalf."
+                    }
+                }
+            }
+        },
+        "9": {
+            "ID": "CHAPTER X",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 62.": {
+                    "heading": "Punishment for vexatious search.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Any authority or officer exercising powers under this Act or any rules made thereunder, who, without reasons recorded in writing,\u2014",
+                            "contains": {
+                                "0": "(a) searches or causes to be searched any building or place; or",
+                                "1": "(b) detains or searches or arrests any person,"
+                            }
+                        },
+                        "1": "shall for every such offence be liable on conviction for imprisonment for a term which may extend to two years or fine which may extend to fifty thousand rupees or both."
+                    }
+                },
+                "Section 63.": {
+                    "heading": "Punishment for false information or failure to give information, etc.",
+                    "paragraphs": {
+                        "0": "(I) Any person wilfully and maliciously giving false information and so causing an arrest or a search to be made under this Act shall on conviction be liable for imprisonment for a term which may extend to two years or with fine which may extend to fifty thousand rupees or both.",
+                        "1": {
+                            "text": "(2) If any person,\u2014",
+                            "contains": {
+                                "0": "(a) being legally bound to state the truth of any matter relating to an offence under section 3, refuses to answer any question put to him by an authority in the exercise of its powers under this Act; or",
+                                "1": "(b) refuses to sign any statement made by him in the course of any proceedings under this Act, which an authority may legally require to sign; or",
+                                "2": "(c) to whom a summon is issued under section 50 either to attend to give evidence or produce books of account or other documents at a certain place and time, omits to attend or produce books of account or documents at the place or time,"
+                            }
+                        },
+                        "2": {
+                            "text": "he shall pay, by way of penalty, a sum which shall not be less than five hundred rupees but which may extend to ten thousand rupees for each such default or failure.",
+                            "contains": {
+                                "0": "(3) No order under this section shall be passed by an authority referred to in sub-section (2) unless the person on whom the penalty is proposed to be imposed is given an opportunity of being heard in the matter by such authority.",
+                                "1": "1[(4) Notwithstanding anything contained in clause (c) of sub-section (2), a person who intentionally disobeys any direction issued under section 50 shall also be liable to be proceeded against under section 174 of the Indian Penal Code (45 of 1860).]"
+                            }
+                        }
+                    }
+                },
+                "Section 64.": {
+                    "heading": "Cognizance of offences.",
+                    "paragraphs": {
+                        "0": "(1) No court shall take cognizance of any offence under section 62 or sub-section (1) of section 63 except with the previous sanction of the Central Government.",
+                        "1": "(2) The Central Government shall, by an order, either give sanction or refuse to give sanction within ninety days of the receipt of the request in this behalf."
+                    }
+                },
+                "Section 65.": {
+                    "heading": "Code of Criminal Procedure, 1973 to apply.",
+                    "paragraphs": {
+                        "0": "The provisions of the Code of Criminal Procedure, 1973 (2 of 1974) shall apply, in so far as they are not inconsistent with the provisions of this Act, to arrest, search and seizure, attachment, confiscation investigation, prosecution and all other proceedings under this Act."
+                    }
+                },
+                "Section 66.": {
+                    "heading": "Disclosure of information.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "2[(1)] The Director or any other authority specified by him by a general or special order in this behalf may furnish or cause to be furnished to\u2014",
+                            "contains": {
+                                "0": "(i) any officer, authority or body performing any functions under any law relating to imposition of any tax, duty or cess or to dealings in foreign exchange, or prevention of illicit traffic in the narcotic drugs and psychotropic substances under the Narcotic Drugs and Psychotropic Substances Act, 1985 (61 of 1985); or",
+                                "1": "(ii) such other officer, authority or body performing functions under any other law as the Central Government may, if in its opinion it is necessary so to do in the public interest, specify, by notification in the Official Gazette, in this behalf, any information received or obtained by such Director or any other authority, specified by him in the performance of their functions under this Act, as may, in the opinion of the Director or the other authority, so specified by him, be necessary for the purpose of the officer, authority or body specified in clause (i) or clause (ii) to perform his or its functions under that law."
+                            }
+                        },
+                        "1": "1[(2) If the Director or other authority specified under sub-section (1) is of the opinion, on the basis of information or material in his possession, that the provisions of any other law for the time being in force are contravened, then the Director or such other authority shall share the information with the concerned agency for necessary action.]"
+                    }
+                },
+                "Section 67.": {
+                    "heading": "Bar of suits in civil courts.",
+                    "paragraphs": {
+                        "0": "No suit shall be brought in any civil court to set aside or modify any proceeding taken or order made under this Act and no prosecution, suit or other proceeding shall lie against the Government or any officer of the Government for anything done or intended to be done in good faith under this Act."
+                    }
+                },
+                "Section 68.": {
+                    "heading": "Notice, etc., not to be invalid on certain grounds.",
+                    "paragraphs": {
+                        "0": "No notice, summons, order, document or other proceeding, furnished or made or issued or taken or purported to have been furnished or made or issued or taken in pursuance of any of the provisions of his Act shall be invalid, or shall be deemed to be invalid merely by reason of any mistake, defect or omission in such notice, summons, order, document or other proceeding if such notice, summons, order, document or other proceeding is in substance and effect in conformity with or according to the intent and purpose of this Act."
+                    }
+                },
+                "Section 69.": {
+                    "heading": "Recovery of fine or penalty.",
+                    "paragraphs": {
+                        "0": "Where any fine or penalty imposed on any person under section 13 or section 63 is not paid within six months from the day of imposition of fine or penalty, the Director or any other officer authorised by him in this behalf may proceed to recover the amount from the said person in the same manner as prescribed in Schedule II of the Income-tax Act, 1961 (43 of 1961) for the recovery of arrears and he or any officer authorised by him in this behalf shall have all the powers of the Tax Recovery Officer mentioned in the said Schedule for the said purpose.]"
+                    }
+                },
+                "Section 70.": {
+                    "heading": "Offences by companies.",
+                    "paragraphs": {
+                        "0": "(1) Where a person committing a contravention of any of the provisions of this Act or of any rule, direction or order made thereunder is a company, every person who, at the time the contravention was committed, was in charge of and was responsible to the company, for the conduct of the business of the company as well as the company, shall be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly:",
+                        "1": "Provided that nothing contained in this sub-section shall render any such person liable to punishment if he proves that the contravention took place without his knowledge or that he exercised all due diligence to prevent such contravention.",
+                        "2": "(2) Notwithstanding anything contained in sub-section (1), where a contravention of any of the provisions of this Act or of any rule, direction or order made thereunder has been committed by a company and it is proved that the contravention has taken place with the consent or connivance of, or is attributable to any neglect on the part of any director, manager, secretary or other officer of any company, such director, manager, secretary or other officer shall also be deemed to be guilty of the contravention and shall be liable to be proceeded against and punished accordingly.",
+                        "3": {
+                            "text": "Explanation 3[1].\u2014For the purposes of this section,\u2014",
+                            "contains": {
+                                "0": "(i) \u201ccompany\u201d means any body corporate and includes a firm or other association of individuals; and",
+                                "1": "(ii) \u201cdirector\u201d, in relation to a firm, means a partner in the firm."
+                            }
+                        },
+                        "4": "1[Explanation 2.\u2014For the removal of doubts, it is hereby clarified that a company may be prosecuted, notwithstanding whether the prosecution or conviction of any legal juridical person shall be contingent on the prosecution or conviction of any individual.]"
+                    }
+                },
+                "Section 71.": {
+                    "heading": "Act to have overriding effect.",
+                    "paragraphs": {
+                        "0": "The provisions of this Act shall have effect notwithstanding anything inconsistent therewith contained in any other law for the time being in force."
+                    }
+                },
+                "Section 72.": {
+                    "heading": "Continuation of proceedings in the event of death or insolvency.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) Where\u2014",
+                            "contains": {
+                                "0": "(a) any property of a persons has been attached under section 8 and no appeal against the order attaching such property has been preferred; or",
+                                "1": {
+                                    "text": "(b) any appeal has been preferred to the Appellate Tribunal, and\u2014",
+                                    "contains": {
+                                        "0": "(i) in a case referred to in clause (a), such person dies or is adjudicated an insolvent before preferring an appeal to the Appellate Tribunal; or",
+                                        "1": "(ii) in a case referred to in clause (b), such person dies or is adjudicated an insolvent during the pendency of the appeal,"
+                                    }
+                                }
+                            }
+                        },
+                        "1": {
+                            "text": "then, it shall be lawful for the legal representatives of such person or the official assignee or the official receiver, as the case may be, to prefer an appeal to the Appellate Tribunal or as the case may be, to continue the appeal before the Appellate Tribunal, in place of such person and the provisions of section 26 shall, so far as may be, apply, or continue to apply, to such appeal.",
+                            "contains": {
+                                "0": {
+                                    "text": "(2) Where\u2014",
+                                    "contains": {
+                                        "0": "(a) after passing of a decision or order by the Appellate Tribunal, no appeal has been preferred to the High court under section 42; or",
+                                        "1": "(b) any such appeal has been preferred to the High Court,\u2014"
+                                    }
+                                }
+                            }
+                        },
+                        "2": {
+                            "text": "then\u2014",
+                            "contains": {
+                                "0": "(i) in a case referred to in clause (a), the person entitled to file the appeal dies or is adjudicated an insolvent before preferring an appeal to the High Court, or",
+                                "1": "(ii) in a case referred to in clause (b), the person who had filed the appeal dies or is adjudicated an insolvent during the pendency of the appeal before the High Court,"
+                            }
+                        },
+                        "3": {
+                            "text": "then, it shall be lawful for the legal representatives of such person, or the official assignee or the official receiver, as the case may be, to prefer an appeal to the High Court or to continue the appeal before the High Court in place of such person and the provisions of section 42 shall, so far as may be, apply, or continue to apply, to such appeal.",
+                            "contains": {
+                                "0": "(3) The powers of the official assignee or the official receiver under sub-section (1) or sub-section (2) shall be exercised by him subject to the provisions of the Presidency-towns Insolvency Act, 1909 (3 of 1909) or the Provincial Insolvency Act, 1920 (5 of 1920), as the case may be."
+                            }
+                        }
+                    }
+                },
+                "Section 73.": {
+                    "heading": "Power to make rules.",
+                    "paragraphs": {
+                        "0": "(1) The Central Government may, by notification, make rules for carrying out the provisions of this Act.",
+                        "1": {
+                            "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the form in which records referred to in this Act may be maintained;",
+                                "1": "2[(aa) the manner of provisional attachment of property under sub-section (1) of section 5;]",
+                                "2": "(b) the manner in which the order and the material referred to in sub-section (2) of section 5 to be maintained;",
+                                "3": "(c) matters in respect of experience of Members under sub-section (3) of section 6;",
+                                "4": "(d) the salaries and allowances payable to and other terms and conditions of service of Members of the Adjudicating Authority under sub-section (9) of section 6;",
+                                "5": "(e) the salaries and allowances payable to and other terms and conditions of service of the officers and employees of the Adjudicating Authority under sub-section (3) of section 7;",
+                                "6": "1[(ee) the manner of seizing or taking possession of property attached under section 5 or frozen under sub-section (1A) of section 17 or under sub-section (4) of section 8;]",
+                                "7": "(f) the manner in which and the conditions subject to which the properties confiscated may be received and managed under sub-section (2) of section 10;",
+                                "8": "(g) the additional matters in respect of which the Adjudicating Authority may exercise the powers of a civil court under clause (f) of sub-section (1) of section 11;",
+                                "9": "2* * * * *",
+                                "10": "(i) 3[the nature and value of transactions and the time within which] the information of transactions under clause (b) of sub- section (1) of section 12 shall be furnished;",
+                                "11": "4* * * * *",
+                                "12": "(jjj) the period of interval in which the reports are sent by the reporting entities or any of its employees under clause (c) of sub-section (2) of section 13;]",
+                                "13": "(k) the procedure and the manner of maintaining and furnishing information under sub-section (1) of section 12 as required under section 15;",
+                                "14": "(l) the manner in which the reasons and the material referred to in sub-section (2) of section 16 shall be maintained;",
+                                "15": "(m) the rules relating to search and seizure under sub-section (1) of section 17;",
+                                "16": "(n) the manner in which the reasons and the material referred to in sub-section (2) of section 17 shall be maintained;",
+                                "17": "(o) the manner in which the reasons and the material referred to in sub-section (2) of section 18 shall be maintained;",
+                                "18": "(p) the manner in which the order and the material referred to in sub-section (2) of section 19 shall be maintained;",
+                                "19": "1[(pp) the manner in which the forwarding of the order for retention or continuation of freezing of the property and the period of keeping such order and material under sub-section (2) of section 20;]",
+                                "20": "(q) the manner in which records authenticated outside India may be received under sub-section (2) of section 22;",
+                                "21": "(r) the form of appeal and the fee for filing such appeal, under sub-section (3) of section 26;",
+                                "22": "1* * * * *",
+                                "23": "(u) the additional matters in respect of which the Appellate Tribunal may exercise the powers of a civil court under clause (i) of sub-section (2) of section 35;",
+                                "24": "2[(ua) conditions subject to which a police officer may be authorised to investigate into an offence under sub-section (1A) of section 45;]",
+                                "25": "(v) the additional matters in respect of which the authorities may exercise powers of a civil court under clause (f) of sub-section (1) of section 50;",
+                                "26": "(w) the rules relating to impounding and custody of records under sub-section (5) of section 50;",
+                                "27": "(x) any other matter which is required to be, or may be, prescribed."
+                            }
+                        }
+                    }
+                },
+                "Section 74.": {
+                    "heading": "Rules to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "Every rule made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule or both Houses agree that the rule should not be made, the rule shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule."
+                    }
+                },
+                "Section 75.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order, published in the Official Gazette, make such provisions not inconsistent with the provisions of this Act as may appear to be necessary for removing the difficulty:",
+                        "1": "Provided that no order shall be made under this section after the expiry of two years from the commencement of this Act.",
+                        "2": "(2) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {
+        "THE SCHEDULE": {
+            "0": {
+                "text": "THE SCHEDULE",
+                "contains": {
+                    "0": {
+                        "text": "[See section 2(y)]",
+                        "contains": {
+                            "0": "1[PART A",
+                            "1": "PARAGRAPH 1"
+                        }
+                    }
+                }
+            },
+            "1": {
+                "text": "OFFENCES UNDER THE INDIAN PENAL CODE",
+                "contains": {
+                    "0": "(45 OF 1860)"
+                }
+            },
+            "2": "Section Description of offence",
+            "3": "120B Criminal conspiracy.",
+            "4": "121 Waging or attempting to wage war or abetting waging of war, against the Government of India.",
+            "5": "121A Conspiracy to commit offences punishable by section 121 against the State.",
+            "6": "255 Counterfeiting Government stamp.",
+            "7": "257 Making or selling instrument for counterfeiting Government stamp.",
+            "8": "258 Sale of counterfeit Government stamp.",
+            "9": "259 Having possession of counterfeit Government stamp.",
+            "10": "260 Using as genuine a Government stamp known to be counterfeit.",
+            "11": "302 Murder.",
+            "12": "304 Punishment for culpable homicide not amounting to murder.",
+            "13": "307 Attempt to murder.",
+            "14": "308 Attempt to commit culpable homicide.",
+            "15": "327 Voluntarily causing hurt to extort property, or to constrain to an illegal act.",
+            "16": "329 Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act.",
+            "17": "364A Kidnapping for ransom, etc.",
+            "18": "384 to 389 Offences relating to extortion.",
+            "19": "392 to 402 Offences relating to robbery and dacoity.",
+            "20": "411 Dishonestly receiving stolen property.",
+            "21": "412 Dishonestly receiving property stolen in the commission of a dacoity.",
+            "22": "413 Habitually dealing in stolen property.",
+            "23": "414 Assisting in concealment of stolen property.",
+            "24": "417 Punishment for cheating.",
+            "25": {
+                "text": "418 Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect.",
+                "contains": {
+                    "0": "Punishment for cheating by personation. 419 Cheating and dishonestly inducing delivery of property. 420 Dishonest or fraudulent removal or concealment of property to prevent distribution among 421 creditors."
+                }
+            },
+            "26": "Section Description of offence",
+            "27": "422 Dishonestly or fraudulently preventing debt being available for creditors.",
+            "28": "423 Dishonest or fraudulent execution of deed of transfer containing false statement of consideration.",
+            "29": "424 Dishonest or fraudulent removal or concealment of property.",
+            "30": "467 Forgery of valuable security, will, etc.",
+            "31": "471 Using as genuine a forged document or electronic record.",
+            "32": "472 and 473 Making or possessing counterfeit seal, etc., with intent to commit forgery.",
+            "33": "475 and 476 Counterfeiting device or mark.",
+            "34": "481 Using a false property mark.",
+            "35": "482 Punishment for using a false property mark.",
+            "36": "483 Counterfeiting a property mark used by another.",
+            "37": "484 Counterfeiting a mark used by a public servant.",
+            "38": "485 Making or possession of any instrument for counterfeiting a property mark.",
+            "39": "486 Selling goods marked with a counterfeit property mark.",
+            "40": "487 Making a false mark upon any receptacle containing goods.",
+            "41": "488 Punishment for making use of any such false mark.",
+            "42": "489A Counterfeiting currency notes or bank notes.",
+            "43": {
+                "text": "489B Using as genuine, forged or counterfeit currency notes or bank notes.",
+                "contains": {
+                    "0": "PARAGRAPH 2",
+                    "1": {
+                        "text": "OFFENCES UNDER THE NARCOTIC DRUGS AND PSYCHOTROPIC SUBSTANCES ACT, 1985",
+                        "contains": {
+                            "0": "(61 OF 1985)"
+                        }
+                    }
+                }
+            },
+            "44": "Section Description of offence",
+            "45": "15 Contravention in relation to poppy straw.",
+            "46": "16 Contravention in relation to coca plant and coca leaves.",
+            "47": "17 Contravention in relation to prepared opium.",
+            "48": "18 Contravention in relation to opium poppy and opium.",
+            "49": "19 Embezzlement of opium by cultivator.",
+            "50": "20 Contravention in relation to cannabis plant and cannabis.",
+            "51": "21 Contravention in relation to manufactured drugs and preparations.",
+            "52": "22 Contravention in relation to psychotropic substances.",
+            "53": "23 Illegal import into India, export from India or transhipment of narcotic drugs and psychotropic substances.",
+            "54": "Section Description of offence",
+            "55": "24 External dealings in narcotic drugs and psychotropic substances in contravention of section 12 of the Narcotic Drugs and Psychotropic Substances Act, 1985.",
+            "56": "25A Contravention of orders made under section 9A of the Narcotic Drugs and Psychotropic Substances Act, 1985.",
+            "57": "27A Financing illicit traffic and harbouring offenders.",
+            "58": {
+                "text": "29 Abetment and criminal conspiracy.",
+                "contains": {
+                    "0": "PARAGRAPH 3",
+                    "1": {
+                        "text": "OFFENCES UNDER THE EXPLOSIVE SUBSTANCES ACT,1908",
+                        "contains": {
+                            "0": "(6 OF 1908)"
+                        }
+                    }
+                }
+            },
+            "59": "Section Description of offence",
+            "60": "3 Causing explosion likely to endanger life or property.",
+            "61": {
+                "text": "4 Attempt to cause explosion, or for making or keeping explosives with intent to endanger life or property. 5 Making or possessing explosives under suspicious circumstances.",
+                "contains": {
+                    "0": "PARAGRAPH 4",
+                    "1": {
+                        "text": "OFFENCES UNDER THE UNLAWFUL ACTIVITIES (PREVENTION) ACT, 1967",
+                        "contains": {
+                            "0": "(37 OF 1967)"
+                        }
+                    }
+                }
+            },
+            "62": "Section Description of offence",
+            "63": "10 read with section 3 Penalty for being member of an unlawful association, etc.",
+            "64": "11 read with section 3 Penalty for dealing with funds of an unlawful association.",
+            "65": "13 read with section 3 Punishment for unlawful activities.",
+            "66": "16 read with section 15 Punishment for terrorist act.",
+            "67": "16A Punishment for making demands of radioactive substances, nuclear devices, etc.",
+            "68": "17 Punishment for raising funds for terrorist act.",
+            "69": "18 Punishment for conspiracy, etc.",
+            "70": "18A Punishment for organising of terrorist camps.",
+            "71": "18B Punishment for recruiting of any person or persons for terrorist act.",
+            "72": "19 Punishment for harbouring, etc.",
+            "73": "20 Punishment for being member of terrorist gang or organisation.",
+            "74": "21 Punishment for holding proceeds of terrorism.",
+            "75": "38 Offence relating to membership of a terrorist organisation.",
+            "76": "39 Offence relating to support given to a terrorist organisation.",
+            "77": "Section Description of offence",
+            "78": {
+                "text": "40 Offence of raising fund for a terrorist organisation.",
+                "contains": {
+                    "0": "PARAGRAPH 5",
+                    "1": {
+                        "text": "OFFENCES UNDER THE ARMS ACT, 1959",
+                        "contains": {
+                            "0": "(54 OF 1959)"
+                        }
+                    }
+                }
+            },
+            "79": "Section Description of offence",
+            "80": {
+                "text": "25 To manufacture, sell, transfer, convert, repair or test or prove or expose or offer for sale or transfer or have in his possession for sale, transfer, conversion, repair, test or proof, any arms or ammunition in contravention of section 5 of the Arms Act, 1959.",
+                "contains": {
+                    "0": "To acquire, have in possession or carry any prohibited arms or prohibited ammunition in contravention of section 7 of the Arms Act, 1959.",
+                    "1": "Contravention of section 24A of the Arms Act, 1959 relating to prohibition as to possession of notified arms in disturbed areas, etc.",
+                    "2": "Contravention of section 24B of the Arms Act, 1959 relating to prohibition as to carrying of notified arms in or through public places in disturbed areas.",
+                    "3": "Other offences specified in section 25."
+                }
+            },
+            "81": {
+                "text": "26 To do any act in contravention of any provisions of section 3, 4, 10 or section 12 of the Arms Act, 1959 in such manner as specified in sub-section (1) of section 26 of the said Act.",
+                "contains": {
+                    "0": "To do any act in contravention of any provisions of section 5, 6, 7 or section 11 of the Arms Act, 1959 in such manner as specified in sub-section (2) of section 26 of the said Act.",
+                    "1": "Other offences specified in section 26."
+                }
+            },
+            "82": "27 Use of arms or ammunitions in contravention of section 5 or use of any arms or ammunition in contravention of section 7 of the Arms Act, 1959.",
+            "83": "28 Use and possession of fire arms or imitation fire arms in certain cases.",
+            "84": "29 Knowingly purchasing arms from unlicensed person or for delivering arms, etc., to person not entitled to possess the same.",
+            "85": {
+                "text": "30 Contravention of any condition of a licence or any provisions of the Arms Act, 1959 or any rule made thereunder.",
+                "contains": {
+                    "0": "PARAGRAPH 6",
+                    "1": {
+                        "text": "OFFENCES UNDER THE WILD LIFE (PROTECTION) ACT, 1972",
+                        "contains": {
+                            "0": "(53 OF 1972) Section Description of offence"
+                        }
+                    }
+                }
+            },
+            "86": "51 read with section 9 Hunting of wild animals.",
+            "87": "51 read with section 17A Contravention of provisions of section 17A relating to prohibition of picking, uprooting, etc., of specified plants. 51 read with section 39 Contravention of provisions of section 39 relating to wild animals, etc., to be Government property.",
+            "88": "Section Description of offence",
+            "89": "51 read with section 44 Contravention of provisions of section 44 relating to dealings in trophy and animal articles without licence prohibited.",
+            "90": "51 read with section 48 Contravention of provisions of section 48 relating to purchase of animal, etc., by licensee.",
+            "91": {
+                "text": "51 read with section 49B Contravention of provisions of section 49B relating to prohibition of dealings in trophies, animals articles, etc., derived from scheduled animals.",
+                "contains": {
+                    "0": "PARAGRAPH 7",
+                    "1": {
+                        "text": "OFFENCES UNDER THE IMMORAL TRAFFIC (PREVENTION) ACT, 1956",
+                        "contains": {
+                            "0": "(104 OF 1956)"
+                        }
+                    },
+                    "2": "Section Description of offence"
+                }
+            },
+            "92": "5 Procuring, inducing or taking person for the sake of prostitution.",
+            "93": "6 Detaining a person in premises where prostitution is carried on.",
+            "94": "8 Seducing or soliciting for purpose of prostitution.",
+            "95": {
+                "text": "9 Seduction of a person in custody.",
+                "contains": {
+                    "0": "1[PARAGRAPH 8",
+                    "1": {
+                        "text": "OFFENCES UNDER THE PREVENTION OF CORRUPTION ACT, 1988",
+                        "contains": {
+                            "0": "(49 OF 1988)"
+                        }
+                    }
+                }
+            },
+            "96": "Section Description of offence",
+            "97": "7. Offence relating to public servant being bribed.",
+            "98": "7A. Taking undue advantage to influence public servant by corrupt or illegal means or by exercise of personal influence.",
+            "99": "8. Offence relating to bribing a public servant.",
+            "100": "9. Offence relating to bribing a public servant by a commercial organisation.",
+            "101": "10. Person in charge of commercial organisation to be guilty of offence.",
+            "102": "11. Public servant obtaining undue advantage, without consideration from person concerned in proceeding or business transacted by such public servant.",
+            "103": "12. Punishment for abetment of offences.",
+            "104": "13. Criminal misconduct by a public servant.",
+            "105": {
+                "text": "14 Punishment for habitual offender.]",
+                "contains": {
+                    "0": "PARAGRAPH 9",
+                    "1": {
+                        "text": "OFFENCES UNDER THE EXPLOSIVES ACT, 1884",
+                        "contains": {
+                            "0": "(4 OF 1884)"
+                        }
+                    },
+                    "2": "Section Description of offence",
+                    "3": "9B Punishment for certain offences.",
+                    "4": {
+                        "text": "9C Offences by companies.",
+                        "contains": {
+                            "0": "PARAGRAPH 10",
+                            "1": {
+                                "text": "OFFENCES UNDER THE ANTIQUITIES AND ARTS TREASURES ACT, 1972",
+                                "contains": {
+                                    "0": "(52 OF 1972)"
+                                }
+                            }
+                        }
+                    },
+                    "5": "Section Description of offence",
+                    "6": "25 read with Contravention of export trade in antiquities and art treasures. section 3",
+                    "7": {
+                        "text": "28 Offences by companies.",
+                        "contains": {
+                            "0": "PARAGRAPH 11",
+                            "1": {
+                                "text": "OFFENCES UNDER THE SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992",
+                                "contains": {
+                                    "0": "(15 OF 1992)"
+                                }
+                            }
+                        }
+                    },
+                    "8": "Section Description of offence 12A read with Prohibition of manipulative and deceptive devices, insider trading and section 24 substantial.",
+                    "9": {
+                        "text": "24 Acquisition of securities or control.",
+                        "contains": {
+                            "0": "PARAGRAPH 12",
+                            "1": {
+                                "text": "OFFENCES UNDER THE CUSTOMS ACT, 1962",
+                                "contains": {
+                                    "0": "(52 OF 1962)"
+                                }
+                            }
+                        }
+                    },
+                    "10": "Section Description of offence",
+                    "11": {
+                        "text": "135 Evasion of duty or prohibitions.",
+                        "contains": {
+                            "0": "PARAGRAPH 13",
+                            "1": {
+                                "text": "OFFENCES UNDER THE BONDED LABOUR SYSTEM (ABOLITION) ACT, 1976",
+                                "contains": {
+                                    "0": "(19 OF 1976)"
+                                }
+                            }
+                        }
+                    },
+                    "12": "Section Description of offence",
+                    "13": "16 Punishment for enforcement of bonded labour.",
+                    "14": "18 Punishment for extracting bonded labour under the bonded labour system.",
+                    "15": {
+                        "text": "20 Abetment to be an offence.",
+                        "contains": {
+                            "0": "PARAGRAPH 14",
+                            "1": "OFFENCES UNDER THE CHILD LABOUR (PROHIBITION AND REGULATION) ACT, 1986 (61 OF 1986)"
+                        }
+                    },
+                    "16": {
+                        "text": "Section Description of offence 14 Punishment for employment of any child to work in contravention of the provisions of section 3",
+                        "contains": {
+                            "0": "PARAGRAPH 15",
+                            "1": {
+                                "text": "OFFENCES UNDER THE TRANSPLANTATION OF HUMAN ORGANS ACT, 1994",
+                                "contains": {
+                                    "0": "(42 OF 1994)"
+                                }
+                            }
+                        }
+                    },
+                    "17": "Section Description of offence",
+                    "18": "18 Punishment for removal of human organ without authority.",
+                    "19": "19 Punishment for commercial dealings in human organs.",
+                    "20": {
+                        "text": "20 Punishment for contravention of any other provision of this Act.",
+                        "contains": {
+                            "0": "PARAGRAPH 16",
+                            "1": {
+                                "text": "OFFENCES UNDER THE JUVENILE JUSTICE (CARE AND PROTECTION OF CHILDREN) ACT, 2000",
+                                "contains": {
+                                    "0": "(56 OF 2000)"
+                                }
+                            }
+                        }
+                    },
+                    "21": "Section Description of offence",
+                    "22": "23 Punishment for cruelty to juvenile or child.",
+                    "23": "24 Employment of juvenile or child for begging.",
+                    "24": "25 Penalty for giving intoxicating liquor or narcotic drug or psychotropic substance to juvenile or child.",
+                    "25": {
+                        "text": "26 Exploitation of juvenile or child employee.",
+                        "contains": {
+                            "0": "PARAGRAPH 17 OFFENCES UNDER THE EMIGRATION ACT, 1983 (31 OF 1983)"
+                        }
+                    },
+                    "26": "Section Description of offence 24 Offences and penalties. PARAGRAPH 18 OFFENCES UNDER THE PASSPORTS ACT, 1967 (15 OF 1967)",
+                    "27": {
+                        "text": "Section Description of offence 12 Offences and penalties. PARAGRAPH 19",
+                        "contains": {
+                            "0": "OFFENCES UNDER THE FOREIGNERS ACT, 1946 (31 OF 1946)"
+                        }
+                    },
+                    "28": {
+                        "text": "Section Description of offence 14 Penalty for contravention of provisions of the Act, etc. 14B Penalty for using forged passport. 14C Penalty for abetment.",
+                        "contains": {
+                            "0": "PARAGRAPH 20 OFFENCES UNDER THE COPYRIGHT ACT, 1957 (14 OF 1957)"
+                        }
+                    },
+                    "29": {
+                        "text": "Section Description of offence 63 Offence of infringement of copyright or other rights conferred by this Act. 63A Enhanced penalty on second and subsequent convictions. 63B Knowing use of infringing copy of computer programme. 68A Penalty for contravention of section 52A.",
+                        "contains": {
+                            "0": "PARAGRAPH 21 OFFENCES UNDER THE TRADE MARKS ACT, 1999 (47 OF 1999)"
+                        }
+                    },
+                    "30": "Section Description of offence 103 Penalty for applying false trademarks, trade descriptions, etc. 104 Penalty for selling goods or providing services to which false trademark or false trade description is applied.",
+                    "31": "105 Enhanced penalty on second or subsequent conviction.",
+                    "32": "107 Penalty for falsely representing a trademark as registered.",
+                    "33": {
+                        "text": "120 Punishment of abetment in India of acts done out of India.",
+                        "contains": {
+                            "0": "PARAGRAPH 22",
+                            "1": {
+                                "text": "OFFENCES UNDER THE INFORMATION TECHNOLOGY ACT, 2000",
+                                "contains": {
+                                    "0": "(21 OF 2000)"
+                                }
+                            },
+                            "2": "Section Description of offence",
+                            "3": "72 Penalty for breach of confidentiality and privacy.",
+                            "4": {
+                                "text": "75 Act to apply for offence or contravention committed outside India.",
+                                "contains": {
+                                    "0": "PARAGRAPH 23",
+                                    "1": {
+                                        "text": "OFFENCES UNDER THE BIOLOGICAL DIVERSITY ACT, 2002",
+                                        "contains": {
+                                            "0": "(18 OF 2003)"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "34": "Section Description of offence",
+                    "35": {
+                        "text": "55 read with section 6 Penalties for contravention of section 6, etc.",
+                        "contains": {
+                            "0": "PARAGRAPH 24",
+                            "1": {
+                                "text": "OFFENCES UNDER THE PROTECTION OF PLANT VARIETIES AND FARMERS RIGHTS ACT, 2001",
+                                "contains": {
+                                    "0": "(53 OF 2001)"
+                                }
+                            }
+                        }
+                    },
+                    "36": "Section Description of offence",
+                    "37": "70 read with section 68 Penalty for applying false denomination, etc.",
+                    "38": "71 read with section 68 Penalty for selling varieties to which false denomination is applied.",
+                    "39": "72 read with section 68 Penalty for falsely representing a variety as registered.",
+                    "40": {
+                        "text": "73 read with section 68 Penalty for subsequent offence.",
+                        "contains": {
+                            "0": "PARAGRAPH 25",
+                            "1": {
+                                "text": "OFFENCES UNDER THE ENVIRONMENT PROTECTION ACT, 1986",
+                                "contains": {
+                                    "0": "(29 OF 1986)"
+                                }
+                            }
+                        }
+                    },
+                    "41": "Section Description of offence",
+                    "42": "15 read with section 7 Penalty for discharging environmental pollutants, etc., in excess of prescribed standards.",
+                    "43": {
+                        "text": "15 read with section 8 Penalty for handling hazardous substances without complying with procedural safeguards.",
+                        "contains": {
+                            "0": "PARAGRAPH 26 OFFENCES UNDER THE WATER (PREVENTION AND CONTROL OF POLLUTION) ACT, 1974 (6 OF 1974)"
+                        }
+                    },
+                    "44": {
+                        "text": "Section Description of offence 41 (2) Penalty for pollution of stream or well. 43 Penalty for contravention of provisions of section 24. PARAGRAPH 27",
+                        "contains": {
+                            "0": "OFFENCES UNDER THE AIR (PREVENTION AND CONTROL OF POLLUTION) ACT, 1981 (14 OF 1981)"
+                        }
+                    },
+                    "45": "Section Description of offence 37 Failure to comply with the provisions for operating industrial plant. PARAGRAPH 28 OFFENCES UNDER THE SUPPRESSION OF UNLAWFUL, ACTS AGAINST SAFETY OF MARITIME NAVIGATION AND FIXED PLATFORMS ON CONTINENTAL SHELF ACT, 2002 (69 OF 2002) Section Description of offence 3 Offences against ship, fixed platform, cargo of a ship, maritime navigational facilities, etc.] 1[PARAGRAPH 29 OFFENCE UNDER THE COMPANIES ACT, 2013 (18 OF 2013)",
+                    "46": {
+                        "text": "Section Description of offence 447 Punishment for fraud]",
+                        "contains": {
+                            "0": "2[PART B",
+                            "1": {
+                                "text": "OFFENCE UNDER THE CUSTOMS ACT, 1962",
+                                "contains": {
+                                    "0": "(52 OF 1962)"
+                                }
+                            }
+                        }
+                    },
+                    "47": "Section Description of offence",
+                    "48": {
+                        "text": "132 False declaration, false documents, etc.]",
+                        "contains": {
+                            "0": "3[PART C",
+                            "1": "An offence which is the offence of cross border implications and is specified in,\u2014",
+                            "2": "(1) Part A; or",
+                            "3": "4* * * * *",
+                            "4": "(3) the offences against property under Chapter XVII of the Indian Penal Code (45 of 1860).]",
+                            "5": "5[(4) The offence of wilful attempt to evade any tax, penalty or interest referred to in section 51 of the Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015 (22 of 2015).]"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 5": {
+            "0": "1. 1st July, 2005, vide notification No. G.S.R. 436(E), dated 1st July, 2005, see Gazette of India, Extraordinary, Part II, sec. 3(i).",
+            "1": "2. Subs. by Act 28 of 2016, s. 232, for \u201cestablished under\u201d (w.e.f. 1-6-2016).",
+            "2": "3. Ins. by Act 21 of 2009, s. 2 (w.e.f. 1-6-2009).",
+            "3": "4. Ins. by Act 2 of 2013, s. 2 (w.e.f. 15-2-2013)."
+        },
+        "Page 6": {
+            "0": "1. Ins. by Act 2 of 2013, s. 2 (w.e.f. 15-2-2013).",
+            "1": "2. Clause (ja) omitted by s. 2, ibid. (w.e.f. 15-2-2013).",
+            "2": "3. Subs. by s. 2, ibid., for clause (l) (w.e.f. 15-2-2013).",
+            "3": "4. Subs. by s. 2, ibid., for clause (n) (w.e.f. 15-2-2013).",
+            "4": "5. Ins. by Act 20 of 2005, s. 2 (w.e.f. 1-7-2005).",
+            "5": "6.  The  words  \u201cand  includes  a  person  carrying  on  designated  business  or  profession\u201d  omitted  by  Act  2  of  2013,  s.  2(w.e.f. 15-2-2013)."
+        },
+        "Page 7": {
+            "0": "1. Ins. by Act 21 of 2009, s. 2 (w.e.f. 1-6-2009).",
+            "1": "2. Subs. by Act 2 of 2013, s. 2, for \u201cremits\u201d (w.e.f. 15-2-2013)."
+        },
+        "Page 8": {
+            "0": "1. Ins. by Act 2 of 2013, s. 2 (w.e.f.  15-2-2013).",
+            "1": "2. Ins. by Act 20 of 2015, s. 145 (w.e.f. 14-5-2015).",
+            "2": "3. Ins. by Act 13 of 2018, s. 208 (w.e.f. 19-4-2018).",
+            "3": "4. Subs. by Act 21 of 2009, s. 2, for sub-clause (ii) (w.e.f. 1-6-2009).",
+            "4": "5. Subs. by Act 20 of 2015, s. 145, for \u201cthirty lakh rupees\u201d (w.e.f. 14-5-2015)."
+        },
+        "Page 9": {
+            "0": "1. Subs. by Act 2 of 2013, s. 3, for \u201cproceeds of crime and projecting\u201d (w.e.f.  15-2-2013).",
+            "1": "2. The words \u201cwhich may extend to five lakh rupees\u201d omitted by s. 4, ibid. (w.e.f.  15-2-2013).",
+            "2": "3. Subs. by s. 5, ibid., for sub-section (1) (w.e.f. 15-2-2013)."
+        },
+        "Page 10": {
+            "0": "1. Subs. by Act 20 of 2015, s. 146, for \u201cclause (b)\u201d (w.e.f. 14-5-2015).",
+            "1": "2. Ins. by Act 13 of 2018, s. 208 (w.e.f. 19-4-2018).",
+            "2": "3. Subs. by s. 208, ibid ., for \u201csub-section (2)\u201d (w.e.f. 19-4-2018).",
+            "3": "4. Subs. by Act 21 of 2009, s. 4, for \u201cone or more Adjudicating Authorities\u201d (w.e.f.  1-6-2009)."
+        },
+        "Page 11": {
+            "0": "1. Subs. by Act 21 of 2009, s. 4, for \u201csixty-two\u201d (w.e.f.  1-6-2009)."
+        },
+        "Page 12": {
+            "0": "1. Subs. by Act 21 of 2009, s. 5, for \u201coffence under section 3\u201d (w.e.f. 1-6-2009).",
+            "1": "2. Ins. by Act 2 of 2013, s. 6 (w.e.f. 15-2-2013).",
+            "2": "3. Subs. by s. 6, ibid., for certain words and figures (w.e.f. 15-2-2013)."
+        },
+        "Page 13": {
+            "0": "1. Ins. by Act 13 of 2018, s. 208 (w.e.f. 19-4-2018).",
+            "1": "2. Subs. by Act 7 of 2019, s. 22, for \u201cninety days\u201d (w.e.f. 20-3-2019).",
+            "2": "3. Subs. by Act 2 of 2013, s. 6, for \u201cscheduled offence before a court; and\u201d (w.e.f. 15-2-2013).",
+            "3": "4. Subs. by s. 6, ibid., for clause (b) (w.e.f. 15-2-2013).",
+            "4": "5. Subs. by Act 20 of 2015, s. 147, for \u201cAdjudicating Authority\u201d (w.e.f. 14-5-2015).",
+            "5": "6. Ins. by Act 7 of 2019, s. 22 (w.e.f. 20-3-2019).",
+            "6": "7. Subs. by Act 2 of 2013, s. 6, for \u201cpossession of the attached property\u201d (w.e.f. 15-2-2013).",
+            "7": "8. Subs. by s. 6, ibid., for sub-sections (5) and (6) (w.e.f. 15-2-2013).",
+            "8": "9. Ins. by Act 20 of 2015, s. 147 (w.e.f. 14-5-2015).10. Subs. by Act 2 of 2013, s. 7, for \u201csub-section (6) of section 8\u201d (w.e.f. 15-2-2013)."
+        },
+        "Page 14": {
+            "0": "1. Subs. by Act 2 of 2013, s. 7, for \u201cAdjudicating Authority\u201d (w.e.f. 15-2-2013).",
+            "1": "2. Ins. by s.7, ibid. (w.e.f. 15-2-2013).",
+            "2": "3. Subs. by s. 8, ibid., for \u201csub-section (6) of section 8\u201d (w.e.f. 15-2-2013).",
+            "3": "4. Ins. by Act 14 of 2019, s. 27 (w.e.f. 25-07-2019)."
+        },
+        "Page 15": {
+            "0": "1. Subs. by Act 2 of 2013, s. 9, for section 12 (w.e.f. 15-2-2013).",
+            "1": "2. Clauses (c) and (d) omitted by Act 14 of 2019, s. 28 (w.e.f. 25-07-2019)."
+        },
+        "Page 16": {
+            "0": "1. Ins. by Act 2 of 2013, s. 10 (w.e.f. 15-2-2013).",
+            "1": "2. Subs. by s. 11, ibid., for certain words, brackets and figures (w.e.f. 15-2-2013).",
+            "2": "3. Ins. by s. 11, ibid. (w.e.f. 15-2-2013).",
+            "3": "4. Subs. by s. 11, ibid., for sub-section (2) (w.e.f. 15-2-2013).",
+            "4": "5. The Explanation  inserted by Act 2 of 2013, s. 11 (w.e.f. 15-2-2013).",
+            "5": "6. Subs. by s. 12, ibid., for section 14 (w.e.f. 15-2-2013).",
+            "6": "7. Subs. by s. 13, ibid., for section 15 (w.e.f. 15-2-2013)."
+        },
+        "Page 17": {
+            "0": "1. Subs. by Act 21 of 2009, s. 7, for \u201cthe Director\u201d (w.e.f.  1-6-2009)."
+        },
+        "Page 18": {
+            "0": "1. Ins. by Act 2 of 2013, s. 14 (w.e.f. 15-2-2013).",
+            "1": "2. Subs. by s.14, ibid., for the proviso (w.e.f. 15-2-2013).",
+            "2": "3. Ins. by s. 14, ibid. (w.e.f. 15-2-3013)."
+        },
+        "Page 19": {
+            "0": "1. Subs. by Act 2 of 2013, s. 14, for sub-section (4) (w.e.f. 15-2-2013).",
+            "1": "2. Subs. by s. 15, ibid,. for the proviso (w.e.f. 15-2-2013)."
+        },
+        "Page 20": {
+            "0": "1. The proviso omitted by Act 21 of 2009 s. 8 (w.e.f. 1-6-2009).",
+            "1": "2. Ins. by Act 13 of 2018, s. 208 (w.e.f. 19-4-2018).",
+            "2": "3. Subs. by Act 2 of 2013, s.16, for sections 20 and 21 (w.e.f. 15-2-2013)."
+        },
+        "Page 21": {
+            "0": "1. Subs. by Act 20 of 2015, s. 148, for \u201cthe Court or the Adjudicating Authority, as the case may be\u201d (w.e.f. 14-5-2015).",
+            "1": "2. Subs. by s. 148, ibid., for \u201cCourt\u201d (w.e.f. 14-5-2015).",
+            "2": "3. Ins. by s. 148, ibid. (w.e.f. 14-5-2015).",
+            "3": "4. Subs. by s. 149, ibid., for \u201cunder sub-section (5) or sub-section (7) of section 8\u201d (w.e.f. 14-5-2015).",
+            "4": "5. Subs. by s. 149, ibid., for  certain words, brackets, figures and letters  (w.e.f. 14-5-2015).",
+            "5": "6. Ins. by s. 149, ibid. (w.e.f. 14-5-2015).",
+            "6": "7. Ins. by Act 2 of 2013, s.17 (w.e.f. 15-2-2013)."
+        },
+        "Page 22": {
+            "0": "1. Subs. by Act 2 of 2013, s.18, for certain words and figure (w.e.f. 15-2-2013).",
+            "1": "2. Subs. by s.19, ibid., for section 24 (w.e.f. 15-2-2013).",
+            "2": "3. Subs. by Act 28 of 2016, s. 232, for section 25 (w.e.f. 1-6-2016).",
+            "3": "4. Subs. by Act 2 of 2013, s. 20, for \u201cbanking company, financial institution or intermediary\u201d (w.e.f. 15-2-2013)."
+        },
+        "Page 24": {
+            "0": "1. Subs. by Act 28 of 2016, s. 232, for \u201cChairperson\u201d (w.e.f. 1-6-2016).",
+            "1": "2. Subs. by Act 21 of 2009, s. 11, for \u201cone or more of the other Members\u201d (w.e.f. 1-6-2009)."
+        },
+        "Page 25": {
+            "0": "1. Subs. by Act 2 of 2013, s. 21, for clause (a) (w.e.f. 15-2-2013).",
+            "1": "2. The words \u201cupon perusal of police report of the facts which constitute an offence under this Act or\u201d omitted by Act20 of 2005, s. 6 (w.e.f. 1-7-2005).",
+            "2": "3. Subs. by Act 2 of 2013, s. 21, for \u201ccognizance of the offence for which the accused is committed to it for trial\u201d(w.e.f. 15-2-2013).",
+            "3": "4. Ins. by s. 21, ibid. (w.e.f. 15-2-2013)."
+        },
+        "Page 26": {
+            "0": "1. Subs. by Act 20 of 2005, s. 7, for certain words, figures, brackets and letters (w.e.f. 1-7-2005).",
+            "1": "2. Subs. by Act 13 of 2018, s. 208, for \u201cpunishable for a term of imprisonment of more than three years under Part A of theSchedule\u201d (w.e.f. 19-4-2018).",
+            "2": "3.  Ins. by s. 208 ibid, (w.e.f. 19-4-2018).",
+            "3": "4. Ins. by Act 20 of 2005, s. 7 (w.e.f. 1-7-2005).",
+            "4": "5. The words, brackets and letter \u201cclause (b) of\u201d omitted by s. 7, ibid. (w.e.f. 1-7-2005)."
+        },
+        "Page 27": {
+            "0": "1. Subs. by Act 2 of 2013, s. 22, for \u201cbanking company or a financial institution or a company,\u201d (w.e.f. 15-2-2013)."
+        },
+        "Page 28": {
+            "0": "1. Subs. by Act 13 of 2018, s. 208, for \u201cDirector\u201d (w.e.f. 19-4-2018)."
+        },
+        "Page 29": {
+            "0": "1. Subs. by Act 2 of 2013, s. 23 for \u201cofficers\u201d (w.e.f. 15-2-2013).",
+            "1": "2. Subs. by s. 23, ibid., for clause (d) (w.e.f. 15-2-2013).",
+            "2": "3. Ins. by s. 23, ibid. (w.e.f. 15-2-2013)."
+        },
+        "Page 30": {
+            "0": "1. Subs. by Act 2 of 2013, s. 23, for \u201cbanking companies\u201d (w.e.f. 15-2-2013)."
+        },
+        "Page 31": {
+            "0": "1. Ins. by Act 2 of 2013, s. 24 (w.e.f. 15-2-2013)."
+        },
+        "Page 32": {
+            "0": "1. Subs. by Act 2 of 2013, s. 25, for certain words and figures (w.e.f. 15-2-2013).",
+            "1": "2. Subs. by s. 25, ibid.,for \u201cattachment or confiscation\u201d (w.e.f. 15-2-2013).",
+            "2": "3. Subs. by s. 25, ibid., for \u201csection 3\u201d (w.e.f. 15-2-2013).",
+            "3": "4. Ins. by s. 25, ibid. (w.e.f. 15-2-2013)."
+        },
+        "Page 33": {
+            "0": "1. Subs. by Act 20 of 2015, s. 150, for \u201cAdjudicating Authority\u201d (w.e.f. 14-5-2015).",
+            "1": "2. Ins. by Act 21 of 2009, s. 12 (w.e.f. 1-6-2009)."
+        },
+        "Page 34": {
+            "0": "1. Ins. by Act 2 of 2013, s.26 (w.e.f. 15-2-2013).",
+            "1": "2. Section 66 numbered as sub-section (1)  by Act 13 of 2018, s. 208 (w.e.f. 19-4-2018)."
+        },
+        "Page 35": {
+            "0": "1. Ins. by Act 13 of 2018, s. 208 (w.e.f. 19-4-2018).",
+            "1": "2. Subs. by Act 2 of 2013, s.27, for section 69 (w.e.f. 15-2-2013).",
+            "2": "3. Explanation shall be numbered as Explanation 1 by s.28, ibid. (w.e.f. 15-2-2013)"
+        },
+        "Page 36": {
+            "0": "1. Ins. by Act 2 of 2013, s. 28 (w.e.f. 15-2-2013).",
+            "1": "2. Ins. by s. 29, ibid. (w.e.f. 15-2-2013)."
+        },
+        "Page 37": {
+            "0": "1. Ins. by Act 2 of 2013, s. 29 (w.e.f. 15-2-2013).",
+            "1": "2. Clause (h) omitted by s. 29, ibid. (w.e.f. 15-2-2013).",
+            "2": "3. Subs. by s. 29, ibid., for \u201cthe time within which\u201d (w.e.f. 15-2-2013).",
+            "3": "4. Clauses (j) and (jj) omitted by Act 14 of 2019, s. 29 (w.e.f. 25-07-2019)."
+        },
+        "Page 38": {
+            "0": "1. Clauses (s) and (t) omitted by Act 28 of 2016, s. 232 (w.e.f. 1-6-2016).",
+            "1": "2. Ins. by Act 20 of 2005, s. 8 (w.e.f. 1-7-2005)."
+        },
+        "Page 39": {
+            "0": "1. Subs. by Act 2 of 2013, s.30, for Part A (w.e.f. 15-2-2013)."
+        },
+        "Page 43": {
+            "0": "1. Subs. by Act 16 of 2018, s. 19, for Paragraph 8 (w.e.f. 26-7-2018)."
+        },
+        "Page 48": {
+            "0": "1. Ins. by Act 13 of 2018, s. 208 (w.e.f. 19-4-2018).",
+            "1": "2. Ins. by Act 20 of 2015, s. 151 (w.e.f. 14-5-2015).",
+            "2": "3. Ins. by Act 21 of 2009, s. 13 (w.e.f. 1-6-2009).",
+            "3": "4. Serial number (2) omitted by Act 2 of 2013, s. 30 (w.e.f. 15-2-2013).",
+            "4": "5. Ins. by Act 22 of 2015, s. 88 (w.e.f. 1-4-2016)."
+        }
+    }
+}

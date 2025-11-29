@@ -1,0 +1,474 @@
+{
+    "Act Title": "THE NATIONAL INSTITUTE OF PHARMACEUTICAL EDUCATION AND RESEARCH ACT, 1998",
+    "Act ID": "ACT NO. 13 OF 1998",
+    "Enactment Date": "[26th June, 1998]",
+    "Act Definition": {
+        "0": "An Act to declare the institution known as the National Institute of Pharmaceutical Education and Research to be an institution of national importance and to provide for its incorporation and matters connected therewith."
+    },
+    "Chapters": {
+        "0": {
+            "ID": "CHAPTER I",
+            "Name": "PRELIMINARY",
+            "Sections": {
+                "Section 1.": {
+                    "heading": "Short title and commencement.",
+                    "paragraphs": {
+                        "0": "(1) This Act may be called the National Institute of Pharmaceutical Education and Research Act, 1998.",
+                        "1": "(2) It shall come into force on such date1 as the Central Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different provisions of this Act."
+                    }
+                },
+                "Section 2.": {
+                    "heading": "Declaration of National Institute of Pharmaceutical Education and Research as an institution of national importance.",
+                    "paragraphs": {
+                        "0": "Whereas the objects of the institution known as the National Institute of Pharmaceutical Education and Research, Sector-67, S.A.S. Nagar (Mohali), District Ropar, Punjab are such as to make the institution one of national importance, it is hereby declared that the institution known as the National Institute of Pharmaceutical Education and Research is an institution of national importance."
+                    }
+                },
+                "Section 3.": {
+                    "heading": "Definitions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "In this Act, unless the context otherwise requires,\u2014",
+                            "contains": {
+                                "0": "(a) \u201cappointed day\u201d means the date of establishment of the National Institute of Pharmaceutical Education and Research under sub-section (1) of section 4;",
+                                "1": "(b) \u201cBoard\u201d means the Board of Governors of the Institute constituted under sub-section (3) of section 4;",
+                                "2": "(c) \u201cChairperson\u201d means the Chairperson of the Institute nominated under clause (a) of sub-section (3) of section (4);",
+                                "3": "(d) \u201cDean\u201d means the Dean of the Institute appointed under section 17;",
+                                "4": "(e) \u201cDirector\u201d means the Director of the Institute appointed under section 16;",
+                                "5": "(f) \u201cFund\u201d means the fund of the Institute to be maintained under section 21;",
+                                "6": "2[(g) \u201cInstitute\u201d means a National Institute of Pharmaceutical Education and Research established under sub-section (1) or sub-section (2A) of section 4;]",
+                                "7": "(h) \u201cSenate\u201d means the Senate of the Institute referred to in section 13;",
+                                "8": "(i) \u201cSociety\u201d means the National Institute of Pharmaceutical Education and Research Society, Sector-67, S.A.S. Nagar (Mohali), District Ropar, Punjab registered under the Societies Registration Act, 1860 (21 of 1860);",
+                                "9": "(j) \u201cStatutes\u201d and \u201cOrdinances\u201d mean the Statutes and the Ordinances of the Institute made under this Act."
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "1": {
+            "ID": "CHAPTER II",
+            "Name": "THE INSTITUTE",
+            "Sections": {
+                "Section 4.": {
+                    "heading": "Establishment of Institute.",
+                    "paragraphs": {
+                        "0": "(1) With effect from such date as the Central Government may, by notification in the Official Gazette, appoint, the National Institute of Pharmaceutical Education and Research shall be constituted as a body corporate by the name aforesaid.",
+                        "1": "(2) The Institute shall have perpetual succession and a common seal with power, subject to the provisions of this Act, to acquire, hold and dispose of property and to contract, and shall, by that name, sue and be sued.",
+                        "2": "1[(2A) The Central Government may, by notification in the Official Gazette, establish similar Institutes in different parts of the country.]",
+                        "3": {
+                            "text": "(3) The Institute shall consist of the Board of Governors having the following persons, namely:\u2014",
+                            "contains": {
+                                "0": "(a) a Chairperson, who shall be an eminent academician, scientist or technologist or professional, to be nominated by the Visitor;",
+                                "1": "(b) the Director of the Institute, ex officio;",
+                                "2": "(c) the Joint Secretary, incharge of Pharmaceutical Industries in the concerned Ministry or Department of the Government of India, ex officio;",
+                                "3": "2[(d) the Secretary, Technical Education, Government of the State within which the Institute is situated, ex officio;]",
+                                "4": "(e) the Financial Adviser of the Ministry or Department of the Government of India dealing with the pharmaceutical industries, ex officio;",
+                                "5": "(f) the Drug Controller General of India, Ministry of Health and Family Welfare of the Government of India, ex officio;",
+                                "6": "(g) the Member Secretary, All-India Council for Technical Education, ex officio;",
+                                "7": "(h) the Director of any one of the national laboratories of the Council of Scientific and Industrial Research to be nominated by the Director General of Council of Scientific and Industrial Research, New Delhi;",
+                                "8": "(i) the Director of either the All-India Institute of Medical Sciences, New Delhi or the Post-Graduate Institute of Medical Education and Research, Chandigarh, to be nominated by rotation by the Ministry of Health and Family Welfare of the Government of India;",
+                                "9": "(j) the President, Indian Drugs Manufacturers\u2019 Association, ex officio;",
+                                "10": "1[(ja) a representative of the Pharmacy Council of India;]",
+                                "11": "(k) the President, Organisation of Pharmaceutical Producers of India, ex officio;",
+                                "12": "(l) three eminent pharmaceutical experts, one of whom shall be an educationist, a research scientist and a biotechnologist, to be nominated by the Central Government;",
+                                "13": "(m) three eminent public persons or social workers one of whom shall be either from the Scheduled Castes or the Scheduled Tribes to be nominated by the Visitor out of a panel prepared by the Central Government;",
+                                "14": "(n) two pharmaceutical industrialists to be nominated by the Visitor out of a panel prepared by the Central Government;",
+                                "15": "(o) three Members of Parliament, two from Lok Sabha to be nominated by the Speaker of Lok Sabha and one from Rajya Sabha to be nominated by the Chairman of Rajya Sabha."
+                            }
+                        },
+                        "4": "(4) The term of office of the Chairperson and Governors other than ex officio Governors shall be three years and they shall be entitled for such allowances as may be determined by the Central Government:",
+                        "5": "1[Provided that the term of office of a member nominated under clause (o) of sub-section (3) shall come to an end as soon as he becomes a Minister or Minister of State or Deputy Minister, or the Speaker or the Deputy Speaker of the House of the People, or the Deputy Chairman of the Council of States, or ceases to be a member of the House from which he was nominated.]",
+                        "6": "(5) The term of office of Governor nominated to fill a casual vacancy shall continue for the remainder of the term of the Governor in whose place he has been nominated.",
+                        "7": "(6) The Board shall meet at least three times in a year at such place and time and observe such rules of procedure in regard to the transaction of business at its meetings as may be determined by the Board."
+                    }
+                },
+                "Section 4A.": {
+                    "heading": "Centres of Institute.",
+                    "paragraphs": {
+                        "0": "An Institute, with the prior approval of the Central Government, may, by notification in the Official Gazette, establish one or more centres in different locations within its jurisdiction.]"
+                    }
+                },
+                "Section 5.": {
+                    "heading": "Vesting of properties.",
+                    "paragraphs": {
+                        "0": "On and from the appointed day, subject to the other provisions of this Act, all properties which had vested in the Society, immediately before the commencement of this Act, shall, on and from such commencement, vest in the Institute."
+                    }
+                },
+                "Section 6.": {
+                    "heading": "Effect of incorporation of Institute.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "On and from the appointed day,\u2014",
+                            "contains": {
+                                "0": "(a) any reference to the Society in any contract or other instrument shall be deemed as a reference to the Institute;",
+                                "1": "(b) all the rights and liabilities of the Society shall be transferred to, and be the rights and liabilities of, the Institute; and",
+                                "2": "(c) every person employed by the Society immediately before the appointed day shall hold office or service in the Institute by the same tenure, at the same remuneration and upon the same terms and conditions and with the same rights and privileges as to pension, leave, gratuity, provident fund and other matters as he would have held the same if this Act had not been passed, and shall continue to be so unless and until his employment is terminated or until such tenure, remuneration and terms and condition are duly altered by the Statutes:",
+                                "3": "Provided that if the alteration so made is not acceptable to such employee, his employment may be terminated by the Institute in accordance with the terms of the contract with the employee or, if no provision is made therein in this behalf, on payment to him by the Institute of compensation equivalent to three months\u2019 remuneration in the case of permanent employee and one month\u2019s remuneration in the case of other employee."
+                            }
+                        }
+                    }
+                },
+                "Section 7.": {
+                    "heading": "Functions of Institute.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The functions of the Institute shall be\u2014",
+                            "contains": {
+                                "0": "(i) to nurture and promote quality and excellence in pharmaceutical education and research;",
+                                "1": "(ii) to concentrate on courses leading to master's degree, doctoral and post-doctoral courses and research in pharmaceutical education;",
+                                "2": "(iii) to hold examinations and grant degrees;",
+                                "3": "(iv) to confer honorary awards or other distinctions;",
+                                "4": "(v) to cooperate with educational or other institutions having objects wholly or partly similar to those of the Institute by exchange of faculty members and scholars and generally in such manner as may be conducive to their common objective;",
+                                "5": "(vi) to conduct courses for teachers, pharmaceutical technologists, community and hospital pharmacists and other professionals;",
+                                "6": "(vii) to collect and maintain world literature on pharmaceutical and related sciences and technology so as to develop an information centre of its own kind for other institutions within the country and in the developing world;",
+                                "7": "(viii) to create a central faculty of pharmaceutical instrumentation and analysis for use by the researchers within and outside the Institute;",
+                                "8": "(ix) to have a centre to experiment and innovate and to train teachers and other workers in the art or science of pharmaceutical teaching;",
+                                "9": "(x) to develop a world level centre for creation of new knowledge and transmission of existing information in pharmaceutical areas, with focus on national, educational, professional and industrial commitments;",
+                                "10": "(xi) to develop a multi-disciplinary approach in carrying out research and training of pharmaceutical manpower so that the larger interests of the profession, academia and pharmaceutical industry are better served and a pharmaceutical work culture is evolved which is in tune with the changing world trends and patterns of pharmaceutical education and research;",
+                                "11": "(xii) to organise national or international symposia, seminars and conferences in selected areas of pharmaceutical education, from time to time;",
+                                "12": "(xiii) to arrange courses catering to the special needs of the developing countries;",
+                                "13": "(xiv) to act as a nucleus for interaction between academic and industry by encouraging exchange of scientist and other technical staff between the Institute and the industry and by undertaking sponsored and funded research as well as consultancy projects by the Institute; and",
+                                "14": "(xv) to pay due attention to studies on the distribution and usage of drugs by the rural masses, taking into account the socio-economic spectrum in the country."
+                            }
+                        }
+                    }
+                },
+                "Section 8.": {
+                    "heading": "Powers of Board.",
+                    "paragraphs": {
+                        "0": "(1) Subject to the provisions of this Act, the Board shall be responsible for the general superintendence, direction and control of the affairs of the Institute and shall exercise all the powers not otherwise provided for by this Act, the Statutes and the Ordinances, and shall have the power to review the acts of the Senate.",
+                        "1": {
+                            "text": "(2) Without prejudice to the provisions of sub-section (1), the Board shall\u2014",
+                            "contains": {
+                                "0": "(a) take decisions on questions of policy relating to the administration and working of the Institute;",
+                                "1": "(b) fix, demand and receive fees and other charges;",
+                                "2": "(c) supervise and control the residence and regulate the discipline of students of the Institute and to make arrangements for promoting their health, general welfare and cultural and corporate life;",
+                                "3": "(d) institute academic and other posts and to make appointments thereto (except in the case of the Director);",
+                                "4": "(e) frame Statutes and Ordinances and to alter, modify or rescind the same;",
+                                "5": "(f) institute and award fellowship, scholarship, prizes and medals;",
+                                "6": "(g) consider and pass resolutions on the annual report, the annual accounts and the budget estimates of the Institute for the next financial year as it thinks fit together with a statement of its development plans; and",
+                                "7": "(h) do all such things as may be necessary, incidental or conducive to the attainment of all or any of the aforesaid powers."
+                            }
+                        },
+                        "2": "(3) The Board shall have the power to appoint such committees as it considers necessary for the exercise of its powers and the performance of its duties under this Act.",
+                        "3": "(4) Notwithstanding anything contained in sub-section (2) of section 4, the Board shall not dispose of in any manner any immovable property without the prior approval of the Central Government."
+                    }
+                },
+                "Section 9.": {
+                    "heading": "Institute to be open to all races, creeds and classes.",
+                    "paragraphs": {
+                        "0": "(1) The Institute shall be open to persons of either sex and of whatever race, creed, caste or class, and no test or condition shall be imposed as to religious belief or profession in admitting or appointing members, students, teachers or workers or in any other connection whatsoever.",
+                        "1": "(2) No bequest, donation or transfer of any property shall be accepted by the Institute which in the opinion of the Board involves conditions or obligations opposed to the spirit and object of this section."
+                    }
+                },
+                "Section 10.": {
+                    "heading": "Teaching at Institute.",
+                    "paragraphs": {
+                        "0": "All teaching at the Institute shall be conducted by or in the name of the Institute in accordance with the Statutes and the Ordinances made in this behalf."
+                    }
+                },
+                "Section 11.": {
+                    "heading": "Visitor.",
+                    "paragraphs": {
+                        "0": "(1) The President of India shall be the Visitor of the Institute.",
+                        "1": "(2) The Visitor may appoint one or more persons to review the work and progress of the Institute and to hold inquiries into the affairs thereof and to report thereon in such manner as the Visitor may direct.",
+                        "2": "(3) Upon receipt of any such report, the Visitor may take such action and issue such directions as he considers necessary in respect of any of the matters dealt with in the report and the Institute shall be bound to comply with such directions."
+                    }
+                },
+                "Section 12.": {
+                    "heading": "Authorities of Institute.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The following shall be the other authorities of the Institute, namely:\u2014 (a) a Senate;",
+                            "contains": {
+                                "0": "(b) such other authorities as may be declared by the Statutes to be the authorities of the Institute."
+                            }
+                        }
+                    }
+                },
+                "Section 13.": {
+                    "heading": "Senate.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "The Senate of the Institute shall consist of the following persons, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the Director, ex officio, who shall be the Chairperson of the Senate;",
+                                "1": "(b) the Dean, ex officio;",
+                                "2": "(c) five professors of the Institute, to be nominated by the Chairperson in consultation with the Director, by rotation;",
+                                "3": "(d) three persons, not being employees of the Institute, to be nominated by the Chairperson in consultation with the Director, from among educationists of repute, one each from the fields of science, engineering and humanities and one of them shall be either from the Scheduled Castes or from the Scheduled Tribes; and",
+                                "4": "(e) such other members of the staff as may be laid down in the Statutes."
+                            }
+                        }
+                    }
+                },
+                "Section 14.": {
+                    "heading": "Functions of Senate.",
+                    "paragraphs": {
+                        "0": "Subject to the provisions of this Act, the Statutes and the Ordinances, the Senate of the Institute shall have the control and general regulation, and be responsible for the maintenance of standards of instruction, education and examination in the Institute and shall exercise such other powers and perform such other duties as may be conferred or imposed upon it by the Statutes."
+                    }
+                },
+                "Section 15.": {
+                    "heading": "Functions, powers and duties of Chairperson.",
+                    "paragraphs": {
+                        "0": "(1) The Chairperson shall ordinarily preside at the meetings of the Board and at the Convocations of the Institute.",
+                        "1": "(2) It shall be the duty of the Chairperson to ensure that the decisions taken by the Board are implemented.",
+                        "2": "(3) The Chairperson shall exercise such other powers and perform such other duties as may be assigned to him by this Act or the Statutes."
+                    }
+                },
+                "Section 16.": {
+                    "heading": "Director.",
+                    "paragraphs": {
+                        "0": "(1) The Director of the Institute shall be appointed by the Board with the prior approval of the Visitor.",
+                        "1": "(2) The Director shall be the principal academic and executive officer of the Institute and shall be responsible for the proper administration and academic performance of the Institute and for imparting of instruction and maintenance of discipline therein.",
+                        "2": "(3) The Director shall submit annual reports and accounts to the Board.",
+                        "3": "(4) The Director shall exercise such other powers and perform such other duties as may be assigned to him by this Act or the Statutes or the Ordinances."
+                    }
+                },
+                "Section 17.": {
+                    "heading": "Dean.",
+                    "paragraphs": {
+                        "0": "(1) The Dean of the Institute shall be appointed on such terms and conditions as may be laid down by the Statutes and shall exercise such powers and perform such duties as may be assigned to him by this Act or the Statutes or the Director.",
+                        "1": "(2) The Dean shall report to the Director."
+                    }
+                },
+                "Section 18.": {
+                    "heading": "Registrar.",
+                    "paragraphs": {
+                        "0": "(1) The Registrar of the Institute shall be appointed on such terms and conditions as may be laid down by the Statutes and shall be the custodian of records, the common seal, the funds of the Institute and such other property of the Institute as the Board shall commit to his charge.",
+                        "1": "(2) The Registrar shall act as the Secretary of the Board, the Senate and such committees as may be prescribed by the Statutes.",
+                        "2": "(3) The Registrar shall be responsible to the Director for the proper discharge of his functions.",
+                        "3": "(4) The Registrar shall exercise such other powers and perform such other duties as may be assigned to him by this Act or the Statutes or the Director."
+                    }
+                },
+                "Section 19.": {
+                    "heading": "Powers and duties of other authorities and officers.",
+                    "paragraphs": {
+                        "0": "The powers and duties of authorities and officers, other than those hereinbefore mentioned, shall be determined by the Statutes."
+                    }
+                },
+                "Section 20.": {
+                    "heading": "Grants by Central Government.",
+                    "paragraphs": {
+                        "0": "For the purpose of enabling the Institute to discharge its functions efficiently under this Act, the Central Government may, after due appropriation made by Parliament by law in this behalf, pay to the Institute in each financial year such sums of money and in such manner as it may think fit."
+                    }
+                },
+                "Section 21.": {
+                    "heading": "Fund of Institute.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "(1) The Institute shall maintain a Fund to which shall be credited\u2014",
+                            "contains": {
+                                "0": "(a) all moneys provided by the Central Government;",
+                                "1": "(b) all fees and other charges;",
+                                "2": "(c) all moneys received by the Institute by way of grants, gifts, donations, benefactions, bequests or transfers; and",
+                                "3": "(d) all moneys received by the Institute in any other manner or from any other source."
+                            }
+                        },
+                        "1": "(2) All moneys credited to the Fund shall be deposited in such banks or invested in such manner as the Institute may, with the approval of the Central Government, decide.",
+                        "2": "(3) The Fund shall be applied towards meeting the expenses of the Institute including expenses incurred in the exercise of its powers and discharge of its duties under this Act."
+                    }
+                },
+                "Section 22.": {
+                    "heading": "Setting up of endowment fund.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in section 21, the Central Government may direct the Institute to\u2014",
+                            "contains": {
+                                "0": "(a) set up an endowment fund and any other fund for specified purpose;",
+                                "1": "(b) transfer money from its Fund to endowment fund or any other fund."
+                            }
+                        }
+                    }
+                },
+                "Section 23.": {
+                    "heading": "Accounts and audit.",
+                    "paragraphs": {
+                        "0": "(1) The Institute shall maintain proper accounts and other relevant records and prepare an annual statement of accounts, including the balance-sheet, in such form as may be specified, in accordance with such general directions as may be issued by the Central Government in consultation with the Comptroller and Auditor-General of India.",
+                        "1": "(2) The accounts of the Institute shall be audited by the Comptroller and Auditor-General of India and any expenditure incurred by him in connection with such audit shall be payable by the Institute to the Comptroller and Auditor-General of India.",
+                        "2": "(3) The Comptroller and Auditor-General of India and any person appointed by him in connection with the audit of the accounts of the Institute shall have the same rights, privileges and authority in connection with such audit as the Comptroller and Auditor-General of India has in connection with the audit of the Government accounts, and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect the offices of the Institute.",
+                        "3": "(4) The accounts of the Institute as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government and that Government shall cause the same to be laid before each House of Parliament."
+                    }
+                },
+                "Section 24.": {
+                    "heading": "Pension and provident fund.",
+                    "paragraphs": {
+                        "0": "(1) The Institute shall constitute, for the benefit of its employees, including the Director, in such manner and subject to such conditions as may be prescribed by the Statutes, such pension, insurance and provident funds as it may deem fit.",
+                        "1": "(2) Where any such provident fund has been so constituted, the Central Government may declare that the provisions of the Provident Funds Act, 1925 (19 of 1925) shall apply to such fund as if it were a Government provident fund."
+                    }
+                },
+                "Section 25.": {
+                    "heading": "Appointments.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "All appointments of the staff of the Institute, except that of the Director, shall be made in accordance with the procedure laid down in the Statutes\u2014",
+                            "contains": {
+                                "0": "(a) by the Board, if the appointment is made on the academic staff in the post of Assistant Professor or above or if the appointment is made on the non-academic staff in any cadre, the maximum of the pay-scale for which is the same or higher than that of Assistant Professor; and",
+                                "1": "(b) by the Director, in any other case."
+                            }
+                        }
+                    }
+                },
+                "Section 26.": {
+                    "heading": "Statutes.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the provisions of this Act, the Statutes may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the formation of departments of teaching;",
+                                "1": "(b) the institution of fellowships, scholarships, exhibitions, medals and prizes;",
+                                "2": "(c) the classification, the method of appointment and the determination of the terms and conditions of service of officers, teachers and other staff of the Institute;",
+                                "3": "(d) the reservation of posts for the Scheduled Castes, the Scheduled Tribes and other categories of persons as may be determined by the Central Government, from time to time;",
+                                "4": "(e) the constitution of pension, insurance and provident funds for the benefit of the officers, teachers and other staff of the Institute;",
+                                "5": "(f) the constitution, powers and duties of the authorities of the Institute;",
+                                "6": "(g) the establishment and maintenance of halls and hostels;",
+                                "7": "(h) the manner of filling vacancies among members of the Board;",
+                                "8": "(i) the authentication of the orders and decisions of the Board;",
+                                "9": "(j) the meetings of the Senate, the quorum at such meetings and the procedure to be followed in the conduct of their business; and",
+                                "10": "(k) any other matter which by this Act is to be, or may be, prescribed by the Statutes."
+                            }
+                        }
+                    }
+                },
+                "Section 27.": {
+                    "heading": "Statutes how made.",
+                    "paragraphs": {
+                        "0": "(1) The first Statutes of the Institute shall be framed by the Board with the previous approval of the Visitor and a copy of the same shall be laid as soon as may be before each House of Parliament.",
+                        "1": "(2) The Board may, from time to time, make new or additional Statutes or may amend or repeal the Statutes in the manner hereafter in this section provided.",
+                        "2": "(3) A new Statute or addition to the Statutes or any amendment or repeal of a Statute shall require the previous approval of the Visitor who may assent thereto or withhold assent or remit it to the Board for consideration.",
+                        "3": "(4) A new Statute or a Statute amending or repealing an existing Statute shall have no validity unless it has been assented to by the Visitor."
+                    }
+                },
+                "Section 28.": {
+                    "heading": "Ordinances.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Subject to the provisions of this Act and the Statutes, the Ordinances of the Institute may provide for all or any of the following matters, namely:\u2014",
+                            "contains": {
+                                "0": "(a) the admission of the students to the Institute;",
+                                "1": "(b) the reservation for the Scheduled Castes, the Scheduled Tribes and other categories of person;",
+                                "2": "(c) the courses of study to be laid down for all degrees of the Institute;",
+                                "3": "(d) the conditions under which students shall be admitted to the degree courses and to the examinations of the Institute and shall be eligible for degrees;",
+                                "4": "(e) the conditions of award of the fellowships, scholarships, exhibitions, medals and prizes;",
+                                "5": "(f) the conditions and mode of appointment and duties of examining bodies, examiners and moderators;",
+                                "6": "(g) the conduct of examinations;",
+                                "7": "(h) the maintenance of discipline among the students of the Institute;",
+                                "8": "(i) the fees to be charged for courses of study in the Institute and for admission to the examinations of degrees of the Institute;",
+                                "9": "(j) the conditions of residence of students of the Institute and the levying of the fees for residence in the halls and hostels and of other charges; and",
+                                "10": "(k) any other matter which by this Act or the Statutes is to be, or may be, provided for by the Ordinances."
+                            }
+                        }
+                    }
+                },
+                "Section 29.": {
+                    "heading": "Ordinances how made.",
+                    "paragraphs": {
+                        "0": "(1) Save as otherwise provided in this section, Ordinances shall be made by the Senate.",
+                        "1": "(2) All Ordinances made by the Senate shall have effect from such date as it may direct, but every Ordinance so made shall be submitted, as soon as may be, to the Board and shall be considered by the Board at its next succeeding meeting.",
+                        "2": "(3) The Board shall have power by resolution to modify or cancel any such Ordinances and such Ordinances shall from the date of such resolution stand modified accordingly or cancelled, as the case may be."
+                    }
+                },
+                "Section 30.": {
+                    "heading": "Tribunal of Arbitration.",
+                    "paragraphs": {
+                        "0": "(1) Any dispute arising out of a contract between the Institute and any of its employees shall, at the request of the employee concerned or at the instance of the Institute, be referred to a Tribunal of Arbitration consisting of one member appointed by the Institute, one member nominated by the employee, and an umpire appointed by the Visitor.",
+                        "1": "(2) The decision of the Tribunal of Arbitration shall be final and shall not be questioned in any court.",
+                        "2": "(3) No suit or proceeding shall lie in any court in respect of any matter which is required by sub- section (1) to be referred to the Tribunal of Arbitration.",
+                        "3": "(4) The Tribunal of Arbitration shall have power to regulate its own procedure.",
+                        "4": "(5) Nothing in any law for the time being in force relating to arbitration shall apply to arbitrations under this section."
+                    }
+                }
+            }
+        },
+        "2": {
+            "ID": "CHAPTER III",
+            "Name": "MISCELLANEOUS",
+            "Sections": {
+                "Section 31.": {
+                    "heading": "Acts and proceedings not to be invalidated by vacancies.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "No act of the Institute or Board or Senate or any other body set up under this Act or the Statutes, shall be invalid merely by reason of\u2014",
+                            "contains": {
+                                "0": "(a) any vacancy in, or defect in, the constitution thereof, or",
+                                "1": "(b) any defect in the election, nomination or appointment of person acting as a member thereof, or",
+                                "2": "(c) any irregularity in its procedure not affecting the merits of the case."
+                            }
+                        }
+                    }
+                },
+                "Section 32.": {
+                    "heading": "Grant of degrees, etc., by Institute.",
+                    "paragraphs": {
+                        "0": "Notwithstanding anything contained in the University Grants Commission Act, 1956 (3 of 1956) or in any other law for the time being in force, the Institute shall have power to grant degrees and other academic distinctions and titles under this Act."
+                    }
+                },
+                "Section 33.": {
+                    "heading": "Sponsored schemes.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Whenever the Institute receives funds from any Government, the University Grants Commission or any other agency sponsoring a scheme to be executed by the Institute, notwithstanding anything in this Act,\u2014",
+                            "contains": {
+                                "0": "(a) the amount received shall be kept by the Institute separately from the Fund of the Institute and utilised only for the purpose of the scheme;",
+                                "1": "(b) the staff required to execute the same shall be recruited in accordance with the terms and conditions stipulated by the sponsoring organisation:"
+                            }
+                        },
+                        "1": "Provided that any money remaining unutilised under clause (a) shall be transferred to the endowment fund created under section 22 of this Act."
+                    }
+                },
+                "Section 34.": {
+                    "heading": "Power to remove difficulties.",
+                    "paragraphs": {
+                        "0": "(1) If any difficulty arises in giving effect to the provisions of this Act, the Central Government may, by order published in the Official Gazette, make such provisions or give such directions not inconsistent with the provisions of this Act, as appears to it to be necessary or expedient for removing the difficulty:",
+                        "1": "Provided that no such order shall be made after the expiry of two years from the appointed day.",
+                        "2": "(2) Every order made under this section shall be laid, as soon as may be after it is made, before each House of Parliament."
+                    }
+                },
+                "Section 35.": {
+                    "heading": "Transitional provisions.",
+                    "paragraphs": {
+                        "0": {
+                            "text": "Notwithstanding anything contained in this Act,\u2014",
+                            "contains": {
+                                "0": "(a) the Board of Governors of the Society functioning as such immediately before the commencement of this Act shall continue to so function until a new Board is constituted for the Institute under this Act, but on the constitution of a new Board under this Act, the members of the Board holding office before such constitution shall cease to hold office;",
+                                "1": "(b) until the first Statutes and the Ordinances are made under this Act, the Statutes and the Ordinances of the National Institute of Pharmaceutical Education and Research, Sector-67, S.A.S. Nagar (Mohali), District Ropar, Punjab as in force, immediately before the commencement of this Act, shall continue to apply to the Institute in so far as they are not inconsistent with the provisions of this Act."
+                            }
+                        }
+                    }
+                },
+                "Section 36.": {
+                    "heading": "Statutes and Ordinances to be published in the Official Gazette and to be laid before Parliament.",
+                    "paragraphs": {
+                        "0": "(1) Every Statute or Ordinance made under this Act shall be published in the Official Gazette.",
+                        "1": "(2) Every Statute or Ordinance made under this Act shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the Statute or Ordinance or both Houses agree that the Statute or Ordinance should not be made, the Statute or Ordinance shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that Statute or Ordinance.",
+                        "2": "(3) The power to make the Statutes or the Ordinances shall include the power to give retrospective effect from a date not earlier than the date of commencement of this Act to the Statutes or the Ordinances or any of them but no retrospective effect shall be given to any Statute or Ordinance so as to prejudicially affect the interests of any person to whom such Statute or Ordinance may be applicable."
+                    }
+                },
+                "Section 37.": {
+                    "heading": "Repeal and saving.",
+                    "paragraphs": {
+                        "0": "(1) The National Institute of Pharmaceutical Education and Research Ordinance, 1998 (Ord. 9 of 1998) is hereby repealed.",
+                        "1": "(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance, shall be deemed to have been done or taken under this Act."
+                    }
+                }
+            }
+        }
+    },
+    "Schedule": {},
+    "Annexure": {},
+    "Appendix": {},
+    "Forms": {},
+    "Footnotes": {
+        "Page 3": {
+            "0": "1. 8th July, 1998, vide notification No. S.O. 1412(E), dated 7th July, 1998, see Gazette of India, Extraordinary, Part II, sec. 3(ii).",
+            "1": "2. Subs. by Act 19 of 2007, s. 2, for clause (g) (w.e.f. 29-1-2007)."
+        },
+        "Page 4": {
+            "0": "1. Ins. by Act 19 of 2007, s. 3 (w.e.f. 29-1-2007).",
+            "1": "2. Subs. by s. 3, ibid., for clause (d) (w.e.f. 29-1-2007)."
+        },
+        "Page 5": {
+            "0": "1. Ins. by Act 28 of 2002, s. 2 (w.e.f. 27-5-2002).",
+            "1": "2. Ins. by Act 19 of 2007, s. 4 (w.e.f. 29-1-2007)."
+        }
+    }
+}
