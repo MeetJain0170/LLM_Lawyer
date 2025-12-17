@@ -1,16 +1,63 @@
 #!/usr/bin/env python3
 """
-Pack pretraining data into binary format for GPT training.
+Pretraining Data Packing Script (GPT Binary Format)
+
+Purpose:
+--------
+This script converts a preprocessed legal text corpus into a compact binary
+format optimized for GPT-style autoregressive training.
+
+Human-readable text is expensive.
+Binary token streams are fast, memory-efficient, and GPU-friendly.
+This file performs that transformation.
 
 Inputs:
-  ../data/tokenizer/legal_tokenizer.json
-  ../data/processed/final_dataset.jsonl
+-------
+- A trained BPE tokenizer (legal_tokenizer.json)
+- A cleaned JSONL dataset where each line contains a "text" field
 
 Outputs:
-  ../data/pretrain/train.bin
-  ../data/pretrain/val.bin
-  ../data/pretrain/meta.pkl
+--------
+- train.bin : contiguous stream of token IDs for training
+- val.bin   : contiguous stream of token IDs for validation
+- meta.pkl  : metadata required to reconstruct training context
+
+Binary format details:
+----------------------
+- Token IDs are stored as uint32 in a flat, contiguous array
+- No sequence boundaries are preserved
+- The training loop is responsible for slicing fixed-length windows
+- This mirrors the data layout used in large-scale GPT pretraining
+
+Dataset handling:
+-----------------
+- Entire dataset is loaded, shuffled, and split into train/validation
+- Validation size is fixed at ~1% (minimum 1 chunk)
+- Text is encoded chunk-by-chunk, then flattened into a single stream
+
+Why this design:
+----------------
+- Enables fast sequential reads during training
+- Avoids JSON parsing overhead at runtime
+- Matches the memory access patterns expected by Transformer training loops
+- Keeps preprocessing separate from model code (clean separation of concerns)
+
+Assumptions and constraints:
+----------------------------
+- Tokenizer vocabulary matches the model configuration
+- Token IDs fit within uint32
+- Dataset has already been cleaned and normalized
+- This packing step is run exactly once per dataset/tokenizer pair
+
+Important:
+----------
+If the tokenizer changes, this script MUST be rerun.
+Binary files are tokenizer-specific and not forward-compatible.
+
+This file is intentionally simple.
+Its job is not intelligence — it is preparation.
 """
+
 
 import argparse
 import json

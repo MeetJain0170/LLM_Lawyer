@@ -1,13 +1,16 @@
-Read the install.md too for proper guidance
+How to use
 
-Basic (CPU only):
+Install dependencies:
+   cd backend   pip install -r requirements.txt
 
-pip install -r requirements.txt
+Start the backend:
+   cd backend/src   
+   python3 api_server.py
 
-With GPU support:
-pip install -r requirements.txt# Then install PyTorch with CUDA from pytorch.orgpip install -r requirements-gpu.txt
+Open the frontend:
+Option 1: Open frontend/index.html in your browser
+Option 2: Use a local server:
+     cd frontend     
+     python3 -m http.server 8000
 
-Full development setup:
-pip install -r requirements.txtpip install -r requirements-dev.txt
-
-All files include comments and installation notes. The main requirements.txt is organized by category for easier maintenance.
+Then visit http://localhost:8000

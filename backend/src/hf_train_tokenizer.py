@@ -1,21 +1,66 @@
 #!/usr/bin/env python3
 """
-Train a BPE tokenizer from scratch using HuggingFace `tokenizers`
-on the preprocessed legal corpus.
+=============================================================================
+HuggingFace BPE Tokenizer Training Script (Legal Corpus)
+=============================================================================
+
+What this file does:
+--------------------
+This script trains a Byte Pair Encoding (BPE) tokenizer from scratch using
+HuggingFace's `tokenizers` library, specifically for a legal text corpus.
+The resulting tokenizer is saved as a single JSON file and later used
+consistently across pretraining, SFT, and inference.
+
+Why this exists:
+----------------
+- Legal language has domain-specific vocabulary (sections, articles, clauses)
+- Generic tokenizers split legal text poorly
+- Training a custom tokenizer improves compression, consistency, and model
+  performance while reducing sequence length
 
 Input:
-  ../data/processed/final_dataset.jsonl   (each line has a "text" field)
+------
+- A preprocessed JSONL file where each line contains a "text" field
+- The dataset is streamed line-by-line to avoid loading large corpora into RAM
 
 Output:
-  ../data/tokenizer/legal_tokenizer.json
+-------
+- A single tokenizer file: legal_tokenizer.json
+- Stored under ../data/tokenizer/
 
-Usage (from backend/src):
+Tokenizer design choices:
+-------------------------
+- Model: BPE (Byte Pair Encoding)
+- Normalization: Unicode NFKC + lowercasing for canonical text form
+- Pre-tokenization: Simple whitespace (sufficient for structured legal text)
+- Special tokens:
+    <PAD> : padding
+    <UNK> : unknown tokens (required by BPE)
+    <BOS> : beginning of sequence
+    <EOS> : end of sequence
 
-  python3 hf_train_tokenizer.py \
-      --data ../data/processed/final_dataset.jsonl \
-      --vocab 32000
+Post-processing:
+----------------
+- Automatically wraps encoded text with <BOS> and <EOS>
+- Ensures consistency between training and inference pipelines
+
+How it works (high-level):
+--------------------------
+1. Stream text samples from the JSONL dataset
+2. Learn BPE merge rules up to the target vocabulary size
+3. Assign IDs to learned tokens and special tokens
+4. Attach a post-processing template for BOS/EOS handling
+5. Save everything into a single portable JSON file
+
+Assumptions:
+------------
+- The dataset has already been cleaned and preprocessed
+- The "text" field contains the full training string
+- This tokenizer will NOT be changed after model training begins
+
+=============================================================================
+
 """
-
 import argparse
 import json
 from pathlib import Path
