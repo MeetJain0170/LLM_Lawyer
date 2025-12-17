@@ -65,59 +65,77 @@ import torch
 from pathlib import Path
 from tokenizers import Tokenizer
 
-# 1. IMPORT KNOWLEDGE BASE
+# ---------------------------------------------------------
+# 1. IMPORT KNOWLEDGE BASE (The "Expert" Brain)
+# ---------------------------------------------------------
 try:
     from legal_knowledge import search_knowledge_base
 except ImportError:
     print("❌ Critical: legal_knowledge.py not found.")
     sys.exit(1)
 
-# 2. IMPORT INFERENCE CORE
+# ---------------------------------------------------------
+# 2. IMPORT INFERENCE CORE (The "Generative" Brain)
+# ---------------------------------------------------------
 try:
     from infer_cli import generate
     from model import GPT, GPTConfig
+    # Fix for pickle loading issues
     setattr(sys.modules['__main__'], 'GPTConfig', GPTConfig)
 except ImportError:
     print("❌ Failed to import infer_cli or model.")
     sys.exit(1)
 
+# ---------------------------------------------------------
+# 3. APP CONFIGURATION
+# ---------------------------------------------------------
 app = Flask(__name__)
 CORS(app)
 lock = threading.Lock()
 
-# 3. CONFIG & LOADING
 CHECKPOINT_PATH = Path("../checkpoints/sft/legal_llm_sft_final.pt")
 TOKENIZER_PATH  = Path("../data/tokenizer/legal_tokenizer.json")
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
+print(f"🔥 Hardware: {DEVICE}")
+
+# ---------------------------------------------------------
+# 4. LOAD AI MODELS
+# ---------------------------------------------------------
 print(f"📂 Loading Tokenizer from {TOKENIZER_PATH}...")
 tokenizer = Tokenizer.from_file(str(TOKENIZER_PATH))
 
-print(f"📂 Loading Model from {CHECKPOINT_PATH}...")
-ckpt = torch.load(CHECKPOINT_PATH, map_location=DEVICE, weights_only=False)
-model = GPT(ckpt["config"]).to(DEVICE)
-model.load_state_dict(ckpt["model"], strict=True)
-model.eval()
+print(f"📂 Loading SFT Model from {CHECKPOINT_PATH}...")
+try:
+    ckpt = torch.load(CHECKPOINT_PATH, map_location=DEVICE, weights_only=False)
+    model = GPT(ckpt["config"]).to(DEVICE)
+    model.load_state_dict(ckpt["model"], strict=True)
+    model.eval()
+    print("✅ Hybrid Legal System Ready.")
+except Exception as e:
+    print(f"❌ Critical Error loading model: {e}")
+    sys.exit(1)
 
-print("✅ Hybrid Legal System Ready.")
-
-# 4. ROUTES
+# ---------------------------------------------------------
+# 5. API ROUTES
+# ---------------------------------------------------------
 @app.route("/health", methods=["GET"])
 def health():
-    return jsonify({"status": "online", "mode": "hybrid-sft"})
+    return jsonify({"status": "online", "mode": "hybrid-sft", "device": DEVICE})
 
 @app.route("/chat", methods=["POST"])
 def chat():
-    data = request.get_json(force=True)
+    # force=True handles clients that forget 'Content-Type: application/json'
+    data = request.get_json(force=True) 
     user_query = data.get("message", "").strip()
 
     if not user_query:
         return jsonify({"error": "Empty query"}), 400
 
-    # PHASE 1: EXACT MATCH (The "Expert" Check)
+    # --- PHASE 1: EXACT MATCH (The "Expert" Check) ---
+    # We check our trusted database first for perfect accuracy.
     kb_result = search_knowledge_base(user_query)
     if kb_result:
-        # Return verified legal info
         response = (
             f"**{kb_result['title']}**\n\n"
             f"{kb_result['content']}\n\n"
@@ -125,31 +143,45 @@ def chat():
         )
         return jsonify({"response": response})
 
-    # PHASE 2: GENERATIVE FALLBACK (The SFT Model)
+    # --- PHASE 2: GENERATIVE FALLBACK (The SFT Model) ---
     # If the DB doesn't know, we let the AI try.
-    prompt = (
-        f"<|user|>\n{user_query}\n<|assistant|>\n"
-    )
+    
+    # Format matches your training data: <|user|> ... <|assistant|>
+    prompt = f"<|user|>\n{user_query}\n<|assistant|>\n"
 
     ids = tokenizer.encode(prompt).ids
     idx = torch.tensor([ids], dtype=torch.long).to(DEVICE)
 
     with lock, torch.no_grad():
-        out = generate(
-            model=model,
-            idx=idx,
-            tokenizer=tokenizer,
-            max_new_tokens=150, # Keep it short to reduce hallucinations
-        )
+        try:
+            out = generate(
+                model=model,
+                idx=idx,
+                tokenizer=tokenizer,
+                max_new_tokens=150, # Short limit to reduce hallucinations
+            )
+        except Exception as e:
+            return jsonify({"response": f"AI Error: {str(e)}"}), 500
 
     full_text = tokenizer.decode(out[0].tolist())
     
+    # Extract just the answer part
     if "<|assistant|>" in full_text:
         response = full_text.split("<|assistant|>")[-1].strip()
     else:
         response = full_text[len(prompt):].strip()
 
+    # --- CLEANUP PATCH ---
+    # Removes the "confused" artifacts we saw in testing
+    response = response.replace("| >", "").replace("<|", "").strip()
+    
+    # If the model panicked and output nothing or garbage
+    if len(response) < 5:
+        response = "I am analyzing the legal context. Please try asking about specific topics like 'Theft', 'Murder', or 'Privacy'."
+
     return jsonify({"response": response})
 
 if __name__ == "__main__":
+    # Start the server
+    print("🚀 Server running on http://127.0.0.1:5000")
     app.run(host="127.0.0.1", port=5000, debug=False)
