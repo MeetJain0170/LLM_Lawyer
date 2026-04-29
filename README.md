@@ -433,13 +433,7 @@ Always verify legal conclusions with qualified professionals.
 
 ## 🧑‍💻 Author
 
-**Meet Jain**  - Tokenizer, SFT, Quantization, Evaluation.
-
-**Anshul Roy**  - Model building, Pre-training.
-
-**Kevin Patel** = Data Collection, Preprocessing.
-
-**Cleon D'Souza** = API Server building, Frontend UI/UX.
+**Meet Jain**  - Primary author and engineer
 
 **Atlas SkillTech University** - TY B.Tech (AI / ML)  
 
