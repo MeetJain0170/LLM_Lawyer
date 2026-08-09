@@ -450,15 +450,3 @@ Always verify legal conclusions with qualified professionals.
 
 **Atlas SkillTech University** - TY B.Tech (AI / ML)  
 
----
-
-## 📌 Closing Note
-
-This repository documents that construction    
-cleanly, explicitly, and without illusion.
-
-If you understand this codebase,  
-you don’t just *use* LLMs.
-
-You **own the process**.
-
