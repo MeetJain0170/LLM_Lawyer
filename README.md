@@ -448,5 +448,3 @@ Always verify legal conclusions with qualified professionals.
 
 **Meet Jain**  - Primary author and engineer
 
-**Atlas SkillTech University** - TY B.Tech (AI / ML)  
-
