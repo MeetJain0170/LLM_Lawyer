@@ -28,7 +28,7 @@ Trained locally on **WSL + NVIDIA RTX 4070**.
 
 ---
 
-## 🗺️ High-Level Pipeline
+## 🗺️ Pipeline
 
 ```
 
